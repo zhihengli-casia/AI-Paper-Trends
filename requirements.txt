@@ -21,5 +21,6 @@ tqdm
 jupyterlab
 matplotlib
 plotly
+seaborn
 
 PyYAML
