@@ -69,7 +69,7 @@
 
 ```bash
 # 克隆仓库
-git clone [https://github.com/HenryLi-CASIA/AI-Paper-Trends.git](https://github.com/HenryLi-CASIA/AI-Paper-Trends.git)
+git clone [https://github.com/Tulip0201/AI-Paper-Trends.git](https://github.com/Tulip0201/AI-Paper-Trends.git)
 cd AI-Paper-Trends
 
 # 1. 创建 Conda 环境 (推荐 Python 3.10)
@@ -147,7 +147,7 @@ python main.py --config configs/iclr_2025_analysis.yaml
 
 ## 🤝 参与贡献
 
-欢迎通过提交 [Issues](https://github.com/HenryLi-CASIA/AI-Paper-Trends/issues) 或 [[Pull Requests](https://github.com/HenryLi-CASIA/AI-Paper-Trends/pulls) 来报告问题、提出建议或贡献代码。
+欢迎通过提交 [Issues](https://github.com/Tulip0201/AI-Paper-Trends/issues) 或 [Pull Requests](https://github.com/Tulip0201/AI-Paper-Trends/pulls) 来报告问题、提出建议或贡献代码。
 
 ## 📄 许可证
 

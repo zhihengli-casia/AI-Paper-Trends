@@ -68,7 +68,7 @@ It is recommended to use Conda for environment creation and `pip` for installing
 
 ```bash
 # Clone the repository
-git clone [https://github.com/HenryLi-CASIA/AI-Paper-Trends.git](https://github.com/HenryLi-CASIA/AI-Paper-Trends.git)
+git clone [https://github.com/Tulip0201/AI-Paper-Trends.git](https://github.com/Tulip0201/AI-Paper-Trends.git)
 cd AI-Paper-Trends
 
 # 1. Create a new Conda environment (Python 3.10 recommended)
@@ -153,7 +153,7 @@ limit: 100 # Process only the first 100 papers
 
 ## 🤝 Contributing
 
-Contributions are welcome\! Please feel free to report issues, suggest features, or submit code contributions via [Issues](https://github.com/HenryLi-CASIA/AI-Paper-Trends/issues) or [Pull Requests](https://github.com/HenryLi-CASIA/AI-Paper-Trends/pulls).
+Contributions are welcome\! Please feel free to report issues, suggest features, or submit code contributions via [Issues](https://github.com/Tulip0201/AI-Paper-Trends/issues) or [Pull Requests](https://github.com/Tulip0201/AI-Paper-Trends/pulls).
 
 ## 📄 License
 
