@@ -1,0 +1,20 @@
+conference_id: 'ICLR.cc/2025/Conference' 
+fetch_reviews: True                      # 是否获取详细审稿信息
+limit: null                              # 是否分析全部数据，null分析全部，也可以指定具体数字
+
+# 2. 主题建模参数
+topic_modeling:
+  enabled: True
+  min_topic_size: 30                     
+
+# 3. 分析与可视化参数
+analysis:
+  enabled: True 
+  tasks:
+    - 'plot_paper_count'        
+    - 'plot_avg_rating'        
+    - 'plot_decision_breakdown' 
+    - 'generate_summary_table'  
+
+# 4. 输出配置
+output_folder_name: 'iclr_2025_analysis' 

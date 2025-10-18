@@ -1,0 +1,25 @@
+# requirements.txt
+
+# For data fetching from OpenReview
+openreview-py
+
+# Core data science and ML libraries
+pandas
+scikit-learn
+
+# The star of the show: Topic Modeling
+bertopic
+sentence-transformers
+
+# For downloading models from ModelScope
+modelscope
+
+# For beautiful progress bars
+tqdm
+
+# For interactive development and visualization
+jupyterlab
+matplotlib
+plotly
+
+PyYAML
