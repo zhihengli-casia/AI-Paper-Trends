@@ -8,16 +8,24 @@ This framework provides an automated and configurable pipeline for mining resear
 
 ## 📋 Table of Contents
 
-- [📊 Analysis Showcase (ICLR 2025 Example)](#-analysis-showcase-iclr-2025-example)
-- [📂 Project Structure](#-project-structure)
-- [🚀 Quick Start](#-quick-start)
-  - [1. Environment Setup](#1-environment-setup)
-  - [2. Configure Analysis Task](#2-configure-analysis-task)
-  - [3. Run Automated Pipeline](#3-run-automated-pipeline)
-- [🔬 Exploratory Analysis (Jupyter Notebooks)](#-exploratory-analysis-jupyter-notebooks)
-- [💡 Advanced Options](#-advanced-options)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+- [AI Academic Conference Hotspot Analysis Framework](#ai-academic-conference-hotspot-analysis-framework)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [📊 Analysis Showcase (ICLR 2025 Example)](#-analysis-showcase-iclr-2025-example)
+      - [**Topic Hotness Ranking (by Paper Count)**](#topic-hotness-ranking-by-paper-count)
+      - [**Topic Quality Assessment (by Average Reviewer Score)**](#topic-quality-assessment-by-average-reviewer-score)
+      - [**Topic Acceptance Composition (Sorted by Acceptance Rate)**](#topic-acceptance-composition-sorted-by-acceptance-rate)
+      - [**Comprehensive Statistics Table**](#comprehensive-statistics-table)
+  - [📂 Project Structure](#-project-structure)
+  - [🚀 Quick Start](#-quick-start)
+    - [1. Environment Setup](#1-environment-setup)
+    - [2. Configure Analysis Task](#2-configure-analysis-task)
+    - [3. Run Automated Pipeline](#3-run-automated-pipeline)
+  - [🔬 Exploratory Analysis (Jupyter Notebooks)](#-exploratory-analysis-jupyter-notebooks)
+  - [💡 Advanced Options](#-advanced-options)
+    - [Analyzing Different Conferences](#analyzing-different-conferences)
+    - [Quick Testing](#quick-testing)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
 
 ## 📊 Analysis Showcase (ICLR 2025 Example)
 
@@ -68,7 +76,7 @@ It is recommended to use Conda for environment creation and `pip` for installing
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Tulip0201/AI-Paper-Trends.git](https://github.com/Tulip0201/AI-Paper-Trends.git)
+git clone [https://github.com/zhihengli-casia/AI-Paper-Trends.git](https://github.com/zhihengli-casia/AI-Paper-Trends.git)
 cd AI-Paper-Trends
 
 # 1. Create a new Conda environment (Python 3.10 recommended)
@@ -153,7 +161,7 @@ limit: 100 # Process only the first 100 papers
 
 ## 🤝 Contributing
 
-Contributions are welcome\! Please feel free to report issues, suggest features, or submit code contributions via [Issues](https://github.com/Tulip0201/AI-Paper-Trends/issues) or [Pull Requests](https://github.com/Tulip0201/AI-Paper-Trends/pulls).
+Contributions are welcome\! Please feel free to report issues, suggest features, or submit code contributions via [Issues](https://github.com/zhihengli-casia/AI-Paper-Trends/issues) or [Pull Requests](https://github.com/zhihengli-casia/AI-Paper-Trends/pulls).
 
 ## 📄 License
 
