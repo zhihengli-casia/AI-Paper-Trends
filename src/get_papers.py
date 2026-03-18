@@ -1,116 +1,202 @@
 import re
-import time
-from typing import Dict, List, Iterator, Any
 from pathlib import Path
+from typing import Any, Dict, Iterator, List, Tuple
 
 import openreview.api
 import pandas as pd
 from tqdm import tqdm
-import numpy as np
 
-def _extract_paper_data_from_iterator(notes_iterator: Iterator) -> List[Dict]:
-    """Extracts relevant paper fields from an OpenReview note iterator."""
-    papers_list = []
+from src.utils import build_raw_output_path, ensure_directories, extract_content_value
+
+DECISION_PATTERN = re.compile(r"/(Meta_Review|Decision)$")
+REVIEW_PATTERN = re.compile(r"/Official_Review$")
+
+
+def _get_note_field(note: Any, field_name: str, default: Any = None) -> Any:
+    if isinstance(note, dict):
+        return note.get(field_name, default)
+    return getattr(note, field_name, default)
+
+
+def _get_note_content(note: Any) -> Dict[str, Any]:
+    return _get_note_field(note, "content", {}) or {}
+
+
+def _get_note_invitations(note: Any) -> List[str]:
+    invitations = _get_note_field(note, "invitations", []) or []
+    return list(invitations)
+
+
+def _get_note_replies(note: Any) -> Tuple[List[Any], bool]:
+    details = _get_note_field(note, "details")
+    if isinstance(details, dict) and "replies" in details:
+        return details.get("replies") or [], True
+    return [], False
+
+
+def _normalize_list_field(value: Any) -> List[str]:
+    if isinstance(value, list):
+        return value
+    if isinstance(value, str) and value.strip():
+        return [value.strip()]
+    return []
+
+
+def _parse_rating_value(rating_value: Any) -> int | None:
+    if isinstance(rating_value, str):
+        match = re.search(r"^\d+", rating_value.strip())
+        if match:
+            return int(match.group(0))
+        return None
+    if isinstance(rating_value, (int, float)):
+        return int(rating_value)
+    return None
+
+
+def _extract_review_details(related_notes: List[Any]) -> Dict[str, Any]:
+    ratings: List[int] = []
+    decision = "N/A"
+
+    for note in related_notes:
+        invitations = _get_note_invitations(note)
+        content = _get_note_content(note)
+
+        if any(DECISION_PATTERN.search(invitation) for invitation in invitations):
+            decision_value = extract_content_value(content, "decision")
+            if decision_value:
+                decision = str(decision_value)
+
+        if any(REVIEW_PATTERN.search(invitation) for invitation in invitations):
+            parsed_rating = _parse_rating_value(extract_content_value(content, "rating"))
+            if parsed_rating is not None:
+                ratings.append(parsed_rating)
+
+    avg_rating = round(sum(ratings) / len(ratings), 2) if ratings else None
+    return {
+        "decision": decision,
+        "review_ratings": ratings,
+        "avg_rating": avg_rating,
+    }
+
+
+def _extract_paper_data_from_iterator(
+    notes_iterator: Iterator[Any], include_replies: bool = False
+) -> Tuple[List[Dict[str, Any]], bool]:
+    """Extracts paper fields and optionally review metadata from an OpenReview note iterator."""
+    papers_list: List[Dict[str, Any]] = []
+    embedded_replies_found = False
+
     for note in notes_iterator:
-        content = note.content
-        papers_list.append({
-            'id': note.id,
-            'title': content.get('title', {}).get('value', 'N/A'),
-            'abstract': content.get('abstract', {}).get('value', 'N/A'),
-            'keywords': content.get('keywords', {}).get('value', []),
-            'authors': content.get('authors', {}).get('value', [])
-        })
-    return papers_list
+        content = _get_note_content(note)
+        paper = {
+            "id": _get_note_field(note, "id"),
+            "title": extract_content_value(content, "title", "N/A"),
+            "abstract": extract_content_value(content, "abstract", "N/A"),
+            "keywords": _normalize_list_field(extract_content_value(content, "keywords", [])),
+            "authors": _normalize_list_field(extract_content_value(content, "authors", [])),
+        }
 
-def get_rich_paper_details(client: openreview.api.OpenReviewClient, submissions: List[Dict]) -> List[Dict]:
-    """Enriches paper data with review ratings and decisions."""
+        if include_replies:
+            replies, has_embedded_replies = _get_note_replies(note)
+            embedded_replies_found = embedded_replies_found or has_embedded_replies
+            paper.update(_extract_review_details(replies))
+
+        papers_list.append(paper)
+
+    return papers_list, embedded_replies_found
+
+
+def get_rich_paper_details(
+    client: openreview.api.OpenReviewClient, submissions: List[Dict[str, Any]]
+) -> List[Dict[str, Any]]:
+    """Fallback path that enriches paper data with review ratings and decisions paper by paper."""
     for paper in tqdm(submissions, desc="Fetching detailed review information"):
         try:
-            related_notes = client.get_notes(forum=paper['id'])
-        except Exception as e:
-            print(f"Warning: Could not fetch details for paper {paper['id']}. Error: {e}")
+            related_notes = client.get_notes(forum=paper["id"])
+        except Exception as exc:
+            print(f"Warning: Could not fetch details for paper {paper['id']}. Error: {exc}")
+            paper.update({"decision": "N/A", "review_ratings": [], "avg_rating": None})
             continue
 
-        ratings = []
-        decision = 'N/A'
-        for note in related_notes:
-            is_decision_note = any(re.search(r'/Meta_Review|/Decision$', inv) for inv in note.invitations)
-            if is_decision_note:
-                decision_value = note.content.get('decision', {}).get('value')
-                if decision_value: 
-                    decision = decision_value
-
-            is_review_note = any(re.search(r'/Official_Review$', inv) for inv in note.invitations)
-            if is_review_note:
-                rating_value = note.content.get('rating', {}).get('value')
-                if isinstance(rating_value, str):
-                    match = re.search(r'^\d+', rating_value)
-                    if match: 
-                        ratings.append(int(match.group(0)))
-                elif isinstance(rating_value, (int, float)):
-                    ratings.append(int(rating_value))
-
-        paper['decision'] = decision
-        paper['review_ratings'] = ratings
-        paper['avg_rating'] = round(np.mean(ratings), 2) if ratings else None
-        time.sleep(1.1)  # Rate limit to avoid overwhelming the API
+        paper.update(_extract_review_details(related_notes))
     return submissions
 
-def get_all_papers(client: openreview.api.OpenReviewClient, conference_id: str) -> List[Dict]:
+
+def get_all_papers(
+    client: openreview.api.OpenReviewClient,
+    conference_id: str,
+    include_replies: bool = False,
+) -> Tuple[List[Dict[str, Any]], bool]:
     """Fetches all papers for a conference, trying multiple methods."""
-    invitation_id = f'{conference_id}/-/Submission'
+    details = "replies" if include_replies else None
+    invitation_id = f"{conference_id}/-/Submission"
     print(f"--> Attempting with Invitation ID: '{invitation_id}'")
+
     try:
-        notes_iterator = client.get_all_notes(invitation=invitation_id)
-        papers = _extract_paper_data_from_iterator(tqdm(notes_iterator, desc="Processing papers (Invitation)"))
-        if papers: 
-            return papers
-    except Exception as e:
-        print(f"    - Invitation ID method failed: {e}")
+        notes_iterator = client.get_all_notes(invitation=invitation_id, details=details)
+        papers, embedded_replies_found = _extract_paper_data_from_iterator(
+            tqdm(notes_iterator, desc="Processing papers (Invitation)"),
+            include_replies=include_replies,
+        )
+        if papers:
+            return papers, embedded_replies_found
+    except Exception as exc:
+        print(f"    - Invitation ID method failed: {exc}")
 
     print(f"\n--> Falling back to Venue ID: '{conference_id}'")
     try:
-        notes_iterator = client.get_all_notes(content={'venueid': conference_id})
-        papers = _extract_paper_data_from_iterator(tqdm(notes_iterator, desc="Processing papers (Venue ID)"))
-        if papers: 
-            return papers
-    except Exception as e:
-        print(f"    - Venue ID method failed: {e}")
-    return []
+        notes_iterator = client.get_all_notes(content={"venueid": conference_id}, details=details)
+        papers, embedded_replies_found = _extract_paper_data_from_iterator(
+            tqdm(notes_iterator, desc="Processing papers (Venue ID)"),
+            include_replies=include_replies,
+        )
+        if papers:
+            return papers, embedded_replies_found
+    except Exception as exc:
+        print(f"    - Venue ID method failed: {exc}")
 
-def main(config: Dict[str, Any], raw_data_dir: Path) -> Path:
+    return [], False
+
+
+def main(config: Dict[str, Any], raw_data_dir: Path) -> Path | None:
     """Main function to be called as a module for fetching paper data."""
-    conference_id = config['conference_id']
-    fetch_reviews = config.get('fetch_reviews', False)
-    limit = config.get('limit', None)
+    conference_id = config["conference_id"]
+    fetch_reviews = config.get("fetch_reviews", False)
+    limit = config.get("limit")
 
-    client = openreview.api.OpenReviewClient(baseurl='https://api2.openreview.net')
-    submissions_data = get_all_papers(client, conference_id)
-    
+    ensure_directories(raw_data_dir)
+
+    client = openreview.api.OpenReviewClient(baseurl="https://api2.openreview.net")
+    submissions_data, embedded_replies_found = get_all_papers(
+        client,
+        conference_id,
+        include_replies=fetch_reviews,
+    )
+
     if not submissions_data:
         print("\nCould not fetch any paper data.")
         return None
 
-    if limit and limit > 0:
+    if limit:
         print(f"\nLimiting to the first {limit} papers as requested.")
         submissions_data = submissions_data[:limit]
 
-    if fetch_reviews:
-        print("\nFetching review details as requested...")
+    if fetch_reviews and not embedded_replies_found:
+        print("\nEmbedded replies were not available. Falling back to per-paper review fetching...")
         final_data = get_rich_paper_details(client, submissions_data)
     else:
         final_data = submissions_data
 
     print(f"\nProcessed {len(final_data)} papers.")
     df = pd.DataFrame(final_data)
-    
-    safe_conf_name = conference_id.replace('/', '_').replace('.', '')
-    suffix = "_reviews" if fetch_reviews else ""
-    limit_suffix = f"_limit{limit}" if limit else ""
-    output_filename = f"{safe_conf_name}_papers{suffix}{limit_suffix}.jsonl"
-    output_path = raw_data_dir / output_filename
-    
-    df.to_json(output_path, orient='records', lines=True)
+
+    output_path = build_raw_output_path(
+        conference_id=conference_id,
+        raw_data_dir=raw_data_dir,
+        fetch_reviews=fetch_reviews,
+        limit=limit,
+    )
+    df.to_json(output_path, orient="records", lines=True, force_ascii=False)
     print(f"Data successfully saved to: {output_path}")
-    
+
     return output_path
