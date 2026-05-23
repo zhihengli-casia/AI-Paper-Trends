@@ -10,6 +10,7 @@ This framework provides an automated and configurable pipeline for mining resear
 
 - [AI Academic Conference Hotspot Analysis Framework](#ai-academic-conference-hotspot-analysis-framework)
   - [📋 Table of Contents](#-table-of-contents)
+  - [🧭 Fine-Grained Topic Atlas](#-fine-grained-topic-atlas)
   - [📊 Analysis Showcase (ICLR 2025 Example)](#-analysis-showcase-iclr-2025-example)
       - [**Topic Hotness Ranking (by Paper Count)**](#topic-hotness-ranking-by-paper-count)
       - [**Topic Quality Assessment (by Average Reviewer Score)**](#topic-quality-assessment-by-average-reviewer-score)
@@ -26,6 +27,20 @@ This framework provides an automated and configurable pipeline for mining resear
     - [Quick Testing](#quick-testing)
   - [🤝 Contributing](#-contributing)
   - [📄 License](#-license)
+
+## 🧭 Fine-Grained Topic Atlas
+
+Browse the latest multi-conference topic atlas here:
+
+**[AI Paper Topic Atlas](docs/topic-atlas/README.md)**
+
+The atlas is organized as **year -> venue -> topic -> paper**. It currently covers 117,100 accepted/main-track papers from 84 venue-year groups, with 5,183 fine-grained topics. Each venue-year page links to topic pages, and each topic page lists representative papers plus paper-level links.
+
+Example path:
+
+`2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
+
+The atlas was generated from cached paper embeddings using venue-year independent fine-grained clustering. See [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) and [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) for the reproducible pipeline.
 
 ## 📊 Analysis Showcase (ICLR 2025 Example)
 
