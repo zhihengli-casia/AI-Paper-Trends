@@ -22,10 +22,6 @@ data/
 models/
 results/
 
-# Keep lightweight, reviewable result artifacts in documentation.
-!docs/results/
-!docs/results/**
-
 # Build artifacts and Packaging
 *.egg-info/
 build/

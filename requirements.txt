@@ -4,22 +4,12 @@
 openreview-py
 
 # Core data science and ML libraries
-numpy
 pandas
-scipy
 scikit-learn
-networkx
 
 # The star of the show: Topic Modeling
 bertopic
-hdbscan
-umap-learn
 sentence-transformers
-
-# Public metadata crawling and HTML parsing
-requests
-beautifulsoup4
-lxml
 
 # For downloading models from ModelScope
 modelscope
@@ -32,8 +22,5 @@ jupyterlab
 matplotlib
 plotly
 seaborn
-
-# Markdown table export in reporting scripts
-tabulate
 
 PyYAML
