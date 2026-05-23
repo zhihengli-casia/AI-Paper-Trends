@@ -4,13 +4,34 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+## AI 论文数据库索引
+
+**从这里开始浏览：[AI Paper Topic Atlas](docs/topic-atlas/README.md)**
+
+数据库按照 **年份 -> 会议 -> 主题 -> 论文** 组织。目前覆盖 **117,100 篇主会接收论文**、**84 个会议-年份单元**、**5,183 个细粒度主题**。
+
+快速入口：
+
+| 入口 | 链接 |
+|---|---|
+| 总图谱 | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
+| 2026 年论文 | [docs/topic-atlas/2026/README.md](docs/topic-atlas/2026/README.md) |
+| ICLR 2026 主题列表 | [docs/topic-atlas/2026/ICLR/README.md](docs/topic-atlas/2026/ICLR/README.md) |
+| 示例主题 | [ICLR 2026：可验证奖励驱动的大模型推理](docs/topic-atlas/2026/ICLR/topic-004.md) |
+| 主题 CSV 索引 | [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) |
+| 会议-年份 CSV 汇总 | [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
+
+示例路径：
+
+`2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
+
 本框架提供自动化、可配置的流程，用于从顶级AI会议（如 ICLR, NeurIPS, ICML）论文中挖掘研究热点。通过配置文件驱动，可执行数据获取、主题建模与结果可视化。
 
 ## 📋 目录
 
 - [AI 学术会议热点分析框架](#ai-学术会议热点分析框架)
+  - [AI 论文数据库索引](#ai-论文数据库索引)
   - [📋 目录](#-目录)
-  - [🧭 细粒度主题图谱](#-细粒度主题图谱)
   - [📊 分析示例 (ICLR 2025)](#-分析示例-iclr-2025)
       - [**主题热度排序 (按论文数)**](#主题热度排序-按论文数)
       - [**主题质量评估 (按平均审稿分)**](#主题质量评估-按平均审稿分)
@@ -26,21 +47,6 @@
     - [分析不同会议](#分析不同会议)
   - [🤝 参与贡献](#-参与贡献)
   - [📄 许可证](#-许可证)
-
-
-## 🧭 细粒度主题图谱
-
-最新的多会议主题图谱入口：
-
-**[AI Paper Topic Atlas](docs/topic-atlas/README.md)**
-
-图谱按照 **年份 -> 会议 -> 主题 -> 论文** 组织。目前覆盖 84 个会议-年份单元、117,100 篇主会接收论文、5,183 个细粒度主题。每个会议-年份页面可以进入主题页；每个主题页列出代表论文和该主题下的论文外链。
-
-示例路径：
-
-`2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
-
-该图谱由缓存论文 embedding 生成，按会议-年份独立聚类。可复现流程见 [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) 和 [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py)。
 
 ## 📊 分析示例 (ICLR 2025)
 

@@ -4,13 +4,34 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+## AI Paper Database Index
+
+**Start here: [AI Paper Topic Atlas](docs/topic-atlas/README.md)**
+
+Browse the paper database as **year -> venue -> topic -> paper**. The current index covers **117,100 accepted/main-track papers**, **84 venue-year groups**, and **5,183 fine-grained topics**.
+
+Quick links:
+
+| Entry | Link |
+|---|---|
+| Full atlas | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
+| 2026 papers | [docs/topic-atlas/2026/README.md](docs/topic-atlas/2026/README.md) |
+| ICLR 2026 topics | [docs/topic-atlas/2026/ICLR/README.md](docs/topic-atlas/2026/ICLR/README.md) |
+| Example topic | [ICLR 2026: 可验证奖励驱动的大模型推理](docs/topic-atlas/2026/ICLR/topic-004.md) |
+| Topic CSV index | [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) |
+| Venue-year CSV summary | [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
+
+Example path:
+
+`2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
+
 This framework provides an automated and configurable pipeline for mining research hotspots from papers submitted to top AI conferences (e.g., ICLR, NeurIPS, ICML). Driven by configuration files, it can execute data fetching, topic modeling, and results visualization.
 
 ## 📋 Table of Contents
 
 - [AI Academic Conference Hotspot Analysis Framework](#ai-academic-conference-hotspot-analysis-framework)
+  - [AI Paper Database Index](#ai-paper-database-index)
   - [📋 Table of Contents](#-table-of-contents)
-  - [🧭 Fine-Grained Topic Atlas](#-fine-grained-topic-atlas)
   - [📊 Analysis Showcase (ICLR 2025 Example)](#-analysis-showcase-iclr-2025-example)
       - [**Topic Hotness Ranking (by Paper Count)**](#topic-hotness-ranking-by-paper-count)
       - [**Topic Quality Assessment (by Average Reviewer Score)**](#topic-quality-assessment-by-average-reviewer-score)
@@ -27,20 +48,6 @@ This framework provides an automated and configurable pipeline for mining resear
     - [Quick Testing](#quick-testing)
   - [🤝 Contributing](#-contributing)
   - [📄 License](#-license)
-
-## 🧭 Fine-Grained Topic Atlas
-
-Browse the latest multi-conference topic atlas here:
-
-**[AI Paper Topic Atlas](docs/topic-atlas/README.md)**
-
-The atlas is organized as **year -> venue -> topic -> paper**. It currently covers 117,100 accepted/main-track papers from 84 venue-year groups, with 5,183 fine-grained topics. Each venue-year page links to topic pages, and each topic page lists representative papers plus paper-level links.
-
-Example path:
-
-`2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
-
-The atlas was generated from cached paper embeddings using venue-year independent fine-grained clustering. See [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) and [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) for the reproducible pipeline.
 
 ## 📊 Analysis Showcase (ICLR 2025 Example)
 
