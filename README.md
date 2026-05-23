@@ -8,6 +8,7 @@ The project started as an ICLR 2025 OpenReview analysis pipeline. It has now bee
 
 This is not just a paper list. The goal is to provide a reproducible **topic composition atlas** for major AI conferences: what each venue-year is made of, and how those research themes evolve over time.
 
+<!-- AI-PAPER-TRENDS:START -->
 ## Current Analysis
 
 The latest committed run is an accepted-paper analysis for major AI venues from 2020 to 2026.
@@ -18,7 +19,7 @@ The latest committed run is an accepted-paper analysis for major AI venues from 
 | Venue-year groups | 84 |
 | Papers used for clustering | 117,100 |
 | Venue-year topics | 763 |
-| Broad topic families in the atlas | 15 |
+| Broad topic families in the atlas | 11 |
 | Final outlier papers | 0 |
 | Years covered | 2020-2026 |
 | 2026 accepted-paper data currently included | ICLR, AAAI |
@@ -48,15 +49,12 @@ Committed result tables:
 
 ## Topic Composition Atlas
 
-The repository includes lightweight composition visuals for reading and sharing:
+The repository keeps the visual atlas as linked files instead of embedding large PNGs in the README.
 
-![AI Paper Trends Composition Atlas](docs/visuals/xhs_composition_atlas_2020_2026/00_composition_atlas_cover.png)
-
-- Atlas cover: [docs/visuals/xhs_composition_atlas_2020_2026/00_composition_atlas_cover.png](docs/visuals/xhs_composition_atlas_2020_2026/00_composition_atlas_cover.png)
 - Year-by-year venue composition: [docs/visuals/xhs_composition_atlas_2020_2026/by_year/](docs/visuals/xhs_composition_atlas_2020_2026/by_year/)
 - Venue-by-venue yearly composition: [docs/visuals/xhs_composition_atlas_2020_2026/by_venue/](docs/visuals/xhs_composition_atlas_2020_2026/by_venue/)
 
-Each horizontal composition bar represents all accepted papers from one venue-year. Colors encode broad topic families and segment lengths encode shares. The right-side labels show the leading fine-grained topics; the full fine-grained composition is available in CSV.
+Each horizontal composition bar represents all accepted papers from one venue-year. Colors encode broad topic families and segment lengths encode shares. The right-side labels are only reading aids; the full fine-grained composition is available in CSV.
 
 ## Coverage by Year
 
@@ -85,63 +83,289 @@ Each horizontal composition bar represents all accepted papers from one venue-ye
 
 | Area | Venue | Years | Venue-Year Groups | Papers | Topics | Latest #1 topic |
 |---|---|---:|---:|---:|---:|---|
-| General AI | AAAI | 2020-2026 | 7 | 15,638 | 73 | 2026: 3D vision, Gaussian Splatting, novel-view synthesis, reconstruction (610, 14.70%) |
-| General AI | IJCAI | 2020-2025 | 6 | 5,541 | 48 | 2025: multimodal understanding, vision-language representation, cross-modal alignment (277, 21.64%) |
-| Machine Learning | ICLR | 2020-2026 | 7 | 15,529 | 71 | 2026: video diffusion generation and editing (752, 14.05%) |
-| Machine Learning | ICML | 2020-2025 | 6 | 11,268 | 64 | 2025: efficient LLM inference, compression, resource optimization (446, 13.39%) |
-| Machine Learning | NeurIPS | 2020-2025 | 6 | 19,441 | 79 | 2025: RL-driven LLM reasoning and reward learning (781, 14.77%) |
-| Computer Vision | CVPR | 2020-2025 | 6 | 13,140 | 68 | 2025: text-to-image diffusion, sampling, image editing (458, 15.95%) |
-| Computer Vision | ICCV | 2021-2025 | 3 | 6,469 | 36 | 2025: multimodal/VLM understanding and cross-modal reasoning (460, 17.03%) |
-| Computer Vision | ECCV | 2020-2024 | 3 | 5,390 | 28 | 2024: open-vocabulary detection, segmentation, CLIP semantics (373, 15.63%) |
-| NLP | ACL | 2020-2025 | 6 | 5,902 | 60 | 2025: efficient LLMs, long context, attention, inference optimization (308, 18.13%) |
-| NLP | EMNLP | 2020-2025 | 6 | 6,550 | 56 | 2025: retrieval-augmented LLMs, RAG, knowledge injection, QA (254, 14.04%) |
-| NLP | NAACL | 2021-2025 | 4 | 2,199 | 31 | 2025: LLM social safety, bias, misinformation, detection (126, 17.55%) |
-| Multimedia | ACMMM | 2020-2025 | 6 | 5,006 | 57 | 2025: multimedia retrieval, cross-modal retrieval, semantic matching (197, 15.77%) |
-| Data Mining | KDD | 2020-2025 | 6 | 1,985 | 36 | 2025: graph foundation models, LLM-enhanced graph learning, node representation (122, 22.10%) |
-| Information Retrieval | SIGIR | 2020-2025 | 6 | 1,077 | 23 | 2025: recommendation, preference modeling, feedback learning, personalized ranking (85, 35.56%) |
-| Web / Recommender Systems | WWW | 2020-2025 | 6 | 1,965 | 33 | 2025: retrieval-augmented recommendation, ranking, personalization (40, 25.97%) |
+| General AI | AAAI | 2020-2026 | 7 | 15,638 | 73 | 2026: 三维视觉：Gaussian Splatting、新视角合成与重建 (610, 14.70%) |
+| General AI | IJCAI | 2020-2025 | 6 | 5,541 | 48 | 2025: 多模态理解：视觉语言表征与跨模态对齐 (277, 21.64%) |
+| Machine Learning | ICLR | 2020-2026 | 7 | 15,529 | 71 | 2026: 生成模型：视频扩散生成与编辑 (752, 14.05%) |
+| Machine Learning | ICML | 2020-2025 | 6 | 11,268 | 64 | 2025: 高效大模型：推理加速、压缩与资源优化 (446, 13.39%) |
+| Machine Learning | NeurIPS | 2020-2025 | 6 | 19,441 | 79 | 2025: 大模型推理：RL驱动推理与奖励学习 (781, 14.77%) |
+| Computer Vision | CVPR | 2020-2025 | 6 | 13,140 | 68 | 2025: 生成模型：文生图、扩散采样与图像编辑 (458, 15.95%) |
+| Computer Vision | ICCV | 2021-2025 | 3 | 6,469 | 36 | 2025: 多模态大模型：视觉语言理解与跨模态推理 (460, 17.03%) |
+| Computer Vision | ECCV | 2020-2024 | 3 | 5,390 | 28 | 2024: 开放词汇视觉：开放词汇检测、分割与CLIP语义 (373, 15.63%) |
+| NLP | ACL | 2020-2025 | 6 | 5,902 | 60 | 2025: 高效大模型：长上下文、注意力与推理优化 (308, 18.13%) |
+| NLP | EMNLP | 2020-2025 | 6 | 6,550 | 56 | 2025: 检索增强大模型：RAG、知识注入与问答 (254, 14.04%) |
+| NLP | NAACL | 2021-2025 | 4 | 2,199 | 31 | 2025: 大模型社会安全：偏见、虚假信息与检测 (126, 17.55%) |
+| Multimedia | ACMMM | 2020-2025 | 6 | 5,006 | 57 | 2025: 多媒体检索：跨模态检索、语义匹配与内容理解 (197, 15.77%) |
+| Data Mining | KDD | 2020-2025 | 6 | 1,985 | 36 | 2025: 图基础模型：LLM增强图学习与节点表示 (122, 22.10%) |
+| Information Retrieval | SIGIR | 2020-2025 | 6 | 1,077 | 23 | 2025: 推荐系统：偏好建模、反馈学习与个性化排序 (85, 35.56%) |
+| Web / Recommender Systems | WWW | 2020-2025 | 6 | 1,965 | 33 | 2025: 推荐系统：检索增强推荐、排序与个性化 (40, 25.97%) |
 
-## Recent Topic Examples
+## Latest Top-10 Topics by Venue
 
-### ICLR 2026
+The README shows the latest topics for every venue, up to Top 10, rather than a few hand-picked examples. Complete topic rows for every venue-year are in `topic_summary_by_venue_year.csv` and `venue_year_topic_composition_full.csv`.
 
-| Rank | Topic | Papers | Share |
+<details>
+<summary><strong>AAAI 2026</strong>: latest topics, up to Top 10, 4,149 papers</summary>
+
+| Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
-| 1 | Video diffusion generation and editing | 752 | 14.05% |
-| 2 | Efficient LLM inference, compression, and resource optimization | 691 | 12.91% |
-| 3 | RL-driven LLM reasoning and reward learning | 655 | 12.24% |
-| 4 | Stochastic/non-convex optimization and convergence | 645 | 12.05% |
-| 5 | Multimodal/VLM understanding and reasoning | 625 | 11.68% |
+| 1 | 三维视觉：Gaussian Splatting、新视角合成与重建 | 610 | 14.70% |
+| 2 | 大模型推理：问答、常识与思维链 | 596 | 14.36% |
+| 3 | 强化学习：策略优化、奖励学习与控制 | 463 | 11.16% |
+| 4 | 图学习：图异常检测、聚类与结构表示 | 391 | 9.42% |
+| 5 | 高效大模型：推理加速、压缩与资源优化 | 344 | 8.29% |
+| 6 | 可信安全：对抗攻击、后门、水印与隐私 | 328 | 7.91% |
+| 7 | 多模态大模型：视觉语言理解与跨模态推理 | 295 | 7.11% |
+| 8 | 多模态音视频生成：语音、音乐与情感生成 | 251 | 6.05% |
+| 9 | 视频理解：动作识别、长视频与时序建模 | 216 | 5.21% |
+| 10 | 推荐系统：检索增强推荐、排序与个性化 | 201 | 4.84% |
 
-### AAAI 2026
+</details>
 
-| Rank | Topic | Papers | Share |
+<details>
+<summary><strong>IJCAI 2025</strong>: latest topics, up to Top 10, 1,280 papers</summary>
+
+| Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
-| 1 | 3D vision: Gaussian Splatting and view synthesis | 610 | 14.70% |
-| 2 | LLM reasoning: QA, commonsense, and chain-of-thought | 596 | 14.36% |
-| 3 | Reinforcement learning: policy optimization and reward learning | 463 | 11.16% |
-| 4 | Graph anomaly detection, clustering, and structural representation | 391 | 9.42% |
-| 5 | Efficient LLM inference, compression, and resource optimization | 344 | 8.29% |
+| 1 | 多模态理解：视觉语言表征与跨模态对齐 | 277 | 21.64% |
+| 2 | 强化学习：策略优化、奖励学习与控制 | 235 | 18.36% |
+| 3 | 图学习：图聚类、表示学习与结构匹配 | 164 | 12.81% |
+| 4 | 大模型推理：问答、常识与思维链 | 159 | 12.42% |
+| 5 | 时序建模：时间序列预测、动力系统与基础模型 | 139 | 10.86% |
+| 6 | 优化理论：梯度方法、收敛性与训练动力学 | 119 | 9.30% |
+| 7 | 可信安全：对抗攻击、后门、水印与隐私 | 86 | 6.72% |
+| 8 | 推荐系统：排序、召回与点击率预测 | 65 | 5.08% |
+| 9 | 医疗视觉：医学影像分割、病理与临床影像 | 36 | 2.81% |
 
-### NeurIPS 2025
+</details>
 
-| Rank | Topic | Papers | Share |
+<details>
+<summary><strong>ICLR 2026</strong>: latest topics, up to Top 10, 5,352 papers</summary>
+
+| Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
-| 1 | RL-driven LLM reasoning and reward learning | 781 | 14.77% |
-| 2 | Video diffusion generation and editing | 583 | 11.03% |
-| 3 | Multimodal/VLM understanding and reasoning | 575 | 10.88% |
-| 4 | Bandits, regret bounds, and online decision making | 570 | 10.78% |
-| 5 | Stochastic/non-convex optimization and convergence | 548 | 10.37% |
+| 1 | 生成模型：视频扩散生成与编辑 | 752 | 14.05% |
+| 2 | 高效大模型：推理加速、压缩与资源优化 | 691 | 12.91% |
+| 3 | 大模型推理：RL驱动推理与奖励学习 | 655 | 12.24% |
+| 4 | 优化理论：随机/非凸优化与收敛率 | 645 | 12.05% |
+| 5 | 多模态大模型：视觉语言理解与跨模态推理 | 625 | 11.68% |
+| 6 | 视频理解：动作识别、长视频与时序建模 | 513 | 9.59% |
+| 7 | 大模型评测：人类偏好、任务指标与领域评估 | 372 | 6.95% |
+| 8 | 可信安全：对抗攻击、后门、水印与隐私 | 358 | 6.69% |
+| 9 | 时序建模：时间序列预测、动力系统与基础模型 | 256 | 4.78% |
+| 10 | 检索增强大模型：RAG、知识注入与问答 | 194 | 3.62% |
 
-### CVPR 2025
+</details>
 
-| Rank | Topic | Papers | Share |
+<details>
+<summary><strong>ICML 2025</strong>: latest topics, up to Top 10, 3,330 papers</summary>
+
+| Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
-| 1 | Text-to-image diffusion, sampling, and image editing | 458 | 15.95% |
-| 2 | 3D vision: point clouds, depth estimation, and camera pose | 413 | 14.39% |
-| 3 | Multimodal/VLM understanding and cross-modal reasoning | 349 | 12.16% |
-| 4 | Video diffusion generation and editing | 276 | 9.61% |
-| 5 | Embodied AI: robot manipulation, navigation, and VLA | 253 | 8.81% |
+| 1 | 高效大模型：推理加速、压缩与资源优化 | 446 | 13.39% |
+| 2 | 在线决策：Bandit、后悔界与探索 | 411 | 12.34% |
+| 3 | 多模态大模型：视觉语言理解与跨模态推理 | 344 | 10.33% |
+| 4 | 迁移泛化：域适应、OOD泛化与鲁棒表征 | 330 | 9.91% |
+| 5 | 代码大模型：代码生成、程序理解与评测 | 308 | 9.25% |
+| 6 | 可信安全：对抗攻击、后门、水印与隐私 | 267 | 8.02% |
+| 7 | 生成模型：文生图、扩散采样与图像编辑 | 238 | 7.15% |
+| 8 | 优化理论：随机/非凸优化与收敛率 | 220 | 6.61% |
+| 9 | 因果学习：因果发现、反事实与处理效应 | 181 | 5.44% |
+| 10 | 图学习：GNN、节点分类与链接预测 | 172 | 5.17% |
+
+</details>
+
+<details>
+<summary><strong>NeurIPS 2025</strong>: latest topics, up to Top 10, 5,286 papers</summary>
+
+| Rank | Topic label | Papers | Share |
+|---:|---|---:|---:|
+| 1 | 大模型推理：RL驱动推理与奖励学习 | 781 | 14.77% |
+| 2 | 生成模型：视频扩散生成与编辑 | 583 | 11.03% |
+| 3 | 多模态大模型：视觉语言理解与跨模态推理 | 575 | 10.88% |
+| 4 | 在线决策：Bandit、后悔界与探索 | 570 | 10.78% |
+| 5 | 优化理论：随机/非凸优化与收敛率 | 548 | 10.37% |
+| 6 | 生成模型：文生图、扩散采样与图像编辑 | 538 | 10.18% |
+| 7 | 高效大模型：推理加速、压缩与资源优化 | 414 | 7.83% |
+| 8 | 图基础模型：LLM增强图学习与节点表示 | 235 | 4.45% |
+| 9 | 可信安全：对抗攻击、后门、水印与隐私 | 226 | 4.28% |
+| 10 | 神经科学AI：脑活动建模、EEG与脉冲网络 | 193 | 3.65% |
+
+</details>
+
+<details>
+<summary><strong>CVPR 2025</strong>: latest topics, up to Top 10, 2,871 papers</summary>
+
+| Rank | Topic label | Papers | Share |
+|---:|---|---:|---:|
+| 1 | 生成模型：文生图、扩散采样与图像编辑 | 458 | 15.95% |
+| 2 | 三维视觉：点云、深度估计与相机姿态 | 413 | 14.39% |
+| 3 | 多模态大模型：视觉语言理解与跨模态推理（视觉语言） | 349 | 12.16% |
+| 4 | 生成模型：视频扩散生成与编辑 | 276 | 9.61% |
+| 5 | 具身智能：机器人操作、导航与视觉语言动作 | 253 | 8.81% |
+| 6 | 多模态音视频生成：语音、音乐与情感生成 | 197 | 6.86% |
+| 7 | 多模态大模型：视觉语言理解与跨模态推理（搜索排序） | 196 | 6.83% |
+| 8 | 迁移泛化：域适应、OOD泛化与鲁棒表征 | 170 | 5.92% |
+| 9 | 高效大模型：推理加速、压缩与资源优化 | 169 | 5.89% |
+| 10 | 三维视觉：Gaussian Splatting、新视角合成与重建 | 164 | 5.71% |
+
+</details>
+
+<details>
+<summary><strong>ICCV 2025</strong>: latest topics, up to Top 10, 2,701 papers</summary>
+
+| Rank | Topic label | Papers | Share |
+|---:|---|---:|---:|
+| 1 | 多模态大模型：视觉语言理解与跨模态推理 | 460 | 17.03% |
+| 2 | 三维视觉：点云、深度估计与相机姿态 | 373 | 13.81% |
+| 3 | 生成模型：视频扩散生成与编辑 | 341 | 12.62% |
+| 4 | 底层视觉：超分、去噪、增强与图像复原 | 253 | 9.37% |
+| 5 | 生成模型：文生图、扩散采样与图像编辑 | 252 | 9.33% |
+| 6 | 异常检测：图异常、欺诈检测与时序异常 | 236 | 8.74% |
+| 7 | 迁移泛化：域适应、OOD泛化与鲁棒表征 | 230 | 8.52% |
+| 8 | 具身智能：机器人操作、导航与视觉语言动作 | 227 | 8.40% |
+| 9 | 三维视觉：Gaussian Splatting、新视角合成与重建 | 178 | 6.59% |
+| 10 | 多模态理解：视觉语言表征与跨模态对齐 | 118 | 4.37% |
+
+</details>
+
+<details>
+<summary><strong>ECCV 2024</strong>: latest topics, up to Top 10, 2,387 papers</summary>
+
+| Rank | Topic label | Papers | Share |
+|---:|---|---:|---:|
+| 1 | 开放词汇视觉：开放词汇检测、分割与CLIP语义 | 373 | 15.63% |
+| 2 | 自动驾驶感知：LiDAR、轨迹与三维检测 | 363 | 15.21% |
+| 3 | 三维视觉：Gaussian Splatting、新视角合成与重建 | 342 | 14.33% |
+| 4 | 可信安全：对抗攻击、后门、水印与隐私 | 312 | 13.07% |
+| 5 | 生成模型：文生图、扩散采样与图像编辑 | 269 | 11.27% |
+| 6 | 底层视觉：超分、去噪、增强与图像复原 | 238 | 9.97% |
+| 7 | 三维视觉：点云、深度估计与相机姿态 | 237 | 9.93% |
+| 8 | 多模态大模型：视觉语言理解与跨模态推理 | 206 | 8.63% |
+| 9 | 事件视觉：事件相机、运动估计与时序感知 | 47 | 1.97% |
+
+</details>
+
+<details>
+<summary><strong>ACL 2025</strong>: latest topics, up to Top 10, 1,699 papers</summary>
+
+| Rank | Topic label | Papers | Share |
+|---:|---|---:|---:|
+| 1 | 高效大模型：长上下文、注意力与推理优化 | 308 | 18.13% |
+| 2 | 大模型推理：问答、常识与思维链 | 206 | 12.12% |
+| 3 | 大模型社会安全：偏见、虚假信息与检测 | 186 | 10.95% |
+| 4 | 多模态大模型：视觉语言理解与跨模态推理 | 152 | 8.95% |
+| 5 | 大模型评测：人类偏好、任务指标与领域评估 | 141 | 8.30% |
+| 6 | 语音音频：ASR、说话人与音频理解 | 140 | 8.24% |
+| 7 | 检索增强大模型：RAG、知识注入与问答 | 127 | 7.47% |
+| 8 | 语言模型分析：认知、语言结构与可解释性 | 126 | 7.42% |
+| 9 | 可信安全：对抗攻击、后门、水印与隐私 | 98 | 5.77% |
+| 10 | 代码大模型：代码生成、程序理解与评测 | 87 | 5.12% |
+
+</details>
+
+<details>
+<summary><strong>EMNLP 2025</strong>: latest topics, up to Top 10, 1,809 papers</summary>
+
+| Rank | Topic label | Papers | Share |
+|---:|---|---:|---:|
+| 1 | 检索增强大模型：RAG、知识注入与问答 | 254 | 14.04% |
+| 2 | 大模型训练：微调、数据配方与任务适配 | 251 | 13.88% |
+| 3 | 大模型推理：问答、常识与思维链 | 244 | 13.49% |
+| 4 | 语音音频：ASR、说话人与音频理解 | 239 | 13.21% |
+| 5 | 大模型社会安全：偏见、虚假信息与检测 | 229 | 12.66% |
+| 6 | 多模态大模型：视觉语言理解与跨模态推理 | 223 | 12.33% |
+| 7 | 代码大模型：代码生成、程序理解与评测 | 170 | 9.40% |
+| 8 | 可信安全：对抗攻击、后门、水印与隐私 | 166 | 9.18% |
+| 9 | 医疗大模型：临床推理、医学影像与健康问答 | 33 | 1.82% |
+
+</details>
+
+<details>
+<summary><strong>NAACL 2025</strong>: latest topics, up to Top 10, 718 papers</summary>
+
+| Rank | Topic label | Papers | Share |
+|---:|---|---:|---:|
+| 1 | 大模型社会安全：偏见、虚假信息与检测 | 126 | 17.55% |
+| 2 | 高效大模型：长上下文、注意力与推理优化 | 116 | 16.16% |
+| 3 | 语音音频：ASR、说话人与音频理解 | 97 | 13.51% |
+| 4 | 代码大模型：代码生成、程序理解与评测 | 94 | 13.09% |
+| 5 | 大模型推理：问答、常识与思维链 | 92 | 12.81% |
+| 6 | 检索增强大模型：RAG、知识注入与问答 | 83 | 11.56% |
+| 7 | 多模态大模型：视觉语言理解与跨模态推理 | 63 | 8.77% |
+| 8 | 可信安全：对抗攻击、后门、水印与隐私 | 47 | 6.55% |
+
+</details>
+
+<details>
+<summary><strong>ACMMM 2025</strong>: latest topics, up to Top 10, 1,249 papers</summary>
+
+| Rank | Topic label | Papers | Share |
+|---:|---|---:|---:|
+| 1 | 多媒体检索：跨模态检索、语义匹配与内容理解 | 197 | 15.77% |
+| 2 | 三维视觉：点云、深度估计与相机姿态 | 163 | 13.05% |
+| 3 | 多模态音视频生成：语音、音乐与情感生成 | 162 | 12.97% |
+| 4 | 生成模型：视频扩散生成与编辑 | 143 | 11.45% |
+| 5 | 多媒体安全：Deepfake检测、伪造识别与攻防 | 131 | 10.49% |
+| 6 | 多模态大模型：视觉语言理解与跨模态推理 | 109 | 8.73% |
+| 7 | 多模态理解：视觉语言表征与跨模态对齐 | 107 | 8.57% |
+| 8 | 生成模型：文生图、扩散采样与图像编辑 | 95 | 7.61% |
+| 9 | 图学习：图聚类、表示学习与结构匹配 | 73 | 5.84% |
+| 10 | 医疗视觉：医学影像分割、病理与临床影像 | 69 | 5.52% |
+
+</details>
+
+<details>
+<summary><strong>KDD 2025</strong>: latest topics, up to Top 10, 552 papers</summary>
+
+| Rank | Topic label | Papers | Share |
+|---:|---|---:|---:|
+| 1 | 图基础模型：LLM增强图学习与节点表示 | 122 | 22.10% |
+| 2 | 大模型推理：问答、常识与思维链 | 87 | 15.76% |
+| 3 | 时序建模：时间序列预测、动力系统与基础模型 | 69 | 12.50% |
+| 4 | AI4Science：分子生成、药物发现与化学建模 | 65 | 11.78% |
+| 5 | 推荐系统：偏好建模、反馈学习与个性化排序 | 65 | 11.78% |
+| 6 | 图学习：图异常检测、聚类与结构表示 | 49 | 8.88% |
+| 7 | 在线决策：Bandit、后悔界与探索 | 35 | 6.34% |
+| 8 | 具身智能：机器人操作、导航与视觉语言动作 | 33 | 5.98% |
+| 9 | 联邦大模型微调：LoRA、客户端异构与模型合并 | 27 | 4.89% |
+
+</details>
+
+<details>
+<summary><strong>SIGIR 2025</strong>: latest topics, up to Top 10, 239 papers</summary>
+
+| Rank | Topic label | Papers | Share |
+|---:|---|---:|---:|
+| 1 | 推荐系统：偏好建模、反馈学习与个性化排序 | 85 | 35.56% |
+| 2 | 多媒体检索：跨模态检索、语义匹配与内容理解 | 77 | 32.22% |
+| 3 | 检索增强大模型：RAG、知识注入与问答 | 51 | 21.34% |
+| 4 | 推荐系统：排序、召回与点击率预测 | 26 | 10.88% |
+
+</details>
+
+<details>
+<summary><strong>WWW 2025</strong>: latest topics, up to Top 10, 154 papers</summary>
+
+| Rank | Topic label | Papers | Share |
+|---:|---|---:|---:|
+| 1 | 推荐系统：检索增强推荐、排序与个性化 | 40 | 25.97% |
+| 2 | 图学习：图异常检测、聚类与结构表示 | 36 | 23.38% |
+| 3 | 视觉感知：目标检测、识别与视觉表征 | 32 | 20.78% |
+| 4 | 大模型推理：问答、常识与思维链 | 29 | 18.83% |
+| 5 | 可信安全：对抗攻击、后门、水印与隐私 | 17 | 11.04% |
+
+</details>
+
+## Automatic README Updates
+
+README statistics are generated from the committed CSV artifacts by `src/update_readme_data.py`. When a new venue or year is added to the result CSVs, rerun the script and the coverage tables plus latest Top-10 sections will update automatically.
+
+A GitHub Actions workflow also runs the script when result CSVs change on `main`.
+<!-- AI-PAPER-TRENDS:END -->
+
+
+
+
 
 ## Quick Start
 
@@ -201,10 +425,17 @@ python src/create_xhs_composition_atlas.py \
   --output-dir docs/visuals/xhs_composition_atlas_2020_2026
 ```
 
+Refresh README tables from the committed CSV artifacts:
+
+```bash
+python src/update_readme_data.py
+```
+
 ## Project Structure
 
 ```text
 .
+├── .github/workflows/           # README data auto-update workflow
 ├── configs/                     # Legacy single-venue OpenReview configs
 ├── data/                        # Local crawls and intermediate files; gitignored
 ├── docs/results/                # Lightweight committed analysis artifacts
@@ -219,6 +450,7 @@ python src/create_xhs_composition_atlas.py \
 │   ├── create_xhs_composition_atlas.py
 │   ├── refine_topic_names.py
 │   ├── rebuild_venue_year_outputs.py
+│   ├── update_readme_data.py
 │   └── ...
 └── requirements.txt
 ```
