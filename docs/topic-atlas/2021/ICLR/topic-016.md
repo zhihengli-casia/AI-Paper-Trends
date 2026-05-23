@@ -1,0 +1,80 @@
+# ICLR 2021: 强化学习策略与奖励建模
+
+- Topic ID: `16`
+- Papers: **20** (2.33%)
+- Macro topic: 强化学习/决策
+- English keywords: `reinforcement learning / planning / agent / reward`
+- Keyword pool: reinforcement learning; planning; agent; reward; intrinsic; exploration; environment; model-based; goals; reaching; policy; goal-conditioned
+
+[Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
+
+## Representative Papers
+
+- Learning to Reach Goals via Iterated Supervised Learning
+- Learning with AMIGo: Adversarially Motivated Intrinsic Goals
+- Latent Skill Planning for Exploration and Transfer
+- C-Learning: Learning to Achieve Goals via Recursive Classification
+- Planning from Pixels using Inverse Dynamics Models
+
+## Papers
+
+<a id="paper-8xlkv08d70t"></a>
+1. [Adaptive Procedural Task Generation for Hard-Exploration Problems](https://openreview.net/forum?id=8xLkv08d70T)
+   - Kuan Fang, Yuke Zhu, Silvio Savarese, L. Fei-Fei; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-w3wf-wkmqm9"></a>
+2. [C-Learning: Horizon-Aware Cumulative Accessibility Estimation](https://openreview.net/forum?id=W3Wf_wKmqm9)
+   - Panteha Naderian, Gabriel Loaiza-Ganem, Harry J. Braviner, Anthony L. Caterini, Jesse C. Cresswell, Tong Li, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tc5qisob-c"></a>
+3. [C-Learning: Learning to Achieve Goals via Recursive Classification](https://openreview.net/forum?id=tc5qisoB-C)
+   - Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-u2ynjpcqlwq"></a>
+4. [Efficient Empowerment Estimation for Unsupervised Stabilization](https://openreview.net/forum?id=u2YNJPcQlwq)
+   - Ruihan Zhao, Kevin Lu, Pieter Abbeel, Stas Tiomkin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jxe91kq3jaq"></a>
+5. [Latent Skill Planning for Exploration and Transfer](https://openreview.net/forum?id=jXe91kq3jAq)
+   - Kevin Xie, Homanga Bharadhwaj, Danijar Hafner, Animesh Garg, Florian Shkurti; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rala0xo6ynj"></a>
+6. [Learning to Reach Goals via Iterated Supervised Learning](https://openreview.net/forum?id=rALA0Xo6yNJ)
+   - Dibya Ghosh, Abhishek Gupta, Ashwin Reddy, Justin Fu, Coline Manon Devin, Benjamin Eysenbach, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-etbc-mimgox"></a>
+7. [Learning with AMIGo: Adversarially Motivated Intrinsic Goals](https://openreview.net/forum?id=ETBc_MIMgoX)
+   - Andres Campero, Roberta Raileanu, Heinrich Kuttler, Joshua B. Tenenbaum, Tim Rocktäschel, Edward Grefenstette; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ucoxdfrorc"></a>
+8. [Model-Based Visual Planning with Self-Supervised Functional Distances](https://openreview.net/forum?id=UcoXdfrORC)
+   - Stephen Tian, Suraj Nair, Frederik Ebert, Sudeep Dasari, Benjamin Eysenbach, Chelsea Finn, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-otheq8i5v1"></a>
+9. [Mutual Information State Intrinsic Control](https://openreview.net/forum?id=OthEq8I5v1)
+   - Rui Zhao, Yang Gao, Pieter Abbeel, Volker Tresp, Wei Xu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-irm64dgb21"></a>
+10. [On the role of planning in model-based deep reinforcement learning](https://openreview.net/forum?id=IrM64DGB21)
+   - Jessica B Hamrick, Abram L. Friesen, Feryal Behbahani, Arthur Guez, Fabio Viola, Sims Witherspoon, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-w2z2owvnek"></a>
+11. [Plan-Based Relaxed Reward Shaping for Goal-Directed Tasks](https://openreview.net/forum?id=w2Z2OwVNeK)
+   - Ingmar Schubert, Ozgur S Oguz, Marc Toussaint; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-v6bjbgku7ro"></a>
+12. [Planning from Pixels using Inverse Dynamics Models](https://openreview.net/forum?id=V6BjBgku7Ro)
+   - Keiran Paster, Sheila A. McIlraith, Jimmy Ba; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mtee0cktzht"></a>
+13. [Rank the Episodes: A Simple Approach for Exploration in Procedurally-Generated Environments](https://openreview.net/forum?id=MtEE0CktZht)
+   - Daochen Zha, Wenye Ma, Lei Yuan, Xia Hu, Ji Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-f-mvpfpn-0q"></a>
+14. [Rapid Task-Solving in Novel Environments](https://openreview.net/forum?id=F-mvpFpn_0q)
+   - Samuel Ritter, Ryan Faulkner, Laurent Sartran, Adam Santoro, Matthew Botvinick, David Raposo; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-higsa-3kox3"></a>
+15. [Reset-Free Lifelong Learning with Skill-Space Planning](https://openreview.net/forum?id=HIGSa_3kOx3)
+   - Kevin Lu, Aditya Grover, Pieter Abbeel, Igor Mordatch; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-cpzoyodloxl"></a>
+16. [SMiRL: Surprise Minimizing Reinforcement Learning in Unstable Environments](https://openreview.net/forum?id=cPZOyoDloxl)
+   - Glen Berseth, Daniel Geng, Coline Manon Devin, Nicholas Rhinehart, Chelsea Finn, Dinesh Jayaraman, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9ss69kwomam"></a>
+17. [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM)
+   - Yunfei Li, Yilin Wu, Huazhe Xu, Xiaolong Wang, Yi Wu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cgq6enumx6"></a>
+18. [Task-Agnostic Morphology Evolution](https://openreview.net/forum?id=CGQ6ENUMX6)
+   - Donald Joseph Hejna III, Pieter Abbeel, Lerrel Pinto; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-onbphfz7zg4"></a>
+19. [Temporally-Extended ε-Greedy Exploration](https://openreview.net/forum?id=ONBPHFZ7zG4)
+   - Will Dabney, Georg Ostrovski, Andre Barreto; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-p0p33rgyoe"></a>
+20. [Variational Intrinsic Control Revisited](https://openreview.net/forum?id=P0p33rgyoE)
+   - Taehwan Kwon; assignment: `hdbscan`; source: `OpenReview`

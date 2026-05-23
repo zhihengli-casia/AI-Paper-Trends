@@ -10,6 +10,7 @@
 
 - [AI 学术会议热点分析框架](#ai-学术会议热点分析框架)
   - [📋 目录](#-目录)
+  - [🧭 细粒度主题图谱](#-细粒度主题图谱)
   - [📊 分析示例 (ICLR 2025)](#-分析示例-iclr-2025)
       - [**主题热度排序 (按论文数)**](#主题热度排序-按论文数)
       - [**主题质量评估 (按平均审稿分)**](#主题质量评估-按平均审稿分)
@@ -26,6 +27,20 @@
   - [🤝 参与贡献](#-参与贡献)
   - [📄 许可证](#-许可证)
 
+
+## 🧭 细粒度主题图谱
+
+最新的多会议主题图谱入口：
+
+**[AI Paper Topic Atlas](docs/topic-atlas/README.md)**
+
+图谱按照 **年份 -> 会议 -> 主题 -> 论文** 组织。目前覆盖 84 个会议-年份单元、117,100 篇主会接收论文、5,183 个细粒度主题。每个会议-年份页面可以进入主题页；每个主题页列出代表论文和该主题下的论文外链。
+
+示例路径：
+
+`2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
+
+该图谱由缓存论文 embedding 生成，按会议-年份独立聚类。可复现流程见 [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) 和 [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py)。
 
 ## 📊 分析示例 (ICLR 2025)
 

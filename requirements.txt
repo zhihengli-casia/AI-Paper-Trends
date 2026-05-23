@@ -9,6 +9,8 @@ scikit-learn
 
 # The star of the show: Topic Modeling
 bertopic
+hdbscan
+umap-learn
 sentence-transformers
 
 # For downloading models from ModelScope
