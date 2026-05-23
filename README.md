@@ -35,6 +35,7 @@ This repository is now centered on a browsable AI top-conference paper database 
 | Topic indexes | [topic_index.csv](docs/topic-atlas/data/topic_index.csv), [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
 | Atlas generation | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) |
 | Fine-grained clustering | [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) |
+| Automatic updates | [configs/auto_update.yaml](configs/auto_update.yaml), [scripts/auto_update_atlas.py](scripts/auto_update_atlas.py), [docs/auto-update/status.md](docs/auto-update/status.md) |
 | Legacy OpenReview pipeline | [main.py](main.py), [src/](src), [configs/](configs) |
 
 ## 🚀 Browse the Database
@@ -93,6 +94,27 @@ The current atlas was built using venue-year independent clustering:
 - centroid reassignment for HDBSCAN outliers,
 - c-TF-IDF style keyword extraction,
 - heuristic Chinese topic naming for browsing.
+
+## 🔄 Automatic Updates
+
+The repository includes a GitHub Actions update engine:
+
+- Weekly hosted check: detects venue-year volumes that are due or worth watching and updates [docs/auto-update/status.md](docs/auto-update/status.md).
+- Full refresh: rebuilds `docs/topic-atlas` on a self-hosted runner labeled `ai-paper-trends`, because the full embedding/result cache is intentionally not committed. Set the repository variable `AUTO_REFRESH_ATLAS=true` to run this on the weekly schedule.
+
+Run the lightweight check locally:
+
+```bash
+python scripts/auto_update_atlas.py check --write-report
+```
+
+Run a full refresh on a machine with the ignored `results/` cache:
+
+```bash
+python scripts/auto_update_atlas.py refresh
+```
+
+Tracked venue schedules and source notes live in [configs/auto_update.yaml](configs/auto_update.yaml).
 
 ## 🧪 Legacy Single-Conference Pipeline
 

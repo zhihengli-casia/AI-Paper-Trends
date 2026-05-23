@@ -1,0 +1,94 @@
+name: Auto Update Topic Atlas
+
+on:
+  schedule:
+    - cron: "23 18 * * 0"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Update mode"
+        required: true
+        default: "check"
+        type: choice
+        options:
+          - check
+          - refresh-atlas
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-update-topic-atlas
+  cancel-in-progress: false
+
+jobs:
+  check:
+    name: Check for new venue-year volumes
+    if: ${{ (github.event_name == 'schedule' && vars.AUTO_REFRESH_ATLAS != 'true') || github.event.inputs.mode == 'check' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install lightweight dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML
+
+      - name: Generate update status
+        run: |
+          python scripts/auto_update_atlas.py check --write-report
+
+      - name: Commit status changes
+        run: |
+          if git diff --quiet docs/auto-update; then
+            echo "No auto-update status changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/auto-update/status.md docs/auto-update/status.json
+          git commit -m "Update topic atlas automation status"
+          git push
+
+  refresh-atlas:
+    name: Refresh atlas on self-hosted runner
+    if: ${{ (github.event_name == 'schedule' && vars.AUTO_REFRESH_ATLAS == 'true') || github.event.inputs.mode == 'refresh-atlas' }}
+    runs-on: [self-hosted, ai-paper-trends]
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install full dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Rebuild topic atlas
+        run: |
+          python scripts/auto_update_atlas.py refresh
+          python scripts/auto_update_atlas.py check --write-report
+
+      - name: Commit atlas changes
+        run: |
+          if git diff --quiet docs/topic-atlas docs/auto-update; then
+            echo "No atlas changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/topic-atlas docs/auto-update
+          git commit -m "Auto refresh topic atlas"
+          git push

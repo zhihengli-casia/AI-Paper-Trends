@@ -35,6 +35,7 @@
 | 主题索引数据 | [topic_index.csv](docs/topic-atlas/data/topic_index.csv), [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
 | 图谱生成脚本 | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) |
 | 细粒度聚类脚本 | [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) |
+| 自动更新引擎 | [configs/auto_update.yaml](configs/auto_update.yaml), [scripts/auto_update_atlas.py](scripts/auto_update_atlas.py), [docs/auto-update/status.md](docs/auto-update/status.md) |
 | 旧版 OpenReview 流程 | [main.py](main.py), [src/](src), [configs/](configs) |
 
 ## 🚀 浏览数据库
@@ -94,6 +95,27 @@ python scripts/build_topic_atlas.py \
 - 对 HDBSCAN 离群点做 centroid 回填，
 - 用 c-TF-IDF 风格关键词提取生成英文标签，
 - 用启发式中文命名辅助浏览。
+
+## 🔄 自动更新
+
+仓库现在包含一套 GitHub Actions 自动更新引擎：
+
+- 每周轻量检查：在 GitHub 托管 runner 上检测哪些会议-年份卷宗已经到期或需要继续观察，并更新 [docs/auto-update/status.md](docs/auto-update/status.md)。
+- 完整刷新：在带有 `ai-paper-trends` 标签的 self-hosted runner 上重建 `docs/topic-atlas`。完整 embedding/result 缓存没有提交到 GitHub，所以全量刷新需要本地或自托管机器。把仓库变量 `AUTO_REFRESH_ATLAS` 设为 `true` 后，它会跟随每周定时任务自动跑。
+
+本地运行轻量检查：
+
+```bash
+python scripts/auto_update_atlas.py check --write-report
+```
+
+在有 `results/` 缓存的机器上完整刷新：
+
+```bash
+python scripts/auto_update_atlas.py refresh
+```
+
+会议时间表和数据源备注在 [configs/auto_update.yaml](configs/auto_update.yaml) 中维护。
 
 ## 🧪 旧版单会议流程
 

@@ -1,0 +1,219 @@
+{
+  "coverage_by_venue": [
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025, 2026",
+      "papers": 15638,
+      "topics": 646,
+      "venue": "AAAI",
+      "year_count": 7
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 5902,
+      "topics": 308,
+      "venue": "ACL",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 5006,
+      "topics": 277,
+      "venue": "ACMMM",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 13140,
+      "topics": 589,
+      "venue": "CVPR",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2020, 2022, 2024",
+      "papers": 5390,
+      "topics": 265,
+      "venue": "ECCV",
+      "year_count": 3
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 6550,
+      "topics": 347,
+      "venue": "EMNLP",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2021, 2023, 2025",
+      "papers": 6469,
+      "topics": 276,
+      "venue": "ICCV",
+      "year_count": 3
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025, 2026",
+      "papers": 15529,
+      "topics": 591,
+      "venue": "ICLR",
+      "year_count": 7
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 11268,
+      "topics": 506,
+      "venue": "ICML",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 5541,
+      "topics": 317,
+      "venue": "IJCAI",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 1985,
+      "topics": 117,
+      "venue": "KDD",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2021, 2022, 2024, 2025",
+      "papers": 2199,
+      "topics": 118,
+      "venue": "NAACL",
+      "year_count": 4
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 19441,
+      "topics": 627,
+      "venue": "NeurIPS",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 1077,
+      "topics": 86,
+      "venue": "SIGIR",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 1965,
+      "topics": 113,
+      "venue": "WWW",
+      "year_count": 6
+    }
+  ],
+  "pipeline": {
+    "atlas_root": "docs/topic-atlas",
+    "cached_embedding_root": "results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25",
+    "fine_topic_root": "results/fine_grained_venue_year_topics_2020_2026_mcs_fine"
+  },
+  "summary": {
+    "covered_papers": 117100,
+    "covered_topics": 5183,
+    "covered_venue_years": 84,
+    "pending_due": 1,
+    "watching": 11
+  },
+  "update_queue": [
+    {
+      "expected_month": 4,
+      "scope": "Research track main conference papers.",
+      "source": "ACM Digital Library / The Web Conference proceedings",
+      "state": "pending_due",
+      "venue": "WWW",
+      "year": 2026
+    },
+    {
+      "expected_month": 7,
+      "scope": "Main conference papers only; Findings and industry tracks are excluded.",
+      "source": "ACL Anthology",
+      "state": "watching",
+      "venue": "ACL",
+      "year": 2026
+    },
+    {
+      "expected_month": 10,
+      "scope": "Main conference accepted papers.",
+      "source": "ACM Digital Library / ACM MM proceedings",
+      "state": "watching",
+      "venue": "ACMMM",
+      "year": 2026
+    },
+    {
+      "expected_month": 6,
+      "scope": "Main conference accepted papers.",
+      "source": "CVF Open Access",
+      "state": "watching",
+      "venue": "CVPR",
+      "year": 2026
+    },
+    {
+      "expected_month": 10,
+      "scope": "Main conference accepted papers.",
+      "source": "ECCV proceedings / CVF or Springer",
+      "state": "watching",
+      "venue": "ECCV",
+      "year": 2026
+    },
+    {
+      "expected_month": 11,
+      "scope": "Main conference papers only; Findings and industry tracks are excluded.",
+      "source": "ACL Anthology",
+      "state": "watching",
+      "venue": "EMNLP",
+      "year": 2026
+    },
+    {
+      "expected_month": 7,
+      "scope": "Main conference accepted papers.",
+      "source": "PMLR / OpenReview when available",
+      "state": "watching",
+      "venue": "ICML",
+      "year": 2026
+    },
+    {
+      "expected_month": 8,
+      "scope": "Main conference accepted papers.",
+      "source": "IJCAI proceedings",
+      "state": "watching",
+      "venue": "IJCAI",
+      "year": 2026
+    },
+    {
+      "expected_month": 8,
+      "scope": "Research track main conference papers.",
+      "source": "ACM Digital Library / KDD proceedings",
+      "state": "watching",
+      "venue": "KDD",
+      "year": 2026
+    },
+    {
+      "expected_month": 6,
+      "scope": "Main conference papers only.",
+      "source": "ACL Anthology",
+      "state": "watching",
+      "venue": "NAACL",
+      "year": 2026
+    },
+    {
+      "expected_month": 12,
+      "scope": "Main conference accepted papers.",
+      "source": "NeurIPS proceedings / OpenReview",
+      "state": "watching",
+      "venue": "NeurIPS",
+      "year": 2026
+    },
+    {
+      "expected_month": 7,
+      "scope": "Full research papers.",
+      "source": "ACM Digital Library / SIGIR proceedings",
+      "state": "watching",
+      "venue": "SIGIR",
+      "year": 2026
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+# Automatic update configuration for the GitHub-browsable topic atlas.
+#
+# The hosted GitHub Actions job uses this file to detect newly due
+# venue-year volumes. A self-hosted runner with the local embedding/result
+# cache can also use the same config to rebuild docs/topic-atlas.
+
+coverage:
+  summary_path: docs/topic-atlas/data/venue_year_summary.csv
+  report_markdown: docs/auto-update/status.md
+  report_json: docs/auto-update/status.json
+  default_start_year: 2020
+  lookahead_years: 0
+
+pipeline:
+  cached_embedding_root: results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25
+  fine_topic_root: results/fine_grained_venue_year_topics_2020_2026_mcs_fine
+  atlas_root: docs/topic-atlas
+
+venues:
+  - venue: AAAI
+    active: true
+    frequency: annual
+    expected_month: 4
+    source: AAAI proceedings / OpenReview
+    scope: Main conference accepted papers.
+  - venue: ACL
+    active: true
+    frequency: annual
+    expected_month: 7
+    source: ACL Anthology
+    scope: Main conference papers only; Findings and industry tracks are excluded.
+  - venue: ACMMM
+    active: true
+    frequency: annual
+    expected_month: 10
+    source: ACM Digital Library / ACM MM proceedings
+    scope: Main conference accepted papers.
+  - venue: CVPR
+    active: true
+    frequency: annual
+    expected_month: 6
+    source: CVF Open Access
+    scope: Main conference accepted papers.
+  - venue: ECCV
+    active: true
+    frequency: biennial_even
+    expected_month: 10
+    source: ECCV proceedings / CVF or Springer
+    scope: Main conference accepted papers.
+  - venue: EMNLP
+    active: true
+    frequency: annual
+    expected_month: 11
+    source: ACL Anthology
+    scope: Main conference papers only; Findings and industry tracks are excluded.
+  - venue: ICCV
+    active: true
+    frequency: biennial_odd
+    expected_month: 10
+    source: CVF Open Access
+    scope: Main conference accepted papers.
+  - venue: ICLR
+    active: true
+    frequency: annual
+    expected_month: 1
+    source: OpenReview
+    scope: Accepted conference papers only.
+  - venue: ICML
+    active: true
+    frequency: annual
+    expected_month: 7
+    source: PMLR / OpenReview when available
+    scope: Main conference accepted papers.
+  - venue: IJCAI
+    active: true
+    frequency: annual
+    expected_month: 8
+    source: IJCAI proceedings
+    scope: Main conference accepted papers.
+  - venue: KDD
+    active: true
+    frequency: annual
+    expected_month: 8
+    source: ACM Digital Library / KDD proceedings
+    scope: Research track main conference papers.
+  - venue: NAACL
+    active: true
+    frequency: annual
+    expected_month: 6
+    skip_years: [2020, 2023]
+    source: ACL Anthology
+    scope: Main conference papers only.
+  - venue: NeurIPS
+    active: true
+    frequency: annual
+    expected_month: 12
+    source: NeurIPS proceedings / OpenReview
+    scope: Main conference accepted papers.
+  - venue: SIGIR
+    active: true
+    frequency: annual
+    expected_month: 7
+    source: ACM Digital Library / SIGIR proceedings
+    scope: Full research papers.
+  - venue: WWW
+    active: true
+    frequency: annual
+    expected_month: 4
+    source: ACM Digital Library / The Web Conference proceedings
+    scope: Research track main conference papers.
