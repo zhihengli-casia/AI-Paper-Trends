@@ -99,12 +99,37 @@ Each horizontal composition bar represents all accepted papers from one venue-ye
 | Information Retrieval | SIGIR | 2020-2025 | 6 | 1,077 | 23 | 2025: 推荐系统：偏好建模、反馈学习与个性化排序 (85, 35.56%) |
 | Web / Recommender Systems | WWW | 2020-2025 | 6 | 1,965 | 33 | 2025: 推荐系统：检索增强推荐、排序与个性化 (40, 25.97%) |
 
-## Latest Top-10 Topics by Venue
-
-The README shows the latest topics for every venue, up to Top 10, rather than a few hand-picked examples. Complete topic rows for every venue-year are in `topic_summary_by_venue_year.csv` and `venue_year_topic_composition_full.csv`.
+## Full Venue-Year Matrix
 
 <details>
-<summary><strong>AAAI 2026</strong>: latest topics, up to Top 10, 4,149 papers</summary>
+<summary><strong>Full venue-year coverage matrix</strong>: each cell is papers/topics</summary>
+
+| Venue | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| AAAI | 1,601/8 | 1,642/8 | 1,315/10 | 1,572/8 | 2,331/12 | 3,028/13 | 4,149/14 |
+| IJCAI | 778/9 | 722/7 | 862/7 | 851/7 | 1,048/9 | 1,280/9 | - |
+| ICLR | 687/8 | 860/8 | 1,094/8 | 1,573/10 | 2,260/10 | 3,703/14 | 5,352/13 |
+| ICML | 1,084/9 | 1,183/8 | 1,233/11 | 1,828/12 | 2,610/11 | 3,330/13 | - |
+| NeurIPS | 1,898/11 | 2,334/12 | 2,671/13 | 3,218/14 | 4,034/14 | 5,286/15 | - |
+| CVPR | 1,466/11 | 1,660/12 | 2,074/12 | 2,353/11 | 2,716/10 | 2,871/12 | - |
+| ICCV | - | 1,612/13 | - | 2,156/12 | - | 2,701/11 | - |
+| ECCV | 1,358/11 | - | 1,645/8 | - | 2,387/9 | - | - |
+| ACL | 778/10 | 710/8 | 700/9 | 1,075/10 | 940/11 | 1,699/12 | - |
+| EMNLP | 751/9 | 847/9 | 828/9 | 1,047/9 | 1,268/11 | 1,809/9 | - |
+| NAACL | - | 477/8 | 442/7 | - | 562/8 | 718/8 | - |
+| ACMMM | 473/7 | 542/9 | 691/9 | 902/12 | 1,149/10 | 1,249/10 | - |
+| KDD | 217/5 | 239/5 | 253/6 | 313/5 | 411/6 | 552/9 | - |
+| SIGIR | 147/3 | 151/5 | 161/3 | 165/4 | 214/4 | 239/4 | - |
+| WWW | 317/5 | 355/5 | 364/5 | 371/6 | 404/7 | 154/5 | - |
+
+</details>
+
+## Latest Full Topic Lists by Venue
+
+The README lists all topics for the latest available year of every venue, rather than a few hand-picked examples. Complete topic rows for every venue-year are in `topic_summary_by_venue_year.csv` and `venue_year_topic_composition_full.csv`.
+
+<details>
+<summary><strong>AAAI 2026</strong>: all 14 topics, 4,149 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -118,11 +143,15 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 | 8 | 多模态音视频生成：语音、音乐与情感生成 | 251 | 6.05% |
 | 9 | 视频理解：动作识别、长视频与时序建模 | 216 | 5.21% |
 | 10 | 推荐系统：检索增强推荐、排序与个性化 | 201 | 4.84% |
+| 11 | 医疗视觉：医学影像分割、病理与临床影像 | 158 | 3.81% |
+| 12 | 时序建模：时间序列预测、动力系统与基础模型 | 120 | 2.89% |
+| 13 | AI4Science：蛋白结构、序列与功能建模 | 105 | 2.53% |
+| 14 | 神经科学AI：脑活动建模、EEG与脉冲网络 | 71 | 1.71% |
 
 </details>
 
 <details>
-<summary><strong>IJCAI 2025</strong>: latest topics, up to Top 10, 1,280 papers</summary>
+<summary><strong>IJCAI 2025</strong>: all 9 topics, 1,280 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -139,7 +168,7 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 </details>
 
 <details>
-<summary><strong>ICLR 2026</strong>: latest topics, up to Top 10, 5,352 papers</summary>
+<summary><strong>ICLR 2026</strong>: all 13 topics, 5,352 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -153,11 +182,14 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 | 8 | 可信安全：对抗攻击、后门、水印与隐私 | 358 | 6.69% |
 | 9 | 时序建模：时间序列预测、动力系统与基础模型 | 256 | 4.78% |
 | 10 | 检索增强大模型：RAG、知识注入与问答 | 194 | 3.62% |
+| 11 | AI4Science：蛋白结构、序列与功能建模 | 145 | 2.71% |
+| 12 | 大模型对齐：偏好优化、RLHF与奖励建模 | 81 | 1.51% |
+| 13 | 多模态音视频生成：语音、音乐与情感生成 | 65 | 1.21% |
 
 </details>
 
 <details>
-<summary><strong>ICML 2025</strong>: latest topics, up to Top 10, 3,330 papers</summary>
+<summary><strong>ICML 2025</strong>: all 13 topics, 3,330 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -171,11 +203,14 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 | 8 | 优化理论：随机/非凸优化与收敛率 | 220 | 6.61% |
 | 9 | 因果学习：因果发现、反事实与处理效应 | 181 | 5.44% |
 | 10 | 图学习：GNN、节点分类与链接预测 | 172 | 5.17% |
+| 11 | 时序建模：时间序列预测、动力系统与基础模型 | 154 | 4.62% |
+| 12 | 生成模型：扩散模型、采样与内容生成 | 151 | 4.53% |
+| 13 | 强化学习：策略优化、奖励学习与控制 | 108 | 3.24% |
 
 </details>
 
 <details>
-<summary><strong>NeurIPS 2025</strong>: latest topics, up to Top 10, 5,286 papers</summary>
+<summary><strong>NeurIPS 2025</strong>: all 15 topics, 5,286 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -189,11 +224,16 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 | 8 | 图基础模型：LLM增强图学习与节点表示 | 235 | 4.45% |
 | 9 | 可信安全：对抗攻击、后门、水印与隐私 | 226 | 4.28% |
 | 10 | 神经科学AI：脑活动建模、EEG与脉冲网络 | 193 | 3.65% |
+| 11 | AI4Science：蛋白结构、序列与功能建模 | 169 | 3.20% |
+| 12 | 联邦大模型微调：LoRA、客户端异构与模型合并 | 154 | 2.91% |
+| 13 | 时序建模：时间序列预测、动力系统与基础模型 | 127 | 2.40% |
+| 14 | 因果学习：因果发现、反事实与处理效应 | 111 | 2.10% |
+| 15 | 多模态音视频生成：语音、音乐与情感生成 | 62 | 1.17% |
 
 </details>
 
 <details>
-<summary><strong>CVPR 2025</strong>: latest topics, up to Top 10, 2,871 papers</summary>
+<summary><strong>CVPR 2025</strong>: all 12 topics, 2,871 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -207,11 +247,13 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 | 8 | 迁移泛化：域适应、OOD泛化与鲁棒表征 | 170 | 5.92% |
 | 9 | 高效大模型：推理加速、压缩与资源优化 | 169 | 5.89% |
 | 10 | 三维视觉：Gaussian Splatting、新视角合成与重建 | 164 | 5.71% |
+| 11 | 异常检测：图异常、欺诈检测与时序异常 | 147 | 5.12% |
+| 12 | 医疗视觉：医学影像分割、病理与临床影像 | 79 | 2.75% |
 
 </details>
 
 <details>
-<summary><strong>ICCV 2025</strong>: latest topics, up to Top 10, 2,701 papers</summary>
+<summary><strong>ICCV 2025</strong>: all 11 topics, 2,701 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -225,11 +267,12 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 | 8 | 具身智能：机器人操作、导航与视觉语言动作 | 227 | 8.40% |
 | 9 | 三维视觉：Gaussian Splatting、新视角合成与重建 | 178 | 6.59% |
 | 10 | 多模态理解：视觉语言表征与跨模态对齐 | 118 | 4.37% |
+| 11 | 事件视觉：事件相机、运动估计与时序感知 | 33 | 1.22% |
 
 </details>
 
 <details>
-<summary><strong>ECCV 2024</strong>: latest topics, up to Top 10, 2,387 papers</summary>
+<summary><strong>ECCV 2024</strong>: all 9 topics, 2,387 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -246,7 +289,7 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 </details>
 
 <details>
-<summary><strong>ACL 2025</strong>: latest topics, up to Top 10, 1,699 papers</summary>
+<summary><strong>ACL 2025</strong>: all 12 topics, 1,699 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -260,11 +303,13 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 | 8 | 语言模型分析：认知、语言结构与可解释性 | 126 | 7.42% |
 | 9 | 可信安全：对抗攻击、后门、水印与隐私 | 98 | 5.77% |
 | 10 | 代码大模型：代码生成、程序理解与评测 | 87 | 5.12% |
+| 11 | 高效大模型：推理加速、压缩与资源优化 | 71 | 4.18% |
+| 12 | 强化学习：策略优化、奖励学习与控制 | 57 | 3.35% |
 
 </details>
 
 <details>
-<summary><strong>EMNLP 2025</strong>: latest topics, up to Top 10, 1,809 papers</summary>
+<summary><strong>EMNLP 2025</strong>: all 9 topics, 1,809 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -281,7 +326,7 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 </details>
 
 <details>
-<summary><strong>NAACL 2025</strong>: latest topics, up to Top 10, 718 papers</summary>
+<summary><strong>NAACL 2025</strong>: all 8 topics, 718 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -297,7 +342,7 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 </details>
 
 <details>
-<summary><strong>ACMMM 2025</strong>: latest topics, up to Top 10, 1,249 papers</summary>
+<summary><strong>ACMMM 2025</strong>: all 10 topics, 1,249 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -315,7 +360,7 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 </details>
 
 <details>
-<summary><strong>KDD 2025</strong>: latest topics, up to Top 10, 552 papers</summary>
+<summary><strong>KDD 2025</strong>: all 9 topics, 552 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -332,7 +377,7 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 </details>
 
 <details>
-<summary><strong>SIGIR 2025</strong>: latest topics, up to Top 10, 239 papers</summary>
+<summary><strong>SIGIR 2025</strong>: all 4 topics, 239 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -344,7 +389,7 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 </details>
 
 <details>
-<summary><strong>WWW 2025</strong>: latest topics, up to Top 10, 154 papers</summary>
+<summary><strong>WWW 2025</strong>: all 5 topics, 154 papers</summary>
 
 | Rank | Topic label | Papers | Share |
 |---:|---|---:|---:|
@@ -358,16 +403,10 @@ The README shows the latest topics for every venue, up to Top 10, rather than a 
 
 ## Automatic README Updates
 
-README statistics are generated from the committed CSV artifacts by `src/update_readme_data.py`. When a new venue or year is added to the result CSVs, rerun the script and the coverage tables plus latest Top-10 sections will update automatically.
+README statistics are generated from the committed CSV artifacts by `src/update_readme_data.py`. When a new venue or year is added to the result CSVs, rerun the script and the coverage tables plus latest full-topic sections will update automatically.
 
 A GitHub Actions workflow also runs the script when result CSVs change on `main`.
 <!-- AI-PAPER-TRENDS:END -->
-
-
-
-
-
-
 
 ## Quick Start
 

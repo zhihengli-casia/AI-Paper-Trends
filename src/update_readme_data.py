@@ -155,6 +155,7 @@ def years_label(years: list[int]) -> str:
 def load_context() -> dict[str, object]:
     summary = read_csv(SUMMARY_CSV)
     top10 = read_csv(TOP10_CSV)
+    topics = read_csv(TOPIC_SUMMARY_CSV)
     family = read_csv(FAMILY_CSV)
 
     venues = sort_venues({row["venue"] for row in summary})
@@ -171,16 +172,24 @@ def load_context() -> dict[str, object]:
     for rows in top_by_venue_year.values():
         rows.sort(key=lambda row: int(row["rank"]))
 
+    topics_by_venue_year: dict[tuple[str, int], list[dict[str, str]]] = defaultdict(list)
+    for row in topics:
+        topics_by_venue_year[(row["venue"], int(row["year"]))].append(row)
+    for rows in topics_by_venue_year.values():
+        rows.sort(key=lambda row: int(row["count"]), reverse=True)
+
     families = sorted({row["family"] for row in family})
     return {
         "summary": summary,
         "top10": top10,
+        "topics": topics,
         "family": family,
         "venues": venues,
         "years": years,
         "by_venue": by_venue,
         "by_year": by_year,
         "top_by_venue_year": top_by_venue_year,
+        "topics_by_venue_year": topics_by_venue_year,
         "families": families,
     }
 
@@ -188,10 +197,10 @@ def load_context() -> dict[str, object]:
 def latest_top_row(
     venue: str,
     by_venue: dict[str, list[dict[str, str]]],
-    top_by_venue_year: dict[tuple[str, int], list[dict[str, str]]],
+    topics_by_venue_year: dict[tuple[str, int], list[dict[str, str]]],
 ) -> tuple[int, dict[str, str]]:
     latest_year = max(int(row["year"]) for row in by_venue[venue])
-    rows = top_by_venue_year[(venue, latest_year)]
+    rows = topics_by_venue_year[(venue, latest_year)]
     return latest_year, rows[0]
 
 
@@ -299,7 +308,7 @@ def coverage_by_area_lines(ctx: dict[str, object], lang: str) -> list[str]:
 def coverage_by_venue_lines(ctx: dict[str, object], lang: str) -> list[str]:
     venues: list[str] = ctx["venues"]  # type: ignore[assignment]
     by_venue: dict[str, list[dict[str, str]]] = ctx["by_venue"]  # type: ignore[assignment]
-    top_by_venue_year: dict[tuple[str, int], list[dict[str, str]]] = ctx["top_by_venue_year"]  # type: ignore[assignment]
+    topics_by_venue_year: dict[tuple[str, int], list[dict[str, str]]] = ctx["topics_by_venue_year"]  # type: ignore[assignment]
     area_for_venue = VENUE_AREAS_EN if lang == "en" else VENUE_AREAS_CN
     other_area = "Other / Emerging" if lang == "en" else "其他 / 新增会议"
     if lang == "en":
@@ -311,10 +320,10 @@ def coverage_by_venue_lines(ctx: dict[str, object], lang: str) -> list[str]:
         years = sorted(int(row["year"]) for row in rows)
         papers = sum(int(row["papers"]) for row in rows)
         topics = sum(int(row["topics_excluding_outlier"]) for row in rows)
-        latest_year, top = latest_top_row(venue, by_venue, top_by_venue_year)
+        latest_year, top = latest_top_row(venue, by_venue, topics_by_venue_year)
         topic = top["specific_label_cn"]
         count = top["count"]
-        share = fmt_pct(top["share_pct"])
+        share = fmt_pct(float(top["share"]) * 100)
         connector = ": " if lang == "en" else "："
         lines.append(
             f"| {area_for_venue.get(venue, other_area)} | {venue} | {years_label(years)} | {len(rows)} | "
@@ -323,20 +332,63 @@ def coverage_by_venue_lines(ctx: dict[str, object], lang: str) -> list[str]:
     return lines
 
 
-def latest_top10_lines(ctx: dict[str, object], lang: str) -> list[str]:
+def venue_year_matrix_lines(ctx: dict[str, object], lang: str) -> list[str]:
+    venues: list[str] = ctx["venues"]  # type: ignore[assignment]
+    years: list[int] = ctx["years"]  # type: ignore[assignment]
+    by_venue: dict[str, list[dict[str, str]]] = ctx["by_venue"]  # type: ignore[assignment]
+    row_by_venue_year = {
+        (venue, int(row["year"])): row
+        for venue, rows in by_venue.items()
+        for row in rows
+    }
+    lines: list[str] = []
+    if lang == "en":
+        lines.extend(
+            [
+                "<details>",
+                "<summary><strong>Full venue-year coverage matrix</strong>: each cell is papers/topics</summary>",
+                "",
+                "| Venue | " + " | ".join(str(year) for year in years) + " |",
+                "|---|" + "|".join("---:" for _ in years) + "|",
+            ]
+        )
+    else:
+        lines.extend(
+            [
+                "<details>",
+                "<summary><strong>完整会议-年份覆盖矩阵</strong>：每个单元格为 论文数/主题数</summary>",
+                "",
+                "| 会议 | " + " | ".join(str(year) for year in years) + " |",
+                "|---|" + "|".join("---:" for _ in years) + "|",
+            ]
+        )
+    for venue in venues:
+        cells = []
+        for year in years:
+            row = row_by_venue_year.get((venue, year))
+            if row is None:
+                cells.append("-")
+            else:
+                cells.append(f"{fmt_int(row['papers'])}/{row['topics_excluding_outlier']}")
+        lines.append(f"| {venue} | " + " | ".join(cells) + " |")
+    lines.extend(["", "</details>"])
+    return lines
+
+
+def latest_full_topic_lines(ctx: dict[str, object], lang: str) -> list[str]:
     venues: list[str] = ctx["venues"]  # type: ignore[assignment]
     by_venue: dict[str, list[dict[str, str]]] = ctx["by_venue"]  # type: ignore[assignment]
-    top_by_venue_year: dict[tuple[str, int], list[dict[str, str]]] = ctx["top_by_venue_year"]  # type: ignore[assignment]
+    topics_by_venue_year: dict[tuple[str, int], list[dict[str, str]]] = ctx["topics_by_venue_year"]  # type: ignore[assignment]
     lines: list[str] = []
     for venue in venues:
         latest_year = max(int(row["year"]) for row in by_venue[venue])
-        rows = top_by_venue_year[(venue, latest_year)]
+        rows = topics_by_venue_year[(venue, latest_year)]
         total = int(rows[0]["venue_year_total"]) if rows else 0
         if lang == "en":
             lines.extend(
                 [
                     f"<details>",
-                    f"<summary><strong>{venue} {latest_year}</strong>: latest topics, up to Top 10, {fmt_int(total)} papers</summary>",
+                    f"<summary><strong>{venue} {latest_year}</strong>: all {len(rows)} topics, {fmt_int(total)} papers</summary>",
                     "",
                     "| Rank | Topic label | Papers | Share |",
                     "|---:|---|---:|---:|",
@@ -346,14 +398,14 @@ def latest_top10_lines(ctx: dict[str, object], lang: str) -> list[str]:
             lines.extend(
                 [
                     f"<details>",
-                    f"<summary><strong>{venue} {latest_year}</strong>：最新年份主题，最多 Top 10，{fmt_int(total)} 篇论文</summary>",
+                    f"<summary><strong>{venue} {latest_year}</strong>：全部 {len(rows)} 个主题，{fmt_int(total)} 篇论文</summary>",
                     "",
                     "| 排名 | 主题 | 篇数 | 占比 |",
                     "|---:|---|---:|---:|",
                 ]
             )
-        for row in rows[:10]:
-            lines.append(f"| {row['rank']} | {row['specific_label_cn']} | {row['count']} | {fmt_pct(row['share_pct'])} |")
+        for rank, row in enumerate(rows, start=1):
+            lines.append(f"| {rank} | {row['specific_label_cn']} | {row['count']} | {fmt_pct(float(row['share']) * 100)} |")
         lines.extend(["", "</details>", ""])
     return lines
 
@@ -404,14 +456,18 @@ def generated_block(ctx: dict[str, object], lang: str) -> str:
             "",
             *coverage_by_venue_lines(ctx, lang),
             "",
-            "## Latest Top-10 Topics by Venue",
+            "## Full Venue-Year Matrix",
             "",
-            "The README shows the latest topics for every venue, up to Top 10, rather than a few hand-picked examples. Complete topic rows for every venue-year are in `topic_summary_by_venue_year.csv` and `venue_year_topic_composition_full.csv`.",
+            *venue_year_matrix_lines(ctx, lang),
             "",
-            *latest_top10_lines(ctx, lang),
+            "## Latest Full Topic Lists by Venue",
+            "",
+            "The README lists all topics for the latest available year of every venue, rather than a few hand-picked examples. Complete topic rows for every venue-year are in `topic_summary_by_venue_year.csv` and `venue_year_topic_composition_full.csv`.",
+            "",
+            *latest_full_topic_lines(ctx, lang),
             "## Automatic README Updates",
             "",
-            "README statistics are generated from the committed CSV artifacts by `src/update_readme_data.py`. When a new venue or year is added to the result CSVs, rerun the script and the coverage tables plus latest Top-10 sections will update automatically.",
+            "README statistics are generated from the committed CSV artifacts by `src/update_readme_data.py`. When a new venue or year is added to the result CSVs, rerun the script and the coverage tables plus latest full-topic sections will update automatically.",
             "",
             "A GitHub Actions workflow also runs the script when result CSVs change on `main`.",
             "<!-- AI-PAPER-TRENDS:END -->",
@@ -459,14 +515,18 @@ def generated_block(ctx: dict[str, object], lang: str) -> str:
             "",
             *coverage_by_venue_lines(ctx, lang),
             "",
-            "## 每个会议最新年份 Top 10 主题",
+            "## 完整会议-年份覆盖矩阵",
             "",
-            "这里展示每个会议最新年份的主题，最多 Top 10，不再只放少数手工挑选的例子；若某个会议-年份本身少于 10 个主题，则全部列出。每个会议-年份的完整细主题在 `topic_summary_by_venue_year.csv` 和 `venue_year_topic_composition_full.csv` 中。",
+            *venue_year_matrix_lines(ctx, lang),
             "",
-            *latest_top10_lines(ctx, lang),
+            "## 每个会议最新年份完整主题清单",
+            "",
+            "这里展示每个会议最新年份的全部主题，不再只放前 5、前 10 或少数手工挑选的例子。每个会议-年份的完整细主题在 `topic_summary_by_venue_year.csv` 和 `venue_year_topic_composition_full.csv` 中。",
+            "",
+            *latest_full_topic_lines(ctx, lang),
             "## README 自动更新",
             "",
-            "README 的统计表和 Top10 区块由 `src/update_readme_data.py` 从已提交的 CSV 结果自动生成。以后新增会议或新增年份，只要结果 CSV 里出现新 venue/year，重新运行脚本即可自动进入覆盖表和最新 Top10。",
+            "README 的统计表和完整主题清单由 `src/update_readme_data.py` 从已提交的 CSV 结果自动生成。以后新增会议或新增年份，只要结果 CSV 里出现新 venue/year，重新运行脚本即可自动进入覆盖表和最新年份完整主题清单。",
             "",
             "`main` 分支还配置了 GitHub Actions：当结果 CSV 变化时，会自动运行 README 更新脚本并提交变更。",
             "<!-- AI-PAPER-TRENDS:END -->",
@@ -482,7 +542,8 @@ def replace_block(path: Path, start_heading: str, end_heading: str, block: str) 
     else:
         start = text.index(start_heading)
         end = text.index(end_heading)
-    new_text = text[:start] + block.rstrip() + "\n\n" + text[end:]
+    suffix = text[end:].lstrip("\n")
+    new_text = text[:start] + block.rstrip() + "\n\n" + suffix
     path.write_text(new_text, encoding="utf-8")
 
 
