@@ -1,6 +1,6 @@
 <div align="right"><a href="README.md">English</a> | <strong>中文</strong></div>
 
-# AI 学术会议热点分析框架
+# AI Paper Trends
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -25,130 +25,97 @@
 
 `2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
 
-本框架提供自动化、可配置的流程，用于从顶级AI会议（如 ICLR, NeurIPS, ICML）论文中挖掘研究热点。通过配置文件驱动，可执行数据获取、主题建模与结果可视化。
+这个仓库现在的核心是一个可浏览的 AI 顶会论文数据库和细粒度主题图谱。旧版单会议 OpenReview 流程仍然保留，但当前主产物是提交在 `docs/topic-atlas/` 下的静态索引。
 
-## 📋 目录
+## 包含内容
 
-- [AI 学术会议热点分析框架](#ai-学术会议热点分析框架)
-  - [AI 论文数据库索引](#ai-论文数据库索引)
-  - [📋 目录](#-目录)
-  - [📂 项目结构](#-项目结构)
-  - [🚀 快速上手](#-快速上手)
-    - [1. 环境配置](#1-环境配置)
-    - [2. 配置分析任务](#2-配置分析任务)
-    - [3. 运行自动化流程](#3-运行自动化流程)
-  - [🔬 探索性分析 (Jupyter Notebooks)](#-探索性分析-jupyter-notebooks)
-  - [💡 高级选项](#-高级选项)
-    - [分析不同会议](#分析不同会议)
-  - [🤝 参与贡献](#-参与贡献)
-  - [📄 许可证](#-许可证)
+| 内容 | 文件 |
+|---|---|
+| 可浏览论文数据库 | [docs/topic-atlas/](docs/topic-atlas/README.md) |
+| 主题索引数据 | [topic_index.csv](docs/topic-atlas/data/topic_index.csv), [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
+| 图谱生成脚本 | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) |
+| 细粒度聚类脚本 | [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) |
+| 旧版 OpenReview 流程 | [main.py](main.py), [src/](src), [configs/](configs) |
 
-## 📂 项目结构
+## 🚀 浏览数据库
 
-```text
-.
-├── configs/              # 分析任务的 YAML 配置文件
-├── data/                 # (Git 忽略) 存放原始数据 (.jsonl) 和处理后数据 (.csv)
-├── docs/                 # 文档及相关资源 (如 README 图片)
-├── LICENSE               # 项目许可证
-├── main.py               # 项目主入口脚本 (运行分析)
-├── models/               # (Git 忽略) 存放下载的机器学习模型
-├── notebooks/            # Jupyter Notebooks (教程, 探索性分析)
-├── README_cn.md          # 项目中文介绍 (本文件)
-├── README.md             # 项目英文介绍
-├── requirements.txt      # Python 依赖列表
-├── results/              # (Git 忽略) 存放分析结果 (图表, 表格, 模型)
-├── src/                  # 核心 Python 功能模块
-│   ├── analyze.py        # 分析与可视化逻辑
-│   ├── get_papers.py     # 数据获取逻辑
-│   ├── run_topic_modeling.py # 主题建模逻辑
-│   └── utils.py          # (可选) 通用辅助函数
-└── .gitignore            # 指定 Git 忽略的文件/目录
-````
+这个仓库最主要的使用方式是直接浏览静态主题图谱：
 
-## 🚀 快速上手
+- [图谱总入口](docs/topic-atlas/README.md)
+- [2026 年会议列表](docs/topic-atlas/2026/README.md)
+- [ICLR 2026 主题列表](docs/topic-atlas/2026/ICLR/README.md)
+- [示例主题页](docs/topic-atlas/2026/ICLR/topic-004.md)
 
-### 1\. 环境配置
+每个主题页包含：
 
-推荐使用 Conda 创建环境，并通过 `pip` 安装依赖。
+- 中文展示主题名，
+- 可复现的英文关键词标签，
+- 代表论文，
+- 论文级外链，例如 OpenReview、DOI、Semantic Scholar 或来源 URL。
+
+如果想自己做可视化，可以直接使用 CSV 索引：
+
+- [topic_index.csv](docs/topic-atlas/data/topic_index.csv)
+- [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv)
+
+## 🔁 重新生成主题图谱
+
+当前提交的图谱由本地缓存论文元数据和 embedding 生成。完整 embedding 缓存体积较大，因此没有提交到 GitHub。
+
+安装依赖：
 
 ```bash
-# 克隆仓库
-git clone [https://github.com/zhihengli-casia/AI-Paper-Trends.git](https://github.com/zhihengli-casia/AI-Paper-Trends.git)
-cd AI-Paper-Trends
-
-# 1. 创建 Conda 环境 (推荐 Python 3.10)
-conda create --name ai-trend-analysis python=3.10
-
-# 2. 激活环境
-conda activate ai-trend-analysis
-
-# 3. 安装依赖
 pip install -r requirements.txt
 ```
 
-### 2\. 配置分析任务
-
-分析流程由 `configs/` 目录下的 `.yaml` 文件定义。
-
-1.  进入 `configs/` 目录。
-2.  复制现有 `.yaml` 文件或新建一个。
-3.  修改文件参数以指定分析目标。
-
-**示例 (`configs/iclr_2025_analysis.yaml`):**
-
-```yaml
-conference_id: 'ICLR.cc/2025/Conference' # 目标会议 ID
-fetch_reviews: True                      # 是否获取审稿信息
-limit: null                              # 处理论文数量上限 (null=无限制)
-
-topic_modeling:
-  enabled: True                          # 是否执行主题建模
-  min_topic_size: 30                     # BERTopic 最小主题规模
-
-analysis:
-  enabled: True                          # 是否执行分析与可视化
-  tasks:                                 # 要执行的分析任务列表
-    - 'plot_paper_count'                 #   - 论文数排序图
-    - 'plot_avg_rating'                  #   - 平均分排序图
-    - 'plot_decision_breakdown'          #   - 决策构成图
-    - 'generate_summary_table'           #   - 生成统计表格
-
-output_folder_name: 'iclr_2025_analysis' # results/ 下的输出目录名
-```
-
-### 3\. 运行自动化流程
-
-在项目根目录执行 `main.py`，指定配置文件。
+对缓存好的会议-年份 embedding 做细粒度聚类：
 
 ```bash
-python main.py --config configs/iclr_2025_analysis.yaml
+python scripts/fine_grained_topic_analysis.py \
+  --input-root results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25 \
+  --output-root results/fine_grained_venue_year_topics_2020_2026_mcs_fine
 ```
 
-脚本将按配置执行数据获取、主题建模及结果生成。产出位于 `data/` 和 `results/` 目录。
+生成 GitHub 可浏览的静态图谱：
 
-## 🔬 探索性分析 (Jupyter Notebooks)
+```bash
+python scripts/build_topic_atlas.py \
+  --topic-root results/fine_grained_venue_year_topics_2020_2026_mcs_fine \
+  --output-root docs/topic-atlas \
+  --clean
+```
 
-`notebooks/` 目录提供 Jupyter 环境，用于进行更深入或定制化的探索性分析。
+当前图谱的生成逻辑是：
 
-**使用流程**:
+- 复用 BGE embedding 缓存，
+- 按会议-年份独立聚类，
+- UMAP 降维，
+- HDBSCAN leaf 细聚类，
+- 对 HDBSCAN 离群点做 centroid 回填，
+- 用 c-TF-IDF 风格关键词提取生成英文标签，
+- 用启发式中文命名辅助浏览。
 
-1.  确保已激活 Conda 环境: `conda activate ai-trend-analysis`
-2.  在项目根目录启动 Jupyter Lab: `jupyter lab`
-3.  在浏览器中打开 `notebooks/` 下的 `.ipynb` 文件。
+## 🧪 旧版单会议流程
 
-## 💡 高级选项
+原始的 OpenReview + BERTopic 流程仍然保留，适合小规模单会议实验；但它已经不是当前多会议数据库图谱的主要来源。
 
-### 分析不同会议
+### 1. 环境配置
 
-修改配置文件中的 `conference_id`。常见 ID 示例：
+```bash
+conda create --name ai-trend-analysis python=3.10
+conda activate ai-trend-analysis
+pip install -r requirements.txt
+```
 
-  * **ICLR**: `ICLR.cc/2025/Conference`
-  * **NeurIPS**: `NeurIPS.cc/2023/Conference`
-  * **ICML**: `ICML.cc/2024/Conference`
+### 2. 运行 OpenReview 单会议任务
 
-> **建议**: 在 [OpenReview](https://openreview.net/) 官网确认目标会议的准确 ID。
+在 `configs/` 中配置任务，然后运行：
 
+```bash
+python main.py --config configs/iclr_2025_full_analysis.yaml
+```
+
+如果需要审稿分图、接收类型图，或者快速测试某个 OpenReview 会议，可以使用这条旧流程。多会议数据库请使用上面的 atlas 脚本。
 
 ## 🤝 参与贡献
 
@@ -156,4 +123,4 @@ python main.py --config configs/iclr_2025_analysis.yaml
 
 ## 📄 许可证
 
-本项目基于 [MIT 许可证](https://www.google.com/search?q=LICENSE) 发布。
+本项目基于 [MIT 许可证](LICENSE) 发布。

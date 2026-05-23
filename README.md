@@ -1,6 +1,6 @@
 <div align="right"><strong>English</strong> | <a href="README_cn.md">中文</a></div>
 
-# AI Academic Conference Hotspot Analysis Framework
+# AI Paper Trends
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -25,143 +25,101 @@ Example path:
 
 `2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
 
-This framework provides an automated and configurable pipeline for mining research hotspots from papers submitted to top AI conferences (e.g., ICLR, NeurIPS, ICML). Driven by configuration files, it can execute data fetching, topic modeling, and results visualization.
+This repository is now centered on a browsable AI top-conference paper database and fine-grained topic atlas. The older single-conference OpenReview pipeline is still available, but the main artifact is the committed static index under `docs/topic-atlas/`.
 
-## 📋 Table of Contents
+## What Is Included
 
-- [AI Academic Conference Hotspot Analysis Framework](#ai-academic-conference-hotspot-analysis-framework)
-  - [AI Paper Database Index](#ai-paper-database-index)
-  - [📋 Table of Contents](#-table-of-contents)
-  - [📂 Project Structure](#-project-structure)
-  - [🚀 Quick Start](#-quick-start)
-    - [1. Environment Setup](#1-environment-setup)
-    - [2. Configure Analysis Task](#2-configure-analysis-task)
-    - [3. Run Automated Pipeline](#3-run-automated-pipeline)
-  - [🔬 Exploratory Analysis (Jupyter Notebooks)](#-exploratory-analysis-jupyter-notebooks)
-  - [💡 Advanced Options](#-advanced-options)
-    - [Analyzing Different Conferences](#analyzing-different-conferences)
-    - [Quick Testing](#quick-testing)
-  - [🤝 Contributing](#-contributing)
-  - [📄 License](#-license)
+| Area | Files |
+|---|---|
+| Browsable database | [docs/topic-atlas/](docs/topic-atlas/README.md) |
+| Topic indexes | [topic_index.csv](docs/topic-atlas/data/topic_index.csv), [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
+| Atlas generation | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) |
+| Fine-grained clustering | [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) |
+| Legacy OpenReview pipeline | [main.py](main.py), [src/](src), [configs/](configs) |
 
-## 📂 Project Structure
+## 🚀 Browse the Database
 
-```text
-.
-├── configs/              # YAML configuration files for analysis tasks
-├── data/                 # (Git ignored) Stores raw (.jsonl) and processed (.csv) data
-├── docs/                 # Documentation and related resources (e.g., README images)
-├── LICENSE               # Project license file
-├── main.py               # Main entry point script (runs the analysis)
-├── models/               # (Git ignored) Stores downloaded machine learning models
-├── notebooks/            # Jupyter Notebooks (tutorials, exploratory analysis)
-├── README_cn.md          # Project description in Chinese
-├── README.md             # Project description in English (this file)
-├── requirements.txt      # Python dependency list
-├── results/              # (Git ignored) Stores analysis results (plots, tables, models)
-├── src/                  # Core Python functional modules
-│   ├── analyze.py        # Analysis and visualization logic
-│   ├── get_papers.py     # Data fetching logic
-│   ├── run_topic_modeling.py # Topic modeling logic
-│   └── utils.py          # (Optional) Common utility functions
-└── .gitignore            # Specifies intentionally untracked files that Git should ignore
-````
+The easiest way to use this repository is to browse the static atlas:
 
-## 🚀 Quick Start
+- [Atlas home](docs/topic-atlas/README.md)
+- [2026 venue list](docs/topic-atlas/2026/README.md)
+- [ICLR 2026 topic list](docs/topic-atlas/2026/ICLR/README.md)
+- [Example topic page](docs/topic-atlas/2026/ICLR/topic-004.md)
 
-### 1\. Environment Setup
+Each topic page contains:
 
-It is recommended to use Conda for environment creation and `pip` for installing dependencies.
+- a Chinese display topic name,
+- reproducible English keyword labels,
+- representative papers,
+- paper-level links such as OpenReview, DOI, Semantic Scholar, or source URLs when available.
+
+The CSV indexes are useful if you want to build your own visualizations:
+
+- [topic_index.csv](docs/topic-atlas/data/topic_index.csv)
+- [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv)
+
+## 🔁 Rebuild the Topic Atlas
+
+The committed atlas is generated from local cached paper metadata and embeddings. The full embedding cache is intentionally not committed to GitHub.
+
+Install dependencies:
 
 ```bash
-# Clone the repository
-git clone [https://github.com/zhihengli-casia/AI-Paper-Trends.git](https://github.com/zhihengli-casia/AI-Paper-Trends.git)
-cd AI-Paper-Trends
-
-# 1. Create a new Conda environment (Python 3.10 recommended)
-conda create --name ai-trend-analysis python=3.10
-
-# 2. Activate the newly created environment
-conda activate ai-trend-analysis
-
-# 3. Install all required libraries using requirements.txt
 pip install -r requirements.txt
 ```
 
-### 2\. Configure Analysis Task
-
-The analysis pipeline is defined by `.yaml` files in the `configs/` directory.
-
-1.  Navigate to the `configs/` directory.
-2.  Duplicate an existing `.yaml` file or create a new one.
-3.  Modify the parameters within the file to specify your analysis target.
-
-**Example (`configs/iclr_2025_analysis.yaml`):**
-
-```yaml
-conference_id: 'ICLR.cc/2025/Conference' # Target conference ID
-fetch_reviews: True                      # Whether to fetch detailed review info
-limit: null                              # Upper limit on papers to process (null=unlimited)
-
-topic_modeling:
-  enabled: True                          # Whether to perform topic modeling
-  min_topic_size: 30                     # BERTopic minimum topic size
-
-analysis:
-  enabled: True                          # Whether to perform analysis and visualization
-  tasks:                                 # List of analysis tasks to execute
-    - 'plot_paper_count'                 #   - Plot ranking by paper count
-    - 'plot_avg_rating'                  #   - Plot ranking by average score
-    - 'plot_decision_breakdown'          #   - Plot decision composition breakdown
-    - 'generate_summary_table'           #   - Generate statistics table
-
-output_folder_name: 'iclr_2025_analysis' # Output directory name under results/
-```
-
-### 3\. Run Automated Pipeline
-
-Execute `main.py` from the project root directory, specifying the configuration file.
+Run fine-grained clustering for cached venue-year embeddings:
 
 ```bash
-python main.py --config configs/iclr_2025_analysis.yaml
+python scripts/fine_grained_topic_analysis.py \
+  --input-root results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25 \
+  --output-root results/fine_grained_venue_year_topics_2020_2026_mcs_fine
 ```
 
-The script will execute the data fetching, topic modeling, and results generation steps according to the configuration. Outputs will be located in the `data/` and `results/` directories.
+Generate the GitHub-browsable atlas:
 
-## 🔬 Exploratory Analysis (Jupyter Notebooks)
-
-The `notebooks/` directory provides a Jupyter environment for more in-depth or customized exploratory analysis based on the processed data (`data/processed/*.csv`) generated by `main.py`.
-
-**Usage Flow**:
-
-1.  Ensure the Conda environment is activated: `conda activate ai-trend-analysis`
-2.  Start Jupyter Lab from the project root: `jupyter lab`
-3.  Open the `.ipynb` files within the `notebooks/` directory in your browser.
-
-## 💡 Advanced Options
-
-### Analyzing Different Conferences
-
-Modify the `conference_id` in the configuration file. Common ID examples:
-
-  * **ICLR**: `ICLR.cc/2025/Conference`
-  * **NeurIPS**: `NeurIPS.cc/2023/Conference`
-  * **ICML**: `ICML.cc/2024/Conference`
-
-> **Suggestion**: Verify the exact ID of the target conference on the [OpenReview](https://openreview.net/) website.
-
-### Quick Testing
-
-To quickly validate the pipeline or configuration, set the `limit` parameter in the config file to process only a subset of papers:
-
-```yaml
-limit: 100 # Process only the first 100 papers
+```bash
+python scripts/build_topic_atlas.py \
+  --topic-root results/fine_grained_venue_year_topics_2020_2026_mcs_fine \
+  --output-root docs/topic-atlas \
+  --clean
 ```
+
+The current atlas was built using venue-year independent clustering:
+
+- BGE embedding cache,
+- UMAP dimensionality reduction,
+- HDBSCAN leaf clustering,
+- centroid reassignment for HDBSCAN outliers,
+- c-TF-IDF style keyword extraction,
+- heuristic Chinese topic naming for browsing.
+
+## 🧪 Legacy Single-Conference Pipeline
+
+The original OpenReview + BERTopic workflow is still available for small single-conference experiments. It is no longer the primary source of the committed multi-conference atlas.
+
+### 1. Environment Setup
+
+```bash
+conda create --name ai-trend-analysis python=3.10
+conda activate ai-trend-analysis
+pip install -r requirements.txt
+```
+
+### 2. Run an OpenReview Conference Task
+
+Configure a task in `configs/`, then run:
+
+```bash
+python main.py --config configs/iclr_2025_full_analysis.yaml
+```
+
+Use this path when you want review-score plots or a quick OpenReview-only experiment. Use the atlas scripts above for the multi-conference database.
 
 ## 🤝 Contributing
 
-Contributions are welcome\! Please feel free to report issues, suggest features, or submit code contributions via [Issues](https://github.com/zhihengli-casia/AI-Paper-Trends/issues) or [Pull Requests](https://github.com/zhihengli-casia/AI-Paper-Trends/pulls).
+Contributions are welcome. Please feel free to report issues, suggest features, or submit code contributions via [Issues](https://github.com/zhihengli-casia/AI-Paper-Trends/issues) or [Pull Requests](https://github.com/zhihengli-casia/AI-Paper-Trends/pulls).
 
 ## 📄 License
 
-This project is released under the [MIT License](https://www.google.com/search?q=LICENSE).
+This project is released under the [MIT License](LICENSE).
