@@ -10,13 +10,18 @@ This is not just a paper list. The goal is to provide a reproducible **topic com
 
 ## Current Analysis
 
-The latest run covers main-conference accepted papers from 2020 to 2026:
+The latest committed run is an accepted-paper analysis for major AI venues from 2020 to 2026.
 
-- 15 venues
-- 84 venue-year groups
-- 117,100 papers used for clustering
-- 763 venue-year topics
-- 0 final outliers after graph-community clustering and small-community merging
+| Metric | Value |
+|---|---:|
+| Venues | 15 |
+| Venue-year groups | 84 |
+| Papers used for clustering | 117,100 |
+| Venue-year topics | 763 |
+| Broad topic families in the atlas | 15 |
+| Final outlier papers | 0 |
+| Years covered | 2020-2026 |
+| 2026 accepted-paper data currently included | ICLR, AAAI |
 
 Method:
 
@@ -27,30 +32,33 @@ Scope:
 - Accepted main-conference papers only.
 - NLP venues exclude Findings, Industry, SRW, and other non-main tracks.
 - 2026 currently includes legally confirmed `ICLR 2026 accepted` and `AAAI 2026 Technical Tracks accepted`.
+- Large raw crawls, per-paper topic assignments, embedding files, and model caches are intentionally not committed.
 
-Lightweight result artifacts are committed under:
+Committed result tables:
 
-- Full Chinese report: [docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/REPORT_CN.md](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/REPORT_CN.md)
-- Top 10 topics per venue-year: [top10_topics_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/top10_topics_by_venue_year.csv)
-- Full topic summary: [topic_summary_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/topic_summary_by_venue_year.csv)
-- Run summary: [run_summary_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/run_summary_by_venue_year.csv)
-- Label trend table: [label_trend_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/label_trend_by_venue_year.csv)
-
-Large raw crawls, per-paper topic assignments, embedding files, and model caches are intentionally not committed.
+| File | Rows | What it contains |
+|---|---:|---|
+| [REPORT_CN.md](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/REPORT_CN.md) | - | Full Chinese narrative report |
+| [run_summary_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/run_summary_by_venue_year.csv) | 84 | Per venue-year paper counts, graph sizes, topic counts, outlier rates |
+| [top10_topics_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/top10_topics_by_venue_year.csv) | 700 | Top 10 topics for every available venue-year |
+| [topic_summary_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/topic_summary_by_venue_year.csv) | 763 | Full topic summary with labels, keywords, counts, shares, representative titles |
+| [label_trend_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/label_trend_by_venue_year.csv) | 763 | Topic-label trend table across years and venues |
+| [venue_year_family_composition.csv](docs/visuals/xhs_composition_atlas_2020_2026/venue_year_family_composition.csv) | 473 | Broad family composition for every venue-year |
+| [venue_year_topic_composition_full.csv](docs/visuals/xhs_composition_atlas_2020_2026/venue_year_topic_composition_full.csv) | 763 | Complete fine-grained topic composition for every venue-year |
 
 ## Topic Composition Atlas
 
 The repository includes lightweight composition visuals for reading and sharing:
 
+![AI Paper Trends Composition Atlas](docs/visuals/xhs_composition_atlas_2020_2026/00_composition_atlas_cover.png)
+
 - Atlas cover: [docs/visuals/xhs_composition_atlas_2020_2026/00_composition_atlas_cover.png](docs/visuals/xhs_composition_atlas_2020_2026/00_composition_atlas_cover.png)
 - Year-by-year venue composition: [docs/visuals/xhs_composition_atlas_2020_2026/by_year/](docs/visuals/xhs_composition_atlas_2020_2026/by_year/)
 - Venue-by-venue yearly composition: [docs/visuals/xhs_composition_atlas_2020_2026/by_venue/](docs/visuals/xhs_composition_atlas_2020_2026/by_venue/)
-- Venue-year family composition table: [venue_year_family_composition.csv](docs/visuals/xhs_composition_atlas_2020_2026/venue_year_family_composition.csv)
-- Full venue-year topic composition table: [venue_year_topic_composition_full.csv](docs/visuals/xhs_composition_atlas_2020_2026/venue_year_topic_composition_full.csv)
 
 Each horizontal composition bar represents all accepted papers from one venue-year. Colors encode broad topic families and segment lengths encode shares. The right-side labels show the leading fine-grained topics; the full fine-grained composition is available in CSV.
 
-## Data Scale
+## Coverage by Year
 
 | Year | Venue-Year Groups | Papers | Topics |
 |---:|---:|---:|---:|
@@ -62,16 +70,36 @@ Each horizontal composition bar represents all accepted papers from one venue-ye
 | 2025 | 14 | 28,619 | 144 |
 | 2026 | 2 | 9,501 | 27 |
 
-## Venues
+## Coverage by Area
 
-| Area | Venues |
-|---|---|
-| Computer Vision | CVPR, ICCV, ECCV |
-| Machine Learning | ICLR, ICML, NeurIPS |
-| NLP | ACL, EMNLP, NAACL |
-| General AI | AAAI, IJCAI |
-| Multimedia | ACM MM / ACMMM |
-| Data Mining / IR / Web | KDD, SIGIR, WWW |
+| Area | Venues | Venue-Year Groups | Papers | Topics |
+|---|---|---:|---:|---:|
+| Computer Vision | CVPR, ICCV, ECCV | 12 | 24,999 | 132 |
+| Machine Learning | ICLR, ICML, NeurIPS | 19 | 46,238 | 214 |
+| NLP | ACL, EMNLP, NAACL | 16 | 14,651 | 147 |
+| General AI | AAAI, IJCAI | 13 | 21,179 | 121 |
+| Multimedia | ACMMM | 6 | 5,006 | 57 |
+| Data Mining / IR / Web | KDD, SIGIR, WWW | 18 | 5,027 | 92 |
+
+## Coverage by Venue
+
+| Area | Venue | Years | Venue-Year Groups | Papers | Topics | Latest #1 topic |
+|---|---|---:|---:|---:|---:|---|
+| General AI | AAAI | 2020-2026 | 7 | 15,638 | 73 | 2026: 3D vision, Gaussian Splatting, novel-view synthesis, reconstruction (610, 14.70%) |
+| General AI | IJCAI | 2020-2025 | 6 | 5,541 | 48 | 2025: multimodal understanding, vision-language representation, cross-modal alignment (277, 21.64%) |
+| Machine Learning | ICLR | 2020-2026 | 7 | 15,529 | 71 | 2026: video diffusion generation and editing (752, 14.05%) |
+| Machine Learning | ICML | 2020-2025 | 6 | 11,268 | 64 | 2025: efficient LLM inference, compression, resource optimization (446, 13.39%) |
+| Machine Learning | NeurIPS | 2020-2025 | 6 | 19,441 | 79 | 2025: RL-driven LLM reasoning and reward learning (781, 14.77%) |
+| Computer Vision | CVPR | 2020-2025 | 6 | 13,140 | 68 | 2025: text-to-image diffusion, sampling, image editing (458, 15.95%) |
+| Computer Vision | ICCV | 2021-2025 | 3 | 6,469 | 36 | 2025: multimodal/VLM understanding and cross-modal reasoning (460, 17.03%) |
+| Computer Vision | ECCV | 2020-2024 | 3 | 5,390 | 28 | 2024: open-vocabulary detection, segmentation, CLIP semantics (373, 15.63%) |
+| NLP | ACL | 2020-2025 | 6 | 5,902 | 60 | 2025: efficient LLMs, long context, attention, inference optimization (308, 18.13%) |
+| NLP | EMNLP | 2020-2025 | 6 | 6,550 | 56 | 2025: retrieval-augmented LLMs, RAG, knowledge injection, QA (254, 14.04%) |
+| NLP | NAACL | 2021-2025 | 4 | 2,199 | 31 | 2025: LLM social safety, bias, misinformation, detection (126, 17.55%) |
+| Multimedia | ACMMM | 2020-2025 | 6 | 5,006 | 57 | 2025: multimedia retrieval, cross-modal retrieval, semantic matching (197, 15.77%) |
+| Data Mining | KDD | 2020-2025 | 6 | 1,985 | 36 | 2025: graph foundation models, LLM-enhanced graph learning, node representation (122, 22.10%) |
+| Information Retrieval | SIGIR | 2020-2025 | 6 | 1,077 | 23 | 2025: recommendation, preference modeling, feedback learning, personalized ranking (85, 35.56%) |
+| Web / Recommender Systems | WWW | 2020-2025 | 6 | 1,965 | 33 | 2025: retrieval-augmented recommendation, ranking, personalization (40, 25.97%) |
 
 ## Recent Topic Examples
 

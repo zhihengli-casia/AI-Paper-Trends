@@ -10,7 +10,18 @@
 
 ## 当前全量分析
 
-最新一次分析使用 2020-2026 年主会 accepted 论文，共覆盖 15 个会议，117,100 篇进入聚类，763 个主题。
+最新一次分析使用 2020-2026 年主会 accepted 论文，目标是给出“每一年、每个会议”的完整主题组成，而不是只列几个热门方向。
+
+| 指标 | 数值 |
+|---|---:|
+| 覆盖会议 | 15 |
+| 会议-年份组 | 84 |
+| 进入聚类论文 | 117,100 |
+| 会议-年份细主题 | 763 |
+| 图谱中的主题大类 | 15 |
+| 最终离群论文 | 0 |
+| 年份范围 | 2020-2026 |
+| 2026 已纳入口径 | ICLR accepted, AAAI Technical Tracks accepted |
 
 聚类口径：
 
@@ -19,13 +30,17 @@
 - 主题算法：`BGE embedding -> kNN cosine graph -> Louvain community detection -> 小社区合并 -> 中文规则命名`。
 - 2026 数据：目前只纳入已能合法确认的 `ICLR 2026 accepted` 和 `AAAI 2026 Technical Tracks accepted`。
 
-结果文件：
+已提交的轻量结果文件：
 
-- 完整中文报告：[docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/REPORT_CN.md](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/REPORT_CN.md)
-- 每个会议-年份 Top 10 主题：[top10_topics_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/top10_topics_by_venue_year.csv)
-- 全部主题摘要：[topic_summary_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/topic_summary_by_venue_year.csv)
-- 年度/会议运行统计：[run_summary_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/run_summary_by_venue_year.csv)
-- 主题趋势表：[label_trend_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/label_trend_by_venue_year.csv)
+| 文件 | 行数 | 内容 |
+|---|---:|---|
+| [REPORT_CN.md](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/REPORT_CN.md) | - | 完整中文报告 |
+| [run_summary_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/run_summary_by_venue_year.csv) | 84 | 每个会议-年份的论文数、图规模、主题数、离群率 |
+| [top10_topics_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/top10_topics_by_venue_year.csv) | 700 | 每个会议-年份的 Top 10 主题 |
+| [topic_summary_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/topic_summary_by_venue_year.csv) | 763 | 全部细主题，含命名、关键词、篇数、占比、代表论文标题 |
+| [label_trend_by_venue_year.csv](docs/results/venue_year_main_accepted_topics_2020_2026_louvain_bge_m25/label_trend_by_venue_year.csv) | 763 | 跨会议、跨年份的主题趋势表 |
+| [venue_year_family_composition.csv](docs/visuals/xhs_composition_atlas_2020_2026/venue_year_family_composition.csv) | 473 | 每个会议-年份的主题大类组成 |
+| [venue_year_topic_composition_full.csv](docs/visuals/xhs_composition_atlas_2020_2026/venue_year_topic_composition_full.csv) | 763 | 每个会议-年份的完整细主题组成 |
 
 没有把完整 per-paper 结果和原始抓取数据提交到仓库，因为体积较大；这些文件应在本地 `data/` 和 `results/` 下生成。
 
@@ -33,15 +48,15 @@
 
 为了让结果更适合阅读和传播，仓库内提交了一套轻量级组成图谱：
 
+![AI Paper Trends 主题组成图谱](docs/visuals/xhs_composition_atlas_2020_2026/00_composition_atlas_cover.png)
+
 - 图谱入口：[docs/visuals/xhs_composition_atlas_2020_2026/00_composition_atlas_cover.png](docs/visuals/xhs_composition_atlas_2020_2026/00_composition_atlas_cover.png)
 - 按年份查看所有会议组成：[docs/visuals/xhs_composition_atlas_2020_2026/by_year/](docs/visuals/xhs_composition_atlas_2020_2026/by_year/)
 - 按会议查看历年组成：[docs/visuals/xhs_composition_atlas_2020_2026/by_venue/](docs/visuals/xhs_composition_atlas_2020_2026/by_venue/)
-- 每个会议-年份的主题大类组成：[venue_year_family_composition.csv](docs/visuals/xhs_composition_atlas_2020_2026/venue_year_family_composition.csv)
-- 每个会议-年份的完整细主题组成：[venue_year_topic_composition_full.csv](docs/visuals/xhs_composition_atlas_2020_2026/venue_year_topic_composition_full.csv)
 
 每条横向组成条都代表某个会议某一年的全部论文，颜色表示主题大类，长度表示占比。右侧文字只展示主要细主题；精确到每个细主题的完整构成在 CSV 中。
 
-## 数据规模
+## 按年份覆盖
 
 | 年份 | 会议-年份组 | 论文数 | 主题数 |
 |---:|---:|---:|---:|
@@ -53,16 +68,36 @@
 | 2025 | 14 | 28,619 | 144 |
 | 2026 | 2 | 9,501 | 27 |
 
-## 会议覆盖
+## 按领域覆盖
 
-| 领域 | 会议 |
-|---|---|
-| CV | CVPR, ICCV, ECCV |
-| ML | ICLR, ICML, NeurIPS |
-| NLP | ACL, EMNLP, NAACL |
-| 综合 AI | AAAI, IJCAI |
-| 多媒体 | ACM MM / ACMMM |
-| 数据挖掘 / 检索 / Web | KDD, SIGIR, WWW |
+| 领域 | 会议 | 会议-年份组 | 论文数 | 主题数 |
+|---|---|---:|---:|---:|
+| 计算机视觉 | CVPR, ICCV, ECCV | 12 | 24,999 | 132 |
+| 机器学习 | ICLR, ICML, NeurIPS | 19 | 46,238 | 214 |
+| NLP | ACL, EMNLP, NAACL | 16 | 14,651 | 147 |
+| 综合 AI | AAAI, IJCAI | 13 | 21,179 | 121 |
+| 多媒体 | ACMMM | 6 | 5,006 | 57 |
+| 数据挖掘 / 检索 / Web | KDD, SIGIR, WWW | 18 | 5,027 | 92 |
+
+## 按会议覆盖
+
+| 领域 | 会议 | 年份 | 会议-年份组 | 论文数 | 主题数 | 最新年份 Top1 主题 |
+|---|---|---:|---:|---:|---:|---|
+| 综合 AI | AAAI | 2020-2026 | 7 | 15,638 | 73 | 2026：三维视觉：Gaussian Splatting、新视角合成与重建（610, 14.70%） |
+| 综合 AI | IJCAI | 2020-2025 | 6 | 5,541 | 48 | 2025：多模态理解：视觉语言表征与跨模态对齐（277, 21.64%） |
+| 机器学习 | ICLR | 2020-2026 | 7 | 15,529 | 71 | 2026：生成模型：视频扩散生成与编辑（752, 14.05%） |
+| 机器学习 | ICML | 2020-2025 | 6 | 11,268 | 64 | 2025：高效大模型：推理加速、压缩与资源优化（446, 13.39%） |
+| 机器学习 | NeurIPS | 2020-2025 | 6 | 19,441 | 79 | 2025：大模型推理：RL驱动推理与奖励学习（781, 14.77%） |
+| 计算机视觉 | CVPR | 2020-2025 | 6 | 13,140 | 68 | 2025：生成模型：文生图、扩散采样与图像编辑（458, 15.95%） |
+| 计算机视觉 | ICCV | 2021-2025 | 3 | 6,469 | 36 | 2025：多模态大模型：视觉语言理解与跨模态推理（460, 17.03%） |
+| 计算机视觉 | ECCV | 2020-2024 | 3 | 5,390 | 28 | 2024：开放词汇视觉：开放词汇检测、分割与CLIP语义（373, 15.63%） |
+| NLP | ACL | 2020-2025 | 6 | 5,902 | 60 | 2025：高效大模型：长上下文、注意力与推理优化（308, 18.13%） |
+| NLP | EMNLP | 2020-2025 | 6 | 6,550 | 56 | 2025：检索增强大模型：RAG、知识注入与问答（254, 14.04%） |
+| NLP | NAACL | 2021-2025 | 4 | 2,199 | 31 | 2025：大模型社会安全：偏见、虚假信息与检测（126, 17.55%） |
+| 多媒体 | ACMMM | 2020-2025 | 6 | 5,006 | 57 | 2025：多媒体检索：跨模态检索、语义匹配与内容理解（197, 15.77%） |
+| 数据挖掘 | KDD | 2020-2025 | 6 | 1,985 | 36 | 2025：图基础模型：LLM增强图学习与节点表示（122, 22.10%） |
+| 信息检索 | SIGIR | 2020-2025 | 6 | 1,077 | 23 | 2025：推荐系统：偏好建模、反馈学习与个性化排序（85, 35.56%） |
+| Web / 推荐系统 | WWW | 2020-2025 | 6 | 1,965 | 33 | 2025：推荐系统：检索增强推荐、排序与个性化（40, 25.97%） |
 
 ## 最新年份主题示例
 
