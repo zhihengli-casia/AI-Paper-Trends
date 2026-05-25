@@ -10,7 +10,7 @@ AI Paper Trends is an open-source index of AI papers and research topics. It tra
 
 The project started from a simple need: see what each AI venue is publishing every year without digging through dozens of proceedings pages.
 
-[![Browse the Atlas](https://img.shields.io/badge/Browse-Topic%20Atlas-0969da?style=for-the-badge)](docs/topic-atlas/README.md)
+[![Browse the Atlas](https://img.shields.io/badge/Browse-Interactive%20Atlas-0969da?style=for-the-badge)](docs/index.html)
 [![Download Topic Index](https://img.shields.io/badge/CSV-Topic%20Index-2da44e?style=for-the-badge)](docs/topic-atlas/data/topic_index.csv)
 
 The atlas is updated as new public proceedings and metadata become available. The current checked-in snapshot is summarized below.
@@ -87,6 +87,7 @@ Candidate sources are tracked for future expansion. Inclusion depends on public 
 
 | Entry | Link |
 |---|---|
+| Interactive explorer | [docs/index.html](docs/index.html) |
 | Atlas home | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
 | Latest indexed year | [docs/topic-atlas/2026/README.md](docs/topic-atlas/2026/README.md) |
 | Topic CSV index | [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) |
@@ -188,6 +189,7 @@ Tracked venue schedules and source notes live in [configs/auto_update.yaml](conf
 
 | Path | Purpose |
 |---|---|
+| [docs/index.html](docs/index.html) | Interactive browser for filtering by year, venue, macro topic, and keyword. |
 | [docs/topic-atlas/](docs/topic-atlas/README.md) | Static paper-topic atlas. |
 | [docs/clean-2020-plus/](docs/clean-2020-plus/README.md) | Conference-only 2020-2026 topic snapshot. |
 | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) | Static atlas generator. |

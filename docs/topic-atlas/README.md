@@ -4,6 +4,8 @@ Continuously updated fine-grained topic index generated from AI conference and j
 
 Navigation pattern: **year -> venue -> topic -> paper**.
 
+[Interactive explorer](../index.html) | [Topic CSV](data/topic_index.csv)
+
 The numbers below describe the current checked-in index. They are expected to grow as new venues, years, and proceedings are added.
 
 - Indexed venue-year groups: **160**

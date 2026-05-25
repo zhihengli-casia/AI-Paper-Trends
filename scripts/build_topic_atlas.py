@@ -1055,6 +1055,8 @@ def build_home_page(output_root: Path, summary: pd.DataFrame, topic_index: pd.Da
         "",
         "Navigation pattern: **year -> venue -> topic -> paper**.",
         "",
+        "[Interactive explorer](../index.html) | [Topic CSV](data/topic_index.csv)",
+        "",
         "The numbers below describe the current checked-in index. They are expected to grow as new "
         "venues, years, and proceedings are added.",
         "",
