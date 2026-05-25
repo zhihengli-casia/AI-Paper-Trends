@@ -4,13 +4,39 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## AI 论文数据库索引
+AI Paper Trends 是一个持续扩展的 AI 论文数据库和细粒度主题图谱，覆盖主要 AI 会议与部分期刊。数据库按照以下结构组织：
 
-**从这里开始浏览：[AI Paper Topic Atlas](docs/topic-atlas/README.md)**
+**年份 -> venue -> 主题 -> 论文**
 
-数据库按照 **年份 -> venue -> 主题 -> 论文** 组织。当前提交版本覆盖 **155,662 篇会议与期刊论文**、**160 个 venue-year 单元**、**7,378 个细粒度主题**。这些数字代表当前仓库快照，后续随着新会议、新年份和新论文集加入会持续增长。
+目标是让大规模科研趋势可以被浏览、审计和复用，而不是只停留在一次性的可视化结果里。
 
-按领域划分的会议覆盖范围：
+## 当前快照
+
+当前仓库中已提交的静态图谱包含：
+
+| 指标 | 数值 |
+|---|---:|
+| 论文 | 155,662 |
+| venue-year 单元 | 160 |
+| 细粒度主题页 | 7,378 |
+| 年份 | 2020-2026 |
+| 回填后未分配论文 | 25 |
+
+从这里开始浏览：[AI Paper Topic Atlas](docs/topic-atlas/README.md)
+
+## 可以用它做什么
+
+- 按年份、会议/期刊、细粒度主题和单篇论文浏览文献。
+- 比较不同顶会、期刊和年份的研究方向变化。
+- 使用机器可读 CSV 索引做二次分析和可视化。
+- 基于缓存元数据和主题结果重新生成静态图谱。
+- 通过自动更新配置继续扩展新的会议、期刊和年份。
+
+## 覆盖范围
+
+下面的数字对应当前仓库快照。随着更多会议、年份和论文集加入，这些数字会继续变化。
+
+### 会议
 
 | 领域 | 已收录 venue | 论文 | 细粒度主题 |
 |---|---|---:|---:|
@@ -23,7 +49,7 @@
 | 数据挖掘 / 检索 / Web / 数据库 | KDD, SIGIR, WWW, ICDE, SIGMOD | 7,601 | 482 |
 | 医疗 AI | MICCAI | 428 | 41 |
 
-按领域划分的期刊覆盖范围：
+### 期刊
 
 | 领域 | 已收录期刊 | 论文 | 细粒度主题 |
 |---|---|---:|---:|
@@ -31,7 +57,9 @@
 | 视觉 / 图像期刊 | TPAMI, IJCV, TIP, PR | 8,009 | 456 |
 | 多媒体 / 数据期刊 | TMM, TKDE | 2,086 | 124 |
 
-待补充来源会作为候选源持续跟踪，实际纳入取决于公开元数据可得性和数据质量：
+### 待补充来源
+
+候选来源会持续跟踪，实际纳入取决于公开元数据可得性和数据质量。
 
 | 领域 | 候选会议与期刊 |
 |---|---|
@@ -43,55 +71,15 @@
 | HCI / 系统 | UIST, CSCW, IMWUT, UbiComp |
 | 医疗 AI | TMI, Medical Image Analysis, ISBI |
 
-快速入口：
+## 浏览入口
 
 | 入口 | 链接 |
 |---|---|
-| 总图谱 | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
-| 2020-2026 会议主题快照 | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) |
+| 图谱首页 | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
+| 最新收录年份 | [docs/topic-atlas/2026/README.md](docs/topic-atlas/2026/README.md) |
 | 主题 CSV 索引 | [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) |
 | 会议-年份 CSV 汇总 | [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
 | 自动更新状态 | [docs/auto-update/status.md](docs/auto-update/status.md) |
-
-本仓库提供一个可持续扩展的 AI 论文数据库和细粒度主题图谱，覆盖主要会议与部分期刊，同时保留单会议 OpenReview 分析流程，便于进行会议级实验。
-
-## 2020-2026 会议主题快照
-
-[2020-2026 会议主题快照](docs/clean-2020-plus/README.md) 汇总 conference / main accepted / published 口径下的会议论文主题分布，提供逐年、逐会议、逐会议-年份和逐主题的聚合表。
-
-快照覆盖范围：
-
-| 指标 | 数值 |
-|---|---:|
-| 已聚类会议论文 | 142,799 |
-| 会议 | 25 |
-| 会议-年份单元 | 132 |
-| 会议-年份主题总数 | 1,307 |
-| 年份 | 2020-2026 |
-| 最终离群点 | 0 |
-
-CSV 表格包含每个会议-年份的完整主题汇总、每个会议最新年份的主题列表、逐年覆盖和逐会覆盖。
-
-## 包含内容
-
-| 内容 | 文件 |
-|---|---|
-| 可浏览论文数据库 | [docs/topic-atlas/](docs/topic-atlas/README.md) |
-| 2020+ 会议主题快照 | [docs/clean-2020-plus/](docs/clean-2020-plus/README.md) |
-| 主题索引数据 | [topic_index.csv](docs/topic-atlas/data/topic_index.csv), [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
-| 图谱生成脚本 | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) |
-| 细粒度聚类脚本 | [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) |
-| 自动更新引擎 | [configs/auto_update.yaml](configs/auto_update.yaml), [scripts/auto_update_atlas.py](scripts/auto_update_atlas.py), [docs/auto-update/status.md](docs/auto-update/status.md) |
-| 单会议 OpenReview 流程 | [main.py](main.py), [src/](src), [configs/](configs) |
-
-## 🚀 浏览数据库
-
-这个仓库最主要的使用方式是直接浏览静态主题图谱：
-
-- [图谱总入口](docs/topic-atlas/README.md)
-- [最新收录年份](docs/topic-atlas/2026/README.md)
-- 每个年份下的会议页，例如 `docs/topic-atlas/<year>/<venue>/README.md`
-- 每个会议下的主题页，例如 `docs/topic-atlas/<year>/<venue>/topic-XXX.md`
 
 每个主题页包含：
 
@@ -100,14 +88,43 @@ CSV 表格包含每个会议-年份的完整主题汇总、每个会议最新年
 - 代表论文，
 - 论文级外链，例如 OpenReview、DOI、Semantic Scholar 或来源 URL。
 
-如果想自己做可视化，可以直接使用 CSV 索引：
+## 数据文件
 
-- [topic_index.csv](docs/topic-atlas/data/topic_index.csv)
-- [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv)
+| 文件 | 说明 |
+|---|---|
+| [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) | 主题级索引，包含年份、venue、topic ID、主题标签、论文数量和代表论文。 |
+| [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) | venue-year 覆盖汇总，包含论文数、主题数和聚类诊断指标。 |
+| [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) | 2020-2026 会议论文干净版主题快照。 |
+| [docs/auto-update/status.md](docs/auto-update/status.md) | 最近一次轻量自动更新检查报告。 |
 
-## 🔁 重新生成主题图谱
+大体积原始元数据、embedding 和中间聚类结果不会直接提交到仓库中，相关目录由 Git 忽略或存放在仓库外部。
 
-主题图谱由缓存论文元数据和 embedding 生成。大体积 embedding 缓存存放在仓库外部。
+## 数据口径与质量说明
+
+- 公开图谱聚焦可公开访问元数据的论文。审稿分、拒稿论文和非公开审稿讨论不会纳入，除非会议本身公开发布这些信息。
+- 不同会议、期刊和年份的覆盖完整度会受数据源开放程度影响。
+- 主题名由算法自动生成，并经过规则化处理以便浏览；它们是分析辅助标签，不是权威学科分类。
+- 论文链接采用 best-effort 方式指向 OpenReview、DOI、Semantic Scholar、出版商页面或来源元数据 URL。
+
+## 方法
+
+当前图谱采用按 venue-year 独立聚类的方式生成，也就是每个会议或期刊的每一年都有自己的主题结构。
+
+流程概览：
+
+1. 从 OpenReview、DBLP、OpenAlex、会议论文集页面和出版商元数据等公开来源收集论文元数据。
+2. 规范化 venue-year 记录，仓库展示口径聚焦公开的已发表、已接收或可公开访问的论文元数据。
+3. 基于论文标题和摘要生成并缓存 BGE embedding。
+4. 使用 UMAP 降维。
+5. 使用 HDBSCAN leaf clustering 生成细粒度主题。
+6. 对 HDBSCAN 离群点做最近主题质心回填。
+7. 使用 c-TF-IDF 风格统计提取可复现的英文关键词标签。
+8. 生成启发式中文展示主题名，并在同一个 venue-year 内消解重名主题。
+9. 生成可浏览的 Markdown 静态图谱和可分析的 CSV 索引。
+
+主题名主要服务于浏览，不等同于最终科学分类。每个主题页都会保留代表论文和关键词池，方便后续审计和修正。
+
+## 重新生成
 
 安装依赖：
 
@@ -115,7 +132,7 @@ CSV 表格包含每个会议-年份的完整主题汇总、每个会议最新年
 pip install -r requirements.txt
 ```
 
-对缓存好的会议-年份 embedding 做细粒度聚类：
+对缓存好的 venue-year embedding 做细粒度聚类：
 
 ```bash
 python scripts/fine_grained_topic_analysis.py \
@@ -123,7 +140,7 @@ python scripts/fine_grained_topic_analysis.py \
   --output-root results/fine_grained_venue_year_topics_2020_2026_mcs_fine
 ```
 
-生成静态主题图谱：
+生成静态图谱：
 
 ```bash
 python scripts/build_topic_atlas.py \
@@ -132,22 +149,14 @@ python scripts/build_topic_atlas.py \
   --clean
 ```
 
-当前图谱的生成逻辑是：
+## 自动更新
 
-- 复用 BGE embedding 缓存，
-- 按会议-年份独立聚类，
-- UMAP 降维，
-- HDBSCAN leaf 细聚类，
-- 对 HDBSCAN 离群点做 centroid 回填，
-- 用 c-TF-IDF 风格关键词提取生成英文标签，
-- 用启发式中文命名辅助浏览。
+仓库包含 GitHub Actions 自动更新引擎：
 
-## 🔄 自动更新
-
-仓库包含一套 GitHub Actions 自动更新引擎：
-
-- 每周轻量检查：在 GitHub 托管 runner 上检测哪些会议-年份卷宗已经到期或需要继续观察，并更新 [docs/auto-update/status.md](docs/auto-update/status.md)。
-- 完整刷新：在带有 `ai-paper-trends` 标签的 self-hosted runner 上重建 `docs/topic-atlas`。该模式需要外部 embedding/result 缓存。把仓库变量 `AUTO_REFRESH_ATLAS` 设为 `true` 后，它会跟随每周定时任务运行。
+| 模式 | 用途 | 备注 |
+|---|---|---|
+| 每周轻量检查 | 检测哪些 venue-year 卷宗已经到期或值得继续观察。 | 在 GitHub 托管 runner 上运行，并更新 [docs/auto-update/status.md](docs/auto-update/status.md)。 |
+| 完整图谱刷新 | 重建 `docs/topic-atlas`。 | 需要带有 `ai-paper-trends` 标签的 self-hosted runner，以及外部 embedding/result 缓存。 |
 
 本地运行轻量检查：
 
@@ -163,11 +172,23 @@ python scripts/auto_update_atlas.py refresh
 
 会议时间表和数据源备注在 [configs/auto_update.yaml](configs/auto_update.yaml) 中维护。
 
-## 🧪 单会议流程
+## 项目结构
 
-OpenReview + BERTopic 流程适合小规模单会议实验，可用于审稿分图、接收类型图和 OpenReview-only 分析。
+| 路径 | 用途 |
+|---|---|
+| [docs/topic-atlas/](docs/topic-atlas/README.md) | 可浏览的静态论文主题图谱。 |
+| [docs/clean-2020-plus/](docs/clean-2020-plus/README.md) | 2020-2026 会议论文主题快照。 |
+| [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) | 静态图谱生成脚本。 |
+| [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) | 按 venue-year 的细粒度主题聚类脚本。 |
+| [configs/auto_update.yaml](configs/auto_update.yaml) | venue 更新时间表和来源配置。 |
+| [scripts/auto_update_atlas.py](scripts/auto_update_atlas.py) | 轻量检查和完整刷新入口。 |
+| [main.py](main.py), [src/](src), [configs/](configs) | 原始单会议 OpenReview 分析流程。 |
 
-### 1. 环境配置
+## 单会议 OpenReview 流程
+
+仓库仍保留早期 OpenReview + BERTopic 流程，适合做单个会议的审稿分分析、接收类型分析或 OpenReview-only 小实验。
+
+创建环境：
 
 ```bash
 conda create --name ai-trend-analysis python=3.10
@@ -175,20 +196,27 @@ conda activate ai-trend-analysis
 pip install -r requirements.txt
 ```
 
-### 2. 运行 OpenReview 单会议任务
-
-在 `configs/` 中配置任务，然后运行：
+运行一个配置好的 OpenReview 任务：
 
 ```bash
 python main.py --config configs/iclr_2025_full_analysis.yaml
 ```
 
-如果需要审稿分图、接收类型图，或者快速测试某个 OpenReview 会议，可以使用这条旧流程。多会议数据库请使用上面的 atlas 脚本。
+如果需要审稿分图、接收类型分析或快速测试单个 OpenReview 会议，可以使用这条流程。多会议数据库请使用 atlas 流程。
 
-## 🤝 参与贡献
+## 参与贡献
 
-欢迎通过提交 [Issues](https://github.com/zhihengli-casia/AI-Paper-Trends/issues) 或 [Pull Requests](https://github.com/zhihengli-casia/AI-Paper-Trends/pulls) 来报告问题、提出建议或贡献代码。
+欢迎贡献：
 
-## 📄 许可证
+- 修正 venue-year 元数据，
+- 增加新的公开数据源，
+- 改进主题命名，
+- 审计代表论文，
+- 改进自动更新时间表，
+- 增加可视化 notebook 或下游分析示例。
+
+可以通过 [Issues](https://github.com/zhihengli-casia/AI-Paper-Trends/issues) 或 [Pull Requests](https://github.com/zhihengli-casia/AI-Paper-Trends/pulls) 参与。
+
+## 许可证
 
 本项目基于 [MIT 许可证](LICENSE) 发布。

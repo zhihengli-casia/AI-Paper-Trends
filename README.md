@@ -4,13 +4,39 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## AI Paper Database Index
+AI Paper Trends is a continuously expandable paper database and fine-grained topic atlas for major AI conferences and selected journals. It organizes papers as:
 
-**Start here: [AI Paper Topic Atlas](docs/topic-atlas/README.md)**
+**year -> venue -> topic -> paper**
 
-Browse the paper database as **year -> venue -> topic -> paper**. The checked-in index currently covers **155,662 conference and journal papers**, **160 venue-year groups**, and **7,378 fine-grained topics**. These counts describe the latest published repository snapshot and are expected to grow as additional venues, years, and proceedings are added.
+The goal is to make large-scale research trends browsable, auditable, and reusable for downstream analysis.
 
-Conference coverage by area:
+## Current Snapshot
+
+The checked-in static atlas currently contains:
+
+| Metric | Value |
+|---|---:|
+| Papers | 155,662 |
+| Venue-year groups | 160 |
+| Fine-grained topic pages | 7,378 |
+| Years | 2020-2026 |
+| Unassigned papers after reassignment | 25 |
+
+Start browsing here: [AI Paper Topic Atlas](docs/topic-atlas/README.md)
+
+## What You Can Do
+
+- Browse papers by year, venue, fine-grained topic, and individual paper.
+- Compare research directions across conferences, journals, and years.
+- Use machine-readable CSV indexes for custom analysis and visualization.
+- Rebuild the static atlas from cached paper metadata and topic outputs.
+- Extend the tracked venue list through the update configuration.
+
+## Coverage
+
+Counts below describe the current repository snapshot. They will change as more venues, years, and proceedings are added.
+
+### Conferences
 
 | Area | Indexed venues | Papers | Fine topics |
 |---|---|---:|---:|
@@ -23,7 +49,7 @@ Conference coverage by area:
 | Data mining / IR / Web / DB | KDD, SIGIR, WWW, ICDE, SIGMOD | 7,601 | 482 |
 | Medical AI | MICCAI | 428 | 41 |
 
-Journal coverage by area:
+### Journals
 
 | Area | Indexed journals | Papers | Fine topics |
 |---|---|---:|---:|
@@ -31,7 +57,9 @@ Journal coverage by area:
 | Vision / image journals | TPAMI, IJCV, TIP, PR | 8,009 | 456 |
 | Multimedia / data journals | TMM, TKDE | 2,086 | 124 |
 
-Planned additions are tracked as candidate sources, subject to public metadata availability and source quality:
+### Planned Additions
+
+Candidate sources are tracked for future expansion. Inclusion depends on public metadata availability and source quality.
 
 | Area | Candidate venues and journals |
 |---|---|
@@ -43,71 +71,60 @@ Planned additions are tracked as candidate sources, subject to public metadata a
 | HCI / systems | UIST, CSCW, IMWUT, UbiComp |
 | Medical AI | TMI, Medical Image Analysis, ISBI |
 
-Quick links:
+## Explore the Atlas
 
 | Entry | Link |
 |---|---|
-| Full atlas | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
-| 2020-2026 conference topic snapshot | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) |
+| Atlas home | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
+| Latest indexed year | [docs/topic-atlas/2026/README.md](docs/topic-atlas/2026/README.md) |
 | Topic CSV index | [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) |
 | Venue-year CSV summary | [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
 | Auto-update status | [docs/auto-update/status.md](docs/auto-update/status.md) |
 
-This repository provides a browsable, continuously expandable AI paper database and fine-grained topic atlas across major conferences and selected journals. It also includes the original single-conference OpenReview pipeline for focused conference-level experiments.
-
-## 2020-2026 Conference Topic Snapshot
-
-The [2020-2026 conference topic snapshot](docs/clean-2020-plus/README.md) summarizes topic distributions for conference papers under a conference/main accepted or published scope. It provides aggregate tables by year, venue, venue-year, and topic.
-
-Snapshot coverage:
-
-| Metric | Value |
-|---|---:|
-| Clustered conference papers | 142,799 |
-| Conferences | 25 |
-| Venue-year units | 132 |
-| Topics across venue-year units | 1,307 |
-| Years | 2020-2026 |
-| Final outliers | 0 |
-
-The CSV tables include full topic summaries by venue-year, latest-year topic lists by conference, yearly coverage, and venue coverage.
-
-## What Is Included
-
-| Area | Files |
-|---|---|
-| Browsable database | [docs/topic-atlas/](docs/topic-atlas/README.md) |
-| 2020+ conference topic snapshot | [docs/clean-2020-plus/](docs/clean-2020-plus/README.md) |
-| Topic indexes | [topic_index.csv](docs/topic-atlas/data/topic_index.csv), [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
-| Atlas generation | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) |
-| Fine-grained clustering | [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) |
-| Automatic updates | [configs/auto_update.yaml](configs/auto_update.yaml), [scripts/auto_update_atlas.py](scripts/auto_update_atlas.py), [docs/auto-update/status.md](docs/auto-update/status.md) |
-| Single-conference OpenReview pipeline | [main.py](main.py), [src/](src), [configs/](configs) |
-
-## 🚀 Browse the Database
-
-The easiest way to use this repository is to browse the static atlas:
-
-- [Atlas home](docs/topic-atlas/README.md)
-- [Latest indexed year](docs/topic-atlas/2026/README.md)
-- Venue pages under each year, such as `docs/topic-atlas/<year>/<venue>/README.md`
-- Topic pages under each venue, such as `docs/topic-atlas/<year>/<venue>/topic-XXX.md`
-
-Each topic page contains:
+Each topic page includes:
 
 - a Chinese display topic name,
 - reproducible English keyword labels,
 - representative papers,
 - paper-level links such as OpenReview, DOI, Semantic Scholar, or source URLs when available.
 
-The CSV indexes are useful if you want to build your own visualizations:
+## Data Files
 
-- [topic_index.csv](docs/topic-atlas/data/topic_index.csv)
-- [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv)
+| File | Description |
+|---|---|
+| [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) | Topic-level index with year, venue, topic ID, labels, paper counts, and representative papers. |
+| [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) | Venue-year coverage summary with paper counts, topic counts, and clustering diagnostics. |
+| [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) | Clean 2020-2026 conference-only topic snapshot. |
+| [docs/auto-update/status.md](docs/auto-update/status.md) | Latest lightweight update-check report. |
 
-## 🔁 Rebuild the Topic Atlas
+Large raw metadata, embeddings, and intermediate clustering outputs are intentionally kept outside the repository or ignored by Git.
 
-The atlas is generated from cached paper metadata and embeddings. Large embedding caches are stored outside the repository.
+## Scope and Quality Notes
+
+- The public atlas focuses on papers with available public metadata. Review scores, rejected submissions, and private reviewer discussions are not included unless they are publicly released by the venue.
+- Coverage can vary by venue and year because conferences and publishers expose metadata through different channels.
+- Topic labels are automatically generated and then normalized for browsing. They should be treated as analysis aids rather than authoritative field definitions.
+- Paper links are best-effort references to public pages such as OpenReview, DOI pages, Semantic Scholar, publisher pages, or source metadata URLs.
+
+## Methodology
+
+The current atlas is generated with venue-year independent clustering so that each conference or journal year gets its own topic structure.
+
+Pipeline summary:
+
+1. Collect paper metadata from public sources such as OpenReview, DBLP, OpenAlex, proceedings pages, and publisher metadata when available.
+2. Normalize venue-year records and keep the repository-facing scope focused on published, accepted, or otherwise public paper metadata.
+3. Embed paper title and abstract text using cached BGE embeddings.
+4. Run UMAP dimensionality reduction.
+5. Run HDBSCAN leaf clustering for fine-grained topics.
+6. Reassign HDBSCAN outliers to nearest topic centroids when confidence is sufficient.
+7. Extract reproducible English keyword labels with c-TF-IDF style statistics.
+8. Generate heuristic Chinese display names and disambiguate duplicate topic names within each venue-year.
+9. Build a static Markdown atlas for browsing and CSV indexes for analysis.
+
+Topic names are designed for browsing, not as final scientific taxonomies. Representative papers and keyword pools are included so labels can be audited and improved.
+
+## Rebuild
 
 Install dependencies:
 
@@ -132,21 +149,14 @@ python scripts/build_topic_atlas.py \
   --clean
 ```
 
-The current atlas was built using venue-year independent clustering:
-
-- BGE embedding cache,
-- UMAP dimensionality reduction,
-- HDBSCAN leaf clustering,
-- centroid reassignment for HDBSCAN outliers,
-- c-TF-IDF style keyword extraction,
-- heuristic Chinese topic naming for browsing.
-
-## 🔄 Automatic Updates
+## Automatic Updates
 
 The repository includes a GitHub Actions update engine:
 
-- Weekly hosted check: detects venue-year volumes that are due or worth watching and updates [docs/auto-update/status.md](docs/auto-update/status.md).
-- Full refresh: rebuilds `docs/topic-atlas` on a self-hosted runner labeled `ai-paper-trends`. This mode requires the external embedding/result cache. Set the repository variable `AUTO_REFRESH_ATLAS=true` to run this on the weekly schedule.
+| Mode | Purpose | Notes |
+|---|---|---|
+| Weekly lightweight check | Detect venue-year volumes that are due or worth watching. | Runs on a hosted GitHub runner and updates [docs/auto-update/status.md](docs/auto-update/status.md). |
+| Full atlas refresh | Rebuild `docs/topic-atlas`. | Requires a self-hosted runner labeled `ai-paper-trends` and external embedding/result caches. |
 
 Run the lightweight check locally:
 
@@ -162,11 +172,23 @@ python scripts/auto_update_atlas.py refresh
 
 Tracked venue schedules and source notes live in [configs/auto_update.yaml](configs/auto_update.yaml).
 
-## 🧪 Single-Conference Pipeline
+## Project Structure
 
-The OpenReview + BERTopic workflow supports small single-conference experiments, including review-score plots and OpenReview-only analyses.
+| Path | Purpose |
+|---|---|
+| [docs/topic-atlas/](docs/topic-atlas/README.md) | Static browsable paper-topic atlas. |
+| [docs/clean-2020-plus/](docs/clean-2020-plus/README.md) | Conference-only 2020-2026 topic snapshot. |
+| [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) | Static atlas generator. |
+| [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) | Fine-grained venue-year topic clustering. |
+| [configs/auto_update.yaml](configs/auto_update.yaml) | Venue update schedule and source configuration. |
+| [scripts/auto_update_atlas.py](scripts/auto_update_atlas.py) | Lightweight checks and full refresh entrypoint. |
+| [main.py](main.py), [src/](src), [configs/](configs) | Original single-conference OpenReview analysis pipeline. |
 
-### 1. Environment Setup
+## Single-Conference OpenReview Pipeline
+
+The repository also retains the original OpenReview + BERTopic workflow for focused conference-level experiments, including review-score plots and OpenReview-only analyses.
+
+Create an environment:
 
 ```bash
 conda create --name ai-trend-analysis python=3.10
@@ -174,20 +196,27 @@ conda activate ai-trend-analysis
 pip install -r requirements.txt
 ```
 
-### 2. Run an OpenReview Conference Task
-
-Configure a task in `configs/`, then run:
+Run a configured OpenReview task:
 
 ```bash
 python main.py --config configs/iclr_2025_full_analysis.yaml
 ```
 
-Use this path when you want review-score plots or a quick OpenReview-only experiment. Use the atlas scripts above for the multi-conference database.
+Use this path for review-score plots, acceptance-type analysis, or small single-conference experiments. Use the atlas pipeline for the multi-venue database.
 
-## 🤝 Contributing
+## Contributing
 
-Contributions are welcome. Please feel free to report issues, suggest features, or submit code contributions via [Issues](https://github.com/zhihengli-casia/AI-Paper-Trends/issues) or [Pull Requests](https://github.com/zhihengli-casia/AI-Paper-Trends/pulls).
+Contributions are welcome. Useful contributions include:
 
-## 📄 License
+- correcting venue-year metadata,
+- adding new public data sources,
+- improving topic labels,
+- auditing representative papers,
+- improving update schedules,
+- adding visualization notebooks or downstream analysis examples.
+
+Please use [Issues](https://github.com/zhihengli-casia/AI-Paper-Trends/issues) or [Pull Requests](https://github.com/zhihengli-casia/AI-Paper-Trends/pulls).
+
+## License
 
 This project is released under the [MIT License](LICENSE).
