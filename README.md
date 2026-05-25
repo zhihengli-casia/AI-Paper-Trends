@@ -4,11 +4,11 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-AI Paper Trends is a continuously expandable paper database and fine-grained topic atlas for major AI conferences and selected journals. It organizes papers as:
+AI Paper Trends is an open-source index of AI papers and research topics. It tracks major AI conferences and selected journals, then turns them into a static atlas you can browse as:
 
 **year -> venue -> topic -> paper**
 
-The goal is to make large-scale research trends browsable, auditable, and reusable for downstream analysis.
+The project started from a simple need: see what each AI venue is publishing every year without digging through dozens of proceedings pages.
 
 ## Current Snapshot
 
@@ -30,7 +30,7 @@ Start browsing here: [AI Paper Topic Atlas](docs/topic-atlas/README.md)
 
 - Browse papers by year, venue, fine-grained topic, and individual paper.
 - Compare research directions across conferences, journals, and years.
-- Use machine-readable CSV indexes for custom analysis and visualization.
+- Use the CSV indexes for custom analysis and visualization.
 - Rebuild the static atlas from cached paper metadata and topic outputs.
 - Extend the tracked venue list through the update configuration.
 
@@ -105,8 +105,8 @@ Large raw metadata, embeddings, and intermediate clustering outputs are intentio
 
 - The public atlas focuses on papers with available public metadata. Review scores, rejected submissions, and private reviewer discussions are not included unless they are publicly released by the venue.
 - Coverage can vary by venue and year because conferences and publishers expose metadata through different channels.
-- Topic labels are automatically generated and then normalized for browsing. They should be treated as analysis aids rather than authoritative field definitions.
-- Paper links are best-effort references to public pages such as OpenReview, DOI pages, Semantic Scholar, publisher pages, or source metadata URLs.
+- Topic labels are generated from paper metadata and then cleaned for browsing. Treat them as navigation labels, not fixed field definitions.
+- Paper links point to public pages when available, including OpenReview, DOI pages, Semantic Scholar, publisher pages, or source metadata URLs.
 
 ## Methodology
 
@@ -124,7 +124,7 @@ Pipeline summary:
 8. Generate heuristic Chinese display names and disambiguate duplicate topic names within each venue-year.
 9. Build a static Markdown atlas for browsing and CSV indexes for analysis.
 
-Topic names are designed for browsing, not as final scientific taxonomies. Representative papers and keyword pools are included so labels can be audited and improved.
+Topic names are meant to help readers navigate the atlas. Representative papers and keyword pools are included so each label can be checked and improved.
 
 ## Rebuild
 
@@ -157,7 +157,7 @@ The repository includes a GitHub Actions update engine:
 
 | Mode | Purpose | Notes |
 |---|---|---|
-| Weekly lightweight check | Detect venue-year volumes that are due or worth watching. | Runs on a hosted GitHub runner and updates [docs/auto-update/status.md](docs/auto-update/status.md). |
+| Weekly lightweight check | Check which venue-years may have new public metadata. | Runs on a hosted GitHub runner and updates [docs/auto-update/status.md](docs/auto-update/status.md). |
 | Full atlas refresh | Rebuild `docs/topic-atlas`. | Requires a self-hosted runner labeled `ai-paper-trends` and external embedding/result caches. |
 
 Run the lightweight check locally:
@@ -178,7 +178,7 @@ Tracked venue schedules and source notes live in [configs/auto_update.yaml](conf
 
 | Path | Purpose |
 |---|---|
-| [docs/topic-atlas/](docs/topic-atlas/README.md) | Static browsable paper-topic atlas. |
+| [docs/topic-atlas/](docs/topic-atlas/README.md) | Static paper-topic atlas. |
 | [docs/clean-2020-plus/](docs/clean-2020-plus/README.md) | Conference-only 2020-2026 topic snapshot. |
 | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) | Static atlas generator. |
 | [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) | Fine-grained venue-year topic clustering. |
@@ -213,9 +213,9 @@ Contributions are welcome. Useful contributions include:
 - correcting venue-year metadata,
 - adding new public data sources,
 - improving topic labels,
-- auditing representative papers,
+- checking representative papers,
 - improving update schedules,
-- adding visualization notebooks or downstream analysis examples.
+- adding visualization notebooks or analysis examples.
 
 Please use [Issues](https://github.com/zhihengli-casia/AI-Paper-Trends/issues) or [Pull Requests](https://github.com/zhihengli-casia/AI-Paper-Trends/pulls).
 

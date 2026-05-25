@@ -4,11 +4,11 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-AI Paper Trends 是一个持续扩展的 AI 论文数据库和细粒度主题图谱，覆盖主要 AI 会议与部分期刊。数据库按照以下结构组织：
+AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要 AI 会议与部分期刊。它把论文整理成一个可以静态浏览的图谱：
 
 **年份 -> venue -> 主题 -> 论文**
 
-目标是让大规模科研趋势可以被浏览、审计和复用，而不是只停留在一次性的可视化结果里。
+这个项目解决的是一个很具体的问题：想看某一年、某个会议到底在发哪些方向，不用在一堆 proceedings 页面里来回翻。
 
 ## 当前快照
 
@@ -30,7 +30,7 @@ AI Paper Trends 是一个持续扩展的 AI 论文数据库和细粒度主题图
 
 - 按年份、会议/期刊、细粒度主题和单篇论文浏览文献。
 - 比较不同顶会、期刊和年份的研究方向变化。
-- 使用机器可读 CSV 索引做二次分析和可视化。
+- 使用 CSV 索引做二次分析和可视化。
 - 基于缓存元数据和主题结果重新生成静态图谱。
 - 通过自动更新配置继续扩展新的会议、期刊和年份。
 
@@ -105,8 +105,8 @@ AI Paper Trends 是一个持续扩展的 AI 论文数据库和细粒度主题图
 
 - 公开图谱聚焦可公开访问元数据的论文。审稿分、拒稿论文和非公开审稿讨论不会纳入，除非会议本身公开发布这些信息。
 - 不同会议、期刊和年份的覆盖完整度会受数据源开放程度影响。
-- 主题名由算法自动生成，并经过规则化处理以便浏览；它们是分析辅助标签，不是权威学科分类。
-- 论文链接采用 best-effort 方式指向 OpenReview、DOI、Semantic Scholar、出版商页面或来源元数据 URL。
+- 主题名由论文元数据自动生成，并经过清洗以便浏览；它们是导航标签，不是固定学科分类。
+- 论文链接会尽量指向公开页面，包括 OpenReview、DOI、Semantic Scholar、出版商页面或来源元数据 URL。
 
 ## 方法
 
@@ -124,7 +124,7 @@ AI Paper Trends 是一个持续扩展的 AI 论文数据库和细粒度主题图
 8. 生成启发式中文展示主题名，并在同一个 venue-year 内消解重名主题。
 9. 生成可浏览的 Markdown 静态图谱和可分析的 CSV 索引。
 
-主题名主要服务于浏览，不等同于最终科学分类。每个主题页都会保留代表论文和关键词池，方便后续审计和修正。
+主题名主要用来帮助读者浏览图谱。每个主题页都会保留代表论文和关键词池，方便后续检查和修正。
 
 ## 重新生成
 
@@ -157,7 +157,7 @@ python scripts/build_topic_atlas.py \
 
 | 模式 | 用途 | 备注 |
 |---|---|---|
-| 每周轻量检查 | 检测哪些 venue-year 卷宗已经到期或值得继续观察。 | 在 GitHub 托管 runner 上运行，并更新 [docs/auto-update/status.md](docs/auto-update/status.md)。 |
+| 每周轻量检查 | 检查哪些 venue-year 可能已经有新的公开元数据。 | 在 GitHub 托管 runner 上运行，并更新 [docs/auto-update/status.md](docs/auto-update/status.md)。 |
 | 完整图谱刷新 | 重建 `docs/topic-atlas`。 | 需要带有 `ai-paper-trends` 标签的 self-hosted runner，以及外部 embedding/result 缓存。 |
 
 本地运行轻量检查：
@@ -213,9 +213,9 @@ python main.py --config configs/iclr_2025_full_analysis.yaml
 - 修正 venue-year 元数据，
 - 增加新的公开数据源，
 - 改进主题命名，
-- 审计代表论文，
+- 检查代表论文，
 - 改进自动更新时间表，
-- 增加可视化 notebook 或下游分析示例。
+- 增加可视化 notebook 或分析示例。
 
 可以通过 [Issues](https://github.com/zhihengli-casia/AI-Paper-Trends/issues) 或 [Pull Requests](https://github.com/zhihengli-casia/AI-Paper-Trends/pulls) 参与。
 
