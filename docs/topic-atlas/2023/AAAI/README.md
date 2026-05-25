@@ -92,7 +92,7 @@
 | [076](topic-076.md) | detection / explanation / dialogue / question answering | 10 | 0.64% | 多模态/VLM | `detection / explanation / dialogue / question answering` | Referring Expression Comprehension Using Language Adaptive Inference |
 | [080](topic-080.md) | Conformal Prediction 与不确定性校准 | 10 | 0.64% | 理论/优化 | `uncertainty / aleatoric / epistemic / regression` | The Unreasonable Effectiveness of Deep Evidential Regression |
 | [078](topic-078.md) | 强化学习策略与奖励建模 | 10 | 0.64% | 强化学习/决策 | `reward / demonstrations / shaping / policies` | Learning Noise-Induced Reward Functions for Surpassing Demonstrations in Imitation Learning |
-| [081](topic-081.md) | autoregressive / 医学AI / transformer / language | 9 | 0.57% | LLM/语言模型 | `autoregressive / medical / transformer / language` | Compressing Transformers: Features Are Low-Rank, but Weights Are Not! |
+| [081](topic-081.md) | 自回归 Transformer 与语言建模 | 9 | 0.57% | LLM/语言模型 | `autoregressive / medical / transformer / language` | Compressing Transformers: Features Are Low-Rank, but Weights Are Not! |
 | [082](topic-082.md) | 多模态学习与跨模态理解 | 9 | 0.57% | 多模态/VLM | `news / fake / persuasion / detection` | Bootstrapping Multi-View Representations for Fake News Detection |
 | [083](topic-083.md) | vit / vision / backdoor / transformers | 9 | 0.57% | 计算机视觉 | `vit / vision / backdoor / transformers` | Peeling the Onion: Hierarchical Reduction of Data Redundancy for Efficient Vision Transformer Training |
 | [084](topic-084.md) | 图神经网络与节点表示学习 | 9 | 0.57% | 图学习/数据挖掘 | `graph / anomaly / multi-domain / normal` | Non-IID Transfer Learning on Graphs |

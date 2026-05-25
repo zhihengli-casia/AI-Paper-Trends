@@ -1,4 +1,4 @@
-# CHI 2020: machine learning / 医学AI / explanations / prior
+# CHI 2020: 可解释机器学习与数据科学工具
 
 - Topic ID: `17`
 - Papers: **17** (2.30%)

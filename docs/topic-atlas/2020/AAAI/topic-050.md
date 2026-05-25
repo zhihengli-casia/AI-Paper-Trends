@@ -1,4 +1,4 @@
-# AAAI 2020: answer / question / selection / 医学AI
+# AAAI 2020: 问答生成、阅读理解与答案选择
 
 - Topic ID: `50`
 - Papers: **15** (0.94%)

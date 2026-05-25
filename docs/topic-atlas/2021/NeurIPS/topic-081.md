@@ -1,4 +1,4 @@
-# NeurIPS 2021: image / synthesis / editing / transformer
+# NeurIPS 2021: 自回归 Transformer 与语言建模
 
 - Topic ID: `81`
 - Papers: **12** (0.51%)

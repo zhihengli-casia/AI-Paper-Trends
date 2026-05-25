@@ -54,7 +54,7 @@
 | [040](topic-040.md) | 强化学习算法与理论 | 25 | 0.96% | 强化学习/决策 | `marl / multi-agent / agents / cooperative` | FightLadder: A Benchmark for Competitive Multi-Agent Reinforcement Learning |
 | [041](topic-041.md) | 在线学习与 regret 理论 | 25 | 0.96% | 理论/优化 | `bayesian optimization / offline / surrogate / moo` | Boundary Exploration for Bayesian Optimization With Unknown Physical Constraints |
 | [042](topic-042.md) | risks / generative ai / agi / position | 25 | 0.96% | 生成模型 | `risks / generative ai / agi / position` | Position: Evolving AI Collectives Enhance Human Diversity and Enable Self-Regulation |
-| [043](topic-043.md) | linear attention / language / 大语言模型 / tokens | 23 | 0.88% | LLM/语言模型 | `linear attention / language / llms / tokens` | Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention |
+| [043](topic-043.md) | 自回归 Transformer 与语言建模 | 23 | 0.88% | LLM/语言模型 | `linear attention / language / llms / tokens` | Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention |
 | [044](topic-044.md) | 文生图生成与个性化编辑 | 23 | 0.88% | LLM/语言模型 | `t2i / attack / prompts / images` | Watermarks in the Sand: Impossibility of Strong Watermarking for Language Models |
 | [046](topic-046.md) | riemannian / descent / manifolds / convergence | 23 | 0.88% | 理论/优化 | `riemannian / descent / manifolds / convergence` | Learning-Rate-Free Stochastic Optimization over Riemannian Manifolds |
 | [045](topic-045.md) | hopfield / memory / rnn / associative | 23 | 0.88% | 系统/效率/压缩 | `hopfield / memory / rnn / associative` | Learning Associative Memories with Gradient Descent |

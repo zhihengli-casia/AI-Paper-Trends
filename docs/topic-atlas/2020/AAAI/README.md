@@ -59,7 +59,7 @@
 | [045](topic-045.md) | 医疗健康与临床 AI | 16 | 1.00% | 计算机视觉 | `segmentation / medical / images / disease` | An Annotation Sparsification Strategy for 3D Medical Image Segmentation via Representative Selection and Self-Training |
 | [046](topic-046.md) | causal / effects / interventions / conditional | 15 | 0.94% | 其他/交叉主题 | `causal / effects / interventions / conditional` | General Transportability – Synthesizing Observations and Experiments from Heterogeneous Domains |
 | [049](topic-049.md) | image / shadow / color / fusion | 15 | 0.94% | 生成模型 | `image / shadow / color / fusion` | End-to-End Unpaired Image Denoising with Conditional Adversarial Networks |
-| [050](topic-050.md) | answer / question / selection / 医学AI | 15 | 0.94% | NLP任务 | `answer / question / selection / medical` | Generating Well-Formed Answers by Machine Reading with Stochastic Selector Networks |
+| [050](topic-050.md) | 问答生成、阅读理解与答案选择 | 15 | 0.94% | NLP任务 | `answer / question / selection / medical` | Generating Well-Formed Answers by Machine Reading with Stochastic Selector Networks |
 | [051](topic-051.md) | pruning / weight / compression / structured | 15 | 0.94% | 系统/效率/压缩 | `pruning / weight / compression / structured` | DARB: A Density-Adaptive Regular-Block Pruning for Deep Neural Networks |
 | [047](topic-047.md) | sat / solvers / constraints / canonical | 15 | 0.94% | 推荐/检索/排序 | `sat / solvers / constraints / canonical` | FourierSAT: A Fourier Expansion-Based Algebraic Framework for Solving Hybrid Boolean Constraints |
 | [048](topic-048.md) | 代码生成与程序理解 | 15 | 0.94% | LLM/语言模型 | `logic / programs / programming / forgetting` | Structural Decompositions of Epistemic Logic Programs |
@@ -69,7 +69,7 @@
 | [052](topic-052.md) | spiking / spectrum / recurrent / gate | 14 | 0.87% | 生成模型 | `spiking / spectrum / recurrent / gate` | Temporal Pyramid Recurrent Neural Network |
 | [056](topic-056.md) | 公平性、偏见与可信 AI | 13 | 0.81% | 可信/安全/公平 | `fairness / discrimination / hiring / biases` | A General Approach to Fairness with Optimal Transport |
 | [057](topic-057.md) | 强化学习算法与理论 | 13 | 0.81% | 强化学习/决策 | `attack / adversary / defender / security` | Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning |
-| [058](topic-058.md) | answer / comprehension / reading / question | 13 | 0.81% | NLP任务 | `answer / comprehension / reading / question` | MMM: Multi-Stage Multi-Task Learning for Multi-Choice Reading Comprehension |
+| [058](topic-058.md) | 问答生成、阅读理解与答案选择 | 13 | 0.81% | NLP任务 | `answer / comprehension / reading / question` | MMM: Multi-Stage Multi-Task Learning for Multi-Choice Reading Comprehension |
 | [059](topic-059.md) | 图像复原与超分辨率 | 13 | 0.81% | 计算机视觉 | `super-resolution / light field / image / blur` | Image Formation Model Guided Deep Image Super-Resolution |
 | [060](topic-060.md) | paraphrase / language / 图学习 / discourse | 13 | 0.81% | LLM/语言模型 | `paraphrase / language / graph / discourse` | Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks |
 | [065](topic-065.md) | emotion / fmri / recognition / modalities | 12 | 0.75% | 多模态/VLM | `emotion / fmri / recognition / modalities` | Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional Networks |

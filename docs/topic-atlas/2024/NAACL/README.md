@@ -39,7 +39,7 @@
 | [025](topic-025.md) | 语音/音频语言模型 | 10 | 1.78% | LLM/语言模型 | `hate speech / toxic speech / adversarial / speech detection` | Exploring Cross-Cultural Differences in E nglish Hate Speech Annotations: From Dataset Construction to Analysis |
 | [026](topic-026.md) | 规划搜索与决策推理 | 10 | 1.78% | LLM/语言模型 | `ensemble / editing / routing / planning` | S 3 E val: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Model |
 | [027](topic-027.md) | entity / ner / entities / recognition | 10 | 1.78% | 多模态/VLM | `entity / ner / entities / recognition` | SCANNER : Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities |
-| [028](topic-028.md) | 语音/音频语言模型 | 10 | 1.78% | 生成模型 | `diffusion / autoregressive / audio / noise` | L anguage F low: Advancing Diffusion Language Generation with Probabilistic Flows |
+| [028](topic-028.md) | 自回归 Transformer 与语言建模 | 10 | 1.78% | 生成模型 | `diffusion / autoregressive / audio / noise` | L anguage F low: Advancing Diffusion Language Generation with Probabilistic Flows |
 | [029](topic-029.md) | 多模态学习与跨模态理解 | 9 | 1.60% | LLM/语言模型 | `hallucinations / objects / multimodal / correct` | On Large Language Models’ Hallucination with Regard to Known Facts |
 | [030](topic-030.md) | 文档摘要与信息压缩 | 9 | 1.60% | LLM/语言模型 | `factual / coherence / summaries / summarization` | T ofu E val: Evaluating Hallucinations of LLM s on Topic-Focused Dialogue Summarization |
 | [031](topic-031.md) | 查询理解与检索优化 | 9 | 1.60% | LLM/语言模型 | `tables / sql / reasoning / tabular` | Rethinking Tabular Data Understanding with Large Language Models |

@@ -15,7 +15,7 @@
 | [001](topic-001.md) | 视频动作生成与运动控制 | 33 | 6.09% | 计算机视觉 | `action / video / recognition / temporal` | Self-supervising Action Recognition by Statistical Moment and Subspace Descriptors |
 | [002](topic-002.md) | 深度估计与立体匹配 | 31 | 5.72% | 计算机视觉 | `depth / object / segmentation / detection` | RCNet: Reverse Feature Pyramid and Cross-scale Shift Network for Object Detection |
 | [003](topic-003.md) | 深度估计与立体匹配 | 28 | 5.17% | 3D/具身/机器人 | `point / cloud / depth / shape` | Single Image 3D Object Estimation with Primitive Graph Networks |
-| [004](topic-004.md) | 多模态学习与跨模态理解 | 27 | 4.98% | 多模态/VLM | `question / multimodal / vqa / answer` | Exploring Contextual-Aware Representation and Linguistic-Diverse Expression for Visual Dialog |
+| [004](topic-004.md) | 问答生成、阅读理解与答案选择 | 27 | 4.98% | 多模态/VLM | `question / multimodal / vqa / answer` | Exploring Contextual-Aware Representation and Linguistic-Diverse Expression for Visual Dialog |
 | [005](topic-005.md) | layout / character / scene / generation | 24 | 4.43% | 生成模型 | `layout / character / scene / generation` | R-GAN: Exploring Human-like Way for Reasonable Text-to-Image Synthesis via Generative Adversarial Networks |
 | [006](topic-006.md) | tracking / object / vehicle / detection | 21 | 3.87% | 计算机视觉 | `tracking / object / vehicle / detection` | Unsupervised Vehicle Search in the Wild: A New Benchmark |
 | [007](topic-007.md) | 图像复原与超分辨率 | 19 | 3.51% | 计算机视觉 | `inpainting / shadow / restoration / decomposition` | GCM-Net: Towards Effective Global Context Modeling for Image Inpainting |

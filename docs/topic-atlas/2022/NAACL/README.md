@@ -18,7 +18,7 @@
 | [004](topic-004.md) | 语音/音频语言模型 | 26 | 5.88% | 多模态/VLM | `ner / entity / named / recognition` | On the Use of External Data for Spoken Named Entity Recognition |
 | [005](topic-005.md) | 检索 / adapter / plms / dense | 21 | 4.75% | LLM/语言模型 | `retrieval / adapter / plms / dense` | R e2 G : Retrieve, Rerank, Generate |
 | [006](topic-006.md) | 句法知识与语言学分析 | 20 | 4.52% | 图学习/数据挖掘 | `relation extraction / entity / entities / mentions` | Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction |
-| [007](topic-007.md) | answer / questions / question generation / multi-span | 20 | 4.52% | NLP任务 | `answer / questions / question generation / multi-span` | P ro QA : Structural Prompt-based Pre-training for Unified Question Answering |
+| [007](topic-007.md) | 问答生成、阅读理解与答案选择 | 20 | 4.52% | NLP任务 | `answer / questions / question generation / multi-span` | P ro QA : Structural Prompt-based Pre-training for Unified Question Answering |
 | [008](topic-008.md) | 强化学习算法与理论 | 19 | 4.30% | 强化学习/决策 | `prompts / decoding / metrics / reward` | PPL-MCTS : C onstrained Textual Generation Through Discriminator-Guided MCTS Decoding |
 | [009](topic-009.md) | 社交媒体与社会计算 | 18 | 4.07% | HCI/社会计算 | `news / media / detection / political` | TWEETSPIN : Fine-grained Propaganda Detection in Social Media Using Multi-View Representations |
 | [010](topic-010.md) | 多语言建模与跨语言迁移 | 16 | 3.62% | LLM/语言模型 | `cross-lingual / languages / transfer / word` | WECHSEL : Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models |

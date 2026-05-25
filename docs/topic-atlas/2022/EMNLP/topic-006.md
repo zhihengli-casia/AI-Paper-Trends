@@ -1,4 +1,4 @@
-# EMNLP 2022: questions / answer / mrc / cqa
+# EMNLP 2022: 问答生成、阅读理解与答案选择
 
 - Topic ID: `6`
 - Papers: **26** (3.14%)

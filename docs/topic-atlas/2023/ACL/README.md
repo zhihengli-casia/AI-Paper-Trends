@@ -19,7 +19,7 @@
 | [005](topic-005.md) | event / extraction / argument / document-level | 29 | 2.70% | LLM/语言模型 | `event / extraction / argument / document-level` | Revisiting Event Argument Extraction: Can EAE Models Learn Better When Being Aware of Event Co-occurrences? |
 | [006](topic-006.md) | relation / extraction / entity / document-level | 25 | 2.33% | LLM/语言模型 | `relation / extraction / entity / document-level` | Revisiting Relation Extraction in the era of Large Language Models |
 | [007](topic-007.md) | ner / entity / named / recognition | 25 | 2.33% | NLP任务 | `ner / entity / named / recognition` | When and how to paraphrase for named entity recognition? |
-| [008](topic-008.md) | transformer / positional / sequence / length | 24 | 2.23% | LLM/语言模型 | `transformer / positional / sequence / length` | Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions |
+| [008](topic-008.md) | 自回归 Transformer 与语言建模 | 24 | 2.23% | LLM/语言模型 | `transformer / positional / sequence / length` | Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions |
 | [009](topic-009.md) | 机器翻译与跨语言对齐 | 24 | 2.23% | NLP任务 | `translation / machine / metrics / comet` | Small Data, Big Impact: Leveraging Minimal Data for Effective Machine Translation |
 | [010](topic-010.md) | 少样本分类与开放集识别 | 23 | 2.14% | LLM/语言模型 | `prompt / tuning / few-shot / zero-shot` | Pre-trained Language Models Can be Fully Zero-Shot Learners |
 | [011](topic-011.md) | 机器翻译与跨语言对齐 | 23 | 2.14% | LLM/语言模型 | `distillation / translation / student / teacher` | A Systematic Study of Knowledge Distillation for Natural Language Generation with Pseudo-Target Training |

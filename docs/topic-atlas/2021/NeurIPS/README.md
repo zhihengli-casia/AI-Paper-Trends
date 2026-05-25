@@ -92,7 +92,7 @@
 | [078](topic-078.md) | 多智能体协作与规划 | 13 | 0.56% | 强化学习/决策 | `games / human / agents / marl` | Collaborating with Humans without Human Data |
 | [077](topic-077.md) | 公平性、偏见与可信 AI | 13 | 0.56% | 可信/安全/公平 | `fairness / post-processing / valuation / debiasing` | Fair Classification with Adversarial Perturbations |
 | [080](topic-080.md) | submodular / cardinality / pcs / matching | 12 | 0.51% | 图学习/数据挖掘 | `submodular / cardinality / pcs / matching` | Best of Both Worlds: Practical and Theoretically Optimal Submodular Maximization in Parallel |
-| [081](topic-081.md) | image / synthesis / editing / transformer | 12 | 0.51% | 计算机视觉 | `image / synthesis / editing / transformer` | Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers |
+| [081](topic-081.md) | 自回归 Transformer 与语言建模 | 12 | 0.51% | 计算机视觉 | `image / synthesis / editing / transformer` | Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers |
 | [082](topic-082.md) | 时间序列建模与预测 | 12 | 0.51% | 可信/安全/公平 | `time series / forecasting / time-series / forecasts` | Probabilistic Transformer For Time Series Analysis |
 | [083](topic-083.md) | 强化学习算法与理论 | 12 | 0.51% | 强化学习/决策 | `reinforcement learning / sample-efficient / learning rl / regret` | Sample-Efficient Reinforcement Learning Is Feasible for Linearly Realizable MDPs with Limited Revisiting |
 | [084](topic-084.md) | 知识图谱推理与表示学习 | 12 | 0.51% | 图学习/数据挖掘 | `reasoning / knowledge graph / cone / multi-hop` | Modeling Heterogeneous Hierarchies with Relation-specific Hyperbolic Cones |

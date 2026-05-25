@@ -1,4 +1,4 @@
-# ICML 2024: linear attention / language / 大语言模型 / tokens
+# ICML 2024: 自回归 Transformer 与语言建模
 
 - Topic ID: `43`
 - Papers: **23** (0.88%)

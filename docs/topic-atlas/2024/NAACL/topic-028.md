@@ -1,4 +1,4 @@
-# NAACL 2024: 语音/音频语言模型
+# NAACL 2024: 自回归 Transformer 与语言建模
 
 - Topic ID: `28`
 - Papers: **10** (1.78%)

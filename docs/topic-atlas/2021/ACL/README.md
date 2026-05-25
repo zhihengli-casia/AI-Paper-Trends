@@ -12,7 +12,7 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 隐私保护与安全学习 | 43 | 6.06% | NLP任务 | `entity / ner / entities / recognition` | A Unified Generative Framework for Various NER Subtasks |
-| [001](topic-001.md) | 查询理解与检索优化 | 42 | 5.92% | NLP任务 | `question / answer / retrieval / open-domain` | U nited QA : A Hybrid Approach for Open Domain Question Answering |
+| [001](topic-001.md) | 问答生成、阅读理解与答案选择 | 42 | 5.92% | NLP任务 | `question / answer / retrieval / open-domain` | U nited QA : A Hybrid Approach for Open Domain Question Answering |
 | [002](topic-002.md) | 多语言建模与跨语言迁移 | 36 | 5.07% | LLM/语言模型 | `fine-tuning / adapter / energy / lms` | L ex F it: Lexical Fine-Tuning of Pretrained Language Models |
 | [003](topic-003.md) | dialogue / responses / conversation / history | 32 | 4.51% | NLP任务 | `dialogue / responses / conversation / history` | T icket T alk: Toward human-level performance with end-to-end, transaction-based dialog systems |
 | [004](topic-004.md) | 句法知识与语言学分析 | 31 | 4.37% | LLM/语言模型 | `linguistic / cognitive / neural language / processing` | Examining the Inductive Bias of Neural Language Models with Artificial Languages |

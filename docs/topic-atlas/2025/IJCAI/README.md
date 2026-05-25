@@ -81,7 +81,7 @@
 | [067](topic-067.md) | 文档摘要与信息压缩 | 10 | 0.78% | LLM/语言模型 | `reasoning / llms / logical / language` | Enhancing the Logical Reasoning Abilities of Large Language Models |
 | [068](topic-068.md) | population / evolutionary / runtime / multi-objective | 9 | 0.70% | 多模态/VLM | `population / evolutionary / runtime / multi-objective` | A First Runtime Analysis of NSGA-III on a Many-Objective Multimodal Problem: Provable Exponential Speedup via Stochastic Population Update |
 | [069](topic-069.md) | 病理图像与临床 AI | 9 | 0.70% | 多模态/VLM | `pathology / cancer / survival / pathological` | Multimodal Cancer Survival Analysis via Hypergraph Learning with Cross-Modality Rebalance |
-| [070](topic-070.md) | 深度估计与立体匹配 | 9 | 0.70% | 计算机视觉 | `depth / monocular / estimation / dark` | MonoMixer: Marrying Convolution and Vision Transformer for Efficient Self-Supervised Monocular Depth Estimation |
+| [070](topic-070.md) | 自回归 Transformer 与语言建模 | 9 | 0.70% | 计算机视觉 | `depth / monocular / estimation / dark` | MonoMixer: Marrying Convolution and Vision Transformer for Efficient Self-Supervised Monocular Depth Estimation |
 | [071](topic-071.md) | 扩散生成模型 | 9 | 0.70% | 生成模型 | `diffusion / semantic / editing / image` | Instructing Text-to-Image Diffusion Models via Classifier-Guided Semantic Optimization |
 | [072](topic-072.md) | domain adaptation / source domain / graph domain / alignment | 9 | 0.70% | 生成模型 | `domain adaptation / source domain / graph domain / alignment` | Gaussian Mixture Model for Graph Domain Adaptation |
 | [073](topic-073.md) | 时间序列建模与预测 | 9 | 0.70% | LLM/语言模型 | `time series / llms / forecasting / iot` | Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era |

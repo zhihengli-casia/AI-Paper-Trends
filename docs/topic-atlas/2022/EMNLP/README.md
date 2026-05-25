@@ -17,7 +17,7 @@
 | [003](topic-003.md) | contrastive / topic / embeddings / discrete | 28 | 3.38% | NLP任务 | `contrastive / topic / embeddings / discrete` | Differentiable Data Augmentation for Contrastive Sentence Representation Learning |
 | [004](topic-004.md) | extraction / relation / document-level / entity pairs | 27 | 3.26% | 推荐/检索/排序 | `extraction / relation / document-level / entity pairs` | Towards Better Document-level Relation Extraction via Iterative Inference |
 | [005](topic-005.md) | 多模态学习与跨模态理解 | 27 | 3.26% | 多模态/VLM | `sentiment / multimodal / aspect / detection` | Affective Knowledge Enhanced Multiple-Graph Fusion Networks for Aspect-based Sentiment Analysis |
-| [006](topic-006.md) | questions / answer / mrc / cqa | 26 | 3.14% | LLM/语言模型 | `questions / answer / mrc / cqa` | C ycle KQR : Unsupervised Bidirectional Keyword-Question Rewriting |
+| [006](topic-006.md) | 问答生成、阅读理解与答案选择 | 26 | 3.14% | LLM/语言模型 | `questions / answer / mrc / cqa` | C ycle KQR : Unsupervised Bidirectional Keyword-Question Rewriting |
 | [007](topic-007.md) | 视觉语言模型与多模态理解 | 25 | 3.02% | 多模态/VLM | `video / cross-modal / grounding / visual` | m PLUG : Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections |
 | [008](topic-008.md) | 多语言建模与跨语言迁移 | 25 | 3.02% | LLM/语言模型 | `multilingual / languages / cross-lingual / word` | Improving Low-Resource Languages in Pre-Trained Multilingual Language Models |
 | [009](topic-009.md) | transformer / linear / computation / attention heads | 24 | 2.90% | 系统/效率/压缩 | `transformer / linear / computation / attention heads` | H ash F ormers: Towards Vocabulary-independent Pre-trained Transformers |

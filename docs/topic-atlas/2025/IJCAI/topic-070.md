@@ -1,4 +1,4 @@
-# IJCAI 2025: 深度估计与立体匹配
+# IJCAI 2025: 自回归 Transformer 与语言建模
 
 - Topic ID: `70`
 - Papers: **9** (0.70%)

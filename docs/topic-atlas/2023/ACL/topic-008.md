@@ -1,4 +1,4 @@
-# ACL 2023: transformer / positional / sequence / length
+# ACL 2023: 自回归 Transformer 与语言建模
 
 - Topic ID: `8`
 - Papers: **24** (2.23%)

@@ -1,4 +1,4 @@
-# AAAI 2023: autoregressive / 医学AI / transformer / language
+# AAAI 2023: 自回归 Transformer 与语言建模
 
 - Topic ID: `81`
 - Papers: **9** (0.57%)
