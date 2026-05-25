@@ -94,7 +94,7 @@ Each topic page includes:
 
 | File | Description |
 |---|---|
-| [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) | Topic-level index with year, venue, topic ID, labels, paper counts, and representative papers. |
+| [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) | Topic-level index with year, venue, topic ID, labels, paper counts, representative papers, topic page paths, and GitHub URLs. |
 | [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) | Venue-year coverage summary with paper counts, topic counts, and clustering diagnostics. |
 | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) | Clean 2020-2026 conference-only topic snapshot. |
 | [docs/auto-update/status.md](docs/auto-update/status.md) | Latest lightweight update-check report. |

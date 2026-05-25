@@ -17,6 +17,7 @@ import pandas as pd
 
 DEFAULT_TOPIC_ROOT = Path("results/fine_grained_venue_year_topics_2020_2026_mcs_fine")
 DEFAULT_OUTPUT_ROOT = Path("docs/topic-atlas")
+DEFAULT_REPO_BLOB_BASE = "https://github.com/zhihengli-casia/AI-Paper-Trends/blob/main"
 
 ROBOTICS_VENUES = {"ICRA", "IROS", "RSS"}
 
@@ -581,6 +582,11 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--topic-root", type=Path, default=DEFAULT_TOPIC_ROOT)
     parser.add_argument("--output-root", type=Path, default=DEFAULT_OUTPUT_ROOT)
+    parser.add_argument(
+        "--repo-blob-base",
+        default=DEFAULT_REPO_BLOB_BASE,
+        help="Base GitHub blob URL used for absolute topic_page_url values.",
+    )
     parser.add_argument("--clean", action="store_true", help="Remove the output directory before rebuilding.")
     return parser.parse_args()
 
@@ -868,6 +874,14 @@ def relative_link(from_path: Path, to_path: Path) -> str:
     return quote(os.path.relpath(to_path, from_path.parent).replace("\\", "/"), safe="/#.-_")
 
 
+def repo_relative_path(path: Path) -> str:
+    try:
+        rel_path = path.resolve().relative_to(Path.cwd().resolve())
+    except ValueError:
+        rel_path = path
+    return str(rel_path).replace("\\", "/")
+
+
 def write(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content.rstrip() + "\n", encoding="utf-8")
@@ -1141,6 +1155,7 @@ def main() -> None:
 
     summary = pd.read_csv(summary_path).sort_values(["year", "venue"])
     topic_rows = []
+    data_dir = output_root / "data"
     for _, group in summary.iterrows():
         year = int(group["year"])
         venue = str(group["venue"])
@@ -1163,7 +1178,13 @@ def main() -> None:
             topic_record = topic.to_dict()
             topic_record["macro_topic"] = display_macro_topic(topic)
             topic_record["topic_name_cn"] = topic_names[topic_id]
-            topic_record["topic_page"] = str(topic_file.relative_to(output_root)).replace("\\", "/")
+            topic_record["topic_page"] = os.path.relpath(topic_file, data_dir).replace("\\", "/")
+            topic_record["topic_page_repo_path"] = repo_relative_path(topic_file)
+            topic_record["topic_page_url"] = (
+                args.repo_blob_base.rstrip("/")
+                + "/"
+                + quote(topic_record["topic_page_repo_path"], safe="/#.-_")
+            )
             topic_rows.append(topic_record)
 
         build_venue_page(output_root, year, venue, group, topics, venue_page, topic_names)
@@ -1172,7 +1193,6 @@ def main() -> None:
         build_year_page(output_root, int(year), rows, output_root / str(int(year)) / "README.md")
 
     topic_index = pd.DataFrame(topic_rows)
-    data_dir = output_root / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
     summary.to_csv(data_dir / "venue_year_summary.csv", index=False, encoding="utf-8-sig")
     topic_index.to_csv(data_dir / "topic_index.csv", index=False, encoding="utf-8-sig")

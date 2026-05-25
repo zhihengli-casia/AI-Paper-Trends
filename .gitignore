@@ -22,6 +22,12 @@ data/
 models/
 results/
 
+# Public documentation data that should be committed.
+!docs/topic-atlas/data/
+!docs/topic-atlas/data/*.csv
+!docs/clean-2020-plus/data/
+!docs/clean-2020-plus/data/*.csv
+
 # Build artifacts and Packaging
 *.egg-info/
 build/

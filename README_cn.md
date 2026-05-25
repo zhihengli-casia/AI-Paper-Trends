@@ -94,7 +94,7 @@ AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要
 
 | 文件 | 说明 |
 |---|---|
-| [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) | 主题级索引，包含年份、venue、topic ID、主题标签、论文数量和代表论文。 |
+| [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) | 主题级索引，包含年份、venue、topic ID、主题标签、论文数量、代表论文、主题页路径和 GitHub URL。 |
 | [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) | venue-year 覆盖汇总，包含论文数、主题数和聚类诊断指标。 |
 | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) | 2020-2026 会议论文干净版主题快照。 |
 | [docs/auto-update/status.md](docs/auto-update/status.md) | 最近一次轻量自动更新检查报告。 |
