@@ -10,7 +10,7 @@
 
 数据库按照 **年份 -> venue -> 主题 -> 论文** 组织。当前提交版本覆盖 **155,662 篇会议与期刊论文**、**160 个 venue-year 单元**、**7,378 个细粒度主题**。这些数字代表当前仓库快照，后续随着新会议、新年份和新论文集加入会持续增长。
 
-按领域划分的覆盖范围：
+按领域划分的会议覆盖范围：
 
 | 领域 | 已收录 venue | 论文 | 细粒度主题 |
 |---|---|---:|---:|
@@ -22,7 +22,26 @@
 | 多媒体 / 图形学 / HCI | ACMMM, SIGGRAPH, SIGGRAPH-Asia, CHI | 10,473 | 591 |
 | 数据挖掘 / 检索 / Web / 数据库 | KDD, SIGIR, WWW, ICDE, SIGMOD | 7,601 | 482 |
 | 医疗 AI | MICCAI | 428 | 41 |
-| 已收录期刊 | AIJ, JMLR, TPAMI, IJCV, TIP, PR, TMM, TKDE, TNNLS | 12,863 | 763 |
+
+按领域划分的期刊覆盖范围：
+
+| 领域 | 已收录期刊 | 论文 | 细粒度主题 |
+|---|---|---:|---:|
+| 机器学习 / 综合 AI 期刊 | AIJ, JMLR, TNNLS | 2,768 | 183 |
+| 视觉 / 图像期刊 | TPAMI, IJCV, TIP, PR | 8,009 | 456 |
+| 多媒体 / 数据期刊 | TMM, TKDE | 2,086 | 124 |
+
+待补充来源会作为候选源持续跟踪，实际纳入取决于公开元数据可得性和数据质量：
+
+| 领域 | 候选会议与期刊 |
+|---|---|
+| 机器学习 / AI | AISTATS, UAI, COLT, JAIR, Machine Learning |
+| 视觉 / 图形学 | WACV, BMVC, ACCV, 3DV, TVCG |
+| NLP / 语音 | EACL, TACL, Computational Linguistics, Interspeech |
+| 机器人 / 具身智能 | CoRL, RA-L, T-RO, IJRR, Autonomous Robots |
+| 数据 / 检索 / Web | CIKM, WSDM, RecSys, ICDM, SDM, VLDB, EDBT, PODS |
+| HCI / 系统 | UIST, CSCW, IMWUT, UbiComp |
+| 医疗 AI | TMI, Medical Image Analysis, ISBI |
 
 快速入口：
 
@@ -30,15 +49,9 @@
 |---|---|
 | 总图谱 | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
 | 2020-2026 会议主题快照 | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) |
-| 2026 年论文 | [docs/topic-atlas/2026/README.md](docs/topic-atlas/2026/README.md) |
-| ICLR 2026 主题列表 | [docs/topic-atlas/2026/ICLR/README.md](docs/topic-atlas/2026/ICLR/README.md) |
-| 示例主题 | [ICLR 2026：可验证奖励驱动的大模型推理](docs/topic-atlas/2026/ICLR/topic-004.md) |
 | 主题 CSV 索引 | [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) |
 | 会议-年份 CSV 汇总 | [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
-
-示例路径：
-
-`2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
+| 自动更新状态 | [docs/auto-update/status.md](docs/auto-update/status.md) |
 
 本仓库提供一个可持续扩展的 AI 论文数据库和细粒度主题图谱，覆盖主要会议与部分期刊，同时保留单会议 OpenReview 分析流程，便于进行会议级实验。
 
@@ -76,9 +89,9 @@ CSV 表格包含每个会议-年份的完整主题汇总、每个会议最新年
 这个仓库最主要的使用方式是直接浏览静态主题图谱：
 
 - [图谱总入口](docs/topic-atlas/README.md)
-- [2026 年会议列表](docs/topic-atlas/2026/README.md)
-- [ICLR 2026 主题列表](docs/topic-atlas/2026/ICLR/README.md)
-- [示例主题页](docs/topic-atlas/2026/ICLR/topic-004.md)
+- [最新收录年份](docs/topic-atlas/2026/README.md)
+- 每个年份下的会议页，例如 `docs/topic-atlas/<year>/<venue>/README.md`
+- 每个会议下的主题页，例如 `docs/topic-atlas/<year>/<venue>/topic-XXX.md`
 
 每个主题页包含：
 

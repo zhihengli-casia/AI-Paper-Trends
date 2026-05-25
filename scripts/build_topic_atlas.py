@@ -1008,7 +1008,18 @@ def build_home_page(output_root: Path, summary: pd.DataFrame, topic_index: pd.Da
         ("Multimedia / graphics / HCI", ["ACMMM", "SIGGRAPH", "SIGGRAPH-Asia", "CHI"]),
         ("Data mining / IR / Web / DB", ["KDD", "SIGIR", "WWW", "ICDE", "SIGMOD"]),
         ("Medical AI", ["MICCAI"]),
-        ("Selected journals", ["AIJ", "JMLR", "TPAMI", "IJCV", "TIP", "PR", "TMM", "TKDE", "TNNLS"]),
+        ("Journals: ML / general AI", ["AIJ", "JMLR", "TNNLS"]),
+        ("Journals: vision / image", ["TPAMI", "IJCV", "TIP", "PR"]),
+        ("Journals: multimedia / data", ["TMM", "TKDE"]),
+    ]
+    planned_additions = [
+        ("ML / AI", "AISTATS, UAI, COLT, JAIR, Machine Learning"),
+        ("CV / graphics", "WACV, BMVC, ACCV, 3DV, TVCG"),
+        ("NLP / speech", "EACL, TACL, Computational Linguistics, Interspeech"),
+        ("Robotics / embodied AI", "CoRL, RA-L, T-RO, IJRR, Autonomous Robots"),
+        ("Data / IR / Web", "CIKM, WSDM, RecSys, ICDM, SDM, VLDB, EDBT, PODS"),
+        ("HCI / systems", "UIST, CSCW, IMWUT, UbiComp"),
+        ("Medical AI", "TMI, Medical Image Analysis, ISBI"),
     ]
     by_venue = (
         summary.groupby("venue")
@@ -1065,6 +1076,21 @@ def build_home_page(output_root: Path, summary: pd.DataFrame, topic_index: pd.Da
             f"| {group_name} | {', '.join(indexed_venues)} | {len(group_rows)} "
             f"| {int(group_rows['papers'].sum()):,} | {int(group_rows['final_topics'].sum()):,} |"
         )
+
+    lines.extend(
+        [
+            "",
+            "## Planned Additions",
+            "",
+            "Candidate sources are tracked for future expansion. Inclusion depends on public metadata "
+            "availability and source quality.",
+            "",
+            "| Area | Candidate venues and journals |",
+            "|---|---|",
+        ]
+    )
+    for area, candidates in planned_additions:
+        lines.append(f"| {area} | {candidates} |")
 
     lines.extend(
         [

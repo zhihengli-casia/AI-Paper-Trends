@@ -10,7 +10,7 @@
 
 Browse the paper database as **year -> venue -> topic -> paper**. The checked-in index currently covers **155,662 conference and journal papers**, **160 venue-year groups**, and **7,378 fine-grained topics**. These counts describe the latest published repository snapshot and are expected to grow as additional venues, years, and proceedings are added.
 
-Coverage by area:
+Conference coverage by area:
 
 | Area | Indexed venues | Papers | Fine topics |
 |---|---|---:|---:|
@@ -22,7 +22,26 @@ Coverage by area:
 | Multimedia / graphics / HCI | ACMMM, SIGGRAPH, SIGGRAPH-Asia, CHI | 10,473 | 591 |
 | Data mining / IR / Web / DB | KDD, SIGIR, WWW, ICDE, SIGMOD | 7,601 | 482 |
 | Medical AI | MICCAI | 428 | 41 |
-| Selected journals | AIJ, JMLR, TPAMI, IJCV, TIP, PR, TMM, TKDE, TNNLS | 12,863 | 763 |
+
+Journal coverage by area:
+
+| Area | Indexed journals | Papers | Fine topics |
+|---|---|---:|---:|
+| ML / general AI journals | AIJ, JMLR, TNNLS | 2,768 | 183 |
+| Vision / image journals | TPAMI, IJCV, TIP, PR | 8,009 | 456 |
+| Multimedia / data journals | TMM, TKDE | 2,086 | 124 |
+
+Planned additions are tracked as candidate sources, subject to public metadata availability and source quality:
+
+| Area | Candidate venues and journals |
+|---|---|
+| ML / AI | AISTATS, UAI, COLT, JAIR, Machine Learning |
+| CV / graphics | WACV, BMVC, ACCV, 3DV, TVCG |
+| NLP / speech | EACL, TACL, Computational Linguistics, Interspeech |
+| Robotics / embodied AI | CoRL, RA-L, T-RO, IJRR, Autonomous Robots |
+| Data / IR / Web | CIKM, WSDM, RecSys, ICDM, SDM, VLDB, EDBT, PODS |
+| HCI / systems | UIST, CSCW, IMWUT, UbiComp |
+| Medical AI | TMI, Medical Image Analysis, ISBI |
 
 Quick links:
 
@@ -30,15 +49,9 @@ Quick links:
 |---|---|
 | Full atlas | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
 | 2020-2026 conference topic snapshot | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) |
-| 2026 papers | [docs/topic-atlas/2026/README.md](docs/topic-atlas/2026/README.md) |
-| ICLR 2026 topics | [docs/topic-atlas/2026/ICLR/README.md](docs/topic-atlas/2026/ICLR/README.md) |
-| Example topic | [ICLR 2026: 可验证奖励驱动的大模型推理](docs/topic-atlas/2026/ICLR/topic-004.md) |
 | Topic CSV index | [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) |
 | Venue-year CSV summary | [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
-
-Example path:
-
-`2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
+| Auto-update status | [docs/auto-update/status.md](docs/auto-update/status.md) |
 
 This repository provides a browsable, continuously expandable AI paper database and fine-grained topic atlas across major conferences and selected journals. It also includes the original single-conference OpenReview pipeline for focused conference-level experiments.
 
@@ -76,9 +89,9 @@ The CSV tables include full topic summaries by venue-year, latest-year topic lis
 The easiest way to use this repository is to browse the static atlas:
 
 - [Atlas home](docs/topic-atlas/README.md)
-- [2026 venue list](docs/topic-atlas/2026/README.md)
-- [ICLR 2026 topic list](docs/topic-atlas/2026/ICLR/README.md)
-- [Example topic page](docs/topic-atlas/2026/ICLR/topic-004.md)
+- [Latest indexed year](docs/topic-atlas/2026/README.md)
+- Venue pages under each year, such as `docs/topic-atlas/<year>/<venue>/README.md`
+- Topic pages under each venue, such as `docs/topic-atlas/<year>/<venue>/topic-XXX.md`
 
 Each topic page contains:
 

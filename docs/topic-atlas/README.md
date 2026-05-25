@@ -33,7 +33,23 @@ The numbers below describe the current checked-in index. They are expected to gr
 | Multimedia / graphics / HCI | ACMMM, SIGGRAPH, SIGGRAPH-Asia, CHI | 20 | 10,473 | 591 |
 | Data mining / IR / Web / DB | KDD, SIGIR, WWW, ICDE, SIGMOD | 27 | 7,601 | 482 |
 | Medical AI | MICCAI | 6 | 428 | 41 |
-| Selected journals | AIJ, JMLR, TPAMI, IJCV, TIP, PR, TMM, TKDE, TNNLS | 28 | 12,863 | 763 |
+| Journals: ML / general AI | AIJ, JMLR, TNNLS | 11 | 2,768 | 183 |
+| Journals: vision / image | TPAMI, IJCV, TIP, PR | 12 | 8,009 | 456 |
+| Journals: multimedia / data | TMM, TKDE | 5 | 2,086 | 124 |
+
+## Planned Additions
+
+Candidate sources are tracked for future expansion. Inclusion depends on public metadata availability and source quality.
+
+| Area | Candidate venues and journals |
+|---|---|
+| ML / AI | AISTATS, UAI, COLT, JAIR, Machine Learning |
+| CV / graphics | WACV, BMVC, ACCV, 3DV, TVCG |
+| NLP / speech | EACL, TACL, Computational Linguistics, Interspeech |
+| Robotics / embodied AI | CoRL, RA-L, T-RO, IJRR, Autonomous Robots |
+| Data / IR / Web | CIKM, WSDM, RecSys, ICDM, SDM, VLDB, EDBT, PODS |
+| HCI / systems | UIST, CSCW, IMWUT, UbiComp |
+| Medical AI | TMI, Medical Image Analysis, ISBI |
 
 ## Venues
 
