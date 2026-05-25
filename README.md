@@ -13,7 +13,7 @@ The project started from a simple need: see what each AI venue is publishing eve
 [![Browse the Atlas](https://img.shields.io/badge/Browse-Topic%20Atlas-0969da?style=for-the-badge)](docs/topic-atlas/README.md)
 [![Download Topic Index](https://img.shields.io/badge/CSV-Topic%20Index-2da44e?style=for-the-badge)](docs/topic-atlas/data/topic_index.csv)
 
-**155,662 papers · 7,378 fine-grained topics · 160 venue-year groups · 2020-2026 · conferences and journals across ML, CV, NLP, robotics, data mining, HCI, multimedia, and medical AI.**
+The atlas is updated as new public proceedings and metadata become available. The current checked-in snapshot is summarized below.
 
 ## Current Snapshot
 

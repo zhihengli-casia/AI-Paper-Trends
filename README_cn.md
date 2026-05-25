@@ -13,7 +13,7 @@ AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要
 [![浏览图谱](https://img.shields.io/badge/Browse-Topic%20Atlas-0969da?style=for-the-badge)](docs/topic-atlas/README.md)
 [![下载主题索引](https://img.shields.io/badge/CSV-Topic%20Index-2da44e?style=for-the-badge)](docs/topic-atlas/data/topic_index.csv)
 
-**155,662 篇论文 · 7,378 个细粒度主题 · 160 个 venue-year 单元 · 2020-2026 · 覆盖机器学习、计算机视觉、NLP、机器人、数据挖掘、HCI、多媒体和医疗 AI 等方向。**
+图谱会随着新的公开论文集和元数据释放继续更新。当前仓库快照见下方统计。
 
 ## 当前快照
 
