@@ -10,7 +10,7 @@ AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要
 
 这个项目解决的是一个很具体的问题：想看某一年、某个会议到底在发哪些方向，不用在一堆 proceedings 页面里来回翻。
 
-[![浏览图谱](https://img.shields.io/badge/Browse-Interactive%20Atlas-0969da?style=for-the-badge)](docs/index.html)
+[![浏览图谱](https://img.shields.io/badge/Browse-Topic%20Atlas-0969da?style=for-the-badge)](docs/topic-atlas/README.md)
 [![下载主题索引](https://img.shields.io/badge/CSV-Topic%20Index-2da44e?style=for-the-badge)](docs/topic-atlas/data/topic_index.csv)
 
 图谱会随着新的公开论文集和元数据释放继续更新。当前仓库快照见下方统计。
@@ -87,7 +87,6 @@ AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要
 
 | 入口 | 链接 |
 |---|---|
-| 交互式浏览器 | [docs/index.html](docs/index.html) |
 | 图谱首页 | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
 | 最新收录年份 | [docs/topic-atlas/2026/README.md](docs/topic-atlas/2026/README.md) |
 | 主题 CSV 索引 | [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) |
@@ -189,7 +188,6 @@ python scripts/auto_update_atlas.py refresh
 
 | 路径 | 用途 |
 |---|---|
-| [docs/index.html](docs/index.html) | 按年份、venue、主题大类和关键词筛选的交互式浏览入口。 |
 | [docs/topic-atlas/](docs/topic-atlas/README.md) | 可浏览的静态论文主题图谱。 |
 | [docs/clean-2020-plus/](docs/clean-2020-plus/README.md) | 2020-2026 会议论文主题快照。 |
 | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) | 静态图谱生成脚本。 |
