@@ -15,7 +15,7 @@ Quick links:
 | Entry | Link |
 |---|---|
 | Full atlas | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
-| Clean 2020-2026 conference snapshot | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) |
+| 2020-2026 conference topic snapshot | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) |
 | 2026 papers | [docs/topic-atlas/2026/README.md](docs/topic-atlas/2026/README.md) |
 | ICLR 2026 topics | [docs/topic-atlas/2026/ICLR/README.md](docs/topic-atlas/2026/ICLR/README.md) |
 | Example topic | [ICLR 2026: 可验证奖励驱动的大模型推理](docs/topic-atlas/2026/ICLR/topic-004.md) |
@@ -26,13 +26,13 @@ Example path:
 
 `2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
 
-This repository is now centered on a browsable AI top-conference paper database and fine-grained topic atlas. The older single-conference OpenReview pipeline is still available, but the main artifact is the committed static index under `docs/topic-atlas/`.
+This repository provides a browsable AI top-conference paper database and fine-grained topic atlas. It also includes the original single-conference OpenReview pipeline for focused conference-level experiments.
 
-## Clean 2020-2026 Conference Snapshot
+## 2020-2026 Conference Topic Snapshot
 
-A new lightweight aggregate snapshot is available at [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md). It keeps only clean conference/main accepted or published records and excludes journal runs that still need XML/MathML text cleanup.
+The [2020-2026 conference topic snapshot](docs/clean-2020-plus/README.md) summarizes topic distributions for conference papers under a conference/main accepted or published scope. It provides aggregate tables by year, venue, venue-year, and topic.
 
-Current clean snapshot:
+Snapshot coverage:
 
 | Metric | Value |
 |---|---:|
@@ -43,19 +43,19 @@ Current clean snapshot:
 | Years | 2020-2026 |
 | Final outliers | 0 |
 
-The committed CSVs include full topic summaries by venue-year, latest-year topic lists by conference, yearly coverage, and venue coverage. Large paper-level result tables are intentionally kept out of GitHub.
+The CSV tables include full topic summaries by venue-year, latest-year topic lists by conference, yearly coverage, and venue coverage.
 
 ## What Is Included
 
 | Area | Files |
 |---|---|
 | Browsable database | [docs/topic-atlas/](docs/topic-atlas/README.md) |
-| Clean 2020+ aggregate snapshot | [docs/clean-2020-plus/](docs/clean-2020-plus/README.md) |
+| 2020+ conference topic snapshot | [docs/clean-2020-plus/](docs/clean-2020-plus/README.md) |
 | Topic indexes | [topic_index.csv](docs/topic-atlas/data/topic_index.csv), [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
 | Atlas generation | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) |
 | Fine-grained clustering | [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) |
 | Automatic updates | [configs/auto_update.yaml](configs/auto_update.yaml), [scripts/auto_update_atlas.py](scripts/auto_update_atlas.py), [docs/auto-update/status.md](docs/auto-update/status.md) |
-| Legacy OpenReview pipeline | [main.py](main.py), [src/](src), [configs/](configs) |
+| Single-conference OpenReview pipeline | [main.py](main.py), [src/](src), [configs/](configs) |
 
 ## 🚀 Browse the Database
 
@@ -80,7 +80,7 @@ The CSV indexes are useful if you want to build your own visualizations:
 
 ## 🔁 Rebuild the Topic Atlas
 
-The committed atlas is generated from local cached paper metadata and embeddings. The full embedding cache is intentionally not committed to GitHub.
+The atlas is generated from cached paper metadata and embeddings. Large embedding caches are stored outside the repository.
 
 Install dependencies:
 
@@ -96,7 +96,7 @@ python scripts/fine_grained_topic_analysis.py \
   --output-root results/fine_grained_venue_year_topics_2020_2026_mcs_fine
 ```
 
-Generate the GitHub-browsable atlas:
+Generate the static atlas:
 
 ```bash
 python scripts/build_topic_atlas.py \
@@ -119,7 +119,7 @@ The current atlas was built using venue-year independent clustering:
 The repository includes a GitHub Actions update engine:
 
 - Weekly hosted check: detects venue-year volumes that are due or worth watching and updates [docs/auto-update/status.md](docs/auto-update/status.md).
-- Full refresh: rebuilds `docs/topic-atlas` on a self-hosted runner labeled `ai-paper-trends`, because the full embedding/result cache is intentionally not committed. Set the repository variable `AUTO_REFRESH_ATLAS=true` to run this on the weekly schedule.
+- Full refresh: rebuilds `docs/topic-atlas` on a self-hosted runner labeled `ai-paper-trends`. This mode requires the external embedding/result cache. Set the repository variable `AUTO_REFRESH_ATLAS=true` to run this on the weekly schedule.
 
 Run the lightweight check locally:
 
@@ -135,9 +135,9 @@ python scripts/auto_update_atlas.py refresh
 
 Tracked venue schedules and source notes live in [configs/auto_update.yaml](configs/auto_update.yaml).
 
-## 🧪 Legacy Single-Conference Pipeline
+## 🧪 Single-Conference Pipeline
 
-The original OpenReview + BERTopic workflow is still available for small single-conference experiments. It is no longer the primary source of the committed multi-conference atlas.
+The OpenReview + BERTopic workflow supports small single-conference experiments, including review-score plots and OpenReview-only analyses.
 
 ### 1. Environment Setup
 

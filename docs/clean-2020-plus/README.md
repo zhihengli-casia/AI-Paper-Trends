@@ -1,6 +1,6 @@
-# Clean 2020-2026 Conference Topic Snapshot
+# 2020-2026 Conference Topic Snapshot
 
-这是一个轻量级、可提交到 GitHub 的干净版结果：只保留 **conference / main accepted / published** 口径的 2020+ 会议论文主题聚合，不包含期刊噪声结果，也不提交超大的论文级明细表。
+This snapshot summarizes topic distributions for 2020-2026 conference papers under a **conference / main accepted / published** scope. Aggregated tables are provided by year, venue, venue-year, and topic.
 
 ## Scope
 
@@ -12,9 +12,9 @@
 | Topics across venue-year units | 1,307 |
 | Years | 2020-2026 |
 | Final outliers | 0 |
-| Excluded journals pending text cleanup | 9 |
+| Journal venues listed separately | 9 |
 
-口径说明：本快照来自 `complete_accepted_published_2020_2026_louvain_bge_m15` 聚类结果，使用 BGE embedding + kNN/Louvain，对每个 venue-year 独立聚类。期刊 `AIJ / IJCV / JMLR / PR / TIP / TKDE / TMM / TNNLS / TPAMI` 暂时不放进干净版，因为部分 OpenAlex/JATS 摘要含 XML、MathML、网页残留词，需要先做文本清洗再发布。
+Method summary: topics are generated from `complete_accepted_published_2020_2026_louvain_bge_m15` using BGE embeddings with kNN/Louvain clustering, applied independently to each venue-year unit. Journal venues are listed separately from the conference snapshot.
 
 ## Data Files
 
@@ -26,7 +26,7 @@
 | [topic_summary_conferences_2020_2026.csv](data/topic_summary_conferences_2020_2026.csv) | 全部会议-年份主题，不只 Top 5 |
 | [latest_all_topics_by_conference.csv](data/latest_all_topics_by_conference.csv) | 每个会议最新年份的全部主题 |
 | [latest_topic_preview_top12_by_conference.csv](data/latest_topic_preview_top12_by_conference.csv) | 每个会议最新年份 Top 12 主题预览 |
-| [excluded_journals_pending_cleanup.csv](data/excluded_journals_pending_cleanup.csv) | 暂未发布的期刊数据概况 |
+| [journal_source_summary.csv](data/journal_source_summary.csv) | 期刊来源数据概况 |
 
 ## Year Summary
 
@@ -72,7 +72,7 @@
 
 ## Latest-Year Topic Preview
 
-下面只展示部分重点会议的最新年份 Top 12，完整列表见 [latest_all_topics_by_conference.csv](data/latest_all_topics_by_conference.csv)。
+The table below shows the latest-year Top 12 topics for selected venues. The complete latest-year topic list is available in [latest_all_topics_by_conference.csv](data/latest_all_topics_by_conference.csv).
 
 | Venue   |   Year |   Rank | Topic                                          |   Papers |   Share % |
 |:--------|-------:|-------:|:-----------------------------------------------|---------:|----------:|
@@ -196,7 +196,3 @@
 | IROS    |   2025 |     11 | 大模型强化学习：策略迭代、奖励学习与控制       |       98 |       5   |
 | IROS    |   2025 |     12 | 机器人学习：操作、世界模型与具身控制           |       91 |       4.6 |
 | KDD     |   2025 |      1 | 大模型推理：问答、常识与思维链                 |       84 |      15.2 |
-
-## Why This Snapshot Exists
-
-旧版 `docs/topic-atlas` 是更细粒度的可浏览论文索引；这个目录是新的“干净会议快照”，目标是给 README、图表和小红书/博客内容提供稳定、轻量、可复核的数据层。下一步适合把这里的 aggregate CSV 接到更好看的交互式前端，而不是把大体积论文级 CSV 直接提交进仓库。
