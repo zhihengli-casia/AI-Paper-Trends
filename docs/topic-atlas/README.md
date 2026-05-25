@@ -21,6 +21,20 @@ The numbers below describe the current checked-in index. They are expected to gr
 - [2021](2021/README.md) - 26 venues, 18,187 papers, 967 topics
 - [2020](2020/README.md) - 25 venues, 16,497 papers, 927 topics
 
+## Venue Groups
+
+| Group | Indexed venues | Venue-years | Papers | Fine topics |
+|---|---|---:|---:|---:|
+| ML / learning theory | ICLR, ICML, NeurIPS | 19 | 46,161 | 1,724 |
+| CV top conferences | CVPR, ICCV, ECCV | 12 | 24,999 | 1,130 |
+| NLP / language | ACL, EMNLP, NAACL, COLM | 18 | 15,368 | 811 |
+| General AI | AAAI, IJCAI | 13 | 21,179 | 963 |
+| Embodied AI / robotics | ICRA, IROS, RSS | 17 | 16,590 | 873 |
+| Multimedia / graphics / HCI | ACMMM, SIGGRAPH, SIGGRAPH-Asia, CHI | 20 | 10,473 | 591 |
+| Data mining / IR / Web / DB | KDD, SIGIR, WWW, ICDE, SIGMOD | 27 | 7,601 | 482 |
+| Medical AI | MICCAI | 6 | 428 | 41 |
+| Selected journals | AIJ, JMLR, TPAMI, IJCV, TIP, PR, TMM, TKDE, TNNLS | 28 | 12,863 | 763 |
+
 ## Venues
 
 | Venue | Years | Papers | Fine topics | Avg topics/year |

@@ -999,6 +999,17 @@ def build_year_page(output_root: Path, year: int, rows: pd.DataFrame, year_path:
 
 
 def build_home_page(output_root: Path, summary: pd.DataFrame, topic_index: pd.DataFrame) -> None:
+    venue_groups = [
+        ("ML / learning theory", ["ICLR", "ICML", "NeurIPS"]),
+        ("CV top conferences", ["CVPR", "ICCV", "ECCV"]),
+        ("NLP / language", ["ACL", "EMNLP", "NAACL", "COLM"]),
+        ("General AI", ["AAAI", "IJCAI"]),
+        ("Embodied AI / robotics", ["ICRA", "IROS", "RSS"]),
+        ("Multimedia / graphics / HCI", ["ACMMM", "SIGGRAPH", "SIGGRAPH-Asia", "CHI"]),
+        ("Data mining / IR / Web / DB", ["KDD", "SIGIR", "WWW", "ICDE", "SIGMOD"]),
+        ("Medical AI", ["MICCAI"]),
+        ("Selected journals", ["AIJ", "JMLR", "TPAMI", "IJCV", "TIP", "PR", "TMM", "TKDE", "TNNLS"]),
+    ]
     by_venue = (
         summary.groupby("venue")
         .agg(
@@ -1036,6 +1047,23 @@ def build_home_page(output_root: Path, summary: pd.DataFrame, topic_index: pd.Da
             f"- [{year}]({quote(str(Path(str(year)) / 'README.md'), safe='/#.-_')}) "
             f"- {len(year_rows)} venues, {int(year_rows['papers'].sum()):,} papers, "
             f"{int(year_rows['final_topics'].sum()):,} topics"
+        )
+
+    lines.extend(
+        [
+            "",
+            "## Venue Groups",
+            "",
+            "| Group | Indexed venues | Venue-years | Papers | Fine topics |",
+            "|---|---|---:|---:|---:|",
+        ]
+    )
+    for group_name, venues in venue_groups:
+        group_rows = summary[summary["venue"].isin(venues)]
+        indexed_venues = [venue for venue in venues if venue in set(group_rows["venue"])]
+        lines.append(
+            f"| {group_name} | {', '.join(indexed_venues)} | {len(group_rows)} "
+            f"| {int(group_rows['papers'].sum()):,} | {int(group_rows['final_topics'].sum()):,} |"
         )
 
     lines.extend(

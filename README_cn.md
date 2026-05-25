@@ -10,6 +10,20 @@
 
 数据库按照 **年份 -> venue -> 主题 -> 论文** 组织。当前提交版本覆盖 **155,662 篇会议与期刊论文**、**160 个 venue-year 单元**、**7,378 个细粒度主题**。这些数字代表当前仓库快照，后续随着新会议、新年份和新论文集加入会持续增长。
 
+按领域划分的覆盖范围：
+
+| 领域 | 已收录 venue | 论文 | 细粒度主题 |
+|---|---|---:|---:|
+| 机器学习三大会 / 学习理论 | ICLR, ICML, NeurIPS | 46,161 | 1,724 |
+| CV 三大会 | CVPR, ICCV, ECCV | 24,999 | 1,130 |
+| NLP / 语言会议 | ACL, EMNLP, NAACL, COLM | 15,368 | 811 |
+| 综合 AI | AAAI, IJCAI | 21,179 | 963 |
+| 具身智能 / 机器人核心会议 | ICRA, IROS, RSS | 16,590 | 873 |
+| 多媒体 / 图形学 / HCI | ACMMM, SIGGRAPH, SIGGRAPH-Asia, CHI | 10,473 | 591 |
+| 数据挖掘 / 检索 / Web / 数据库 | KDD, SIGIR, WWW, ICDE, SIGMOD | 7,601 | 482 |
+| 医疗 AI | MICCAI | 428 | 41 |
+| 已收录期刊 | AIJ, JMLR, TPAMI, IJCV, TIP, PR, TMM, TKDE, TNNLS | 12,863 | 763 |
+
 快速入口：
 
 | 入口 | 链接 |

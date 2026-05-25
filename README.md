@@ -10,6 +10,20 @@
 
 Browse the paper database as **year -> venue -> topic -> paper**. The checked-in index currently covers **155,662 conference and journal papers**, **160 venue-year groups**, and **7,378 fine-grained topics**. These counts describe the latest published repository snapshot and are expected to grow as additional venues, years, and proceedings are added.
 
+Coverage by area:
+
+| Area | Indexed venues | Papers | Fine topics |
+|---|---|---:|---:|
+| ML / learning theory | ICLR, ICML, NeurIPS | 46,161 | 1,724 |
+| CV top conferences | CVPR, ICCV, ECCV | 24,999 | 1,130 |
+| NLP / language | ACL, EMNLP, NAACL, COLM | 15,368 | 811 |
+| General AI | AAAI, IJCAI | 21,179 | 963 |
+| Embodied AI / robotics | ICRA, IROS, RSS | 16,590 | 873 |
+| Multimedia / graphics / HCI | ACMMM, SIGGRAPH, SIGGRAPH-Asia, CHI | 10,473 | 591 |
+| Data mining / IR / Web / DB | KDD, SIGIR, WWW, ICDE, SIGMOD | 7,601 | 482 |
+| Medical AI | MICCAI | 428 | 41 |
+| Selected journals | AIJ, JMLR, TPAMI, IJCV, TIP, PR, TMM, TKDE, TNNLS | 12,863 | 763 |
+
 Quick links:
 
 | Entry | Link |
