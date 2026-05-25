@@ -1,4 +1,4 @@
-# ICCV 2023: person / re-identification / reid / cross-modality
+# ICCV 2023: 行人重识别与人群计数
 
 - Topic ID: `63`
 - Papers: **16** (0.74%)

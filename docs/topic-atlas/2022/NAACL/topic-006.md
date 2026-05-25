@@ -1,8 +1,8 @@
-# NAACL 2022: 句法知识与语言学分析
+# NAACL 2022: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `6`
 - Papers: **20** (4.52%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `relation extraction / entity / entities / mentions`
 - Keyword pool: relation extraction; entity; entities; mentions; document-level; graph; relations; biomedical; linking; information extraction; dependency; syntactic
 

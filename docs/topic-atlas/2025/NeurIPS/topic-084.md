@@ -2,7 +2,7 @@
 
 - Topic ID: `84`
 - Papers: **32** (0.61%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / bit / quantized / fp8`
 - Keyword pool: quantization; bit; quantized; fp8; fp4; ternary; low-precision; compression; ptq; lora; llms; cache
 

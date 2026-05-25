@@ -1,4 +1,4 @@
-# AAAI 2026: 检索 / cir / cross-modal / composed image
+# AAAI 2026: 视频检索、时刻定位与事件理解
 
 - Topic ID: `90`
 - Papers: **21** (0.51%)

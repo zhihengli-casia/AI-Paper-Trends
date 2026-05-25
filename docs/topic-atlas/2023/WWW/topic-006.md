@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **19** (5.12%)
-- Macro topic: 多模态/VLM
+- Macro topic: 推荐/检索/排序
 - English keywords: `recommendation / sequential / items / features`
 - Keyword pool: recommendation; sequential; items; features; multi-modal; search; interaction; selection; denoising; recommender; negative; sequence
 

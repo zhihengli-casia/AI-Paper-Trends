@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **17** (1.60%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / adversarial / defense / transferability`
 - Keyword pool: attacks; adversarial; defense; transferability; black-box; sound; transferable; authorization; online; users; query; attackers
 

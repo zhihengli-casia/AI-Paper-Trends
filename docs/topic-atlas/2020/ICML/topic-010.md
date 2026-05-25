@@ -1,8 +1,8 @@
-# ICML 2020: 机器翻译与跨语言对齐
+# ICML 2020: 语音翻译与跨语言语音处理
 
 - Topic ID: `10`
 - Papers: **26** (2.40%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `language / translation / topic / generation`
 - Keyword pool: language; translation; topic; generation; word; speech; tokens; sequence; document; modeling; program; code
 

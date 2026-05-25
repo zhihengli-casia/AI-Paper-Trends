@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **20** (18.87%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `fair / algorithm / control / privacy`
 - Keyword pool: fair; algorithm; control; privacy; goods; division; auctions; differential; margin victory; elections; indivisible; preference
 

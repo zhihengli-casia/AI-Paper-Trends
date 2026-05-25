@@ -1,8 +1,8 @@
-# CVPR 2022: scene graph / sgg / graph generation / predicate
+# CVPR 2022: 场景图、关系推理与视觉理解
 
 - Topic ID: `48`
 - Papers: **19** (0.92%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `scene graph / sgg / graph generation / predicate`
 - Keyword pool: scene graph; sgg; graph generation; predicate; grounding; graphs; relationships; temporal; message; video; passing; compositional
 

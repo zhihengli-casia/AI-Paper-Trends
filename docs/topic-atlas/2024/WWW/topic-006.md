@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **19** (4.70%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / recommender / diversity / items`
 - Keyword pool: fairness; recommender; diversity; items; recommendations; conformity; exposure; interests; game; recommendation accuracy; meta-learning; preferences
 

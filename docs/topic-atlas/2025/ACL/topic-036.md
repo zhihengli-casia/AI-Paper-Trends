@@ -1,8 +1,8 @@
-# ACL 2025: LLM Agent 与工具使用
+# ACL 2025: 对话系统与会话智能体
 
 - Topic ID: `36`
 - Papers: **20** (1.18%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `personalized / user / personas / dialogue`
 - Keyword pool: personalized; user; personas; dialogue; personality; personalization; role-playing; profiles; game; preferences; traits; agents
 

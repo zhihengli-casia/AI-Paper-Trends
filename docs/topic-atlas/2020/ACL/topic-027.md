@@ -1,8 +1,8 @@
-# ACL 2020: 句法语义解析与结构化表示
+# ACL 2020: 句法解析与语言结构建模
 
 - Topic ID: `27`
 - Papers: **13** (1.67%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: NLP任务
 - English keywords: `parsing / treebank / dependency / constituency`
 - Keyword pool: parsing; treebank; dependency; constituency; constituent; parser; trees; pronoun; biaffine; decoding; mwes; predefined
 

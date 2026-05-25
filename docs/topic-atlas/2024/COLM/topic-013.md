@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **11** (3.68%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `lora / expert / fusion / routing`
 - Keyword pool: lora; expert; fusion; routing; moe; low-rank; fairness; modules; perplexity; adaptive; adaptation; reduced
 

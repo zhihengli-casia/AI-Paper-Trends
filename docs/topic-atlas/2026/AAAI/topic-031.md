@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **45** (1.08%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `point cloud / geometric / clouds / scene`
 - Keyword pool: point cloud; geometric; clouds; scene; segmentation; completion; cad; quality assessment; registration; matching; upsampling; object
 

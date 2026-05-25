@@ -1,8 +1,8 @@
-# AAAI 2024: 语音/音频语言模型
+# AAAI 2024: 说话人建模与语音表征
 
 - Topic ID: `3`
 - Papers: **51** (2.19%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `audio / speech / music / style`
 - Keyword pool: audio; speech; music; style; emotion; speaker; sound; voice; facial; talking; speaking; visual
 

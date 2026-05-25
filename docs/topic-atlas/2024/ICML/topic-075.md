@@ -1,8 +1,8 @@
-# ICML 2024: 语音/音频语言模型
+# ICML 2024: 语音理解、识别与交互
 
 - Topic ID: `75`
 - Papers: **16** (0.61%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `instruction / llms / language / speech`
 - Keyword pool: instruction; llms; language; speech; spt; factual; editing; gpt; fine-tuning; curriculum learning; unlearning; retro
 

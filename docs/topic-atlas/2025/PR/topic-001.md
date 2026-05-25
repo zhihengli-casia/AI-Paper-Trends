@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **45** (2.98%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `captioning / transformer / image / multi-label`
 - Keyword pool: captioning; transformer; image; multi-label; vision; recognition; character; visual; attention; fine-grained; classification; residual
 

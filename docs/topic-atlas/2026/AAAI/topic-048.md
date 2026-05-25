@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **34** (0.82%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `splatting / gaussian / reconstruction / scene`
 - Keyword pool: splatting; gaussian; reconstruction; scene; sparse-view; rendering; depth; views; camera; geometric; motion; geometry
 

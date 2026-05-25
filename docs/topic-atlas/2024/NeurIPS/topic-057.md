@@ -1,8 +1,8 @@
-# NeurIPS 2024: 知识图谱推理与表示学习
+# NeurIPS 2024: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `57`
 - Papers: **33** (0.82%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `llms / kgs / knowledge graph / reasoning`
 - Keyword pool: llms; kgs; knowledge graph; reasoning; entity; entities; facts; long-form; editing; factuality; relation; ontology
 

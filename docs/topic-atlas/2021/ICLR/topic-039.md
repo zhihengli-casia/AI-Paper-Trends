@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **10** (1.16%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 系统/效率/压缩
 - English keywords: `equivariant / equivariance / group / symmetry`
 - Keyword pool: equivariant; equivariance; group; symmetry; spherical; steerable; convolution; mesh; symmetries; self-attention; kernels; gcns
 

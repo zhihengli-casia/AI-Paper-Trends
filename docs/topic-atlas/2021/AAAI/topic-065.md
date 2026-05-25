@@ -1,8 +1,8 @@
-# AAAI 2021: 强化学习算法与理论
+# AAAI 2021: 组合优化与神经求解
 
 - Topic ID: `65`
 - Papers: **13** (0.79%)
-- Macro topic: 强化学习/决策
+- Macro topic: 理论/优化
 - English keywords: `search / knapsack / mcts / heuristic`
 - Keyword pool: search; knapsack; mcts; heuristic; combinatorial optimization; solutions; traveling; policy; branching; carlo; monte; reinforcement learning
 

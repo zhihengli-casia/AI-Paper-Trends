@@ -2,7 +2,7 @@
 
 - Topic ID: `60`
 - Papers: **40** (0.75%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `llms / agents / long-term memory / long-context`
 - Keyword pool: llms; agents; long-term memory; long-context; memories; retrieval; episodic; user; debate; multi-turn; recollection; familiarity
 

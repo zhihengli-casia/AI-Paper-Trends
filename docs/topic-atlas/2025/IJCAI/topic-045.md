@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **14** (1.09%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `homelessness / llms / social / media`
 - Keyword pool: homelessness; llms; social; media; bias; content; climate; language; agents; agent-based; nlp; topics
 

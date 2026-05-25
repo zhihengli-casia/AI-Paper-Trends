@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **10** (0.68%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `lidar / object detection / disparity / kitti`
 - Keyword pool: lidar; object detection; disparity; kitti; autonomous driving; depth; stereo; monocular; point; visibility; image-based; semantic segmentation
 

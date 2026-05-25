@@ -1,8 +1,8 @@
-# KDD 2022: 知识图谱推理与表示学习
+# KDD 2022: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `1`
 - Papers: **24** (9.49%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `entity / reasoning / entities / knowledge graph`
 - Keyword pool: entity; reasoning; entities; knowledge graph; tables; extraction; query; schema; documents; tabular; relation; semantic
 

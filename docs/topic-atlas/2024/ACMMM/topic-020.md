@@ -1,8 +1,8 @@
-# ACMMM 2024: action / 视频理解/生成 / temporal / 少样本
+# ACMMM 2024: 视频动作识别与时序定位
 
 - Topic ID: `20`
 - Papers: **19** (1.65%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `action / video / temporal / few-shot`
 - Keyword pool: action; video; temporal; few-shot; recognition; anomaly; frames; cognitive; egocentric; human; anomalies; har
 

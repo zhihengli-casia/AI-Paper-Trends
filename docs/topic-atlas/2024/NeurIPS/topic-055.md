@@ -2,7 +2,7 @@
 
 - Topic ID: `55`
 - Papers: **34** (0.84%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `regret / bandits / feedback / bound`
 - Keyword pool: regret; bandits; feedback; bound; best-of-both-worlds; online; convex; adversarial; rewards; stochastic; arm; delays
 

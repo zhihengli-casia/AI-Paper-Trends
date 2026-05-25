@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **27** (1.16%)
-- Macro topic: 理论/优化
+- Macro topic: 计算机视觉
 - English keywords: `super-resolution / vsr / images / spike`
 - Keyword pool: super-resolution; vsr; images; spike; ref; underwater; smoke; isp; rgb; color; raw; distortion
 

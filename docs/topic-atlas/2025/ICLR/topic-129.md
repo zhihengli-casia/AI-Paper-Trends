@@ -1,8 +1,8 @@
-# ICLR 2025: 文生图生成与个性化编辑
+# ICLR 2025: 扩散生成模型
 
 - Topic ID: `129`
 - Papers: **13** (0.35%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / text-to-image / quantization / caching`
 - Keyword pool: diffusion; text-to-image; quantization; caching; dit; transformers; spatial-temporal; scheduler; video generation; tokens; masked generative; text-image alignment
 

@@ -1,8 +1,8 @@
-# IJCAI 2024: LLM Agent 与工具使用
+# IJCAI 2024: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `52`
 - Papers: **9** (0.86%)
-- Macro topic: 多模态/VLM
+- Macro topic: 强化学习/决策
 - English keywords: `matchings / agents / parameterized / stable`
 - Keyword pool: matchings; agents; parameterized; stable; couples; items; tournament; players; vertex; np-hard; pair; exchange
 

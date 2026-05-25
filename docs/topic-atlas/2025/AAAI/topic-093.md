@@ -1,8 +1,8 @@
-# AAAI 2025: 语音/音频语言模型
+# AAAI 2025: 人脸分析、表情与属性建模
 
 - Topic ID: `93`
 - Papers: **14** (0.46%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `deepfake / detection / speech / anti-spoofing`
 - Keyword pool: deepfake; detection; speech; anti-spoofing; audio; live; one-class; facial; voice; face; phoneme-level; clip
 

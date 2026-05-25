@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **10** (1.52%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `fine-grained / retrieval / recognition / image`
 - Keyword pool: fine-grained; retrieval; recognition; image; gap; visual; noisy web; features few-shot; low-resolution; leaf; discriminative information; tree
 

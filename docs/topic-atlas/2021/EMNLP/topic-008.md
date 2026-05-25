@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **30** (3.54%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 多模态/VLM
 - English keywords: `question / answering / answers / vqa`
 - Keyword pool: question; answering; answers; vqa; passage; sql; graph; domain knowledge; differentiable; multi-hop; queries; query
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `59`
 - Papers: **14** (0.89%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `tracking / point / transformer / cloud`
 - Keyword pool: tracking; point; transformer; cloud; tracker; object; rgb-d; segmentation; target; seed; detection; self-attention
 

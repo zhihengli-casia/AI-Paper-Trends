@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **17** (2.19%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / diagnosis / clinical / codes`
 - Keyword pool: brain; diagnosis; clinical; codes; classification; subjects; coding; zero-shot; cognitive; signals; assessment; convolutional neural network
 

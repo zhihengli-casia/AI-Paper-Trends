@@ -1,4 +1,4 @@
-# CVPR 2021: person / reid / re-identification / domains
+# CVPR 2021: 行人重识别与人群计数
 
 - Topic ID: `86`
 - Papers: **9** (0.54%)

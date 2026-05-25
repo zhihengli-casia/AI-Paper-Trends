@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **29** (0.96%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `language / llms / long-context / token`
 - Keyword pool: language; llms; long-context; token; compression; decoding; length; unlearning; scaffold; ner; exiting; gnns
 

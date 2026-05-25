@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **25** (1.37%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 系统/效率/压缩
 - English keywords: `gaussian / gps / variational / inference`
 - Keyword pool: gaussian; gps; variational; inference; processes; latent; kernels; bayesian; covariance; tensor; inducing; wasserstein
 

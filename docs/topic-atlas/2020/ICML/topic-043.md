@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **12** (1.11%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `ntk / kernel / neural tangent / curvature`
 - Keyword pool: ntk; kernel; neural tangent; curvature; width; correction; infinite; limit; dynamics; frequency; regression; overparameterized
 

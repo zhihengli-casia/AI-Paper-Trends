@@ -1,8 +1,8 @@
-# AAAI 2024: 查询理解与检索优化
+# AAAI 2024: 视频检索、时刻定位与事件理解
 
 - Topic ID: `91`
 - Papers: **11** (0.47%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `video / retrieval / moment / clip`
 - Keyword pool: video; retrieval; moment; clip; untrimmed; frames; modality; query; prompt tuning; coir; question; stitching
 

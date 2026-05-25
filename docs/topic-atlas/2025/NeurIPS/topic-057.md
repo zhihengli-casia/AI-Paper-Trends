@@ -1,8 +1,8 @@
-# NeurIPS 2025: 多智能体协作与规划
+# NeurIPS 2025: LLM Agent 与工具使用
 
 - Topic ID: `57`
 - Papers: **38** (0.72%)
-- Macro topic: 强化学习/决策
+- Macro topic: 系统/效率/压缩
 - English keywords: `agents / multi-agent / llm / collaboration`
 - Keyword pool: agents; multi-agent; llm; collaboration; agentic; trajectory modeling; graph; coordination; serving; autonomous; web; software
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **11** (4.74%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: NLP任务
 - English keywords: `entity / discovery / adaptive / join`
 - Keyword pool: entity; discovery; adaptive; join; implicit; selection; mutual; modeling; maximization; sequences; alignment; dependency
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **17** (1.84%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `motor / disease / diagnosis / module`
 - Keyword pool: motor; disease; diagnosis; module; brain; temporal; matching; similarity; limited; imbalance; end-to-end; features
 

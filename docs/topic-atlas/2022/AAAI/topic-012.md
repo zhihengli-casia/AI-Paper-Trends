@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **25** (1.90%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `object / detection / lane / bounding`
 - Keyword pool: object; detection; lane; bounding; monocular; iou; depth; spherical; box; localization; pose; navigation
 

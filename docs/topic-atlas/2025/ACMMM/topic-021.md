@@ -1,8 +1,8 @@
-# ACMMM 2025: 语音/音频语言模型
+# ACMMM 2025: 说话人视频生成与人脸动画
 
 - Topic ID: `21`
 - Papers: **22** (1.76%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `speech / head / facial / motion`
 - Keyword pool: speech; head; facial; motion; gestures; audio; talking; movements; lip; avatar; video; rhythmic
 

@@ -1,8 +1,8 @@
-# PR 2026: 扩散生成模型
+# PR 2026: 人脸分析、表情与属性建模
 
 - Topic ID: `12`
 - Papers: **22** (2.38%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `generation / style / diffusion / transfer`
 - Keyword pool: generation; style; diffusion; transfer; face; image; editing; text-driven; layout; inpainting; controllable; facial
 

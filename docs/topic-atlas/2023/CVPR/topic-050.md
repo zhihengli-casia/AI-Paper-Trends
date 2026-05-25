@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **21** (0.89%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `bev / lane / bird / s-eye-view`
 - Keyword pool: bev; lane; bird; s-eye-view; driving; autonomous; depth; camera; nuscenes; object detection; vision-centric; multi-view object
 

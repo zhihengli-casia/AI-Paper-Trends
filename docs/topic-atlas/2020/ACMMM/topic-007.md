@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **20** (4.23%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `hashing / clustering / retrieval / codes`
 - Keyword pool: hashing; clustering; retrieval; codes; cross-modal; label; visual-semantic; modality; diagnosis; incomplete; medical; query
 

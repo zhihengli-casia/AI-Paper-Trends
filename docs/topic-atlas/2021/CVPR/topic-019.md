@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **22** (1.33%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `object detection / monocular object / objects / range image`
 - Keyword pool: object detection; monocular object; objects; range image; kitti; depth; detector; point; clouds; waymo; drones; iou
 

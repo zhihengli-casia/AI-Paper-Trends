@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **11** (11.96%)
-- Macro topic: HCI/社会计算
+- Macro topic: 可信/安全/公平
 - English keywords: `argumentation / principles / explanation / maker`
 - Keyword pool: argumentation; principles; explanation; maker; evidence; compliance; reasoning; trustworthiness; fairness; stakes; graphical; evidential
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **39** (0.73%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `cot / chain-of-thought / llms / speech`
 - Keyword pool: cot; chain-of-thought; llms; speech; traces; spoken; causal; answer; thinking; logical; interpretability; reasoning steps
 

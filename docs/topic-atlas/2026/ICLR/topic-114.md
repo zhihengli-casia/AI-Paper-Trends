@@ -1,4 +1,4 @@
-# ICLR 2026: causal / discovery / structure learning / non-gaussian
+# ICLR 2026: 扩散生成模型
 
 - Topic ID: `114`
 - Papers: **22** (0.41%)

@@ -1,8 +1,8 @@
-# ICDE 2025: 文档摘要与信息压缩
+# ICDE 2025: 摘要生成与信息压缩
 
 - Topic ID: `17`
 - Papers: **11** (2.82%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: NLP任务
 - English keywords: `graph / learning / attributed / contrastive`
 - Keyword pool: graph; learning; attributed; contrastive; abstract; extended; reduction; summarization; future; summary; trends; progressive
 

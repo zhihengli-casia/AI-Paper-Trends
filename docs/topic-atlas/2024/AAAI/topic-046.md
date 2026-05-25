@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **21** (0.90%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `driving / autonomous / bev / detection`
 - Keyword pool: driving; autonomous; bev; detection; navigation; perception; road; object; nuscenes; bird; eye view; camera-based
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **12** (1.13%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: AI4Science/医疗
 - English keywords: `protein / graph / relational / imaging`
 - Keyword pool: protein; graph; relational; imaging; gene; disease; single-cell; causal; multi-task learning; topological; nodes; embeddings
 

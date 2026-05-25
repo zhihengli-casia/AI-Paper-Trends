@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **12** (1.14%)
-- Macro topic: HCI/社会计算
+- Macro topic: 可信/安全/公平
 - English keywords: `external / driving / vehicles / autonomous`
 - Keyword pool: external; driving; vehicles; autonomous; evaluating; safety; automated; interfaces; impact; interaction; subjective; account
 

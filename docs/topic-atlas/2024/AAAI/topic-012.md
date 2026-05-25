@@ -1,4 +1,4 @@
-# AAAI 2024: pose / human / estimation / mesh
+# AAAI 2024: 人体姿态估计与运动理解
 
 - Topic ID: `12`
 - Papers: **44** (1.89%)

@@ -1,4 +1,4 @@
-# ICCV 2025: person / re-identification / reid / identity
+# ICCV 2025: 行人重识别与人群计数
 
 - Topic ID: `69`
 - Papers: **17** (0.63%)

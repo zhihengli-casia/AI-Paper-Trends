@@ -1,8 +1,8 @@
-# ICML 2024: 语音/音频语言模型
+# ICML 2024: 视频动作识别与时序定位
 
 - Topic ID: `73`
 - Papers: **17** (0.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `video / taylor / multimodal / audio`
 - Keyword pool: video; taylor; multimodal; audio; motions; frames; modality; pre-training; speech; visual; temporal; action recognition
 

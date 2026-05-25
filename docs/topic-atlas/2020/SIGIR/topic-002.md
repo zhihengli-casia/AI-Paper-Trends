@@ -1,8 +1,8 @@
-# SIGIR 2020: 搜索排序与相关性建模
+# SIGIR 2020: 语音交互与语音表征
 
 - Topic ID: `2`
 - Papers: **16** (10.88%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 语音/音频/音乐
 - English keywords: `questions / conversational / query / answers`
 - Keyword pool: questions; conversational; query; answers; matching; queries; ranking; style; voice; similar; semantic; answering
 

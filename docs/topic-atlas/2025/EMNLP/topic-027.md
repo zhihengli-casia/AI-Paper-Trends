@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **21** (1.16%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `gender / bias / stereotypes / languages`
 - Keyword pool: gender; bias; stereotypes; languages; identity; social; aesthetic; demographic; attributes; women; diffusion; translation
 

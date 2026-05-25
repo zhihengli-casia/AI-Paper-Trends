@@ -2,7 +2,7 @@
 
 - Topic ID: `92`
 - Papers: **15** (0.52%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `grounding / reasoning / segmentation / lmms`
 - Keyword pool: grounding; reasoning; segmentation; lmms; multimodal; vlms; mlms; chain-of-thought; vision-language; refcoco; tokens; fine-grained visual
 

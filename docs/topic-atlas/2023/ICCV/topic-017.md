@@ -1,8 +1,8 @@
-# ICCV 2023: 语音/音频语言模型
+# ICCV 2023: 说话人视频生成与人脸动画
 
 - Topic ID: `17`
 - Papers: **35** (1.62%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `speech / audio / sound / lip`
 - Keyword pool: speech; audio; sound; lip; facial; talking; emotional; speaker; video; animation; head; portrait
 

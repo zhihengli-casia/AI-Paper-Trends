@@ -37,8 +37,8 @@
 | [023](topic-023.md) | 软体机器人与柔性执行器 | 20 | 1.50% | 3D/具身/机器人 | `manipulators / robots / proprioceptive / control` | Learning State Conditioned Linear Mappings for Low-Dimensional Control of Robotic Manipulators |
 | [024](topic-024.md) | 软体机器人与柔性执行器 | 19 | 1.43% | 3D/具身/机器人 | `continuum / robots / inverse / actuated` | Data-Driven Estimation of Forces Along the Backbone of Concentric Tube Continuum Robots |
 | [025](topic-025.md) | 机器人视觉目标检测与域适应 | 19 | 1.43% | 3D/具身/机器人 | `domain / object detection / unsupervised / adaptation` | Source-free Unsupervised Domain Adaptation for 3D Object Detection in Adverse Weather |
-| [026](topic-026.md) | pose / estimation / category-level / object | 18 | 1.35% | 3D/具身/机器人 | `pose / estimation / category-level / object` | Multi-view object pose estimation from correspondence distributions and epipolar geometry |
-| [027](topic-027.md) | 扩散生成模型 | 18 | 1.35% | 3D/具身/机器人 | `prediction / motion / forecasting / human` | Can We Use Diffusion Probabilistic Models for 3D Motion Prediction? |
+| [026](topic-026.md) | 人体姿态估计与运动理解 | 18 | 1.35% | 3D/具身/机器人 | `pose / estimation / category-level / object` | Multi-view object pose estimation from correspondence distributions and epipolar geometry |
+| [027](topic-027.md) | 人体姿态估计与运动理解 | 18 | 1.35% | 3D/具身/机器人 | `prediction / motion / forecasting / human` | Can We Use Diffusion Probabilistic Models for 3D Motion Prediction? |
 | [028](topic-028.md) | 机器人操作与抓取 | 17 | 1.28% | 3D/具身/机器人 | `planning / manipulation / path / optimal` | Torque-Limited Manipulation Planning through Contact by Interleaving Graph Search and Trajectory Optimization |
 | [029](topic-029.md) | 机器人操作与具身智能 | 17 | 1.28% | 3D/具身/机器人 | `multi-robot / allocation / heterogeneous / scheduling` | ROSMC: A High-Level Mission Operation Framework for Heterogeneous Robotic Teams |
 | [030](topic-030.md) | LiDAR 点云与 3D 感知 | 17 | 1.28% | 3D/具身/机器人 | `lidar / segmentation / point / clouds` | Cost-Aware Evaluation and Model Scaling for LiDAR-Based 3D Object Detection |
@@ -65,7 +65,7 @@
 | [051](topic-051.md) | localization / 视觉理解 / regression / cross-modal | 13 | 0.98% | 3D/具身/机器人 | `localization / visual / regression / cross-modal` | Global Localization in Repetitive and Ambiguous Environments |
 | [052](topic-052.md) | 强化学习算法与理论 | 13 | 0.98% | 3D/具身/机器人 | `multi-agent / planning / planner / trajectory` | Distributed Potential iLQR: Scalable Game-Theoretic Trajectory Planning for Multi-Agent Interactions |
 | [053](topic-053.md) | 足式机器人与运动控制 | 13 | 0.98% | 3D/具身/机器人 | `quadrupedal / locomotion / terrain / legged` | Learning to Walk by Steering: Perceptive Quadrupedal Locomotion in Dynamic Environments |
-| [054](topic-054.md) | 目标检测与图像分割 | 13 | 0.98% | 3D/具身/机器人 | `segmentation / modeling / object / rgb-d` | Unseen Object Instance Segmentation with Fully Test-time RGB-D Embeddings Adaptation |
+| [054](topic-054.md) | 语义分割与场景解析 | 13 | 0.98% | 3D/具身/机器人 | `segmentation / modeling / object / rgb-d` | Unseen Object Instance Segmentation with Fully Test-time RGB-D Embeddings Adaptation |
 | [056](topic-056.md) | 语言/视觉语言引导的机器人语义接地 | 12 | 0.90% | 3D/具身/机器人 | `language / natural / question / programs` | Embodied Referring Expression for Manipulation Question Answering in Interactive Environment |
 | [055](topic-055.md) | ultrasound / images / robotic / reconstruction | 12 | 0.90% | 3D/具身/机器人 | `ultrasound / images / robotic / reconstruction` | A Curvature and Trajectory Optimization-based 3D Surface Reconstruction Pipeline for Ultrasound Trajectory Generation |
 | [057](topic-057.md) | 强化学习算法与理论 | 12 | 0.90% | 3D/具身/机器人 | `multi-agent / search / observable / reinforcement learning` | Decentralized Multi-agent Exploration with Limited Inter-agent Communications |
@@ -80,9 +80,9 @@
 | [066](topic-066.md) | 具身智能与物理交互 | 11 | 0.83% | 3D/具身/机器人 | `perception learning / embodied / continuous / attention` | Learning to Explore Informative Trajectories and Samples for Embodied Perception |
 | [067](topic-067.md) | 脑电信号表征与解码 | 10 | 0.75% | 3D/具身/机器人 | `affordance / recognition / socially / deep learning` | Self-Supervised Learning of Action Affordances as Interaction Modes |
 | [068](topic-068.md) | 足式机器人与运动控制 | 10 | 0.75% | 3D/具身/机器人 | `control / uav / swarm / multi-agent` | Multi-Agent Spatial Predictive Control with Application to Drone Flocking |
-| [069](topic-069.md) | 目标检测与图像分割 | 9 | 0.68% | 3D/具身/机器人 | `bev / fusion / feature / perception` | BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation |
+| [069](topic-069.md) | 目标检测与开放世界检测 | 9 | 0.68% | 3D/具身/机器人 | `bev / fusion / feature / perception` | BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation |
 | [070](topic-070.md) | elastic / encoding / manipulation / context | 9 | 0.68% | 3D/具身/机器人 | `elastic / encoding / manipulation / context` | Cloth Funnels: Canonicalized-Alignment for Multi-Purpose Garment Manipulation |
-| [071](topic-071.md) | 深度估计与立体匹配 | 9 | 0.68% | 3D/具身/机器人 | `underwater / monocular depth estimation / mapping / image` | Conditional GANs for Sonar Image Filtering with Applications to Underwater Occupancy Mapping |
-| [072](topic-072.md) | 目标检测与图像分割 | 9 | 0.68% | 3D/具身/机器人 | `radar / segmentation / clouds / point` | TransRSS: Transformer-based Radar Semantic Segmentation |
+| [071](topic-071.md) | 领域自适应与迁移学习 | 9 | 0.68% | 3D/具身/机器人 | `underwater / monocular depth estimation / mapping / image` | Conditional GANs for Sonar Image Filtering with Applications to Underwater Occupancy Mapping |
+| [072](topic-072.md) | 图像分割、语义分割与场景解析 | 9 | 0.68% | 3D/具身/机器人 | `radar / segmentation / clouds / point` | TransRSS: Transformer-based Radar Semantic Segmentation |
 | [073](topic-073.md) | grasp / manipulation / fields / transfer | 8 | 0.60% | 3D/具身/机器人 | `grasp / manipulation / fields / transfer` | DefGraspNets: Grasp Planning on 3D Fields with Graph Neural Nets |
 | [074](topic-074.md) | 深度估计与立体匹配 | 8 | 0.60% | 3D/具身/机器人 | `depth / intelligent / autonomous / navigation` | Robotic Navigation Autonomy for Subretinal Injection via Intelligent Real-Time Virtual iOCT Volume Slicing |

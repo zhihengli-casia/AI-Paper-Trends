@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **16** (2.95%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `super-resolution / fusion / low-light / matching`
 - Keyword pool: super-resolution; fusion; low-light; matching; lightweight; imaging; measurements; devices; quantized; bam; convolution; quantization
 

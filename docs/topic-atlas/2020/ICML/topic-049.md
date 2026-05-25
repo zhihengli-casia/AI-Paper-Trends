@@ -1,8 +1,8 @@
-# ICML 2020: contrastive / representations / imagenet / 视觉理解
+# ICML 2020: 神经架构搜索与模型设计
 
 - Topic ID: `49`
 - Papers: **10** (0.92%)
-- Macro topic: 计算机视觉
+- Macro topic: 理论/优化
 - English keywords: `contrastive / representations / imagenet / visual`
 - Keyword pool: contrastive; representations; imagenet; visual; pretext; representation learning; self-supervised; hardness; features; extrapolation; pixels; nas
 

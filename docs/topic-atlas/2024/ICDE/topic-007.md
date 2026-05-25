@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **22** (4.55%)
-- Macro topic: 强化学习/决策
+- Macro topic: 系统/效率/压缩
 - English keywords: `processing / transaction / stream / consensus`
 - Keyword pool: processing; transaction; stream; consensus; algorithm; parallel; view; distributed; adaptive; recovery; rapid; gpu-accelerated
 

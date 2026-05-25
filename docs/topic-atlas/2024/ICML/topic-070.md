@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **17** (0.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `pruning / language / fine-tuning / lms`
 - Keyword pool: pruning; language; fine-tuning; lms; random masking; dare; post-training; weights; delta; pre-trained; parameter-efficient; dna
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **47** (1.73%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `clothed / clothing / avatars / texture`
 - Keyword pool: clothed; clothing; avatars; texture; diffusion; garment; body; try-on; geometry; reconstruction; head; facial
 

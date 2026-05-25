@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **15** (6.91%)
-- Macro topic: 强化学习/决策
+- Macro topic: 系统/效率/压缩
 - English keywords: `transfer / pruning / domains / pipeline`
 - Keyword pool: transfer; pruning; domains; pipeline; depth; permutation; deep neural; complexity; multi-core; increase; activation; geometric
 

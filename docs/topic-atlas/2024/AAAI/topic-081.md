@@ -1,8 +1,8 @@
-# AAAI 2024: 多智能体协作与规划
+# AAAI 2024: 对话系统与会话智能体
 
 - Topic ID: `81`
 - Papers: **13** (0.56%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `agents / logics / beliefs / dialogue`
 - Keyword pool: agents; logics; beliefs; dialogue; allocation; strategic; coalition; multi-agent; temporal logic; counterexample; calculus; counterfactual
 

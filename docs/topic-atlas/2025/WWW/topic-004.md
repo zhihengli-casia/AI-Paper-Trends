@@ -1,8 +1,8 @@
-# WWW 2025: 推荐系统与用户建模
+# WWW 2025: 扩散生成模型
 
 - Topic ID: `4`
 - Papers: **14** (9.09%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `recommendation / recommender / knowledge / denoising`
 - Keyword pool: recommendation; recommender; knowledge; denoising; graph; social; personalized; interests; news; diffusion; preferences; dual
 

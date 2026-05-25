@@ -1,8 +1,8 @@
-# ACMMM 2024: 语音/音频语言模型
+# ACMMM 2024: 音乐与音频生成/理解
 
 - Topic ID: `50`
 - Papers: **11** (0.96%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `music / audio / singing / pitch`
 - Keyword pool: music; audio; singing; pitch; multi-grained; retrieval; fingerprinting; joint learning; loop; temporal; harmonic; separation
 

@@ -1,4 +1,4 @@
-# CVPR 2023: mesh / human / body / hmr
+# CVPR 2023: 人体姿态估计与运动理解
 
 - Topic ID: `54`
 - Papers: **19** (0.81%)

@@ -1,8 +1,8 @@
-# NeurIPS 2024: 扩散生成模型
+# NeurIPS 2024: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `80`
 - Papers: **23** (0.57%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `unlearning / dms / deepfake / images`
 - Keyword pool: unlearning; dms; deepfake; images; poisoning; diffusion; harmful; erasure; learnware; concepts; forget; poisoned
 

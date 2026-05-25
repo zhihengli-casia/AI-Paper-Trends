@@ -1,8 +1,8 @@
-# ECCV 2022: 对抗攻击、鲁棒性与安全
+# ECCV 2022: 卷积网络结构与训练
 
 - Topic ID: `2`
 - Papers: **39** (2.37%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `vits / vision transformers / token / cnns`
 - Keyword pool: vits; vision transformers; token; cnns; self-attention; quantization; certified; patch; convolutional; adversarial; imagenet-1k; vision transformer vit
 

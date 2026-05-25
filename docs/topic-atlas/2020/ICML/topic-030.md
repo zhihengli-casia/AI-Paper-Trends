@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **16** (1.48%)
-- Macro topic: 理论/优化
+- Macro topic: 生成模型
 - English keywords: `games / equilibria / nash / zero-sum`
 - Keyword pool: games; equilibria; nash; zero-sum; equilibrium; gans; convergence; dynamics; stochastic; multiplayer; laws; stackelberg
 

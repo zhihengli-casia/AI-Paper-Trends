@@ -1,4 +1,4 @@
-# CVPR 2023: surface / reconstruction / implicit / rendering
+# CVPR 2023: 3D 形状重建与隐式表示
 
 - Topic ID: `12`
 - Papers: **37** (1.57%)

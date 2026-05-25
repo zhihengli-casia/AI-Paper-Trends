@@ -2,7 +2,7 @@
 
 - Topic ID: `71`
 - Papers: **8** (0.61%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 计算机视觉
 - English keywords: `uncertainty / estimation / depth completion / noise`
 - Keyword pool: uncertainty; estimation; depth completion; noise; segmentation; loss; imbalanced; noisy; label; confident; epistemic; pixels
 

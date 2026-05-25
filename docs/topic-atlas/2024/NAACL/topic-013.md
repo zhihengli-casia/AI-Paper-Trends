@@ -1,8 +1,8 @@
-# NAACL 2024: dialogue / multi-modal / intents / conversation
+# NAACL 2024: 对话系统与会话建模
 
 - Topic ID: `13`
 - Papers: **16** (2.85%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `dialogue / multi-modal / intents / conversation`
 - Keyword pool: dialogue; multi-modal; intents; conversation; response; nlu; images; assistants; virtual; human-like; feedback; dense
 

@@ -1,8 +1,8 @@
-# AAAI 2025: 语音/音频语言模型
+# AAAI 2025: 语音识别与语音理解
 
 - Topic ID: `102`
 - Papers: **13** (0.43%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `speech / audio / concepts / codec`
 - Keyword pool: speech; audio; concepts; codec; acoustic; language; concept-based; compression; phoneme; bottleneck; asr; codebook
 

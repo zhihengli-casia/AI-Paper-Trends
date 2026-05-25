@@ -1,8 +1,8 @@
-# EMNLP 2023: dialogue / persona / conversation / dialogs
+# EMNLP 2023: 对话系统与会话建模
 
 - Topic ID: `1`
 - Papers: **54** (5.16%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `dialogue / persona / conversation / dialogs`
 - Keyword pool: dialogue; persona; conversation; dialogs; response; chatgpt; intent; discourse; task-oriented; tracking; retriever; questions
 

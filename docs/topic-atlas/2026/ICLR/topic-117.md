@@ -2,7 +2,7 @@
 
 - Topic ID: `117`
 - Papers: **21** (0.39%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / bias mitigation / debiasing / sensitive attributes`
 - Keyword pool: fairness; bias mitigation; debiasing; sensitive attributes; retention; demographic; subgroup; biases; social bias; two-sided; llms; notions
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **13** (0.96%)
-- Macro topic: 多模态/VLM
+- Macro topic: 强化学习/决策
 - English keywords: `trajectory / planning / forecasting / motion`
 - Keyword pool: trajectory; planning; forecasting; motion; trajectories; self-driving; future; multi-agent; traffic; vehicles; agents; safe
 

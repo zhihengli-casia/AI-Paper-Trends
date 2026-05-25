@@ -2,7 +2,7 @@
 
 - Topic ID: `77`
 - Papers: **33** (0.62%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: AI4Science/医疗
 - English keywords: `spiking / snns / neuromorphic / networks`
 - Keyword pool: spiking; snns; neuromorphic; networks; spike; energy-efficient; neurons; event-driven; brain; computing; energy efficiency; biological
 

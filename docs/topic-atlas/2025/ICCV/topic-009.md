@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **46** (1.70%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `text-to-image / t2i / ocr / captions`
 - Keyword pool: text-to-image; t2i; ocr; captions; preference; captioning; cir; attributes; rag; image generation; ai-generated; emotional
 

@@ -1,8 +1,8 @@
-# TKDE 2020: entity / knowledge / entities / graphs
+# TKDE 2020: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `22`
 - Papers: **9** (2.24%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `entity / knowledge / entities / graphs`
 - Keyword pool: entity; knowledge; entities; graphs; alignment; underline xmlns mml; evidence; location; relation; reasoning; query; annotation
 

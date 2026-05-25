@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **11** (1.04%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `sampling / stein / kernel / langevin`
 - Keyword pool: sampling; stein; kernel; langevin; pis; stochastic; carlo; monte; samplers; mcmc; mean discrepancy; maximum mean
 

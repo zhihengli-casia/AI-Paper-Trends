@@ -1,8 +1,8 @@
-# AIJ 2020: LLM Agent 与工具使用
+# AIJ 2020: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `1`
 - Papers: **19** (22.35%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `people / controllability / locations / games`
 - Keyword pool: people; controllability; locations; games; distortion; aggregated; mechanisms; flow; agents; temporal; metrics; information
 

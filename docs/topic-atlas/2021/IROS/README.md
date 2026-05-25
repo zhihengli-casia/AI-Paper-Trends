@@ -13,17 +13,17 @@
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 足式机器人与运动控制 | 41 | 4.03% | 3D/具身/机器人 | `soft / pneumatic / actuators / modeling` | A Control and Drive System for Pneumatic Soft Robots: PneuSoRD |
 | [001](topic-001.md) | slam / odometry / 视觉理解 / 鲁棒性 | 38 | 3.73% | 3D/具身/机器人 | `slam / odometry / visual / robust` | A Comparison of Modern General-Purpose Visual SLAM Approaches |
-| [002](topic-002.md) | 目标检测与图像分割 | 33 | 3.24% | 3D/具身/机器人 | `object / scene / detection / indoor` | ODIP: Towards Automatic Adaptation for Object Detection by Interactive Perception |
+| [002](topic-002.md) | 图像分割、语义分割与场景解析 | 33 | 3.24% | 3D/具身/机器人 | `object / scene / detection / indoor` | ODIP: Towards Automatic Adaptation for Object Detection by Interactive Perception |
 | [003](topic-003.md) | 机器人操作与抓取 | 33 | 3.24% | 3D/具身/机器人 | `magnetic / surgery / surgical / manipulation` | Dynamic-based RCM Torque Controller for Robotic-Assisted Minimally Invasive Surgery |
 | [004](topic-004.md) | 时序逻辑约束下的机器人任务规划 | 32 | 3.14% | 3D/具身/机器人 | `planning / logic / execution / temporal` | Interpretable Run-Time Prediction and Planning in Co-Robotic Environments |
 | [005](topic-005.md) | navigation / avoidance / obstacle / deep | 32 | 3.14% | 3D/具身/机器人 | `navigation / avoidance / obstacle / deep` | Safe Navigation in Human Occupied Environments Using Sampling and Control Barrier Functions |
 | [006](topic-006.md) | 规划搜索与决策推理 | 30 | 2.95% | 3D/具身/机器人 | `planning / motion / exploration / trajectory` | Robust and Recursively Feasible Real-Time Trajectory Planning in Unknown Environments |
 | [007](topic-007.md) | 模仿学习与机器人示教 | 26 | 2.55% | 3D/具身/机器人 | `imitation / learning / demonstrations / manipulation` | Imitation Learning with Approximated Behavior Cloning Loss |
 | [008](topic-008.md) | 机器人操作与抓取 | 26 | 2.55% | 3D/具身/机器人 | `grasping / pose / objects / in-hand` | Learning to Detect Multi-Modal Grasps for Dexterous Grasping in Dense Clutter |
-| [009](topic-009.md) | localization / source / sound / aerial vehicles | 25 | 2.46% | 3D/具身/机器人 | `localization / source / sound / aerial vehicles` | Localization with Directional Coordinates |
+| [009](topic-009.md) | 语音、音频与声学建模 | 25 | 2.46% | 3D/具身/机器人 | `localization / source / sound / aerial vehicles` | Localization with Directional Coordinates |
 | [010](topic-010.md) | 机器人操作与抓取 | 25 | 2.46% | 3D/具身/机器人 | `gripper / reconfigurable / hand / manipulation` | A Three-Fingered Adaptive Gripper with Multiple Grasping Modes |
 | [011](topic-011.md) | 对抗攻击、鲁棒性与安全 | 24 | 2.36% | 3D/具身/机器人 | `reinforcement / learning / policy / control` | Model-based Constrained Reinforcement Learning using Generalized Control Barrier Function |
-| [014](topic-014.md) | 目标检测与图像分割 | 23 | 2.26% | 3D/具身/机器人 | `motion / prediction / neural / network` | PlannerFlows: Learning Motion Samplers with Normalising Flows |
+| [014](topic-014.md) | 图像分割、语义分割与场景解析 | 23 | 2.26% | 3D/具身/机器人 | `motion / prediction / neural / network` | PlannerFlows: Learning Motion Samplers with Normalising Flows |
 | [012](topic-012.md) | 自动驾驶感知与世界模型 | 23 | 2.26% | 3D/具身/机器人 | `driving / detection / traffic / segmentation` | Memory-based Semantic Segmentation for Off-road Unstructured Natural Environments |
 | [013](topic-013.md) | 无人机/空中机器人规划与控制 | 23 | 2.26% | 3D/具身/机器人 | `modular / robot / manipulator / aerial` | Finding Structure Configurations for Flying Modular Robots |
 | [017](topic-017.md) | 多机器人路径规划与协同导航 | 22 | 2.16% | 3D/具身/机器人 | `multi-agent / learning / reinforcement / decentralized` | Moving Forward in Formation: A Decentralized Hierarchical Learning Approach to Multi-Agent Moving Together |
@@ -39,8 +39,8 @@
 | [025](topic-025.md) | 足式机器人与运动控制 | 18 | 1.77% | 3D/具身/机器人 | `humanoid / legged / robots / whole-body` | Impact Invariant Control with Applications to Bipedal Locomotion |
 | [026](topic-026.md) | 机器人操作与具身智能 | 17 | 1.67% | 3D/具身/机器人 | `learning / robot / motion / trees` | Learning Navigation Skills for Legged Robots with Learned Robot Embeddings |
 | [028](topic-028.md) | 机器人触觉感知与操作 | 16 | 1.57% | 3D/具身/机器人 | `tactile / sensing / deformation / grasp` | Dynamic Modeling of Hand-Object Interactions via Tactile Sensing |
-| [027](topic-027.md) | pose / estimation / object / reconstruction | 16 | 1.57% | 3D/具身/机器人 | `pose / estimation / object / reconstruction` | Iterative Coarse-to-Fine 6D-Pose Estimation Using Back-propagation |
-| [030](topic-030.md) | LLM Agent 与工具使用 | 16 | 1.57% | 3D/具身/机器人 | `interaction / agents / autonomy / learning` | On Assessing the Usefulness of Proxy Domains for Developing and Evaluating Embodied Agents |
+| [027](topic-027.md) | 人体姿态估计与运动理解 | 16 | 1.57% | 3D/具身/机器人 | `pose / estimation / object / reconstruction` | Iterative Coarse-to-Fine 6D-Pose Estimation Using Back-propagation |
+| [030](topic-030.md) | 智能体决策与多智能体系统 | 16 | 1.57% | 3D/具身/机器人 | `interaction / agents / autonomy / learning` | On Assessing the Usefulness of Proxy Domains for Developing and Evaluating Embodied Agents |
 | [029](topic-029.md) | autonomous / vehicles / cooperative / connected | 16 | 1.57% | 3D/具身/机器人 | `autonomous / vehicles / cooperative / connected` | Agent-Aware State Estimation in Autonomous Vehicles |
 | [031](topic-031.md) | 无人机/四旋翼规划与控制 | 15 | 1.47% | 3D/具身/机器人 | `estimation / payload / multirotor / suspended` | Online Kinematic and Dynamic Parameter Estimation for Autonomous Surface and Underwater Vehicles |
 | [032](topic-032.md) | 规划搜索与决策推理 | 15 | 1.47% | 3D/具身/机器人 | `control / trajectory / predictive / spherical` | Real-Time Motion Planning of a Hydraulic Excavator using Trajectory Optimization and Model Predictive Control |
@@ -50,7 +50,7 @@
 | [036](topic-036.md) | 无人机/四旋翼规划与控制 | 14 | 1.38% | 3D/具身/机器人 | `distributed / collision / multi-agent / avoidance` | A Scalable Distributed Collision Avoidance Scheme for Multi-agent UAV systems |
 | [037](topic-037.md) | 机器人操作与抓取 | 14 | 1.38% | 3D/具身/机器人 | `teleoperation / control / haptic / manipulator` | Learning compliant grasping and manipulation by teleoperation with adaptive force control |
 | [038](topic-038.md) | 深度估计与立体匹配 | 12 | 1.18% | 3D/具身/机器人 | `light / depth / adjustment / structured` | StereoCNC: A Stereovision-guided Robotic Laser System |
-| [039](topic-039.md) | 目标检测与图像分割 | 12 | 1.18% | 3D/具身/机器人 | `segmentation / attention / semantic / network` | Local Memory Attention for Fast Video Semantic Segmentation |
+| [039](topic-039.md) | 语义分割与场景解析 | 12 | 1.18% | 3D/具身/机器人 | `segmentation / attention / semantic / network` | Local Memory Attention for Fast Video Semantic Segmentation |
 | [040](topic-040.md) | trajectory prediction / probabilistic / pedestrian / context | 12 | 1.18% | 3D/具身/机器人 | `trajectory prediction / probabilistic / pedestrian / context` | Probabilistic Trajectory Prediction with Structural Constraints |
 | [041](topic-041.md) | tactile / sensing / sensor / gesture recognition | 11 | 1.08% | 3D/具身/机器人 | `tactile / sensing / sensor / gesture recognition` | A Low-Cost Modular System of Customizable, Versatile, and Flexible Tactile Sensor Arrays |
 | [042](topic-042.md) | prosthesis / soft / algorithms / validation | 11 | 1.08% | 3D/具身/机器人 | `prosthesis / soft / algorithms / validation` | Phase-Variable Control of a Powered Knee-Ankle Prosthesis over Continuously Varying Speeds and Inclines |

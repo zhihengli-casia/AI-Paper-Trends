@@ -1,8 +1,8 @@
-# ECCV 2020: 句法语义解析与结构化表示
+# ECCV 2020: 场景图、关系推理与视觉理解
 
 - Topic ID: `32`
 - Papers: **18** (1.33%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `scene graph / parsing / graphs / grammar`
 - Keyword pool: scene graph; parsing; graphs; grammar; commonsense; tree; hoi; verb; human; generation; messages; reasoning
 

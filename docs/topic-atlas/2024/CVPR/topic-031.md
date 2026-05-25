@@ -1,4 +1,4 @@
-# CVPR 2024: tracking / trackers / association / multi-object
+# CVPR 2024: 事件相机与高动态范围视觉
 
 - Topic ID: `31`
 - Papers: **30** (1.10%)

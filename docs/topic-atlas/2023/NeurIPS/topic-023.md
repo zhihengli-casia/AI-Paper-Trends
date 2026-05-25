@@ -1,8 +1,8 @@
-# NeurIPS 2023: LLM Agent 与工具使用
+# NeurIPS 2023: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `23`
 - Papers: **38** (1.18%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 强化学习/决策
 - English keywords: `welfare / signaling / valuation / agents`
 - Keyword pool: welfare; signaling; valuation; agents; mechanisms; social; voting; market; mechanism design; allocation; pricing; receiver
 

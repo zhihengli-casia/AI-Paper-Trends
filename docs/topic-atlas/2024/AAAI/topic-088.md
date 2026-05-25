@@ -2,7 +2,7 @@
 
 - Topic ID: `88`
 - Papers: **12** (0.51%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `cell / pathology / slide / classification`
 - Keyword pool: cell; pathology; slide; classification; registration; multiple instance; instance learning; diagnosis; multimodal; prompt; test-time adaptation; images
 

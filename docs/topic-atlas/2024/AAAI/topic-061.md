@@ -1,8 +1,8 @@
-# AAAI 2024: 医学影像病灶分析
+# AAAI 2024: 医学影像分割
 
 - Topic ID: `61`
 - Papers: **17** (0.73%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / segmentation / lesion / clinical`
 - Keyword pool: medical; segmentation; lesion; clinical; modalities; token; merging; fusion; multi-modal; modality; disease; images
 

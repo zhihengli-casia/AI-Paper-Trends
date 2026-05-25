@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **45** (1.08%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / clinical / diagnosis / diagnostic`
 - Keyword pool: medical; clinical; diagnosis; diagnostic; surgical; llms; ehr; pathology; treatment; multimodal; patient; radiology
 

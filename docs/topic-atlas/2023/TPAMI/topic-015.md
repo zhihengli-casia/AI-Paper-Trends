@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **17** (2.50%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `pose / flow / bev / matching`
 - Keyword pool: pose; flow; bev; matching; correspondences; camera; scene; motion; stereo; dense; localization; point clouds
 

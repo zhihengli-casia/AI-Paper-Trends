@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **63** (1.56%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `ssl / vision / visual / tokens`
 - Keyword pool: ssl; vision; visual; tokens; neighborhood attention; apm; collapse; self-supervised; codebook; semantic; images; compression
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `63`
 - Papers: **21** (0.63%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `causal / counterfactual / scms / brain`
 - Keyword pool: causal; counterfactual; scms; brain; identifiability; graph; gpt; reasoning; effect; abstraction; variable sets; contrastive learning
 

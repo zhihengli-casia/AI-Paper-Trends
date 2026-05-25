@@ -1,8 +1,8 @@
-# TMM 2020: 多模态学习与跨模态理解
+# TMM 2020: 中文分词、字符与子词建模
 
 - Topic ID: `10`
 - Papers: **17** (4.22%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `multimodal / question / segmentation / language`
 - Keyword pool: multimodal; question; segmentation; language; queries; reviews; social media; reasoning; chinese; interactions; textual; expression
 

@@ -1,8 +1,8 @@
-# ACMMM 2023: 机器翻译与跨语言对齐
+# ACMMM 2023: 图像到图像转换与风格迁移
 
 - Topic ID: `15`
 - Papers: **18** (2.00%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `super-resolution / unpaired / high-resolution / gradient`
 - Keyword pool: super-resolution; unpaired; high-resolution; gradient; low-resolution; reconstruction; image translation; infrared; lr images; sampling; window; imaging
 

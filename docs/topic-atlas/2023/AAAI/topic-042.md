@@ -1,8 +1,8 @@
-# AAAI 2023: pose / assembly / 运动建模 / human
+# AAAI 2023: 人体姿态估计与运动理解
 
 - Topic ID: `42`
 - Papers: **16** (1.02%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `pose / assembly / motion / human`
 - Keyword pool: pose; assembly; motion; human; hand; joints; tracking; body; estimation; object; auxiliary information; cloud
 

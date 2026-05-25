@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **44** (1.09%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / eeg / activity / visual`
 - Keyword pool: brain; eeg; activity; visual; signals; fmri; neurons; stimuli; decoding; neuroscience; neuronal; recordings
 

@@ -1,8 +1,8 @@
-# AAAI 2022: face / deepfake / detection / facial
+# AAAI 2022: 人脸分析、表情与属性建模
 
 - Topic ID: `29`
 - Papers: **18** (1.37%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `face / deepfake / detection / facial`
 - Keyword pool: face; deepfake; detection; facial; recognition; frequency; deformations; images; patch; low-quality; feature; personalized
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `103`
 - Papers: **17** (0.41%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / llms / harmful / attack`
 - Keyword pool: safety; llms; harmful; attack; editing; risks; middle; entities relations; misinformation; malicious; alignment direction; lrms
 

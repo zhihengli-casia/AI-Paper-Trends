@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **11** (6.83%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: AI4Science/医疗
 - English keywords: `retrieval / ranking / query / documents`
 - Keyword pool: retrieval; ranking; query; documents; judgments; metrics; lists; academic; offline; theoretical; preference; brain
 

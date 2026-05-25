@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **23** (2.45%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `long context / long-context / compression / contexts`
 - Keyword pool: long context; long-context; compression; contexts; context window; passage; retrieval; document; position; longer; context understanding; embedding
 

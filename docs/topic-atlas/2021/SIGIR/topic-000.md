@@ -1,8 +1,8 @@
-# SIGIR 2021: 文档摘要与信息压缩
+# SIGIR 2021: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `0`
 - Papers: **20** (13.25%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: NLP任务
 - English keywords: `news / event / relation / judgment`
 - Keyword pool: news; event; relation; judgment; summarization; review; temporal; cross-domain; entity; entities; coherence; generation
 

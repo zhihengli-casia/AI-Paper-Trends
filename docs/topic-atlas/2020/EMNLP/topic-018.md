@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **17** (2.26%)
-- Macro topic: NLP任务
+- Macro topic: 可信/安全/公平
 - English keywords: `answer / reading comprehension / questions / explanation`
 - Keyword pool: answer; reading comprehension; questions; explanation; reasoning; passages; chart; positions; multi-hop; bias; computation; progress
 

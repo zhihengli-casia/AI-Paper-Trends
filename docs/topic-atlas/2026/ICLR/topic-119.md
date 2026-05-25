@@ -1,8 +1,8 @@
-# ICLR 2026: 语音/音频语言模型
+# ICLR 2026: 音乐与音频生成/理解
 
 - Topic ID: `119`
 - Papers: **20** (0.37%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `music / audio / multi-track / rhythmic`
 - Keyword pool: music; audio; multi-track; rhythmic; song; lighting; scattering; bioacoustics; style; waveform; complex-valued; melody
 

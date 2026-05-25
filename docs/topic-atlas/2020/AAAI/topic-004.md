@@ -1,8 +1,8 @@
-# AAAI 2020: entity / entities / relation / ner
+# AAAI 2020: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `4`
 - Papers: **36** (2.25%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `entity / entities / relation / ner`
 - Keyword pool: entity; entities; relation; ner; extraction; linking; sentences; mentions; distantly; nested; noisy; definitions
 

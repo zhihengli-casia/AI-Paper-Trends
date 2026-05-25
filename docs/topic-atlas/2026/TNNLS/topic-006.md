@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **12** (5.41%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / image / diffusion / reconstruction`
 - Keyword pool: medical; image; diffusion; reconstruction; denoising; attribute; switch; diagnosis; masked; fault; semi-supervised; clinical
 

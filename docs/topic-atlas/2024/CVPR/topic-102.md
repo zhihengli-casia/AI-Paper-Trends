@@ -2,7 +2,7 @@
 
 - Topic ID: `102`
 - Papers: **11** (0.41%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `anomaly / video / surveillance / anomalies`
 - Keyword pool: anomaly; video; surveillance; anomalies; abnormal; vad; event; normality; abductive; clap; safe driving; anomalous
 

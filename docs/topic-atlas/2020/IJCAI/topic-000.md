@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **40** (5.14%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `agents / social / allocation / fairness`
 - Keyword pool: agents; social; allocation; fairness; game; opinion; mechanism; diffusion; preferences; setting; epsilon; incentive
 

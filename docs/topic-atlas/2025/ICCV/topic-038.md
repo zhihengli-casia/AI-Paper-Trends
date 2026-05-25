@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **26** (0.96%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `tracking / trackers / trajectory / association`
 - Keyword pool: tracking; trackers; trajectory; association; click-based; point; multi-object; video instance; motion; open-vocabulary; videos; objects
 

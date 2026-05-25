@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **13** (6.07%)
-- Macro topic: 生成模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `generative retrieval / dense / ai-generated / re-ranking`
 - Keyword pool: generative retrieval; dense; ai-generated; re-ranking; candidates; decoding; relevance; document; images; docid; term; summary
 

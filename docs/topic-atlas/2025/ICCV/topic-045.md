@@ -1,8 +1,8 @@
-# ICCV 2025: 目标检测与图像分割
+# ICCV 2025: 实例分割与开放词汇分割
 
 - Topic ID: `45`
 - Papers: **23** (0.85%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `open-vocabulary / segmentation / scene / objects`
 - Keyword pool: open-vocabulary; segmentation; scene; objects; point; ood detection; graph; parts; grounding; instance; sg3d; class-agnostic
 

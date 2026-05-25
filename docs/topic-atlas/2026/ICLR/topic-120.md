@@ -2,7 +2,7 @@
 
 - Topic ID: `120`
 - Papers: **19** (0.36%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `spatial / visual / vlms / geographic`
 - Keyword pool: spatial; visual; vlms; geographic; metric depth; lmms; point cloud; mars; mora; mllms; multimodal; scene
 

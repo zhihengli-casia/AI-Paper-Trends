@@ -1,8 +1,8 @@
-# PR 2020: 文档摘要与信息压缩
+# PR 2020: 数据摘要、聚类与原型选择
 
 - Topic ID: `9`
 - Papers: **18** (3.64%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `clustering / density / nearest / algorithm`
 - Keyword pool: clustering; density; nearest; algorithm; relations; complex; preservation; summarization; locality; reduction; tree; relative
 

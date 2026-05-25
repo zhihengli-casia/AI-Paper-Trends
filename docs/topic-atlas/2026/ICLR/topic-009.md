@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **65** (1.21%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `visual / text-to-image / t2i / multimodal`
 - Keyword pool: visual; text-to-image; t2i; multimodal; editing; images; aesthetic; scene; prompt; image generation; captions; sketches
 

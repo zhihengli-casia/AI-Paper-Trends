@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **16** (1.89%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `pruning / auxiliary / prompt / layer`
 - Keyword pool: pruning; auxiliary; prompt; layer; gpt-3; transfer learning; tuning; multi-task; magnitude; sources; recommendation; loss
 

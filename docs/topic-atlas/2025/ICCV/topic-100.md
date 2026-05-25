@@ -1,8 +1,8 @@
-# ICCV 2025: 语音/音频语言模型
+# ICCV 2025: 说话人视频生成与人脸动画
 
 - Topic ID: `100`
 - Papers: **11** (0.41%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `talking / facial / motion / head`
 - Keyword pool: talking; facial; motion; head; audio; animation; portrait; speech; lip; avatar; speaker; video generation
 

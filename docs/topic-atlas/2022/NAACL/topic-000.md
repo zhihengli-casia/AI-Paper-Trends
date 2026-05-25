@@ -1,8 +1,8 @@
-# NAACL 2022: LLM Agent 与工具使用
+# NAACL 2022: 对话系统与会话智能体
 
 - Topic ID: `0`
 - Papers: **42** (9.50%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `dialogue / responses / stories / conversational`
 - Keyword pool: dialogue; responses; stories; conversational; slot; empathetic; utterances; personas; response generation; task-oriented; history; agents
 

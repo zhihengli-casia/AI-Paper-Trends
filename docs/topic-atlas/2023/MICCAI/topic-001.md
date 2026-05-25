@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **14** (19.18%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / domain / adaptation / adaptive`
 - Keyword pool: segmentation; domain; adaptation; adaptive; wsis; cancer; distillation; classification; medical image; images; scribble-supervised; prototypical
 

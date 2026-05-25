@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **39** (5.01%)
-- Macro topic: NLP任务
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / social / nlp / papers`
 - Keyword pool: bias; social; nlp; papers; gender; legal; citations; toxicity; embeddings; examples; mitigation; language processing
 

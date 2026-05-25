@@ -2,7 +2,7 @@
 
 - Topic ID: `75`
 - Papers: **19** (0.57%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `kernel / regression / ensembles / ridge`
 - Keyword pool: kernel; regression; ensembles; ridge; overparameterized; nonlinear; dimension reduction; nonparametric; intensity; invariances; hilbert; covariance
 

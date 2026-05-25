@@ -1,8 +1,8 @@
-# ICLR 2026: 多智能体协作与规划
+# ICLR 2026: LLM Agent 与工具使用
 
 - Topic ID: `31`
 - Papers: **52** (0.97%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `multi-agent / agents / mas / communication`
 - Keyword pool: multi-agent; agents; mas; communication; llms; social; collaboration; collective; deception; topologies; discussion; cooperation
 

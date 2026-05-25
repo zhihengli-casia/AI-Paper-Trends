@@ -2,7 +2,7 @@
 
 - Topic ID: `65`
 - Papers: **14** (0.77%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `document / retrieval / multimodal / pages`
 - Keyword pool: document; retrieval; multimodal; pages; rag; visual; historical; figures; retrievers; multi-modal; chunking; medical
 

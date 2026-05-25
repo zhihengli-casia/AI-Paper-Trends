@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **11** (2.49%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / gender / fairness / pronouns`
 - Keyword pool: bias; gender; fairness; pronouns; metrics; languages; societal; extrinsic; rewriting; intrinsic; prompts; english
 

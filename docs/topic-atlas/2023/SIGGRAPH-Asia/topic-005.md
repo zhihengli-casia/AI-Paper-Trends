@@ -1,4 +1,4 @@
-# SIGGRAPH-Asia 2023: 运动建模 / human / dynamics / monocular
+# SIGGRAPH-Asia 2023: 人体姿态估计与运动理解
 
 - Topic ID: `5`
 - Papers: **8** (6.90%)

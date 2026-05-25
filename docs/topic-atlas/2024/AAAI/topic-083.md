@@ -2,7 +2,7 @@
 
 - Topic ID: `83`
 - Papers: **13** (0.56%)
-- Macro topic: 可信/安全/公平
+- Macro topic: AI4Science/医疗
 - English keywords: `federated / clients / label noise / non-iid`
 - Keyword pool: federated; clients; label noise; non-iid; noisy; sign-based; privacy-preserving; learning fl; parties; medical; passive; multi-label
 

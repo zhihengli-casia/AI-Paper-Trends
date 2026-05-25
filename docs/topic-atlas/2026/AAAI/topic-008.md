@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **72** (1.74%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / diffusion / motion / flow`
 - Keyword pool: video; diffusion; motion; flow; editing; synthesis; image; high-resolution; acceleration; caching; velocity; reference
 

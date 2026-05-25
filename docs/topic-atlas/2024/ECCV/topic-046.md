@@ -1,8 +1,8 @@
-# ECCV 2024: action / skeleton / gait / recognition
+# ECCV 2024: 视频动作识别与时序定位
 
 - Topic ID: `46`
 - Papers: **20** (0.84%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `action / skeleton / gait / recognition`
 - Keyword pool: action; skeleton; gait; recognition; activity; joints; relation; group; anchors; actors; emotion; temporal
 

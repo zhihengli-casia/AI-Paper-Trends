@@ -1,4 +1,4 @@
-# IJCV 2021: person / re-identification / supervised / setting
+# IJCV 2021: 行人重识别与人群计数
 
 - Topic ID: `4`
 - Papers: **9** (6.77%)

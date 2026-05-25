@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **23** (1.50%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: AI4Science/医疗
 - English keywords: `snns / neuroscience / recurrent / brain`
 - Keyword pool: snns; neuroscience; recurrent; brain; plasticity; hebbian; activity; neurons; latent; synaptic; neuromorphic; memory
 

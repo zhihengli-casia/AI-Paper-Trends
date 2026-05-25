@@ -1,8 +1,8 @@
-# CVPR 2020: face / deepfake / anti-spoofing / domains
+# CVPR 2020: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `28`
 - Papers: **18** (1.23%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `face / deepfake / anti-spoofing / domains`
 - Keyword pool: face; deepfake; anti-spoofing; domains; recognition; manipulated; makeup; forgery; swapping; videos; low-bit; distribution
 

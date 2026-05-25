@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **12** (7.45%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `feedback / bias / recommendation / opinion`
 - Keyword pool: feedback; bias; recommendation; opinion; implicit; price; preferences; session-based; recommender; conversion; click; regularization
 

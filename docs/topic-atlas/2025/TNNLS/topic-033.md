@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **11** (1.38%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `disease / brain / fuzzy / feature selection`
 - Keyword pool: disease; brain; fuzzy; feature selection; diagnosis; evolutionary; risk; biomedical; sgd; generative; rule; stacked
 

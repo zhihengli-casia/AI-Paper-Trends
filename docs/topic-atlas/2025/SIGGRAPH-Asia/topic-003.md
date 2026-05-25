@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **14** (7.29%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `animation / facial / generation / high-fidelity`
 - Keyword pool: animation; facial; generation; high-fidelity; avatars; driven; real-time; portrait; expressive; motion; single-shot; mobile
 

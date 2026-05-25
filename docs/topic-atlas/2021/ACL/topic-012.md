@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **21** (2.96%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `cross-lingual / languages / pos / transfer`
 - Keyword pool: cross-lingual; languages; pos; transfer; low-resource; heads; amr; multilingual; morphological; encoder; parallel; universal
 

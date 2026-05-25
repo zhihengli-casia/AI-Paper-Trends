@@ -1,8 +1,8 @@
-# AAAI 2026: 语音/音频语言模型
+# AAAI 2026: 语音合成与音频生成
 
 - Topic ID: `84`
 - Papers: **22** (0.53%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `speech / speaker / asr / acoustic`
 - Keyword pool: speech; speaker; asr; acoustic; audio; spoken; recognition; toxic; lalms; tts; understanding generation; linguistic
 

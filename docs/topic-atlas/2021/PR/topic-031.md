@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **10** (1.70%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `retrieval / cross-modal / entropy / gap`
 - Keyword pool: retrieval; cross-modal; entropy; gap; information; document; global local; recognition; output; shared; characterized; modalities
 

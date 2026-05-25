@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **13** (8.44%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 理论/优化
 - English keywords: `graph / nodes / similarity / distributed`
 - Keyword pool: graph; nodes; similarity; distributed; edge; group; matrix; combinatorial; cache; memory; measures; communication
 

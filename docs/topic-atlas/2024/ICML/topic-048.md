@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **23** (0.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `llms / language / humans / people`
 - Keyword pool: llms; language; humans; people; agents; debate; reasoning; persona; cognitive; prompting; answer; abilities
 

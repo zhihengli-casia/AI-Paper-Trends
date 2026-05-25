@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **20** (1.91%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `reasoning / logical / llm / cot`
 - Keyword pool: reasoning; logical; llm; cot; commonsense; planning; lms; thinking; options; multi-step; beliefs; assistant
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **46** (1.14%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / diffusion / motion / t2v`
 - Keyword pool: video; diffusion; motion; t2v; frames; multi-view; consistency; temporal; content; editing; camera; panoramic
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **9** (5.59%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / exposure / news / recommendation`
 - Keyword pool: fairness; exposure; news; recommendation; rankings; provider; biased; recommender; policies; individual; explanations; groups
 

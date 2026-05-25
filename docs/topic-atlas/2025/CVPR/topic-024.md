@@ -1,8 +1,8 @@
-# CVPR 2025: 视频动作生成与运动控制
+# CVPR 2025: 视频动作识别与时序定位
 
 - Topic ID: `24`
 - Papers: **30** (1.04%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `action / video / temporal / skeleton`
 - Keyword pool: action; video; temporal; skeleton; recognition; grounding; smile; team; motion; localization; representation learning; multi-task
 

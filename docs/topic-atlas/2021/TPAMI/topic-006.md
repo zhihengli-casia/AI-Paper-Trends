@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **23** (4.17%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `restoration / deblurring / spatially / smoothing`
 - Keyword pool: restoration; deblurring; spatially; smoothing; motion; degradation; super-resolution; blurry; deconvolution; downsampling; prior; adversarial
 

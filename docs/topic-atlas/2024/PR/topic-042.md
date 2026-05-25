@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **11** (1.14%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `zero-shot learning / compositional / action / generative`
 - Keyword pool: zero-shot learning; compositional; action; generative; alignment; structure; center; vaes; sites; rectification; learning adversarial; learning optimizing
 

@@ -1,8 +1,8 @@
-# ICLR 2024: 视频扩散生成与运动控制
+# ICLR 2024: 扩散生成模型
 
 - Topic ID: `20`
 - Papers: **32** (1.42%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / motion / diffusion / animation`
 - Keyword pool: video; motion; diffusion; animation; editing; temporal; human; avatar; denoising; frames; appearance; optical
 

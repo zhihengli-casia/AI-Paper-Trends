@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **6** (4.51%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `special issue / computer / vision / editorial`
 - Keyword pool: special issue; computer; vision; editorial; guest; recognition; interpretability; adverse; including; medical; range; machine
 

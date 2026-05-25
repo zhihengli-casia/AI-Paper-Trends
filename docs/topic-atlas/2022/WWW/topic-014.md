@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **11** (3.02%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / ranking / character / recommender`
 - Keyword pool: fairness; ranking; character; recommender; feedback; recommendations; worst-case; learning rank; mirror; preferences; players; objectives
 

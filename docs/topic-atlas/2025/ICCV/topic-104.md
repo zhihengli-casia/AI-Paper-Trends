@@ -2,7 +2,7 @@
 
 - Topic ID: `104`
 - Papers: **10** (0.37%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `hand / mesh / articulated / rigging`
 - Keyword pool: hand; mesh; articulated; rigging; skinning; motion; reconstruction; contact; pose; dynamic temporal; skeleton; objects
 

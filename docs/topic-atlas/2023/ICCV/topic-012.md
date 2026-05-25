@@ -1,8 +1,8 @@
-# ICCV 2023: 视频扩散生成与运动控制
+# ICCV 2023: 人体姿态估计与运动理解
 
 - Topic ID: `12`
 - Papers: **39** (1.81%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `motion / human / music / diffusion`
 - Keyword pool: motion; human; music; diffusion; body; chaotic; interactions; video; text-driven; multi-person; pose; movements
 

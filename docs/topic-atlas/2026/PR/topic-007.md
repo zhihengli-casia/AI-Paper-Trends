@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **25** (2.70%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `object detection / scene / semantic / matching`
 - Keyword pool: object detection; scene; semantic; matching; visual; rgb-d; grounding; world; depth; dense; monocular; open
 

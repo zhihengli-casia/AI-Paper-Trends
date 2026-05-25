@@ -1,8 +1,8 @@
-# MICCAI 2020: 目标检测与图像分割
+# MICCAI 2020: 图像分割、语义分割与场景解析
 
 - Topic ID: `5`
 - Papers: **8** (10.00%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `knowledge distillation / cell / consistency / annotations`
 - Keyword pool: knowledge distillation; cell; consistency; annotations; overlapping; multi-modal mono-modal segmentation; networks knowledge-guided; noisy-labeled; pixelwise; prediction epithelial; pretext learning; label errors
 

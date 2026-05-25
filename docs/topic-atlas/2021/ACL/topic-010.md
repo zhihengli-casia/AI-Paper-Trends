@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **22** (3.10%)
-- Macro topic: NLP任务
+- Macro topic: 可信/安全/公平
 - English keywords: `coreference / amr / dialogue / programs`
 - Keyword pool: coreference; amr; dialogue; programs; reasoning; paraphrase; resolution; machine reading comprehension; adversarial; meaning; overlap; surface form
 

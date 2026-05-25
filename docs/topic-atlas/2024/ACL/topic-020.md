@@ -1,8 +1,8 @@
-# ACL 2024: entity / entities / relation extraction / ner
+# ACL 2024: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `20`
 - Papers: **17** (1.81%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `entity / entities / relation extraction / ner`
 - Keyword pool: entity; entities; relation extraction; ner; recognition; metaphor detection; document-level relation; semantic; token-level; logical rules; clustering; relations
 

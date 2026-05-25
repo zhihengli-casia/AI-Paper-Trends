@@ -1,8 +1,8 @@
-# NeurIPS 2023: concept / disentangled / opinion / factors
+# NeurIPS 2023: 说话人建模与语音表征
 
 - Topic ID: `51`
 - Papers: **26** (0.81%)
-- Macro topic: 生成模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `concept / disentangled / opinion / factors`
 - Keyword pool: concept; disentangled; opinion; factors; disentanglement; compositional generalization; representation learning; latent; xai; erasure; variables; speaker
 

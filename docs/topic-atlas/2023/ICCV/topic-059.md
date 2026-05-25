@@ -2,7 +2,7 @@
 
 - Topic ID: `59`
 - Papers: **16** (0.74%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `text-to-3d / diffusion / textures / textured`
 - Keyword pool: text-to-3d; diffusion; textures; textured; text-guided; geometry; mesh; assets; text-to-image; face generation; shape; text-driven
 

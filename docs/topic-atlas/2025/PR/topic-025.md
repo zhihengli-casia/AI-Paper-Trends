@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **20** (1.32%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / mri / functional / disease`
 - Keyword pool: brain; mri; functional; disease; diagnosis; graph; attention; decoding; cognitive; topological; foundation; multi-task
 

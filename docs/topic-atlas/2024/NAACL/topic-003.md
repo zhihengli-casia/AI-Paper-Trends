@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **28** (4.98%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / queries / relevance / query`
 - Keyword pool: retrieval; queries; relevance; query; documents; search; retrieved; rest; decision; dense; rankers; zero-shot
 

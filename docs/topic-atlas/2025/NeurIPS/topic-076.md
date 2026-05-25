@@ -2,7 +2,7 @@
 
 - Topic ID: `76`
 - Papers: **34** (0.64%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `editing / diffusion / inversion / color`
 - Keyword pool: editing; diffusion; inversion; color; image generation; images; style; texture; edits; restoration; controlnet; creative
 

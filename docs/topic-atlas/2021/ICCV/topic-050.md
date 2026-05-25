@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **14** (0.87%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `video / compression / codecs / coding`
 - Keyword pool: video; compression; codecs; coding; quality; super-resolution; frames; snns; dct; periodic; psnr; chunks
 

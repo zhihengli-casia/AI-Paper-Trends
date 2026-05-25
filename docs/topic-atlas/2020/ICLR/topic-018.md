@@ -1,8 +1,8 @@
-# ICLR 2020: 目标检测与图像分割
+# ICLR 2020: 神经架构搜索与模型设计
 
 - Topic ID: `18`
 - Papers: **16** (2.33%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `search / neural architecture / architectures / detection`
 - Keyword pool: search; neural architecture; architectures; detection; segmentation; compression; one-shot; blocks; imagenet; fast; manually; latency
 

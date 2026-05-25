@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **12** (4.01%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `cultural / stability / biases / debiasing`
 - Keyword pool: cultural; stability; biases; debiasing; responses; features; fairness; opinions; languages; templates; generative language; global
 

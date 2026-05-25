@@ -1,4 +1,4 @@
-# ACMMM 2023: facial / expression / face / neutral
+# ACMMM 2023: 人脸分析、表情与属性建模
 
 - Topic ID: `32`
 - Papers: **14** (1.55%)

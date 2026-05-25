@@ -11,7 +11,7 @@
 
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
-| [000](topic-000.md) | 社交媒体与社会计算 | 53 | 7.16% | 理论/优化 | `virtual / reality / games / experience` | Race Yourselves: A Longitudinal Exploration of Self-Competition Between Past, Present, and Future Performances in a VR Exergame |
+| [000](topic-000.md) | 社交媒体与社会计算 | 53 | 7.16% | 强化学习/决策 | `virtual / reality / games / experience` | Race Yourselves: A Longitudinal Exploration of Self-Competition Between Past, Present, and Future Performances in a VR Exergame |
 | [001](topic-001.md) | 隐私保护与安全学习 | 41 | 5.54% | 可信/安全/公平 | `privacy / users / information / online` | Amazon vs. My Brother: How Users of Shared Smart Speakers Perceive and Cope with Privacy Risks |
 | [002](topic-002.md) | design / making / public / reflection | 39 | 5.27% | 理论/优化 | `design / making / public / reflection` | On Being Iterated: The Affective Demands of Design Participation |
 | [003](topic-003.md) | 社交媒体与社会计算 | 36 | 4.86% | HCI/社会计算 | `social / participatory / communities / health` | Crafting, Communality, and Computing: Building on Existing Strengths To Support a Vulnerable Population |
@@ -21,13 +21,13 @@
 | [007](topic-007.md) | 具身智能与物理交互 | 26 | 3.51% | 3D/具身/机器人 | `reality / augmented / mixed / virtual` | Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities |
 | [008](topic-008.md) | 机器人操作与具身智能 | 26 | 3.51% | 3D/具身/机器人 | `virtual / reality / walking / haptics` | Haptic-go-round: A Surrounding Platform for Encounter-type Haptics in Virtual Reality Experiences |
 | [009](topic-009.md) | design / technologies / technology / children | 25 | 3.38% | AI4Science/医疗 | `design / technologies / technology / children` | "You Cannot Offer Such a Suggestion": Designing for Family Caregiver Input in Home Care Systems |
-| [010](topic-010.md) | LLM Agent 与工具使用 | 23 | 3.11% | 系统/效率/压缩 | `conversational / agents / strategies / gender` | A Literature Review of Quantitative Persona Creation |
-| [011](topic-011.md) | attention / reading / feature / low | 23 | 3.11% | HCI/社会计算 | `attention / reading / feature / low` | Bug or Feature? Covert Impairments to Human Computer Interaction |
+| [010](topic-010.md) | 对话系统与会话智能体 | 23 | 3.11% | 强化学习/决策 | `conversational / agents / strategies / gender` | A Literature Review of Quantitative Persona Creation |
+| [011](topic-011.md) | attention / reading / feature / low | 23 | 3.11% | 计算机视觉 | `attention / reading / feature / low` | Bug or Feature? Covert Impairments to Human Computer Interaction |
 | [012](topic-012.md) | 视觉导航与语义地图 | 22 | 2.97% | 计算机视觉 | `people / visual / impairments / remote` | Review of Quantitative Empirical Evaluations of Technology for People with Visual Impairments |
-| [013](topic-013.md) | 语音/音频语言模型 | 20 | 2.70% | 语音/音频/音乐 | `voice / crowdsourcing / speech / public` | "Hi! I am the Crowd Tasker" Crowdsourcing through Digital Voice Assistants |
+| [013](topic-013.md) | 语音识别与语音理解 | 20 | 2.70% | 语音/音频/音乐 | `voice / crowdsourcing / speech / public` | "Hi! I am the Crowd Tasker" Crowdsourcing through Digital Voice Assistants |
 | [014](topic-014.md) | practices / ethics / science / research | 18 | 2.43% | AI4Science/医疗 | `practices / ethics / science / research` | Ecology Meets Computer Science: Designing Tools to Reconcile People, Data, and Practices |
-| [015](topic-015.md) | 语音/音频语言模型 | 18 | 2.43% | 语音/音频/音乐 | `entry / mobile / keyboard / speech` | PalmBoard: Leveraging Implicit Touch Pressure in Statistical Decoding for Indirect Text Entry |
-| [016](topic-016.md) | 语音/音频语言模型 | 18 | 2.43% | 语音/音频/音乐 | `auditory / storytelling / interaction / deaf` | Storytelling to Sensemaking: A Systematic Framework for Designing Auditory Description Display for Interactives |
+| [015](topic-015.md) | 文本输入与移动交互 | 18 | 2.43% | 语音/音频/音乐 | `entry / mobile / keyboard / speech` | PalmBoard: Leveraging Implicit Touch Pressure in Statistical Decoding for Indirect Text Entry |
+| [016](topic-016.md) | 语音交互与语音表征 | 18 | 2.43% | 语音/音频/音乐 | `auditory / storytelling / interaction / deaf` | Storytelling to Sensemaking: A Systematic Framework for Designing Auditory Description Display for Interactives |
 | [018](topic-018.md) | learning / skills / online / engaging | 17 | 2.30% | 强化学习/决策 | `learning / skills / online / engaging` | Sara, the Lecturer: Improving Learning in Online Education with a Scaffolding-Based Conversational Agent |
 | [017](topic-017.md) | 可解释机器学习与数据科学工具 | 17 | 2.30% | AI4Science/医疗 | `machine learning / medical / explanations / prior` | Interpreting Interpretability: Understanding Data Scientists' Use of Interpretability Tools for Machine Learning |
 | [020](topic-020.md) | 机器人遥操作与触觉交互 | 17 | 2.30% | 3D/具身/机器人 | `virtual / reality / haptic / feedback` | Too Hot to Handle: An Evaluation of the Effect of Thermal Visual Representation on User Grasping Interaction in Virtual Reality |

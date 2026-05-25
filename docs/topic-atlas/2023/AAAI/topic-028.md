@@ -1,8 +1,8 @@
-# AAAI 2023: 语音/音频语言模型
+# AAAI 2023: 语音合成与音频生成
 
 - Topic ID: `28`
 - Papers: **20** (1.27%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `speech / music / audio / speaking`
 - Keyword pool: speech; music; audio; speaking; forced; talking; face; synthesis; style; alignment; video; imagined
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **47** (3.07%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `language / prompt / llms / zero-shot`
 - Keyword pool: language; prompt; llms; zero-shot; few-shot; nlp; compositional; natural; in-context; pre-trained; question answering; retrieval
 

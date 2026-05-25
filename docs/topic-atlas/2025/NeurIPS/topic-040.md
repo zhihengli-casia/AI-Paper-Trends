@@ -1,8 +1,8 @@
-# NeurIPS 2025: 语音/音频语言模型
+# NeurIPS 2025: 语音合成与音频生成
 
 - Topic ID: `40`
 - Papers: **46** (0.87%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `speech / audio / acoustic / music`
 - Keyword pool: speech; audio; acoustic; music; speaker; sound; auditory; lip; tts; reasoning; emotional; video
 

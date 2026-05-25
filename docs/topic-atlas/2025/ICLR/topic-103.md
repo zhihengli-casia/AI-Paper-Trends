@@ -1,4 +1,4 @@
-# ICLR 2025: tta / test-time adaptation / shift / entropy
+# ICLR 2025: 领域自适应与迁移学习
 
 - Topic ID: `103`
 - Papers: **17** (0.46%)

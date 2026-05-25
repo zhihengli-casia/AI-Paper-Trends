@@ -2,7 +2,7 @@
 
 - Topic ID: `55`
 - Papers: **15** (0.82%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 理论/优化
 - English keywords: `bandits / contextual / regret / thompson sampling`
 - Keyword pool: bandits; contextual; regret; thompson sampling; round; bound; user-level; arms; pricing; combinatorial; actions; misspecification
 

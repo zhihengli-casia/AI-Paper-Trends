@@ -2,7 +2,7 @@
 
 - Topic ID: `100`
 - Papers: **12** (0.44%)
-- Macro topic: NLP任务
+- Macro topic: 多模态/VLM
 - English keywords: `video / answer / question / reasoning`
 - Keyword pool: video; answer; question; reasoning; situated; vlms; instructional; open-ended; language; next-qa; first-person perspective; compositional
 

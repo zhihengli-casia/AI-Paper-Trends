@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **16** (1.99%)
-- Macro topic: 理论/优化
+- Macro topic: 推荐/检索/排序
 - English keywords: `label / ranking / distillation / partial`
 - Keyword pool: label; ranking; distillation; partial; class; data-free; noise; contrast; diagnosis; knowledge; interpretable; multi-granularity
 

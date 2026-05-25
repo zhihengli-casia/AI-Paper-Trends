@@ -1,8 +1,8 @@
-# EMNLP 2022: 文档摘要与信息压缩
+# EMNLP 2022: 摘要生成与信息压缩
 
 - Topic ID: `45`
 - Papers: **9** (1.09%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: NLP任务
 - English keywords: `summarization / summary / headline / summaries`
 - Keyword pool: summarization; summary; headline; summaries; opinion; control; reviews; summarisation; author; distillation; historical; style
 

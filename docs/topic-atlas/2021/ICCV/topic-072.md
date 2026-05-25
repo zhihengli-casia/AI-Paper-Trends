@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **11** (0.68%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `metric learning / deep metric / similarity / manifold`
 - Keyword pool: metric learning; deep metric; similarity; manifold; losses; classes; embedding; retrieval; distance; matching; margin-based; similarities
 

@@ -1,8 +1,8 @@
-# ACMMM 2021: 目标检测与图像分割
+# ACMMM 2021: 医学影像分割
 
 - Topic ID: `17`
 - Papers: **14** (2.58%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `food / logo / detection / segmentation`
 - Keyword pool: food; logo; detection; segmentation; denoising; database; classification; medical; pruning; cross-view; multi-modal; color
 

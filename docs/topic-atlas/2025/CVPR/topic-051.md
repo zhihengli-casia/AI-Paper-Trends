@@ -1,4 +1,4 @@
-# CVPR 2025: hoi / human-object / contact / interaction
+# CVPR 2025: 手部姿态与人-物交互
 
 - Topic ID: `51`
 - Papers: **24** (0.84%)

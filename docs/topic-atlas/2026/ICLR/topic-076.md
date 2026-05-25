@@ -2,7 +2,7 @@
 
 - Topic ID: `76`
 - Papers: **33** (0.62%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `preference / diffusion / reward / text-to-image`
 - Keyword pool: preference; diffusion; reward; text-to-image; dpo; flow; denoising; credit; grpo; scoped; visual; video generation
 

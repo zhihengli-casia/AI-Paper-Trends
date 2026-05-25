@@ -1,8 +1,8 @@
-# ICLR 2025: 语音/音频语言模型
+# ICLR 2025: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `43`
 - Papers: **29** (0.78%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 可信/安全/公平
 - English keywords: `audio / speech / music / sound`
 - Keyword pool: audio; speech; music; sound; spoken; acoustic; dialogue; separation; deepfake; adversarial; asr; non-target
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **44** (0.83%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / scenes / panoramic / depth`
 - Keyword pool: video; scenes; panoramic; depth; monocular; view synthesis; images; camera; motion; stereo; views; reconstruction
 

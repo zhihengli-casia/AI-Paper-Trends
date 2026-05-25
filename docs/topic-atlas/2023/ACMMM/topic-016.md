@@ -1,8 +1,8 @@
-# ACMMM 2023: LiDAR 点云与 3D 感知
+# ACMMM 2023: 领域自适应与迁移学习
 
 - Topic ID: `16`
 - Papers: **18** (2.00%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `domain / adaptation / segmentation / uda`
 - Keyword pool: domain; adaptation; segmentation; uda; nighttime; unsupervised; lidar; source target; patch-wise; multi-source; swapping; object
 

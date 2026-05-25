@@ -1,8 +1,8 @@
-# MICCAI 2024: 目标检测与图像分割
+# MICCAI 2024: 图像分割、语义分割与场景解析
 
 - Topic ID: `1`
 - Papers: **16** (22.54%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `retinal / artery / network / attention`
 - Keyword pool: retinal; artery; network; attention; segmentation; fundus; multi-modal; fusion; angiography; vision; enhancing; disease
 

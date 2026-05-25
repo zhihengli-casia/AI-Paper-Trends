@@ -1,8 +1,8 @@
-# PR 2022: 对抗攻击、鲁棒性与安全
+# PR 2022: 卷积网络结构与训练
 
 - Topic ID: `29`
 - Papers: **11** (1.67%)
-- Macro topic: 可信/安全/公平
+- Macro topic: AI4Science/医疗
 - English keywords: `adversarial / overfitting / medical / cnns`
 - Keyword pool: adversarial; overfitting; medical; cnns; robustness; loss; attacks; images; cause; regularization; convolutional neural networks; specifically
 

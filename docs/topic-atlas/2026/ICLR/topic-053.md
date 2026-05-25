@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **43** (0.80%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `steering / activation / llms / emergent misalignment`
 - Keyword pool: steering; activation; llms; emergent misalignment; reversal; finetuning; truthfulness; curse; prompt; safety; finetuned; weight
 

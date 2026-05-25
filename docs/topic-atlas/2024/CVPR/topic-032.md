@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **30** (1.10%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `restoration / super-resolution / diffusion / denoising`
 - Keyword pool: restoration; super-resolution; diffusion; denoising; image fusion; kernel; degraded; blind; texture; degradations; dkp; unmasked
 

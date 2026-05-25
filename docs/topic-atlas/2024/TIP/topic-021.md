@@ -1,8 +1,8 @@
-# TIP 2024: anomaly / anomalous / 视频理解/生成 / normal
+# TIP 2024: 视频检索、时刻定位与事件理解
 
 - Topic ID: `21`
 - Papers: **11** (2.30%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `anomaly / anomalous / video / normal`
 - Keyword pool: anomaly; anomalous; video; normal; retrieval; temporal; events; patch; regions; source target; anomalies; frames
 

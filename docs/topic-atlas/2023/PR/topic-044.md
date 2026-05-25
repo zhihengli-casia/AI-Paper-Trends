@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **9** (1.12%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / image / underwater / denoising`
 - Keyword pool: adversarial; image; underwater; denoising; attacks; classification; detection; generative; object; bootstrap; augmentation strategy; deep-learning-based
 

@@ -1,8 +1,8 @@
-# CHI 2024: 语音/音频语言模型
+# CHI 2024: 音乐与音频生成/理解
 
 - Topic ID: `22`
 - Papers: **19** (1.81%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `deaf / hearing / audio / hard`
 - Keyword pool: deaf; hearing; audio; hard; sound; practices; access; way; music; video; blind; people
 

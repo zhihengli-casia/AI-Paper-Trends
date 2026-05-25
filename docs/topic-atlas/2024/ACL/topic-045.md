@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **8** (0.85%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `detection / attack / entropy / machine-generated`
 - Keyword pool: detection; attack; entropy; machine-generated; translated; eaas; misuse; backdoor; cross-lingual; tokens; algorithms; lexical
 

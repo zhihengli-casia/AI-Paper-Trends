@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **14** (2.54%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / adversarial / llms / watermarking`
 - Keyword pool: attacks; adversarial; llms; watermarking; sketch; hash; heavy; user; identifiers; sequential; editing; privacy
 

@@ -1,8 +1,8 @@
-# CHI 2020: LLM Agent 与工具使用
+# CHI 2020: 对话系统与会话智能体
 
 - Topic ID: `10`
 - Papers: **23** (3.11%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `conversational / agents / strategies / gender`
 - Keyword pool: conversational; agents; strategies; gender; language; bot; perceptions; efficiency; detection; user; effects; social
 

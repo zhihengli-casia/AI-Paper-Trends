@@ -1,8 +1,8 @@
-# PR 2023: 目标检测与图像分割
+# PR 2023: 医学影像分割
 
 - Topic ID: `21`
 - Papers: **16** (1.99%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / geometric structure / medical / boundary`
 - Keyword pool: segmentation; geometric structure; medical; boundary; image; multiple; semantic; features; reinforcement learning; contextual; module; external
 

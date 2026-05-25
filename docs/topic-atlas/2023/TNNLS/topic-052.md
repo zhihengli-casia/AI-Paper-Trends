@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **10** (0.98%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 多模态/VLM
 - English keywords: `hashing / retrieval / similarity / cross-modal`
 - Keyword pool: hashing; retrieval; similarity; cross-modal; fuzzy; modalities; centers; relation; gesture; prototype; hierarchical; codes
 

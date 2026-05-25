@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **17** (1.12%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical image segmentation / semi-supervised medical image / teacher / mean`
 - Keyword pool: medical image segmentation; semi-supervised medical image; teacher; mean; latent; diffusion; gaze; segmentation rethinking; segmentation medical images; learning contrastive; images enhancing; multi-model
 

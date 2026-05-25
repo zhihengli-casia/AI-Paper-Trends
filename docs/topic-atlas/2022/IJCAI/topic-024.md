@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **16** (1.86%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / clients / privacy / personalized`
 - Keyword pool: federated; clients; privacy; personalized; global; verifiable; attacks; private; multi-task; local; shared; recommender
 

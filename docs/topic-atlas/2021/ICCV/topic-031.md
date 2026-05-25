@@ -1,4 +1,4 @@
-# ICCV 2021: shape / surface / mesh / reconstruction
+# ICCV 2021: 3D 形状重建与隐式表示
 
 - Topic ID: `31`
 - Papers: **20** (1.24%)

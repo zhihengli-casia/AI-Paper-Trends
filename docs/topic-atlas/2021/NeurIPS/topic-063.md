@@ -2,7 +2,7 @@
 
 - Topic ID: `63`
 - Papers: **16** (0.69%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / rankings / semi-random / peer`
 - Keyword pool: fairness; rankings; semi-random; peer; utility; welfare; satisfaction; assemblies; selection; voting; social; platform
 

@@ -1,8 +1,8 @@
-# AAAI 2024: 目标检测与图像分割
+# AAAI 2024: 语义分割与场景解析
 
 - Topic ID: `0`
 - Papers: **65** (2.79%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `segmentation / semantic / mask / object`
 - Keyword pool: segmentation; semantic; mask; object; sam; detection; pseudo; labels; weakly supervised; images; background; annotations
 

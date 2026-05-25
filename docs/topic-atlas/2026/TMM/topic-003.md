@@ -1,8 +1,8 @@
-# TMM 2026: 语音/音频语言模型
+# TMM 2026: 语音、音频与声学建模
 
 - Topic ID: `3`
 - Papers: **26** (4.38%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `audio / facial / speech / expression`
 - Keyword pool: audio; facial; speech; expression; editing; avatar; tex-math; inline-formula; acoustic; emotional; temporal; saliency
 

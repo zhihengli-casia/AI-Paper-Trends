@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **14** (9.52%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / recommendation / ranking / explanation`
 - Keyword pool: bias; recommendation; ranking; explanation; uniform; metrics; items; top-k; personalized; explainable; risk; recommender
 

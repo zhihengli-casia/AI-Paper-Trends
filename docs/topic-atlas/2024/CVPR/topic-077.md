@@ -2,7 +2,7 @@
 
 - Topic ID: `77`
 - Papers: **16** (0.59%)
-- Macro topic: 多模态/VLM
+- Macro topic: 系统/效率/压缩
 - English keywords: `document / layout / scene / spotting`
 - Keyword pool: document; layout; scene; spotting; recognizer; recognition; tokens; adaptive convolution; decoding; pre-training; kernel; llms
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `66`
 - Papers: **21** (0.69%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `grounding / referring / expression / rec`
 - Keyword pool: grounding; referring; expression; rec; lmms; segmentation; visual; scenes; point cloud; object; urban; localization
 

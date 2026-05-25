@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **13** (1.05%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `games / zero-sum / team / player`
 - Keyword pool: games; zero-sum; team; player; nash; equilibrium; policy; shapley; convergence; policies; opponents; markov
 

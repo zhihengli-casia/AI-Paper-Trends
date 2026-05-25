@@ -1,8 +1,8 @@
-# PR 2025: 病理图像与临床 AI
+# PR 2025: 医学影像分割
 
 - Topic ID: `30`
 - Papers: **19** (1.26%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `tumor / segmentation / brain / pathology`
 - Keyword pool: tumor; segmentation; brain; pathology; image recognition; attention; fusion; prompt; classification; cross-modal; spatial; medicinal
 

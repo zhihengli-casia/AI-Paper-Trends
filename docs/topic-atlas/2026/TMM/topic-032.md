@@ -1,4 +1,4 @@
-# TMM 2026: pose estimation / human pose / gaussians / clip
+# TMM 2026: 人体姿态估计与运动理解
 
 - Topic ID: `32`
 - Papers: **9** (1.52%)

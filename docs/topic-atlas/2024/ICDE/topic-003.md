@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **26** (5.38%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `search / approximate / maximum / similarity`
 - Keyword pool: search; approximate; maximum; similarity; clustering; learning; ranking; neighbor; embeddings; nearest; structure; video
 

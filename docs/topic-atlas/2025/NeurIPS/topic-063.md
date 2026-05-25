@@ -1,8 +1,8 @@
-# NeurIPS 2025: 推理 / test-time scaling / 大语言模型 / compute
+# NeurIPS 2025: 语音合成与音频生成
 
 - Topic ID: `63`
 - Papers: **36** (0.68%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `reasoning / test-time scaling / llms / compute`
 - Keyword pool: reasoning; test-time scaling; llms; compute; thinking; inference-time; tts; answer; parallel; self-consistency; mpe; rpc
 

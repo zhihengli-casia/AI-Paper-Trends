@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **13** (1.53%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `grounding / video / proposals / images`
 - Keyword pool: grounding; video; proposals; images; moment; vqa; temporal; visual; segment; objects; phrase; learnable
 

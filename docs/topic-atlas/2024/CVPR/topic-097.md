@@ -1,8 +1,8 @@
-# CVPR 2024: 目标检测与图像分割
+# CVPR 2024: 图像分割、语义分割与场景解析
 
 - Topic ID: `97`
 - Papers: **13** (0.48%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `referring / ris / segmentation / expression`
 - Keyword pool: referring; ris; segmentation; expression; refcoco; grounding; language; counterfactual; remote sensing; lisa; counting; objects
 

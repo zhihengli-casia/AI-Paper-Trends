@@ -1,8 +1,8 @@
-# CHI 2024: 语音/音频语言模型
+# CHI 2024: 语音识别与语音理解
 
 - Topic ID: `9`
 - Papers: **27** (2.57%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 语音/音频/音乐
 - English keywords: `voice / communication / speech / gesture`
 - Keyword pool: voice; communication; speech; gesture; context-aware; recognition; telehealth; silent; assistive technology; wearable; self; language
 

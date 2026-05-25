@@ -1,8 +1,8 @@
-# NAACL 2024: 文档摘要与信息压缩
+# NAACL 2024: 摘要生成与信息压缩
 
 - Topic ID: `30`
 - Papers: **9** (1.60%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `factual / coherence / summaries / summarization`
 - Keyword pool: factual; coherence; summaries; summarization; dialogue; discourse; narrative; skill; comprehension; consistency; perturbed; drift
 

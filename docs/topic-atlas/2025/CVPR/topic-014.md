@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **36** (1.25%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `anomaly / anomalies / detection / normal`
 - Keyword pool: anomaly; anomalies; detection; normal; industrial; anomalous; multi-class; unsupervised; video; samples; inspection; mvtec
 

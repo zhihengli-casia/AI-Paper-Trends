@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **30** (1.66%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `emotional / mental / empathy / health`
 - Keyword pool: emotional; mental; empathy; health; psychological; affective; emotions; professional; social media; crisis; support; dialogue
 

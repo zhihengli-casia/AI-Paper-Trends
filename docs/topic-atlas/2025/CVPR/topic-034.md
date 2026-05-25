@@ -1,4 +1,4 @@
-# CVPR 2025: pose / body / human mesh / reconstruction
+# CVPR 2025: 人体姿态估计与运动理解
 
 - Topic ID: `34`
 - Papers: **28** (0.98%)

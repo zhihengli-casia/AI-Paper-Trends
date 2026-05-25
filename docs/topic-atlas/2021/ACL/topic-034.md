@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **9** (1.27%)
-- Macro topic: HCI/社会计算
+- Macro topic: NLP任务
 - English keywords: `translation / word-level / abbreviated / machine`
 - Keyword pool: translation; word-level; abbreviated; machine; translators; quality estimation; hand; editing; users; automatic; metrics; language-specific
 

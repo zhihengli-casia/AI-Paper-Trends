@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **27** (4.80%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `temporal / facts / graph / relations`
 - Keyword pool: temporal; facts; graph; relations; grounding; triplets; reasoning; event; links; contextual; missing; entities
 

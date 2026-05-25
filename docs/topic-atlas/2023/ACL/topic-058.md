@@ -1,8 +1,8 @@
-# ACL 2023: 句法语义解析与结构化表示
+# ACL 2023: 句法解析与语言结构建模
 
 - Topic ID: `58`
 - Papers: **9** (0.84%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: NLP任务
 - English keywords: `parsing / discontinuous / grammar / parse`
 - Keyword pool: parsing; discontinuous; grammar; parse; constituency; controlling; runtime; trees; scoring; context-free; dependency; spans
 

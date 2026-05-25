@@ -1,8 +1,8 @@
-# MICCAI 2023: 医学影像病灶分析
+# MICCAI 2023: 医学影像分割
 
 - Topic ID: `5`
 - Papers: **7** (9.59%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `image segmentation / semi-supervised medical / lesion / weakly`
 - Keyword pool: image segmentation; semi-supervised medical; lesion; weakly; pre-trained transferability estimation; pick best pre-trained; optional supervision pick; nascent geographic atrophy; regularization semi-supervised; mutual learning semi-supervised; multiple-exit cam; multi-scale self-supervised learning
 

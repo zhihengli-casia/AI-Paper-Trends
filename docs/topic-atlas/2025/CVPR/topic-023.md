@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **30** (1.04%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `prompt / vlms / tuning / consensus`
 - Keyword pool: prompt; vlms; tuning; consensus; few-shot; classes; vision-language; ppo; ptms; task-aware; in-context; clip
 

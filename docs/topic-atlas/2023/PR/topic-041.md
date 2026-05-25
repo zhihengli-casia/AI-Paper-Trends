@@ -1,8 +1,8 @@
-# PR 2023: 目标检测与图像分割
+# PR 2023: 领域自适应与迁移学习
 
 - Topic ID: `41`
 - Papers: **10** (1.24%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `domain / segmentation / adaptation / semantic`
 - Keyword pool: domain; segmentation; adaptation; semantic; image; unsupervised; adaptive; online; noise-free; latent representations; labeling; affinity
 

@@ -1,8 +1,8 @@
-# AAAI 2024: brain / emotion / concepts / neuron
+# AAAI 2024: 情感识别与多模态情绪理解
 
 - Topic ID: `51`
 - Papers: **20** (0.86%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / emotion / concepts / neuron`
 - Keyword pool: brain; emotion; concepts; neuron; pathway; cognitive; recognition; interpretable; functional; fmri; visual; connectivity
 

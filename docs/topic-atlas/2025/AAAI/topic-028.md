@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **33** (1.09%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 强化学习/决策
 - English keywords: `driving / occupancy / autonomous / perception`
 - Keyword pool: driving; occupancy; autonomous; perception; lane; traffic scenarios; planning; vehicles; world; ego; bev; reasoning
 

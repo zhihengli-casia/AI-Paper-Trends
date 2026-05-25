@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **33** (0.89%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `llms / political / personality / human`
 - Keyword pool: llms; political; personality; human; preferences; llm agents; alignment; conformity; values; stance; cognitive; people
 

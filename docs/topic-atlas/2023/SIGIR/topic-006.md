@@ -1,8 +1,8 @@
-# SIGIR 2023: 知识图谱推理与表示学习
+# SIGIR 2023: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `6`
 - Papers: **10** (6.06%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `temporal / entities / knowledge graph / reasoning`
 - Keyword pool: temporal; entities; knowledge graph; reasoning; entity; completion; relation; cognitive; few-shot; missing; update; bert
 

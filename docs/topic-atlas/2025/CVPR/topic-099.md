@@ -1,8 +1,8 @@
-# CVPR 2025: 语音/音频语言模型
+# CVPR 2025: 语音、音频与声学建模
 
 - Topic ID: `99`
 - Papers: **14** (0.49%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `audio / sound / acoustic / mixed`
 - Keyword pool: audio; sound; acoustic; mixed; localization; exocentric; saliency; cues; silent; segmentation; video; experience
 

@@ -1,4 +1,4 @@
-# NeurIPS 2024: circuits / merging / test-time optimization / steering
+# NeurIPS 2024: 神经架构搜索与模型设计
 
 - Topic ID: `79`
 - Papers: **23** (0.57%)

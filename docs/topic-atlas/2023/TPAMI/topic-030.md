@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **11** (1.62%)
-- Macro topic: 生成模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `multi-view / views / feature selection / kernel`
 - Keyword pool: multi-view; views; feature selection; kernel; subspace; incomplete; xmlns; xlink; w3 org; http www w3; missing; low-rank
 

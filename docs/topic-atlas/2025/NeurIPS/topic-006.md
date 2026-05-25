@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **80** (1.51%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `video / temporal / reasoning / grounding`
 - Keyword pool: video; temporal; reasoning; grounding; visual; frames; long; multimodal; mllms; vlms; retrieval; anomaly
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `82`
 - Papers: **9** (0.59%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `long-tailed / classes / imbalance / temperature`
 - Keyword pool: long-tailed; classes; imbalance; temperature; ssl; prompts; pll; discrimination; cuda; ood; classification; pretrained
 

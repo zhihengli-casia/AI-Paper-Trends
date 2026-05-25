@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **15** (1.18%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `editing / lifelong / edits / edited`
 - Keyword pool: editing; lifelong; edits; edited; batch; commonsense knowledge; free-text; clinical; retraining; effects; facts; updates
 

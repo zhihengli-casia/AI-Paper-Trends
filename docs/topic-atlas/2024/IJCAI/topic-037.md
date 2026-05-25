@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **14** (1.34%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / temporal / graph / sleep`
 - Keyword pool: brain; temporal; graph; sleep; emotion; diagnosis; functional; health; physiological; hyperbolic; spatial; disentangling
 

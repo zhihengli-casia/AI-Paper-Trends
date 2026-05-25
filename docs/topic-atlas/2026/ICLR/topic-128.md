@@ -2,7 +2,7 @@
 
 - Topic ID: `128`
 - Papers: **17** (0.32%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `federated / communication / distributed / sgd`
 - Keyword pool: federated; communication; distributed; sgd; compression; decentralized; asynchronous; admm; composite; legacy; workers; saga
 

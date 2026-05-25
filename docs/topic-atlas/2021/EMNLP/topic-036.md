@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **10** (1.18%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `fine-grained / entity / scientific / typing`
 - Keyword pool: fine-grained; entity; scientific; typing; label; material; ner; publication; distant; science; synthesis; annotations
 

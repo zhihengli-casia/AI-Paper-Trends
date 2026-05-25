@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **25** (0.83%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `compression / nerf / rendering / scenes`
 - Keyword pool: compression; nerf; rendering; scenes; video; reconstruction; color; radiance; flare; volumetric; variable; scattering
 

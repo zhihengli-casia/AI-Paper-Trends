@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **11** (2.63%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / race / disparities / social`
 - Keyword pool: bias; race; disparities; social; geographic; uncertainty; languages; thoughts; health; mental; demographic; stereotypes
 

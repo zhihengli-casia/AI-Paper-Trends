@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **28** (12.61%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `graph / node / gnns / prediction`
 - Keyword pool: graph; node; gnns; prediction; social; entities; failure; representations; representation learning; clustering; temporal; features
 

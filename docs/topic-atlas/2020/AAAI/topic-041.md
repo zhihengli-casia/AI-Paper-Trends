@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **16** (1.00%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `regret / arms / bandits / multi-armed`
 - Keyword pool: regret; arms; bandits; multi-armed; feedback; price; reward; algorithms; non-stationary; threshold; attack; seller
 

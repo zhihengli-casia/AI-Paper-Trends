@@ -1,8 +1,8 @@
-# EMNLP 2025: LLM Agent 与工具使用
+# EMNLP 2025: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `92`
 - Papers: **9** (0.50%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `role-playing / simulation / games / character`
 - Keyword pool: role-playing; simulation; games; character; agents; professional; role-specific; expert knowledge; prompt; video; profile; gui
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `75`
 - Papers: **10** (0.65%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `logical / knowledge graph / completion / reasoning`
 - Keyword pool: logical; knowledge graph; completion; reasoning; rule; kgs; graphs; entities; relational; expressive; relations; operators
 

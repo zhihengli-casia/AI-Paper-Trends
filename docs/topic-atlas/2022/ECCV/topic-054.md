@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **14** (0.85%)
-- Macro topic: 理论/优化
+- Macro topic: AI4Science/医疗
 - English keywords: `surface / occluding / neural fields / multiview`
 - Keyword pool: surface; occluding; neural fields; multiview; registration; rendering; morphing; differentiable; curvature; intrinsic; implicit; brain
 

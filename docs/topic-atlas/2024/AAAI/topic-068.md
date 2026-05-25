@@ -1,4 +1,4 @@
-# AAAI 2024: person / reid / re-identification / occluded
+# AAAI 2024: 行人重识别与人群计数
 
 - Topic ID: `68`
 - Papers: **16** (0.69%)

@@ -1,8 +1,8 @@
-# ICLR 2025: 目标检测与图像分割
+# ICLR 2025: 领域自适应与迁移学习
 
 - Topic ID: `102`
 - Papers: **17** (0.46%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `gcd / domain / source-free / adaptation`
 - Keyword pool: gcd; domain; source-free; adaptation; bias; face recognition; semantic segmentation; semi-supervised; background; vil; transfer-based; action recognition
 

@@ -1,8 +1,8 @@
-# ECCV 2024: forgery / face / fake / expression
+# ECCV 2024: 人脸分析、表情与属性建模
 
 - Topic ID: `54`
 - Papers: **18** (0.75%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `forgery / face / fake / expression`
 - Keyword pool: forgery; face; fake; expression; facial; clip; gaze estimation; classification network; signature; prompt; common sense; forensic
 

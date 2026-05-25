@@ -2,7 +2,7 @@
 
 - Topic ID: `75`
 - Papers: **10** (0.62%)
-- Macro topic: 计算机视觉
+- Macro topic: 强化学习/决策
 - English keywords: `story / visual / generation / plot`
 - Keyword pool: story; visual; generation; plot; automatic; photos; variational autoencoder; planning; events; multi-pass; scene graphs; automated
 

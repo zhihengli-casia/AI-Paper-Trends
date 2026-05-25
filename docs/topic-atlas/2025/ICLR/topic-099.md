@@ -2,7 +2,7 @@
 
 - Topic ID: `99`
 - Papers: **18** (0.49%)
-- Macro topic: 可信/安全/公平
+- Macro topic: AI4Science/医疗
 - English keywords: `treatment / counterfactual / causal / effect`
 - Keyword pool: treatment; counterfactual; causal; effect; observational; confounders; disease; variables; confounding; estimation; fairness; covariates
 

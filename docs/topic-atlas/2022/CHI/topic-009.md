@@ -1,8 +1,8 @@
-# CHI 2022: LLM Agent 与工具使用
+# CHI 2022: 对话系统与会话智能体
 
 - Topic ID: `9`
 - Papers: **23** (3.63%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `human-ai / chatbot / conversational / expertise`
 - Keyword pool: human-ai; chatbot; conversational; expertise; intelligence; shared; agents; behavior; language; collaborative; designing; interaction
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **8** (0.94%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `temporal / knowledge graphs / facts / entity`
 - Keyword pool: temporal; knowledge graphs; facts; entity; sparsity; entities; path; logic; reasoning; phrase; noun; abductive
 

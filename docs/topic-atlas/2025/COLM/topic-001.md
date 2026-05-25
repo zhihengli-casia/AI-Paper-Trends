@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **32** (7.66%)
-- Macro topic: NLP任务
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / rag / relevance / multilingual`
 - Keyword pool: retrieval; rag; relevance; multilingual; retrieved; embedding; documents; query; misinformation; dense; retrievers; summarization
 

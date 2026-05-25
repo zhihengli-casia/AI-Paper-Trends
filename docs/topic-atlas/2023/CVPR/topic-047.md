@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **22** (0.93%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `document / retrieval / cross-modal / sign`
 - Keyword pool: document; retrieval; cross-modal; sign; image-text; correspondence; matching; language; layout; information extraction; hoi; noisy
 

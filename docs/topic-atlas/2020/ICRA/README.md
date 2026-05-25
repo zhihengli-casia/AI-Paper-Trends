@@ -41,12 +41,12 @@
 | [027](topic-027.md) | tactile / sensor / sensing / http | 17 | 1.59% | 3D/具身/机器人 | `tactile / sensor / sensing / http` | OmniTact: A Multi-Directional High-Resolution Touch Sensor |
 | [028](topic-028.md) | LiDAR 点云与 3D 感知 | 16 | 1.50% | 3D/具身/机器人 | `clouds / registration / lidar / point` | 2D to 3D Line-Based Registration with Unknown Associations via Mixed-Integer Programming |
 | [029](topic-029.md) | grasp / parts / assembly / gripper | 16 | 1.50% | 3D/具身/机器人 | `grasp / parts / assembly / gripper` | Grasping Fragile Objects Using A Stress-Minimization Metric |
-| [032](topic-032.md) | 目标检测与图像分割 | 15 | 1.41% | 3D/具身/机器人 | `segmentation / object / sound / fruit` | Robot-Supervised Learning for Object Segmentation |
+| [032](topic-032.md) | 图像分割、语义分割与场景解析 | 15 | 1.41% | 3D/具身/机器人 | `segmentation / object / sound / fruit` | Robot-Supervised Learning for Object Segmentation |
 | [030](topic-030.md) | gripper / soft / grasping / finger | 15 | 1.41% | 3D/具身/机器人 | `gripper / soft / grasping / finger` | A Soft Gripper with Retractable Nails for Advanced Grasping and Manipulation |
 | [031](topic-031.md) | 规划搜索与决策推理 | 15 | 1.41% | 3D/具身/机器人 | `planning / unknown environments / path / uncertainty` | Map-Predictive Motion Planning in Unknown Environments |
 | [033](topic-033.md) | 规划搜索与决策推理 | 13 | 1.22% | 3D/具身/机器人 | `planning / heuristic / tool / planner` | Learned Sampling Distributions for Efficient Planning in Hybrid Geometric and Object-Level Representations |
 | [034](topic-034.md) | 强化学习策略与奖励建模 | 13 | 1.22% | 3D/具身/机器人 | `manipulation / skills / demonstrations / reinforcement learning` | Towards Practical Multi-Object Manipulation using Relational Reinforcement Learning |
-| [035](topic-035.md) | 对抗攻击、鲁棒性与安全 | 13 | 1.22% | 3D/具身/机器人 | `transfer / visuomotor / real / policies` | Self-Supervised Sim-to-Real Adaptation for Visual Robotic Manipulation |
+| [035](topic-035.md) | 领域自适应与迁移学习 | 13 | 1.22% | 3D/具身/机器人 | `transfer / visuomotor / real / policies` | Self-Supervised Sim-to-Real Adaptation for Visual Robotic Manipulation |
 | [036](topic-036.md) | grip / soft / control / fingers | 13 | 1.22% | 3D/具身/机器人 | `grip / soft / control / fingers` | Arm-hand motion-force coordination for physical interactions with non-flat surfaces using dynamical systems: Toward compliant robotic massage |
 | [037](topic-037.md) | place / recognition / appearance / matching | 13 | 1.22% | 3D/具身/机器人 | `place / recognition / appearance / matching` | SPRINT: Subgraph Place Recognition for INtelligent Transportation |
 | [038](topic-038.md) | 机器人 SLAM 与定位建图 | 13 | 1.22% | 3D/具身/机器人 | `odometry / lidar / localization / slam` | LOL: Lidar-only Odometry and Localization in 3D point cloud maps * |
@@ -59,13 +59,13 @@
 | [045](topic-045.md) | soft / compliant / printed / pneumatic | 11 | 1.03% | 3D/具身/机器人 | `soft / compliant / printed / pneumatic` | Compliant Electromagnetic Actuator Architecture for Soft Robotics |
 | [046](topic-046.md) | 无人机/四旋翼规划与控制 | 11 | 1.03% | 3D/具身/机器人 | `quadrotor / flight / multirotor / recovery` | Nonlinear MPC with Motor Failure Identification and Recovery for Safe and Aggressive Multicopter Flight |
 | [047](topic-047.md) | 深度估计与立体匹配 | 11 | 1.03% | 3D/具身/机器人 | `grasping / detection / depth / object` | Using Synthetic Data and Deep Networks to Recognize Primitive Shapes for Object Grasping |
-| [048](topic-048.md) | measurements / localization / underwater / association | 11 | 1.03% | 3D/具身/机器人 | `measurements / localization / underwater / association` | Collaborative Multi-Robot Localization in Natural Terrain * |
+| [048](topic-048.md) | 语音、音频与声学建模 | 11 | 1.03% | 3D/具身/机器人 | `measurements / localization / underwater / association` | Collaborative Multi-Robot Localization in Natural Terrain * |
 | [049](topic-049.md) | 深度估计与立体匹配 | 10 | 0.94% | 3D/具身/机器人 | `omnidirectional / depth / self-supervised / networks` | Omnidirectional Depth Extension Networks |
-| [050](topic-050.md) | 语音/音频语言模型 | 10 | 0.94% | 3D/具身/机器人 | `tracking / pose / keypoints / simultaneous` | 3D Object Detection and Tracking Based on Streaming Data |
+| [050](topic-050.md) | 音视频多模态理解 | 10 | 0.94% | 3D/具身/机器人 | `tracking / pose / keypoints / simultaneous` | 3D Object Detection and Tracking Based on Streaming Data |
 | [051](topic-051.md) | localization / slam / differentiable / semantic | 10 | 0.94% | 3D/具身/机器人 | `localization / slam / differentiable / semantic` | Global visual localization in LiDAR-maps through shared 2D-3D embedding space |
 | [052](topic-052.md) | 深度估计与立体匹配 | 10 | 0.94% | 3D/具身/机器人 | `pose / object / estimation / uncertainty` | 6D Object Pose Regression via Supervised Learning on Point Clouds |
 | [053](topic-053.md) | localization / localisation / global / cnn | 10 | 0.94% | 3D/具身/机器人 | `localization / localisation / global / cnn` | Localising Faster: Efficient and precise lidar-based robot localisation in large-scale environments |
-| [054](topic-054.md) | 机器人操作与具身智能 | 10 | 0.94% | 3D/具身/机器人 | `surgical / recognition / gesture / multi-task` | AP-MTL: Attention Pruned Multi-task Learning Model for Real-time Instrument Detection and Segmentation in Robot-assisted Surgery |
+| [054](topic-054.md) | 医学影像分割 | 10 | 0.94% | 3D/具身/机器人 | `surgical / recognition / gesture / multi-task` | AP-MTL: Attention Pruned Multi-task Learning Model for Real-time Instrument Detection and Segmentation in Robot-assisted Surgery |
 | [055](topic-055.md) | 机器人操作与具身智能 | 9 | 0.84% | 3D/具身/机器人 | `imitation / demonstration / reinforcement / outcome` | Scalable Multi-Task Imitation Learning with Autonomous Improvement |
 | [056](topic-056.md) | occupancy / sparse / scene / obstacle | 8 | 0.75% | 3D/具身/机器人 | `occupancy / sparse / scene / obstacle` | Predicting Obstacle Footprints from 2D Occupancy Maps by Learning from Physical Interactions |
 | [057](topic-057.md) | 视觉导航与语义地图 | 8 | 0.75% | 3D/具身/机器人 | `navigation / visual / real robots / paths` | Scaling Local Control to Large-Scale Topological Navigation |

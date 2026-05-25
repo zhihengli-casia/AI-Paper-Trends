@@ -1,8 +1,8 @@
-# ACL 2025: arabic / languages / dialects / leaderboard
+# ACL 2025: 语音识别与语音理解
 
 - Topic ID: `45`
 - Papers: **17** (1.00%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `arabic / languages / dialects / leaderboard`
 - Keyword pool: arabic; languages; dialects; leaderboard; nlp; msa; community-driven; varieties; dialectal; linguistic; asr; low-resource
 

@@ -1,4 +1,4 @@
-# IJCAI 2023: LLM Agent 与工具使用
+# IJCAI 2023: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `27`
 - Papers: **14** (1.65%)

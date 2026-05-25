@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **9** (3.77%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `rag / retrieval-augmented / graph / structured`
 - Keyword pool: rag; retrieval-augmented; graph; structured; personalized; documents; retriever; augmented generation; retrieval augmented; collaborative; retrieved; language llms
 

@@ -1,4 +1,4 @@
-# AAAI 2020: active learning / labeling / instances / option
+# AAAI 2020: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `36`
 - Papers: **17** (1.06%)

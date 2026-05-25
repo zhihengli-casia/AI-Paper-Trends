@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **29** (4.88%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `coding / video / compression / qoe`
 - Keyword pool: coding; video; compression; qoe; streaming; rate-distortion; tex-math; inline-formula; rate control; versatile; partition; delay
 

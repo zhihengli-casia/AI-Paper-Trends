@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **8** (3.74%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `graph / temporal / pretraining / neural`
 - Keyword pool: graph; temporal; pretraining; neural; reasoning; node; events; fast; structures; candidate set; entities; representation learning
 

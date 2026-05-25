@@ -1,4 +1,4 @@
-# CVPR 2020: shape / implicit / reconstruction / surface
+# CVPR 2020: 3D 形状重建与隐式表示
 
 - Topic ID: `15`
 - Papers: **22** (1.50%)

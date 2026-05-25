@@ -1,8 +1,8 @@
-# EMNLP 2024: 多语言建模与跨语言迁移
+# EMNLP 2024: 机器翻译与跨语言对齐
 
 - Topic ID: `24`
 - Papers: **19** (1.50%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `translation / multilingual / simultaneous / cross-lingual`
 - Keyword pool: translation; multilingual; simultaneous; cross-lingual; languages; contamination; pretraining; alignment; synthetic; source; transfer; target language
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **40** (0.99%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `shift / calibration / classes / performative`
 - Keyword pool: shift; calibration; classes; performative; fairness; density ratio; adaptation; auprc; test distributions; uniformity; reshuffling; discrepancy
 

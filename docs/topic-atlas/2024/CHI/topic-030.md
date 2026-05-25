@@ -1,8 +1,8 @@
-# CHI 2024: search / color / 视频理解/生成 / semantic
+# CHI 2024: 音乐与音频生成/理解
 
 - Topic ID: `30`
 - Papers: **18** (1.71%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `search / color / video / semantic`
 - Keyword pool: search; color; video; semantic; image; visual; creation; music; interactive; learning; exploration; supporting
 

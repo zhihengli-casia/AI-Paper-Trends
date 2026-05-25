@@ -1,8 +1,8 @@
-# ACMMM 2024: 查询理解与检索优化
+# ACMMM 2024: 视频检索、时刻定位与事件理解
 
 - Topic ID: `11`
 - Papers: **24** (2.09%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `video / retrieval / moment / captions`
 - Keyword pool: video; retrieval; moment; captions; target domain; frames; multi-grained; language; shadow; person; spatiotemporal; query
 

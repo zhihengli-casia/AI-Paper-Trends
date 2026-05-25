@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **27** (2.13%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `copying / evaluator / nlg / literal`
 - Keyword pool: copying; evaluator; nlg; literal; assessment; multi-turn; pairwise; moral; llm-as-a-judge; comparisons; bias; gpt-4
 

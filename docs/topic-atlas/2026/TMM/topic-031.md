@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **10** (1.68%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `point / cloud / orientation / rotation`
 - Keyword pool: point; cloud; orientation; rotation; polar; classification; correspondence; distortions; perceptual; rectification; local consistency; training-free
 

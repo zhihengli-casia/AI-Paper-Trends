@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **13** (1.05%)
-- Macro topic: HCI/社会计算
+- Macro topic: 计算机视觉
 - English keywords: `media / social / instagram / emotions`
 - Keyword pool: media; social; instagram; emotions; personalized; change; video; people; hate; deep; sexual; regulation
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **19** (1.81%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `public / ethical / sensitive / generative ai`
 - Keyword pool: public; ethical; sensitive; generative ai; perspective; workers; tools; understanding; adoption; doubt; foundations; face
 

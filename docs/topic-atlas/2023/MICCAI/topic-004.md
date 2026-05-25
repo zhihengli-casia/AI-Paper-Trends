@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **7** (9.59%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `detection / chest / abnormality / anomaly`
 - Keyword pool: detection; chest; abnormality; anomaly; x-rays; medical; masking multi-scale cross-restoration; medim boost; multiple synthetic; masked autoencoder dual-distribution; make light learning; localise
 

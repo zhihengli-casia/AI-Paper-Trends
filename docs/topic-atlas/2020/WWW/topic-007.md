@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **18** (5.68%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 强化学习/决策
 - English keywords: `spatial / trajectories / location / landmarks`
 - Keyword pool: spatial; trajectories; location; landmarks; policy; road; traffic; cities; representativeness; urban; temporal; mobile
 

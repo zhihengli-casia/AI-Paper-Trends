@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **15** (1.10%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `latent / manifold / low-dimensional / disentangled`
 - Keyword pool: latent; manifold; low-dimensional; disentangled; adversarial; variational; generative; variables; predictability; disentanglement; autoregressive; clustering
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **18** (2.12%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / clients / communication / privacy-preserving`
 - Keyword pool: federated; clients; communication; privacy-preserving; reward; decentralized; aggregation; budget; local; meteorological; recommendation; global
 

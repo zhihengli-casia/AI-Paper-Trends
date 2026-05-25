@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **11** (0.96%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `quantization / diffusion / video / ldms`
 - Keyword pool: quantization; diffusion; video; ldms; vfi; frame; latent; t2v; shadow; unrestricted; open-ended; temporal
 

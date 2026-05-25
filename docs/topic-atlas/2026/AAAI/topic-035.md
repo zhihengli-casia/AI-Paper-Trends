@@ -1,4 +1,4 @@
-# AAAI 2026: forgery / image / ai-generated / deepfake
+# AAAI 2026: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `35`
 - Papers: **43** (1.04%)

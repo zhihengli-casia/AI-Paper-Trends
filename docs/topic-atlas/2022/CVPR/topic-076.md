@@ -1,4 +1,4 @@
-# CVPR 2022: calibration / meta-learning / test-time adaptation / uncertainty
+# CVPR 2022: 领域自适应与迁移学习
 
 - Topic ID: `76`
 - Papers: **12** (0.58%)

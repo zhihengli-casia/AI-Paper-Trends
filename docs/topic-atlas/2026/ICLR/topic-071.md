@@ -2,7 +2,7 @@
 
 - Topic ID: `71`
 - Papers: **35** (0.65%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / harmful / unsafe / llms`
 - Keyword pool: safety; harmful; unsafe; llms; guardrails; jailbreak; benign; helpfulness; refusal; content; attacks; prompts
 

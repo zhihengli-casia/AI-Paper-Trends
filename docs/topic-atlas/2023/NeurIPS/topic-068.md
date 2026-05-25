@@ -2,7 +2,7 @@
 
 - Topic ID: `68`
 - Papers: **21** (0.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `memory / recursion / quantization / language`
 - Keyword pool: memory; recursion; quantization; language; peft; bit; fine-tuning; parameter-efficient; beam; spider; llms; tree
 

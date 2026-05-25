@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **8** (0.93%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: AI4Science/医疗
 - English keywords: `conversion / asynchronous / energy / neural network`
 - Keyword pool: conversion; asynchronous; energy; neural network; camera; hardware; crystal; brain-inspired; cognition; gcns; material; top-1
 

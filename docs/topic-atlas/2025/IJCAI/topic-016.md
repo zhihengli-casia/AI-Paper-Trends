@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **22** (1.72%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / editing / temporal / teeth`
 - Keyword pool: video; editing; temporal; teeth; animation; generation; visual; motion; cache; appearance; synthesis; immersive
 

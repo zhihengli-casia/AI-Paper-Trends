@@ -1,4 +1,4 @@
-# AAAI 2020: combinatorial / optimization problems / mip / search
+# AAAI 2020: 组合优化与神经求解
 
 - Topic ID: `7`
 - Papers: **34** (2.12%)

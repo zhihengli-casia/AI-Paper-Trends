@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **14** (1.14%)
-- Macro topic: 强化学习/决策
+- Macro topic: 理论/优化
 - English keywords: `bayesian optimization / acquisition / optimizing / robustness measures`
 - Keyword pool: bayesian optimization; acquisition; optimizing; robustness measures; black-box; distributionally; likelihood-free; input noise; dro; optimization bo; feedback; optimization problems
 

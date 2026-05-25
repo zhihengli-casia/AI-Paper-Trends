@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **21** (1.60%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: AI4Science/医疗
 - English keywords: `clustering / tensor / subspace / multi-view`
 - Keyword pool: clustering; tensor; subspace; multi-view; disease; kernel; graph; clusters; recovery; metric; k-means; similarity matrix
 

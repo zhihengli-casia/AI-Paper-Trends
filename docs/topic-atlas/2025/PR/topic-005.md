@@ -1,4 +1,4 @@
-# PR 2025: domain / adaptation / mml / generalization
+# PR 2025: 领域自适应与迁移学习
 
 - Topic ID: `5`
 - Papers: **39** (2.58%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **15** (4.85%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `signed / maximum / graphs / bipartite`
 - Keyword pool: signed; maximum; graphs; bipartite; enumeration; multiple; set; search; identification; fairness-aware; massive; consensus
 

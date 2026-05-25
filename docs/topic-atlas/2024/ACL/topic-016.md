@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **22** (2.34%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `emotional / tom / dialogue / emotions`
 - Keyword pool: emotional; tom; dialogue; emotions; persona; support; mental; cognitive; theory mind; multimodal; feedback; empathy
 

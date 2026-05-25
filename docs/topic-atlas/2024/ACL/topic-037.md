@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **11** (1.17%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / fairness / political / metrics`
 - Keyword pool: bias; fairness; political; metrics; gender; race; opinions; preferences; attributes; values; correlation; gpt-3
 

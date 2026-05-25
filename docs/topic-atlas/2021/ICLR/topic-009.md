@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **27** (3.14%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 系统/效率/压缩
 - English keywords: `kernel / width / fully-connected / relu`
 - Keyword pool: kernel; width; fully-connected; relu; neural tangent; universal approximation; descent; linear; layers; convolutional; mean; depth
 

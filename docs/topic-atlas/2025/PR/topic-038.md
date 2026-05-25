@@ -1,4 +1,4 @@
-# PR 2025: pose / estimation / human / monocular
+# PR 2025: 人体姿态估计与运动理解
 
 - Topic ID: `38`
 - Papers: **17** (1.12%)

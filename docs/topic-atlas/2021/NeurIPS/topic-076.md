@@ -2,7 +2,7 @@
 
 - Topic ID: `76`
 - Papers: **13** (0.56%)
-- Macro topic: 理论/优化
+- Macro topic: 推荐/检索/排序
 - English keywords: `cvar / regret / feedback / jobs`
 - Keyword pool: cvar; regret; feedback; jobs; ranking; comparisons; tournament; bounds; zero-one loss; counterexamples; scheduling; pairwise
 

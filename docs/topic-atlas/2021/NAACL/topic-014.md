@@ -1,8 +1,8 @@
-# NAACL 2021: 句法语义解析与结构化表示
+# NAACL 2021: 句法解析与语言结构建模
 
 - Topic ID: `14`
 - Papers: **17** (3.56%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `parsing / parser / spider / syntax`
 - Keyword pool: parsing; parser; spider; syntax; hypotheses; syntactic; grammar; induction; sentence; text-to-sql; errors; learners
 

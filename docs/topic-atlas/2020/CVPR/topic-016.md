@@ -1,8 +1,8 @@
-# CVPR 2020: hand / human-object / contact / interaction
+# CVPR 2020: 手部姿态与人-物交互
 
 - Topic ID: `16`
 - Papers: **22** (1.50%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `hand / human-object / contact / interaction`
 - Keyword pool: hand; human-object; contact; interaction; cloth; human object; pose; grasp; point; mesh; body; physical
 

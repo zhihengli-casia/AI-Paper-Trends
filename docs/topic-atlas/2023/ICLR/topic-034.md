@@ -1,4 +1,4 @@
-# ICLR 2023: combinatorial optimization / heuristics / 图学习 / solvers
+# ICLR 2023: 组合优化与神经求解
 
 - Topic ID: `34`
 - Papers: **19** (1.24%)

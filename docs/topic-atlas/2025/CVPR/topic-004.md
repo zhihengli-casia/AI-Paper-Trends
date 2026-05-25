@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **54** (1.88%)
-- Macro topic: 多模态/VLM
+- Macro topic: 强化学习/决策
 - English keywords: `driving / autonomous / traffic / lane`
 - Keyword pool: driving; autonomous; traffic; lane; closed-loop; simulation; planning; perception; bev; trajectory; scene; collaborative
 

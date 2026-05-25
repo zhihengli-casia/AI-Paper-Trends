@@ -1,8 +1,8 @@
-# NeurIPS 2025: 语音/音频语言模型
+# NeurIPS 2025: 视频动作识别与时序定位
 
 - Topic ID: `10`
 - Papers: **73** (1.38%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / motion / diffusion / temporal`
 - Keyword pool: video; motion; diffusion; temporal; action; visual; gesture; frames; audio; autoregressive; spatial; recognition
 

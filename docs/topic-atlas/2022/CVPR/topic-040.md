@@ -1,4 +1,4 @@
-# CVPR 2022: face / facial / affective / emotions
+# CVPR 2022: 人脸分析、表情与属性建模
 
 - Topic ID: `40`
 - Papers: **21** (1.01%)

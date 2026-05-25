@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **11** (1.96%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / social / tabular / chemical`
 - Keyword pool: bias; social; tabular; chemical; label; fairness; stereotypes; gender; classifications; ner; vector; mitigating
 

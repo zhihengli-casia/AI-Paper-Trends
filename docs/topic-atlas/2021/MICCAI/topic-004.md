@@ -1,8 +1,8 @@
-# MICCAI 2021: 医学影像病灶分析
+# MICCAI 2021: 医学影像分割
 
 - Topic ID: `4`
 - Papers: **7** (10.29%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `transformer / image segmentation / medical / axial-attention`
 - Keyword pool: transformer; image segmentation; medical; axial-attention; segmentation transbts multimodal; segmentation multi-compound; segmentation convolution-free; segmentation boundary-aware; network corneal endothelial; multimodal brain tumor; skin lesion; transfuse fusing
 

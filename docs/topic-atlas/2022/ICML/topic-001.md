@@ -1,8 +1,8 @@
-# ICML 2022: domain / generalization / adaptation / target
+# ICML 2022: 领域自适应与迁移学习
 
 - Topic ID: `1`
 - Papers: **38** (3.08%)
-- Macro topic: 理论/优化
+- Macro topic: 多模态/VLM
 - English keywords: `domain / generalization / adaptation / target`
 - Keyword pool: domain; generalization; adaptation; target; source; invariant; pre-training; transfer; cross-modal; features; ood; ensemble
 

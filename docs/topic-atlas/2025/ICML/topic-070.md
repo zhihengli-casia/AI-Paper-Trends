@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **20** (0.60%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / one-step / distillation / image`
 - Keyword pool: diffusion; one-step; distillation; image; backdoor; generative; binarization; i2v; teacher; deconvolution; modulated; super-resolution
 

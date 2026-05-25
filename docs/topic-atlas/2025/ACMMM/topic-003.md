@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **39** (3.12%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `scene / editing / panoramic / immersive`
 - Keyword pool: scene; editing; panoramic; immersive; video; garment; objects; views; multi-view; graphics; generating; perceptual
 

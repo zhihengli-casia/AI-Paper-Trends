@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **43** (1.84%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `regression / kernel / uncertainty / neural network`
 - Keyword pool: regression; kernel; uncertainty; neural network; gaussian; equations; circuits; binarized; functions; activation; nns; theory
 

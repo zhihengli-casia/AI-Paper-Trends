@@ -2,7 +2,7 @@
 
 - Topic ID: `60`
 - Papers: **13** (0.89%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `reflection / glass / removal / face`
 - Keyword pool: reflection; glass; removal; face; trace; x-ray; transparent; camera; forgery; single image; separating; separation
 

@@ -1,8 +1,8 @@
-# KDD 2023: 对抗攻击、鲁棒性与安全
+# KDD 2023: 时间序列预测
 
 - Topic ID: `19`
 - Papers: **8** (2.56%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `traffic / control / forecasting / pattern`
 - Keyword pool: traffic; control; forecasting; pattern; signal; road; adversarial; expansion; offline; cities; spatiotemporal; multi-modal
 

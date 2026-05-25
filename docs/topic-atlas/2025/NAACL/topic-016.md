@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **19** (2.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `speculative / compression / quantization / decoding`
 - Keyword pool: speculative; compression; quantization; decoding; memory; draft; low-rank; inference; tokens; sequences; truncation; sharing
 

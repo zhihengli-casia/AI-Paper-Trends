@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **17** (1.00%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `kgs / graph / kge / relations`
 - Keyword pool: kgs; graph; kge; relations; entities; entity; structural; food; link prediction; transformation; embedding; fusion
 

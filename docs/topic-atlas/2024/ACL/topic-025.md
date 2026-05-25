@@ -1,8 +1,8 @@
-# ACL 2024: LLM Agent 与工具使用
+# ACL 2024: 对话系统与会话智能体
 
 - Topic ID: `25`
 - Papers: **16** (1.70%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `dialogue / role-playing / dst / spoken`
 - Keyword pool: dialogue; role-playing; dst; spoken; styles; agents; psychological; conversations; characters; speaking; task-oriented; tracking
 

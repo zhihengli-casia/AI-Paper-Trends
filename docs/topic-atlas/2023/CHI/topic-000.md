@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **56** (6.43%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `augmented reality / videos / mixed reality / prototyping`
 - Keyword pool: augmented reality; videos; mixed reality; prototyping; visualizations; camera; spatial; objects; interactive; supporting; environmental; user-driven
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **29** (4.14%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `prompt / tuning / few-shot / clip`
 - Keyword pool: prompt; tuning; few-shot; clip; plms; soft; label; video; channel; visual; pre-trained language; mrc
 

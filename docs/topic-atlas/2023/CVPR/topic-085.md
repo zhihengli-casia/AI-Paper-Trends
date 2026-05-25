@@ -2,7 +2,7 @@
 
 - Topic ID: `85`
 - Papers: **13** (0.55%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `sketch / photo / image retrieval / drawings`
 - Keyword pool: sketch; photo; image retrieval; drawings; triplet loss; data-free; just; strokes; explainability; human; fine-grained; embedding
 

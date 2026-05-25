@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **16** (1.06%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `super-resolution / image / compressed / arbitrary-scale`
 - Keyword pool: super-resolution; image; compressed; arbitrary-scale; degradation; single; aggregation; lightweight; residual learning; multi-modality medical; dilated; diffusion probabilistic
 

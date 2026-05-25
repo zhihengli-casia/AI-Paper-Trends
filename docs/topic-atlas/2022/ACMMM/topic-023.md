@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **13** (1.88%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `document / vqa / ocr / question`
 - Keyword pool: document; vqa; ocr; question; answering; medical; reasoning; understanding; relation; language; scene; pre-training
 

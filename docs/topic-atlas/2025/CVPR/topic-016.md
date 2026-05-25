@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **34** (1.18%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attacks / defense / threat`
 - Keyword pool: adversarial; attacks; defense; threat; transferability; polynomial; perturbations; classifiers; surrogate; networks; ensemble; neural
 

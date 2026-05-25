@@ -1,4 +1,4 @@
-# ECCV 2022: nas / search / neural architecture / pruning
+# ECCV 2022: 神经架构搜索与模型设计
 
 - Topic ID: `29`
 - Papers: **21** (1.28%)

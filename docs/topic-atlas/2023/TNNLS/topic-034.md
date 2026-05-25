@@ -1,8 +1,8 @@
-# TNNLS 2023: 攻击、防御与模型安全
+# TNNLS 2023: 时间序列预测
 
 - Topic ID: `34`
 - Papers: **15** (1.46%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `power / forecasting / load / demand`
 - Keyword pool: power; forecasting; load; demand; attack; lithium-ion; transient; batteries; battery; svs; probabilistic; assessment
 

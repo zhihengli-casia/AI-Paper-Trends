@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **13** (6.07%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `graph / collaborative / recommendation / denoising`
 - Keyword pool: graph; collaborative; recommendation; denoising; items; recommender; filtering; poisoning; interactions; noise; user-item; privacy
 

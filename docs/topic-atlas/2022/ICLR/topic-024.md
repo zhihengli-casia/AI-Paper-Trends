@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **19** (1.79%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `language / concepts / lms / prompts`
 - Keyword pool: language; concepts; lms; prompts; pretraining; zero-shot; few-shot; entity; reasoning; answering; grounded; mention
 

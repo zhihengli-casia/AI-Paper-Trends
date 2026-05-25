@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **37** (1.15%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / visual / stimuli / cortex`
 - Keyword pool: brain; visual; stimuli; cortex; stimulus; human; responses; age; neuronal; object recognition; motion; activity
 

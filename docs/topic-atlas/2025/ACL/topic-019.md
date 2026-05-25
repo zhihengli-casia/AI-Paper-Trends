@@ -1,8 +1,8 @@
-# ACL 2025: 多语言建模与跨语言迁移
+# ACL 2025: 机器翻译与跨语言对齐
 
 - Topic ID: `19`
 - Papers: **26** (1.53%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `cross-lingual / languages / multilingual / transfer`
 - Keyword pool: cross-lingual; languages; multilingual; transfer; sentence; target language; low-resource; english; translation; news; minor; monolingual
 

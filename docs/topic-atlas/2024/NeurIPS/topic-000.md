@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **126** (3.12%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `llms / unlearning / decoding / pruning`
 - Keyword pool: llms; unlearning; decoding; pruning; compression; tokens; draft; fine-tuning; speculative; pretraining; scaling; alignment
 

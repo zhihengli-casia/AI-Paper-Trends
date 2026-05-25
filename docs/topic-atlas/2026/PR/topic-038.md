@@ -1,8 +1,8 @@
-# PR 2026: 语音/音频语言模型
+# PR 2026: 音频理解与生成
 
 - Topic ID: `38`
 - Papers: **12** (1.30%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `spatio-temporal / video / prediction / audio`
 - Keyword pool: spatio-temporal; video; prediction; audio; attention network; optimization; visual; global-local; correspondence; convolutional neural networks; content-aware; gaussian mixture
 

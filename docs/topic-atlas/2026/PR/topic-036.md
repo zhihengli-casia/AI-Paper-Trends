@@ -1,8 +1,8 @@
-# PR 2026: clustering / density / distributed / algorithm
+# PR 2026: 音乐与音频生成/理解
 
 - Topic ID: `36`
 - Papers: **12** (1.30%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 语音/音频/音乐
 - English keywords: `clustering / density / distributed / algorithm`
 - Keyword pool: clustering; density; distributed; algorithm; music; kernel learning; information bottleneck; graph regularization; laplacian graph; multiple kernel; directional; sparse subspace
 

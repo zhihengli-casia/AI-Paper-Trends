@@ -1,8 +1,8 @@
-# ICML 2022: 机器翻译与跨语言对齐
+# ICML 2022: 跨域转换与序列转换
 
 - Topic ID: `8`
 - Papers: **32** (2.60%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `language / moe / transformer / prompt`
 - Keyword pool: language; moe; transformer; prompt; scaling; translation; tokens; lms; rationale; generation; brain; pretrained
 

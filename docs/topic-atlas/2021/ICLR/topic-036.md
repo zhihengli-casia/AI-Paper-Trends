@@ -1,4 +1,4 @@
-# ICLR 2021: shape / texture / images / cnns
+# ICLR 2021: 卷积网络结构与训练
 
 - Topic ID: `36`
 - Papers: **12** (1.40%)

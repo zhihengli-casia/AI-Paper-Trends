@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **13** (10.74%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `motion / animation / physics-based / generation`
 - Keyword pool: motion; animation; physics-based; generation; learning; video; deep; portrait; editing; facial; flexible; flying
 

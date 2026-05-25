@@ -1,8 +1,8 @@
-# PR 2024: 目标检测与图像分割
+# PR 2024: 实例分割与开放词汇分割
 
 - Topic ID: `9`
 - Papers: **24** (2.50%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `segmentation / semantic / edge / image`
 - Keyword pool: segmentation; semantic; edge; image; line; contrastive; detection; structural; semi-supervised; instance; few-shot; similarity
 

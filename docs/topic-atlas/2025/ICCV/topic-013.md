@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **41** (1.52%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `avatars / head / hair / animatable`
 - Keyword pool: avatars; head; hair; animatable; facial; reconstruction; gaussians; teeth; gaze; identity; geometry; rendering
 

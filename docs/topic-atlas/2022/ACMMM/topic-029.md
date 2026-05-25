@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **12** (1.74%)
-- Macro topic: 强化学习/决策
+- Macro topic: 计算机视觉
 - English keywords: `streaming / bandwidth / qoe / video quality`
 - Keyword pool: streaming; bandwidth; qoe; video quality; bitrate; analytics; remote; packet; communication; viewers; throughput; control
 

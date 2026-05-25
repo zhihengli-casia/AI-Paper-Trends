@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **18** (9.38%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / video / scene / facial`
 - Keyword pool: diffusion; video; scene; facial; training-free; learning; fast; generating; image; generation; animatable; virtual
 

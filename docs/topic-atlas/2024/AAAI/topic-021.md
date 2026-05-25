@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **33** (1.42%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `llms / language / dialogue / sarcasm`
 - Keyword pool: llms; language; dialogue; sarcasm; chinese; questions; commonsense; reasoning; cot; medical; question answering; wikipedia
 

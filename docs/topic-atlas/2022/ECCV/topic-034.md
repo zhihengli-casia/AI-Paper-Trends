@@ -1,8 +1,8 @@
-# ECCV 2022: NeRF 与神经渲染
+# ECCV 2022: 人脸分析、表情与属性建模
 
 - Topic ID: `34`
 - Papers: **20** (1.22%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `facial / face / expression / reenactment`
 - Keyword pool: facial; face; expression; reenactment; head; morphable; landmarks; animation; reconstruction; radiance; avatars; compound
 

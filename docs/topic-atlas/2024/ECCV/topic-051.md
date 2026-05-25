@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **19** (0.80%)
-- Macro topic: 多模态/VLM
+- Macro topic: 强化学习/决策
 - English keywords: `navigation / trajectory / driving / reasoning`
 - Keyword pool: navigation; trajectory; driving; reasoning; instruction generation; llms; autonomous; agents; instructions; language; planners; planning
 

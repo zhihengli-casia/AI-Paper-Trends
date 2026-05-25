@@ -1,8 +1,8 @@
-# EMNLP 2020: dialogue / response / task-oriented / tracking
+# EMNLP 2020: 对话系统与会话建模
 
 - Topic ID: `7`
 - Papers: **26** (3.46%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `dialogue / response / task-oriented / tracking`
 - Keyword pool: dialogue; response; task-oriented; tracking; conversation; selection; multi-turn; belief; ontology; multi-domain; utterances; goal-oriented
 

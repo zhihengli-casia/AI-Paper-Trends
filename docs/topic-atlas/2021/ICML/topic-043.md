@@ -1,8 +1,8 @@
-# ICML 2021: 目标检测与图像分割
+# ICML 2021: 图像分割、语义分割与场景解析
 
 - Topic ID: `43`
 - Papers: **13** (1.10%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `visual / image / transformer / video`
 - Keyword pool: visual; image; transformer; video; concept; resampling; representations; labels; object; supervision; classification; segmentation
 

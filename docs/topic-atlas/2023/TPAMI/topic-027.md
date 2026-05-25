@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **13** (1.91%)
-- Macro topic: HCI/社会计算
+- Macro topic: AI4Science/医疗
 - English keywords: `explanations / latent structure / eeg / cognitive`
 - Keyword pool: explanations; latent structure; eeg; cognitive; expert; confidence; brain; patient; agent; collected; structure learning; emotion
 

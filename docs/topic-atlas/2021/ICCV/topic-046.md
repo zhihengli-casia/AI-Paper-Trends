@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **16** (0.99%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `attribution / cam / explanations / activation`
 - Keyword pool: attribution; cam; explanations; activation; counterfactual; causal; bias; feature importance; attributes; maps; trivial; classifier
 

@@ -1,8 +1,8 @@
-# ACMMM 2020: music / synthesis / style / rhythmic
+# ACMMM 2020: 音乐与音频生成/理解
 
 - Topic ID: `11`
 - Papers: **17** (3.59%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: AI4Science/医疗
 - English keywords: `music / synthesis / style / rhythmic`
 - Keyword pool: music; synthesis; style; rhythmic; brain; teacher; student; virtual; sound; tracks; token; sequence
 

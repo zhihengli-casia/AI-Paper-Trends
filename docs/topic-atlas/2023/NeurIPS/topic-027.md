@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **37** (1.15%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `ridge / regression / kernel / dimension`
 - Keyword pool: ridge; regression; kernel; dimension; benign overfitting; regularization; smoothness; realizable; finite-rank; linear; gaussian; random features
 

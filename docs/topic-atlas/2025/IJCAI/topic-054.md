@@ -1,8 +1,8 @@
-# IJCAI 2025: 医学影像病灶分析
+# IJCAI 2025: 医学影像分割
 
 - Topic ID: `54`
 - Papers: **12** (0.94%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical / image / instance-specific`
 - Keyword pool: segmentation; medical; image; instance-specific; lesion; class embeddings; feature; vision; contrastive; semantic; multi-scale; wavelet
 

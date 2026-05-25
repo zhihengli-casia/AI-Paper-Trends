@@ -2,7 +2,7 @@
 
 - Topic ID: `75`
 - Papers: **15** (0.66%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `diffusion / score matching / exposure bias / sampling`
 - Keyword pool: diffusion; score matching; exposure bias; sampling; anomaly; consistency; score-based; score function; density; vector field; estimation; fid
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `89`
 - Papers: **14** (0.52%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `mae / masking / masked autoencoders / test-time`
 - Keyword pool: mae; masking; masked autoencoders; test-time; adaptation; pre-training; video; conjugate; non-i; ratio; temporal; multi-spectral
 

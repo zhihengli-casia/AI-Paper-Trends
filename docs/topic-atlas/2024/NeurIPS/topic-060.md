@@ -1,8 +1,8 @@
-# NeurIPS 2024: 机器翻译与跨语言对齐
+# NeurIPS 2024: 语音翻译与跨语言语音处理
 
 - Topic ID: `60`
 - Papers: **32** (0.79%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `audio / speech / sound / visual`
 - Keyword pool: audio; speech; sound; visual; asr; dialogue; spatial; rendering; listener; translation; spoken; video
 

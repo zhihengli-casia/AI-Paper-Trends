@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **30** (0.90%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / privacy / attacks / llms`
 - Keyword pool: backdoor; privacy; attacks; llms; private; prompts; synthetic; defense; clean; complications; security; tsc
 

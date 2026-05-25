@@ -1,4 +1,4 @@
-# IROS 2023: camera / 视频理解/生成 / event-based / radar
+# IROS 2023: 事件相机与高动态范围视觉
 
 - Topic ID: `24`
 - Papers: **21** (1.77%)

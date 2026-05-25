@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **21** (2.23%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `rlhf / preferences / alignment / human feedback`
 - Keyword pool: rlhf; preferences; alignment; human feedback; reinforcement learning; reward; ppo; optimization; chat; user; aligning; conversational
 

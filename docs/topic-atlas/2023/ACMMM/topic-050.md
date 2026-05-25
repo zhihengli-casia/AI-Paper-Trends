@@ -1,8 +1,8 @@
-# ACMMM 2023: 社交媒体与社会计算
+# ACMMM 2023: 音乐与音频生成/理解
 
 - Topic ID: `50`
 - Papers: **8** (0.89%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `aesthetic / music / assessment / users`
 - Keyword pool: aesthetic; music; assessment; users; personalized; face; social; statistics; preferences; fine-grained feature; large-scale fine-grained; transformers
 

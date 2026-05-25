@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **45** (1.35%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `networks / grokking / relu / deep`
 - Keyword pool: networks; grokking; relu; deep; implicit bias; dynamics; gradient; phenomena; neural operators; feature learning; neural network; floating-point
 

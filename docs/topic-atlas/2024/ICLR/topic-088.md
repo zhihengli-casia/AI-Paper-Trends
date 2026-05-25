@@ -2,7 +2,7 @@
 
 - Topic ID: `88`
 - Papers: **12** (0.53%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `graph / attacks / fairness / gnns`
 - Keyword pool: graph; attacks; fairness; gnns; poisoning; adversarial; node; lipschitz bound; expected robustness; label; perturbations; detection
 

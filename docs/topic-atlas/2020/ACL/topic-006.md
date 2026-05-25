@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **29** (3.73%)
-- Macro topic: 生成模型
+- Macro topic: NLP任务
 - English keywords: `summarization / abstractive / summaries / summary`
 - Keyword pool: summarization; abstractive; summaries; summary; extractive; reviews; factual; document; headlines; metrics; faithfulness; source
 

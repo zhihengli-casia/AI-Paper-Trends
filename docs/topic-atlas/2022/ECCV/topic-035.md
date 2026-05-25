@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **20** (1.22%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `detection / radar / point / clouds`
 - Keyword pool: detection; radar; point; clouds; waymo; panoramic; lidar; voxel; fusion; camera; template; multi-modal
 

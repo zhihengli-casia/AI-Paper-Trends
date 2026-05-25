@@ -1,8 +1,8 @@
-# TPAMI 2021: 目标检测与图像分割
+# TPAMI 2021: 领域自适应与迁移学习
 
 - Topic ID: `8`
 - Papers: **19** (3.45%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `domain / adaptation / target / source`
 - Keyword pool: domain; adaptation; target; source; transfer; semantic; adversarial; alignment; segmentation; classification; labeled; recognition
 

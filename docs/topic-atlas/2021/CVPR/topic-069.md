@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **11** (0.66%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `rain / removal / synthetic / fog`
 - Keyword pool: rain; removal; synthetic; fog; streak; layer; removing; video; generator; weather; paired; generation
 

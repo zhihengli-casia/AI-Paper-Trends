@@ -1,4 +1,4 @@
-# ICML 2020: semi-supervised learning / weak supervision / labels / unlabeled
+# ICML 2020: 半监督学习与噪声标签建模
 
 - Topic ID: `42`
 - Papers: **12** (1.11%)

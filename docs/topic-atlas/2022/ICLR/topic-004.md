@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **31** (2.92%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `sgd / convex / learning rate / kernel`
 - Keyword pool: sgd; convex; learning rate; kernel; gradient; relu; descent; minima; regularization; implicit; bias; matrix
 

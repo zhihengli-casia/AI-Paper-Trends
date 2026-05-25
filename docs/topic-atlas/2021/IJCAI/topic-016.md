@@ -1,4 +1,4 @@
-# IJCAI 2021: nas / snns / neural architecture / verification
+# IJCAI 2021: 神经架构搜索与模型设计
 
 - Topic ID: `16`
 - Papers: **18** (2.49%)

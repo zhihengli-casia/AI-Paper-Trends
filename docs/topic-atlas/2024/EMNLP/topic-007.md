@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **31** (2.44%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / dense / document / ranking`
 - Keyword pool: retrieval; dense; document; ranking; relevance; legal; query; retrievers; search; passage; indexing; biomedical
 

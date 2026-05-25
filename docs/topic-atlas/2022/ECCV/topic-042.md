@@ -1,8 +1,8 @@
-# ECCV 2022: 机器翻译与跨语言对齐
+# ECCV 2022: 图像到图像转换与风格迁移
 
 - Topic ID: `42`
 - Papers: **17** (1.03%)
-- Macro topic: NLP任务
+- Macro topic: 计算机视觉
 - English keywords: `color / filters / translation / arguments`
 - Keyword pool: color; filters; translation; arguments; curve; image-to-image; operator; grayscale; language; edited; modulation; extension
 

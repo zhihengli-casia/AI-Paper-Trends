@@ -1,8 +1,8 @@
-# NeurIPS 2022: LLM Agent 与工具使用
+# NeurIPS 2022: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `103`
 - Papers: **11** (0.41%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `fair / items / agents / valuations`
 - Keyword pool: fair; items; agents; valuations; envy-free; division; allocations; random selection; proportionality; pace; nonstationary; manipulable
 

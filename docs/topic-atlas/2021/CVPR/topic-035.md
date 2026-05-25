@@ -1,4 +1,4 @@
-# CVPR 2021: surface / meshes / cad / implicit
+# CVPR 2021: 3D 形状重建与隐式表示
 
 - Topic ID: `35`
 - Papers: **18** (1.08%)

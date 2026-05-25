@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **21** (1.15%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `reasoning / visual / few-shot / motion`
 - Keyword pool: reasoning; visual; few-shot; motion; concepts; tree; symbolic; curriculum; meta-learning; generator; logic; precision recall
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **19** (15.32%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `multi-agent / policy / safety / online`
 - Keyword pool: multi-agent; policy; safety; online; reward; algorithm; reinforcement learning; planning; risk-aware; target; multiple; constraints
 

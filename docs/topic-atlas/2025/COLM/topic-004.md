@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **29** (6.94%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `preference / reward / rlhf / human feedback`
 - Keyword pool: preference; reward; rlhf; human feedback; optimization; learning human; active; user; reinforcement learning; personalization; video; ranking
 

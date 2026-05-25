@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **29** (2.77%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / query / dense / document`
 - Keyword pool: retrieval; query; dense; document; queries; passages; relevance; generative; ranking; glen; index; corpus
 

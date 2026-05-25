@@ -1,4 +1,4 @@
-# CVPR 2020: editing / makeup / facial / face
+# CVPR 2020: 人脸分析、表情与属性建模
 
 - Topic ID: `42`
 - Papers: **16** (1.09%)

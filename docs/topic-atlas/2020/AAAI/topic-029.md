@@ -1,4 +1,4 @@
-# AAAI 2020: face / facial / style / image
+# AAAI 2020: 人脸分析、表情与属性建模
 
 - Topic ID: `29`
 - Papers: **20** (1.25%)

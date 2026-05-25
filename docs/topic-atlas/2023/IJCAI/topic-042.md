@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **9** (1.06%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `anomaly / detection / fraud / isolation`
 - Keyword pool: anomaly; detection; fraud; isolation; outlier; public health; graph; anomalous; streams; rating; organized; multi-relation
 

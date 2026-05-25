@@ -1,8 +1,8 @@
-# IJCAI 2022: extraction / entity / document-level / relation
+# IJCAI 2022: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `47`
 - Papers: **9** (1.04%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: NLP任务
 - English keywords: `extraction / entity / document-level / relation`
 - Keyword pool: extraction; entity; document-level; relation; span; entities; nested; tagging; amr; sentences; pre-defined; ner
 

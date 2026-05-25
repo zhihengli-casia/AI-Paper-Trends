@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **35** (1.16%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `causal / variables / fairness / conditional`
 - Keyword pool: causal; variables; fairness; conditional; discovery; conformal; macro; observational; graph; transition matrix; confounding; traffic
 

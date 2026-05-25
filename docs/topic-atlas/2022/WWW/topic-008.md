@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **19** (5.22%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: AI4Science/医疗
 - English keywords: `document / ranking / retrieval / pages`
 - Keyword pool: document; ranking; retrieval; pages; embeddings; search; product; sparse; disease; fine-tuning; lightweight; similarity
 

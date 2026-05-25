@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **23** (4.86%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `compressed / temporal / compression / frames`
 - Keyword pool: compressed; temporal; compression; frames; quality; videos; coding; enhancement; motion; bitstream; super-resolution; optical
 

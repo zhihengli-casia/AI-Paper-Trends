@@ -1,8 +1,8 @@
-# CVPR 2020: 语音/音频语言模型
+# CVPR 2020: 视频动作识别与时序定位
 
 - Topic ID: `19`
 - Papers: **21** (1.43%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `video / action / self-supervised / representation learning`
 - Keyword pool: video; action; self-supervised; representation learning; unsupervised; multi-modal; representations; audio; modalities; invariances; zsl; classification
 

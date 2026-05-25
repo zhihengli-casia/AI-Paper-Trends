@@ -2,7 +2,7 @@
 
 - Topic ID: `91`
 - Papers: **11** (0.49%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `privacy / llms / private / sensitive information`
 - Keyword pool: privacy; llms; private; sensitive information; in-context; icl; datastore; medical; prompt; debate; attacks; leak
 

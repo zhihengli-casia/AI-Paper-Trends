@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **9** (7.26%)
-- Macro topic: 生成模型
+- Macro topic: 强化学习/决策
 - English keywords: `programming / answer set / stochastic / genetic`
 - Keyword pool: programming; answer set; stochastic; genetic; planning; problems; error; population; fixed; expected utility; criterion; partial
 

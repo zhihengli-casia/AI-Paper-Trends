@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **22** (3.10%)
-- Macro topic: NLP任务
+- Macro topic: 强化学习/决策
 - English keywords: `explanations / weights / counterfactual / simplification`
 - Keyword pool: explanations; weights; counterfactual; simplification; rationales; reward; shapley; faithfulness; examples; table-to-text; interpretability; explain
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **19** (5.12%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: NLP任务
 - English keywords: `deep / selection / meta-learning / recognition`
 - Keyword pool: deep; selection; meta-learning; recognition; entity; contrastive; search; reinforcement; active; feature; multi-task; query
 

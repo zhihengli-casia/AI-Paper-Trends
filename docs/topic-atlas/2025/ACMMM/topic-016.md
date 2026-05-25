@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **27** (2.16%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `hallucination / lvlms / multimodal / news`
 - Keyword pool: hallucination; lvlms; multimodal; news; spiking; vision-language; tokens; brain; multi-image; cognitive; remember; sense
 

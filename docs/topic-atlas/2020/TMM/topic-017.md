@@ -1,8 +1,8 @@
-# TMM 2020: pedestrian / attribute / vehicle / person
+# TMM 2020: 行人重识别与人群计数
 
 - Topic ID: `17`
 - Papers: **10** (2.48%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `pedestrian / attribute / vehicle / person`
 - Keyword pool: pedestrian; attribute; vehicle; person; re-identification; group; reasoning; relations; retrieval; graph; surveillance; individuals
 

@@ -1,8 +1,8 @@
-# NeurIPS 2025: Mamba 与状态空间视觉模型
+# NeurIPS 2025: 神经架构搜索与模型设计
 
 - Topic ID: `64`
 - Papers: **36** (0.68%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `mamba / ssms / rnns / nas`
 - Keyword pool: mamba; ssms; rnns; nas; diagonal; dynamical; recurrent; state-space; sequence modeling; transformers; matrices; long-range
 

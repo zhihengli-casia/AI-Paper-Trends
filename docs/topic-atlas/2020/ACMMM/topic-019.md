@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **12** (2.54%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `attack / adversarial / defense / examples`
 - Keyword pool: attack; adversarial; defense; examples; captioning; dnn; perturbation; classifier; authentication; shown; deep image; imagenet
 

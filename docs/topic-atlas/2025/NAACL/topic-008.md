@@ -1,8 +1,8 @@
-# NAACL 2025: 机器翻译与跨语言对齐
+# NAACL 2025: 语音翻译与跨语言语音处理
 
 - Topic ID: `8`
 - Papers: **23** (3.20%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `speech / audio / diffusion / pronunciation`
 - Keyword pool: speech; audio; diffusion; pronunciation; asr; representations; zero-shot; cross-attention; recognition; translation; priors; conversations
 

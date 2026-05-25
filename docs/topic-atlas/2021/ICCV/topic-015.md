@@ -1,4 +1,4 @@
-# ICCV 2021: pose / body / human / estimation
+# ICCV 2021: 人体姿态估计与运动理解
 
 - Topic ID: `15`
 - Papers: **26** (1.61%)

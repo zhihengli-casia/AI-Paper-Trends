@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **18** (2.24%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `recommendation / mml / graph / neural network`
 - Keyword pool: recommendation; mml; graph; neural network; dynamic; forecasting; stock; prediction; topology; community; heterogeneous; random
 

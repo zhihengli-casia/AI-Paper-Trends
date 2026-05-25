@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **4** (10.26%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `neural / knowledge / mind / local context short`
 - Keyword pool: neural; knowledge; mind; local context short; neurons; language-agnostic; topic; tongues deep dive; reasoning relational; relational digraph; recommendation intent identification; analyzing bullet
 

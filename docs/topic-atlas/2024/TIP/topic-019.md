@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **12** (2.51%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `video / emotional / clip / concepts`
 - Keyword pool: video; emotional; clip; concepts; event; graph; temporal; cross-modal; answering; question; object; long-term
 

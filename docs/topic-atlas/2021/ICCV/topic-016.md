@@ -1,8 +1,8 @@
-# ICCV 2021: clustering / table / 图学习 / seed
+# ICCV 2021: 行人重识别与人群计数
 
 - Topic ID: `16`
 - Papers: **25** (1.55%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `clustering / table / graph / seed`
 - Keyword pool: clustering; table; graph; seed; crowd; counting; capsule; pyramid network; feature pyramid; alignment; kernel; matching
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **12** (1.45%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / private / attacks / membership`
 - Keyword pool: privacy; private; attacks; membership; risks; emojis; leakage; policies; inference; machine learning; cloud; substitution
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **17** (1.84%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `clustering / multi-view / graph / subspace`
 - Keyword pool: clustering; multi-view; graph; subspace; lifelong; anchor; synergistic; incomplete; regularization; structural; sparse; adversarial
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **17** (2.46%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `hashing / cross-media / retrieval / attack`
 - Keyword pool: hashing; cross-media; retrieval; attack; unsupervised; samples; ranking; codes; web images; expansion; heart; backdoor
 

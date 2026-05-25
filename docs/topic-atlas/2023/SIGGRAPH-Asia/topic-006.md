@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **8** (6.90%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `character / embedding / adversarial / animation`
 - Keyword pool: character; embedding; adversarial; animation; motion; movements; multibody; ace; muscle-actuated; musclevae; nonhuman; morphology
 

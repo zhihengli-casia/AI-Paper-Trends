@@ -1,8 +1,8 @@
-# ACMMM 2025: 多模态情感理解
+# ACMMM 2025: 情感识别与多模态情绪理解
 
 - Topic ID: `0`
 - Papers: **71** (5.68%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `emotion / multimodal / eeg / recognition`
 - Keyword pool: emotion; multimodal; eeg; recognition; facial; reasoning; cognitive; sentiment; gaze; social; understanding; modalities
 

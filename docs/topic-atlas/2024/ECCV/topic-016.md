@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **34** (1.42%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `pruning / networks / neural / weights`
 - Keyword pool: pruning; networks; neural; weights; search; architectures; diode; activation; federated; imagenet-1k; synthetic; gradient
 

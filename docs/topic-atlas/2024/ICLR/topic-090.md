@@ -1,8 +1,8 @@
-# ICLR 2024: symbolic / sat / branching / combinatorial optimization
+# ICLR 2024: 组合优化与神经求解
 
 - Topic ID: `90`
 - Papers: **12** (0.53%)
-- Macro topic: 强化学习/决策
+- Macro topic: 理论/优化
 - English keywords: `symbolic / sat / branching / combinatorial optimization`
 - Keyword pool: symbolic; sat; branching; combinatorial optimization; mip; integer; solving; solvers; optimizers; numeric; packing; snip
 

@@ -1,8 +1,8 @@
-# NAACL 2025: 多智能体协作与规划
+# NAACL 2025: LLM Agent 与工具使用
 
 - Topic ID: `33`
 - Papers: **10** (1.39%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `agents / environments / tool / windows`
 - Keyword pool: agents; environments; tool; windows; autonomous; trajectories; multi-agent; mobile; llm-based; robots; page; high-level
 

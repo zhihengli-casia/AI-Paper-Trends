@@ -1,4 +1,4 @@
-# TNNLS 2023: person / re-id / images / semantic
+# TNNLS 2023: 领域自适应与迁移学习
 
 - Topic ID: `54`
 - Papers: **9** (0.88%)

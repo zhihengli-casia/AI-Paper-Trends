@@ -1,8 +1,8 @@
-# EMNLP 2021: dialogue / conversation / response generation / knowledge-grounded
+# EMNLP 2021: 对话系统与会话建模
 
 - Topic ID: `30`
 - Papers: **11** (1.30%)
-- Macro topic: 生成模型
+- Macro topic: NLP任务
 - English keywords: `dialogue / conversation / response generation / knowledge-grounded`
 - Keyword pool: dialogue; conversation; response generation; knowledge-grounded; reasoning; entity; responses; crs; informative; knowledge base; intention; kgs
 

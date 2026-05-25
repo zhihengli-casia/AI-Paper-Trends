@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **20** (4.87%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `students / reasoning / diagnosis / entities`
 - Keyword pool: students; reasoning; diagnosis; entities; entity; kgs; response; relations; logical; mastery; cognitive; inductive
 

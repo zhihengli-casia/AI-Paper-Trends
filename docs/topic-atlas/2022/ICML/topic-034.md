@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **15** (1.22%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `bounds / meta-learning / opt / pac-bayesian`
 - Keyword pool: bounds; meta-learning; opt; pac-bayesian; halfspaces; uniform convergence; risk; functionals; generalization; bias; noise; logistic
 

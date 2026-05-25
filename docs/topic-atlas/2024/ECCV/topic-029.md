@@ -1,8 +1,8 @@
-# ECCV 2024: 视频动作生成与运动控制
+# ECCV 2024: 视频动作识别与时序定位
 
 - Topic ID: `29`
 - Papers: **24** (1.01%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `action / temporal / recognition / video`
 - Keyword pool: action; temporal; recognition; video; quality assessment; motion-language; semi-supervised; localization; boundaries; online; atomic; tas
 

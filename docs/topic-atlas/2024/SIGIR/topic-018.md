@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **6** (2.80%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attack / graph / step`
 - Keyword pool: adversarial; attack; graph; step; entity; perturbations; multi-modal; rules; completion; native; inductive; question
 

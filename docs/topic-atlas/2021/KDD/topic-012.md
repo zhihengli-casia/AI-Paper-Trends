@@ -1,8 +1,8 @@
-# KDD 2021: 文档摘要与信息压缩
+# KDD 2021: 摘要生成与信息压缩
 
 - Topic ID: `12`
 - Papers: **10** (4.18%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `graphs / vertices / subgraph / summarization`
 - Keyword pool: graphs; vertices; subgraph; summarization; algorithms; exact; approximation; independent; weighted; orders magnitude; dense; constant
 

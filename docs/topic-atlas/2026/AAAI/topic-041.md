@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **39** (0.94%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `clustering / fairness / k-means / sensitive`
 - Keyword pool: clustering; fairness; k-means; sensitive; groups; approximation; categorical; parity; clusters; algorithms; demographic; kernel
 

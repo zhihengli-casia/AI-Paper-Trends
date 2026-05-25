@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **14** (0.65%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `captioning / captions / tags / dall-e`
 - Keyword pool: captioning; captions; tags; dall-e; web-crawled; language; scene-text; video; decoding; compressed; captioner; commonsense
 

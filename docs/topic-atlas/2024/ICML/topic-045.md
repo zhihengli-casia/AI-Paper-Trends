@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **23** (0.88%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 推荐/检索/排序
 - English keywords: `hopfield / memory / rnn / associative`
 - Keyword pool: hopfield; memory; rnn; associative; ssms; state-space; retrieval; modern; sequence; reparameterization; recurrent; dynamics
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `75`
 - Papers: **12** (0.58%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `lane / driving / road / autonomous`
 - Keyword pool: lane; driving; road; autonomous; perception; topology; panoptic segmentation; weather; curve; vehicle; conditions; structurally
 

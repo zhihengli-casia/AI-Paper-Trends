@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **10** (1.06%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `event / argument / causality / extraction`
 - Keyword pool: event; argument; causality; extraction; definitions; coreference; cross-document; identification; narrative; relation; resolution; types
 

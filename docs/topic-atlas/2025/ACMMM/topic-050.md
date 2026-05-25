@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **11** (0.88%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / vqa / clinical / incremental`
 - Keyword pool: medical; vqa; clinical; incremental; negatives; diagnostic; hard; lifelong; vision-language; multi-task; x-ray; multimodal
 

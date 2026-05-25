@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **15** (16.30%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `mechanisms / facilities / agent / subsidy`
 - Keyword pool: mechanisms; facilities; agent; subsidy; committee; candidates; truthful; cost; allocation; metric; facility location; number
 

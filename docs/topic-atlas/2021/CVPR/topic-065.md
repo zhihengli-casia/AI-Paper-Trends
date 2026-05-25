@@ -2,7 +2,7 @@
 
 - Topic ID: `65`
 - Papers: **13** (0.78%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 多模态/VLM
 - English keywords: `moment / video / event / sentence`
 - Keyword pool: moment; video; event; sentence; captioning; grounding; untrimmed; query; language; sign; temporal; activitynet
 

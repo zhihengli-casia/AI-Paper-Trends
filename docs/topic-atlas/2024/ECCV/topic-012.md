@@ -1,8 +1,8 @@
-# ECCV 2024: 医疗健康与临床 AI
+# ECCV 2024: 医学影像分割
 
 - Topic ID: `12`
 - Papers: **41** (1.72%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / slide / clinical / counterfactual`
 - Keyword pool: medical; slide; clinical; counterfactual; image segmentation; imaging; classification; surgical; diagnosis; semi-supervised; instance; report
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **10** (0.79%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `jailbreak / attack / harmful / defense`
 - Keyword pool: jailbreak; attack; harmful; defense; adversarial; bait; intention; suffixes; arabic; fallacious; harmless; prompts
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `76`
 - Papers: **10** (0.60%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `mr image / clinical / resonance / magnetic`
 - Keyword pool: mr image; clinical; resonance; magnetic; lesion; imaging; anatomical; tracking; sensitivity; diffusion; registration; image reconstruction
 

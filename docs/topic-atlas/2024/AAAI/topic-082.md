@@ -1,8 +1,8 @@
-# AAAI 2024: 视频理解/生成 / grounding / localization / temporal
+# AAAI 2024: 视频时刻定位与文本检索
 
 - Topic ID: `82`
 - Papers: **13** (0.56%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `video / grounding / localization / temporal`
 - Keyword pool: video; grounding; localization; temporal; semantic; object; sentence; moment; captions; query; events; commonsense
 

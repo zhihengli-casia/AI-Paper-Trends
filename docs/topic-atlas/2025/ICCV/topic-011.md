@@ -1,8 +1,8 @@
-# ICCV 2025: LiDAR 点云与 3D 感知
+# ICCV 2025: 相机姿态估计与几何重建
 
 - Topic ID: `11`
 - Papers: **44** (1.63%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `lidar / object detection / localization / pose`
 - Keyword pool: lidar; object detection; localization; pose; estimation; point; camera; aerial; bev; rotation; uncertainty; nuscenes
 

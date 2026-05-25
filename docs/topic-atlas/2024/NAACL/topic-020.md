@@ -1,8 +1,8 @@
-# NAACL 2024: extraction / relation / entity / topic
+# NAACL 2024: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `20`
 - Papers: **12** (2.14%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `extraction / relation / entity / topic`
 - Keyword pool: extraction; relation; entity; topic; entities; materials; spatial; triple; confusion; genres; matching; coreference
 

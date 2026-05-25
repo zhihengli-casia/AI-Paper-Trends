@@ -1,8 +1,8 @@
-# ACMMM 2023: 语音/音频语言模型
+# ACMMM 2023: 语音理解、识别与交互
 
 - Topic ID: `21`
 - Papers: **17** (1.88%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `animation / motion / facial / gesture`
 - Keyword pool: animation; motion; facial; gesture; movements; dance; lip; generation; speech; video; talking; cultural
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `63`
 - Papers: **20** (0.77%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `wasserstein / distance / spherical / gaussian`
 - Keyword pool: wasserstein; distance; spherical; gaussian; sliced; uncertainty; gps; kernel; measures; slicing; probability; sampling
 

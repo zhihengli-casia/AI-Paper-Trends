@@ -1,8 +1,8 @@
-# PR 2025: 目标检测与图像分割
+# PR 2025: 图像分割、语义分割与场景解析
 
 - Topic ID: `20`
 - Papers: **22** (1.46%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `image / video / enhancement / contour`
 - Keyword pool: image; video; enhancement; contour; compression; active; error; computational; segmentation; correction; attack; restoration
 

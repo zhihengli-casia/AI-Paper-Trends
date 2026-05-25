@@ -1,8 +1,8 @@
-# WWW 2024: 机器翻译与跨语言对齐
+# WWW 2024: 跨域转换与序列转换
 
 - Topic ID: `8`
 - Papers: **18** (4.46%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `llms / translation / entity / completion`
 - Keyword pool: llms; translation; entity; completion; retrieval; disambiguation; zero-shot; fact-checking; chatgpt; topics; multi-modal; causal relationships
 

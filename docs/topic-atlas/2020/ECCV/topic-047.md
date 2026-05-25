@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **13** (0.96%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `video / compression / frames / motion`
 - Keyword pool: video; compression; frames; motion; interpolation; temporal; bilateral; coding; multi-frame; flow; super-resolution; recurrent
 

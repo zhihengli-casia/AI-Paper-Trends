@@ -1,4 +1,4 @@
-# AAAI 2022: person / re-identification / domain / pseudo
+# AAAI 2022: 行人重识别与人群计数
 
 - Topic ID: `66`
 - Papers: **9** (0.68%)

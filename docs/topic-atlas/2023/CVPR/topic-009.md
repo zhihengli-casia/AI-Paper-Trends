@@ -1,8 +1,8 @@
-# CVPR 2023: action / temporal / 视频理解/生成 / recognition
+# CVPR 2023: 视频动作识别与时序定位
 
 - Topic ID: `9`
 - Papers: **39** (1.66%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `action / temporal / video / recognition`
 - Keyword pool: action; temporal; video; recognition; localization; causality; pooling; relation; skeleton-based; frames; weakly-supervised; tal
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **37** (1.42%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / clients / learning fl / heterogeneity`
 - Keyword pool: federated; clients; learning fl; heterogeneity; local; participation; global; communication; heterogeneous; privacy; convergence; personalized
 

@@ -1,8 +1,8 @@
-# MICCAI 2025: 医学影像病灶分析
+# MICCAI 2025: 多模态融合与跨模态表示
 
 - Topic ID: `0`
 - Papers: **14** (21.54%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `classification / fusion network / detection / feature fusion`
 - Keyword pool: classification; fusion network; detection; feature fusion; cancer; multi-modal; cervical; tumor; lesion; images; multi-sequence mr; multimodal fusion
 

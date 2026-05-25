@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **42** (10.77%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `language / learning / llms / recommendation`
 - Keyword pool: language; learning; llms; recommendation; reinforcement; visualization; reasoning; interactive; representation; retrieval augmented; explainable; retrieval-augmented
 

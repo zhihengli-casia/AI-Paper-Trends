@@ -1,8 +1,8 @@
-# WWW 2021: 语音/音频语言模型
+# WWW 2021: 语音理解、识别与交互
 
 - Topic ID: `6`
 - Papers: **20** (5.63%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 语音/音频/音乐
 - English keywords: `conversations / emotion / speech / app`
 - Keyword pool: conversations; emotion; speech; app; media; people; news; political; covid-19; messages; lexical; health
 

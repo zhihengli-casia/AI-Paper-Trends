@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **17** (0.75%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 强化学习/决策
 - English keywords: `bayesian optimization / gaussian / stochastic / optimization bo`
 - Keyword pool: bayesian optimization; gaussian; stochastic; optimization bo; bnns; robust optimization; black-box; optimizer; filtering; policy search; risk measures; moo
 

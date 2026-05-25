@@ -2,7 +2,7 @@
 
 - Topic ID: `129`
 - Papers: **12** (0.36%)
-- Macro topic: 生成模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `graph / diffusion / generative / discrete`
 - Keyword pool: graph; diffusion; generative; discrete; social; sampling; topological information; noises; flow matching; quantization; pseudo-anomalous; size generalization
 

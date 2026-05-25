@@ -2,7 +2,7 @@
 
 - Topic ID: `74`
 - Papers: **34** (0.64%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `imaging / deblurring / restoration / reconstruction`
 - Keyword pool: imaging; deblurring; restoration; reconstruction; inverse; spectral; diffusion; mri; denoising; denoisers; images; measurement
 

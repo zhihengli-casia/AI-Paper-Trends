@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **36** (1.08%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `llms / agents / planning / reasoning`
 - Keyword pool: llms; agents; planning; reasoning; search; exploration; policy; action; strategic; decision-making; reinforcement learning; tree
 

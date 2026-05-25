@@ -2,7 +2,7 @@
 
 - Topic ID: `78`
 - Papers: **16** (0.59%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `identity / facial / swapping / text-to-video`
 - Keyword pool: identity; facial; swapping; text-to-video; video generation; videos; player; head; motion; image-to-video; reward; prompts
 

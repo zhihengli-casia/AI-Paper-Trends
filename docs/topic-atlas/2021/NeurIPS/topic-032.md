@@ -1,4 +1,4 @@
-# NeurIPS 2021: domain / adaptation / source / unlabeled target
+# NeurIPS 2021: 领域自适应与迁移学习
 
 - Topic ID: `32`
 - Papers: **27** (1.16%)

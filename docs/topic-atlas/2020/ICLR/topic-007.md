@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **24** (3.49%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 系统/效率/压缩
 - English keywords: `ntk / relu / tangent / activation`
 - Keyword pool: ntk; relu; tangent; activation; width; linear; kernel; minima; units; descent; weights; multiplicative
 

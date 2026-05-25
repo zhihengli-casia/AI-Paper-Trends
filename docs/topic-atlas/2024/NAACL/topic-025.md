@@ -1,8 +1,8 @@
-# NAACL 2024: 语音/音频语言模型
+# NAACL 2024: 仇恨言论与有害内容检测
 
 - Topic ID: `25`
 - Papers: **10** (1.78%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `hate speech / toxic speech / adversarial / speech detection`
 - Keyword pool: hate speech; toxic speech; adversarial; speech detection; narrative; distinction; countries; annotators; social media; explanation; cross-cultural; statements
 

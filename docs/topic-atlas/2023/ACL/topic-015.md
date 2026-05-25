@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **21** (1.95%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `plms / pretraining / calibration / injected`
 - Keyword pool: plms; pretraining; calibration; injected; injection; downstream; output; attribution; gpt-3; entities; track; recommender
 

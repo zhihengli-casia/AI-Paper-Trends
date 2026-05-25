@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **12** (0.66%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `regret / delayed / bandits / feedback`
 - Keyword pool: regret; delayed; bandits; feedback; action; bandit learning; online; schedules; learning rate; observations; mab; adversarial
 

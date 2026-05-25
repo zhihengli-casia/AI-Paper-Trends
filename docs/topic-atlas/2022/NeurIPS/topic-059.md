@@ -2,7 +2,7 @@
 
 - Topic ID: `59`
 - Papers: **19** (0.71%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `sliced / wasserstein / clustering / coreset`
 - Keyword pool: sliced; wasserstein; clustering; coreset; smi; means; probability measures; kernel; distances; euclidean; amortized; volume
 

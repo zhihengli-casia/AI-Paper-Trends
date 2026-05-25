@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **17** (1.98%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `language / fine-tuning / contrastive / generation`
 - Keyword pool: language; fine-tuning; contrastive; generation; bert; pretrained; natural; nlp; dialogue; encoders; fine-tuned; pre-trained
 

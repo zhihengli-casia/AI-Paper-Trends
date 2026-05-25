@@ -1,8 +1,8 @@
-# TPAMI 2021: 对抗攻击、鲁棒性与安全
+# TPAMI 2021: 神经架构搜索与模型设计
 
 - Topic ID: `18`
 - Papers: **15** (2.72%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `search / nas / neural architecture / routing`
 - Keyword pool: search; nas; neural architecture; routing; architectures; generative; adversarial; normalization; efficiency; transitions; layout; mappings
 

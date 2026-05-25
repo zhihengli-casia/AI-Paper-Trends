@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **16** (1.02%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `spiking / brain / temporal / neurons`
 - Keyword pool: spiking; brain; temporal; neurons; eeg; dynamics; neural networks; bns; concentration; sensory; gate; visual
 

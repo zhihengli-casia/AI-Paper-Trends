@@ -1,4 +1,4 @@
-# ECCV 2024: mesh / body / camera / 运动建模
+# ECCV 2024: 人体姿态估计与运动理解
 
 - Topic ID: `41`
 - Papers: **21** (0.88%)

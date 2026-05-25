@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **18** (2.54%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `image / captions / cross-modal / medical`
 - Keyword pool: image; captions; cross-modal; medical; visual; pre-training; captioning; report; review; multi-modal; texts; clinical
 

@@ -1,8 +1,8 @@
-# ICML 2023: 目标检测与图像分割
+# ICML 2023: 医学影像分割
 
 - Topic ID: `10`
 - Papers: **32** (1.75%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `label / semi-supervised / augmentation / noisy`
 - Keyword pool: label; semi-supervised; augmentation; noisy; anomaly; noise; consistency regularization; detection; medical; transition matrix; segmentation; candidate
 

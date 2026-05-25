@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **25** (1.11%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / lora / low-rank / llms`
 - Keyword pool: quantization; lora; low-rank; llms; ptq; quantized; bit; compression; fine-tuning; weights; memory; adaptation
 

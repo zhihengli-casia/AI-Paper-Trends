@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **20** (2.42%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `classification / zero-shot / hierarchy / clinical`
 - Keyword pool: classification; zero-shot; hierarchy; clinical; domain; news; recommendation; plms; prompting; label; hierarchies; sentiment
 

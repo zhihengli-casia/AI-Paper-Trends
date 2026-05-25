@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **9** (0.86%)
-- Macro topic: 理论/优化
+- Macro topic: 计算机视觉
 - English keywords: `games / player / facilitating / video`
 - Keyword pool: games; player; facilitating; video; mechanics; balancing; regarding; expert; similarity; reflection; optimization; feasibility
 

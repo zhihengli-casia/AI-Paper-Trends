@@ -1,8 +1,8 @@
-# IJCAI 2024: 语音/音频语言模型
+# IJCAI 2024: 说话人建模与语音表征
 
 - Topic ID: `47`
 - Papers: **12** (1.15%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `speech / audio / spoken / speaker`
 - Keyword pool: speech; audio; spoken; speaker; acoustic; transcripts; pre-training; modality; language; ssl; eeg; enhancement
 

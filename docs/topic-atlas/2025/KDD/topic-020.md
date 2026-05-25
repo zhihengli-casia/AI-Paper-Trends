@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **11** (1.99%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `causal / discovery / cell / variables`
 - Keyword pool: causal; discovery; cell; variables; gene; regulatory; time-evolving; score; conditional; imputation; subpopulations; kernel-based
 

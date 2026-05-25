@@ -1,8 +1,8 @@
-# EMNLP 2022: 语音/音频语言模型
+# EMNLP 2022: 语音理解、识别与交互
 
 - Topic ID: `44`
 - Papers: **9** (1.09%)
-- Macro topic: 多模态/VLM
+- Macro topic: 语音/音频/音乐
 - English keywords: `hate / speech / detection / classification`
 - Keyword pool: hate; speech; detection; classification; harmful; online; practices; offensiveness; counter; chatbot; cases; chinese
 

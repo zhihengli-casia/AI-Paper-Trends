@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **18** (3.03%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `question / reasoning / answering / vqa`
 - Keyword pool: question; reasoning; answering; vqa; llms; video; italic; scene; symbolic; metaphorical; compositional; temporal
 

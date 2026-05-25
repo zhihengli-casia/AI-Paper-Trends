@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **15** (2.08%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `patients / clinical / disease / attention`
 - Keyword pool: patients; clinical; disease; attention; cues; detection; diagnosis; multimodal; progression; prediction; social; covid-19
 

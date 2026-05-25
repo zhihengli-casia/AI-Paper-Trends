@@ -1,8 +1,8 @@
-# ECCV 2024: 目标检测与图像分割
+# ECCV 2024: 医学影像分割
 
 - Topic ID: `97`
 - Papers: **11** (0.46%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `sam / image segmentation / medical / ultrasound`
 - Keyword pool: sam; image segmentation; medical; ultrasound; breast; dsa; scatter; ptq; infrared; encoder; surgery; masses
 

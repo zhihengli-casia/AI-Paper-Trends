@@ -1,4 +1,4 @@
-# IJCV 2023: neural architecture / search / dense prediction / architectures
+# IJCV 2023: 神经架构搜索与模型设计
 
 - Topic ID: `10`
 - Papers: **10** (4.50%)

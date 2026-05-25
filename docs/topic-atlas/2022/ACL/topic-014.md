@@ -1,8 +1,8 @@
-# ACL 2022: LLM Agent 与工具使用
+# ACL 2022: 对话系统与会话智能体
 
 - Topic ID: `14`
 - Papers: **20** (2.86%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `dialog / commonsense / responses / goals`
 - Keyword pool: dialog; commonsense; responses; goals; safety; actions; conversational; reasoning; agents; memory; feedback; environment
 

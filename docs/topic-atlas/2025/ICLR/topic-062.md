@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **25** (0.68%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / guardrail / harmful / alignment`
 - Keyword pool: safety; guardrail; harmful; alignment; llms; unsafe; refusal; severity; categories; moderation; defense; helpfulness
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `96`
 - Papers: **17** (0.51%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / video / image / dits`
 - Keyword pool: diffusion; video; image; dits; transformers; caching; cache; sta; quantization; rendering; quality; compression
 

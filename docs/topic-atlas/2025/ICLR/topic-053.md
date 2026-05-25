@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **27** (0.73%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `mode connectivity / neural networks / sam / implicit bias`
 - Keyword pool: mode connectivity; neural networks; sam; implicit bias; edge stability; lmc; sharpness; loss landscape; stationary points; linear mode; descent; star
 

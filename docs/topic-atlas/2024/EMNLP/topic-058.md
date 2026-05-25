@@ -2,7 +2,7 @@
 
 - Topic ID: `58`
 - Papers: **9** (0.71%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `reward / reinforcement learning / weighting / rlhf`
 - Keyword pool: reward; reinforcement learning; weighting; rlhf; proxy; feedback; prompt tuning; learning human; learning rl; critic; policy; alignment
 

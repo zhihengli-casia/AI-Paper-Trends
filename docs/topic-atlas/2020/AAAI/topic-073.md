@@ -2,7 +2,7 @@
 
 - Topic ID: `73`
 - Papers: **11** (0.69%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `distillation / student / teacher / network compression`
 - Keyword pool: distillation; student; teacher; network compression; low-resolution; peers; internal; short-term; oracle; architecture search; image recognition; images
 

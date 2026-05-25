@@ -2,7 +2,7 @@
 
 - Topic ID: `64`
 - Papers: **13** (0.77%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `political / bias / opinion / survey`
 - Keyword pool: political; bias; opinion; survey; partisan; public; prism; metaphor; social; effects; discourse; inferences
 

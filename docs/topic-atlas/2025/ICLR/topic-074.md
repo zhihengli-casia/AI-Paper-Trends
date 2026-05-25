@@ -2,7 +2,7 @@
 
 - Topic ID: `74`
 - Papers: **24** (0.65%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `visual / vlms / mllms / referring`
 - Keyword pool: visual; vlms; mllms; referring; reasoning; vision-language; multimodal; situated; association; expression; analogical; brain
 

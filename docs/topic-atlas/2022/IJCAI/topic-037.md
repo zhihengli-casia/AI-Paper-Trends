@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **11** (1.28%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `transformer / vision / pyramid / landmark`
 - Keyword pool: transformer; vision; pyramid; landmark; image; test-time; facial; quantized; density; tracking; keys; lesion
 

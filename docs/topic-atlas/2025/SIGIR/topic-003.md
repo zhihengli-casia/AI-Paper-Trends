@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **18** (7.53%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `recommendation / sequential / diffusion / items`
 - Keyword pool: recommendation; sequential; diffusion; items; interests; attack; augmentation; preferences; sequence; exposure; social; guidance
 

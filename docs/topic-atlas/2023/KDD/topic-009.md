@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **12** (3.83%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `style / token / topic / hierarchy`
 - Keyword pool: style; token; topic; hierarchy; transformer; sequence; pipeline; encoding; plms; pruning; pathways; heterogeneous
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **19** (1.75%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `clustering / k-means / fairness / nearest`
 - Keyword pool: clustering; k-means; fairness; nearest; approximation; coreset; distributed; streaming; constant; outliers; factor; search
 

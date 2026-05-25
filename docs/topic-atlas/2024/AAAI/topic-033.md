@@ -1,8 +1,8 @@
-# AAAI 2024: 隐私保护与安全学习
+# AAAI 2024: 行人重识别与人群计数
 
 - Topic ID: `33`
 - Papers: **26** (1.12%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `person search / tabular / retrieval / hash`
 - Keyword pool: person search; tabular; retrieval; hash; old; table; images; ehr; cross-domain; re-identification; unsupervised; privacy
 

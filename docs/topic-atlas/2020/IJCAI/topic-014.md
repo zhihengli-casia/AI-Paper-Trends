@@ -1,8 +1,8 @@
-# IJCAI 2020: 对抗攻击、鲁棒性与安全
+# IJCAI 2020: 领域自适应与迁移学习
 
 - Topic ID: `14`
 - Papers: **17** (2.19%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 生成模型
 - English keywords: `adversarial / anomaly / detection / generative`
 - Keyword pool: adversarial; anomaly; detection; generative; domain; anomalies; attacks; adaptation; detector; fake; unsupervised; salient features
 

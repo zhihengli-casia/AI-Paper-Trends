@@ -1,8 +1,8 @@
-# TMM 2026: moment / 视频理解/生成 / event / temporal
+# TMM 2026: 视频时刻定位与文本检索
 
 - Topic ID: `15`
 - Papers: **17** (2.86%)
-- Macro topic: 理论/优化
+- Macro topic: 计算机视觉
 - English keywords: `moment / video / event / temporal`
 - Keyword pool: moment; video; event; temporal; grounding; sentence; boundary; pseudo; untrimmed; dialog; localization; snow
 

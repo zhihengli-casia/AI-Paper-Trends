@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **23** (0.98%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `event / polarization / cameras / interpolation`
 - Keyword pool: event; polarization; cameras; interpolation; motion; exposure; frame; deblurring; temporal; dynamic range; hdr; latency
 

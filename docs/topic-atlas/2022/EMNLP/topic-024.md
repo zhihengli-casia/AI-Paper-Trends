@@ -1,8 +1,8 @@
-# EMNLP 2022: continual / spatial / domain / lms
+# EMNLP 2022: 领域自适应与迁移学习
 
 - Topic ID: `24`
 - Papers: **16** (1.93%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `continual / spatial / domain / lms`
 - Keyword pool: continual; spatial; domain; lms; instructions; acceptability; memory; general; forgetting; meta-learning; nmt; adaptation
 

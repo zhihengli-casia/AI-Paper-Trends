@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **16** (1.26%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `cot / analogies / rule / audio`
 - Keyword pool: cot; analogies; rule; audio; complex reasoning; recall; factual; questions; inference; reasoning llms; paths; symbolic
 

@@ -1,8 +1,8 @@
-# IJCAI 2022: LLM Agent 与工具使用
+# IJCAI 2022: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `21`
 - Papers: **16** (1.86%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `auctions / mechanisms / valuations / residential`
 - Keyword pool: auctions; mechanisms; valuations; residential; revenue; platforms; consumers; fourier; agency; online; fair; agents
 

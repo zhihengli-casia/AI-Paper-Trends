@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **10** (1.18%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `paraphrase / syntactic / pivot / paraphrasing`
 - Keyword pool: paraphrase; syntactic; pivot; paraphrasing; generating; feedback; comments; unsupervised; retrieval-based; candidates; vae; control
 

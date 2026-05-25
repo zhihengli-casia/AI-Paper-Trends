@@ -2,7 +2,7 @@
 
 - Topic ID: `67`
 - Papers: **11** (0.72%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `bandits / regret / communication / switching`
 - Keyword pool: bandits; regret; communication; switching; reward; contextual; multi-armed; variance-aware; federated; bound; kernelized; adversarial
 

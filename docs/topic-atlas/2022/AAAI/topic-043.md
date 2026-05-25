@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **14** (1.06%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `video / motion / optical flow / anomaly`
 - Keyword pool: video; motion; optical flow; anomaly; temporal; cross-modal; self-supervised; flow estimation; pretext; consistency; event; displacements
 

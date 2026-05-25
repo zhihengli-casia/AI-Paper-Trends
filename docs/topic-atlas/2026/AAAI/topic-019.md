@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **57** (1.37%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `anomaly / anomalies / normal / anomalous`
 - Keyword pool: anomaly; anomalies; normal; anomalous; industrial; unsupervised; defects; video; graphs; misinformation; neighborhoods; view
 

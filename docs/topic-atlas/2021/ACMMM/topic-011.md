@@ -1,4 +1,4 @@
-# ACMMM 2021: skeleton / 运动建模 / action / human
+# ACMMM 2021: 视频动作识别与时序定位
 
 - Topic ID: `11`
 - Papers: **18** (3.32%)

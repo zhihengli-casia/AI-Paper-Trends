@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **13** (3.57%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `graphs / subgraph / algorithm / mining`
 - Keyword pool: graphs; subgraph; algorithm; mining; frequent; maximal; similarity; dense; fairness; exact; search space; frequency
 

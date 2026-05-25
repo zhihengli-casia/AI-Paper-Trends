@@ -1,8 +1,8 @@
-# NeurIPS 2025: LLM Agent 与工具使用
+# NeurIPS 2025: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `69`
 - Papers: **35** (0.66%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `submodular / fairness / allocations / matroid`
 - Keyword pool: submodular; fairness; allocations; matroid; maximization; agents; opinion; welfare; monotone; social; randomized; value
 

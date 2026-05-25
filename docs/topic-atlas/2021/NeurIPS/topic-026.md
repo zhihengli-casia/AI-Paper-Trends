@@ -1,4 +1,4 @@
-# NeurIPS 2021: surface / rendering / reconstruction / scene
+# NeurIPS 2021: 3D 形状重建与隐式表示
 
 - Topic ID: `26`
 - Papers: **29** (1.24%)

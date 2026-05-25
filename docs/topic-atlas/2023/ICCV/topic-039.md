@@ -1,8 +1,8 @@
-# ICCV 2023: 语音/音频语言模型
+# ICCV 2023: 音视频多模态理解
 
 - Topic ID: `39`
 - Papers: **24** (1.11%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `video / temporal / audio-visual / class-incremental`
 - Keyword pool: video; temporal; audio-visual; class-incremental; space-time; frames; kinetics-400; surgical; motion; prompts; recognition; unmasked
 

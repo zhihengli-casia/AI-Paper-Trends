@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **23** (5.50%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `attention / quantization / cache / memory`
 - Keyword pool: attention; quantization; cache; memory; linear; transformer; recurrent; weights; compression; forget; video; long-context
 

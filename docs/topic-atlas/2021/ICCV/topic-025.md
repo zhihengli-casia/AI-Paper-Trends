@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **22** (1.36%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 计算机视觉
 - English keywords: `depth / monocular / estimation / self-supervised`
 - Keyword pool: depth; monocular; estimation; self-supervised; indoor; stereo; slide; day; maps; scale-invariant; camera; layering
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **12** (16.90%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `alzheimer / disease / diagnosis / detection`
 - Keyword pool: alzheimer; disease; diagnosis; detection; mri; sample; feature; network small; network hard; acquired; neurodegenerative; need multi-modal
 

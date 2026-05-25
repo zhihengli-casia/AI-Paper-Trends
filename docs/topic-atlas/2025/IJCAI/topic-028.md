@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **17** (1.33%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `feature / reinforcement learning / policy / demonstrations`
 - Keyword pool: feature; reinforcement learning; policy; demonstrations; llms; domain knowledge; generation; language; reuse; rules; goals; grounding
 

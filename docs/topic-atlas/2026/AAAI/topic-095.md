@@ -2,7 +2,7 @@
 
 - Topic ID: `95`
 - Papers: **20** (0.48%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 多模态/VLM
 - English keywords: `hashing / retrieval / cross-modal / hash codes`
 - Keyword pool: hashing; retrieval; cross-modal; hash codes; label; unsupervised; indexes; crops; modalities; domain adaptive; quantization; air
 

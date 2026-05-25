@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **12** (0.56%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / editing / diffusion / garment`
 - Keyword pool: video; editing; diffusion; garment; fashion; edits; synthesis; text-to-image; noise prior; t2i; frame; self-attention
 

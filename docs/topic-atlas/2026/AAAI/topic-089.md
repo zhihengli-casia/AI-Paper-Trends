@@ -1,8 +1,8 @@
-# AAAI 2026: 目标检测与图像分割
+# AAAI 2026: 图像分割、语义分割与场景解析
 
 - Topic ID: `89`
 - Papers: **21** (0.51%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `scene / segmentation / gaze / cross-view`
 - Keyword pool: scene; segmentation; gaze; cross-view; geo-localization; differential attention; affordance; egocentric; cross-modal; recognition; visual grounding; memory
 

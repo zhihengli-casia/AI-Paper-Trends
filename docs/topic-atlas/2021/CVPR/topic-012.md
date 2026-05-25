@@ -1,4 +1,4 @@
-# CVPR 2021: body / human / pose / mesh
+# CVPR 2021: 人体姿态估计与运动理解
 
 - Topic ID: `12`
 - Papers: **27** (1.63%)

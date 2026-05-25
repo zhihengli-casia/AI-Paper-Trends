@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **9** (2.88%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `contrastive / node / views / adversarial`
 - Keyword pool: contrastive; node; views; adversarial; negative; sampling; self-supervised; classes; classification; pairs; masked; clustering
 

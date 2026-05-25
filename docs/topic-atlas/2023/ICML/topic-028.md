@@ -1,4 +1,4 @@
-# ICML 2023: domain / tta / adaptation / shifts
+# ICML 2023: 领域自适应与迁移学习
 
 - Topic ID: `28`
 - Papers: **24** (1.31%)

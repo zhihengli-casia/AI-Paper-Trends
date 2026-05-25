@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **46** (1.93%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / motion / diffusion / editing`
 - Keyword pool: video; motion; diffusion; editing; animation; latent; control; style; temporal; customization; consistency; dragging
 

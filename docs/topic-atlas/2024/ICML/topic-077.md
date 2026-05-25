@@ -2,7 +2,7 @@
 
 - Topic ID: `77`
 - Papers: **16** (0.61%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `neural networks / two-layer / feature learning / kernel`
 - Keyword pool: neural networks; two-layer; feature learning; kernel; multilayer; width; descent; optimal approximation; dynamical; resnet; input dimension; jacobian
 

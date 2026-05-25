@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **31** (0.84%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / eeg / visual / fmri`
 - Keyword pool: brain; eeg; visual; fmri; stimuli; cortex; decoding; cortical; organization; neuroscience; regions; selectivity
 

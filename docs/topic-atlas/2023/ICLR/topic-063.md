@@ -2,7 +2,7 @@
 
 - Topic ID: `63`
 - Papers: **12** (0.78%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: AI4Science/医疗
 - English keywords: `continual / forgetting / replay / forward transfer`
 - Keyword pool: continual; forgetting; replay; forward transfer; memory; catastrophic; stability; online; cta; lifelong learning; brain; experience
 

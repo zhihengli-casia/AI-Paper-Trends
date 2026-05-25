@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **9** (1.13%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `radiologic / diagnostic / clinical / lvlms`
 - Keyword pool: radiologic; diagnostic; clinical; lvlms; images; saliency; visual; imaging; radiologists; medical; status; lesions
 

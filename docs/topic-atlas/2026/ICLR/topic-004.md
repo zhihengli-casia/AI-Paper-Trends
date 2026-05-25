@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **83** (1.55%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `rlvr / reward / verifiable / llms`
 - Keyword pool: rlvr; reward; verifiable; llms; policy; exploration; llm reasoning; grpo; reasoning reinforcement; credit; rollouts; agents
 

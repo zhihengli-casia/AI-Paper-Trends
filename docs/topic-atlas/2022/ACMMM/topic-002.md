@@ -1,8 +1,8 @@
-# ACMMM 2022: 对抗攻击、鲁棒性与安全
+# ACMMM 2022: 行人重识别与人群计数
 
 - Topic ID: `2`
 - Papers: **32** (4.63%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / face / backdoor / crowd`
 - Keyword pool: attacks; face; backdoor; crowd; counting; adversarial; privacy; density; virtual; noise; protection; defense
 

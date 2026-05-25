@@ -1,8 +1,8 @@
-# EMNLP 2023: 文档摘要与信息压缩
+# EMNLP 2023: 摘要生成与信息压缩
 
 - Topic ID: `47`
 - Papers: **10** (0.96%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `legal / judgment / case / rights`
 - Keyword pool: legal; judgment; case; rights; summarization; expert-annotated; indian; agreement; augmentations; domain; experts; vulnerability
 

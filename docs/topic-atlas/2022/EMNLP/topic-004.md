@@ -1,8 +1,8 @@
-# EMNLP 2022: extraction / relation / document-level / entity pairs
+# EMNLP 2022: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `4`
 - Papers: **27** (3.26%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: NLP任务
 - English keywords: `extraction / relation / document-level / entity pairs`
 - Keyword pool: extraction; relation; document-level; entity pairs; triples; entities; labels; silver; contracts; cross-document; dependency; open
 

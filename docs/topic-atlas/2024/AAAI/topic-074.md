@@ -2,7 +2,7 @@
 
 - Topic ID: `74`
 - Papers: **14** (0.60%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `image retrieval / sketch / visual / composed image`
 - Keyword pool: image retrieval; sketch; visual; composed image; reference image; compatibility; coir; modality; zero-shot; semantic; scene; image-text
 

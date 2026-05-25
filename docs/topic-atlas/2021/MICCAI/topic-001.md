@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **11** (16.18%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `image segmentation / medical image / learning / context-aware`
 - Keyword pool: image segmentation; medical image; learning; context-aware; volumetric; searching bi-directional; segmentation anatomy-constrained; preservation segmentations tumorcp; active; segmentation dc-net; segmentation deep; segmentation ground-truth
 

@@ -1,4 +1,4 @@
-# JMLR 2020: neural / dnns / operators / natural gradient
+# JMLR 2020: 神经架构搜索与模型设计
 
 - Topic ID: `6`
 - Papers: **6** (9.09%)

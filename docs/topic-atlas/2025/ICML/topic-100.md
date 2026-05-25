@@ -2,7 +2,7 @@
 
 - Topic ID: `100`
 - Papers: **16** (0.48%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `decentralized / private / regret / differentially`
 - Keyword pool: decentralized; private; regret; differentially; workers; bounds; privacy; additive error; adversaries; transport; unlearning; oblivious
 

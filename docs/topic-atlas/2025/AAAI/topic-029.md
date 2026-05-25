@@ -1,8 +1,8 @@
-# AAAI 2025: 语音/音频语言模型
+# AAAI 2025: 扩散生成模型
 
 - Topic ID: `29`
 - Papers: **32** (1.06%)
-- Macro topic: 生成模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `diffusion / quantization / denoising / rppg`
 - Keyword pool: diffusion; quantization; denoising; rppg; image generation; steps; speech; consistency distillation; generative; bit; conditional; acceleration
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **11** (9.09%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `diffusion / image / control / generation`
 - Keyword pool: diffusion; image; control; generation; synthesis; appearance; rgb; font; fine-grained; decomposition; cross-modal; attention
 

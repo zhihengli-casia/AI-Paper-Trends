@@ -1,4 +1,4 @@
-# NeurIPS 2020: 视觉理解 / images / texture / cnns
+# NeurIPS 2020: 卷积网络结构与训练
 
 - Topic ID: `68`
 - Papers: **14** (0.74%)

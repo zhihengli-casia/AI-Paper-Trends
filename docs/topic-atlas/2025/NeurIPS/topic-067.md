@@ -1,4 +1,4 @@
-# NeurIPS 2025: 检索 / re-identification / person / hash
+# NeurIPS 2025: 行人重识别与人群计数
 
 - Topic ID: `67`
 - Papers: **35** (0.66%)

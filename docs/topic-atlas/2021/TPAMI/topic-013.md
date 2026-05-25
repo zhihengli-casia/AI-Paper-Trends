@@ -1,4 +1,4 @@
-# TPAMI 2021: action / trajectory / videos / camera
+# TPAMI 2021: 视频动作识别与时序定位
 
 - Topic ID: `13`
 - Papers: **17** (3.09%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **16** (2.22%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / private / differential / local`
 - Keyword pool: privacy; private; differential; local; population; communication; gradients; guarantee; pairwise learning; risk; noise; behavior modeling
 

@@ -1,8 +1,8 @@
-# IJCAI 2024: 句法知识与语言学分析
+# IJCAI 2024: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `23`
 - Papers: **18** (1.72%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `llms / entity / relation / entities`
 - Keyword pool: llms; entity; relation; entities; language; few-shot; extraction; label; corpus; document; syntactic; ner
 

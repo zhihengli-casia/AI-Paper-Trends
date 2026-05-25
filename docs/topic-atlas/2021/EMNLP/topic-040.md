@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **9** (1.06%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `temporal / graph / kgs / geometric`
 - Keyword pool: temporal; graph; kgs; geometric; time information; entity; forecasting; relations; equations; differential; kge; completion
 

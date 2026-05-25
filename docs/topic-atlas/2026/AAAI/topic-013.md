@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **67** (1.61%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `recommendation / user / recommender / item`
 - Keyword pool: recommendation; user; recommender; item; interests; intent; preferences; sequential; multimodal; video; implicit feedback; sequences
 

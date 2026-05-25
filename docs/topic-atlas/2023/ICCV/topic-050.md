@@ -1,4 +1,4 @@
-# ICCV 2023: hdr / exposure / ldr / shutter
+# ICCV 2023: 事件相机与高动态范围视觉
 
 - Topic ID: `50`
 - Papers: **20** (0.93%)

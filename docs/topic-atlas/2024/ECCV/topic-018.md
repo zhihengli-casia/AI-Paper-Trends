@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **33** (1.38%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `student / teacher / distillation / unlearning`
 - Keyword pool: student; teacher; distillation; unlearning; ssl; adversarial; distilled; contrastive learning; mse; self-supervised; similarity; positives
 

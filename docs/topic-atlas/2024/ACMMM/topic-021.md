@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **19** (1.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `reasoning / multimodal / question / answering`
 - Keyword pool: reasoning; multimodal; question; answering; vqa; commonsense; structural; graph; language; kgs; llm; explainable
 

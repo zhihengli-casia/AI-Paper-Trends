@@ -1,8 +1,8 @@
-# KDD 2024: LLM Agent 与工具使用
+# KDD 2024: 智能体决策与多智能体系统
 
 - Topic ID: `8`
 - Papers: **21** (5.11%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 强化学习/决策
 - English keywords: `urban / trajectories / traffic / trajectory`
 - Keyword pool: urban; trajectories; traffic; trajectory; spatio-temporal; spatial; offline; cities; agents; locations; road; mobile
 

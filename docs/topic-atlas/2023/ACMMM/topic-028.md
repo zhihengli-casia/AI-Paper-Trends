@@ -1,8 +1,8 @@
-# ACMMM 2023: 语音/音频语言模型
+# ACMMM 2023: 语音合成与音频生成
 
 - Topic ID: `28`
 - Papers: **16** (1.77%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `voice / speech / music / speaker`
 - Keyword pool: voice; speech; music; speaker; singing; audio; conversion; authentication; face; gender; recordings; synthesis
 

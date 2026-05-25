@@ -1,8 +1,8 @@
-# NeurIPS 2022: 语音/音频语言模型
+# NeurIPS 2022: 扩散生成模型
 
 - Topic ID: `25`
 - Papers: **32** (1.20%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / denoising / image / generative`
 - Keyword pool: diffusion; denoising; image; generative; video; frames; fid; conditional; reverse; audio; synthesis; sampling
 

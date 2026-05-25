@@ -1,8 +1,8 @@
-# ACMMM 2022: 多模态情感理解
+# ACMMM 2022: 情感识别与多模态情绪理解
 
 - Topic ID: `8`
 - Papers: **25** (3.62%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `emotion / recognition / facial expression / temporal`
 - Keyword pool: emotion; recognition; facial expression; temporal; multimodal; sentiment; label; brain; segment; localization; signals; compound
 

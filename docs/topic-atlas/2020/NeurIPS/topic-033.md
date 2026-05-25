@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **20** (1.05%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `vaes / latent / variational / autoencoders`
 - Keyword pool: vaes; latent; variational; autoencoders; exemplar; compression; image; posterior; energy-based; inference; graph; representations
 

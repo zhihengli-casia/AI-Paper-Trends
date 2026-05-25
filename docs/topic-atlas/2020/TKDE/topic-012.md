@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **15** (3.73%)
-- Macro topic: 强化学习/决策
+- Macro topic: AI4Science/医疗
 - English keywords: `dependencies / planning / adverse / cleaning`
 - Keyword pool: dependencies; planning; adverse; cleaning; reasoning; rules; discovery; event; risk; medical; entities; methodology
 

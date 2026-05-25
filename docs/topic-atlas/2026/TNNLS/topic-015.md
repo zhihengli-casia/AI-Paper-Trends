@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **7** (3.15%)
-- Macro topic: 强化学习/决策
+- Macro topic: 计算机视觉
 - English keywords: `control / safe / constraints / optimal`
 - Keyword pool: control; safe; constraints; optimal; reinforcement; tracking; function; unknown; lyapunov; excitation; exploration; set
 

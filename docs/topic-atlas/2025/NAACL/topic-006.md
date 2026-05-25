@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **24** (3.34%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / privacy / adversarial / private`
 - Keyword pool: attacks; privacy; adversarial; private; defense; pruning; robustness; unlearning; tool-calling; injection; attack success; aigt
 

@@ -1,8 +1,8 @@
-# NeurIPS 2023: 语音/音频语言模型
+# NeurIPS 2023: 音视频多模态理解
 
 - Topic ID: `53`
 - Papers: **26** (0.81%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `segmentation / semantic / object / open-vocabulary`
 - Keyword pool: segmentation; semantic; object; open-vocabulary; masks; prototypical; images; audio-visual; weakly-supervised; ade20k; sam; codet
 

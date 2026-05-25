@@ -2,7 +2,7 @@
 
 - Topic ID: `123`
 - Papers: **14** (0.38%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `diffusion / policy / planning / offline`
 - Keyword pool: diffusion; policy; planning; offline; policies; imitation learning; reinforcement learning; planner; motion; safety; states; control
 

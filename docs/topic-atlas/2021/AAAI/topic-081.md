@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **9** (0.55%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `patients / rare / multi-task / medical`
 - Keyword pool: patients; rare; multi-task; medical; clinical; malware; grasp; disease; healthcare; app; records; claims
 

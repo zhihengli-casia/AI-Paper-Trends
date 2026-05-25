@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **40** (5.03%)
-- Macro topic: 强化学习/决策
+- Macro topic: 计算机视觉
 - English keywords: `control / optimal / tracking / nonlinear`
 - Keyword pool: control; optimal; tracking; nonlinear; policy; algorithm; reinforcement; critic; unknown; function; dynamics; safe
 

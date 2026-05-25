@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **8** (1.99%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `sensing / compression / compressed / jpeg`
 - Keyword pool: sensing; compression; compressed; jpeg; quality; hypotheses; rate; reconstruction; sampling; soft; transmission; blocks
 

@@ -1,8 +1,8 @@
-# TNNLS 2025: 语音/音频语言模型
+# TNNLS 2025: 语音理解、识别与交互
 
 - Topic ID: `4`
 - Papers: **35** (4.40%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `speech / language / llms / reasoning`
 - Keyword pool: speech; language; llms; reasoning; entity; entities; logical; semantic; graph; relations; inference; natural
 

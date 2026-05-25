@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **11** (2.72%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `ranking / uncertainty / ctr / bias`
 - Keyword pool: ranking; uncertainty; ctr; bias; relevance; metrics; estimation; cognitive diagnosis; top-k; targets; learning-to-rank; auc
 

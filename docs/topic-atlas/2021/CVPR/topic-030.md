@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **21** (1.27%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `compression / video / compressed / learned image`
 - Keyword pool: compression; video; compressed; learned image; tensor; lossy; coding; lossless; perceptual; rnns; rate; residual
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **30** (1.12%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `bounds / regression / kernel / generalization bound`
 - Keyword pool: bounds; regression; kernel; generalization bound; mutual information; meta learning; pac-bayes; stability; inequality; ridge; inequalities; conditional
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **13** (9.77%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / networks / domain / synthesis`
 - Keyword pool: adversarial; networks; domain; synthesis; generative; representations; hierarchical; adaptive; deep; wild; knowledge; prior
 

@@ -1,8 +1,8 @@
-# AAAI 2025: 知识图谱推理与表示学习
+# AAAI 2025: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `111`
 - Papers: **11** (0.36%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `graph completion / knowledge graph / inductive / kgs`
 - Keyword pool: graph completion; knowledge graph; inductive; kgs; entity; entities; predicate; relation; multi-modal; invention; crr; subgraph
 

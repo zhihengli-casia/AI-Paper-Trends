@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **16** (0.61%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `forecasting / diffusion / precipitation / processes`
 - Keyword pool: forecasting; diffusion; precipitation; processes; weather; dynamical; probabilistic; event; initial conditions; intensity; temporal point; brain
 

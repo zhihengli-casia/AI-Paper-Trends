@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **8** (3.94%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `graph / analytics / real-time / network`
 - Keyword pool: graph; analytics; real-time; network; active; video; top-k; temporal; scaling; probabilistic; lightweight; hierarchical
 

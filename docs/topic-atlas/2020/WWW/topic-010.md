@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **17** (5.36%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `workers / fairness / talent / individuals`
 - Keyword pool: workers; fairness; talent; individuals; crowd; markets; influence; reputation; intervention; companies; requesters; criteria
 

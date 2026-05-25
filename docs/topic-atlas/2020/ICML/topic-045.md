@@ -1,4 +1,4 @@
-# ICML 2020: domain / adaptation / source / alignment
+# ICML 2020: 领域自适应与迁移学习
 
 - Topic ID: `45`
 - Papers: **12** (1.11%)

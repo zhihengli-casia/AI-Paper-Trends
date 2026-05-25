@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **27** (0.81%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `long-context / length generalization / tokens / llms`
 - Keyword pool: long-context; length generalization; tokens; llms; long context; retrieval; window; linear attention; recurrent; ssms; heads; transformers
 

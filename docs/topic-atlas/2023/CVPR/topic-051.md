@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **20** (0.85%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 计算机视觉
 - English keywords: `pose / bundle adjustment / estimation / irls`
 - Keyword pool: pose; bundle adjustment; estimation; irls; matrix; solution; radial; quantum; hessian; rank; solver; correspondences
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `88`
 - Papers: **29** (0.55%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `token / llms / vocabulary / speculative`
 - Keyword pool: token; llms; vocabulary; speculative; draft; decoding; periodicity; realignment; non-canonical; compression; teacher; eagle
 

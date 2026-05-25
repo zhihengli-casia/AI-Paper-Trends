@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **8** (1.03%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `induction / bilingual / lexicon / cross-lingual`
 - Keyword pool: induction; bilingual; lexicon; cross-lingual; dictionary; language pairs; embeddings; embedding spaces; languages; window; initial; unsupervised
 

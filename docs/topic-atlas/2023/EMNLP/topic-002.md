@@ -1,8 +1,8 @@
-# EMNLP 2023: 句法语义解析与结构化表示
+# EMNLP 2023: 句法解析与语言结构建模
 
 - Topic ID: `2`
 - Papers: **49** (4.68%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `extraction / keyphrase / parsing / paraphrase`
 - Keyword pool: extraction; keyphrase; parsing; paraphrase; amr; in-context; icl; syntactic; decoding; demonstrations; candidate; relation
 

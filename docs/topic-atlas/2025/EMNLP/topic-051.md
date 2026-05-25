@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **16** (0.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `profiling / static dynamic / autoformalization / corporate`
 - Keyword pool: profiling; static dynamic; autoformalization; corporate; benchmarking; evaluating; tool; comparisons; chinese; fairness; rag; contamination
 

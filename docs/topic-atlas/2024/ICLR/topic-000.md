@@ -1,8 +1,8 @@
-# ICLR 2024: 机器翻译与跨语言对齐
+# ICLR 2024: 跨域转换与序列转换
 
 - Topic ID: `0`
 - Papers: **63** (2.79%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `fine-tuning / translation / llms / prompt`
 - Keyword pool: fine-tuning; translation; llms; prompt; texts; finetuning; entity; decoding; pre-training; scaling; tokens; calibration
 

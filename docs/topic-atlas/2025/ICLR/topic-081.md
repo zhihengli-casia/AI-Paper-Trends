@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **21** (0.57%)
-- Macro topic: 其他/交叉主题
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / activity / dynamics / dynamical`
 - Keyword pool: brain; activity; dynamics; dynamical; neuroscience; recordings; population; latent; behavioral; nonlinear; fmri; neuronal
 

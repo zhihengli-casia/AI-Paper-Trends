@@ -1,4 +1,4 @@
-# AAAI 2022: domain / adaptation / target / source
+# AAAI 2022: 领域自适应与迁移学习
 
 - Topic ID: `58`
 - Papers: **10** (0.76%)

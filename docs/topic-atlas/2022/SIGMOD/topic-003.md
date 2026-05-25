@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **15** (9.80%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `learning / resolution / entity / graph`
 - Keyword pool: learning; resolution; entity; graph; knowledge; relational; pipelines; neural; complex event; walks; explaining; event processing
 

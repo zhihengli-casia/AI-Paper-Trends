@@ -1,8 +1,8 @@
-# CVPR 2021: 句法语义解析与结构化表示
+# CVPR 2021: 人体解析与细粒度分割
 
 - Topic ID: `75`
 - Papers: **10** (0.60%)
-- Macro topic: NLP任务
+- Macro topic: 计算机视觉
 - English keywords: `student / teacher / distillation / try-on`
 - Keyword pool: student; teacher; distillation; try-on; relation; inheritance; mutual; transfer; contrastive; inter-sample; exploration; human parsing
 

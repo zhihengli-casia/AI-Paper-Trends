@@ -1,8 +1,8 @@
-# ICLR 2023: 联邦学习与分布式训练
+# ICLR 2023: 神经架构搜索与模型设计
 
 - Topic ID: `84`
 - Papers: **8** (0.52%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 理论/优化
 - English keywords: `hyperparameter optimization / hpo / parameter-efficient fine-tuning / search`
 - Keyword pool: hyperparameter optimization; hpo; parameter-efficient fine-tuning; search; energy consumption; automl; federated; configurations; hyperparameters; nas; marginal likelihood; partitions
 

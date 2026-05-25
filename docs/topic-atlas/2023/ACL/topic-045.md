@@ -1,8 +1,8 @@
-# ACL 2023: 文档摘要与信息压缩
+# ACL 2023: 摘要生成与信息压缩
 
 - Topic ID: `45`
 - Papers: **12** (1.12%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `metrics / nlg / llms / ratings`
 - Keyword pool: metrics; nlg; llms; ratings; human-annotated; simplification; human-aligned; humor; errors; automatic; human-like; summarization
 

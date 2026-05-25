@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **11** (0.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / bit / quantized / memory`
 - Keyword pool: quantization; bit; quantized; memory; weight; activation; outliers; kv cache; deployment; tokens; channels; accuracy loss
 

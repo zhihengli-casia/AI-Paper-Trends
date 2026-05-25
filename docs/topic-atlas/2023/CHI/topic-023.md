@@ -1,4 +1,4 @@
-# CHI 2023: sound / acoustic / zones / musical
+# CHI 2023: 语音、音频与声学建模
 
 - Topic ID: `23`
 - Papers: **16** (1.84%)

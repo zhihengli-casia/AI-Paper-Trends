@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **29** (4.92%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `mml / image / matching / recognition`
 - Keyword pool: mml; image; matching; recognition; feature; description; mrow; texture; descriptor; shape; retrieval; neighborhood
 

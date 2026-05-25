@@ -2,7 +2,7 @@
 
 - Topic ID: `57`
 - Papers: **8** (0.78%)
-- Macro topic: 强化学习/决策
+- Macro topic: 计算机视觉
 - English keywords: `control / fault-tolerant / dos / faults`
 - Keyword pool: control; fault-tolerant; dos; faults; uavs; attacks; vehicles; tracking; nonlinear; observer; unmanned; lateral
 

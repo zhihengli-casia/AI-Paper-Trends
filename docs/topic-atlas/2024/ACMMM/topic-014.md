@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **23** (2.00%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `few-shot / gradient / classes / scene graph`
 - Keyword pool: few-shot; gradient; classes; scene graph; feedback; ood; peft; attribution; calibration; topological; dense prediction; root
 

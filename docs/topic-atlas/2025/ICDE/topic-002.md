@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **23** (5.90%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `networks / similarity / prediction / learning`
 - Keyword pool: networks; similarity; prediction; learning; computation; modeling; privacy-preserving; distance; query; dynamic; federated; path
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `59`
 - Papers: **22** (0.66%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / policy / mcts / reinforcement learning`
 - Keyword pool: safety; policy; mcts; reinforcement learning; constraint violations; backup; control; tree search; lyapunov; value; privileged; learning safe
 

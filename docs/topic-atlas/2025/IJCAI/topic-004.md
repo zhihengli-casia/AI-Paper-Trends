@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **27** (2.11%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `visual / multimodal / language / mllms`
 - Keyword pool: visual; multimodal; language; mllms; understanding; image; satellite; hallucinations; captioning; semantic; alignment; video
 

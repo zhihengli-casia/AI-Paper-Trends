@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **14** (1.22%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / face / adversarial / attacks`
 - Keyword pool: privacy; face; adversarial; attacks; protection; federated; recognition; private; impersonation; protected; regularization; shortcut
 

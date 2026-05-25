@@ -2,7 +2,7 @@
 
 - Topic ID: `65`
 - Papers: **18** (0.67%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `tokens / token merging / temporal / video understanding`
 - Keyword pool: tokens; token merging; temporal; video understanding; videos; frames; mllms; tokenization; abnormal events; zero-shot video; token reduction; number visual
 

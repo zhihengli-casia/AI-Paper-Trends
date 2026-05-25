@@ -2,7 +2,7 @@
 
 - Topic ID: `121`
 - Papers: **14** (0.42%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `teacher / distillation / student / pruning`
 - Keyword pool: teacher; distillation; student; pruning; ensemble; divergence; hacking; logits; ntl; ranking loss; temperature; federated
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `83`
 - Papers: **9** (0.55%)
-- Macro topic: AI4Science/医疗
+- Macro topic: 系统/效率/压缩
 - English keywords: `graph / molecule / kernel / hierarchical`
 - Keyword pool: graph; molecule; kernel; hierarchical; matrix completion; drug; molecular; isolation; reaction; wasserstein; top-1; transport
 

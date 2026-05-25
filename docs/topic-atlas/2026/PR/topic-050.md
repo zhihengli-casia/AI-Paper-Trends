@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **9** (0.97%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `multimodal / real / media / reasoning`
 - Keyword pool: multimodal; real; media; reasoning; language; talking; computing; personality-aware; unlocking; expressive; multi-agent; path
 

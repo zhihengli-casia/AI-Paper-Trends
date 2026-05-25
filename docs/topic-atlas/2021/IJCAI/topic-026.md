@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **15** (2.08%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `traffic / control / vehicles / route`
 - Keyword pool: traffic; control; vehicles; route; road; lanes; pricing; signal; fairness; dynamic; query; evolution
 

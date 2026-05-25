@@ -1,4 +1,4 @@
-# ECCV 2020: pose / multi-person / estimation / gait
+# ECCV 2020: 人体姿态估计与运动理解
 
 - Topic ID: `8`
 - Papers: **28** (2.06%)

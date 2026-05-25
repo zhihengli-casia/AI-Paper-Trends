@@ -1,8 +1,8 @@
-# PR 2022: 医学影像病灶分析
+# PR 2022: 医学影像分割
 
 - Topic ID: `1`
 - Papers: **37** (5.62%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / image / loss / maps`
 - Keyword pool: segmentation; image; loss; maps; mri; boundary; lesion; medical; multi-scale; neural network; alzheimer; disease
 

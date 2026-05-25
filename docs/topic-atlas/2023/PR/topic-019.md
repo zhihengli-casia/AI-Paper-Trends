@@ -1,8 +1,8 @@
-# PR 2023: 目标检测与图像分割
+# PR 2023: 医学影像分割
 
 - Topic ID: `19`
 - Papers: **17** (2.11%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical / image / brain`
 - Keyword pool: segmentation; medical; image; brain; contrastive learning; instance; label; guided; feature; lung; modality; histopathological
 

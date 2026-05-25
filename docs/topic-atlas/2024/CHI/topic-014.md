@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **22** (2.10%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `patients / language / healthcare / decision`
 - Keyword pool: patients; language; healthcare; decision; capabilities; ai-driven; diagnosis; medical; cancer; india; explainable; notes
 

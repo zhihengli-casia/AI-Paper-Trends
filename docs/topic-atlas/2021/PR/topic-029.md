@@ -1,4 +1,4 @@
-# PR 2021: 图学习 / pooling / hand / action
+# PR 2021: 视频动作识别与时序定位
 
 - Topic ID: `29`
 - Papers: **10** (1.70%)

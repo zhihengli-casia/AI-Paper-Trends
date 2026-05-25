@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **21** (1.37%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `calibration / overfitting / benign / overparameterized`
 - Keyword pool: calibration; overfitting; benign; overparameterized; extrapolation; scaling; kcal; overparameterization; invariance; kernel; flatness; over-parameterized
 

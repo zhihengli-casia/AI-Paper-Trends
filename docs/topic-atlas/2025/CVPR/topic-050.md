@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **24** (0.84%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `mllms / multimodal / language / question`
 - Keyword pool: mllms; multimodal; language; question; notes; negation; periodic; tokens; external knowledge; rlhf; lifelong; reasoning
 

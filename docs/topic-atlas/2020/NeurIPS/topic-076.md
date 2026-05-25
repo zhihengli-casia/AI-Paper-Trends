@@ -2,7 +2,7 @@
 
 - Topic ID: `76`
 - Papers: **12** (0.63%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / private / secure / clipping`
 - Keyword pool: privacy; private; secure; clipping; latency; sgd; inference; distributed; differentially; linear layers; learner; users
 

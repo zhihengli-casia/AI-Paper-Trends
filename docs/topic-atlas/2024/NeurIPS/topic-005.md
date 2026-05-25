@@ -1,8 +1,8 @@
-# NeurIPS 2024: 视频动作生成与运动控制
+# NeurIPS 2024: 视频动作识别与时序定位
 
 - Topic ID: `5`
 - Papers: **79** (1.96%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `motion / gaze / object / video`
 - Keyword pool: motion; gaze; object; video; driving; trajectory; lane; temporal; action; trajectories; frames; traffic
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `95`
 - Papers: **12** (0.45%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `transport / imbalanced / quantization / keypoints`
 - Keyword pool: transport; imbalanced; quantization; keypoints; ranking; base classes; matching; re-weighting; facial; map; relevance; identity
 

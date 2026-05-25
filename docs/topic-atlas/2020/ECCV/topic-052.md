@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **13** (0.96%)
-- Macro topic: 计算机视觉
+- Macro topic: 理论/优化
 - English keywords: `graph / views / multi-view / multiview`
 - Keyword pool: graph; views; multi-view; multiview; matching; combinatorial; solvers; few-shot; association; viewpoint; objects; representative
 

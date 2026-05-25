@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **25** (0.83%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `explanations / shap / trees / counterfactual`
 - Keyword pool: explanations; shap; trees; counterfactual; decision; feature importance; xai; bias; classification; aes; fold; classifiers
 

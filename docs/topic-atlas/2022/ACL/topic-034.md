@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **8** (1.14%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `argument / mining / values / personal`
 - Keyword pool: argument; mining; values; personal; claims; discourse; reports; framed; annotated; extraction; debate; bias
 

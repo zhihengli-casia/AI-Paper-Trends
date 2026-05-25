@@ -1,4 +1,4 @@
-# CVPR 2020: clothing / body / human / clothes
+# CVPR 2020: 人体姿态估计与运动理解
 
 - Topic ID: `32`
 - Papers: **17** (1.16%)

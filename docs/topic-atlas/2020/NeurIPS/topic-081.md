@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **11** (0.58%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `attention / captioning / continual / sparse`
 - Keyword pool: attention; captioning; continual; sparse; image; sac; series forecasting; gaze; human; time series; nlp; patterns
 

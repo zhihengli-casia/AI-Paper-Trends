@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **29** (3.09%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `change / semantic / lexical / brain`
 - Keyword pool: change; semantic; lexical; brain; memorisation; meaning; communicative; word; english; regions; reading; languages
 

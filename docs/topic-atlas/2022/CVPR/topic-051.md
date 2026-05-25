@@ -1,8 +1,8 @@
-# CVPR 2022: 运动建模 / contact / body / pose
+# CVPR 2022: 人体姿态估计与运动理解
 
 - Topic ID: `51`
 - Papers: **18** (0.87%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `motion / contact / body / pose`
 - Keyword pool: motion; contact; body; pose; physics; physically plausible; humans; scene; inertial; smartphone; interactions; human mesh
 

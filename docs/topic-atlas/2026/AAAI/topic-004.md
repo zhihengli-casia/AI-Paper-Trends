@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **83** (2.00%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `agents / multi-agent / llm / dialogue`
 - Keyword pool: agents; multi-agent; llm; dialogue; cognitive; mas; mcp; planning; communication; workflow; social; agentic
 

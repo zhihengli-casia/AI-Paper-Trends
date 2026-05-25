@@ -2,7 +2,7 @@
 
 - Topic ID: `116`
 - Papers: **20** (0.38%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `grpo / reasoning / reinforcement / policy`
 - Keyword pool: grpo; reasoning; reinforcement; policy; group relative; slow-thinking; exit; rewards; cot; advantage; lvlms; learning rl
 

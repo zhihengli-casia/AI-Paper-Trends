@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **53** (1.28%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `causal / counterfactual / ood / observational`
 - Keyword pool: causal; counterfactual; ood; observational; unobserved; explanations; spatio-temporal; confounders; fairness; variables; treatment; conformal
 

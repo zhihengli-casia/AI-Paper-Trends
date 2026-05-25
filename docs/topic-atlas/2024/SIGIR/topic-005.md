@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **13** (6.07%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `recommendation / sequential / llms / recommender`
 - Keyword pool: recommendation; sequential; llms; recommender; news; llm-based; fine-tuning; course; explanation; job; item; relations
 

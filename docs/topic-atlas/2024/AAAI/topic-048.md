@@ -1,4 +1,4 @@
-# AAAI 2024: surface / point / clouds / geometric
+# AAAI 2024: 3D 形状重建与隐式表示
 
 - Topic ID: `48`
 - Papers: **21** (0.90%)

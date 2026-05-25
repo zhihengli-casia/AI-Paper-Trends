@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **9** (1.00%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `person / text-based / retrieval / pedestrian`
 - Keyword pool: person; text-based; retrieval; pedestrian; image-text; attribute; cross-modal; matched; missing; search; pairs; similarity
 

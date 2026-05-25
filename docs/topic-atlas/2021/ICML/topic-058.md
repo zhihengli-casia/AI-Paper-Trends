@@ -2,7 +2,7 @@
 
 - Topic ID: `58`
 - Papers: **10** (0.85%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `ntk / tangent / kernel / lipschitz`
 - Keyword pool: ntk; tangent; kernel; lipschitz; tensor; relu; gradient descent; infinite-width; self-attention; widths; diagonal elements; layer
 

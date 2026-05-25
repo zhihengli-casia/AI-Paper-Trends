@@ -1,4 +1,4 @@
-# TMM 2020: person / re-identification / partial / progressive
+# TMM 2020: 行人重识别与人群计数
 
 - Topic ID: `16`
 - Papers: **11** (2.73%)

@@ -1,4 +1,4 @@
-# EMNLP 2020: 目标检测与图像分割
+# EMNLP 2020: Transformer 剪枝与注意力头分析
 
 - Topic ID: `35`
 - Papers: **9** (1.20%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **45** (1.22%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `diffusion / restoration / denoising / images`
 - Keyword pool: diffusion; restoration; denoising; images; illumination; noise; imaging; degradation; try-on; wavelet; image generation; mri
 

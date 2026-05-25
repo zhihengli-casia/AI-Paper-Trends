@@ -2,7 +2,7 @@
 
 - Topic ID: `56`
 - Papers: **11** (0.84%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial examples / neural networks / deep neural / evidential deep`
 - Keyword pool: adversarial examples; neural networks; deep neural; evidential deep; discriminators; relaxations; examples transferable; domain generalization; incentivizing; information bottleneck; learning synthetic; networks improving
 

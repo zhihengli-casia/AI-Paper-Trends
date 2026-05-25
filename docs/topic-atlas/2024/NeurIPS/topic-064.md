@@ -1,8 +1,8 @@
-# NeurIPS 2024: 扩散生成模型
+# NeurIPS 2024: 组合优化与神经求解
 
 - Topic ID: `64`
 - Papers: **30** (0.74%)
-- Macro topic: 生成模型
+- Macro topic: 理论/优化
 - English keywords: `diffusion / guidance / gflownets / model-based optimization`
 - Keyword pool: diffusion; guidance; gflownets; model-based optimization; offline; training-free; constrained; trajectories; reward; generative flow; ebm; combinatorial optimization
 

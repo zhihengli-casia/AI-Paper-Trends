@@ -1,4 +1,4 @@
-# CVPR 2024: domain adaptation / domain generalization / domains / source-free
+# CVPR 2024: 领域自适应与迁移学习
 
 - Topic ID: `65`
 - Papers: **18** (0.66%)

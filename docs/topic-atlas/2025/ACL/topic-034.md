@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **20** (1.18%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `video / captioning / sign / temporal`
 - Keyword pool: video; captioning; sign; temporal; multimodal; body; nonverbal; mllms; music; movie; cross-modality; dense
 

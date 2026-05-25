@@ -1,8 +1,8 @@
-# ACL 2024: 机器翻译与跨语言对齐
+# ACL 2024: 语音翻译与跨语言语音处理
 
 - Topic ID: `3`
 - Papers: **43** (4.57%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `speech / translation / audio / streaming`
 - Keyword pool: speech; translation; audio; streaming; sign language; asr; arabic; synthesis; acoustic; github io; learners; discrete
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **10** (2.29%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `domain / adaptation / unsupervised / samples`
 - Keyword pool: domain; adaptation; unsupervised; samples; object detection; adversarial learning; alignment; distributions; stereo matching; disentanglement; style; noisy
 

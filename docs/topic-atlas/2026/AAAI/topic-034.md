@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **43** (1.04%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / image / vein / autoregressive`
 - Keyword pool: diffusion; image; vein; autoregressive; segmentation; high-resolution; conformity; synthesis; conditional; rectified; speculative decoding; denoising
 

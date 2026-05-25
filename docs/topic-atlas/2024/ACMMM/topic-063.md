@@ -2,7 +2,7 @@
 
 - Topic ID: `63`
 - Papers: **9** (0.78%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `snns / spike / neural networks / time steps`
 - Keyword pool: snns; spike; neural networks; time steps; adversarial robustness; neuromorphic; conversion; real-time; coding; power; parameter; latency
 

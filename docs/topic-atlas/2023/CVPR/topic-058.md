@@ -1,4 +1,4 @@
-# CVPR 2023: person re-identification / recognition / visible-infrared / reid
+# CVPR 2023: 行人重识别与人群计数
 
 - Topic ID: `58`
 - Papers: **17** (0.72%)

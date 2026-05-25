@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **28** (0.84%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `pruning / sparsity / llms / compression`
 - Keyword pool: pruning; sparsity; llms; compression; mask; activation; low-rank; sparse; semi-structured; long-tailed; layerwise; tokens
 

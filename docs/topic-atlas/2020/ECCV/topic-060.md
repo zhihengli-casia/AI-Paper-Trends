@@ -1,8 +1,8 @@
-# ECCV 2020: 医疗健康与临床 AI
+# ECCV 2020: 医学影像分割
 
 - Topic ID: `60`
 - Papers: **11** (0.81%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `registration / segmentation / medical / clinical`
 - Keyword pool: registration; segmentation; medical; clinical; tissue; deformation; augmentation; imaging; arrangement; patches; few-shot; scans
 

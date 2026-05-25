@@ -1,8 +1,8 @@
-# CVPR 2021: 视频动作生成与运动控制
+# CVPR 2021: 视频动作识别与时序定位
 
 - Topic ID: `43`
 - Papers: **16** (0.96%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 计算机视觉
 - English keywords: `video / temporal / motion / clip`
 - Keyword pool: video; temporal; motion; clip; long-term; representation learning; action; contrastive; context; moco; spatial; pretext
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `82`
 - Papers: **22** (0.55%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `games / equilibria / nash / zero-sum`
 - Keyword pool: games; equilibria; nash; zero-sum; equilibrium; players; regret; tax; optimisation; two-player; omd; correlated
 

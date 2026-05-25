@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **12** (1.74%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `quality assessment / image quality / vqa / perceptual`
 - Keyword pool: quality assessment; image quality; vqa; perceptual; opinion; viewports; score; blind; human visual; saliency; subjective; video quality
 

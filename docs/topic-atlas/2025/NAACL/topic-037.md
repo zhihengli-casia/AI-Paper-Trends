@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **8** (1.11%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `planning / agents / action / semantics`
 - Keyword pool: planning; agents; action; semantics; plans; trajectory; prediction; location; directly generate; human-level; success rate; goal
 

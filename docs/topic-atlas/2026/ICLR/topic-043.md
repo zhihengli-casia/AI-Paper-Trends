@@ -1,8 +1,8 @@
-# ICLR 2026: 视频扩散生成与运动控制
+# ICLR 2026: 手部姿态与人-物交互
 
 - Topic ID: `43`
 - Papers: **47** (0.88%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `motion / video / hoi / hand`
 - Keyword pool: motion; video; hoi; hand; animation; interaction; human-object; contact; egocentric; diffusion; gesture; identity
 

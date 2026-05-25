@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **24** (2.79%)
-- Macro topic: 可信/安全/公平
+- Macro topic: AI4Science/医疗
 - English keywords: `adversarial / robustness / certified / attacks`
 - Keyword pool: adversarial; robustness; certified; attacks; perturbations; threat; examples; perceptual; defense; concentration; medical; transferability
 

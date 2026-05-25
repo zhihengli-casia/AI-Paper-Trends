@@ -1,8 +1,8 @@
-# AAAI 2021: person / re-identification / face / domain
+# AAAI 2021: 领域自适应与迁移学习
 
 - Topic ID: `29`
 - Papers: **20** (1.22%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `person / re-identification / face / domain`
 - Keyword pool: person; re-identification; face; domain; alignment; local; adaptor; pattern; feature; detection; adaptation; unseen
 

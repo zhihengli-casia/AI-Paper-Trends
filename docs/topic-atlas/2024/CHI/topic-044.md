@@ -1,8 +1,8 @@
-# CHI 2024: smartphone / daily / voice / context-aware
+# CHI 2024: 语音交互与语音表征
 
 - Topic ID: `44`
 - Papers: **13** (1.24%)
-- Macro topic: 多模态/VLM
+- Macro topic: 语音/音频/音乐
 - English keywords: `smartphone / daily / voice / context-aware`
 - Keyword pool: smartphone; daily; voice; context-aware; intervention; leveraging; exploring; mhealth; posture; sensemaking; similarity; depression
 

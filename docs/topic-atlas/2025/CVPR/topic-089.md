@@ -2,7 +2,7 @@
 
 - Topic ID: `89`
 - Papers: **15** (0.52%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `egocentric / gaze / video / view-invariant`
 - Keyword pool: egocentric; gaze; video; view-invariant; mistake; ego-exo; motion; exocentric; unpaired; skilled; wearable; grounding
 

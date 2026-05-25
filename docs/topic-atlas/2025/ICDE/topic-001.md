@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **27** (6.92%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `graph / local / secure / triangle`
 - Keyword pool: graph; local; secure; triangle; privacy-preserving; counting; estimation; queries; search; generation; partitioned; influence
 

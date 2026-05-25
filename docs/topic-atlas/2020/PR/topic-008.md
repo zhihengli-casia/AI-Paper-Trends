@@ -1,8 +1,8 @@
-# PR 2020: 视频动作生成与运动控制
+# PR 2020: 视频动作识别与时序定位
 
 - Topic ID: `8`
 - Papers: **19** (3.84%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `action / temporal / recognition / network`
 - Keyword pool: action; temporal; recognition; network; video; motion; detection; localization; online; structure; multiple; images
 

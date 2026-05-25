@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **11** (1.02%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `attack / addressee / trigger / robustness`
 - Keyword pool: attack; addressee; trigger; robustness; red; black-box; notable; victim; copyright; code generation; vulnerable; corruption
 

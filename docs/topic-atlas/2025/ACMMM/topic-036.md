@@ -1,8 +1,8 @@
-# ACMMM 2025: 语音/音频语言模型
+# ACMMM 2025: 音乐与音频生成/理解
 
 - Topic ID: `36`
 - Papers: **16** (1.28%)
-- Macro topic: 多模态/VLM
+- Macro topic: 语音/音频/音乐
 - English keywords: `music / dance / emotion / inversion`
 - Keyword pool: music; dance; emotion; inversion; captions; control; audio; fine-grained information; editing; symbolic; group; coherence
 

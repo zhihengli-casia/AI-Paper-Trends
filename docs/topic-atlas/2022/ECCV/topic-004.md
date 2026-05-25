@@ -1,8 +1,8 @@
-# ECCV 2022: 医学影像病灶分析
+# ECCV 2022: 医学影像分割
 
 - Topic ID: `4`
 - Papers: **38** (2.31%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / adaptation / medical / target domain`
 - Keyword pool: segmentation; adaptation; medical; target domain; contrastive; source domain; cropping; cityscapes; domains; lesion; adaptive semantic; pathology
 

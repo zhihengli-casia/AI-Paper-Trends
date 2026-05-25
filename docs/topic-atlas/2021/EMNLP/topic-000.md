@@ -1,8 +1,8 @@
-# EMNLP 2021: 句法语义解析与结构化表示
+# EMNLP 2021: 结构化解析与表示学习
 
 - Topic ID: `0`
 - Papers: **48** (5.67%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `parsing / graph / seq2seq / style`
 - Keyword pool: parsing; graph; seq2seq; style; parsers; definition; amr; headline; bart; unsupervised; sentences; phrase
 

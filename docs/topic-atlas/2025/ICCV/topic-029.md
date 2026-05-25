@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **29** (1.07%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `hoi / amodal / relation / human-object`
 - Keyword pool: hoi; amodal; relation; human-object; interaction; scene graph; objects; graph generation; detection; depth; vlms; occluded
 

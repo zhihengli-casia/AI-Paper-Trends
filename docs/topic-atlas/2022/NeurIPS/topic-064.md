@@ -2,7 +2,7 @@
 
 - Topic ID: `64`
 - Papers: **18** (0.67%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / poisoning / membership / defense`
 - Keyword pool: attacks; poisoning; membership; defense; privacy; adversarial; conjecture; stolen; backdoor; collaborative; vulnerable; multi-modal
 

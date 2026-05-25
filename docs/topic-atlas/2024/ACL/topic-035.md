@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **12** (1.28%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `educational / questions / multimodal / teaching`
 - Keyword pool: educational; questions; multimodal; teaching; choices; hard; multiple-choice; answer; scientific; acts; symbol; entrance
 

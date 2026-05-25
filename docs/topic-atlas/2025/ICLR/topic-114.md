@@ -2,7 +2,7 @@
 
 - Topic ID: `114`
 - Papers: **15** (0.41%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / policy / reinforcement learning / offline`
 - Keyword pool: safety; policy; reinforcement learning; offline; policies; constraint; violations; heavy-tailed; safe exploration; icrl; environment; actor-critic
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **55** (1.04%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `object / segmentation / scene / point cloud`
 - Keyword pool: object; segmentation; scene; point cloud; lidar; detection; gaze; open-vocabulary; occupancy; clouds; geometric; queries
 

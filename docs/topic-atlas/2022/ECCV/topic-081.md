@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **9** (0.55%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `ood / out-of-distribution / detection / context`
 - Keyword pool: ood; out-of-distribution; detection; context; invariance; osr; classifiers; equivariance; environmental; invariant; distance-based; bias
 

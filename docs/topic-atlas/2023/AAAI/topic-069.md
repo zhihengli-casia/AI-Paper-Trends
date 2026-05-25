@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **11** (0.70%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `graph / neural networks / heterogeneous / multiplex`
 - Keyword pool: graph; neural networks; heterogeneous; multiplex; multi-modal medical; adaptive knowledge; private information; tricks; interpolating; augmentation; contrastive learning; dropping
 

@@ -1,8 +1,8 @@
-# EMNLP 2025: 语音/音频语言模型
+# EMNLP 2025: 语音理解、识别与交互
 
 - Topic ID: `69`
 - Papers: **13** (0.72%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `memes / hate / detection / speech`
 - Keyword pool: memes; hate; detection; speech; multimodal; pun; harmfulness; labeled; humor; implicit; internet; metaphor
 

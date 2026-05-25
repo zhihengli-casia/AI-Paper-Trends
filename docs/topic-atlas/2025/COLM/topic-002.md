@@ -1,8 +1,8 @@
-# COLM 2025: 语音/音频语言模型
+# COLM 2025: 语音理解、识别与交互
 
 - Topic ID: `2`
 - Papers: **31** (7.42%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `pre-training / sampling / speech / embeddings`
 - Keyword pool: pre-training; sampling; speech; embeddings; laws; loss; languages; gpu; matrix; cpt; diffusion; olmo
 

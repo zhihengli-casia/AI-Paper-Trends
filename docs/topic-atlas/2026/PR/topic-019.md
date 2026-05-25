@@ -1,8 +1,8 @@
-# PR 2026: 目标检测与图像分割
+# PR 2026: 语义分割与场景解析
 
 - Topic ID: `19`
 - Papers: **18** (1.95%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `sensing / remote / change / semantic`
 - Keyword pool: sensing; remote; change; semantic; segmentation; detection; imagery; domain; images; sample selection; helps; frequency-driven
 

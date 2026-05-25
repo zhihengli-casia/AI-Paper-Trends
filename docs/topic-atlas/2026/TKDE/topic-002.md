@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **26** (10.40%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `distillation / reasoning / entities / llms`
 - Keyword pool: distillation; reasoning; entities; llms; language; question; teacher; knowledge graph; rules; student; prompt; answering
 

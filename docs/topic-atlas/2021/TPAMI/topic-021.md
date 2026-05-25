@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **13** (2.36%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `robust / pose / camera / correspondences`
 - Keyword pool: robust; pose; camera; correspondences; rgb-d; optimization; point; outlier; geometric; registration; ransac; motion
 

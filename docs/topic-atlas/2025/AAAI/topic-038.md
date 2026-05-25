@@ -1,8 +1,8 @@
-# AAAI 2025: 语音/音频语言模型
+# AAAI 2025: 语音理解、识别与交互
 
 - Topic ID: `38`
 - Papers: **29** (0.96%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `llms / language / cognitive / preference`
 - Keyword pool: llms; language; cognitive; preference; prompting; human; speech; multi-intent; stress; reward; cdms; inner knowledge
 

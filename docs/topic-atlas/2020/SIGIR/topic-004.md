@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **12** (8.16%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `hash / images / codes / scheme`
 - Keyword pool: hash; images; codes; scheme; queries; video; edges; attribute; adversarial; generative; classes; online
 

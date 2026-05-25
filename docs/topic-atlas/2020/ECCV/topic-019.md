@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **24** (1.77%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `tracking / trackers / attack / gaze`
 - Keyword pool: tracking; trackers; attack; gaze; video; wearer; real-time; adversarial; egocentric; perturbations; online; static
 

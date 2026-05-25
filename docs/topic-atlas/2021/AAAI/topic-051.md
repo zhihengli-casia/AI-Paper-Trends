@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **16** (0.97%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `policy / gradient / q-learning / return`
 - Keyword pool: policy; gradient; q-learning; return; variance; reinforcement; convergence; trading; distributional; execution; rl algorithms; converges
 

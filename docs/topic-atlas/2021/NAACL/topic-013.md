@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **17** (3.56%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `claims / arguments / news / evidence`
 - Keyword pool: claims; arguments; news; evidence; dialogue; commonsense; fact; entailment; verification; checking; stance; responses
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **28** (1.30%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / clients / personalized / heterogeneity`
 - Keyword pool: federated; clients; personalized; heterogeneity; learning fl; non-iid; communication; decentralized; personalization; classifier; privacy; updates
 

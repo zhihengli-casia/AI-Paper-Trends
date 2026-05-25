@@ -1,8 +1,8 @@
-# NeurIPS 2021: routing / combinatorial / solutions / heuristics
+# NeurIPS 2021: 组合优化与神经求解
 
 - Topic ID: `74`
 - Papers: **13** (0.56%)
-- Macro topic: 生成模型
+- Macro topic: 理论/优化
 - English keywords: `routing / combinatorial / solutions / heuristics`
 - Keyword pool: routing; combinatorial; solutions; heuristics; vehicle; optimization problems; integer programming; solver; policies; drl; instances; routes
 

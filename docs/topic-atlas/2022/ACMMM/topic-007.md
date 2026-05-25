@@ -1,8 +1,8 @@
-# ACMMM 2022: 目标检测与图像分割
+# ACMMM 2022: 医学影像分割
 
 - Topic ID: `7`
 - Papers: **26** (3.76%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical / domain adaptation / target domain`
 - Keyword pool: segmentation; medical; domain adaptation; target domain; domain adaptive; cityscapes; style; deraining; unsupervised domain; source; uda; pseudo
 

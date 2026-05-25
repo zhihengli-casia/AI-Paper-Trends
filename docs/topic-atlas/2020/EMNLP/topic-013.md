@@ -1,8 +1,8 @@
-# EMNLP 2020: 语音/音频语言模型
+# EMNLP 2020: 仇恨言论与有害内容检测
 
 - Topic ID: `13`
 - Papers: **21** (2.80%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `gender / bias / dialogue / languages`
 - Keyword pool: gender; bias; dialogue; languages; embeddings; groups; hate speech; classifiers; linear; mitigation; social; measuring
 

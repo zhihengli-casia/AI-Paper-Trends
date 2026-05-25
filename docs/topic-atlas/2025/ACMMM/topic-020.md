@@ -1,8 +1,8 @@
-# ACMMM 2025: 语音/音频语言模型
+# ACMMM 2025: 语音合成与音频生成
 
 - Topic ID: `20`
 - Papers: **24** (1.92%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 多模态/VLM
 - English keywords: `speech / audio / sound / auditory`
 - Keyword pool: speech; audio; sound; auditory; multimodal; flow matching; video; speaker; voice; synthesis; silent; codec
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **12** (0.94%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `hypergraph / node / kernels / graph classification`
 - Keyword pool: hypergraph; node; kernels; graph classification; clustering; structural; graphs; matrix; similarity; hyperedge; graph-level; anchor
 

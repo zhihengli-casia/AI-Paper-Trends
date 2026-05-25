@@ -1,8 +1,8 @@
-# IJCAI 2022: 目标检测与图像分割
+# IJCAI 2022: 医学影像分割
 
 - Topic ID: `33`
 - Papers: **14** (1.62%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `image / segmentation / tensor / completion`
 - Keyword pool: image; segmentation; tensor; completion; medical; cross-modality; fusion; module; contrastive; unsupervised; multi-modal; diagnosis
 

@@ -1,4 +1,4 @@
-# NeurIPS 2020: shape / mesh / reconstruction / surface
+# NeurIPS 2020: 人体姿态估计与运动理解
 
 - Topic ID: `19`
 - Papers: **27** (1.42%)

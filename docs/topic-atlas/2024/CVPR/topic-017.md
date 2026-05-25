@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **35** (1.29%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attacks / gradient / fas`
 - Keyword pool: adversarial; attacks; gradient; fas; defense; examples; certified; anti-spoofing; perturbations; dnns; student network; norm
 

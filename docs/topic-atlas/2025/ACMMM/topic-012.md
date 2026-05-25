@@ -1,8 +1,8 @@
-# ACMMM 2025: 医疗健康与临床 AI
+# ACMMM 2025: 医学影像分割
 
 - Topic ID: `12`
 - Papers: **28** (2.24%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / segmentation / prototype / tumor`
 - Keyword pool: medical; segmentation; prototype; tumor; anatomical; clinical; lesions; semi-supervised; mobile; contour; class; topological
 

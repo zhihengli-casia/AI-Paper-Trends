@@ -2,7 +2,7 @@
 
 - Topic ID: `75`
 - Papers: **35** (0.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `long-context / length / llms / long context`
 - Keyword pool: long-context; length; llms; long context; compression; positional; token; rope; embedding; vocabulary; band; extrapolation
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **21** (8.79%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / ranking / anomalies / drug`
 - Keyword pool: fairness; ranking; anomalies; drug; proficiency; anomaly; reinforcement; individual; meta; bandits; bound; multi-task
 

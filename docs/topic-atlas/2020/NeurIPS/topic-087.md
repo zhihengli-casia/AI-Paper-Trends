@@ -2,7 +2,7 @@
 
 - Topic ID: `87`
 - Papers: **9** (0.47%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `certified / smoothing / attacks / certification`
 - Keyword pool: certified; smoothing; attacks; certification; randomized; classifier; defense; patch; radii; smoothed; robustness; adversarial
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `65`
 - Papers: **12** (0.78%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / attack / federated / inversion`
 - Keyword pool: backdoor; attack; federated; inversion; privacy; trigger; private; relu; extraction; restoration; label; user
 

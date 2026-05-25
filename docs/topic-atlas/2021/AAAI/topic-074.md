@@ -2,7 +2,7 @@
 
 - Topic ID: `74`
 - Papers: **11** (0.67%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `news / fake / counterfactual / generation`
 - Keyword pool: news; fake; counterfactual; generation; lda; entities; records; causal; kgs; ending; generate; content
 

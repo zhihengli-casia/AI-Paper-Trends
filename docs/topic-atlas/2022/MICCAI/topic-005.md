@@ -1,8 +1,8 @@
-# MICCAI 2022: 目标检测与图像分割
+# MICCAI 2022: 医学影像分割
 
 - Topic ID: `5`
 - Papers: **7** (9.86%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: AI4Science/医疗
 - English keywords: `matter / white / segmentation / tractography`
 - Keyword pool: matter; white; segmentation; tractography; tracts; deep learning; brain; raw curve; score prediction critical; region localization geometric; algorithm; self-supervised
 

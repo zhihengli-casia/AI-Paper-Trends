@@ -37,7 +37,7 @@
 | [023](topic-023.md) | 规划搜索与决策推理 | 20 | 1.66% | 3D/具身/机器人 | `detection / articulated / distance / fields` | Registering Articulated Objects With Human-in-the-loop Corrections |
 | [024](topic-024.md) | 规划搜索与决策推理 | 20 | 1.66% | 3D/具身/机器人 | `planning / path / collision / avoidance` | Obstacle Aware Sampling for Path Planning |
 | [025](topic-025.md) | 机器人操作与抓取 | 20 | 1.66% | 3D/具身/机器人 | `grasping / network / object / robotic` | DGBench: An Open-Source, Reproducible Benchmark for Dynamic Grasping |
-| [026](topic-026.md) | acoustic / underwater / low-cost / monitoring | 18 | 1.50% | 3D/具身/机器人 | `acoustic / underwater / low-cost / monitoring` | UWRange: An Open ROS Framework for Simulating Acoustic Ranging and Localization for Underwater Robots under Realistic Conditions |
+| [026](topic-026.md) | 语音、音频与声学建模 | 18 | 1.50% | 3D/具身/机器人 | `acoustic / underwater / low-cost / monitoring` | UWRange: An Open ROS Framework for Simulating Acoustic Ranging and Localization for Underwater Robots under Realistic Conditions |
 | [027](topic-027.md) | 机器人遥操作与触觉交互 | 18 | 1.50% | 3D/具身/机器人 | `shared / teleoperation / manipulators / predictive` | The Predictive Kinematic Control Tree: Enhancing Teleoperation of Redundant Robots through Probabilistic User Models |
 | [028](topic-028.md) | 自动驾驶感知与世界模型 | 18 | 1.50% | 3D/具身/机器人 | `driving / autonomous / learning / reinforcement` | Hierarchical Model-Based Imitation Learning for Planning in Autonomous Driving |
 | [029](topic-029.md) | 自动驾驶感知与世界模型 | 17 | 1.41% | 3D/具身/机器人 | `prediction / trajectory / motion / human` | Social-PatteRNN: Socially-Aware Trajectory Prediction Guided by Motion Patterns |
@@ -67,7 +67,7 @@
 | [053](topic-053.md) | 机器人触觉感知与操作 | 12 | 1.00% | 3D/具身/机器人 | `grasping / soft / grippers / handling` | Visual Pressure Estimation and Control for Soft Robotic Grippers |
 | [054](topic-054.md) | continuum / modular / robots / jamming | 11 | 0.92% | 3D/具身/机器人 | `continuum / modular / robots / jamming` | Design of a modular continuum robot with alterable compliance using tubular-actuation |
 | [055](topic-055.md) | 手术机器人与医学机器人 | 11 | 0.92% | 3D/具身/机器人 | `robotic / surgery / control / design` | Robotic Actuation and Control of a Catheter for Structural Intervention Cardiology |
-| [056](topic-056.md) | 目标检测与图像分割 | 11 | 0.92% | 3D/具身/机器人 | `harvesting / detection / segmentation / reconstruction` | Optical flow-based branch segmentation for complex orchard environments |
+| [056](topic-056.md) | 图像分割、语义分割与场景解析 | 11 | 0.92% | 3D/具身/机器人 | `harvesting / detection / segmentation / reconstruction` | Optical flow-based branch segmentation for complex orchard environments |
 | [057](topic-057.md) | 自动驾驶感知与世界模型 | 11 | 0.92% | 3D/具身/机器人 | `driving / autonomous / latent / vehicle` | Attention-Based Deep Driving Model for Autonomous Vehicles with Surround-View Cameras |
 | [058](topic-058.md) | 规划搜索与决策推理 | 11 | 0.92% | 3D/具身/机器人 | `search / planning / motion / space` | BITKOMO: Combining Sampling and Optimization for Fast Convergence in Optimal Motion Planning |
 | [059](topic-059.md) | 点云表示与 3D 感知 | 11 | 0.92% | 3D/具身/机器人 | `recognition / semantic / point / cloud` | BoxGraph: Semantic Place Recognition and Pose Estimation from 3D LiDAR |

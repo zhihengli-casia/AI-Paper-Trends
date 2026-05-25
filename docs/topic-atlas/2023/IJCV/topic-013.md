@@ -1,8 +1,8 @@
-# IJCV 2023: 目标检测与图像分割
+# IJCV 2023: 行人重识别与人群计数
 
 - Topic ID: `13`
 - Papers: **9** (4.05%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `detection / skeleton / person / object`
 - Keyword pool: detection; skeleton; person; object; set; principal; re-identification; prohibited; pidray large-scale; special; tensor; x-ray
 

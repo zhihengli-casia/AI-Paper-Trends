@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **25** (6.87%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `negative / sequential recommendation / items / variational`
 - Keyword pool: negative; sequential recommendation; items; variational; feature; recommender; samples; sampling; preference; bias; feedback; selection
 

@@ -1,8 +1,8 @@
-# ICLR 2026: LLM Agent 与工具使用
+# ICLR 2026: 智能体决策与多智能体系统
 
 - Topic ID: `65`
 - Papers: **37** (0.69%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `agents / cybersecurity / attacks / vulnerabilities`
 - Keyword pool: agents; cybersecurity; attacks; vulnerabilities; red-teaming; safety; cuas; web; mcp; risks; defenses; injection
 

@@ -1,4 +1,4 @@
-# ICCV 2023: shape / surface / primitives / deformation
+# ICCV 2023: 3D 形状重建与隐式表示
 
 - Topic ID: `24`
 - Papers: **30** (1.39%)

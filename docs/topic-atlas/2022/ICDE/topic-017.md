@@ -1,8 +1,8 @@
-# ICDE 2022: 文档摘要与信息压缩
+# ICDE 2022: 数据摘要、聚类与原型选择
 
 - Topic ID: `17`
 - Papers: **8** (2.59%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `graphs / clustering / summarization / structural`
 - Keyword pool: graphs; clustering; summarization; structural; partitioning; boosting; minimum; massive; lossless; local; index-free; personalized
 

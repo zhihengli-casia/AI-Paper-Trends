@@ -1,8 +1,8 @@
-# CVPR 2020: 目标检测与图像分割
+# CVPR 2020: 实例分割与开放词汇分割
 
 - Topic ID: `63`
 - Papers: **12** (0.82%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `point / segmentation / clouds / instance`
 - Keyword pool: point; segmentation; clouds; instance; semantic; grouping; labels; nms; weakly; occupancy; supervised; s3dis
 

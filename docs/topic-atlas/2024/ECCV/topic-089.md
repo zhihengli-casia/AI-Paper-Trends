@@ -2,7 +2,7 @@
 
 - Topic ID: `89`
 - Papers: **12** (0.50%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `kernel / super-resolution / blind / diffusion`
 - Keyword pool: kernel; super-resolution; blind; diffusion; blur; deep unfolding; degradation; deconvolution; bid; low-resolution; high-resolution; real-world image
 

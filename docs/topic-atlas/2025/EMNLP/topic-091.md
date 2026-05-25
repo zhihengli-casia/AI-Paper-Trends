@@ -2,7 +2,7 @@
 
 - Topic ID: `91`
 - Papers: **9** (0.50%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / harmful / lalms / guardrail`
 - Keyword pool: safety; harmful; lalms; guardrail; jailbreak; index; multilingual; attacks; adapters; vulnerable; unsafe; languages modalities
 

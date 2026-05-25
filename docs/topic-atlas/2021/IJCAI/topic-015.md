@@ -1,8 +1,8 @@
-# IJCAI 2021: LLM Agent 与工具使用
+# IJCAI 2021: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `15`
 - Papers: **19** (2.63%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / agents / goods / allocation`
 - Keyword pool: fairness; agents; goods; allocation; items; division; envy-freeness; approximation; groups; notions; share; proportionality
 

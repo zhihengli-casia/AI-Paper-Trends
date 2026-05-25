@@ -1,4 +1,4 @@
-# ECCV 2024: domain adaptation / target domain / unsupervised domain / sfda
+# ECCV 2024: 领域自适应与迁移学习
 
 - Topic ID: `77`
 - Papers: **14** (0.59%)

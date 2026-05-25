@@ -1,8 +1,8 @@
-# CHI 2023: 语音/音频语言模型
+# CHI 2023: 语音识别与语音理解
 
 - Topic ID: `3`
 - Papers: **36** (4.13%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `speech / accessibility / hybrid / real-time`
 - Keyword pool: speech; accessibility; hybrid; real-time; online; video; recognition; language; people; support; speaking; china
 

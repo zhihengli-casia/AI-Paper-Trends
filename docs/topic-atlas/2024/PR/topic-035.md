@@ -1,8 +1,8 @@
-# PR 2024: 目标检测与图像分割
+# PR 2024: 图像分割、语义分割与场景解析
 
 - Topic ID: `35`
 - Papers: **13** (1.35%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `vqa / segmentation / image / reasoning`
 - Keyword pool: vqa; segmentation; image; reasoning; class; visual; multi-resolution; teacher; contrastive; mml; activation; samples
 

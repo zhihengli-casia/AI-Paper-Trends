@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **43** (6.06%)
-- Macro topic: NLP任务
+- Macro topic: 可信/安全/公平
 - English keywords: `entity / ner / entities / recognition`
 - Keyword pool: entity; ner; entities; recognition; named; mentions; privacy; boundary; classes; chinese; weak; few-shot
 

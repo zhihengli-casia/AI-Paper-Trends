@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **9** (0.88%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `graph / gcns / convolutional networks / contourlet`
 - Keyword pool: graph; gcns; convolutional networks; contourlet; counting; coefficients; sampler; distributed; quantization; high-order; node; filters
 

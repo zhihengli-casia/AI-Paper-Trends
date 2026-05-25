@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **11** (1.37%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `anomaly / detection / video / anomalies`
 - Keyword pool: anomaly; detection; video; anomalies; unsupervised; trajectory; supervision; containing; annotations; fully; classification; adversarial
 

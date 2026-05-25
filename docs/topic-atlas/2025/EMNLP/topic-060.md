@@ -2,7 +2,7 @@
 
 - Topic ID: `60`
 - Papers: **15** (0.83%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 可信/安全/公平
 - English keywords: `judge / self-preference / bias / responses`
 - Keyword pool: judge; self-preference; bias; responses; interval; rating; product; conformal prediction; judgment; score; concepts; debate
 

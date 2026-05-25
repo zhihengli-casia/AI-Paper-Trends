@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **19** (1.21%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `answering / parsing / question / reasoning`
 - Keyword pool: answering; parsing; question; reasoning; queries; repair; shortcut; options; multilingual; facts; languages; schema
 

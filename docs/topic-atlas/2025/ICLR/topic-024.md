@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **35** (0.95%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `llms / scientific / agents / science`
 - Keyword pool: llms; scientific; agents; science; discovery; review; peer; reasoning; chemistry; questions; papers; win
 

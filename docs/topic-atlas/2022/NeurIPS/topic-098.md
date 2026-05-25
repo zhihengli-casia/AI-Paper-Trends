@@ -2,7 +2,7 @@
 
 - Topic ID: `98`
 - Papers: **11** (0.41%)
-- Macro topic: 理论/优化
+- Macro topic: AI4Science/医疗
 - English keywords: `equilibrium / synaptic / biologically-plausible / learning rules`
 - Keyword pool: equilibrium; synaptic; biologically-plausible; learning rules; brain; recurrent; credit; neuronal; memory; theory; weight; activity
 

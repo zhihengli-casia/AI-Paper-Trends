@@ -2,7 +2,7 @@
 
 - Topic ID: `117`
 - Papers: **19** (0.36%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `eeg / brain / emotion / fmri`
 - Keyword pool: eeg; brain; emotion; fmri; physiological; electrode; activity; multimodal; spatiotemporal; electroencephalography; recordings; spatial
 

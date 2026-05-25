@@ -1,8 +1,8 @@
-# IJCAI 2021: 文档摘要与信息压缩
+# IJCAI 2021: 视频摘要与精彩片段检测
 
 - Topic ID: `38`
 - Papers: **8** (1.11%)
-- Macro topic: NLP任务
+- Macro topic: 计算机视觉
 - English keywords: `video / spatiotemporal / localization / spatio-temporal`
 - Keyword pool: video; spatiotemporal; localization; spatio-temporal; summarization; sentiment; action; engagement; weakly-supervised; continuity; modalities; reasoning
 

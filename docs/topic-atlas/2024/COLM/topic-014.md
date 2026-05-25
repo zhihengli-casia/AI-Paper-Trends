@@ -1,8 +1,8 @@
-# COLM 2024: 多语言建模与跨语言迁移
+# COLM 2024: 机器翻译与跨语言对齐
 
 - Topic ID: `14`
 - Papers: **11** (3.68%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `chinese / japanese / translation / multilingual`
 - Keyword pool: chinese; japanese; translation; multilingual; billion; corpus; english; continual; languages; cross-lingual; vocabulary; pre-training
 

@@ -1,4 +1,4 @@
-# NeurIPS 2020: 对抗攻击、鲁棒性与安全
+# NeurIPS 2020: GAN 与图像生成
 
 - Topic ID: `6`
 - Papers: **36** (1.90%)

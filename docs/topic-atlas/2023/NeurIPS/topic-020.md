@@ -1,8 +1,8 @@
-# NeurIPS 2023: 规划搜索与决策推理
+# NeurIPS 2023: 组合优化与神经求解
 
 - Topic ID: `20`
 - Papers: **40** (1.24%)
-- Macro topic: 强化学习/决策
+- Macro topic: 理论/优化
 - English keywords: `combinatorial optimization / search / planning / solvers`
 - Keyword pool: combinatorial optimization; search; planning; solvers; pomdp; policy; heuristics; instances; motion; policies; tree; routing
 

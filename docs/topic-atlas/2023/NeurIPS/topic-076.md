@@ -1,4 +1,4 @@
-# NeurIPS 2023: domain adaptation / target domain / uda / domains
+# NeurIPS 2023: 领域自适应与迁移学习
 
 - Topic ID: `76`
 - Papers: **20** (0.62%)

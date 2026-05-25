@@ -1,8 +1,8 @@
-# IJCAI 2022: Bandit 与 regret 理论
+# IJCAI 2022: 组合优化与神经求解
 
 - Topic ID: `16`
 - Papers: **18** (2.09%)
-- Macro topic: 强化学习/决策
+- Macro topic: 理论/优化
 - English keywords: `bandit / arm / reward / regret`
 - Keyword pool: bandit; arm; reward; regret; species; portfolio; bound; convex; combinatorial; setting; linear; optimization
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **27** (0.73%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `mllms / visual / multimodal / tokens`
 - Keyword pool: mllms; visual; multimodal; tokens; lmms; vision; segmentation; interleaved; lvlms; multi-modal; images; compression
 

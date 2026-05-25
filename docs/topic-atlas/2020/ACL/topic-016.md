@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **17** (2.19%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: AI4Science/医疗
 - English keywords: `reading / comprehension / mrc / answer`
 - Keyword pool: reading; comprehension; mrc; answer; document; questions; memory; evidence; derivations; clinical; long; span
 

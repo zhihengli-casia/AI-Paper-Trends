@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **31** (7.09%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `bias / unseen / zero-shot / synthesis`
 - Keyword pool: bias; unseen; zero-shot; synthesis; monospace; objects; generation; attributes; generative; sentence; medical; language
 

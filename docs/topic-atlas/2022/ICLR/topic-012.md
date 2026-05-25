@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **22** (2.07%)
-- Macro topic: 理论/优化
+- Macro topic: 生成模型
 - English keywords: `sgd / convergence / stochastic / minimax`
 - Keyword pool: sgd; convergence; stochastic; minimax; gradient; convex; gans; minibatch; distributed; permutations; local; ascent
 

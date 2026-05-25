@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **15** (1.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / adversarial / unlearning / reuse`
 - Keyword pool: attacks; adversarial; unlearning; reuse; inversion; defense; backdoor; substitute; poisoning; dnns; machine; security
 

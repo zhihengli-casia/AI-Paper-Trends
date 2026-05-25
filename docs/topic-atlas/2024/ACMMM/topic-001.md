@@ -1,8 +1,8 @@
-# ACMMM 2024: 目标检测与图像分割
+# ACMMM 2024: 领域自适应与迁移学习
 
 - Topic ID: `1`
 - Papers: **33** (2.87%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `segmentation / domain adaptation / target domain / domains`
 - Keyword pool: segmentation; domain adaptation; target domain; domains; tta; source domain; cross-domain; domain generalization; style; ood; object; augmentation
 

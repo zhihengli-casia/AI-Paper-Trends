@@ -1,8 +1,8 @@
-# NeurIPS 2020: LLM Agent 与工具使用
+# NeurIPS 2020: 元学习、MAML 与少样本适应
 
 - Topic ID: `15`
 - Papers: **30** (1.58%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `meta-learning / maml / heterogeneous / auxiliary`
 - Keyword pool: meta-learning; maml; heterogeneous; auxiliary; attribute; task-specific; adaptation; few-shot; agents; domain; apprenticeship; inner loop
 

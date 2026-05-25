@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **11** (0.66%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `domain / rpn / adaptation / biomedical`
 - Keyword pool: domain; rpn; adaptation; biomedical; object detection; style; alignment; bias; category-aware; shift; statistics; adaptive
 

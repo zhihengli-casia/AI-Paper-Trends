@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **11** (2.03%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `compression / memory / discriminative power / learned image`
 - Keyword pool: compression; memory; discriminative power; learned image; image video; pruning; filters; traditional image; gpu; speed; rates; quantization
 

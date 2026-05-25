@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **15** (2.28%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 可信/安全/公平
 - English keywords: `face / detection / recognition / artifacts`
 - Keyword pool: face; detection; recognition; artifacts; adversarial; deep; enhancement learning; siamese network; point clouds; operator; occluded; norm matrix
 

@@ -1,8 +1,8 @@
-# NeurIPS 2024: 目标检测与图像分割
+# NeurIPS 2024: 视频动作识别与时序定位
 
 - Topic ID: `84`
 - Papers: **22** (0.55%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `video / temporal / segmentation / tokens`
 - Keyword pool: video; temporal; segmentation; tokens; captioning; action; frames; grounding; object; token merging; segments; slots
 

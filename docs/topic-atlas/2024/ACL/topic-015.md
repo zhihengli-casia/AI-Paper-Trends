@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **22** (2.34%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / rag / retrieved / dense`
 - Keyword pool: retrieval; rag; retrieved; dense; conversational; search; retrievers; augmentation; rms; relevant; noise; query
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **36** (3.89%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `kernel / quadratic / feature selection / faster`
 - Keyword pool: kernel; quadratic; feature selection; faster; classification; hyperparameter; decision; fuzzy; similar; tuning; support vector; linear
 

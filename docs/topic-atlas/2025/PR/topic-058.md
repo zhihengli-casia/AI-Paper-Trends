@@ -1,8 +1,8 @@
-# PR 2025: 查询理解与检索优化
+# PR 2025: 视频检索、时刻定位与事件理解
 
 - Topic ID: `58`
 - Papers: **13** (0.86%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `video / grounding / temporal / query`
 - Keyword pool: video; grounding; temporal; query; retrieval; visual; transformer; motion; dilated; counteracting; modality imbalance; device
 

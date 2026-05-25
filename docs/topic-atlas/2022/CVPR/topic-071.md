@@ -1,8 +1,8 @@
-# CVPR 2022: 视频理解/生成 / action / recognition / temporal
+# CVPR 2022: 视频动作识别与时序定位
 
 - Topic ID: `71`
 - Papers: **14** (0.68%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `video / action / recognition / temporal`
 - Keyword pool: video; action; recognition; temporal; transformers; kinetics-400; anticipation; long-term; captioning; top-1 accuracy; pretraining; frames
 

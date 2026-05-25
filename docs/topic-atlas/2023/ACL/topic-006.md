@@ -1,8 +1,8 @@
-# ACL 2023: relation / extraction / entity / document-level
+# ACL 2023: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `6`
 - Papers: **25** (2.33%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `relation / extraction / entity / document-level`
 - Keyword pool: relation; extraction; entity; document-level; continual; matching; uncertainty; instances; entities; labels; biomedical; semi-supervised
 

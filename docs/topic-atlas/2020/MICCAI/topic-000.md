@@ -1,8 +1,8 @@
-# MICCAI 2020: 目标检测与图像分割
+# MICCAI 2020: 医学影像分割
 
 - Topic ID: `0`
 - Papers: **18** (22.50%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / image segmentation / feature / attention`
 - Keyword pool: medical; image segmentation; feature; attention; augmentation; semi-supervised; neural; architecture; images; semantic; deep; nuclei
 

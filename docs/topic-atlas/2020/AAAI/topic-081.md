@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **9** (0.56%)
-- Macro topic: NLP任务
+- Macro topic: 计算机视觉
 - English keywords: `video / dialog / question answering / graph`
 - Keyword pool: video; dialog; question answering; graph; localization; frame; temporal; bottom-up; contextual attention; location; object; top-down
 

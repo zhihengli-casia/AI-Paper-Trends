@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **72** (1.74%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `mesh / reconstruction / avatar / geometry`
 - Keyword pool: mesh; reconstruction; avatar; geometry; video; editing; diffusion; multi-view; monocular; image; geometric; scene
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **36** (1.59%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `reward / human / rlhf / preference`
 - Keyword pool: reward; human; rlhf; preference; feedback; reinforcement learning; alignment; policy; llms; dpo; aligning; self-improvement
 

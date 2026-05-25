@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **17** (3.02%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `causal / mental / event / clinical`
 - Keyword pool: causal; mental; event; clinical; social media; health; risk; story; interventions; detection; language-based; toxicity
 

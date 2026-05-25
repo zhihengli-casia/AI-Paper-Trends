@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **33** (1.22%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `super-resolution / resampling / denoising / anime`
 - Keyword pool: super-resolution; resampling; denoising; anime; lr images; noise; arbitrary-scale; artifacts; downscaling; latent; turbulence; low-resolution
 

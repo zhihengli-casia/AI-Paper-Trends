@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **27** (1.42%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `bayesian optimization / hyperparameters / black-box / acquisition`
 - Keyword pool: bayesian optimization; hyperparameters; black-box; acquisition; search; multi-objective; experimental design; functions; objective function; optimization problems; simulator; high-dimensional
 

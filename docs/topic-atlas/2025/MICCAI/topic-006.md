@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **5** (7.69%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `survival / attention-entropy / record population memory / prototype`
 - Keyword pool: survival; attention-entropy; record population memory; prototype; preti patient-aware retinal; predicting femoral head; population memory latent; patient-aware retinal foundation; patient preti patient-aware; osteonecrosis label tokenization; multimodal longitudinal patient; multi-modality
 

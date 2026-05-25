@@ -2,7 +2,7 @@
 
 - Topic ID: `68`
 - Papers: **36** (0.67%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `hallucination / visual / detection / emotion`
 - Keyword pool: hallucination; visual; detection; emotion; mllms; lvlms; multimodal; casal; hallucinated; preference; vision-language; rag
 

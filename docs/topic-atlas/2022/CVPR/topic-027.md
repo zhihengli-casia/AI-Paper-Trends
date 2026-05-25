@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **27** (1.30%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `lidar / point / object detection / clouds`
 - Keyword pool: lidar; point; object detection; clouds; autonomous; driving; voxel; pedestrian; sensors; fusion; depth; nuscenes
 

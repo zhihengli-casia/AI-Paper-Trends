@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **12** (7.84%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: NLP任务
 - English keywords: `queries / parallel / query / optimizing`
 - Keyword pool: queries; parallel; query; optimizing; join; sql; production; indexes; temporal; relative; entity resolution; computing
 

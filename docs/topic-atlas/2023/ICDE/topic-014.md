@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **12** (3.23%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `recommendation / graph / neural / disentangled`
 - Keyword pool: recommendation; graph; neural; disentangled; networks; information network; mixture; heterogeneous information; persistent; representation learning; streaming; instant
 

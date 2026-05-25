@@ -1,8 +1,8 @@
-# CVPR 2025: 搜索排序与相关性建模
+# CVPR 2025: 行人重识别与人群计数
 
 - Topic ID: `118`
 - Papers: **10** (0.35%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `re-identification / person / clothing / identity`
 - Keyword pool: re-identification; person; clothing; identity; reid; differentiated; re-ranking; aerial-ground; neighbor; k-nearest; privacy; unlearning
 

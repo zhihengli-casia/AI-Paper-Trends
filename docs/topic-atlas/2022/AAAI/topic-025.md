@@ -1,8 +1,8 @@
-# AAAI 2022: 目标检测与图像分割
+# AAAI 2022: 医学影像分割
 
 - Topic ID: `25`
 - Papers: **19** (1.44%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `semantic segmentation / self-supervised / medical / attribute`
 - Keyword pool: semantic segmentation; self-supervised; medical; attribute; unsupervised; semi-supervised; open; weakly supervised semantic; scene representations; reference-guided; representations robust; labels assist
 

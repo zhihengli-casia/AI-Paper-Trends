@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **18** (2.10%)
-- Macro topic: 理论/优化
+- Macro topic: AI4Science/医疗
 - English keywords: `recurrent / rnns / units / memory`
 - Keyword pool: recurrent; rnns; units; memory; neuroscience; neurons; dynamical; inhibitory; conversion; timescales; brain; spiking
 

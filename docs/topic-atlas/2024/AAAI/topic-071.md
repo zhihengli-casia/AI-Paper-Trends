@@ -2,7 +2,7 @@
 
 - Topic ID: `71`
 - Papers: **15** (0.64%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / bit / llms / quantum`
 - Keyword pool: quantization; bit; llms; quantum; quantized; circuit; pruning; activation; detr; language; post-training; structured
 

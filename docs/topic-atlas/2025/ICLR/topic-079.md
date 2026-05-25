@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **21** (0.57%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / ehr / pathology / multimodal`
 - Keyword pool: medical; ehr; pathology; multimodal; health; imaging; disease; surgical; diagnosis; vision-language; modalities; images
 

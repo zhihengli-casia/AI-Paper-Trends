@@ -1,4 +1,4 @@
-# AAAI 2023: ner / entity / recognition / named
+# AAAI 2023: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `20`
 - Papers: **22** (1.40%)

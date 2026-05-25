@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **16** (3.96%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `gnns / node / graph neural / imbalance`
 - Keyword pool: gnns; node; graph neural; imbalance; explanation; neural networks; fairness; edges; sensitive; values; graphs; classification
 

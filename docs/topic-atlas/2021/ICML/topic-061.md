@@ -1,4 +1,4 @@
-# ICML 2021: noisy / transition matrix / labels / anchor
+# ICML 2021: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `61`
 - Papers: **8** (0.68%)

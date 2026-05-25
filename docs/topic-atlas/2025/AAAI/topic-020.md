@@ -1,8 +1,8 @@
-# AAAI 2025: 目标检测与图像分割
+# AAAI 2025: 目标检测与开放世界检测
 
 - Topic ID: `20`
 - Papers: **35** (1.16%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `student / teacher / distillation / anomaly detection`
 - Keyword pool: student; teacher; distillation; anomaly detection; fatigue; anomalies; tabular; cognitive; abnormal; adversarial; fault; object detection
 

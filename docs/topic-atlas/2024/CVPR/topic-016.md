@@ -1,8 +1,8 @@
-# CVPR 2024: 目标检测与图像分割
+# CVPR 2024: 医学影像分割
 
 - Topic ID: `16`
 - Papers: **36** (1.33%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / segmentation / anatomical / tumor`
 - Keyword pool: medical; segmentation; anatomical; tumor; mri; imaging; registration; hit; calibration; slices; semi-supervised; anomaly
 

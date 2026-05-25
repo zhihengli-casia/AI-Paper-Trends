@@ -1,8 +1,8 @@
-# ACL 2020: 目标检测与图像分割
+# ACL 2020: 中文分词、字符与子词建模
 
 - Topic ID: `25`
 - Papers: **14** (1.80%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `segmentation / chinese / subword / character`
 - Keyword pool: segmentation; chinese; subword; character; spelling; ner; tagging; matching; error; cross-domain; conversion; correction
 

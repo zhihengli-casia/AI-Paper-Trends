@@ -1,8 +1,8 @@
-# PR 2023: 对抗攻击、鲁棒性与安全
+# PR 2023: 人脸分析、表情与属性建模
 
 - Topic ID: `43`
 - Papers: **9** (1.12%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `facial / face / adversarial / attack`
 - Keyword pool: facial; face; adversarial; attack; backdoor; robustness; latent space; defense; realistic; direction; transferability; physical
 

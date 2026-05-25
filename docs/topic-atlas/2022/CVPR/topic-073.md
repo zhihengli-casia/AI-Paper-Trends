@@ -1,8 +1,8 @@
-# CVPR 2022: 语音/音频语言模型
+# CVPR 2022: 人脸分析、表情与属性建模
 
 - Topic ID: `73`
 - Papers: **13** (0.63%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `gestures / speech / talking / audio`
 - Keyword pool: gestures; speech; talking; audio; facial; generation; mouth; animation; video; face; expressions; speaker
 

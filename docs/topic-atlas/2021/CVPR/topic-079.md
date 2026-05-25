@@ -1,4 +1,4 @@
-# CVPR 2021: ssl / pseudo / semi-supervised / labels
+# CVPR 2021: 半监督学习与噪声标签建模
 
 - Topic ID: `79`
 - Papers: **9** (0.54%)

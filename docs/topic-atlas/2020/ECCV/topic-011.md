@@ -1,8 +1,8 @@
-# ECCV 2020: face / age / facial / aging
+# ECCV 2020: 人脸分析、表情与属性建模
 
 - Topic ID: `11`
 - Papers: **26** (1.91%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `face / age / facial / aging`
 - Keyword pool: face; age; facial; aging; physiological; identity; bias; disentangled; animal; frequency; distribution; attribute
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **13** (0.54%)
-- Macro topic: HCI/社会计算
+- Macro topic: 计算机视觉
 - English keywords: `avatars / animatable / head / rendering`
 - Keyword pool: avatars; animatable; head; rendering; hair; gaussian; facial; expressions; relighting; digital; mesh; splatting
 

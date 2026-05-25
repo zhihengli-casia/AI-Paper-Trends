@@ -1,4 +1,4 @@
-# ICML 2024: sparse / scaling / sparsity / dense
+# ICML 2024: 神经架构搜索与模型设计
 
 - Topic ID: `10`
 - Papers: **45** (1.72%)

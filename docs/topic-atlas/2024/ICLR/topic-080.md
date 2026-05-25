@@ -2,7 +2,7 @@
 
 - Topic ID: `80`
 - Papers: **14** (0.62%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attacks / policy / reinforcement learning`
 - Keyword pool: adversarial; attacks; policy; reinforcement learning; policies; robust rl; object; patches; defense; fusion; perturbations; iql
 

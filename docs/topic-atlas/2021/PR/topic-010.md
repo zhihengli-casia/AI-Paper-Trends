@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **18** (3.06%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `mml / adversarial / detection / video`
 - Keyword pool: mml; adversarial; detection; video; surveillance; black-box; generalizability; generic; media; mrow; enhanced; explaining
 

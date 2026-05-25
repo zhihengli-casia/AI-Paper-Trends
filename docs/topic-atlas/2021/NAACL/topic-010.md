@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **19** (3.98%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `coreference / event / resolution / anaphora`
 - Keyword pool: coreference; event; resolution; anaphora; temporal; extraction; discourse; argument; graph; reasoning; entity; implicit
 

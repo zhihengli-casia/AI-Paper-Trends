@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **28** (1.75%)
-- Macro topic: HCI/社会计算
+- Macro topic: 可信/安全/公平
 - English keywords: `news / social media / word / fake`
 - Keyword pool: news; social media; word; fake; bias; detection; event; gender; tweets; embeddings; damage; linguistic
 

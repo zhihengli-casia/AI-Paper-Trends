@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **91** (2.26%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / text-to-image / images / editing`
 - Keyword pool: diffusion; text-to-image; images; editing; t2i; style; facial; semantic; segmentation; image generation; stereotypes; object
 

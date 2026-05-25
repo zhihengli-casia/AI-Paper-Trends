@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **17** (1.77%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `face / signature / recognition / attack`
 - Keyword pool: face; signature; recognition; attack; detection; image; localization; representation; protection; hybrid transformer; learning generalized; locally
 

@@ -1,8 +1,8 @@
-# NeurIPS 2021: 语音/音频语言模型
+# NeurIPS 2021: 语音识别与语音理解
 
 - Topic ID: `65`
 - Papers: **16** (0.69%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `speech / asr / audio / movements`
 - Keyword pool: speech; asr; audio; movements; correction; recognition; style; signal; visual context; subnetworks; video; alignment
 

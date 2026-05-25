@@ -1,8 +1,8 @@
-# NAACL 2022: 句法语义解析与结构化表示
+# NAACL 2022: 句法解析与语言结构建模
 
 - Topic ID: `21`
 - Papers: **11** (2.49%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `probing / syntactic / syntax / probes`
 - Keyword pool: probing; syntactic; syntax; probes; concepts; dependency; interpretation; modal; linguistic; prompting; parsing; latent
 

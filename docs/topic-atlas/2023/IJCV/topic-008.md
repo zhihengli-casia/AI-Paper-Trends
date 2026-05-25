@@ -1,4 +1,4 @@
-# IJCV 2023: domain / adaptation / generalization / knowledge transfer
+# IJCV 2023: 领域自适应与迁移学习
 
 - Topic ID: `8`
 - Papers: **11** (4.95%)

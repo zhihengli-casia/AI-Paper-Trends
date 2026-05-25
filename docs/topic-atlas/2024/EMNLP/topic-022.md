@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **21** (1.66%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `agents / social / decision-making / insight`
 - Keyword pool: agents; social; decision-making; insight; sequential; self-training; planning; game; multi-agent; intention; decision making; simulations
 

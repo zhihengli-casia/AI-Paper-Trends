@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **23** (0.85%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `hdr / spectral / sdr / unfolding`
 - Keyword pool: hdr; spectral; sdr; unfolding; fusion; quaternion; restoration; dynamic range; all-in-one; degradations; iso; reconstruction
 

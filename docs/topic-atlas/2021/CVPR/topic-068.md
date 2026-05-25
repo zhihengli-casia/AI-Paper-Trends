@@ -2,7 +2,7 @@
 
 - Topic ID: `68`
 - Papers: **11** (0.66%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `saliency / salient object / rgb-d / mesh`
 - Keyword pool: saliency; salient object; rgb-d; mesh; maps; cam; depth; object detection; layers; path; activation; detectors
 

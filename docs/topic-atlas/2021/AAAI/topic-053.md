@@ -1,8 +1,8 @@
-# AAAI 2021: 目标检测与图像分割
+# AAAI 2021: 医学影像分割
 
 - Topic ID: `53`
 - Papers: **15** (0.91%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / images / grading / medical`
 - Keyword pool: segmentation; images; grading; medical; cancer; annotations; regions; bone; mri; ultrasound; diagnosis; context modeling
 

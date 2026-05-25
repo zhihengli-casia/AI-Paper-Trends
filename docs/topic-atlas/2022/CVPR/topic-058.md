@@ -2,7 +2,7 @@
 
 - Topic ID: `58`
 - Papers: **17** (0.82%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `video / interpolation / frame / temporal`
 - Keyword pool: video; interpolation; frame; temporal; intermediate; motion; shadow; long-term; sinusoidal; discrete latent; inr; synthesis
 

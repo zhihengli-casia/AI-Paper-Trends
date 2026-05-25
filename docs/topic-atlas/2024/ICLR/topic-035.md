@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **24** (1.06%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `regret / bandits / online / active learning`
 - Keyword pool: regret; bandits; online; active learning; bounds; arms; feedback; meta learning; guarantees; values; reward; items
 

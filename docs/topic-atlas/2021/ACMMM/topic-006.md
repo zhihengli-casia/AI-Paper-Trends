@@ -1,4 +1,4 @@
-# ACMMM 2021: tracking / object / vehicle / detection
+# ACMMM 2021: 行人重识别与人群计数
 
 - Topic ID: `6`
 - Papers: **21** (3.87%)

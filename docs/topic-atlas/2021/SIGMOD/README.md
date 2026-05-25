@@ -19,9 +19,9 @@
 | [005](topic-005.md) | database / partitioning / processing / query | 13 | 6.40% | 系统/效率/压缩 | `database / partitioning / processing / query` | Memory-Efficient Search Trees for Database Management Systems |
 | [006](topic-006.md) | 图学习 / clustering / parallel / algorithms | 12 | 5.91% | 推荐/检索/排序 | `graph / clustering / parallel / algorithms` | Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching |
 | [007](topic-007.md) | workloads / analytics / query / cloud | 12 | 5.91% | 系统/效率/压缩 | `workloads / analytics / query / cloud` | Steering Query Optimizers: A Practical Take on Big Data Workloads |
-| [008](topic-008.md) | event / streaming / graphs / 视频理解/生成 | 12 | 5.91% | 系统/效率/压缩 | `event / streaming / graphs / video` | MuSE Graphs for Flexible Distribution of Event Stream Processing in Networks |
+| [008](topic-008.md) | event / streaming / graphs / 视频理解/生成 | 12 | 5.91% | 计算机视觉 | `event / streaming / graphs / video` | MuSE Graphs for Flexible Distribution of Event Stream Processing in Networks |
 | [009](topic-009.md) | neural / learning / databases / machine | 10 | 4.93% | 可信/安全/公平 | `neural / learning / databases / machine` | ARM-Net: Adaptive Relation Modeling Network for Structured Data |
 | [010](topic-010.md) | top-k / cost / distance / prediction | 9 | 4.43% | 系统/效率/压缩 | `top-k / cost / distance / prediction` | On m-Impact Regions and Standing Top-k Influence Problems |
 | [011](topic-011.md) | graphs / subgraph / approximate / lsh | 8 | 3.94% | 系统/效率/压缩 | `graphs / subgraph / approximate / lsh` | HUGE: An Efficient and Scalable Subgraph Enumeration System |
-| [012](topic-012.md) | 图学习 / analytics / real-time / network | 8 | 3.94% | 图学习/数据挖掘 | `graph / analytics / real-time / network` | iTurboGraph: Scaling and Automating Incremental Graph Analytics |
+| [012](topic-012.md) | 图学习 / analytics / real-time / network | 8 | 3.94% | 计算机视觉 | `graph / analytics / real-time / network` | iTurboGraph: Scaling and Automating Incremental Graph Analytics |
 | [013](topic-013.md) | join / big / experimental / nested | 8 | 3.94% | 系统/效率/压缩 | `join / big / experimental / nested` | Parallelizing Intra-Window Join on Multicores: An Experimental Study |

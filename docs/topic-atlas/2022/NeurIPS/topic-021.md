@@ -1,8 +1,8 @@
-# NeurIPS 2022: shape / deformation / reconstruction / pose
+# NeurIPS 2022: 人体姿态估计与运动理解
 
 - Topic ID: `21`
 - Papers: **37** (1.39%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `shape / deformation / reconstruction / pose`
 - Keyword pool: shape; deformation; reconstruction; pose; keypoint; human; non-rigid; object; correspondence; surface; animal; point clouds
 

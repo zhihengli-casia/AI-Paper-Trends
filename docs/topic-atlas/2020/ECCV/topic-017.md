@@ -1,8 +1,8 @@
-# ECCV 2020: facial / face / expression / editing
+# ECCV 2020: 人脸分析、表情与属性建模
 
 - Topic ID: `17`
 - Papers: **24** (1.77%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `facial / face / expression / editing`
 - Keyword pool: facial; face; expression; editing; style; head; hair; attribute; generation; animation; avatars; illumination
 

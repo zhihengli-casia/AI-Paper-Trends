@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **58** (2.15%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `motion / video generation / temporal / videos`
 - Keyword pool: motion; video generation; temporal; videos; video diffusion; editing; frame; t2v; dits; text-to-video; swap; content
 

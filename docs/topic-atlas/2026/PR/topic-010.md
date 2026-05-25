@@ -1,4 +1,4 @@
-# PR 2026: pose / human / estimation / 运动建模
+# PR 2026: 人体姿态估计与运动理解
 
 - Topic ID: `10`
 - Papers: **24** (2.59%)

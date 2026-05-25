@@ -1,8 +1,8 @@
-# AAAI 2020: dialogue / conversation / open-domain / responses
+# AAAI 2020: 对话系统与会话建模
 
 - Topic ID: `2`
 - Papers: **40** (2.50%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `dialogue / conversation / open-domain / responses`
 - Keyword pool: dialogue; conversation; open-domain; responses; generation; language; utterances; multi-domain; task-oriented; engagement; human; ood
 

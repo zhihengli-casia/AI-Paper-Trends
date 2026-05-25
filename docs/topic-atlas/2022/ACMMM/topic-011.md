@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **21** (3.04%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `image captioning / table / fine-grained / news`
 - Keyword pool: image captioning; table; fine-grained; news; relation; understanding; distinctive; recognition; captions; reference images; object; verb
 

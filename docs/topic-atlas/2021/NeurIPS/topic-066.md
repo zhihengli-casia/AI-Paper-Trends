@@ -2,7 +2,7 @@
 
 - Topic ID: `66`
 - Papers: **15** (0.64%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `communication / distributed / compression / sgd`
 - Keyword pool: communication; distributed; compression; sgd; sparsification; federated; compressed; convergence; compressors; compensation; server; compensated
 

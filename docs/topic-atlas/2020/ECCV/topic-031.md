@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **18** (1.33%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `super-resolution / degradation / low-resolution / sisr`
 - Keyword pool: super-resolution; degradation; low-resolution; sisr; perceptual; reference-based; high-resolution; single image; textures; imes; downscaled; psnr
 

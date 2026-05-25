@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **8** (0.89%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / dnns / attack / trigger`
 - Keyword pool: backdoor; dnns; attack; trigger; poisoned; diffusion; point; text-to-image; clean; defense; physical; camera
 

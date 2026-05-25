@@ -1,8 +1,8 @@
-# CVPR 2020: 语音/音频语言模型
+# CVPR 2020: 人脸分析、表情与属性建模
 
 - Topic ID: `12`
 - Papers: **24** (1.64%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `face / facial / landmark / in-the-wild`
 - Keyword pool: face; facial; landmark; in-the-wild; reconstruction; alignment; geometry; resolution; shape; details; head; audio
 

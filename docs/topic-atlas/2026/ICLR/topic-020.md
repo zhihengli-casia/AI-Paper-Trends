@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **56** (1.05%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `implicit bias / networks / descent / grokking`
 - Keyword pool: implicit bias; networks; descent; grokking; adam; scaling laws; sharpness; plasticity; initialisation; feature learning; deep learning; matrix
 

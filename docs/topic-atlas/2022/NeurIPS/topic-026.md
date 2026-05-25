@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **32** (1.20%)
-- Macro topic: 理论/优化
+- Macro topic: AI4Science/医疗
 - English keywords: `spiking / neurons / brain / biological`
 - Keyword pool: spiking; neurons; brain; biological; recurrent; neuroscience; dynamics; circuits; connectivity; coding; rnns; stimulus
 

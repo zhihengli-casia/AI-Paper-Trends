@@ -2,7 +2,7 @@
 
 - Topic ID: `58`
 - Papers: **40** (0.75%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `lrms / thinking / llms / cot`
 - Keyword pool: lrms; thinking; llms; cot; long-context reasoning; reasoning language; reflection; reasoning efficiency; llm reasoning; compression; test-time; length
 

@@ -1,8 +1,8 @@
-# ECCV 2020: action / temporal / 视频理解/生成 / untrimmed
+# ECCV 2020: 视频动作识别与时序定位
 
 - Topic ID: `6`
 - Papers: **29** (2.14%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 计算机视觉
 - English keywords: `action / temporal / video / untrimmed`
 - Keyword pool: action; temporal; video; untrimmed; localization; sign; frames; bag; gcns; weakly-supervised; activity; boundary
 

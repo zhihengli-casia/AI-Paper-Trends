@@ -2,7 +2,7 @@
 
 - Topic ID: `61`
 - Papers: **17** (0.75%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `shape / pose / object / camera`
 - Keyword pool: shape; pose; object; camera; point clouds; leap; reconstruction; images; sim2real; matching; estimation; target domain
 

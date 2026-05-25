@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **14** (1.09%)
-- Macro topic: 强化学习/决策
+- Macro topic: 计算机视觉
 - English keywords: `stations / demand / energy / scheduling`
 - Keyword pool: stations; demand; energy; scheduling; restoration; reinforcement learning; urban; passenger; replanning; harmony; power; supply
 

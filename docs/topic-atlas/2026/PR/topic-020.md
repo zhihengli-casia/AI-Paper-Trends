@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **18** (1.95%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `retrieval / cross-modal / hashing / image`
 - Keyword pool: retrieval; cross-modal; hashing; image; embedding; discrete; feature; supervised; prompt; generation; fine-grained; representation
 

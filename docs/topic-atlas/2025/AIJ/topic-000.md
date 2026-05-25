@@ -1,8 +1,8 @@
-# AIJ 2025: 目标检测与图像分割
+# AIJ 2025: 图像分割、语义分割与场景解析
 
 - Topic ID: `0`
 - Papers: **19** (20.65%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `graph / federated / clustering / segmentation`
 - Keyword pool: graph; federated; clustering; segmentation; robustness; spectral; computing; heterogeneous; changes; object; tree; time
 

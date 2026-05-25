@@ -2,7 +2,7 @@
 
 - Topic ID: `67`
 - Papers: **15** (0.63%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `weather / restoration / rain / dehazing`
 - Keyword pool: weather; restoration; rain; dehazing; adverse; deblurring; video; frequency; prompt; desnowing; nighttime; contrastive regularization
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **16** (1.09%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 系统/效率/压缩
 - English keywords: `convolution / cnns / computational / sparse`
 - Keyword pool: convolution; cnns; computational; sparse; architectures; separable; channel; binary; kernels; mobilenet; neural networks; complexity
 

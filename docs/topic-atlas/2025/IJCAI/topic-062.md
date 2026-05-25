@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **10** (0.78%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `asp / language / llms / planning`
 - Keyword pool: asp; language; llms; planning; reasoning; answer; programming; specifications; grammars; natural; satisfaction; rough
 

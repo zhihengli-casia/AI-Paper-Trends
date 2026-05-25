@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **9** (1.60%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `hallucinations / objects / multimodal / correct`
 - Keyword pool: hallucinations; objects; multimodal; correct; shortcuts; hallucinated; reasoning; visual; coco; factual; unfaithful; outputs
 

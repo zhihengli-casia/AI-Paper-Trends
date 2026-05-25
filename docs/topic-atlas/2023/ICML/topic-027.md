@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **24** (1.31%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `circuit / neurons / plasticity / conversion`
 - Keyword pool: circuit; neurons; plasticity; conversion; drift; surrogate; brain; inductive bias; motifs; artificial neural; whitening; stimuli
 

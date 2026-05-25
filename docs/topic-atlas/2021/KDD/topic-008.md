@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **12** (5.02%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `attack / recommender / recommendation / user`
 - Keyword pool: attack; recommender; recommendation; user; items; rating; bias; poisoning; dynamic; difficulty; influence; game
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **29** (1.07%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `video understanding / long / streaming / temporal`
 - Keyword pool: video understanding; long; streaming; temporal; memory; frames; eeg; videos; buffer; decoded; rnn; lvbench
 

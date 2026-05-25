@@ -1,8 +1,8 @@
-# TNNLS 2023: 机器翻译与跨语言对齐
+# TNNLS 2023: 跨域转换与序列转换
 
 - Topic ID: `30`
 - Papers: **16** (1.56%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `style / face / sketch / image`
 - Keyword pool: style; face; sketch; image; translation; transfer; arbitrary; frame; consistency; facial; audio; quality
 

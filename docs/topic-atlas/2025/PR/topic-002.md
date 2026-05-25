@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **44** (2.91%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `graph / networks / contrastive learning / node classification`
 - Keyword pool: graph; networks; contrastive learning; node classification; knowledge; neural; relation; structure; reasoning; structural; gaussian; heterogeneous
 

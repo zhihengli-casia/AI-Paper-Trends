@@ -1,8 +1,8 @@
-# ICCV 2025: 查询理解与检索优化
+# ICCV 2025: 音乐与音频生成/理解
 
 - Topic ID: `34`
 - Papers: **27** (1.00%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `grounding / moment / temporal / retrieval`
 - Keyword pool: grounding; moment; temporal; retrieval; queries; query; music; grounded; videos; vtg; event; textual
 

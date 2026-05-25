@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **19** (1.00%)
-- Macro topic: 计算机视觉
+- Macro topic: 强化学习/决策
 - English keywords: `navigation / planning / exploration / agent`
 - Keyword pool: navigation; planning; exploration; agent; dialog; environments; goals; visual; language; prediction; long-horizon; trajectory
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `114`
 - Papers: **12** (0.42%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `motion / pressure / pose / egocentric`
 - Keyword pool: motion; pressure; pose; egocentric; hand; estimation; tracking; imu; body; signals; inertial; walking
 

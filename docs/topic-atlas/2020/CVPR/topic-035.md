@@ -1,8 +1,8 @@
-# CVPR 2020: 医疗健康与临床 AI
+# CVPR 2020: 医学影像分割
 
 - Topic ID: `35`
 - Papers: **17** (1.16%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical / cancer / clinical`
 - Keyword pool: segmentation; medical; cancer; clinical; diagnosis; boundary; structure; medial; bipartite; x-ray; cross-view; graph
 

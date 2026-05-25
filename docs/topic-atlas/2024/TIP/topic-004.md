@@ -1,4 +1,4 @@
-# TIP 2024: domain adaptation / uda / org / www
+# TIP 2024: 领域自适应与迁移学习
 
 - Topic ID: `4`
 - Papers: **28** (5.86%)

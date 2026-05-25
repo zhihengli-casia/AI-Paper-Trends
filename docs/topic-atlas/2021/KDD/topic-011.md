@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **11** (4.60%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `knowledge / relational / completion / entity`
 - Keyword pool: knowledge; relational; completion; entity; reasoning; graphs; news; students; questions; entities; context; representation
 

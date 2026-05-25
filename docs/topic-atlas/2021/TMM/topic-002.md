@@ -1,4 +1,4 @@
-# TMM 2021: 检索 / cross-modal / privileged / label
+# TMM 2021: 视频检索、时刻定位与事件理解
 
 - Topic ID: `2`
 - Papers: **30** (6.86%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **22** (3.10%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / privacy / race / social`
 - Keyword pool: bias; privacy; race; social; policies; negative; language technologies; survey; content; societal; counter; measurement
 

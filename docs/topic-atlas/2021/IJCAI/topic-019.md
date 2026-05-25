@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **17** (2.35%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `attack / adversarial / robustness / perturbations`
 - Keyword pool: attack; adversarial; robustness; perturbations; transferability; examples; black-box; samples; image; physical; face; recognition
 

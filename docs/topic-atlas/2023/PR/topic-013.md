@@ -1,4 +1,4 @@
-# PR 2023: domain / adaptation / generalization / universal
+# PR 2023: 领域自适应与迁移学习
 
 - Topic ID: `13`
 - Papers: **20** (2.49%)

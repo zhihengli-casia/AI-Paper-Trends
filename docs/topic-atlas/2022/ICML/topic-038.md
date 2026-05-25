@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **14** (1.14%)
-- Macro topic: 强化学习/决策
+- Macro topic: 系统/效率/压缩
 - English keywords: `arm / regret / bandits / reward`
 - Keyword pool: arm; regret; bandits; reward; identification; lower bound; upper; kernel; bounds; lasso; shareable; bandit problems
 

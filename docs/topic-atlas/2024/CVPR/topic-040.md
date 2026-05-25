@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **28** (1.03%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `slide / pathology / radiology / mil`
 - Keyword pool: slide; pathology; radiology; mil; pathological; reports; medical; tumor; cancer; liver; disease; tissue
 

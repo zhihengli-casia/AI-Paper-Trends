@@ -2,7 +2,7 @@
 
 - Topic ID: `57`
 - Papers: **14** (0.89%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `lidar / object / detection / camera`
 - Keyword pool: lidar; object; detection; camera; waymo; segmentation; nuscenes; pose; geometric; adaptation; point; fusion
 

@@ -1,8 +1,8 @@
-# CVPR 2021: 对抗攻击、鲁棒性与安全
+# CVPR 2021: 人脸分析、表情与属性建模
 
 - Topic ID: `42`
 - Papers: **17** (1.02%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `face / fake / swapping / manipulated`
 - Keyword pool: face; fake; swapping; manipulated; identity; facial; frequency; videos; adversarial; spectrum; template; mouth
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **38** (4.88%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `classification / news / topic / document`
 - Keyword pool: classification; news; topic; document; recommendation; pooling; clustering; hierarchical; features; semi-supervised; projection; hierarchy
 

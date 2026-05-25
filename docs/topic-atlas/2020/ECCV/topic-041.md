@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **14** (1.03%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 计算机视觉
 - English keywords: `event / cameras / asynchronous / intensity`
 - Keyword pool: event; cameras; asynchronous; intensity; motion; sensors; brightness; day; estimation; video surveillance; flow; sharp
 

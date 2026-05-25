@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **20** (0.70%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / frames / vae / causal`
 - Keyword pool: video; frames; vae; causal; long; momentum; autoregressive; scene generation; synchronous; fvd; auto-regressive; temporal
 

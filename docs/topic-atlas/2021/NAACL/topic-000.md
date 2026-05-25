@@ -1,8 +1,8 @@
-# NAACL 2021: entity / relation / 图学习 / entities
+# NAACL 2021: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `0`
 - Papers: **36** (7.55%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `entity / relation / graph / entities`
 - Keyword pool: entity; relation; graph; entities; linking; extraction; knowledge base; triples; causal; biomedical; bases; temporal
 

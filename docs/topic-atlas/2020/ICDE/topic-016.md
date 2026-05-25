@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **6** (2.59%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `knowledge / graphs / aggregate / embedding`
 - Keyword pool: knowledge; graphs; aggregate; embedding; achieving; entity; functions; predictive; top-k; database; detection; mining
 

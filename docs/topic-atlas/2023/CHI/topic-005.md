@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **35** (4.02%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / security / app / advertising`
 - Keyword pool: privacy; security; app; advertising; smart; survey; influence; homes; analyzing; consent; world; interventions
 

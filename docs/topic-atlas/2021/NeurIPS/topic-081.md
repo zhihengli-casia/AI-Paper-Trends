@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **12** (0.51%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `image / synthesis / editing / transformer`
 - Keyword pool: image; synthesis; editing; transformer; generation; tokens; autoregressive; gans; generative; latent; fid; room
 

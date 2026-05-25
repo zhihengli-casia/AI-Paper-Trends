@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **8** (11.27%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `covid-19 / contrastive / classification / airway`
 - Keyword pool: covid-19; contrastive; classification; airway; organ; multi-objective architecture; nodules; personalized; prediction lung; predictions; multi-center left atrial; left atrial mri
 

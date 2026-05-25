@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **39** (1.44%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `protection / copyright / steganographic / diffusion`
 - Keyword pool: protection; copyright; steganographic; diffusion; privacy; attack; identity; face; adversarial; unauthorized; generative; secret
 

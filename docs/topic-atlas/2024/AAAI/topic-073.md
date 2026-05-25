@@ -1,8 +1,8 @@
-# AAAI 2024: solvers / programming / discrete optimization / routing problems
+# AAAI 2024: 组合优化与神经求解
 
 - Topic ID: `73`
 - Papers: **14** (0.60%)
-- Macro topic: 强化学习/决策
+- Macro topic: 理论/优化
 - English keywords: `solvers / programming / discrete optimization / routing problems`
 - Keyword pool: solvers; programming; discrete optimization; routing problems; search; combinatorial; nar; pivot; beam; columns; cuts; algorithms
 

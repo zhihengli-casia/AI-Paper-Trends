@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **22** (1.78%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `policy / ope / policies / robust`
 - Keyword pool: policy; ope; policies; robust; reinforcement learning; fqe; gradient estimates; estimator; environment; function approximators; update rule; updates
 

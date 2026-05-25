@@ -2,7 +2,7 @@
 
 - Topic ID: `68`
 - Papers: **11** (0.70%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `agent / social interactions / moral / rationality`
 - Keyword pool: agent; social interactions; moral; rationality; decision; human; reliance; behavior; feedback; ad hoc; trust; theory
 

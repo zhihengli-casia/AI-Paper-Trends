@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **79** (1.49%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `regret / bandits / bound / multi-armed`
 - Keyword pool: regret; bandits; bound; multi-armed; thompson sampling; contextual; online; reward; feedback; arms; actions; stochastic
 

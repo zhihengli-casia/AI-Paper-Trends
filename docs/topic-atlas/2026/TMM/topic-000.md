@@ -1,8 +1,8 @@
-# TMM 2026: 目标检测与图像分割
+# TMM 2026: 图像分割、语义分割与场景解析
 
 - Topic ID: `0`
 - Papers: **51** (8.59%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `image fusion / infrared / visible / thermal`
 - Keyword pool: image fusion; infrared; visible; thermal; object detection; multi-scale; modality; frequency; segmentation; tir; camouflaged; haze
 

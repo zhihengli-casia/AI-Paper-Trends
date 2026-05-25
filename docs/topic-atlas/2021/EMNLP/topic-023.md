@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **15** (1.77%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `biomedical / health / lms / taxonomy`
 - Keyword pool: biomedical; health; lms; taxonomy; clinical; facts; cough; factual knowledge; bases; kbs; knowledge representation; synonyms
 

@@ -1,8 +1,8 @@
-# ECCV 2020: attention / saliency / convolutional / non-local
+# ECCV 2020: 卷积网络结构与训练
 
 - Topic ID: `4`
 - Papers: **31** (2.28%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 计算机视觉
 - English keywords: `attention / saliency / convolutional / non-local`
 - Keyword pool: attention; saliency; convolutional; non-local; weight; capsule; context; pyramid; video; cnns; classification; bit
 

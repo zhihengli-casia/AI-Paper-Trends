@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **44** (2.80%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `bayesian / bnn / neural networks / closed-form`
 - Keyword pool: bayesian; bnn; neural networks; closed-form; weight; compression; biomedical; inference; online; counting; feature selection; semi-supervised
 

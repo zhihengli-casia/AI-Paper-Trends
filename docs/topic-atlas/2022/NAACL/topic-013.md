@@ -1,8 +1,8 @@
-# NAACL 2022: 语音/音频语言模型
+# NAACL 2022: 语音理解、识别与交互
 
 - Topic ID: `13`
 - Papers: **16** (3.62%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 语音/音频/音乐
 - English keywords: `hate / speech / dark / toxic`
 - Keyword pool: hate; speech; dark; toxic; detection; web; sentiment; identity; beliefs; political; offensive; absa
 

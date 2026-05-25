@@ -2,7 +2,7 @@
 
 - Topic ID: `108`
 - Papers: **13** (0.45%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `video / reference / animation / personalization`
 - Keyword pool: video; reference; animation; personalization; multiview; immersive; human image; brain; avatar; stimuli; motion; multi-view
 

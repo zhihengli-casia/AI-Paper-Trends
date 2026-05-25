@@ -1,8 +1,8 @@
-# NeurIPS 2025: identity / images / detection / facial
+# NeurIPS 2025: 人脸分析、表情与属性建模
 
 - Topic ID: `62`
 - Papers: **37** (0.70%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `identity / images / detection / facial`
 - Keyword pool: identity; images; detection; facial; personalization; video; face; forgery; deepfake; detectors; ai-generated; artifacts
 

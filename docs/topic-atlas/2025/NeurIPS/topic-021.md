@@ -1,8 +1,8 @@
-# NeurIPS 2025: 文档摘要与信息压缩
+# NeurIPS 2025: 摘要生成与信息压缩
 
 - Topic ID: `21`
 - Papers: **62** (1.17%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `steering / llms / uncertainty / conformal`
 - Keyword pool: steering; llms; uncertainty; conformal; reasoning; confidence; summarization; calibration; reliability; quantification; hypotheses; steerability
 

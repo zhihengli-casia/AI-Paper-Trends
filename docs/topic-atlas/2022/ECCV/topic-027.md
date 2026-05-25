@@ -1,4 +1,4 @@
-# ECCV 2022: ssl / emotion / semi-supervised / labels
+# ECCV 2022: 半监督学习与噪声标签建模
 
 - Topic ID: `27`
 - Papers: **22** (1.34%)

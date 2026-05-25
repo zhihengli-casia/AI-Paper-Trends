@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **17** (0.65%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `actor-critic / policy / reinforcement / langevin`
 - Keyword pool: actor-critic; policy; reinforcement; langevin; td learning; returns; variance; convergence; rollout; actor critic; model-based; function approximation
 

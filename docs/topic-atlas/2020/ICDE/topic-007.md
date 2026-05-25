@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **12** (5.17%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `recommendation / network / heterogeneous / graph`
 - Keyword pool: recommendation; network; heterogeneous; graph; convolutional; learning; large-scale; adaptive; historical; stochastic; node; alignment
 

@@ -1,8 +1,8 @@
-# CVPR 2023: 语音/音频语言模型
+# CVPR 2023: 音乐与音频生成/理解
 
 - Topic ID: `74`
 - Papers: **15** (0.64%)
-- Macro topic: 生成模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `motion / gestures / dance / diffusion`
 - Keyword pool: motion; gestures; dance; diffusion; human; music; speech; sequences; body; conditional; vq-vae; latent
 

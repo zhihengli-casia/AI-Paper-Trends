@@ -2,7 +2,7 @@
 
 - Topic ID: `65`
 - Papers: **35** (0.66%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `llms / debate / llm-as-a-judge / judges`
 - Keyword pool: llms; debate; llm-as-a-judge; judges; judgment; rating; games; consensus; reasoning; oversight; feedback; agents
 

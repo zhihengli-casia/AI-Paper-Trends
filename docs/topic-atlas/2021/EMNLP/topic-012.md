@@ -1,8 +1,8 @@
-# EMNLP 2021: 多语言建模与跨语言迁移
+# EMNLP 2021: 机器翻译与跨语言对齐
 
 - Topic ID: `12`
 - Papers: **25** (2.95%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `multilingual / cross-lingual / languages / translation`
 - Keyword pool: multilingual; cross-lingual; languages; translation; fine-tuning; zero-shot; english; monolingual; dialogue; vocabulary; target language; pretrained
 

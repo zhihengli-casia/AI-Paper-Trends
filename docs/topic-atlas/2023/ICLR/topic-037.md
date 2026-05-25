@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **19** (1.24%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / denoising / inverse / generative`
 - Keyword pool: diffusion; denoising; inverse; generative; sampling; score; vessel; blurring; heat; images; segmentation; conditional
 

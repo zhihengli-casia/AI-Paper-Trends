@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **24** (0.88%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `motion / video / diffusion / editing`
 - Keyword pool: motion; video; diffusion; editing; dance; animation; temporal; appearance; subject; character; t2i; reward
 

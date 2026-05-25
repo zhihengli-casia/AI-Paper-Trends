@@ -2,7 +2,7 @@
 
 - Topic ID: `71`
 - Papers: **11** (0.67%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `few-shot / detection / slices / video object`
 - Keyword pool: few-shot; detection; slices; video object; rare; detectors; one-stage; heads; calibration; classes; bias; worst-case
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **28** (1.24%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `graph / spectral / node / clustering`
 - Keyword pool: graph; spectral; node; clustering; homophily; temporal; positional; evolving; contrastive; compression; random walks; kernels
 

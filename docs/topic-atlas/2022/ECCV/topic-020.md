@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **24** (1.46%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 强化学习/决策
 - English keywords: `driving / autonomous / bev / perception`
 - Keyword pool: driving; autonomous; bev; perception; motion; scene; detection; road; planning; occupancy; gaze; trajectory prediction
 

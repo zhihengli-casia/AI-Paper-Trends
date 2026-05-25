@@ -1,8 +1,8 @@
-# ACMMM 2022: 攻击、防御与模型安全
+# ACMMM 2022: 行人重识别与人群计数
 
 - Topic ID: `32`
 - Papers: **10** (1.45%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `person / re-identification / reid / camera`
 - Keyword pool: person; re-identification; reid; camera; clustering; stochastic; target-aware; domains; synthetic images; attack; intra-domain; meta
 

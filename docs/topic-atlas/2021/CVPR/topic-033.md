@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **19** (1.14%)
-- Macro topic: 理论/优化
+- Macro topic: 计算机视觉
 - English keywords: `person / re-id / reid / search`
 - Keyword pool: person; re-id; reid; search; shape; cameras; relation; spatial-temporal; modality; nuances; stream; video-based
 

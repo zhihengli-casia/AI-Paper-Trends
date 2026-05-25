@@ -2,7 +2,7 @@
 
 - Topic ID: `101`
 - Papers: **17** (0.41%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `jailbreak / attack / safety / harmful`
 - Keyword pool: jailbreak; attack; safety; harmful; defense; t2i; emojis; llm; prompt; content; risky; adversarial
 

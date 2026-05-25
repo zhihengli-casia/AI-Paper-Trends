@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **27** (0.67%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / kv cache / bit / compression`
 - Keyword pool: quantization; kv cache; bit; compression; llms; ptq; quantizing; llm inference; decoding; tokens; key-value; speculative
 

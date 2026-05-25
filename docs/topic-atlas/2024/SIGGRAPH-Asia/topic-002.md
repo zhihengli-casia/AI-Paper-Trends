@@ -1,8 +1,8 @@
-# SIGGRAPH-Asia 2024: neural / modeling / controllable / text-guided
+# SIGGRAPH-Asia 2024: 3D 形状重建与隐式表示
 
 - Topic ID: `2`
 - Papers: **14** (9.93%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `neural / modeling / controllable / text-guided`
 - Keyword pool: neural; modeling; controllable; text-guided; distance; face; shape; function; self-supervised; generalized; generative; implicit
 

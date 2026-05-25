@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **16** (1.86%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `knowledge graphs / facts / kgs / embedding`
 - Keyword pool: knowledge graphs; facts; kgs; embedding; link prediction; inductive; word; entities; subgraph; neighboring; relations; historical
 

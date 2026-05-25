@@ -1,8 +1,8 @@
-# AAAI 2020: LLM Agent 与工具使用
+# AAAI 2020: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `64`
 - Papers: **12** (0.75%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `goods / allocations / agents / fairness`
 - Keyword pool: goods; allocations; agents; fairness; preferences; multi-type; division; items; utility; approximation; market; resource allocation
 

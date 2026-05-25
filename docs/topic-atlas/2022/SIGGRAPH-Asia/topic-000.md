@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **12** (24.00%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `human / sparse / monocular video / character`
 - Keyword pool: human; sparse; monocular video; character; real-time; motion; meshes; generating; tracking; objects; reconstructing; questsim
 

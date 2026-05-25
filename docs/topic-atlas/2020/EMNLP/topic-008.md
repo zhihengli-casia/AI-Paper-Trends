@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **26** (3.46%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `translation / nmt / neural machine / non-autoregressive`
 - Keyword pool: translation; nmt; neural machine; non-autoregressive; bleu; wmt; transformer; target; alignments; document-level; units; orders
 

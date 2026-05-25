@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **6** (4.08%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `bert / query / language / ranking`
 - Keyword pool: bert; query; language; ranking; document; edit; distance; similarity search; web; multimodal; prior; transformer
 

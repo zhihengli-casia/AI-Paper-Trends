@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **15** (0.63%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `clients / federated / learning fl / distributed`
 - Keyword pool: clients; federated; learning fl; distributed; attacks; server; wifi-based; malicious; heterogeneous; updates; sensing; privacy
 

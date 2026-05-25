@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **14** (1.13%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `tracking / peer / online / videos`
 - Keyword pool: tracking; peer; online; videos; reflection; communication; visual; effects; relatedness; modality; nudges; asynchronous
 

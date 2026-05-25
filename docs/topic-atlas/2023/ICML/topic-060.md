@@ -2,7 +2,7 @@
 
 - Topic ID: `60`
 - Papers: **14** (0.77%)
-- Macro topic: 理论/优化
+- Macro topic: AI4Science/医疗
 - English keywords: `uncertainty / evidential / bayesian / pfns`
 - Keyword pool: uncertainty; evidential; bayesian; pfns; bnns; estimation; concepts; regularization; image captioning; keywords; medical; interactive
 

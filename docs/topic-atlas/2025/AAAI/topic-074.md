@@ -1,8 +1,8 @@
-# AAAI 2025: nas / search / zero-cost / neural architecture
+# AAAI 2025: 神经架构搜索与模型设计
 
 - Topic ID: `74`
 - Papers: **19** (0.63%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 生成模型
 - English keywords: `nas / search / zero-cost / neural architecture`
 - Keyword pool: nas; search; zero-cost; neural architecture; gans; sam; pruned weights; supernet; pruning; architectures; fragments; proxies
 

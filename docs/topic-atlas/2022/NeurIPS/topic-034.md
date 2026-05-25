@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **28** (1.05%)
-- Macro topic: NLP任务
+- Macro topic: 语音/音频/音乐
 - English keywords: `generation / sentence / word / factual`
 - Keyword pool: generation; sentence; word; factual; summarization; decoding; document; language; tts; machine translation; contrastive; autoregressive
 

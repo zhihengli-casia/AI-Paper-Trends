@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **12** (0.97%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `platforms / business / large-scale / flexible`
 - Keyword pool: platforms; business; large-scale; flexible; video; ethnographic; mind exploring; prosociality; rural; short; adding; douyin
 

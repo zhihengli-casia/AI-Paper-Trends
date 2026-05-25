@@ -1,4 +1,4 @@
-# AAAI 2020: pose / keypoints / estimation / human
+# AAAI 2020: 人体姿态估计与运动理解
 
 - Topic ID: `61`
 - Papers: **12** (0.75%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **15** (1.14%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `cross-lingual / languages / multilingual / discourse`
 - Keyword pool: cross-lingual; languages; multilingual; discourse; syntactic; trees; mrc; constituent; summarization; pre-training; pretraining; reading comprehension
 

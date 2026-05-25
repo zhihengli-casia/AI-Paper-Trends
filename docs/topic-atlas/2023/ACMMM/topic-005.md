@@ -1,4 +1,4 @@
-# ACMMM 2023: scene graph / 视频理解/生成 / graph generation / causal
+# ACMMM 2023: 场景图、关系推理与视觉理解
 
 - Topic ID: `5`
 - Papers: **29** (3.22%)

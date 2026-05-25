@@ -1,8 +1,8 @@
-# AAAI 2022: compression / denoising / pruning / 视频理解/生成
+# AAAI 2022: 卷积网络结构与训练
 
 - Topic ID: `33`
 - Papers: **16** (1.22%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `compression / denoising / pruning / video`
 - Keyword pool: compression; denoising; pruning; video; convolutional; fine-tuning; cnns; image; non-local; dynamic convolution; dictionary; bnns
 

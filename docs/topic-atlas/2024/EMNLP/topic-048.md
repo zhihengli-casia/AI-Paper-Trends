@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **13** (1.03%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `alignment / preference / commentary / omission`
 - Keyword pool: alignment; preference; commentary; omission; aligning; speech; feedback; rating; languages; neurons; multilingual; game
 

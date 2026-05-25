@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **29** (1.21%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / sampling / inverse problems / quantization`
 - Keyword pool: diffusion; sampling; inverse problems; quantization; restoration; posterior; denoising; forecasting; dehazing; one-step; compensation; noise
 

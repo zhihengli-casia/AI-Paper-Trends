@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **39** (1.44%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `reasoning / vlms / mllms / vision-language`
 - Keyword pool: reasoning; vlms; mllms; vision-language; multimodal; grounding; brain; planning; objects; lmms; walking; tool
 

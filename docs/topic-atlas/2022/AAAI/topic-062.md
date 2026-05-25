@@ -1,8 +1,8 @@
-# AAAI 2022: 对抗攻击、鲁棒性与安全
+# AAAI 2022: GAN 与图像生成
 
 - Topic ID: `62`
 - Papers: **9** (0.68%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `gans / generative adversarial / target class / adversarial networks`
 - Keyword pool: gans; generative adversarial; target class; adversarial networks; rare; unseen; image set; categories; images; co-training; discriminator; samples
 

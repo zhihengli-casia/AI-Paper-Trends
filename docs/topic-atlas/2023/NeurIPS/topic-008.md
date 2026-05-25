@@ -1,4 +1,4 @@
-# NeurIPS 2023: equivariant / equivariance / group / symmetries
+# NeurIPS 2023: 神经架构搜索与模型设计
 
 - Topic ID: `8`
 - Papers: **49** (1.52%)

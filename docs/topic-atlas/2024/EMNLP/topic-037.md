@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **16** (1.26%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `peft / memory / moe / experts`
 - Keyword pool: peft; memory; moe; experts; parameter-efficient fine-tuning; parameters; gpu; adapters; layers; dense; modules; transformers
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **29** (0.96%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / llms / pruning / language`
 - Keyword pool: quantization; llms; pruning; language; memory; fine-tuning; peft; compression; lora; activation; low-rank; gpu
 

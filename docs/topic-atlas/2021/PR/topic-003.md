@@ -1,4 +1,4 @@
-# PR 2021: pedestrian / object / 视频理解/生成 / tracking
+# PR 2021: 人体姿态估计与运动理解
 
 - Topic ID: `3`
 - Papers: **26** (4.41%)

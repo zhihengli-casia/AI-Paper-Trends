@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **27** (1.00%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `mamba / quantization / compression / complexity`
 - Keyword pool: mamba; quantization; compression; complexity; tab; context; scan; image restoration; long-range; self-attention; transformers; entropy
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **19** (1.16%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `inpainting / inversion / gan / editing`
 - Keyword pool: inpainting; inversion; gan; editing; upsampling; latent; region; matting; encoder; modulation; holes; transparent
 

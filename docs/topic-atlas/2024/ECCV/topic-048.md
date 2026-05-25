@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **19** (0.80%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / video / inr / neural`
 - Keyword pool: brain; video; inr; neural; implicit; signals; decoding; bitrate; encoding; compression; blending; reconstruction
 

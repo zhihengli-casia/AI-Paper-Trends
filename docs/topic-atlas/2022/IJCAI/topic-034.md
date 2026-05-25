@@ -1,4 +1,4 @@
-# IJCAI 2022: LLM Agent 与工具使用
+# IJCAI 2022: 智能体决策与多智能体系统
 
 - Topic ID: `34`
 - Papers: **14** (1.62%)

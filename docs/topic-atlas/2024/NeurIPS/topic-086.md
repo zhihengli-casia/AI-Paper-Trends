@@ -2,7 +2,7 @@
 
 - Topic ID: `86`
 - Papers: **20** (0.50%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `clustering / fairness / non-adaptive / queries`
 - Keyword pool: clustering; fairness; non-adaptive; queries; k-means; approximation; proportional; center; kernel; communities; metric; hierarchies
 

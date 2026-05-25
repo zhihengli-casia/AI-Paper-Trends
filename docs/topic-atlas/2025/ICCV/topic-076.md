@@ -2,7 +2,7 @@
 
 - Topic ID: `76`
 - Papers: **16** (0.59%)
-- Macro topic: 生成模型
+- Macro topic: 强化学习/决策
 - English keywords: `motion / game / skill / interaction`
 - Keyword pool: motion; game; skill; interaction; reaction; simulation; behavior; character; human-object; control; crowd; hoi
 

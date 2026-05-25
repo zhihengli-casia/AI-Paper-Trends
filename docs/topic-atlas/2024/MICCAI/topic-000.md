@@ -1,8 +1,8 @@
-# MICCAI 2024: chest / x-ray / progression / detection
+# MICCAI 2024: 医学影像分析
 
 - Topic ID: `0`
 - Papers: **17** (23.94%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `chest / x-ray / progression / detection`
 - Keyword pool: chest; x-ray; progression; detection; classification; representation; transformer; semi-supervised; copd; image; medical; disease
 

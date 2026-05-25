@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **66** (2.76%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `clip / captions / compositional / language`
 - Keyword pool: clip; captions; compositional; language; image-text; multimodal; captioning; fine-grained; understanding; reasoning; zero-shot; compositions
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **41** (7.30%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / adversarial / safety / alignment`
 - Keyword pool: attacks; adversarial; safety; alignment; robustness; prompt; rlhf; trigger; policy; instruction; privacy; preference
 

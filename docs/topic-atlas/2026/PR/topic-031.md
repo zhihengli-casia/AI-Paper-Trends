@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **15** (1.62%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical image segmentation / semi-supervised / cost / cross-domain`
 - Keyword pool: medical image segmentation; semi-supervised; cost; cross-domain; breast; regularization; federated; internal; adapting; additional; generalizability; labels
 

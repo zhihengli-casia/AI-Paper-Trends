@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **29** (1.75%)
-- Macro topic: 多模态/VLM
+- Macro topic: 强化学习/决策
 - English keywords: `trajectory / traffic / driving / motion`
 - Keyword pool: trajectory; traffic; driving; motion; trajectories; autonomous; pedestrian; forecasting; simulation; vehicles; interactions; agents
 

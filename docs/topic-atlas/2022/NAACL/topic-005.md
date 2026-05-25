@@ -1,8 +1,8 @@
-# NAACL 2022: 检索 / adapter / plms / dense
+# NAACL 2022: 领域自适应与迁移学习
 
 - Topic ID: `5`
 - Papers: **21** (4.75%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / adapter / plms / dense`
 - Keyword pool: retrieval; adapter; plms; dense; domain; layers; distillation; teacher; adaptation; compression; retriever; pseudo
 

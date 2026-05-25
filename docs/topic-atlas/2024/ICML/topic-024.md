@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **37** (1.42%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `treatment / causal / effect / observational`
 - Keyword pool: treatment; causal; effect; observational; collider; estimator; estimation; confounding; bias; confounders; instrumental; outcome
 

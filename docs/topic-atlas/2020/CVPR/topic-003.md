@@ -1,4 +1,4 @@
-# CVPR 2020: normalization / context / spatial / pooling
+# CVPR 2020: 卷积网络结构与训练
 
 - Topic ID: `3`
 - Papers: **36** (2.46%)

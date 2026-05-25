@@ -2,7 +2,7 @@
 
 - Topic ID: `118`
 - Papers: **10** (0.33%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `image compression / coding / dictionary / stereo`
 - Keyword pool: image compression; coding; dictionary; stereo; latent; transmission; rate-distortion; learned; conditional; codec; entropy; content-aware
 

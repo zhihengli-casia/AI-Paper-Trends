@@ -2,7 +2,7 @@
 
 - Topic ID: `74`
 - Papers: **10** (0.68%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `registration / transformation / imaging / alignment`
 - Keyword pool: registration; transformation; imaging; alignment; medical; volumetric; motion; diffeomorphic; clinical; acceleration; unsupervised; averaging
 

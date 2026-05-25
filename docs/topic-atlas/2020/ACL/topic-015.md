@@ -1,8 +1,8 @@
-# ACL 2020: 强化学习策略与奖励建模
+# ACL 2020: 对话系统与会话建模
 
 - Topic ID: `15`
 - Papers: **19** (2.44%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `dialogue / policy / conversation / demonstrations`
 - Keyword pool: dialogue; policy; conversation; demonstrations; reward; agent; grounded; response; user; multi-tasking; multi-turn; turns
 

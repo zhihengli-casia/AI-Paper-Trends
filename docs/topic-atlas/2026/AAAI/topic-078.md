@@ -2,7 +2,7 @@
 
 - Topic ID: `78`
 - Papers: **24** (0.58%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `llms / icl / long-context / event`
 - Keyword pool: llms; icl; long-context; event; in-context; demonstrations; topic; example selection; retrieval; extraction; flora; temporal knowledge
 

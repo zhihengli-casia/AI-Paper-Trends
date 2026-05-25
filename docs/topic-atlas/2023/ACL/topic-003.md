@@ -1,8 +1,8 @@
-# ACL 2023: 文档摘要与信息压缩
+# ACL 2023: 摘要生成与信息压缩
 
 - Topic ID: `3`
 - Papers: **31** (2.88%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `dialogue / discourse / graph / multi-party`
 - Keyword pool: dialogue; discourse; graph; multi-party; intents; responses; dst; summarization; structure; multi-modal; political; tracking
 

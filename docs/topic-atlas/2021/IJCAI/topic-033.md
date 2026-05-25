@@ -1,8 +1,8 @@
-# IJCAI 2021: 时间序列建模与预测
+# IJCAI 2021: 领域自适应与迁移学习
 
 - Topic ID: `33`
 - Papers: **10** (1.39%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 系统/效率/压缩
 - English keywords: `domain / adaptation / source / target`
 - Keyword pool: domain; adaptation; source; target; generalization; kernel; shift; alignment; spectral; prototype; time series; samples
 

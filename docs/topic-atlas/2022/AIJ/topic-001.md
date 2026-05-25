@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **16** (16.16%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 计算机视觉
 - English keywords: `explanations / ces / face / rbf-hs`
 - Keyword pool: explanations; ces; face; rbf-hs; search; features; robustness; values; best-first; preddiff; shap; fault
 

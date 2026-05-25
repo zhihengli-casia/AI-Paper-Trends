@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **9** (0.85%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 系统/效率/压缩
 - English keywords: `convolution / kernel / cnns / orthogonal`
 - Keyword pool: convolution; kernel; cnns; orthogonal; downsampling; size; gaussian; strides; jacobian; pooling; time series; binary classification
 

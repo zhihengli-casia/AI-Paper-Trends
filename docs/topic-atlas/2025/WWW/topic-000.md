@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **16** (10.39%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `recommendation / relevance / policy / search`
 - Keyword pool: recommendation; relevance; policy; search; retrieval; recommender; sampling; fairness; items; query; matching; representations
 

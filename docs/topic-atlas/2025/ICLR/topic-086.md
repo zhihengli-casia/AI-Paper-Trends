@@ -1,8 +1,8 @@
-# ICLR 2025: 目标检测与图像分割
+# ICLR 2025: 行人重识别与人群计数
 
 - Topic ID: `86`
 - Papers: **20** (0.54%)
-- Macro topic: NLP任务
+- Macro topic: 计算机视觉
 - English keywords: `object-centric / segmentation / counting / objects`
 - Keyword pool: object-centric; segmentation; counting; objects; prototypical; semantic; compositional; affordance; visual; crowd; object discovery; mim
 

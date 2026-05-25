@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **8** (3.69%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `truth / fair / graph mining / answers`
 - Keyword pool: truth; fair; graph mining; answers; criteria; bias; metric; event; individual; measure; conditional; algorithmic
 

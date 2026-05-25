@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **6** (6.52%)
-- Macro topic: 生成模型
+- Macro topic: 强化学习/决策
 - English keywords: `planning / problems / ppltl / automated`
 - Keyword pool: planning; problems; ppltl; automated; neuro-symbolic; goals; temporal logic; valid; fond; classical; linear; generative
 

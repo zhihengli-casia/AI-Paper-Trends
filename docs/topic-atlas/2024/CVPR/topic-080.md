@@ -1,4 +1,4 @@
-# CVPR 2024: surface / distance / normal / mesh
+# CVPR 2024: 3D 形状重建与隐式表示
 
 - Topic ID: `80`
 - Papers: **15** (0.55%)

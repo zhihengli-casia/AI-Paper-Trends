@@ -2,7 +2,7 @@
 
 - Topic ID: `60`
 - Papers: **13** (0.79%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `localization / camera / pose / scene`
 - Keyword pool: localization; camera; pose; scene; initialization; matching; panorama; device; descriptors; satellite; cross-view; inertial
 

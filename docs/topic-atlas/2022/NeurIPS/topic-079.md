@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **15** (0.56%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `policy / coordination / team / game`
 - Keyword pool: policy; coordination; team; game; multi-agent; value; fairness; agents; policies; reinforcement; bonus; shapley
 

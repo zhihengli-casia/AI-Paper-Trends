@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **11** (0.87%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / alignment / red / guardrail`
 - Keyword pool: safety; alignment; red; guardrail; teaming; harmlessness; phase; multi-turn; advisor; coreference; moderation; attack success
 

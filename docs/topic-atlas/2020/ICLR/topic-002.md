@@ -1,8 +1,8 @@
-# ICLR 2020: 语音/音频语言模型
+# ICLR 2020: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `2`
 - Papers: **33** (4.80%)
-- Macro topic: 计算机视觉
+- Macro topic: 语音/音频/音乐
 - English keywords: `labels / clustering / noisy / ensemble`
 - Keyword pool: labels; clustering; noisy; ensemble; semi-supervised; active learning; representation learning; labeled; speech; classifiers; pooling; images
 

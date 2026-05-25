@@ -1,4 +1,4 @@
-# MICCAI 2023: shape / statistical / adaptation / point
+# MICCAI 2023: 领域自适应与迁移学习
 
 - Topic ID: `3`
 - Papers: **8** (10.96%)

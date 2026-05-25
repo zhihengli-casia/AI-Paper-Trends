@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **27** (2.13%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `knowledge graph / kgs / entity / graphs`
 - Keyword pool: knowledge graph; kgs; entity; graphs; answering; dialog; schema; graph completion; structural; commonsense; relation; retrieval
 

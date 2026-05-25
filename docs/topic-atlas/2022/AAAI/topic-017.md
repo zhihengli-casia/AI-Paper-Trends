@@ -1,8 +1,8 @@
-# AAAI 2022: 知识图谱推理与表示学习
+# AAAI 2022: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `17`
 - Papers: **22** (1.67%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `knowledge graph / language / entities / relation`
 - Keyword pool: knowledge graph; language; entities; relation; story; temporal; completion; graphs; question; semantic; embeddings; entity
 

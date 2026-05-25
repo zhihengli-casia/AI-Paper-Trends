@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **23** (5.60%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `llms / prompt / retrieval / language`
 - Keyword pool: llms; prompt; retrieval; language; generative; federated; tuning; clients; pruning; responses; queries; tabular
 

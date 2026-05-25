@@ -1,8 +1,8 @@
-# ACMMM 2024: 语音/音频语言模型
+# ACMMM 2024: 语音、音频与声学建模
 
 - Topic ID: `59`
 - Papers: **9** (0.78%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `mamba / super-resolution / spectral / acoustic`
 - Keyword pool: mamba; super-resolution; spectral; acoustic; frequency; channel; audio; imaging; pruning; wavelet; image deblurring; uhd
 

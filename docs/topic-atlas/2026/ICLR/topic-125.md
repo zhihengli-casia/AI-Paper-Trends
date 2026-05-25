@@ -2,7 +2,7 @@
 
 - Topic ID: `125`
 - Papers: **18** (0.34%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / private / differential / adjacency`
 - Keyword pool: privacy; private; differential; adjacency; factorization; canaries; auditing; additive; idp; federated learning; utility; add remove
 

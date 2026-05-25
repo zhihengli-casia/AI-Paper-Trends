@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **16** (1.25%)
-- Macro topic: LLM/语言模型
+- Macro topic: 理论/优化
 - English keywords: `dueling / gates / problems / solutions`
 - Keyword pool: dueling; gates; problems; solutions; instances; bayesian; mip; preferences; combinatorial; drl; routing; black-box
 

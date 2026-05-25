@@ -1,8 +1,8 @@
-# TPAMI 2023: scene graph / graph generation / room / dropout
+# TPAMI 2023: 场景图、关系推理与视觉理解
 
 - Topic ID: `22`
 - Papers: **15** (2.20%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `scene graph / graph generation / room / dropout`
 - Keyword pool: scene graph; graph generation; room; dropout; saliency; variational; generative; energy-based; www w3 org; http www w3; xmlns; xlink
 

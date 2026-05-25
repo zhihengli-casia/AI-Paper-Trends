@@ -1,8 +1,8 @@
-# ACMMM 2023: 查询理解与检索优化
+# ACMMM 2023: 视频检索、时刻定位与事件理解
 
 - Topic ID: `38`
 - Papers: **12** (1.33%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `retrieval / video / moment / query`
 - Keyword pool: retrieval; video; moment; query; triplet; cross-modal; queries; semantics; relevant; vocabulary; contrastive learning; search
 

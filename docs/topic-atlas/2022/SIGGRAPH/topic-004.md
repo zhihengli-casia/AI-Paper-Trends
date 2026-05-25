@@ -1,8 +1,8 @@
-# SIGGRAPH 2022: 语音/音频语言模型
+# SIGGRAPH 2022: 语音合成与音频生成
 
 - Topic ID: `4`
 - Papers: **4** (7.84%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `speech / stroke / face / motion`
 - Keyword pool: speech; stroke; face; motion; synthesis; signal; portrait line drawings; transfer example-based; photo; talking; styles; matching-based controllable gesture
 

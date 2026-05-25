@@ -1,8 +1,8 @@
-# ACL 2025: 机器翻译与跨语言对齐
+# ACL 2025: 语音翻译与跨语言语音处理
 
 - Topic ID: `75`
 - Papers: **11** (0.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `speech / streaming / audio / acoustic`
 - Keyword pool: speech; streaming; audio; acoustic; end-to-end; instruction; translation; simultaneous; speaker; inconsistency; spoken; decoders
 

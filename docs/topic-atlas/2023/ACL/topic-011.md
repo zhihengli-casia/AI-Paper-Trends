@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **23** (2.14%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `distillation / translation / student / teacher`
 - Keyword pool: distillation; translation; student; teacher; pareto; nmt; machine; transfer; language knowledge; language pairs; logits; top-1
 

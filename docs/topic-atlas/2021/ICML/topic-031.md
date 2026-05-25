@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **17** (1.44%)
-- Macro topic: 理论/优化
+- Macro topic: 计算机视觉
 - English keywords: `equivariant / symmetries / proceedings / critical points`
 - Keyword pool: equivariant; symmetries; proceedings; critical points; network width; simplicial; face; overparameterized; hyperbolic; equivariance; permutation; manifold
 

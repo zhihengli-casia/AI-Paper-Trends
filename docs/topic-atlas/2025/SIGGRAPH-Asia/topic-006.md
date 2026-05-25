@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **12** (6.25%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `semantic / representation / vlm-assisted / shape`
 - Keyword pool: semantic; representation; vlm-assisted; shape; meshes; local; assembly; factorization; features; construction; conditional; compact
 

@@ -1,4 +1,4 @@
-# NeurIPS 2022: fine-tuning / tabular / cnns / convolutional
+# NeurIPS 2022: 卷积网络结构与训练
 
 - Topic ID: `54`
 - Papers: **21** (0.79%)

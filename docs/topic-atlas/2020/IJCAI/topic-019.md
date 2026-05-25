@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **16** (2.06%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `convex / convergence / kernel / gradient`
 - Keyword pool: convex; convergence; kernel; gradient; sgd; optimization; rate; sketching; momentum; parameter; functions; bandits
 

@@ -1,8 +1,8 @@
-# WWW 2023: 文档摘要与信息压缩
+# WWW 2023: 摘要生成与信息压缩
 
 - Topic ID: `14`
 - Papers: **12** (3.23%)
-- Macro topic: 生成模型
+- Macro topic: NLP任务
 - English keywords: `summarization / articles / references / news`
 - Keyword pool: summarization; articles; references; news; documents; languages; citation; wikidata; event; facts; scientific; description
 

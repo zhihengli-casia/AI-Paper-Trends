@@ -1,8 +1,8 @@
-# AAAI 2025: 医疗健康与临床 AI
+# AAAI 2025: 医学影像分割
 
 - Topic ID: `4`
 - Papers: **56** (1.85%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / segmentation / image / adaptation`
 - Keyword pool: medical; segmentation; image; adaptation; test-time; imaging; semi-supervised; clinical; tta; capsule; diagnosis; anatomical
 

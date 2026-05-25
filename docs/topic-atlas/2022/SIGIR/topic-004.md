@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **12** (7.45%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: AI4Science/医疗
 - English keywords: `question / logical / legal / query`
 - Keyword pool: question; logical; legal; query; answering; difficulty; graph; medical; matching; reasoning; event; students
 

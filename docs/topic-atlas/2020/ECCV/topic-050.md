@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **13** (0.96%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `relation / graph / video / hoi`
 - Keyword pool: relation; graph; video; hoi; social; human-object; interaction; objects; predicate; grounding; wasserstein; movie
 

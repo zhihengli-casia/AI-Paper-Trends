@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **22** (3.06%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `dialogue / chatbots / memory / user`
 - Keyword pool: dialogue; chatbots; memory; user; satisfaction; long-term; conversational; tools; intent classification; grammar; persona; synthesis
 

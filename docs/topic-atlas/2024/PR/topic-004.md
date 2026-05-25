@@ -1,8 +1,8 @@
-# PR 2024: 检索 / cross-modal / captioning / 视频理解/生成
+# PR 2024: 视频检索、时刻定位与事件理解
 
 - Topic ID: `4`
 - Papers: **32** (3.33%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `retrieval / cross-modal / captioning / video`
 - Keyword pool: retrieval; cross-modal; captioning; video; semantic; language; multi-label; modalities; image; vqa; shared; online
 

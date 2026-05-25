@@ -1,8 +1,8 @@
-# EMNLP 2025: LLM Agent 与工具使用
+# EMNLP 2025: 智能体决策与多智能体系统
 
 - Topic ID: `55`
 - Papers: **16** (0.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `social / sycophancy / collective / tom`
 - Keyword pool: social; sycophancy; collective; tom; pragmatic reasoning; white; agents; reasoning abilities; reasoning styles; interactions; negotiation; rational
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **13** (3.50%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / recommendation / negative sampling / group`
 - Keyword pool: fairness; recommendation; negative sampling; group; counterfactual; attributes; recommender; sensitive; metrics; practitioners; minority; item
 

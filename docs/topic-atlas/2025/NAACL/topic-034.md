@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **9** (1.25%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `explanation / diagnostic / medical / recommendation`
 - Keyword pool: explanation; diagnostic; medical; recommendation; clinical; decision-making; types; interactions; decisions; questions; span; healthcare
 

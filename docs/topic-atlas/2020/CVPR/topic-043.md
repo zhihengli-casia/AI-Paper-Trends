@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **16** (1.09%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / metric learning / similarity / deep metric`
 - Keyword pool: retrieval; metric learning; similarity; deep metric; hashing; losses; quantization; circle; optimization; pairs; embedding; central
 

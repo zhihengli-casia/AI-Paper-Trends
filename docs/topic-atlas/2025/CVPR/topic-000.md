@@ -1,4 +1,4 @@
-# CVPR 2025: domain generalization / domain adaptation / target / domains
+# CVPR 2025: 领域自适应与迁移学习
 
 - Topic ID: `0`
 - Papers: **65** (2.26%)

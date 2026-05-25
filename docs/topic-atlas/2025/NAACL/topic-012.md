@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **20** (2.79%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `preference / reward / alignment / optimization`
 - Keyword pool: preference; reward; alignment; optimization; style; dpo; list; responses; scoring; user; candidates; inference-time
 

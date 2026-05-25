@@ -2,7 +2,7 @@
 
 - Topic ID: `94`
 - Papers: **15** (0.52%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / tokenizer / t2v / multi-prompt`
 - Keyword pool: video; tokenizer; t2v; multi-prompt; dit architecture; diffusion transformer; dense prediction; control; temporal; clips; multi-shot; tokens
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **14** (1.30%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `translation / scene / machine / image`
 - Keyword pool: translation; scene; machine; image; nmt; visual; gloss; hallucinations; spatial; multimodal; modality gap; style
 

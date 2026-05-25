@@ -1,8 +1,8 @@
-# AAAI 2020: 多语言建模与跨语言迁移
+# AAAI 2020: 机器翻译与跨语言对齐
 
 - Topic ID: `19`
 - Papers: **23** (1.44%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `neural machine / machine translation / multilingual / pretraining`
 - Keyword pool: neural machine; machine translation; multilingual; pretraining; recognition; interactive; sentence; embeddings; embedding neural; human feedback; exercise; off-line
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **40** (1.53%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `online / regret / convex / equilibrium`
 - Keyword pool: online; regret; convex; equilibrium; resource allocation; bandit; matching; performative; bayes optimality; round; adversarial; items
 

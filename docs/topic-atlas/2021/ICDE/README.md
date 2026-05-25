@@ -17,7 +17,7 @@
 | [003](topic-003.md) | networks / route / similarity / deep | 22 | 8.03% | 多模态/VLM | `networks / route / similarity / deep` | TrajForesee: How limited detailed trajectories enhance large-scale sparse information to predict vehicle trajectories? |
 | [004](topic-004.md) | spatial / flow / modeling / information | 21 | 7.66% | 系统/效率/压缩 | `spatial / flow / modeling / information` | On Efficient and Scalable Time-Continuous Spatial Crowdsourcing |
 | [005](topic-005.md) | detection / clustering / anomaly / density | 17 | 6.20% | 图学习/数据挖掘 | `detection / clustering / anomaly / density` | DBSCOUT: A Density-based Method for Scalable Outlier Detection in Very Large Datasets |
-| [006](topic-006.md) | matching / entity / bootstrapping / feature | 16 | 5.84% | 其他/交叉主题 | `matching / entity / bootstrapping / feature` | Automating Entity Matching Model Development |
+| [006](topic-006.md) | matching / entity / bootstrapping / feature | 16 | 5.84% | NLP任务 | `matching / entity / bootstrapping / feature` | Automating Entity Matching Model Development |
 | [007](topic-007.md) | 知识图谱推理与表示学习 | 15 | 5.47% | 图学习/数据挖掘 | `e-commerce / group / sequential / network` | Learnings from a Retail Recommendation System on Billions of Interactions at bol.com |
 | [008](topic-008.md) | 社交媒体与社会计算 | 13 | 4.74% | 图学习/数据挖掘 | `knowledge / graph / convolutional / networks` | Billion-scale Pre-trained E-commerce Product Knowledge Graph Model |
 | [009](topic-009.md) | tensor / streams / sparse / streaming | 13 | 4.74% | 系统/效率/压缩 | `tensor / streams / sparse / streaming` | DisMASTD: An Efficient Distributed Multi-Aspect Streaming Tensor Decomposition |

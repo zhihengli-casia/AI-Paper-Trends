@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **22** (3.99%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `regret / online / revenue / cooperation`
 - Keyword pool: regret; online; revenue; cooperation; estimator; budget; agents; allocation; grids; cumulative; marketing; reward
 

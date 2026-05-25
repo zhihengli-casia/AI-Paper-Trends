@@ -2,7 +2,7 @@
 
 - Topic ID: `105`
 - Papers: **12** (0.37%)
-- Macro topic: 其他/交叉主题
+- Macro topic: AI4Science/医疗
 - English keywords: `eeg / brain / fmri / swift`
 - Keyword pool: eeg; brain; fmri; swift; activity; subjects; sessions; conversion; spiking; signals; fixations; transformer
 

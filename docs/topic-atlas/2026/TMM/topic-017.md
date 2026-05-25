@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **15** (2.53%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `attack / adversarial / examples / transferability`
 - Keyword pool: attack; adversarial; examples; transferability; target; perturbations; backdoor; fake; color; aigi; vulnerability; clip
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **24** (3.08%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `financial / stock / risk / time series`
 - Keyword pool: financial; stock; risk; time series; dialogue; transaction; market; payment; movement; event; detection; prediction
 

@@ -1,4 +1,4 @@
-# IJCAI 2024: domain adaptation / unknown / classes / label
+# IJCAI 2024: 领域自适应与迁移学习
 
 - Topic ID: `25`
 - Papers: **17** (1.62%)

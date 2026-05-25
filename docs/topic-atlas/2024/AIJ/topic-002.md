@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **11** (9.57%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `graphs / neural / adversarial / belief`
 - Keyword pool: graphs; neural; adversarial; belief; incremental; transformer; generalized; influence; exact; equal; prediction; social
 

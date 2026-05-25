@@ -1,4 +1,4 @@
-# ECCV 2022: counting / crowd / few-shot object / mot
+# ECCV 2022: 行人重识别与人群计数
 
 - Topic ID: `84`
 - Papers: **8** (0.49%)

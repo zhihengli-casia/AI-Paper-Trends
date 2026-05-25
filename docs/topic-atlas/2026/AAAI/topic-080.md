@@ -2,7 +2,7 @@
 
 - Topic ID: `80`
 - Papers: **24** (0.58%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / attacks / llms / adversarial`
 - Keyword pool: backdoor; attacks; llms; adversarial; vulnerabilities; defense; security; tampered; threat; alert; fake news; news detection
 

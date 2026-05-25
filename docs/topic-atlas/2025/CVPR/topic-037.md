@@ -1,8 +1,8 @@
-# CVPR 2025: 医学影像病灶分析
+# CVPR 2025: 医学影像分割
 
 - Topic ID: `37`
 - Papers: **27** (0.94%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical / semi-supervised / hard samples`
 - Keyword pool: segmentation; medical; semi-supervised; hard samples; lesion; surgical; clinical; anatomical; segmenting; iris; unlabeled; shape
 

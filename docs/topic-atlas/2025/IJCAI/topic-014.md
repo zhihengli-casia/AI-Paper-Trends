@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **22** (1.72%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / patient / diagnosis / clinical`
 - Keyword pool: medical; patient; diagnosis; clinical; health; language; care; records; time series; diagnostic; mental; clinicians
 

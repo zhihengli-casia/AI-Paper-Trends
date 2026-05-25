@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **8** (12.31%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `multiple instance learning / instance learning context-aware / slide image / spatial transcriptomics`
 - Keyword pool: multiple instance learning; instance learning context-aware; slide image; spatial transcriptomics; attention-based; hierarchical; microscopic; learning context-aware diagnosis; multi-lesion; modeling co-seg; micromil graph-based; lymphoma prognosis lesion-anatomy
 

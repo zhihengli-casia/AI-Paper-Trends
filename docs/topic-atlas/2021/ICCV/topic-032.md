@@ -1,8 +1,8 @@
-# ICCV 2021: person / reid / re-identification / cross-modality
+# ICCV 2021: 行人重识别与人群计数
 
 - Topic ID: `32`
 - Papers: **20** (1.24%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `person / reid / re-identification / cross-modality`
 - Keyword pool: person; reid; re-identification; cross-modality; pedestrian; occluded; video-based; spatial-temporal; clothing; infrared; rank-1; occlusion
 

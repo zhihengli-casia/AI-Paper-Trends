@@ -1,4 +1,4 @@
-# CVPR 2020: albedo / spatially-varying / light / surface
+# CVPR 2020: 材质、光照与反射率估计
 
 - Topic ID: `14`
 - Papers: **22** (1.50%)

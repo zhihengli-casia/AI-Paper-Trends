@@ -1,8 +1,8 @@
-# NAACL 2021: 机器翻译与跨语言对齐
+# NAACL 2021: 语音翻译与跨语言语音处理
 
 - Topic ID: `18`
 - Papers: **13** (2.73%)
-- Macro topic: NLP任务
+- Macro topic: 语音/音频/音乐
 - English keywords: `speech / non-autoregressive / dialect / asr`
 - Keyword pool: speech; non-autoregressive; dialect; asr; dialog; rnn; translation; sequence; features; monotonic; segments; acoustic
 

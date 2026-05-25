@@ -2,7 +2,7 @@
 
 - Topic ID: `104`
 - Papers: **25** (0.47%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `time series / time-series / forecasting / anomaly`
 - Keyword pool: time series; time-series; forecasting; anomaly; series reasoning; series foundation; multimodal; llms; language time; detection; stock; rating
 

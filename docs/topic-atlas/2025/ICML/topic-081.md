@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **19** (0.57%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / text-to-image / images / t2i`
 - Keyword pool: diffusion; text-to-image; images; t2i; panoramic; timestep; image generation; quality; control; lora; restoration; multilingual
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `94`
 - Papers: **17** (0.51%)
-- Macro topic: 生成模型
+- Macro topic: 理论/优化
 - English keywords: `bayesian optimization / lower-level / black-box / acquisition`
 - Keyword pool: bayesian optimization; lower-level; black-box; acquisition; functions; high-dimensional; lookahead; density ratio; design algorithms; regret; semi-supervised; optimization problems
 

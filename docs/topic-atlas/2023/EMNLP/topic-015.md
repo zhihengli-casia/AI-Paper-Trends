@@ -1,8 +1,8 @@
-# EMNLP 2023: 多语言建模与跨语言迁移
+# EMNLP 2023: 机器翻译与跨语言对齐
 
 - Topic ID: `15`
 - Papers: **22** (2.10%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `gender / bias / demographic / translation`
 - Keyword pool: gender; bias; demographic; translation; groups; multilingual; stereotypes; languages; mitigation; social; names; morals
 

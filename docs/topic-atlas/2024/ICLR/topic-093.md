@@ -2,7 +2,7 @@
 
 - Topic ID: `93`
 - Papers: **10** (0.44%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `watermark / llms / detection / attack`
 - Keyword pool: watermark; llms; detection; attack; security; logits; secret; detectors; adaptive; purification; verifiable; learnability
 

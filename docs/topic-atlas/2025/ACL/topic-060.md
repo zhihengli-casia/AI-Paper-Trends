@@ -2,7 +2,7 @@
 
 - Topic ID: `60`
 - Papers: **14** (0.82%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `safety / mllms / multimodal / long-context`
 - Keyword pool: safety; mllms; multimodal; long-context; risks; value-aligned; sea; unsafe; security; harmful; protein; low-rank
 

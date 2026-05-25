@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **40** (4.43%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `compression / video / pruning / motion`
 - Keyword pool: compression; video; pruning; motion; point; coding; codecs; cloud; flow; machine; diffusion; neural
 

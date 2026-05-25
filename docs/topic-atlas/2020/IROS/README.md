@@ -11,7 +11,7 @@
 
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
-| [000](topic-000.md) | 多模态学习与跨模态理解 | 40 | 3.59% | 3D/具身/机器人 | `navigation / learning / local / robot` | IAN: Multi-Behavior Navigation Planning for Robots in Real, Crowded Environments |
+| [000](topic-000.md) | 多模态融合与跨模态表示 | 40 | 3.59% | 3D/具身/机器人 | `navigation / learning / local / robot` | IAN: Multi-Behavior Navigation Planning for Robots in Real, Crowded Environments |
 | [001](topic-001.md) | 无人机/四旋翼规划与控制 | 30 | 2.69% | 3D/具身/机器人 | `control / aerial / drone / nonlinear` | Robust, Perception Based Control with Quadrotors |
 | [002](topic-002.md) | 社交导航与人机交互 | 29 | 2.60% | 3D/具身/机器人 | `human-robot / social / interaction / teams` | A Framework for Human-Robot Interaction User Studies |
 | [003](topic-003.md) | learning / reinforcement / sim-to-real / control | 29 | 2.60% | 3D/具身/机器人 | `learning / reinforcement / sim-to-real / control` | Learning High-Level Policies for Model Predictive Control |
@@ -72,4 +72,4 @@
 | [058](topic-058.md) | 无人机/空中机器人规划与控制 | 9 | 0.81% | 3D/具身/机器人 | `source / localization / sound / acoustic` | A Model-based Approach to Acoustic Reflector Localization with a Robotic Platform |
 | [059](topic-059.md) | 无人机/四旋翼规划与控制 | 9 | 0.81% | 3D/具身/机器人 | `uav / estimation / localization / tracking` | Ultra-Wideband Aided UAV Positioning Using Incremental Smoothing with Ranges and Multilateration |
 | [060](topic-060.md) | 无人机/四旋翼规划与控制 | 9 | 0.81% | 3D/具身/机器人 | `tracking / uav / correlation / filters` | Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking |
-| [061](topic-061.md) | 对抗攻击、鲁棒性与安全 | 8 | 0.72% | 3D/具身/机器人 | `semantic / mapping / masked / relative` | Dense Incremental Metric-Semantic Mapping via Sparse Gaussian Process Regression |
+| [061](topic-061.md) | GAN 与图像生成 | 8 | 0.72% | 3D/具身/机器人 | `semantic / mapping / masked / relative` | Dense Incremental Metric-Semantic Mapping via Sparse Gaussian Process Regression |

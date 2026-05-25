@@ -1,8 +1,8 @@
-# AAAI 2023: pruning / neural architecture / predictor / architecture search
+# AAAI 2023: 神经架构搜索与模型设计
 
 - Topic ID: `7`
 - Papers: **30** (1.91%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 生成模型
 - English keywords: `pruning / neural architecture / predictor / architecture search`
 - Keyword pool: pruning; neural architecture; predictor; architecture search; low-fidelity; architectures; gpu; initialization; kernel; neural networks; weight; gans
 

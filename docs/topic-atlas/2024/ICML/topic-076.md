@@ -2,7 +2,7 @@
 
 - Topic ID: `76`
 - Papers: **16** (0.61%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / attack / poisoned / trigger`
 - Keyword pool: backdoor; attack; poisoned; trigger; membership; privacy; detection; defense; cryptographic; dnn; obfuscation; diffusion
 

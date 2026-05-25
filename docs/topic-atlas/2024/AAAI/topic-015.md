@@ -1,8 +1,8 @@
-# AAAI 2024: 目标检测与图像分割
+# AAAI 2024: 视频动作识别与时序定位
 
 - Topic ID: `15`
 - Papers: **37** (1.59%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `action / video / temporal / recognition`
 - Keyword pool: action; video; temporal; recognition; segmentation; mirror; detection; frames; distillation; facial; skeleton-based; cross-modal
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `93`
 - Papers: **12** (0.51%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `coding / video compression / motion / videos`
 - Keyword pool: coding; video compression; motion; videos; codec; neural representation; entropy; context-based; frame; inr; implicit; temporal
 

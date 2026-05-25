@@ -1,4 +1,4 @@
-# AAAI 2021: 少样本 / classes / zero-shot learning / elbo
+# AAAI 2021: 零样本分类与开放集识别
 
 - Topic ID: `25`
 - Papers: **21** (1.28%)

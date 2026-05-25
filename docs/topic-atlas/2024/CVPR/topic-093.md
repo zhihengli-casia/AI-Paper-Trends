@@ -1,8 +1,8 @@
-# CVPR 2024: 目标检测与图像分割
+# CVPR 2024: 医学影像分割
 
 - Topic ID: `93`
 - Papers: **13** (0.48%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `sam / segmentation / semantic priors / marine`
 - Keyword pool: sam; segmentation; semantic priors; marine; medical; interactive; adversarial; mask; prompts; specialist; zero-shot; spd
 

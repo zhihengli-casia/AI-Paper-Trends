@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **8** (5.67%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `animation / motion / generation / multimodal`
 - Keyword pool: animation; motion; generation; multimodal; diffusion; physics-based; interaction; human; gesture; controllable; video; editing
 

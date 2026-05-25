@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **19** (0.92%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `hands / hand-object / contact / pose`
 - Keyword pool: hands; hand-object; contact; pose; articulated; mesh; interaction; reconstruction; articulation; joints; estimation; lisa
 

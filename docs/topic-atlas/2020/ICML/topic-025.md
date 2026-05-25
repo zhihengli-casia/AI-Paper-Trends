@@ -1,4 +1,4 @@
-# ICML 2020: multi-task / pareto / meta-learning / competing
+# ICML 2020: 元学习、MAML 与少样本适应
 
 - Topic ID: `25`
 - Papers: **18** (1.66%)

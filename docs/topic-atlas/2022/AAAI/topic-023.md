@@ -1,8 +1,8 @@
-# AAAI 2022: 优化 / solver / student / problems
+# AAAI 2022: 组合优化与神经求解
 
 - Topic ID: `23`
 - Papers: **19** (1.44%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `optimization / solver / student / problems`
 - Keyword pool: optimization; solver; student; problems; integer; nice; combinatorial; search; scheduling; programming; columns; hardness
 

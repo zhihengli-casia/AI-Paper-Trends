@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **19** (0.70%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `instruction / continual / surgical / tuning`
 - Keyword pool: instruction; continual; surgical; tuning; gaze; in-context; ophthalmic; forgetting; vision-language; mllms; audio-visual; preference
 

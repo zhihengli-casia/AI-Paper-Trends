@@ -1,8 +1,8 @@
-# PR 2025: person / re-identification / transformer / search
+# PR 2025: 行人重识别与人群计数
 
 - Topic ID: `13`
 - Papers: **27** (1.79%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `person / re-identification / transformer / search`
 - Keyword pool: person; re-identification; transformer; search; video-based; text-based; cross-domain; cross-modality; visible; infrared; generalizable; representation
 

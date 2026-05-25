@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **19** (0.80%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `vit / pruning / vision transformers / tokens`
 - Keyword pool: vit; pruning; vision transformers; tokens; lift; compression; fairness; quantization; re-training; dense; dsa; stitching
 

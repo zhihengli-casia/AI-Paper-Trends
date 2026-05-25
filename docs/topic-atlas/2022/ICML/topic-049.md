@@ -1,8 +1,8 @@
-# ICML 2022: 知识图谱推理与表示学习
+# ICML 2022: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `49`
 - Papers: **13** (1.05%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `reasoning / logical / relation / neuro-symbolic`
 - Keyword pool: reasoning; logical; relation; neuro-symbolic; knowledge graph; subgraph; explanations; entities; rules; extractive; cycles; patterns
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **28** (11.20%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `series / forecasting / spatio-temporal / anomaly`
 - Keyword pool: series; forecasting; spatio-temporal; anomaly; urban; foundation; dependencies; detection; healthcare; financial; dependency; diffusion
 

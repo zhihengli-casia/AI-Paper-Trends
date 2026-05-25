@@ -2,7 +2,7 @@
 
 - Topic ID: `87`
 - Papers: **30** (0.57%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `pose / point / camera / reconstruction`
 - Keyword pool: pose; point; camera; reconstruction; rig; tracking; object; registration; motion; monocular; cloud; geometric
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **25** (1.38%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `texts / machine-generated / detection / factuality`
 - Keyword pool: texts; machine-generated; detection; factuality; human-written; facts; ai-generated; origin; verification; privacy; claims; attribution
 

@@ -1,8 +1,8 @@
-# CVPR 2024: 文档摘要与信息压缩
+# CVPR 2024: 视频摘要与精彩片段检测
 
 - Topic ID: `22`
 - Papers: **35** (1.29%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `video / summarization / captioning / captions`
 - Keyword pool: video; summarization; captioning; captions; language; retrieval; temporal; multimodal; long; streaming; llms; tokens
 

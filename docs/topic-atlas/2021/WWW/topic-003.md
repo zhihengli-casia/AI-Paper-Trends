@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **31** (8.73%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `knowledge graph / kgs / graphs / entities`
 - Keyword pool: knowledge graph; kgs; graphs; entities; embedding; completion; commonsense; taxonomy; reasoning; triples; link prediction; relations
 

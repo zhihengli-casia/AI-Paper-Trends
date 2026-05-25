@@ -2,7 +2,7 @@
 
 - Topic ID: `55`
 - Papers: **18** (0.80%)
-- Macro topic: 可信/安全/公平
+- Macro topic: AI4Science/医疗
 - English keywords: `fairness / medical / group / long-tailed`
 - Keyword pool: fairness; medical; group; long-tailed; procedural; distributionally; causal; robust optimization; imbalance; demographic; abstention; augmentation
 

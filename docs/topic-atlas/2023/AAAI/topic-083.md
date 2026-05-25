@@ -2,7 +2,7 @@
 
 - Topic ID: `83`
 - Papers: **9** (0.57%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `vit / vision / backdoor / transformers`
 - Keyword pool: vit; vision; backdoor; transformers; adaptation; structured pruning; positional; parameter-efficient; input image; attacks; patch; top-1
 

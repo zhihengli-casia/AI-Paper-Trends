@@ -1,4 +1,4 @@
-# ICCV 2023: action / 视频理解/生成 / temporal / anomaly
+# ICCV 2023: 视频动作识别与时序定位
 
 - Topic ID: `4`
 - Papers: **48** (2.23%)

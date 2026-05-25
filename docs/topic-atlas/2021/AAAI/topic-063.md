@@ -2,7 +2,7 @@
 
 - Topic ID: `63`
 - Papers: **13** (0.79%)
-- Macro topic: 其他/交叉主题
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / genetic / functional / tables`
 - Keyword pool: brain; genetic; functional; tables; materials; cognitive; databases; feature selection; queries; decoding; interpretable; augmentation
 

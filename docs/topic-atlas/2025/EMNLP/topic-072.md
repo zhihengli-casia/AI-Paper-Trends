@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **13** (0.72%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `mathematical / problems / formal / theorem`
 - Keyword pool: mathematical; problems; formal; theorem; proofs; geometric; lean; curriculum learning; sat; reward; solving; difficulty
 

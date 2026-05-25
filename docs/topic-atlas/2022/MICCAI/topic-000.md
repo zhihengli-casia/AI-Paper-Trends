@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **13** (18.31%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `detection / pulmonary / chest / lesion`
 - Keyword pool: detection; pulmonary; chest; lesion; images; nodule; skin; supervision; radiograph; tuberculosis; diagnosis; segmentation
 

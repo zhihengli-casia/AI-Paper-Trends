@@ -1,8 +1,8 @@
-# IJCAI 2024: LLM Agent 与工具使用
+# IJCAI 2024: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `8`
 - Papers: **24** (2.29%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `agents / fairness / goods / allocation`
 - Keyword pool: agents; fairness; goods; allocation; facility; clients; item; facilities; truthful; group; approximation; existence
 

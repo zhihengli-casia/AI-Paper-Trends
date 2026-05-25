@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **18** (2.62%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / scenes / objects / generative`
 - Keyword pool: video; scenes; objects; generative; background; future; temporal; reasoning; prediction; unsupervised; representation learning; planning
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **69** (1.71%)
-- Macro topic: 强化学习/决策
+- Macro topic: AI4Science/医疗
 - English keywords: `dynamics / dynamical / recurrent / rnns`
 - Keyword pool: dynamics; dynamical; recurrent; rnns; circuit; activity; place; brain; neurons; neuroscience; nonlinear; cells
 

@@ -1,4 +1,4 @@
-# CVPR 2023: classes / 少样本 / 开放集 / transductive
+# CVPR 2023: 零样本分类与开放集识别
 
 - Topic ID: `17`
 - Papers: **34** (1.44%)

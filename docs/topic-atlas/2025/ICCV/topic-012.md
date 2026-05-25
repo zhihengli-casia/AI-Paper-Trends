@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **41** (1.52%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `unlearning / concept / unlearned / forgetting`
 - Keyword pool: unlearning; concept; unlearned; forgetting; continual; federated; gradient; malicious; discovery; attack; machine; known categories
 

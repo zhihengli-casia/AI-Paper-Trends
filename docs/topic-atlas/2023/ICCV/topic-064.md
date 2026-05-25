@@ -1,8 +1,8 @@
-# ICCV 2023: 攻击、防御与模型安全
+# ICCV 2023: 视频动作识别与时序定位
 
 - Topic ID: `64`
 - Papers: **16** (0.74%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `skeleton-based / gait / action / recognition`
 - Keyword pool: skeleton-based; gait; action; recognition; skeleton sequence; tempo; ntu; topology; attack; pose-based; sequences; body
 

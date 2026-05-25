@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **38** (9.25%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `recommendation / recommender / user / items`
 - Keyword pool: recommendation; recommender; user; items; news; collaborative; sequential; language; llms; content; behavior; creators
 

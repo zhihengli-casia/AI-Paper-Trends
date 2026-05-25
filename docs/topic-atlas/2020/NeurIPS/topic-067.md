@@ -2,7 +2,7 @@
 
 - Topic ID: `67`
 - Papers: **14** (0.74%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / robustness / loss landscape / boundary`
 - Keyword pool: adversarial; robustness; loss landscape; boundary; fgsm; overfitting; weight; self-adaptive; boundaries; noises; corruption; perturbations
 

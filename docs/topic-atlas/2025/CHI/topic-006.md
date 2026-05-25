@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **31** (2.49%)
-- Macro topic: AI4Science/医疗
+- Macro topic: 推荐/检索/排序
 - English keywords: `conversational / chatbots / support / llm-powered`
 - Keyword pool: conversational; chatbots; support; llm-powered; leveraging; health; social; news; individuals; recommendation; proactive; cultural
 

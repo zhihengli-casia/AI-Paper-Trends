@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **31** (3.30%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `memory / inference / quantization / footprint`
 - Keyword pool: memory; inference; quantization; footprint; pruning; latency; decoding; layers; reduce; parameters; moe; experts
 

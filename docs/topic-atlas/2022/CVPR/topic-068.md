@@ -1,8 +1,8 @@
-# CVPR 2022: 语音/音频语言模型
+# CVPR 2022: 音视频多模态理解
 
 - Topic ID: `68`
 - Papers: **14** (0.68%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 多模态/VLM
 - English keywords: `speech / sound / audio-visual / voice`
 - Keyword pool: speech; sound; audio-visual; voice; lip; reading; bimodal; ssl; paired; cloning; associative; face
 

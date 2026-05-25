@@ -1,4 +1,4 @@
-# CVPR 2021: face / facial / person / age
+# CVPR 2021: 人脸分析、表情与属性建模
 
 - Topic ID: `6`
 - Papers: **30** (1.81%)

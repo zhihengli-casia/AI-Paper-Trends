@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **9** (0.70%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `pathology / cancer / survival / pathological`
 - Keyword pool: pathology; cancer; survival; pathological; multimodal; protein; images; multiple instance; diagnosis; lung; instance learning; patients
 

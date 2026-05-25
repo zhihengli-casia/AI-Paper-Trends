@@ -1,8 +1,8 @@
-# TMM 2026: 目标检测与图像分割
+# TMM 2026: 医学影像分割
 
 - Topic ID: `12`
 - Papers: **17** (2.86%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / domain-invariant / target domains / classifier`
 - Keyword pool: segmentation; domain-invariant; target domains; classifier; pseudo-labels; background; ultrasound; lung; domain adaptive; wildlife; contextual; crowd
 

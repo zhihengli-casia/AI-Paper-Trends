@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **79** (1.49%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `preference / reward / rlhf / dpo`
 - Keyword pool: preference; reward; rlhf; dpo; policy; human feedback; reinforcement learning human; aligning language; responses; llms; user; llm alignment
 

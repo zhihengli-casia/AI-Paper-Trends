@@ -1,4 +1,4 @@
-# ECCV 2020: entries / matrix / batch / normalization
+# ECCV 2020: 归一化、网络层与训练稳定性
 
 - Topic ID: `58`
 - Papers: **12** (0.88%)

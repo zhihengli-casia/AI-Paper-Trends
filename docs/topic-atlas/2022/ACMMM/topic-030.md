@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **10** (1.45%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `story / layout / text-to-image / descriptions`
 - Keyword pool: story; layout; text-to-image; descriptions; t2f; semantically; fid; object; adversarial; texts; stage; multimodal
 

@@ -1,4 +1,4 @@
-# ICML 2022: equivariant / quantum / equivariance / spherical
+# ICML 2022: 卷积网络结构与训练
 
 - Topic ID: `32`
 - Papers: **16** (1.30%)

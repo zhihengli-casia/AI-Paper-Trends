@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **82** (1.53%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / rag / table / llms`
 - Keyword pool: retrieval; rag; table; llms; graph; document; multi-hop; retrieved; question answering; query; queries; passages
 

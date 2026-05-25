@@ -1,8 +1,8 @@
-# EMNLP 2025: 语音/音频语言模型
+# EMNLP 2025: 语音合成与音频生成
 
 - Topic ID: `59`
 - Papers: **15** (0.83%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `test-time / tts / scaling / audio`
 - Keyword pool: test-time; tts; scaling; audio; thinking; video; lrms; budget; checkpoint; table reasoning; test time; reinforcement
 

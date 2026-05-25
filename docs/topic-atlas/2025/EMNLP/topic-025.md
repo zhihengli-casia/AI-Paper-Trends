@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **22** (1.22%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `rag / retrieval-augmented generation / search / external knowledge`
 - Keyword pool: rag; retrieval-augmented generation; search; external knowledge; retrieval augmented generation; boundary; documents; paradigm; retrieves; subgraph; structured; tom
 

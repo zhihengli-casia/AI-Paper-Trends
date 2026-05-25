@@ -2,7 +2,7 @@
 
 - Topic ID: `131`
 - Papers: **12** (0.36%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `rag / retrieval / query / llms`
 - Keyword pool: rag; retrieval; query; llms; documents; contradiction; mvr; sql; poisoned; atomic; corpus; retrievers
 

@@ -1,8 +1,8 @@
-# NAACL 2025: 多语言建模与跨语言迁移
+# NAACL 2025: 机器翻译与跨语言对齐
 
 - Topic ID: `7`
 - Papers: **23** (3.20%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `financial / translation / sign / languages`
 - Keyword pool: financial; translation; sign; languages; multilingual; cross-lingual; transfer; machine; english; contextualization; tokenization; low-resource
 

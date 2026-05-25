@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **16** (1.26%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `hallucination / premise / detector / detection`
 - Keyword pool: hallucination; premise; detector; detection; claim; false; multilingual feedback; factual; mllms; truthfulness; languages; abstention
 

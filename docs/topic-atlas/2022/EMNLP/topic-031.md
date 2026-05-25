@@ -1,8 +1,8 @@
-# EMNLP 2022: 多语言建模与跨语言迁移
+# EMNLP 2022: 机器翻译与跨语言对齐
 
 - Topic ID: `31`
 - Papers: **12** (1.45%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `multilingual / languages / calibration / translation`
 - Keyword pool: multilingual; languages; calibration; translation; cross-lingual; mtl; transfer; zero-shot; target language; massively; machine; adapters
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `104`
 - Papers: **16** (0.48%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / weights activations / bit / ptq`
 - Keyword pool: quantization; weights activations; bit; ptq; quantizing; quantized; fp4; llms; precision; post-training; outliers; quest
 

@@ -1,8 +1,8 @@
-# TPAMI 2023: normalization / gcp / batch / distillation
+# TPAMI 2023: 归一化、网络层与训练稳定性
 
 - Topic ID: `33`
 - Papers: **10** (1.47%)
-- Macro topic: 生成模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `normalization / gcp / batch / distillation`
 - Keyword pool: normalization; gcp; batch; distillation; detr; convergence; quantization; vanilla; augmentation; data-free; gradient; disentanglement
 

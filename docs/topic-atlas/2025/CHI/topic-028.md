@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **17** (1.37%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / news / language / confirmation`
 - Keyword pool: bias; news; language; confirmation; llm; recognition; factors; settings; misinformation; explanations; media; people
 

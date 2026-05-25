@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **7** (2.93%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `cross-domain / domains / recommendation / domain-specific`
 - Keyword pool: cross-domain; domains; recommendation; domain-specific; transfer; streaming; representations; videos; contrastive; unified; conditional; short
 

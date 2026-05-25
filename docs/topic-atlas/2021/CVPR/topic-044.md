@@ -1,4 +1,4 @@
-# CVPR 2021: pose / hand / contact / mesh
+# CVPR 2021: 人体姿态估计与运动理解
 
 - Topic ID: `44`
 - Papers: **16** (0.96%)

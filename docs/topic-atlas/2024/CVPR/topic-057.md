@@ -1,4 +1,4 @@
-# CVPR 2024: 运动建模 / gait / animal / person
+# CVPR 2024: 视频动作识别与时序定位
 
 - Topic ID: `57`
 - Papers: **21** (0.77%)

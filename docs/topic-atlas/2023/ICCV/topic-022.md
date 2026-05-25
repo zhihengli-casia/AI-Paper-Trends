@@ -1,8 +1,8 @@
-# ICCV 2023: deepfake / attribution / explanations / subgroups
+# ICCV 2023: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `22`
 - Papers: **33** (1.53%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `deepfake / attribution / explanations / subgroups`
 - Keyword pool: deepfake; attribution; explanations; subgroups; spurious; interpretability; prototypes; camouflage; interpretation; masking; act; robustness
 

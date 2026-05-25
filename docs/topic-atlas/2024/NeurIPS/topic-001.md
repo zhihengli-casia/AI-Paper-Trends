@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **119** (2.95%)
-- Macro topic: 生成模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `kernel / regression / matrix / variational`
 - Keyword pool: kernel; regression; matrix; variational; gaussian; bounds; sparse; spectral; descent; approximation; subspace; ridge
 

@@ -1,8 +1,8 @@
-# AAAI 2022: LLM Agent 与工具使用
+# AAAI 2022: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `1`
 - Papers: **44** (3.35%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `agents / allocation / welfare / equilibrium`
 - Keyword pool: agents; allocation; welfare; equilibrium; matching; online; social; item; fair; preferences; mechanisms; price
 

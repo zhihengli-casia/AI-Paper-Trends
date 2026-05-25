@@ -2,7 +2,7 @@
 
 - Topic ID: `90`
 - Papers: **15** (0.52%)
-- Macro topic: 生成模型
+- Macro topic: 强化学习/决策
 - English keywords: `preference / dpo / reward / aesthetics`
 - Keyword pool: preference; dpo; reward; aesthetics; personalized; image generation; fine-tuning; text-to-image; direct; generated images; t2i; denoising
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **26** (2.88%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `video / streaming / qoe / volumetric`
 - Keyword pool: video; streaming; qoe; volumetric; bandwidth; bitrate; viewing; latency; virtual; experience; dof; user
 

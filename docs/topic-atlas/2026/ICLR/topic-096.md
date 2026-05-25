@@ -2,7 +2,7 @@
 
 - Topic ID: `96`
 - Papers: **28** (0.52%)
-- Macro topic: 理论/优化
+- Macro topic: 计算机视觉
 - English keywords: `ssms / mamba / sequence modeling / rnns`
 - Keyword pool: ssms; mamba; sequence modeling; rnns; state-space; tensor; recurrence; recurrent; state-tracking; transformers; linear sequence; ssd
 

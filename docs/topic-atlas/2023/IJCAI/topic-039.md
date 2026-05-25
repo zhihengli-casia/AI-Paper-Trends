@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **10** (1.18%)
-- Macro topic: AI4Science/医疗
+- Macro topic: 可信/安全/公平
 - English keywords: `molecule / property / graph / drug`
 - Keyword pool: molecule; property; graph; drug; routing; prediction; redistribution; discovery; non-autoregressive; hierarchical; exposure bias; electron
 

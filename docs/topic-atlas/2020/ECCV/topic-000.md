@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **46** (3.39%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `deblurring / restoration / denoising / noise`
 - Keyword pool: deblurring; restoration; denoising; noise; blind; enhancement; distortions; inpainting; perceptual; removal; unpaired; burst
 

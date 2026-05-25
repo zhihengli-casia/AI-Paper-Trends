@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **16** (1.05%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / private / differential / clipping`
 - Keyword pool: privacy; private; differential; clipping; federated; personalized; trust; server; window; many-to-many; algorithms; statistical
 

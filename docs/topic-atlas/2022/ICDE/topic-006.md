@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **19** (6.15%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `constraints / maximization / planning / fast`
 - Keyword pool: constraints; maximization; planning; fast; computation; decomposition; utility; maximum; moving; items; high-dimensional; optimization
 

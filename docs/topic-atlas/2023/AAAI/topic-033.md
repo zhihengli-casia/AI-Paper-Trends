@@ -1,8 +1,8 @@
-# AAAI 2023: 文档摘要与信息压缩
+# AAAI 2023: 摘要生成与信息压缩
 
 - Topic ID: `33`
 - Papers: **18** (1.15%)
-- Macro topic: 生成模型
+- Macro topic: NLP任务
 - English keywords: `event / temporal / summarization / syntax`
 - Keyword pool: event; temporal; summarization; syntax; reasoning; factual; script; language; causality; generation; hierarchy; commonsense
 

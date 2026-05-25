@@ -1,8 +1,8 @@
-# ECCV 2020: 社交媒体与社会计算
+# ECCV 2020: 视频动作识别与时序定位
 
 - Topic ID: `23`
 - Papers: **22** (1.62%)
-- Macro topic: HCI/社会计算
+- Macro topic: 计算机视觉
 - English keywords: `activity / action / group / video`
 - Keyword pool: activity; action; group; video; activities; human-object; social; relational; assessment; hoi; anticipation; temporal
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **52** (0.97%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `restoration / super-resolution / diffusion / video`
 - Keyword pool: restoration; super-resolution; diffusion; video; degradations; high-resolution; var; remote sensing; compression; one-step; upsampling; low-resolution
 

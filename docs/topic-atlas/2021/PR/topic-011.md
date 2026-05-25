@@ -1,8 +1,8 @@
-# PR 2021: 目标检测与图像分割
+# PR 2021: 语义分割与场景解析
 
 - Topic ID: `11`
 - Papers: **16** (2.72%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `point / clouds / fitting / description`
 - Keyword pool: point; clouds; fitting; description; segmentation; pose; detection; estimation; spatial; extraction; semantic; relations
 

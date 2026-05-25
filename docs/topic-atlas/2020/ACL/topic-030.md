@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **12** (1.54%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `translation / autoregressive / sequence / neural machine`
 - Keyword pool: translation; autoregressive; sequence; neural machine; labeling; masked; dependency; nmt; knowledge distillation; latent; adversarial; teacher
 

@@ -1,8 +1,8 @@
-# AAAI 2020: 强化学习算法与理论
+# AAAI 2020: 音乐与音频生成/理解
 
 - Topic ID: `82`
 - Papers: **8** (0.50%)
-- Macro topic: 强化学习/决策
+- Macro topic: 语音/音频/音乐
 - English keywords: `games / extrinsic / reinforcement learning / deep reinforcement`
 - Keyword pool: games; extrinsic; reinforcement learning; deep reinforcement; agent; text-based; reward; environment; practice; music; human-level; play
 

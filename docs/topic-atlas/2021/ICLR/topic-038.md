@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **11** (1.28%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `games / convergence / timescale / rates`
 - Keyword pool: games; convergence; timescale; rates; minimax; optimistic; equilibrium; chaos; lyapunov; convex; smooth; momentum
 

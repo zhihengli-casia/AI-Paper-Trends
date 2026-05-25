@@ -1,8 +1,8 @@
-# ICCV 2025: 医疗健康与临床 AI
+# ICCV 2025: 医学影像分割
 
 - Topic ID: `47`
 - Papers: **23** (0.85%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical / mri / tumor`
 - Keyword pool: segmentation; medical; mri; tumor; organs; reports; multi-organ; tubular; anatomical; imaging; clinical; abdominal
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **21** (1.68%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `diagrams / cad / multimodal / glyph`
 - Keyword pool: diagrams; cad; multimodal; glyph; mllms; vector; graphics; reasoning; editing; geometric; drawings; scientific
 

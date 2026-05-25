@@ -2,7 +2,7 @@
 
 - Topic ID: `88`
 - Papers: **18** (0.54%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / dynamics / networks / biologically plausible`
 - Keyword pool: brain; dynamics; networks; biologically plausible; mamba; multi-region; neuroscience; recurrent; cognitive; place; ssm; activity
 

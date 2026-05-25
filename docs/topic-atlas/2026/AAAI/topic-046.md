@@ -1,8 +1,8 @@
-# AAAI 2026: 语音/音频语言模型
+# AAAI 2026: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `46`
 - Papers: **35** (0.84%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `watermark / audio / attacks / copyright`
 - Keyword pool: watermark; audio; attacks; copyright; secret; protection; steganography; image; infringement; deepfake; security; diffusion
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **9** (0.84%)
-- Macro topic: NLP任务
+- Macro topic: 计算机视觉
 - English keywords: `video / frames / long / movie`
 - Keyword pool: video; frames; long; movie; localization; grounding; cone; diffusion; temporal; spoken; dialogue understanding; pseudo
 

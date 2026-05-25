@@ -1,8 +1,8 @@
-# NeurIPS 2024: logic / circuits / sat / verification
+# NeurIPS 2024: 神经架构搜索与模型设计
 
 - Topic ID: `43`
 - Papers: **40** (0.99%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `logic / circuits / sat / verification`
 - Keyword pool: logic; circuits; sat; verification; analog; symbolic; chip; nas; arithmetic; probabilistic; carbon; hardware
 

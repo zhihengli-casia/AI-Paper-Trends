@@ -2,7 +2,7 @@
 
 - Topic ID: `68`
 - Papers: **9** (0.66%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `view synthesis / depth / rendering / colorization`
 - Keyword pool: view synthesis; depth; rendering; colorization; scene; views; appearance; parallax; mpi; point; viewing; camera
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `66`
 - Papers: **29** (0.70%)
-- Macro topic: 多模态/VLM
+- Macro topic: 系统/效率/压缩
 - English keywords: `underwater / image / quality assessment / aesthetic`
 - Keyword pool: underwater; image; quality assessment; aesthetic; color; quantization; perception; burst; distortion; temperature; enhancement; lmm
 

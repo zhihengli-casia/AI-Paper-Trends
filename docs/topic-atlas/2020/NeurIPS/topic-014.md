@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **31** (1.63%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `kernel / regression / random / gaussian`
 - Keyword pool: kernel; regression; random; gaussian; imputation; rank; lasso; double descent; sample; matrix; linear; items
 

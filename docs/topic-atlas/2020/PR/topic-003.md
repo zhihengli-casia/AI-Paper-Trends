@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **24** (4.85%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 系统/效率/压缩
 - English keywords: `classification / support vector / reduction / machine`
 - Keyword pool: classification; support vector; reduction; machine; one-class; description; space; modality; dimensionality; common; dictionary learning; kernel
 

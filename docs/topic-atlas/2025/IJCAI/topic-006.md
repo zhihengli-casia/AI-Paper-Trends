@@ -1,4 +1,4 @@
-# IJCAI 2025: compositions / 零样本 / spurious / compositional
+# IJCAI 2025: 零样本分类与开放集识别
 
 - Topic ID: `6`
 - Papers: **27** (2.11%)

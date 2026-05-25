@@ -1,8 +1,8 @@
-# ICLR 2026: 多智能体协作与规划
+# ICLR 2026: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `99`
 - Papers: **27** (0.50%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `multi-agent / marl / cooperative / coordination`
 - Keyword pool: multi-agent; marl; cooperative; coordination; games; distributionally robust; agents; decentralized; policy; policies; value; adversarial
 

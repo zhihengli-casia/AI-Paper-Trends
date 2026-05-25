@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **29** (1.07%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 计算机视觉
 - English keywords: `video / motion / flow / frame interpolation`
 - Keyword pool: video; motion; flow; frame interpolation; frames; optical; hdr; stabilization; mirror; estimation; temporal; fvd
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **31** (1.15%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `domain / object detection / source / adaptation`
 - Keyword pool: domain; object detection; source; adaptation; shifts; unseen; augmentation; detectors; dehazing; unknown; incremental; unlabeled target
 

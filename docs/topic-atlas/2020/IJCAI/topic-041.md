@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **10** (1.29%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 强化学习/决策
 - English keywords: `trust / logic / agent / del`
 - Keyword pool: trust; logic; agent; del; social; communication; abilities; epistemic; concurrent; games; direct; joint
 

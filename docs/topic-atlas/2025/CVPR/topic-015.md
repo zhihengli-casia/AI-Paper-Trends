@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **35** (1.22%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `gaussians / splatting / view / synthesis`
 - Keyword pool: gaussians; splatting; view; synthesis; rendering; scene; sparse; reconstruction; pruning; point; depth; clouds
 

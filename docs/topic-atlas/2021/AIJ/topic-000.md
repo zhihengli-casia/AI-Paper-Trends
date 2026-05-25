@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **22** (20.75%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `mml / probabilistic / logic / networks`
 - Keyword pool: mml; probabilistic; logic; networks; modeling; semantics; tractability; reasoning; games; argumentation; inference; skeptical
 

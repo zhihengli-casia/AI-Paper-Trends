@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **17** (1.97%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `games / shapley / agent / equilibrium`
 - Keyword pool: games; shapley; agent; equilibrium; security; value; dynamics; defending; mixed; message; cooperative; solution
 

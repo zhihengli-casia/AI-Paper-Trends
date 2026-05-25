@@ -1,8 +1,8 @@
-# ECCV 2024: 语音/音频语言模型
+# ECCV 2024: 视频检索、时刻定位与事件理解
 
 - Topic ID: `19`
 - Papers: **33** (1.38%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `video / reasoning / understanding / temporal`
 - Keyword pool: video; reasoning; understanding; temporal; language; llms; answering; long; audio; question; instructional; retrieval
 

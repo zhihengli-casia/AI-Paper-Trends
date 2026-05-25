@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **12** (1.11%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 系统/效率/压缩
 - English keywords: `meta-learning / few-shot / transfer / normalization`
 - Keyword pool: meta-learning; few-shot; transfer; normalization; variations; incremental; cnn; fine-tuning; isometric; base; classification; kernels
 

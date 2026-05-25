@@ -1,8 +1,8 @@
-# ECCV 2020: captioning / captions / language / sign
+# ECCV 2020: 场景图、关系推理与视觉理解
 
 - Topic ID: `63`
 - Papers: **11** (0.81%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `captioning / captions / language / sign`
 - Keyword pool: captioning; captions; language; sign; visual representations; people; similar images; rnn; non-autoregressive; viewpoint changes; scene graph; life
 

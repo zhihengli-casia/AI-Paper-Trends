@@ -1,8 +1,8 @@
-# PR 2021: facial / face / structural / relations
+# PR 2021: 人脸分析、表情与属性建模
 
 - Topic ID: `7`
 - Papers: **22** (3.74%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 计算机视觉
 - English keywords: `facial / face / structural / relations`
 - Keyword pool: facial; face; structural; relations; localization; constraint; recognition; detection; video; multi-task; expression; shape
 

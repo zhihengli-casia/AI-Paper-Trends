@@ -1,4 +1,4 @@
-# ACMMM 2022: domain adaptation / source / domains / target domain
+# ACMMM 2022: 领域自适应与迁移学习
 
 - Topic ID: `10`
 - Papers: **23** (3.33%)

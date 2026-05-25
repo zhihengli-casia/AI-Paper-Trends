@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **35** (0.87%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `llms / reasoning / planning / agents`
 - Keyword pool: llms; reasoning; planning; agents; critique; llm-based; medical; honesty; gpt-4; mcts; feedback; prompting
 

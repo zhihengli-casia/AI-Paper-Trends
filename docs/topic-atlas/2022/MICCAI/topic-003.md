@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **11** (15.49%)
-- Macro topic: HCI/社会计算
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / fmri / activity / states`
 - Keyword pool: brain; fmri; activity; states; human; resting-state; consciousness; attention; patterns; networks; functional; transformer
 

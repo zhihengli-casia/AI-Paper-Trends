@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **18** (2.26%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `object / detection / scene / localization`
 - Keyword pool: object; detection; scene; localization; point cloud; monocular; driving; corruption; visual; clouds; grounding; images
 

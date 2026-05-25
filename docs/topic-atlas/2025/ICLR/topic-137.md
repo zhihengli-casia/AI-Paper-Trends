@@ -1,8 +1,8 @@
-# ICLR 2025: 强化学习策略与奖励建模
+# ICLR 2025: 开放域对话与响应生成
 
 - Topic ID: `137`
 - Papers: **11** (0.30%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `reward / rms / alignment / preference`
 - Keyword pool: reward; rms; alignment; preference; open-domain; llms; bradley-terry; responses; style; policy; inference-time; huggingface nvidia
 

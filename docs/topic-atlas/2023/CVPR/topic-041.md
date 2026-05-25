@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **23** (0.98%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `vqa / answering / commonsense / visual question`
 - Keyword pool: vqa; answering; commonsense; visual question; language; multimodal; reasoning; bias; gender; captioning; knowledge-based; continual
 

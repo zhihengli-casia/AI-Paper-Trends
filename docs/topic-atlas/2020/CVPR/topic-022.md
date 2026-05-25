@@ -1,8 +1,8 @@
-# CVPR 2020: 目标检测与图像分割
+# CVPR 2020: 实例分割与开放词汇分割
 
 - Topic ID: `22`
 - Papers: **20** (1.36%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `point / object detection / clouds / voxel`
 - Keyword pool: point; object detection; clouds; voxel; detectors; kitti; boxes; single-stage; descriptors; sun; instance segmentation; pedestrian detection
 

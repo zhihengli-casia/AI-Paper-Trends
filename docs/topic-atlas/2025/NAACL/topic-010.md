@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **22** (3.06%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `persuasive / markers / annotations / emotional`
 - Keyword pool: persuasive; markers; annotations; emotional; epistemic; steerability; fidelity; dialogue; subjective; uncertainty; confidence; chess
 

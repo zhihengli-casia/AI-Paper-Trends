@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **20** (0.88%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / eeg / neuroscience / synaptic`
 - Keyword pool: brain; eeg; neuroscience; synaptic; cortex; fmri; visual; geometry; functional; object; stimuli; activity
 

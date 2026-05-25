@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **13** (2.69%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 强化学习/决策
 - English keywords: `trajectory / deep / tracing / indexing`
 - Keyword pool: trajectory; deep; tracing; indexing; spatio-temporal; prediction; query; management; planning; cooperative; lightweight; accuracy
 

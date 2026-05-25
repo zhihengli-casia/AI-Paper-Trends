@@ -1,8 +1,8 @@
-# AIJ 2022: LLM Agent 与工具使用
+# AIJ 2022: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `2`
 - Papers: **16** (16.16%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `agents / mechanisms / influence / allocation`
 - Keyword pool: agents; mechanisms; influence; allocation; budget; defenders; social; metric; gap; games; security; distortion
 

@@ -1,8 +1,8 @@
-# PR 2021: 目标检测与图像分割
+# PR 2021: 医学影像分割
 
 - Topic ID: `4`
 - Papers: **26** (4.41%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `chest / images / lung / diagnosis`
 - Keyword pool: chest; images; lung; diagnosis; detection; x-ray; contrastive; segmentation; automatic; ensemble; convolutional; overview
 

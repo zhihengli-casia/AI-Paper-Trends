@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **11** (0.88%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `t2i / harmful / concept / gender`
 - Keyword pool: t2i; harmful; concept; gender; safe; text-to-image; bias; cfg; dms; ethical; detectors; content
 

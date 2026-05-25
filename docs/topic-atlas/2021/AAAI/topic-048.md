@@ -1,8 +1,8 @@
-# AAAI 2021: emotion / quantum / facial / conversation
+# AAAI 2021: 情感识别与多模态情绪理解
 
 - Topic ID: `48`
 - Papers: **17** (1.04%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `emotion / quantum / facial / conversation`
 - Keyword pool: emotion; quantum; facial; conversation; video; recognition; posts; story; xlnet; sentiment; intensity; expression
 

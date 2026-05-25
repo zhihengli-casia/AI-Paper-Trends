@@ -1,8 +1,8 @@
-# WWW 2024: LLM Agent 与工具使用
+# WWW 2024: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `5`
 - Papers: **20** (4.95%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `auctions / mechanisms / revenue / price`
 - Keyword pool: auctions; mechanisms; revenue; price; optimal; items; agents; value; approximation; advertisers; market; total
 

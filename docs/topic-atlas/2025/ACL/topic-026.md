@@ -1,8 +1,8 @@
-# ACL 2025: 多语言建模与跨语言迁移
+# ACL 2025: 机器翻译与跨语言对齐
 
 - Topic ID: `26`
 - Papers: **21** (1.24%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `translation / low-resource / languages / machine`
 - Keyword pool: translation; low-resource; languages; machine; multilingual; parallel; code-switched; grammar; dialects; translating; nmt; sign
 

@@ -1,8 +1,8 @@
-# TNNLS 2023: 目标检测与图像分割
+# TNNLS 2023: 医学影像分割
 
 - Topic ID: `13`
 - Papers: **21** (2.05%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical / images / diagnosis`
 - Keyword pool: segmentation; medical; images; diagnosis; disease; tomography; enhancement; ecg; covid-19; contrastive; mask; module
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **39** (1.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `super-resolution / video / temporal / burst`
 - Keyword pool: super-resolution; video; temporal; burst; frames; shutter; restoration; motion; exposure; low-resolution; degradations; rppg
 

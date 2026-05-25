@@ -1,8 +1,8 @@
-# EMNLP 2024: entity / relation / entities / ner
+# EMNLP 2024: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `14`
 - Papers: **26** (2.05%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `entity / relation / entities / ner`
 - Keyword pool: entity; relation; entities; ner; extraction; disambiguation; linking; nested; mentions; biomedical; named; recognition
 

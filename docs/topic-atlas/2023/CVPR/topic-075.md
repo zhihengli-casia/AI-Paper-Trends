@@ -1,4 +1,4 @@
-# CVPR 2023: noisy labels / learning noisy / multi-label / noise samples
+# CVPR 2023: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `75`
 - Papers: **15** (0.64%)

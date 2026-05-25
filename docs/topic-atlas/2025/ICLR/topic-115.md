@@ -2,7 +2,7 @@
 
 - Topic ID: `115`
 - Papers: **15** (0.41%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `document / embeddings / retrieval / layout`
 - Keyword pool: document; embeddings; retrieval; layout; sentence; mteb; contrastive; non-iid; language-driven; llms; multilingual; contextualized
 

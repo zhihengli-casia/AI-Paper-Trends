@@ -1,4 +1,4 @@
-# IJCAI 2021: LLM Agent 与工具使用
+# IJCAI 2021: 多智能体逻辑、论辩与社会选择
 
 - Topic ID: `0`
 - Papers: **36** (4.99%)

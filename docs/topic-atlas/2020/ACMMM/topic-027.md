@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **10** (2.11%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `items / recommendation / price / product`
 - Keyword pool: items; recommendation; price; product; fashion; suggestion; compatibility; platforms; food; video captioning; user; category
 

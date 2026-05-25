@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **16** (1.25%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `llms / language / source localization / recommendations`
 - Keyword pool: llms; language; source localization; recommendations; leakage; prompt; linguistic; privacy; harmful; black-box; value; misinformation
 

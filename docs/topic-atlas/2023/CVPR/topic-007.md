@@ -1,8 +1,8 @@
-# CVPR 2023: facial / avatars / face / hair
+# CVPR 2023: 人脸分析、表情与属性建模
 
 - Topic ID: `7`
 - Papers: **42** (1.78%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `facial / avatars / face / hair`
 - Keyword pool: facial; avatars; face; hair; deformation; head; rendering; expressions; reconstruction; volumetric; geometry; appearance
 

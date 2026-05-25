@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **11** (0.68%)
-- Macro topic: 可信/安全/公平
+- Macro topic: AI4Science/医疗
 - English keywords: `auc / dam / spaces / few-shot learning`
 - Keyword pool: auc; dam; spaces; few-shot learning; label noise; loss functions; learning noisy; noisy labels; medical image; hyperplane; noise-robust; kernel
 

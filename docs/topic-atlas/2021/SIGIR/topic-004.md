@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **16** (10.60%)
-- Macro topic: 强化学习/决策
+- Macro topic: AI4Science/医疗
 - English keywords: `conversational / dialogue / responses / selection`
 - Keyword pool: conversational; dialogue; responses; selection; policy; feedback; question; multimodal; medical; environment; students; generation
 

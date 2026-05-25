@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **11** (4.35%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: AI4Science/医疗
 - English keywords: `time series / forecasting / temporal / variables`
 - Keyword pool: time series; forecasting; temporal; variables; brain; values; dynamics; regression; reconstruction; sequences; sequential; event
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **8** (1.11%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `multilingual / retrieval / varieties / mandarin`
 - Keyword pool: multilingual; retrieval; varieties; mandarin; hindi; needle; cross-lingual; embedding; russian; tuning; encoder; long-context
 

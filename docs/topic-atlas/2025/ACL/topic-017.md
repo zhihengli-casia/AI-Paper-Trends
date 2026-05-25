@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **27** (1.59%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `attack / defense / injection / malicious`
 - Keyword pool: attack; defense; injection; malicious; adversarial; prompt; injected; vulnerabilities; inversion; instructions; risks; safety
 

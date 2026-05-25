@@ -1,8 +1,8 @@
-# AAAI 2022: 攻击、防御与模型安全
+# AAAI 2022: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `67`
 - Papers: **8** (0.61%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / attack / watermarks / watermarking`
 - Keyword pool: backdoor; attack; watermarks; watermarking; hardware; dnn; deepfake; saliency; private; facial; stolen; images
 

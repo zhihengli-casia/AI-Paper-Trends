@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **27** (1.00%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `pathology / wsis / slide / cell`
 - Keyword pool: pathology; wsis; slide; cell; survival; clinical; instance; segmentation; histopathological; cancer; tissue; tumor
 

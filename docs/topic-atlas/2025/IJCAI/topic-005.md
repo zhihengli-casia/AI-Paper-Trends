@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **27** (2.11%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `recommendation / user / recommender / poi`
 - Keyword pool: recommendation; user; recommender; poi; sequential; item; graph; medication; preferences; interactions; confounders; popularity
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **14** (3.41%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `social / contrastive / graph-based / recommendation`
 - Keyword pool: social; contrastive; graph-based; recommendation; modularity; user; federated; graph clustering; filtering; high-order; community; feedback
 

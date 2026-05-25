@@ -1,8 +1,8 @@
-# IJCAI 2023: LLM Agent 与工具使用
+# IJCAI 2023: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `7`
 - Papers: **30** (3.53%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / goods / indivisible / agents`
 - Keyword pool: fairness; goods; indivisible; agents; allocation; chores; items; assignment; preferences; valuations; division; envy-freeness
 

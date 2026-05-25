@@ -2,7 +2,7 @@
 
 - Topic ID: `74`
 - Papers: **16** (0.60%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / private / differentially / homomorphic`
 - Keyword pool: privacy; private; differentially; homomorphic; meta; matrix; attack; clipping; sensitive; generation; ghost; protocols
 

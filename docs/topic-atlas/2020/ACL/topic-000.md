@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **67** (8.61%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `syntactic / speech / linguistic / probing`
 - Keyword pool: syntactic; speech; linguistic; probing; neural language; lms; agreement; languages; syntax; meaning; structure; trained
 

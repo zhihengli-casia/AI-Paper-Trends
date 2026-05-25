@@ -1,8 +1,8 @@
-# ACMMM 2021: 语音/音频语言模型
+# ACMMM 2021: 说话人建模与语音表征
 
 - Topic ID: `19`
 - Papers: **14** (2.58%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 多模态/VLM
 - English keywords: `voice / speech / speaker / reading`
 - Keyword pool: voice; speech; speaker; reading; affective; audio; video; style; face; gestures; sign language; movements
 

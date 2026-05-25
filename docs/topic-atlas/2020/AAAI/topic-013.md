@@ -1,8 +1,8 @@
-# AAAI 2020: person / re-identification / crowd / counting
+# AAAI 2020: 行人重识别与人群计数
 
 - Topic ID: `13`
 - Papers: **29** (1.81%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `person / re-identification / crowd / counting`
 - Keyword pool: person; re-identification; crowd; counting; video-based; feature; images; pedestrian; detection; body; human; alignment
 

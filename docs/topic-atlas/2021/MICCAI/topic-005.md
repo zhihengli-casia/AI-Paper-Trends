@@ -1,8 +1,8 @@
-# MICCAI 2021: 目标检测与图像分割
+# MICCAI 2021: 图像分割、语义分割与场景解析
 
 - Topic ID: `5`
 - Papers: **7** (10.29%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: AI4Science/医疗
 - English keywords: `airway / segmentation ct / convolutional / neural`
 - Keyword pool: airway; segmentation ct; convolutional; neural; hybrid; refined; rib segmentation; radiotherapy high-resolution; ribseg; risk; network organ; networks landmark-based
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **33** (8.89%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `feature / clustering / deep / anomaly`
 - Keyword pool: feature; clustering; deep; anomaly; unsupervised; multi-view; detection; edge; automatic; network; adversarial; recognition
 

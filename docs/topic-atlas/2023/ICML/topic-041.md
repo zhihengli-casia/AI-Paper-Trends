@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **19** (1.04%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `language / agent / reinforcement / environment`
 - Keyword pool: language; agent; reinforcement; environment; policies; grounding; instruction; feedback; world; program; human; passive
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **25** (7.89%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `clustering / vertices / graphs / kernel`
 - Keyword pool: clustering; vertices; graphs; kernel; flows; samples; high-dimensional; small; similarity; group; density; recommendations
 

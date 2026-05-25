@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **32** (1.36%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `domain / generalization / shift / style`
 - Keyword pool: domain; generalization; shift; style; meta-knowledge; meta-learning; mad; unseen; adversarial; sam; noise; forest
 

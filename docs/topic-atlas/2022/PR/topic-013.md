@@ -1,4 +1,4 @@
-# PR 2022: pose / estimation / hand / head
+# PR 2022: 人体姿态估计与运动理解
 
 - Topic ID: `13`
 - Papers: **18** (2.74%)

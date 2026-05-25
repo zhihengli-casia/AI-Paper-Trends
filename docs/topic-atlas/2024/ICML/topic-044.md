@@ -1,8 +1,8 @@
-# ICML 2024: 文生图生成与个性化编辑
+# ICML 2024: 扩散生成模型
 
 - Topic ID: `44`
 - Papers: **23** (0.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `t2i / attack / prompts / images`
 - Keyword pool: t2i; attack; prompts; images; copyright; poisoning; diffusion; clip; text-to-image; defense; protection; latent generative
 

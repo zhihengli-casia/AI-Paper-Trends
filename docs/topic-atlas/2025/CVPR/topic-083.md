@@ -1,8 +1,8 @@
-# CVPR 2025: garment / try-on / virtual / clothing
+# CVPR 2025: 人体姿态估计与运动理解
 
 - Topic ID: `83`
 - Papers: **16** (0.56%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `garment / try-on / virtual / clothing`
 - Keyword pool: garment; try-on; virtual; clothing; editing; fashion; pose; human image; person; texture; concepts; concept learning
 

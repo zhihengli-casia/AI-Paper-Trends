@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **14** (1.14%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `gaussian process / inducing / kernel / gps`
 - Keyword pool: gaussian process; inducing; kernel; gps; processes; points; hyperparameters; equations; sparse; spectral; approximate; posterior
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **13** (8.61%)
-- Macro topic: 多模态/VLM
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / image / hierarchical / composition`
 - Keyword pool: retrieval; image; hierarchical; composition; news; query; multi-modal; fake; fashion; consistency; pairs; adaptive
 

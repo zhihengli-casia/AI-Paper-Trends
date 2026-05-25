@@ -1,4 +1,4 @@
-# ECCV 2020: crowd / counting / density / pedestrian
+# ECCV 2020: 行人重识别与人群计数
 
 - Topic ID: `69`
 - Papers: **9** (0.66%)

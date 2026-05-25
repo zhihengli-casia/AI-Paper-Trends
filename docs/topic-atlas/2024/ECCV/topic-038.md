@@ -1,8 +1,8 @@
-# ECCV 2024: tta / test-time / mri / adaptation
+# ECCV 2024: 领域自适应与迁移学习
 
 - Topic ID: `38`
 - Papers: **22** (0.92%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `tta / test-time / mri / adaptation`
 - Keyword pool: tta; test-time; mri; adaptation; cardiac; medical; registration; domain shift; imaging; reconstruction; continual; batch
 

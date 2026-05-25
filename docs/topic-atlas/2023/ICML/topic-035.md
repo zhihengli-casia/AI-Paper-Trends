@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **21** (1.15%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `relu / width / mean-field / kernel`
 - Keyword pool: relu; width; mean-field; kernel; random; depth; bounds; regression; dimension; parameterization; approximation; weights
 

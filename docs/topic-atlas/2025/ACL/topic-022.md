@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **23** (1.35%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `planning / travel / plans / industrial`
 - Keyword pool: planning; travel; plans; industrial; tools; open-world; agents; engineering; action; user; affordances; chemical
 

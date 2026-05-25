@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **24** (1.33%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `hallucination / lvlms / uncertainty / detection`
 - Keyword pool: hallucination; lvlms; uncertainty; detection; heads; factuality; layers; negated; image; egocentric; hallucinate; vision-language
 

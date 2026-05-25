@@ -1,8 +1,8 @@
-# IJCAI 2023: distillation / domain / student / teacher
+# IJCAI 2023: 领域自适应与迁移学习
 
 - Topic ID: `23`
 - Papers: **15** (1.76%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `distillation / domain / student / teacher`
 - Keyword pool: distillation; domain; student; teacher; source; adaptation; target; expression; relation; features; transfer; facial
 

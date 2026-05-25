@@ -1,8 +1,8 @@
-# CVPR 2024: facial / face / hair / makeup
+# CVPR 2024: 人脸分析、表情与属性建模
 
 - Topic ID: `15`
 - Papers: **36** (1.33%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `facial / face / hair / makeup`
 - Keyword pool: facial; face; hair; makeup; reflectance; stylized; geometry; landmark; shape; reconstruction; stylization; gaze
 

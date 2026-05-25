@@ -2,7 +2,7 @@
 
 - Topic ID: `95`
 - Papers: **14** (0.46%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / fmri / decoding / visual`
 - Keyword pool: brain; fmri; decoding; visual; eeg; activity; human; aligner; stimuli; pathways; subjects; functional
 

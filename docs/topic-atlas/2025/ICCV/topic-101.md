@@ -1,8 +1,8 @@
-# ICCV 2025: 语音/音频语言模型
+# ICCV 2025: 视频动作识别与时序定位
 
 - Topic ID: `101`
 - Papers: **11** (0.41%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `reasoning / llms / videos / digital twin`
 - Keyword pool: reasoning; llms; videos; digital twin; questions; action; temporal; audio-visual; activities; counterfactuals; multi-step; long
 

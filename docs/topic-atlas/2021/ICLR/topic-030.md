@@ -1,8 +1,8 @@
-# ICLR 2021: search / neural architecture / proxies / supernet
+# ICLR 2021: 神经架构搜索与模型设计
 
 - Topic ID: `30`
 - Papers: **14** (1.63%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 语音/音频/音乐
 - English keywords: `search / neural architecture / proxies / supernet`
 - Keyword pool: search; neural architecture; proxies; supernet; width; asr; design space; hardware; lista; automl; proxy; imagenet
 

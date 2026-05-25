@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **18** (1.76%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `object / detection / confusion / multimodal`
 - Keyword pool: object; detection; confusion; multimodal; visual; images; radar; module; perception; noisy; modality; refinement
 

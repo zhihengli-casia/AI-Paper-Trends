@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **24** (1.01%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 可信/安全/公平
 - English keywords: `driving / lane / autonomous / traffic`
 - Keyword pool: driving; lane; autonomous; traffic; planning; trajectory; safety-critical; graph; agents; world; anticipation; ego
 

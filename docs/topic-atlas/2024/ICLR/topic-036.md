@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **24** (1.06%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `visual / multimodal / vision-language / llms`
 - Keyword pool: visual; multimodal; vision-language; llms; vlms; referring; interleaved; sign; tokenizer; tokens; hallucination; language translation
 

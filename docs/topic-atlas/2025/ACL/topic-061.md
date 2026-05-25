@@ -2,7 +2,7 @@
 
 - Topic ID: `61`
 - Papers: **13** (0.77%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `scaling / pruning / loss / law`
 - Keyword pool: scaling; pruning; loss; law; post-training; gradient; test-time; pre-training; pruned; grouping; salience; sizes
 

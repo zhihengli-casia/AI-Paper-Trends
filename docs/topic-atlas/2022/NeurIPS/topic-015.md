@@ -1,8 +1,8 @@
-# NeurIPS 2022: 语音/音频语言模型
+# NeurIPS 2022: 语音理解、识别与交互
 
 - Topic ID: `15`
 - Papers: **40** (1.50%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `language / in-context / speech / plms`
 - Keyword pool: language; in-context; speech; plms; fine-tuning; pre-trained; transformers; low-resource; prompt; zero-shot; style; sentence
 

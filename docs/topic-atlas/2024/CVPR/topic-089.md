@@ -1,8 +1,8 @@
-# CVPR 2024: scene graph / graph generation / open-vocabulary / predicate
+# CVPR 2024: 场景图、关系推理与视觉理解
 
 - Topic ID: `89`
 - Papers: **14** (0.52%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `scene graph / graph generation / open-vocabulary / predicate`
 - Keyword pool: scene graph; graph generation; open-vocabulary; predicate; relation; triplets; genome; environments; object classes; graph prediction; one-stage; objects
 

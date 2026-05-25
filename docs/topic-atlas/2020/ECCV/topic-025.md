@@ -1,4 +1,4 @@
-# ECCV 2020: semi-supervised / ssl / unlabeled / active learning
+# ECCV 2020: 半监督学习与噪声标签建模
 
 - Topic ID: `25`
 - Papers: **22** (1.62%)

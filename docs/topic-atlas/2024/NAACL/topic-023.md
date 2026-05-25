@@ -1,8 +1,8 @@
-# NAACL 2024: 推荐系统与用户建模
+# NAACL 2024: 说话人建模与语音表征
 
 - Topic ID: `23`
 - Papers: **11** (1.96%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `grounding / speaker / conversational / recommendation`
 - Keyword pool: grounding; speaker; conversational; recommendation; news; social; media; nlg; dimension; acts; review; personas
 

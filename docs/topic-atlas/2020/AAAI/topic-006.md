@@ -1,8 +1,8 @@
-# AAAI 2020: 语音/音频语言模型
+# AAAI 2020: 语音与视觉对抗攻击
 
 - Topic ID: `6`
 - Papers: **34** (2.12%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attack / black-box / examples`
 - Keyword pool: adversarial; attack; black-box; examples; perturbations; speech; image; face; fool; universal; transferability; detection
 

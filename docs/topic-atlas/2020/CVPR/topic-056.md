@@ -1,4 +1,4 @@
-# CVPR 2020: action / 图学习 / recognition / skeleton
+# CVPR 2020: 视频动作识别与时序定位
 
 - Topic ID: `56`
 - Papers: **13** (0.89%)

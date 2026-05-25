@@ -1,8 +1,8 @@
-# TNNLS 2025: 目标检测与图像分割
+# TNNLS 2025: 医学影像分割
 
 - Topic ID: `36`
 - Papers: **9** (1.13%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical / ambiguous / image`
 - Keyword pool: segmentation; medical; ambiguous; image; sam; brain; branch; hybrid; slice; volumetric; tumor; transformer
 

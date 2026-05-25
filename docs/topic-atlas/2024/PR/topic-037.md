@@ -1,4 +1,4 @@
-# PR 2024: recognition / activity / skeleton-based / action
+# PR 2024: 视频动作识别与时序定位
 
 - Topic ID: `37`
 - Papers: **13** (1.35%)

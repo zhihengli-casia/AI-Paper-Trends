@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **16** (2.29%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `event / extraction / argument / document-level`
 - Keyword pool: event; extraction; argument; document-level; slots; open; relation; types; generative; clustering; table; prompt
 

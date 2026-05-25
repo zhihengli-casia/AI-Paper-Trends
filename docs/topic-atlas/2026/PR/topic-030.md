@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **15** (1.62%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `reconstruction / brain / low-rank / localization`
 - Keyword pool: reconstruction; brain; low-rank; localization; integrated; imaging; motion; implicit; regularization; medical; fusion; neural
 

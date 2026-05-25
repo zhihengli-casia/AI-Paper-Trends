@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **34** (3.24%)
-- Macro topic: HCI/社会计算
+- Macro topic: 语音/音频/音乐
 - English keywords: `generative / creative / ideation / exploration`
 - Keyword pool: generative; creative; ideation; exploration; sound; supporting; human-ai; collaboration; xai; iterative; prompting; designers
 

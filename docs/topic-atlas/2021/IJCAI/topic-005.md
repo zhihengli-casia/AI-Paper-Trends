@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **28** (3.88%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `temporal / time series / tensor / events`
 - Keyword pool: temporal; time series; tensor; events; attention; time-series; spiking; prediction; spatial; relation; edge; dynamics
 

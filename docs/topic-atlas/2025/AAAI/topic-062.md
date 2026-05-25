@@ -1,8 +1,8 @@
-# AAAI 2025: 多语言建模与跨语言迁移
+# AAAI 2025: 机器翻译与跨语言对齐
 
 - Topic ID: `62`
 - Papers: **22** (0.73%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `languages / llms / translation / vietnamese`
 - Keyword pool: languages; llms; translation; vietnamese; multilingual; word; cross-lingual; asr; gec; sentences; ensemble; parsing
 

@@ -1,8 +1,8 @@
-# ICLR 2024: 文档摘要与信息压缩
+# ICLR 2024: 摘要生成与信息压缩
 
 - Topic ID: `45`
 - Papers: **21** (0.93%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / llms / retrieved / table`
 - Keyword pool: retrieval; llms; retrieved; table; summaries; question answering; summarization; documents; sure; context window; constraint satisfaction; relevant
 

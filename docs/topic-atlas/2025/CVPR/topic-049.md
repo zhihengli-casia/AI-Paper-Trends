@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **25** (0.87%)
-- Macro topic: 生成模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / dit / diffusion transformers / fid`
 - Keyword pool: quantization; dit; diffusion transformers; fid; compression; t2i; acceleration; text-to-image; quantized; layers; computation; post-training
 

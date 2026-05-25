@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **53** (1.00%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / private / differentially / dp-sgd`
 - Keyword pool: privacy; private; differentially; dp-sgd; bounds; clipping; guarantees; auditing; server; gaussian mechanism; ldp; quantiles
 

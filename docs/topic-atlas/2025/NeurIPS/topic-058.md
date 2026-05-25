@@ -2,7 +2,7 @@
 
 - Topic ID: `58`
 - Papers: **38** (0.72%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `rag / retrieval / documents / retrieved`
 - Keyword pool: rag; retrieval; documents; retrieved; llms; augmented generation; reasoning; external knowledge; kgs; graph; editing; multi-hop
 

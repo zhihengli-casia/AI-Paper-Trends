@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **30** (3.49%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `agent / memory / language / reinforcement learning`
 - Keyword pool: agent; memory; language; reinforcement learning; dialogue; environment; actions; navigation; interface; planning; user; humans
 

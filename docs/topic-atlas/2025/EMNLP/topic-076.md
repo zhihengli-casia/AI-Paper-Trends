@@ -2,7 +2,7 @@
 
 - Topic ID: `76`
 - Papers: **12** (0.66%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `pruning / compression / memorization / mamba`
 - Keyword pool: pruning; compression; memorization; mamba; grammar; grasp; decomposition; sparsity; parameters; layers; fairness; rates
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **18** (1.19%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / noise / presented / image`
 - Keyword pool: diffusion; noise; presented; image; reconstruction; characteristics; enhancement; terms; real-world; low-light; material; restoration
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `58`
 - Papers: **9** (0.72%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `rendering / avatar / lighting / gaussians`
 - Keyword pool: rendering; avatar; lighting; gaussians; head; gaze; beam; compression; gaussian-based; brightness; video; redirection
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **37** (1.29%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `autoregressive / visual generation / auto-regressive / understanding generation`
 - Keyword pool: autoregressive; visual generation; auto-regressive; understanding generation; tokens; image generation; var; tokenization; masked; multimodal; infinity; scaling
 

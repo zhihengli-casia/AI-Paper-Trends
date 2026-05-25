@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **14** (1.12%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `streaming / qoe / video / bitrate`
 - Keyword pool: streaming; qoe; video; bitrate; congestion; delay; quality experience; teleportation; algorithms; bandwidth; control; resource
 

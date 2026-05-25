@@ -2,7 +2,7 @@
 
 - Topic ID: `84`
 - Papers: **12** (0.51%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: AI4Science/医疗
 - English keywords: `reasoning / knowledge graph / cone / multi-hop`
 - Keyword pool: reasoning; knowledge graph; cone; multi-hop; entities; logical; relations; explanations; saliency; medical; reports; graphs
 

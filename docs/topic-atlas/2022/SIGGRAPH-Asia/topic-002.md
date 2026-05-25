@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **7** (14.00%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `animator-centric / animation / video / agileavatar`
 - Keyword pool: animator-centric; animation; video; agileavatar; realism masked; prediction; perceived; simulated focus; singing; stereo; lip synchronization; inspired facial
 

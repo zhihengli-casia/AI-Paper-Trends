@@ -1,4 +1,4 @@
-# SIGGRAPH-Asia 2022: NeRF 与神经渲染
+# SIGGRAPH-Asia 2022: 人脸分析、表情与属性建模
 
 - Topic ID: `4`
 - Papers: **6** (12.00%)

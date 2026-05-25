@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **9** (0.97%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `image / restoration / wide / faces`
 - Keyword pool: image; restoration; wide; faces; gan; multi-domain; network-based; feature representation; iris; progressive refinement; visibility; latent features
 

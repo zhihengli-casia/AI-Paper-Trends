@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **25** (2.94%)
-- Macro topic: 可信/安全/公平
+- Macro topic: NLP任务
 - English keywords: `commonsense / content / dialogue / language`
 - Keyword pool: commonsense; content; dialogue; language; explanations; ethical; gender; social; twitter; climate; skills; intents
 

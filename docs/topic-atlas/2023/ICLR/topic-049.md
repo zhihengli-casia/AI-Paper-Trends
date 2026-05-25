@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **15** (0.98%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / bias / long-term / clustering`
 - Keyword pool: fairness; bias; long-term; clustering; group; graph; attack; equalized; attributes; algorithms; augmentations; sensitive
 

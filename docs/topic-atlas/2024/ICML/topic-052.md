@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **22** (0.84%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `curvature / sgd / memorization / adam`
 - Keyword pool: curvature; sgd; memorization; adam; sam; second-order; neural networks; warmup; implicit bias; sharpness; descent; input loss
 

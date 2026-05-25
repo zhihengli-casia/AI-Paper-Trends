@@ -1,4 +1,4 @@
-# PR 2023: pose estimation / human pose / videos / person
+# PR 2023: 人体姿态估计与运动理解
 
 - Topic ID: `36`
 - Papers: **11** (1.37%)

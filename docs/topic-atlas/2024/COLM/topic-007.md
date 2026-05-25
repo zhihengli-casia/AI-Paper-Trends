@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **17** (5.69%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `documents / entity / retrieval / queries`
 - Keyword pool: documents; entity; retrieval; queries; parametric; entities; external knowledge; multi-hop; retrieved; irrelevant; answers; constructs
 

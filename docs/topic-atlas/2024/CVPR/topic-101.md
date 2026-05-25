@@ -2,7 +2,7 @@
 
 - Topic ID: `101`
 - Papers: **12** (0.44%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `sketch / abstraction / retrieval / vector`
 - Keyword pool: sketch; abstraction; retrieval; vector; modelling; strokes; users; explainability; novice; democratise; democratising; diffusion
 

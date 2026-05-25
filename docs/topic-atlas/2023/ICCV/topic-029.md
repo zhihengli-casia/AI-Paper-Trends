@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **29** (1.35%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / attacks / adversarial / trigger`
 - Keyword pool: backdoor; attacks; adversarial; trigger; poisoning; defense; benign; forgery; poisoned; security; ssl; malicious
 

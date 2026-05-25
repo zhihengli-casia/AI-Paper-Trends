@@ -1,8 +1,8 @@
-# PR 2025: facial / face / attribute / gaze
+# PR 2025: 人脸分析、表情与属性建模
 
 - Topic ID: `55`
 - Papers: **13** (0.86%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `facial / face / attribute / gaze`
 - Keyword pool: facial; face; attribute; gaze; estimation; detection; recognition; presentation; learning unsupervised; head pose; landmark; iris
 

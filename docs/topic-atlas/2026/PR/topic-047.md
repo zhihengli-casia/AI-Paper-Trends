@@ -1,8 +1,8 @@
-# PR 2026: 对抗攻击、鲁棒性与安全
+# PR 2026: 行人重识别与人群计数
 
 - Topic ID: `47`
 - Papers: **10** (1.08%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `crowd / counting / rgb-t / attack`
 - Keyword pool: crowd; counting; rgb-t; attack; annotations; density; regions; maps; spatial; adversarial; designed; saliency
 

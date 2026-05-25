@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **94** (2.27%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `rag / retrieval / llms / multi-hop`
 - Keyword pool: rag; retrieval; llms; multi-hop; question; knowledge graph; retrieved; kgs; documents; external knowledge; answering; queries
 

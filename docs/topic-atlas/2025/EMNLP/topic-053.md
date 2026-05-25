@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **16** (0.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `multi-agent / communication / gui / coordination`
 - Keyword pool: multi-agent; communication; gui; coordination; agents; collaboration; rollback; debugging; agentic; propagation; backtracking; topology
 

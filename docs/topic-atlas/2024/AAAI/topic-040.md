@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **23** (0.99%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `planning / actions / planner / plans`
 - Keyword pool: planning; actions; planner; plans; arc; pddl; numeric; heuristic; rearrangement; environment; classical; abstract
 

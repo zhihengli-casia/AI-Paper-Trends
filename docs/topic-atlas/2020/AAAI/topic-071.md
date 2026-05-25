@@ -2,7 +2,7 @@
 
 - Topic ID: `71`
 - Papers: **11** (0.69%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `policy / model-based / reinforcement learning / value`
 - Keyword pool: policy; model-based; reinforcement learning; value; temporal difference; trpo; options; horizon; deterministic; gradient; model-free; approximate
 

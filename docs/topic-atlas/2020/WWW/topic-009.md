@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **18** (5.68%)
-- Macro topic: 生成模型
+- Macro topic: NLP任务
 - English keywords: `word / taxonomy / tables / taxonomies`
 - Keyword pool: word; taxonomy; tables; taxonomies; languages; semantics; names; expansion; extraction; embeddings; rules; relation
 

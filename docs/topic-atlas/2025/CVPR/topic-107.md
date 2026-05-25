@@ -2,7 +2,7 @@
 
 - Topic ID: `107`
 - Papers: **13** (0.45%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `ood / detection / out-of-distribution / in-distribution`
 - Keyword pool: ood; detection; out-of-distribution; in-distribution; samples; overconfidence; class; post-hoc; energy-based; medical; hierarchy; contaminated
 

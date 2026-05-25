@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **16** (2.23%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `icl / in-context / demonstrations / label`
 - Keyword pool: icl; in-context; demonstrations; label; examples; multimodal; entity; few-shot; modality; priors; ife; calibration
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **12** (1.42%)
-- Macro topic: 可信/安全/公平
+- Macro topic: NLP任务
 - English keywords: `ner / entity / recognition / named`
 - Keyword pool: ner; entity; recognition; named; bootstrapping; noisy; label; expansion; losses; denoising; domain; high-resource
 

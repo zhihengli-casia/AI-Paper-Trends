@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **14** (5.86%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: AI4Science/医疗
 - English keywords: `search / query / queries / control`
 - Keyword pool: search; query; queries; control; brain; personalized; personalization; news; cognitive; evaluating; behavior; community
 

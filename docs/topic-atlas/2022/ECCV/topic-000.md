@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **59** (3.59%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `contrastive / few-shot / self-supervised / negative`
 - Keyword pool: contrastive; few-shot; self-supervised; negative; positive; ssl; fsl; retrieval; representation learning; embedding; graph; unsupervised
 

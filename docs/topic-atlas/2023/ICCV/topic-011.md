@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **39** (1.81%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `bev / perception / detection / fusion`
 - Keyword pool: bev; perception; detection; fusion; nuscenes; lidar; occupancy; multi-camera; autonomous; bird; depth; driving
 

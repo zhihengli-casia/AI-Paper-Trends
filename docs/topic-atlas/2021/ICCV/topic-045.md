@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **16** (0.99%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `radiance / nerf / scene / fields`
 - Keyword pool: radiance; nerf; scene; fields; camera; reconstruction; view synthesis; rendering; poses; multi-view; editing; light field
 

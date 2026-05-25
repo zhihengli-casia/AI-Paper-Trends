@@ -1,8 +1,8 @@
-# TPAMI 2023: 句法语义解析与结构化表示
+# TPAMI 2023: 结构化解析与表示学习
 
 - Topic ID: `34`
 - Papers: **10** (1.47%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `person / parsing / pedestrian / reid`
 - Keyword pool: person; parsing; pedestrian; reid; attributes; bottom-up; collaborative learning; identity; clothing; primitives; classes; compositions
 

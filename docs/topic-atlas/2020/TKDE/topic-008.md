@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **17** (4.23%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / secure / cloud / scheme`
 - Keyword pool: privacy; secure; cloud; scheme; security; queries; query; differential; nmf; updating; database; protocols
 

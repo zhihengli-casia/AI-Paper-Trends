@@ -2,7 +2,7 @@
 
 - Topic ID: `59`
 - Papers: **26** (0.70%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `driving / occupancy / autonomous / perception`
 - Keyword pool: driving; occupancy; autonomous; perception; camera; sensor; object; bev; scene; driver; prediction; point
 

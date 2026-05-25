@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **46** (8.33%)
-- Macro topic: 可信/安全/公平
+- Macro topic: AI4Science/医疗
 - English keywords: `treatment / ehr / outcomes / detection`
 - Keyword pool: treatment; ehr; outcomes; detection; fairness; counterfactual; effect; clinical; bias; anomaly; diffusion; unlearning
 

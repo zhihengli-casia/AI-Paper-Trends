@@ -1,4 +1,4 @@
-# AAAI 2023: action / skeleton / temporal / recognition
+# AAAI 2023: 视频动作识别与时序定位
 
 - Topic ID: `49`
 - Papers: **15** (0.95%)

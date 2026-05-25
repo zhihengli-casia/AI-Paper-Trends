@@ -1,8 +1,8 @@
-# AAAI 2023: 目标检测与图像分割
+# AAAI 2023: 领域自适应与迁移学习
 
 - Topic ID: `65`
 - Papers: **12** (0.76%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `domain / segmentation / adaptation / semantic`
 - Keyword pool: domain; segmentation; adaptation; semantic; cross-modal; target; source; pixels; adverse; mixup; optical; adaptive
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **27** (1.64%)
-- Macro topic: 强化学习/决策
+- Macro topic: 理论/优化
 - English keywords: `bandits / regret / reward / arm`
 - Keyword pool: bandits; regret; reward; arm; feedback; contextual; linear; action; algorithms; stochastic; combinatorial; bound
 

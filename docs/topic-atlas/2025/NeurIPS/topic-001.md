@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **103** (1.95%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `splatting / gaussian / rendering / scene`
 - Keyword pool: splatting; gaussian; rendering; scene; reconstruction; motion; camera; view synthesis; primitives; nerf; surface; radiance
 

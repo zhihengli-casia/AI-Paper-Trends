@@ -1,8 +1,8 @@
-# CVPR 2022: 文生图生成与个性化编辑
+# CVPR 2022: 扩散生成模型
 
 - Topic ID: `65`
 - Papers: **15** (0.72%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `diffusion / generation / variational / low-density`
 - Keyword pool: diffusion; generation; variational; low-density; mri; autoregressive; text-to-image; denoising; kl-divergence; inpainting; transport; posterior
 

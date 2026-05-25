@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **15** (1.21%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `monitoring / heart / wireless / sleep`
 - Keyword pool: monitoring; heart; wireless; sleep; assessment; effects; smartwatches; heads-up; patient; localization; meditation; rhythm
 

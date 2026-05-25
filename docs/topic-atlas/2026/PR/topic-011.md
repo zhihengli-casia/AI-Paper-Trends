@@ -1,4 +1,4 @@
-# PR 2026: multi-label / partial / feature selection / semi-supervised
+# PR 2026: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `11`
 - Papers: **23** (2.49%)

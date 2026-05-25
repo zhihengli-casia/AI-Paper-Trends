@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **12** (5.02%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `rag / agents / reasoning / retrieval-augmented`
 - Keyword pool: rag; agents; reasoning; retrieval-augmented; llm; multi-round; tracing; medical; action; self-training; planning; ask
 

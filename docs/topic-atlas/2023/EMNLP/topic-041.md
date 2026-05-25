@@ -1,8 +1,8 @@
-# EMNLP 2023: relation / extraction / entities / document-level
+# EMNLP 2023: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `41`
 - Papers: **11** (1.05%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `relation / extraction / entities / document-level`
 - Keyword pool: relation; extraction; entities; document-level; entity; prototypes; core; logic; abstractive; pairs; constraints; rules
 

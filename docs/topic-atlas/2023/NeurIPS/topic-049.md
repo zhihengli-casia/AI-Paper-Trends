@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **27** (0.84%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `visual / language / vqa / llms`
 - Keyword pool: visual; language; vqa; llms; reasoning; instruction; human-object; motion; t2i; navigation; generation; multimodal
 

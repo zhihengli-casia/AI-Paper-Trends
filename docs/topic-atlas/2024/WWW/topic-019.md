@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **10** (2.48%)
-- Macro topic: 强化学习/决策
+- Macro topic: 计算机视觉
 - English keywords: `spot / traffic / video / packet`
 - Keyword pool: spot; traffic; video; packet; start; mobile; slow; satellite; quic; control; load; api
 

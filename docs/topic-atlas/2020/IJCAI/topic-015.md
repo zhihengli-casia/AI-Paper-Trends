@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **17** (2.19%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `social / embedding / prediction / graph`
 - Keyword pool: social; embedding; prediction; graph; link; alignment; representation learning; entity; schema; heterogeneous; representations; node
 

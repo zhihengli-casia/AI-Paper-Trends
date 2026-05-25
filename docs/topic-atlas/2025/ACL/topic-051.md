@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **16** (0.94%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `reward / rms / human preferences / human feedback`
 - Keyword pool: reward; rms; human preferences; human feedback; rlhf; supervision; reinforcement learning; on-policy; overoptimization; fairness; tree; signals
 

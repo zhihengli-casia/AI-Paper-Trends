@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **14** (1.30%)
-- Macro topic: HCI/社会计算
+- Macro topic: AI4Science/医疗
 - English keywords: `mental / health / thoughts / clinical`
 - Keyword pool: mental; health; thoughts; clinical; diagnosis; counseling; patient; notes; electronic; reframing; client; social media
 

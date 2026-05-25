@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **10** (0.66%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical image / hybrid / reinforcing`
 - Keyword pool: segmentation; medical image; hybrid; reinforcing; in-context learning; lung; multi-axis; network medical; mutually; multi-scale attention; early; crack
 

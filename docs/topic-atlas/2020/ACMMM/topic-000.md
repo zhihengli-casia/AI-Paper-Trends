@@ -1,4 +1,4 @@
-# ACMMM 2020: face / lip / sketch / gaze
+# ACMMM 2020: 人脸分析、表情与属性建模
 
 - Topic ID: `0`
 - Papers: **30** (6.34%)

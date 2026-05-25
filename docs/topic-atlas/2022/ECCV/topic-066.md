@@ -2,7 +2,7 @@
 
 - Topic ID: `66`
 - Papers: **11** (0.67%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `compression / rate-distortion / dnn / throughput`
 - Keyword pool: compression; rate-distortion; dnn; throughput; learned image; jpeg; preparation; content; bandwidth; latents; cloud; adaptive
 

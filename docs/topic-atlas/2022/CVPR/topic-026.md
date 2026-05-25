@@ -1,8 +1,8 @@
-# CVPR 2022: 目标检测与图像分割
+# CVPR 2022: 实例分割与开放词汇分割
 
 - Topic ID: `26`
 - Papers: **27** (1.30%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `video / segmentation / panoptic / frames`
 - Keyword pool: video; segmentation; panoptic; frames; referring; vis; contexts; language; copy; memory; masks; instance
 

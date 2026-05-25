@@ -2,7 +2,7 @@
 
 - Topic ID: `85`
 - Papers: **18** (0.54%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / clinical / multimodal / reasoning`
 - Keyword pool: medical; clinical; multimodal; reasoning; patient; ehr; diagnosis; modality; tom; visual; comprehension generation; lmms
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **15** (1.75%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `disentanglement / disentangled / object / generalisation`
 - Keyword pool: disentanglement; disentangled; object; generalisation; factors; appearance; unsupervised; generative; clinical; scene; physical; images
 

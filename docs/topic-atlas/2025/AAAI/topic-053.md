@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **24** (0.79%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `personality / dialogue / mental / conversations`
 - Keyword pool: personality; dialogue; mental; conversations; negotiation; role-playing; social; psychological; human; llm; traits; language
 

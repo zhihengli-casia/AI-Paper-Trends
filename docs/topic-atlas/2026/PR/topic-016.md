@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **20** (2.16%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `tracking / object / visual / temporal`
 - Keyword pool: tracking; object; visual; temporal; long-term; distillation; end-to-end; multi-modal; sequence; representation; query; network-based
 

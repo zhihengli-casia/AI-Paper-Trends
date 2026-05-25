@@ -1,8 +1,8 @@
-# ACL 2025: 语音/音频语言模型
+# ACL 2025: 对话系统与会话建模
 
 - Topic ID: `69`
 - Papers: **11** (0.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `audio / auditory / voice / dialogue`
 - Keyword pool: audio; auditory; voice; dialogue; conversation; speech; spoken; acoustic; listener; chatbots; end-to-end; interactions
 

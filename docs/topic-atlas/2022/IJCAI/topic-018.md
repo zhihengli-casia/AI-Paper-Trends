@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **17** (1.97%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 强化学习/决策
 - English keywords: `ltlf / planning / traces / finite`
 - Keyword pool: ltlf; planning; traces; finite; first-order; temporal logic; lifted; search; checking; linear temporal; heuristic; synthesis
 

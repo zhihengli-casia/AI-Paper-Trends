@@ -1,8 +1,8 @@
-# ECCV 2022: 语音/音频语言模型
+# ECCV 2022: 说话人视频生成与人脸动画
 
 - Topic ID: `79`
 - Papers: **9** (0.55%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 多模态/VLM
 - English keywords: `audio-visual / speech / sound / speaker`
 - Keyword pool: audio-visual; speech; sound; speaker; reading; separation; talking; voice; padding; head; sources; microphone
 

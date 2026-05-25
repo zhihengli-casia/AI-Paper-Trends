@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **16** (1.86%)
-- Macro topic: 计算机视觉
+- Macro topic: NLP任务
 - English keywords: `reasoning / rules / symbolic / systematic generalization`
 - Keyword pool: reasoning; rules; symbolic; systematic generalization; theorem; mathematical; proving; iterated; visual; dialogue; answer; solutions
 

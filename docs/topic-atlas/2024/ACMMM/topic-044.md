@@ -1,4 +1,4 @@
-# ACMMM 2024: labels / multi-label / sample selection / active
+# ACMMM 2024: 行人重识别与人群计数
 
 - Topic ID: `44`
 - Papers: **13** (1.13%)

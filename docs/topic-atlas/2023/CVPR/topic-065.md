@@ -1,4 +1,4 @@
-# CVPR 2023: crowd / semi-supervised / ssl / unlabeled
+# CVPR 2023: 行人重识别与人群计数
 
 - Topic ID: `65`
 - Papers: **16** (0.68%)

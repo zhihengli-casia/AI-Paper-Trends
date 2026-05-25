@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **21** (9.46%)
-- Macro topic: 计算机视觉
+- Macro topic: 语音/音频/音乐
 - English keywords: `spectral / sensing / object / detection`
 - Keyword pool: spectral; sensing; object; detection; image; features; sound; retrieval; design; soft; algorithm; multiscale
 

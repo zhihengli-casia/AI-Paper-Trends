@@ -1,4 +1,4 @@
-# TNNLS 2025: 目标检测与图像分割
+# TNNLS 2025: Transformer 剪枝与注意力头分析
 
 - Topic ID: `19`
 - Papers: **16** (2.01%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **13** (1.05%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / private / differential / federated`
 - Keyword pool: privacy; private; differential; federated; dp-sgd; public; clipping; sample complexity; secagg; interpolation; membership; descent
 

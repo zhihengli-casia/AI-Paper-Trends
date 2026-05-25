@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **29** (4.02%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `label / few-shot / classification / meta-learning`
 - Keyword pool: label; few-shot; classification; meta-learning; domain knowledge; generator; image; functional; augmentation; partial; samples; inductive
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `67`
 - Papers: **12** (0.73%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `mdps / safety / action / markov decision`
 - Keyword pool: mdps; safety; action; markov decision; tree; constraints; decision processes; policies; policy; planning; constrained; belief
 

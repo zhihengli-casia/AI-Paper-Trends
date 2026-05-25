@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **18** (0.98%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `graph / clustering / community / node`
 - Keyword pool: graph; clustering; community; node; resistance; edge; laplacian; vertex; correlation; kernels; correlated; vertices
 

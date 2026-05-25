@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **15** (1.02%)
-- Macro topic: 生成模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `sketch / drawings / shadows / retrieval`
 - Keyword pool: sketch; drawings; shadows; retrieval; jigsaw; house; generation; portrait; pre-training; style; reference; cartoon
 

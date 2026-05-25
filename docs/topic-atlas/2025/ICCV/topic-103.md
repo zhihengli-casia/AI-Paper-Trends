@@ -1,8 +1,8 @@
-# ICCV 2025: test-time / adaptation / tta / shifts
+# ICCV 2025: 领域自适应与迁移学习
 
 - Topic ID: `103`
 - Papers: **10** (0.37%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `test-time / adaptation / tta / shifts`
 - Keyword pool: test-time; adaptation; tta; shifts; domain; prototype; point; graph; test time; video generation; client; scaling video
 

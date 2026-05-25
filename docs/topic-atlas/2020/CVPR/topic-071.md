@@ -1,8 +1,8 @@
-# CVPR 2020: person / re-identification / reid / cross-modality
+# CVPR 2020: 行人重识别与人群计数
 
 - Topic ID: `71`
 - Papers: **11** (0.75%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `person / re-identification / reid / cross-modality`
 - Keyword pool: person; re-identification; reid; cross-modality; salient features; video-based; granularities; feature aggregation; graph; signature; discriminative; appearance information
 

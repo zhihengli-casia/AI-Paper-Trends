@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **38** (1.32%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / motion / camera / editing`
 - Keyword pool: video; motion; camera; editing; control; frames; style; trajectories; content; movement; synthesis; generative
 

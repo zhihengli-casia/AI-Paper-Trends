@@ -34,7 +34,7 @@
 | [018](topic-018.md) | 灵巧操作与夹爪控制 | 27 | 1.69% | 3D/具身/机器人 | `dexterous / magnetic / control / gripper` | A Direct-Drive Gripper Designed by Ellipse Synthesis Across Two Output Modes |
 | [021](topic-021.md) | 机器人操作与抓取 | 26 | 1.63% | 3D/具身/机器人 | `whole-body / humanoid / control / mobile manipulation` | Berkeley Humanoid: A Research Platform for Learning-Based Control |
 | [022](topic-022.md) | 机器人操作的 Sim-to-Real 迁移 | 25 | 1.57% | 3D/具身/机器人 | `splatting / gaussian / reconstruction / scene` | DENSER: 3D Gaussian Splatting for Scene Reconstruction of Dynamic Urban Environments |
-| [023](topic-023.md) | 目标检测与图像分割 | 24 | 1.51% | 3D/具身/机器人 | `segmentation / semantic / instance / open-vocabulary` | MFSeg: Efficient Multi-Frame 3D Semantic Segmentation |
+| [023](topic-023.md) | 实例分割与开放词汇分割 | 24 | 1.51% | 3D/具身/机器人 | `segmentation / semantic / instance / open-vocabulary` | MFSeg: Efficient Multi-Frame 3D Semantic Segmentation |
 | [024](topic-024.md) | 扩散生成模型 | 24 | 1.51% | 3D/具身/机器人 | `pose / estimation / camera / zero-shot` | CtRNet-X: Camera-to-Robot Pose Estimation in Real-World Conditions using a Single Camera |
 | [025](topic-025.md) | 机器人操作与抓取 | 24 | 1.51% | 3D/具身/机器人 | `manipulation / learning / skill / bimanual` | FLEX: A Framework for Learning Robot-Agnostic Force-Based Skills Involving Sustained Contact Object Manipulation |
 | [026](topic-026.md) | 机器人运动控制与移动能力 | 24 | 1.51% | 3D/具身/机器人 | `soft / locomotion / behaviors / collective` | AquaMILR: Mechanical Intelligence Simplifies Control of Undulatory Robots in Cluttered Fluid Environments |
@@ -70,7 +70,7 @@
 | [060](topic-060.md) | 灵巧机器人操作 | 11 | 0.69% | 3D/具身/机器人 | `bimanual / manipulation / catch / active vision` | TWIN: Two-handed Intelligent Benchmark for Bimanual Manipulation |
 | [056](topic-056.md) | 机器人操作与抓取 | 11 | 0.69% | 3D/具身/机器人 | `grasp / dexterous / manipulation / quality-diversity` | Synthesizing Grasps and Regrasps for Complex Manipulation Tasks |
 | [057](topic-057.md) | granular / terrain / robotic / scooping | 11 | 0.69% | 3D/具身/机器人 | `granular / terrain / robotic / scooping` | Robotic Framework for Iterative and Adaptive Profile Grading of Sand |
-| [059](topic-059.md) | 视频扩散生成与运动控制 | 11 | 0.69% | 3D/具身/机器人 | `driving / language / diffusion / autonomous` | Dualdiff: Dual-Branch Diffusion Model for Autonomous Driving with Semantic Fusion |
+| [059](topic-059.md) | 扩散生成模型 | 11 | 0.69% | 3D/具身/机器人 | `driving / language / diffusion / autonomous` | Dualdiff: Dual-Branch Diffusion Model for Autonomous Driving with Semantic Fusion |
 | [063](topic-063.md) | 机器人遥操作与触觉交互 | 11 | 0.69% | 3D/具身/机器人 | `bilateral / teleoperation / force / cartesian` | Highly Dynamic Physical Interaction for Robotics: Design and Control of an Active Remote Center of Compliance |
 | [058](topic-058.md) | assistive / interface / walker / gaze | 11 | 0.69% | 3D/具身/机器人 | `assistive / interface / walker / gaze` | Comparison of Three Interface Approaches for Gaze Control of Assistive Robots for Individuals with Tetraplegia |
 | [062](topic-062.md) | 无人机/四旋翼规划与控制 | 11 | 0.69% | 3D/具身/机器人 | `flying / aerial / testbed / drone` | MochiSwarm: A Testbed for Robotic Micro-Blimps in Realistic Environments |

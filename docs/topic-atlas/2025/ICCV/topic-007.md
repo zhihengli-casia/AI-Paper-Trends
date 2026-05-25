@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **49** (1.81%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / attacks / watermarking / copyright`
 - Keyword pool: backdoor; attacks; watermarking; copyright; defense; protection; adversarial; jailbreak; poisoning; malicious; purification; poisoned
 

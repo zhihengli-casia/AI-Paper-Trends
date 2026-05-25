@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **13** (2.21%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `x-ray / automatic / disease / lung`
 - Keyword pool: x-ray; automatic; disease; lung; diagnosis; medical; convolutional; detection; neural; classification; deep learning; images
 

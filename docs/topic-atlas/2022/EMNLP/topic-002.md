@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **31** (3.74%)
-- Macro topic: 可信/安全/公平
+- Macro topic: NLP任务
 - English keywords: `translation / nmt / machine / translate`
 - Keyword pool: translation; nmt; machine; translate; post-editing; tokens; literary; translators; errors; languages; correction; uncertainty
 

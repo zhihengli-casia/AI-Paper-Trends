@@ -1,4 +1,4 @@
-# AAAI 2022: person / pose / re-identification / pedestrian
+# AAAI 2022: 人体姿态估计与运动理解
 
 - Topic ID: `47`
 - Papers: **13** (0.99%)

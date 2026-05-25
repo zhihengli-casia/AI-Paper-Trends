@@ -1,8 +1,8 @@
-# EMNLP 2022: ood / intent detection / intents / speaker
+# EMNLP 2022: 说话人建模与语音表征
 
 - Topic ID: `47`
 - Papers: **8** (0.97%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 语音/音频/音乐
 - English keywords: `ood / intent detection / intents / speaker`
 - Keyword pool: ood; intent detection; intents; speaker; slot; filling; label; co-occurrence; pseudo; representation learning; clustering; scoring function
 

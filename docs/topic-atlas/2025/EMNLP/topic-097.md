@@ -1,8 +1,8 @@
-# EMNLP 2025: 机器翻译与跨语言对齐
+# EMNLP 2025: 跨域转换与序列转换
 
 - Topic ID: `97`
 - Papers: **8** (0.44%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `disambiguation / sense / word / meaning`
 - Keyword pool: disambiguation; sense; word; meaning; definition; adversarial; polysemous; compound; enrichment; multi-domain; changes; translation
 

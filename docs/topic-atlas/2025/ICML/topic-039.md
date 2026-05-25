@@ -1,8 +1,8 @@
-# ICML 2025: 病理图像与临床 AI
+# ICML 2025: 医学影像分割
 
 - Topic ID: `39`
 - Papers: **27** (0.81%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `cell / gene / segmentation / transcriptomics`
 - Keyword pool: cell; gene; segmentation; transcriptomics; genomic; pathology; medical; microscopy; biological; spatial; dna; protein
 

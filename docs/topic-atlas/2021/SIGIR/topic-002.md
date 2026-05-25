@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **17** (11.26%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `retrieval / document / ranking / bert`
 - Keyword pool: retrieval; document; ranking; bert; dense; code; query; passage; difference; fairness; sampling; language
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **9** (1.06%)
-- Macro topic: 强化学习/决策
+- Macro topic: AI4Science/医疗
 - English keywords: `children / countries / africa / aid`
 - Keyword pool: children; countries; africa; aid; chest; early; satellite; sign; patients; diagnosis; imagery; ai-assisted
 

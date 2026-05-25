@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **72** (1.36%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `offline / reinforcement learning / policy / safety`
 - Keyword pool: offline; reinforcement learning; policy; safety; action; learning rl; policies; online; planning; goal-conditioned; exploration; safe reinforcement
 

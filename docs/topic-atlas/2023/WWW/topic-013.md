@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **13** (3.50%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `workload / forecasting / causal / service`
 - Keyword pool: workload; forecasting; causal; service; ipfs; http; video; streaming; anomaly; group behavior; root; edge
 

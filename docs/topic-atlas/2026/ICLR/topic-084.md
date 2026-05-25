@@ -2,7 +2,7 @@
 
 - Topic ID: `84`
 - Papers: **31** (0.58%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 强化学习/决策
 - English keywords: `driving / autonomous / planning / traffic`
 - Keyword pool: driving; autonomous; planning; traffic; trajectory; ego; world; perception; closed-loop; vla; scene; scenario generation
 

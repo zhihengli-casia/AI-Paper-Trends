@@ -1,4 +1,4 @@
-# CVPR 2022: action / 视频理解/生成 / temporal / activity
+# CVPR 2022: 视频动作识别与时序定位
 
 - Topic ID: `1`
 - Papers: **61** (2.94%)

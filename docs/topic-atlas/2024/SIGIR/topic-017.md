@@ -1,8 +1,8 @@
-# SIGIR 2024: 文档摘要与信息压缩
+# SIGIR 2024: 摘要生成与信息压缩
 
 - Topic ID: `17`
 - Papers: **6** (2.80%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `legal / case / facts / judgment`
 - Keyword pool: legal; case; facts; judgment; law; documents; relationship; summarization; events; view generation; decisions; chinese
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **19** (1.50%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `attacks / adversarial / vulnerability / perturbations`
 - Keyword pool: attacks; adversarial; vulnerability; perturbations; examples; vulnerabilities; trigger; search; safety; malicious; mllms; robustness
 

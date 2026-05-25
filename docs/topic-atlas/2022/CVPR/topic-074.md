@@ -1,8 +1,8 @@
-# CVPR 2022: 图像复原与超分辨率
+# CVPR 2022: 人脸分析、表情与属性建模
 
 - Topic ID: `74`
 - Papers: **13** (0.63%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `face / facial / swapping / restoration`
 - Keyword pool: face; facial; swapping; restoration; identity; blind; landmarks; generative; high-quality; head; priors; upscaling
 

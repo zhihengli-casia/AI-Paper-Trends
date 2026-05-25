@@ -1,8 +1,8 @@
-# MICCAI 2025: 多模态学习与跨模态理解
+# MICCAI 2025: 医学影像分割
 
 - Topic ID: `1`
 - Papers: **11** (16.92%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `image segmentation / in-context / medical / fusion`
 - Keyword pool: image segmentation; in-context; medical; fusion; network; anatomy-aware; operative mri; parameter; pre-to-post; multimodal image; memory-guided; mg-unet
 

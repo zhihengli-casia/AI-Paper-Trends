@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **23** (2.14%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `dialogue / persona / open-domain / satisfaction`
 - Keyword pool: dialogue; persona; open-domain; satisfaction; game; user; response; multimodal; commonsense; attribute extraction; medical; accent
 

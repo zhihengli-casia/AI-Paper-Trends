@@ -1,8 +1,8 @@
-# CVPR 2022: 医疗健康与临床 AI
+# CVPR 2022: 医学影像分割
 
 - Topic ID: `20`
 - Papers: **30** (1.45%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / registration / segmentation / atlas`
 - Keyword pool: medical; registration; segmentation; atlas; landmark; disease; affine; cancer; bayesian; instance; low-cost; clinical
 

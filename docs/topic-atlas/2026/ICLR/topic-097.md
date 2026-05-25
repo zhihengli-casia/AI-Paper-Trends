@@ -1,8 +1,8 @@
-# ICLR 2026: 目标检测与图像分割
+# ICLR 2026: 时间序列建模与预测
 
 - Topic ID: `97`
 - Papers: **28** (0.52%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 计算机视觉
 - English keywords: `conformal / prediction sets / uncertainty / coverage`
 - Keyword pool: conformal; prediction sets; uncertainty; coverage; quantification; segmentation; calibration; time series; guarantees; survival; compass; detection
 

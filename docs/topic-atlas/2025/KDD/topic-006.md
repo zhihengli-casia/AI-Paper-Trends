@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **26** (4.71%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / llms / plms / reasoning`
 - Keyword pool: retrieval; llms; plms; reasoning; knowledge graph; query; document; news; generation quality; domain; kgs; search
 

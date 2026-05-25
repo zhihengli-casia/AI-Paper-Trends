@@ -2,7 +2,7 @@
 
 - Topic ID: `80`
 - Papers: **10** (0.55%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / regret / policy / superhuman`
 - Keyword pool: adversarial; regret; policy; superhuman; reinforcement; mdps; attack; online; adversary; influence; act; safer
 

@@ -1,8 +1,8 @@
-# AAAI 2024: 大语言模型 / 推理 / language / 智能体
+# AAAI 2024: LLM Agent 与工具使用
 
 - Topic ID: `18`
 - Papers: **35** (1.50%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `llms / reasoning / language / agent`
 - Keyword pool: llms; reasoning; language; agent; symbolic; navigation; cognitive; numerical; suggestions; arithmetic; chatgpt; thoughts
 

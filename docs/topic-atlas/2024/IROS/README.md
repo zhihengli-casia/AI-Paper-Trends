@@ -13,14 +13,14 @@
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 足式机器人与运动控制 | 62 | 3.94% | 3D/具身/机器人 | `locomotion / bipedal / legged / gait` | Demonstrating a Robust Walking Algorithm for Underactuated Bipedal Robots in Non-flat, Non-stationary Environments |
 | [001](topic-001.md) | 多机器人路径规划与协同导航 | 59 | 3.75% | 3D/具身/机器人 | `multi-robot / planning / swarm / cooperative` | Decentralized Communication-Maintained Coordination for Multi-Robot Exploration: Achieving Connectivity and Adaptability |
-| [002](topic-002.md) | 扩散生成模型 | 54 | 3.43% | 3D/具身/机器人 | `navigation / language / scene / occupancy` | Multiple Visual Features in Topological Map for Vision-and-Language Navigation |
+| [002](topic-002.md) | 语音、音频与声学建模 | 54 | 3.43% | 3D/具身/机器人 | `navigation / language / scene / occupancy` | Multiple Visual Features in Topological Map for Vision-and-Language Navigation |
 | [003](topic-003.md) | 强化学习算法与理论 | 37 | 2.35% | 3D/具身/机器人 | `navigation / exploration / autonomous / terrain` | HPHS: Hierarchical Planning based on Hybrid Frontier Sampling for Unknown Environments Exploration |
 | [004](topic-004.md) | 自动驾驶感知与世界模型 | 36 | 2.29% | 3D/具身/机器人 | `driving / autonomous / prediction / vehicles` | Learning autonomous driving from aerial imagery |
 | [005](topic-005.md) | 机器人操作与抓取 | 35 | 2.23% | 3D/具身/机器人 | `learning / manipulation / imitation / robotic` | Dynamic Manipulation of Deformable Objects using Imitation Learning with Adaptation to Hardware Constraints |
-| [006](topic-006.md) | pose estimation / camera / object pose / human | 35 | 2.23% | 3D/具身/机器人 | `pose estimation / camera / object pose / human` | Scalable Network and Adaptive Refinement Module for 6D Pose Estimation of Diverse Industrial Components * |
+| [006](topic-006.md) | 人体姿态估计与运动理解 | 35 | 2.23% | 3D/具身/机器人 | `pose estimation / camera / object pose / human` | Scalable Network and Adaptive Refinement Module for 6D Pose Estimation of Diverse Industrial Components * |
 | [007](topic-007.md) | hand / gripper / soft / finger | 35 | 2.23% | 3D/具身/机器人 | `hand / gripper / soft / finger` | Soft finger rotational stability for precision grasps |
 | [008](topic-008.md) | slam / semantic / neural / environments | 34 | 2.16% | 3D/具身/机器人 | `slam / semantic / neural / environments` | LF 2 SLAM: Learning-based Features For visual SLAM |
-| [009](topic-009.md) | 机器翻译与跨语言对齐 | 32 | 2.03% | 3D/具身/机器人 | `object detection / transformer / network / segmentation` | Weakly Scene Segmentation Using Efficient Transformer |
+| [009](topic-009.md) | 跨域转换与序列转换 | 32 | 2.03% | 3D/具身/机器人 | `object detection / transformer / network / segmentation` | Weakly Scene Segmentation Using Efficient Transformer |
 | [010](topic-010.md) | 机器人操作与具身智能 | 32 | 2.03% | 3D/具身/机器人 | `control / manipulators / joints / inverse` | Ensuring Joint Constraints of Torque-Controlled Robot Manipulators under Bounded Jerk |
 | [011](topic-011.md) | 无人机/四旋翼规划与控制 | 31 | 1.97% | 3D/具身/机器人 | `tracking / multi-object / uav / nighttime` | FoveaCam++: Systems-Level Advances for Long Range Multi-Object High-Resolution Tracking |
 | [012](topic-012.md) | 强化学习算法与理论 | 31 | 1.97% | 3D/具身/机器人 | `reinforcement learning / policy / safe / dynamics` | Guiding Reinforcement Learning with Incomplete System Dynamics |
@@ -35,7 +35,7 @@
 | [021](topic-021.md) | 机器人操作与具身智能 | 25 | 1.59% | 3D/具身/机器人 | `surgical / continuum / surgeries / robot` | Automatic Field of View Adjustment of an RCM Constraint-Free Continuum Laparoscopic Robot |
 | [022](topic-022.md) | predictive control / trajectory / nonlinear / robots | 25 | 1.59% | 3D/具身/机器人 | `predictive control / trajectory / nonlinear / robots` | Disturbance-Aware Model Predictive Control of Underactuated Robotics Systems |
 | [023](topic-023.md) | 机器人操作与抓取 | 24 | 1.53% | 3D/具身/机器人 | `manipulation / contact / unified / collision` | Combining Sampling- and Gradient-based Planning for Contact-rich Manipulation |
-| [024](topic-024.md) | odometry / visual-inertial / camera / satellite | 24 | 1.53% | 3D/具身/机器人 | `odometry / visual-inertial / camera / satellite` | Structure-Invariant Range-Visual-Inertial Odometry |
+| [024](topic-024.md) | 事件相机与高动态范围视觉 | 24 | 1.53% | 3D/具身/机器人 | `odometry / visual-inertial / camera / satellite` | Structure-Invariant Range-Visual-Inertial Odometry |
 | [025](topic-025.md) | 机器人操作与具身智能 | 23 | 1.46% | 3D/具身/机器人 | `assembly / human-robot / cell / robotic` | Beyond Feasibility: Efficiently Planning Robotic Assembly Sequences That Minimize Assembly Path Lengths |
 | [026](topic-026.md) | 机器人操作与抓取 | 22 | 1.40% | 3D/具身/机器人 | `locomotion / quadruped / legged / learning` | Learning Safe Locomotion for Quadrupedal Robots by Derived-Action Optimization |
 | [027](topic-027.md) | 机器人遥操作与触觉交互 | 22 | 1.40% | 3D/具身/机器人 | `teleoperation / remote / shared control / teleoperated` | User-customizable Shared Control for Robot Teleoperation via Virtual Reality |
@@ -54,17 +54,17 @@
 | [040](topic-040.md) | 自动驾驶感知与世界模型 | 17 | 1.08% | 3D/具身/机器人 | `object detection / driving / road / vehicles` | OW3Det: Toward Open-World 3D Object Detection for Autonomous Driving |
 | [041](topic-041.md) | 机器人触觉感知与操作 | 17 | 1.08% | 3D/具身/机器人 | `insertion / ultrasound / tissue / robotic` | Real-time Robotic Flexible Needle Insertion In Deformable Living Organs Using Isolated Objective Constraint |
 | [042](topic-042.md) | 人形机器人与全身控制 | 17 | 1.08% | 3D/具身/机器人 | `exoskeleton / design / control / limb` | A Closed-loop Control for Lower Limb Exoskeleton Considering Overall Deformations: A Simple and Direct Application Method |
-| [043](topic-043.md) | learning / demonstration / bimanual / imitation | 17 | 1.08% | 3D/具身/机器人 | `learning / demonstration / bimanual / imitation` | Learning Symbolic and Subsymbolic Temporal Task Constraints from Bimanual Human Demonstrations |
+| [043](topic-043.md) | 视频动作识别与时序定位 | 17 | 1.08% | 3D/具身/机器人 | `learning / demonstration / bimanual / imitation` | Learning Symbolic and Subsymbolic Temporal Task Constraints from Bimanual Human Demonstrations |
 | [044](topic-044.md) | 无人机/四旋翼规划与控制 | 17 | 1.08% | 3D/具身/机器人 | `flight / aerial / unmanned / vehicles` | Model Predictive Path Integral Control for Agile Unmanned Aerial Vehicles |
 | [045](topic-045.md) | 3D Gaussian Splatting 与场景重建 | 16 | 1.02% | 3D/具身/机器人 | `splatting / gaussian / localization / slam` | GSLoc: Visual Localization with 3D Gaussian Splatting |
 | [046](topic-046.md) | LiDAR 点云与 3D 感知 | 16 | 1.02% | 3D/具身/机器人 | `odometry / lidar / mapping / kalman` | LA-LIO: Robust Localizability-Aware LiDAR-Inertial Odometry for Challenging Scenes |
-| [047](topic-047.md) | 视频动作生成与运动控制 | 16 | 1.02% | 3D/具身/机器人 | `recognition / segmentation / action / human` | Channel-wise Motion Features for Efficient Motion Segmentation |
+| [047](topic-047.md) | 视频动作识别与时序定位 | 16 | 1.02% | 3D/具身/机器人 | `recognition / segmentation / action / human` | Channel-wise Motion Features for Efficient Motion Segmentation |
 | [048](topic-048.md) | 点云表示与 3D 感知 | 15 | 0.95% | 3D/具身/机器人 | `registration / point / cloud / bidirectional` | A Direct Semi-Exhaustive Search Method for Robust, Partial-to-Full Point Cloud Registration |
 | [049](topic-049.md) | 软体机器人与柔性执行器 | 15 | 0.95% | 3D/具身/机器人 | `soft / actuator / robots / programmable` | Design of a Pneumatically Driven 3D-Printed Under-Actuated Soft Robot with Programmable Stiffness |
 | [050](topic-050.md) | 机器人操作与具身智能 | 15 | 0.95% | 3D/具身/机器人 | `spherical / development / omnidirectional / robot` | Development of a Spherical Wheel-legged Composite Mobile Robot with Multimodal Motion Capabilities |
 | [051](topic-051.md) | 时序逻辑约束下的机器人任务规划 | 15 | 0.95% | 3D/具身/机器人 | `temporal / logic / planning / action` | Reactive Temporal Logic-based Planning and Control for Interactive Robotic Tasks |
 | [052](topic-052.md) | LiDAR 点云与 3D 感知 | 15 | 0.95% | 3D/具身/机器人 | `place recognition / visual / structural / lidar-based` | Dynamically Modulating Visual Place Recognition Sequence Length For Minimum Acceptable Performance Scenarios |
-| [053](topic-053.md) | 目标检测与图像分割 | 15 | 0.95% | 3D/具身/机器人 | `bev / cross-view / relocalization / bird` | BEVLoc: Cross-View Localization and Matching via Birds-Eye-View Synthesis |
+| [053](topic-053.md) | 图像分割、语义分割与场景解析 | 15 | 0.95% | 3D/具身/机器人 | `bev / cross-view / relocalization / bird` | BEVLoc: Cross-View Localization and Matching via Birds-Eye-View Synthesis |
 | [056](topic-056.md) | 机器人操作与具身智能 | 13 | 0.83% | 3D/具身/机器人 | `localization / multi-robot / cooperative / distributed` | Consistent Distributed Cooperative Localization: A Coordinate Transformation Approach |
 | [054](topic-054.md) | 规划搜索与决策推理 | 13 | 0.83% | 3D/具身/机器人 | `trajectory / planning / following / path` | Trajectory Planning for Non-Prehensile Object Transportation |
 | [058](topic-058.md) | 视觉语言模型与多模态理解 | 13 | 0.83% | 3D/具身/机器人 | `embodied / capture / preference / embodiment` | ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models |

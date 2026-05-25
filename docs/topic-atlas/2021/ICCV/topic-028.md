@@ -1,4 +1,4 @@
-# ICCV 2021: skeleton / gait / pose / action
+# ICCV 2021: 视频动作识别与时序定位
 
 - Topic ID: `28`
 - Papers: **21** (1.30%)

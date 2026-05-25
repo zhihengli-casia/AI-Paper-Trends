@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **18** (2.10%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `distributed / communication / local / worker`
 - Keyword pool: distributed; communication; local; worker; privacy; private; heterogeneous; non-convex; global; convergence; devices; collaborative
 

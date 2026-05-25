@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **23** (0.85%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `super-resolution / vsr / low-resolution / vae`
 - Keyword pool: super-resolution; vsr; low-resolution; vae; rescaling; temporal; real-isr; regular grid; interpolation; reconstruction; high-resolution; real-world image
 

@@ -1,8 +1,8 @@
-# CVPR 2025: 状态空间模型与高效序列建模
+# CVPR 2025: 时间序列预测
 
 - Topic ID: `112`
 - Papers: **12** (0.42%)
-- Macro topic: 多模态/VLM
+- Macro topic: 强化学习/决策
 - English keywords: `trajectory / forecasting / trajectories / agents`
 - Keyword pool: trajectory; forecasting; trajectories; agents; future; causal; motion prediction; intention; mode; prediction accuracy; ssm; multi-agent
 

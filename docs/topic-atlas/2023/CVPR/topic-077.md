@@ -1,8 +1,8 @@
-# CVPR 2023: relighting / albedo / facial / face
+# CVPR 2023: 人脸分析、表情与属性建模
 
 - Topic ID: `77`
 - Papers: **15** (0.64%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `relighting / albedo / facial / face`
 - Keyword pool: relighting; albedo; facial; face; reflectance; illumination; specular; portrait; human; reflections; uv-texture; geometry
 

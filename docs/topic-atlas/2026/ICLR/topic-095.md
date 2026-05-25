@@ -2,7 +2,7 @@
 
 - Topic ID: `95`
 - Papers: **28** (0.52%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `single-cell / gene / biological / drug`
 - Keyword pool: single-cell; gene; biological; drug; cellular; expression; spatial; pathology; cells; cancer; morphological; microscopy
 

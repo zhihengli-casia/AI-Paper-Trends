@@ -1,4 +1,4 @@
-# IJCAI 2025: domain adaptation / source domain / graph domain / alignment
+# IJCAI 2025: 领域自适应与迁移学习
 
 - Topic ID: `72`
 - Papers: **9** (0.70%)

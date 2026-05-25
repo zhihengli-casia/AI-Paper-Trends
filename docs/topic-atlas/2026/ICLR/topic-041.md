@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **48** (0.90%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `continual / forgetting / plasticity / incremental learning`
 - Keyword pool: continual; forgetting; plasticity; incremental learning; catastrophic; previously learned; class incremental; replay; class-incremental; vision-language; learning cl; old
 

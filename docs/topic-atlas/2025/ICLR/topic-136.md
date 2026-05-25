@@ -2,7 +2,7 @@
 
 - Topic ID: `136`
 - Papers: **11** (0.30%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `distillation / gift / student / neural field`
 - Keyword pool: distillation; gift; student; neural field; teacher; inter-class feature; soft label; distilled; self-supervised; pruning; ssl; adversarial
 

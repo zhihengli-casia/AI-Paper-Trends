@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **33** (1.38%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attacks / defense / perturbations`
 - Keyword pool: adversarial; attacks; defense; perturbations; backdoor; transferability; dnns; aes; trojan; overfitting; vulnerability; substitute
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **28** (1.55%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `cultural / multilingual / culture / bias`
 - Keyword pool: cultural; multilingual; culture; bias; dialect; languages; regional; norms; social; western; countries; sports
 

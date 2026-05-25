@@ -1,8 +1,8 @@
-# EMNLP 2023: 多语言建模与跨语言迁移
+# EMNLP 2023: 机器翻译与跨语言对齐
 
 - Topic ID: `13`
 - Papers: **24** (2.29%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `translation / machine / multilingual / language pairs`
 - Keyword pool: translation; machine; multilingual; language pairs; nmt; idiomatic; images; authentic; document-level; languages; zero-shot; pseudo
 

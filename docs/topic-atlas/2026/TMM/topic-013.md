@@ -1,8 +1,8 @@
-# TMM 2026: 视频动作生成与运动控制
+# TMM 2026: 视频检索、时刻定位与事件理解
 
 - Topic ID: `13`
 - Papers: **17** (2.86%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `video / retrieval / prompts / long`
 - Keyword pool: video; retrieval; prompts; long; tokens; modality; zero-shot; motion; clip; livestreaming; aerial; dynamic scene
 

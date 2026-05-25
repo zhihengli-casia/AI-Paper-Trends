@@ -1,8 +1,8 @@
-# EMNLP 2025: 文档摘要与信息压缩
+# EMNLP 2025: 摘要生成与信息压缩
 
 - Topic ID: `78`
 - Papers: **12** (0.66%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `reviews / pls / summaries / literature`
 - Keyword pool: reviews; pls; summaries; literature; scientific; readability; sections; peer; evidence; summarization; human experts; comments
 

@@ -1,8 +1,8 @@
-# AAAI 2025: 语音/音频语言模型
+# AAAI 2025: 说话人视频生成与人脸动画
 
 - Topic ID: `46`
 - Papers: **25** (0.83%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `facial / talking / audio / head`
 - Keyword pool: facial; talking; audio; head; motion; animation; lip; portrait; speech; control; movements; gaze
 

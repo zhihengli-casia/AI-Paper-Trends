@@ -2,7 +2,7 @@
 
 - Topic ID: `105`
 - Papers: **10** (0.37%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `regret / feedback / online learning / graphs`
 - Keyword pool: regret; feedback; online learning; graphs; adversarial; stochastic; best-of-both-worlds; long-term constraints; environments; switching; learner; bounds
 

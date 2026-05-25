@@ -1,8 +1,8 @@
-# ICCV 2025: 目标检测与图像分割
+# ICCV 2025: 视频动作识别与时序定位
 
 - Topic ID: `31`
 - Papers: **28** (1.04%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `action / recognition / skeleton-based / temporal`
 - Keyword pool: action; recognition; skeleton-based; temporal; segmentation; procedural; videos; motion; few-shot; mistake; error; graph
 

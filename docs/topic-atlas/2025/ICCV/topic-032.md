@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **28** (1.04%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video diffusion / videos / scene / multi-view`
 - Keyword pool: video diffusion; videos; scene; multi-view; depth; reconstruction; monocular; mesh; view synthesis; frame; interpolation; geometric
 

@@ -11,7 +11,7 @@
 
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
-| [000](topic-000.md) | 文生图生成与个性化编辑 | 17 | 21.25% | 多模态/VLM | `avatar / diffusion / face / neural` | Single-Shot Implicit Morphable Faces with Consistent Texture Parameterization |
+| [000](topic-000.md) | 人脸分析、表情与属性建模 | 17 | 21.25% | 生成模型 | `avatar / diffusion / face / neural` | Single-Shot Implicit Morphable Faces with Consistent Texture Parameterization |
 | [001](topic-001.md) | shape / bidirectional / detection / basis | 15 | 18.75% | 3D/具身/机器人 | `shape / bidirectional / detection / basis` | Variational Shape Reconstruction via Quadric Error Metrics |
 | [002](topic-002.md) | NeRF 与神经渲染 | 14 | 17.50% | 计算机视觉 | `neural / radiance / fields / relighting` | NeRF-Texture: Texture Synthesis with Neural Radiance Fields |
 | [003](topic-003.md) | path / rendering / tracking / tracing | 11 | 13.75% | 计算机视觉 | `path / rendering / tracking / tracing` | Differentiable Heightfield Path Tracing with Accelerated Discontinuities |

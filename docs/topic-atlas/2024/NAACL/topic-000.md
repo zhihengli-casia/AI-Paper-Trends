@@ -1,8 +1,8 @@
-# NAACL 2024: 多语言建模与跨语言迁移
+# NAACL 2024: 机器翻译与跨语言对齐
 
 - Topic ID: `0`
 - Papers: **49** (8.72%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `languages / translation / multilingual / cross-lingual`
 - Keyword pool: languages; translation; multilingual; cross-lingual; transfer; nli; machine; language-specific; low-resource; english; indigenous; parsing
 

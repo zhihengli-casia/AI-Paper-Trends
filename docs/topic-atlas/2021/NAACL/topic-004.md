@@ -1,8 +1,8 @@
-# NAACL 2021: 文档摘要与信息压缩
+# NAACL 2021: 摘要生成与信息压缩
 
 - Topic ID: `4`
 - Papers: **27** (5.66%)
-- Macro topic: 生成模型
+- Macro topic: NLP任务
 - English keywords: `summarization / summaries / abstractive / summary`
 - Keyword pool: summarization; summaries; abstractive; summary; factual; simplification; errors; radiology; long; encoder-decoder; documents; content
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **15** (9.74%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `websites / blockchain / ads / terms`
 - Keyword pool: websites; blockchain; ads; terms; financial; intention; transparency; purpose; transactions; harmful; attack; patterns
 

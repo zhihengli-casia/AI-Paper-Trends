@@ -2,7 +2,7 @@
 
 - Topic ID: `80`
 - Papers: **11** (0.61%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `personalization / user / personalized / recommendation`
 - Keyword pool: personalization; user; personalized; recommendation; recommender; item; preferences; plans; prime; collaborative; dep; cross-domain
 

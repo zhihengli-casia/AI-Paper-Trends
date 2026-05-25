@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **21** (1.39%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `long-tailed / imbalanced / classification / medical image`
 - Keyword pool: long-tailed; imbalanced; classification; medical image; programming; genetic; multi-class; class imbalance; augmentation; classifier; ensemble; representation learning
 

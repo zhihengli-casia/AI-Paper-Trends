@@ -1,8 +1,8 @@
-# NAACL 2025: 医疗健康与临床 AI
+# NAACL 2025: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `31`
 - Papers: **11** (1.53%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `relation / entity / extraction / zero-shot`
 - Keyword pool: relation; entity; extraction; zero-shot; recognition; entities; slms; named; label; clinical; type; few-shot
 

@@ -1,4 +1,4 @@
-# ICCV 2023: human / body / pose / clothing
+# ICCV 2023: 人体姿态估计与运动理解
 
 - Topic ID: `2`
 - Papers: **52** (2.41%)

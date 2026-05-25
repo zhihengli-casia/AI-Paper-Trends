@@ -1,8 +1,8 @@
-# ICLR 2025: 目标检测与图像分割
+# ICLR 2025: 图像分割、语义分割与场景解析
 
 - Topic ID: `72`
 - Papers: **24** (0.65%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `vision / transformer / vits / segmentation`
 - Keyword pool: vision; transformer; vits; segmentation; attribution; token; deco; self-attention; computer; convnets; neuron; architecture
 

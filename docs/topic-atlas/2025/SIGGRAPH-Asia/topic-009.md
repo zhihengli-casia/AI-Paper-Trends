@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **11** (5.73%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `object / generating / single / video`
 - Keyword pool: object; generating; single; video; generation; creation; assembly; transfer; swapping; structured; sketch; avatar
 

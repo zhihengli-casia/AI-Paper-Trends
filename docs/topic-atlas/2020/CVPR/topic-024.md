@@ -1,8 +1,8 @@
-# CVPR 2020: 新闻文本、虚假信息与安全检测
+# CVPR 2020: 视频动作识别与时序定位
 
 - Topic ID: `24`
 - Papers: **19** (1.30%)
-- Macro topic: NLP任务
+- Macro topic: 计算机视觉
 - English keywords: `video / grounding / action / reasoning`
 - Keyword pool: video; grounding; action; reasoning; language; news; temporal; sign; movie; localization; relationships; question answering
 

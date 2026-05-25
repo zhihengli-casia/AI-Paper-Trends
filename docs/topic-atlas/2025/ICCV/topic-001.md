@@ -1,8 +1,8 @@
-# ICCV 2025: 目标检测与图像分割
+# ICCV 2025: 图像分割、语义分割与场景解析
 
 - Topic ID: `1`
 - Papers: **65** (2.41%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `segmentation / sam / camouflaged / mask`
 - Keyword pool: segmentation; sam; camouflaged; mask; objects; class; video object; prompts; tokens; semi-supervised; detection; salient
 

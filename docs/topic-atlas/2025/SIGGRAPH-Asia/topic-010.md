@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **11** (5.73%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / generation / camera / precise`
 - Keyword pool: video; generation; camera; precise; control; generating; motion; human; interactive; realistic; proxy; in-context
 

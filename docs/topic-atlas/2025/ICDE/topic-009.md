@@ -1,8 +1,8 @@
-# ICDE 2025: 文档摘要与信息压缩
+# ICDE 2025: 摘要生成与信息压缩
 
 - Topic ID: `9`
 - Papers: **14** (3.59%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: NLP任务
 - English keywords: `graph / query processing / queries / large-scale`
 - Keyword pool: graph; query processing; queries; large-scale; scalable; stream summarization; space-efficient; engine; partitioned; stateful; scaling; unified
 

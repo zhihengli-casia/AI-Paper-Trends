@@ -1,8 +1,8 @@
-# NeurIPS 2024: 句法语义解析与结构化表示
+# NeurIPS 2024: 结构化解析与表示学习
 
 - Topic ID: `29`
 - Papers: **47** (1.17%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `graph / node / gnns / relational`
 - Keyword pool: graph; node; gnns; relational; scattering; signed; oversmoothing; contrastive; parsing; old; over-smoothing; transformers
 

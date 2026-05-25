@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **19** (2.11%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / generation / text-to-image / controllability`
 - Keyword pool: diffusion; generation; text-to-image; controllability; controllable; prompt; geometry; guidance; scene; concepts; sketch; face
 

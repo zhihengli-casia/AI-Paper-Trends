@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **16** (0.71%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `bounding / detection / boxes / images`
 - Keyword pool: bounding; detection; boxes; images; medical; object; set-level; attribution; labels; crowdsourced; threshold; submodular
 

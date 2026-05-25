@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **47** (2.27%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `trajectory / motion / forecasting / trajectories`
 - Keyword pool: trajectory; motion; forecasting; trajectories; agents; dance; autonomous; driving; future; vehicles; action; tracking
 

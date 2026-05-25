@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **7** (4.64%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `retrieval / memory / image / multi-modal`
 - Keyword pool: retrieval; memory; image; multi-modal; embedding; privacy; ctr; huge; extremely; consumption; attack; loss
 

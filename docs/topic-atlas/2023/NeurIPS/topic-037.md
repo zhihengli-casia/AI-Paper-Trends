@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **33** (1.03%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / attacks / poisoned / trigger`
 - Keyword pool: backdoor; attacks; poisoned; trigger; defense; poisoning; adversarial; detection; clients; clean; federated; language
 

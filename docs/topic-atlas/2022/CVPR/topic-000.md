@@ -1,4 +1,4 @@
-# CVPR 2022: self-supervised / contrastive / representation learning / similarity
+# CVPR 2022: 零样本分类与开放集识别
 
 - Topic ID: `0`
 - Papers: **69** (3.33%)

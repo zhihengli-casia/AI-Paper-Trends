@@ -1,8 +1,8 @@
-# NeurIPS 2022: transformer / attention / memory / quantization
+# NeurIPS 2022: 音乐与音频生成/理解
 
 - Topic ID: `30`
 - Papers: **30** (1.12%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 语音/音频/音乐
 - English keywords: `transformer / attention / memory / quantization`
 - Keyword pool: transformer; attention; memory; quantization; music; sequence; int8; tokens; bit; compression; language; recurrent
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `92`
 - Papers: **21** (0.51%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `radar / lidar / weather / motion`
 - Keyword pool: radar; lidar; weather; motion; smoke; radio; sensing; point clouds; adverse; object detection; perception; defect
 

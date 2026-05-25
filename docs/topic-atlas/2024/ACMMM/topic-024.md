@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **19** (1.65%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `mobile / degradation / raw / compression`
 - Keyword pool: mobile; degradation; raw; compression; super-resolution; reconstruction; metadata; hdr; devices; camera; blind; distortion
 

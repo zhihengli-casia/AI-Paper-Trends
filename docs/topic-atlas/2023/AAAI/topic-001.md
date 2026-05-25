@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **43** (2.74%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `few-shot / zero-shot / image / visual`
 - Keyword pool: few-shot; zero-shot; image; visual; samples; sketch; retrieval; categories; taxonomy; composition; recognition; classification
 

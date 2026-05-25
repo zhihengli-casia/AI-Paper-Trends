@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **20** (0.85%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `bit / super-resolution / jpeg / quantization`
 - Keyword pool: bit; super-resolution; jpeg; quantization; video; compression; vsr; reconstruction; compressed; hr image; sparsity; rescaling
 

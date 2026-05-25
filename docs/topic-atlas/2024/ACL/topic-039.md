@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **10** (1.06%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `legal / passage retrieval / temporal / element`
 - Keyword pool: legal; passage retrieval; temporal; element; clauses; concepts; multilingual; stories; split; vote; indian; cases
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **58** (1.40%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `lidar / object detection / driving / point`
 - Keyword pool: lidar; object detection; driving; point; autonomous; scene; bev; cloud; depth; segmentation; distillation; occupancy
 

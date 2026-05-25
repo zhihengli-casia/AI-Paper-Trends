@@ -1,8 +1,8 @@
-# CVPR 2021: 机器翻译与跨语言对齐
+# CVPR 2021: 图像到图像转换与风格迁移
 
 - Topic ID: `58`
 - Papers: **14** (0.84%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `translation / image-to-image / style / i2i`
 - Keyword pool: translation; image-to-image; style; i2i; latent; transport; exemplars; domains; correspondence; multi-modal; unpaired; content
 

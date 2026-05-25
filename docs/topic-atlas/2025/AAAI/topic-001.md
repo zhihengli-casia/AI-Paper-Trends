@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **67** (2.21%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `llms / reasoning / language / retrieval`
 - Keyword pool: llms; reasoning; language; retrieval; kgs; rag; question; relation; answering; fact-checking; documents; knowledge graph
 

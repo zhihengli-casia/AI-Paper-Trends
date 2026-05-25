@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **31** (1.32%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 多模态/VLM
 - English keywords: `quantization / inr / compression / ugc`
 - Keyword pool: quantization; inr; compression; ugc; implicit neural; live; codebook; vector; polynomial; rate-distortion; vqa; adaptability
 

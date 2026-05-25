@@ -1,8 +1,8 @@
-# SIGGRAPH 2023: 文生图生成与个性化编辑
+# SIGGRAPH 2023: 人脸分析、表情与属性建模
 
 - Topic ID: `0`
 - Papers: **17** (21.25%)
-- Macro topic: 多模态/VLM
+- Macro topic: 生成模型
 - English keywords: `avatar / diffusion / face / neural`
 - Keyword pool: avatar; diffusion; face; neural; generator; facial; latent; head; text-to-image; video; single; reconstruction
 

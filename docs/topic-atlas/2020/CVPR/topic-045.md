@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **15** (1.02%)
-- Macro topic: 理论/优化
+- Macro topic: 计算机视觉
 - English keywords: `minima / outliers / relaxation / shape`
 - Keyword pool: minima; outliers; relaxation; shape; non-convex; curvature; descent; optimization; graph matching; problems; tracking; synchronization
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **9** (2.84%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `crowd / biases / conversion / counterfactual`
 - Keyword pool: crowd; biases; conversion; counterfactual; workers; unknown; click; feedback; vision; shift; ltr; computer
 

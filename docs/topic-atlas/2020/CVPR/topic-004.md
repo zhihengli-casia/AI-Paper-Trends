@@ -1,8 +1,8 @@
-# CVPR 2020: nas / search / neural architecture / architectures
+# CVPR 2020: 神经架构搜索与模型设计
 
 - Topic ID: `4`
 - Papers: **32** (2.18%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `nas / search / neural architecture / architectures`
 - Keyword pool: nas; search; neural architecture; architectures; supernet; flops; one-shot; imagenet; latency; neural networks; spiking; configuration
 

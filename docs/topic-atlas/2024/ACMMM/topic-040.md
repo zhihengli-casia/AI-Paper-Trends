@@ -1,8 +1,8 @@
-# ACMMM 2024: 机器翻译与跨语言对齐
+# ACMMM 2024: 跨域转换与序列转换
 
 - Topic ID: `40`
 - Papers: **13** (1.13%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / restoration / blind / initial`
 - Keyword pool: diffusion; restoration; blind; initial; translation; brownian; face; multi-view; denoising; timestep; correspondences; priors
 

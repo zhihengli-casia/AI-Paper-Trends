@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **7** (4.24%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `classification / node / session / graphs`
 - Keyword pool: classification; node; session; graphs; structural; low-resource; cross-domain; heterogeneous graph; entity; vector; gnn; alignment
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **35** (0.84%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `reward / prms / reinforcement learning / verifiers`
 - Keyword pool: reward; prms; reinforcement learning; verifiers; llms; rlvr; process supervision; reasoning quality; writing; mathematical; logical; prefix
 

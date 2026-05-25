@@ -1,4 +1,4 @@
-# NeurIPS 2020: ood / detection / noisy labels / anomaly
+# NeurIPS 2020: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `24`
 - Papers: **24** (1.26%)

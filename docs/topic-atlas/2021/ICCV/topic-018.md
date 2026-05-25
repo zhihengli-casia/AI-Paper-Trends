@@ -1,8 +1,8 @@
-# ICCV 2021: 对抗攻击、鲁棒性与安全
+# ICCV 2021: 人脸分析、表情与属性建模
 
 - Topic ID: `18`
 - Papers: **24** (1.49%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `face / deepfake / detection / facial`
 - Keyword pool: face; deepfake; detection; facial; recognition; landmark; attacks; adversarial; identity; expression; verification; localization
 

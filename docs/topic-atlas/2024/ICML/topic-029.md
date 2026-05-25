@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **30** (1.15%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `language / llms / truthfulness / trustworthiness`
 - Keyword pool: language; llms; truthfulness; trustworthiness; uncertainty; rag; conformal; generations; cdm; retrieval-augmented; risks; scoring
 

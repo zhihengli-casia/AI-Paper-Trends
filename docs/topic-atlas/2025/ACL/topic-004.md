@@ -1,8 +1,8 @@
-# ACL 2025: 句法语义解析与结构化表示
+# ACL 2025: 语义解析与结构化语言理解
 
 - Topic ID: `4`
 - Papers: **36** (2.12%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `parsing / compositionality / circuits / semantic`
 - Keyword pool: parsing; compositionality; circuits; semantic; neurons; treebank; positions; properties; word; features; lexical; embeddings
 

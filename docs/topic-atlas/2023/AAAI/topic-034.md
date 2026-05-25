@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **18** (1.15%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `mdps / safety / policy / reinforcement`
 - Keyword pool: mdps; safety; policy; reinforcement; planning; transition; regret; belief; markov decision processes; non-stationary; control; violation
 

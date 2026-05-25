@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **47** (1.97%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `lidar / object detection / point / weather`
 - Keyword pool: lidar; object detection; point; weather; radar; clouds; detectors; segmentation; nuscenes; adverse; autonomous; driving
 

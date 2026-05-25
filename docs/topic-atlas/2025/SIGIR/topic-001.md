@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **20** (8.37%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `item / recommendation / generative / embeddings`
 - Keyword pool: item; recommendation; generative; embeddings; recommender; space; token; preference; identifiers; poi; fashion; alignment
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `68`
 - Papers: **25** (0.68%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `bayesian / gaussian / kernels / posterior`
 - Keyword pool: bayesian; gaussian; kernels; posterior; gps; variational; processes; width; uncertainty; latent; normalizing; neural networks
 

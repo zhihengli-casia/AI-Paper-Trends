@@ -1,4 +1,4 @@
-# ICLR 2024: adaptation / tta / test-time / uda
+# ICLR 2024: 领域自适应与迁移学习
 
 - Topic ID: `48`
 - Papers: **20** (0.88%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **53** (0.99%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `pruning / compression / sparsity / low-rank`
 - Keyword pool: pruning; compression; sparsity; low-rank; llms; quantization; activation; layer; svd; weight; pruned; matrices
 

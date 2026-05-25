@@ -1,8 +1,8 @@
-# NAACL 2025: 语音/音频语言模型
+# NAACL 2025: 语音与音频对抗攻击
 
 - Topic ID: `14`
 - Papers: **20** (2.79%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / attacks / harmful / attack success`
 - Keyword pool: safety; attacks; harmful; attack success; success rate; audio; malicious; risks; defense; jailbreaking; rag; bypass
 

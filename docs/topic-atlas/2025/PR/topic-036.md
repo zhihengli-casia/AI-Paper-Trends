@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **18** (1.19%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `tracking / visual object / multi-object / tracker`
 - Keyword pool: tracking; visual object; multi-object; tracker; association; cues; attack; two-stage; selection; robust; freezing; learning visual
 

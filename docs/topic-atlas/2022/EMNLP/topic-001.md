@@ -1,8 +1,8 @@
-# EMNLP 2022: claim / fact-checking / demonstrations / in-context learning
+# EMNLP 2022: 语音识别与语音理解
 
 - Topic ID: `1`
 - Papers: **34** (4.11%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `claim / fact-checking / demonstrations / in-context learning`
 - Keyword pool: claim; fact-checking; demonstrations; in-context learning; misinformation; verification; asr; calibration; label; shortcuts; detection; ehrs
 

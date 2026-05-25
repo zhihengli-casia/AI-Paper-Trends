@@ -1,8 +1,8 @@
-# ACL 2022: 文档摘要与信息压缩
+# ACL 2022: 摘要生成与信息压缩
 
 - Topic ID: `31`
 - Papers: **8** (1.14%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `source code / summarization / behaviors / search`
 - Keyword pool: source code; summarization; behaviors; search; software; program; comment; completion; cross-modal; syntax; retrieval; release
 

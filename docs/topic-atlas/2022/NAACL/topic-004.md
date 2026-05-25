@@ -1,8 +1,8 @@
-# NAACL 2022: 语音/音频语言模型
+# NAACL 2022: 语音识别与语音理解
 
 - Topic ID: `4`
 - Papers: **26** (5.88%)
-- Macro topic: 多模态/VLM
+- Macro topic: 语音/音频/音乐
 - English keywords: `ner / entity / named / recognition`
 - Keyword pool: ner; entity; named; recognition; speech; entities; correction; transfer; attribution; style; essay; global
 

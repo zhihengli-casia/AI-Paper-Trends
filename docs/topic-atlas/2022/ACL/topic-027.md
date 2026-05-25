@@ -1,8 +1,8 @@
-# ACL 2022: 句法语义解析与结构化表示
+# ACL 2022: 结构化解析与表示学习
 
 - Topic ID: `27`
 - Papers: **12** (1.71%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `amr / graphs / coreference / entailment`
 - Keyword pool: amr; graphs; coreference; entailment; meaning representation; parsing; edu; pre-trained language; transitivity; linguistics; pre-training; resolution
 

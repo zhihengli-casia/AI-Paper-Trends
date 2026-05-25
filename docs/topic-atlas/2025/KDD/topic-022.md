@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **10** (1.81%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 推荐/检索/排序
 - English keywords: `tree / cover / fair / ranking`
 - Keyword pool: tree; cover; fair; ranking; items; pairwise; decision; mining; rule; spatial; sets; coding
 

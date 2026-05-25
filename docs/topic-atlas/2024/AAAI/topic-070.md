@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **15** (0.64%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / attack / trigger / poisoned`
 - Keyword pool: backdoor; attack; trigger; poisoned; stealthiness; defense; benign; unlearning; client; malicious; success rate; jpeg
 

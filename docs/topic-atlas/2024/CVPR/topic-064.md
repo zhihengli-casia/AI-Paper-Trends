@@ -2,7 +2,7 @@
 
 - Topic ID: `64`
 - Papers: **18** (0.66%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `video / coding / codec / compression`
 - Keyword pool: video; coding; codec; compression; temporal; psnr; entropy; vsr; jpeg; inrs; frames; masked
 

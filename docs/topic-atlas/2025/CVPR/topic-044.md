@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **26** (0.91%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `erasure / concept / unlearning / text-to-image`
 - Keyword pool: erasure; concept; unlearning; text-to-image; erasing; bias; fairness; t2i; attack; harmful; content; unwanted
 

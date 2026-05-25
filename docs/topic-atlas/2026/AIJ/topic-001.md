@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **8** (20.51%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `generalization / extrapolation / mixup / policy`
 - Keyword pool: generalization; extrapolation; mixup; policy; domains; unseen; invariant; fgmix; flatter; source; gradient-based; minima
 

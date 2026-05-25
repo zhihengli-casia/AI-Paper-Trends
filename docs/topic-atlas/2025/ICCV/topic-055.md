@@ -1,8 +1,8 @@
-# ICCV 2025: 多视图聚类与图学习
+# ICCV 2025: 医学影像分析
 
 - Topic ID: `55`
 - Papers: **21** (0.78%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / brain / anatomical / chest`
 - Keyword pool: medical; brain; anatomical; chest; multi-view clustering; voxels; landmark; x-ray; cosmic; kans; disease; report
 

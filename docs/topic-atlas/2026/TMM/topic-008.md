@@ -1,8 +1,8 @@
-# TMM 2026: Mamba 与状态空间视觉模型
+# TMM 2026: 视频动作识别与时序定位
 
 - Topic ID: `8`
 - Papers: **20** (3.37%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `action / temporal / skeleton / kernel`
 - Keyword pool: action; temporal; skeleton; kernel; recognition; bold; emotion; screen; mamba; causal; state-space; motion-aware
 

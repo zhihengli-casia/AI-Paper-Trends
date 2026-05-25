@@ -1,8 +1,8 @@
-# ACMMM 2024: 目标检测与图像分割
+# ACMMM 2024: 图像分割、语义分割与场景解析
 
 - Topic ID: `64`
 - Papers: **8** (0.70%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `industrial / llms / referring / segmentation`
 - Keyword pool: industrial; llms; referring; segmentation; scene; urban; point; multi-object; understanding; clouds; language; primitives
 

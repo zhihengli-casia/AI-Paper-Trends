@@ -1,8 +1,8 @@
-# ECCV 2022: pose / human / estimation / body
+# ECCV 2022: 人体姿态估计与运动理解
 
 - Topic ID: `6`
 - Papers: **37** (2.25%)
-- Macro topic: HCI/社会计算
+- Macro topic: 计算机视觉
 - English keywords: `pose / human / estimation / body`
 - Keyword pool: pose; human; estimation; body; keypoints; joints; motion; multi-person; graph; egocentric; monocular; interaction
 

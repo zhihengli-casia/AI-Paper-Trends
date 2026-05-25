@@ -1,4 +1,4 @@
-# PR 2020: deep / neural networks / 分类 / cnns
+# PR 2020: 卷积网络结构与训练
 
 - Topic ID: `1`
 - Papers: **31** (6.26%)

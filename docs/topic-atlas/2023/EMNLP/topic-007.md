@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **28** (2.67%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `factual / editing / facts / claim`
 - Keyword pool: factual; editing; facts; claim; attribution; consistency; cross-lingual; answer; evidence; verification; multilingual; fact-checking
 

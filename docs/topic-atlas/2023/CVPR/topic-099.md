@@ -2,7 +2,7 @@
 
 - Topic ID: `99`
 - Papers: **10** (0.42%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `frame interpolation / video frame / motion / intermediate`
 - Keyword pool: frame interpolation; video frame; motion; intermediate; frames; bilateral; biformer; discontinuous; inter-frame; interpolated; event-based; pyramid
 

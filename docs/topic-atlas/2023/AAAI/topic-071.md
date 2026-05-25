@@ -1,8 +1,8 @@
-# AAAI 2023: 自动驾驶感知与世界模型
+# AAAI 2023: 人脸分析、表情与属性建模
 
 - Topic ID: `71`
 - Papers: **11** (0.70%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `face / facial / mesh / reconstruction`
 - Keyword pool: face; facial; mesh; reconstruction; dubbing; swapping; deformation; videos; source; driving; poses; identity
 

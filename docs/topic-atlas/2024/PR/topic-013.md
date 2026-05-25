@@ -1,4 +1,4 @@
-# PR 2024: domain adaptation / unsupervised domain / source-free / domain generalization
+# PR 2024: 领域自适应与迁移学习
 
 - Topic ID: `13`
 - Papers: **21** (2.19%)

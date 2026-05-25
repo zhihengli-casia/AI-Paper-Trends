@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **32** (0.60%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / fmri / visual / cortex`
 - Keyword pool: brain; fmri; visual; cortex; cortical; registration; neuroscience; activity; decoding; voxels; representational; stimuli
 

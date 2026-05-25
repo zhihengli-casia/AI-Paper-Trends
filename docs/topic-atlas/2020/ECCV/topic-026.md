@@ -1,8 +1,8 @@
-# ECCV 2020: search / nas / neural architecture / architectures
+# ECCV 2020: 神经架构搜索与模型设计
 
 - Topic ID: `26`
 - Papers: **19** (1.40%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `search / nas / neural architecture / architectures`
 - Keyword pool: search; nas; neural architecture; architectures; binary; one-shot; imagenet; spaces; weights; darts; blocks; shrinking
 

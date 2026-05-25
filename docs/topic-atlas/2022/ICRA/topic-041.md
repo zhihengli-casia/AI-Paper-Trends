@@ -1,4 +1,4 @@
-# ICRA 2022: deformable / shape / deformation / tracking
+# ICRA 2022: 3D 形状重建与隐式表示
 
 - Topic ID: `41`
 - Papers: **11** (1.19%)

@@ -1,8 +1,8 @@
-# ACL 2025: relation / entity / extraction / absa
+# ACL 2025: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `23`
 - Papers: **22** (1.29%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `relation / entity / extraction / absa`
 - Keyword pool: relation; entity; extraction; absa; tables; samples; entities; sql; augmentation; sentiment; few-shot; label
 

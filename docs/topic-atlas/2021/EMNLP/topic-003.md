@@ -1,4 +1,4 @@
-# EMNLP 2021: relation / extraction / entity / entities
+# EMNLP 2021: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `3`
 - Papers: **36** (4.25%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **27** (0.94%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `degradation / dehazing / restoration / all-in-one`
 - Keyword pool: degradation; dehazing; restoration; all-in-one; low-light; removal; hazy; degraded; deraining; turbulence; reflection; old
 

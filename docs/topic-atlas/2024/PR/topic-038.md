@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **12** (1.25%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `clustering / spectral / graph / subspace`
 - Keyword pool: clustering; spectral; graph; subspace; bipartite; factorization; discrete; large-scale; multiple kernel; penalty; learning multiple; dictionary
 

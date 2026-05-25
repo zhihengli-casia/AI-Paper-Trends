@@ -1,8 +1,8 @@
-# CVPR 2025: 语音/音频语言模型
+# CVPR 2025: 音视频多模态理解
 
 - Topic ID: `22`
 - Papers: **31** (1.08%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `segmentation / video / sam / frames`
 - Keyword pool: segmentation; video; sam; frames; amodal; instance; audio-visual; temporal; memory; vos; mask; matting
 

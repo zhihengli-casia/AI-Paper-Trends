@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **22** (9.21%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `generative / adversarial / document / scaling`
 - Keyword pool: generative; adversarial; document; scaling; optimization; dense; search; robustness effectiveness; information retrieval; relevance; attacks; unsupervised
 

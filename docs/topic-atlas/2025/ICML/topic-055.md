@@ -1,8 +1,8 @@
-# ICML 2025: 扩散生成模型
+# ICML 2025: 音乐与音频生成/理解
 
 - Topic ID: `55`
 - Papers: **24** (0.72%)
-- Macro topic: 理论/优化
+- Macro topic: 语音/音频/音乐
 - English keywords: `diffusion / guidance / cfg / score`
 - Keyword pool: diffusion; guidance; cfg; score; memorization; minority; dms; music; composition; images; history; preference
 

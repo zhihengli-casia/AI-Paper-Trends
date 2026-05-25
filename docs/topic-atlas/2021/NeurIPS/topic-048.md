@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **20** (0.86%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / control / policy / mdps`
 - Keyword pool: safety; control; policy; mdps; reinforcement learning; violations; disturbance; time-varying; policies; regret; nonlinear; stabilizing
 

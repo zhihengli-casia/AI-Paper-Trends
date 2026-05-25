@@ -1,8 +1,8 @@
-# ACMMM 2024: 句法语义解析与结构化表示
+# ACMMM 2024: 结构化解析与表示学习
 
 - Topic ID: `8`
 - Papers: **25** (2.18%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `pose estimation / motion / human / parsing`
 - Keyword pool: pose estimation; motion; human; parsing; cartoon; monocular; hand; receptive field; recognition; temporal; shape; clothing
 

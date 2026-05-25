@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **14** (1.13%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `tech / security / qualitative / behavior`
 - Keyword pool: tech; security; qualitative; behavior; informatics; search; safety; workers; change; remote; systematic review; trust
 

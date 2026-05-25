@@ -1,4 +1,4 @@
-# ICRA 2024: language / open-vocabulary / scene / 视觉理解
+# ICRA 2024: 视频动作识别与时序定位
 
 - Topic ID: `31`
 - Papers: **21** (1.21%)

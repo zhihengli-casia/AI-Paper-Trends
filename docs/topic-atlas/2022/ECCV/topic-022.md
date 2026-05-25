@@ -1,8 +1,8 @@
-# ECCV 2022: 语音/音频语言模型
+# ECCV 2022: 视频检索、时刻定位与事件理解
 
 - Topic ID: `22`
 - Papers: **23** (1.40%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `video / retrieval / events / temporal`
 - Keyword pool: video; retrieval; events; temporal; audio; moment; captions; captioning; grounding; tao; query; instructional
 

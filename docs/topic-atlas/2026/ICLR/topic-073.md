@@ -2,7 +2,7 @@
 
 - Topic ID: `73`
 - Papers: **35** (0.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `video / visual / long / token`
 - Keyword pool: video; visual; long; token; keyframe; frames; mllms; compression; training-free; streaming; multimodal language; grounding
 

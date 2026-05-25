@@ -1,8 +1,8 @@
-# CVPR 2023: 语音/音频语言模型
+# CVPR 2023: 人脸分析、表情与属性建模
 
 - Topic ID: `76`
 - Papers: **15** (0.64%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `talking / face / lip / audio`
 - Keyword pool: talking; face; lip; audio; emotion; head; facial; expression; speech; video; vsr; pose
 

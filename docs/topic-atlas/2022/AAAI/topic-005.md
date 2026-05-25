@@ -1,8 +1,8 @@
-# AAAI 2022: 规划搜索与决策推理
+# AAAI 2022: 视频动作识别与时序定位
 
 - Topic ID: `5`
 - Papers: **32** (2.43%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `planning / heuristics / lifted / plans`
 - Keyword pool: planning; heuristics; lifted; plans; planner; problems; classical; search; temporal; algorithm; action; synthesis
 

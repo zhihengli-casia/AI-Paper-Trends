@@ -1,8 +1,8 @@
-# IJCAI 2025: 知识图谱推理与表示学习
+# IJCAI 2025: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `27`
 - Papers: **17** (1.33%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `relation / entity / entities / few-shot`
 - Keyword pool: relation; entity; entities; few-shot; prior distribution; knowledge transfer; knowledge graph; paths; llms; multi-label; intent; prerequisite
 

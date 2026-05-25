@@ -2,7 +2,7 @@
 
 - Topic ID: `105`
 - Papers: **16** (0.48%)
-- Macro topic: HCI/社会计算
+- Macro topic: 可信/安全/公平
 - English keywords: `position / review / ai research / political`
 - Keyword pool: position; review; ai research; political; societal; peer; regulation; ai safety; democratic; consumer; laws; argue
 

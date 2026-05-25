@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **31** (4.51%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 理论/优化
 - English keywords: `graph / logic / reasoning / program`
 - Keyword pool: graph; logic; reasoning; program; gnns; execution; symbolic; code; type; rules; combinatorial; queries
 

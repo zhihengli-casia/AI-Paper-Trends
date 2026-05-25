@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **42** (3.41%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `causal / counterfactual / strategic / treatment`
 - Keyword pool: causal; counterfactual; strategic; treatment; observational; variables; outcomes; effects; fairness; inference; user; confounders
 

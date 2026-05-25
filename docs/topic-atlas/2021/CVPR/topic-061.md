@@ -1,8 +1,8 @@
-# CVPR 2021: 医学影像病灶分析
+# CVPR 2021: 医学影像分割
 
 - Topic ID: `61`
 - Papers: **13** (0.78%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `disease / lesion / medical / surgical`
 - Keyword pool: disease; lesion; medical; surgical; segmentation; diagnosis; clinical; report; progression; mass; partially labeled; image-text matching
 

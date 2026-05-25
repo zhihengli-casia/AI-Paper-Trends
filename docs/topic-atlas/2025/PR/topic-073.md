@@ -1,8 +1,8 @@
-# PR 2025: action recognition / clip / video action / 少样本
+# PR 2025: 视频动作识别与时序定位
 
 - Topic ID: `73`
 - Papers: **9** (0.60%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `action recognition / clip / video action / few-shot`
 - Keyword pool: action recognition; clip; video action; few-shot; adaptation; zero-shot; strengthening; prompting; inertial; compressed video; compositional; adapting
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **23** (3.11%)
-- Macro topic: HCI/社会计算
+- Macro topic: 计算机视觉
 - English keywords: `attention / reading / feature / low`
 - Keyword pool: attention; reading; feature; low; integration; facial; spatial; crowdsourcing; interface; interaction; meetings; individual differences
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **19** (7.95%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / recommendation / news / feedback`
 - Keyword pool: fairness; recommendation; news; feedback; loop; agent; recommender; advertising; sensitive; offline; calibration; reward
 

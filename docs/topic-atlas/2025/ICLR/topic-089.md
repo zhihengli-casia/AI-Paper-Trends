@@ -2,7 +2,7 @@
 
 - Topic ID: `89`
 - Papers: **20** (0.54%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `llms / factuality / faithfulness / attribution`
 - Keyword pool: llms; factuality; faithfulness; attribution; sycophancy; causal; counterfactual; context; medical; bias; surface; unfaithful
 

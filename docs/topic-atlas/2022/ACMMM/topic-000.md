@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **38** (5.50%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `super-resolution / pruning / restoration / degradations`
 - Keyword pool: super-resolution; pruning; restoration; degradations; character; modulation; artifacts; sparsity; unfolded; face; normal; lr images
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `92`
 - Papers: **8** (0.42%)
-- Macro topic: 理论/优化
+- Macro topic: AI4Science/医疗
 - English keywords: `backpropagation / biologically / brain / feedback`
 - Keyword pool: backpropagation; biologically; brain; feedback; plausible; rules; synaptic; inversion; weight; connections; updates; feedforward
 

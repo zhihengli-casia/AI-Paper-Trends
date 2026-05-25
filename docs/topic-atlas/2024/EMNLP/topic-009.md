@@ -1,8 +1,8 @@
-# EMNLP 2024: LLM Agent 与工具使用
+# EMNLP 2024: 智能体决策与多智能体系统
 
 - Topic ID: `9`
 - Papers: **30** (2.37%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `surprisal / reading / brain / communication`
 - Keyword pool: surprisal; reading; brain; communication; comprehension; speakers; randomness; listeners; emergent; agents; cognitive; tom
 

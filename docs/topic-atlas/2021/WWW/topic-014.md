@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **11** (3.10%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / heterogeneity / clients / adaptation`
 - Keyword pool: privacy; heterogeneity; clients; adaptation; personalized; tensor; user modeling; communication; mobile; factorization; personalization; activity
 

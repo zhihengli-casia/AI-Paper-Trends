@@ -1,8 +1,8 @@
-# AAAI 2025: LLM Agent 与工具使用
+# AAAI 2025: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `41`
 - Papers: **27** (0.89%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `games / equilibrium / equilibria / players`
 - Keyword pool: games; equilibrium; equilibria; players; coalition; markets; convergence; symmetries; agents; nash; qre; colonel blotto
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `71`
 - Papers: **17** (0.65%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `policy / reinforcement learning / safe / region`
 - Keyword pool: policy; reinforcement learning; safe; region; initial states; reachable; feasible; policies; convergence; control; implicit bias; gradients
 

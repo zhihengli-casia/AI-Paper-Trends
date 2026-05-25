@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **19** (3.45%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `svm / rules / kernel / tex-math`
 - Keyword pool: svm; rules; kernel; tex-math; inline-formula; sparse; screening; random; support; safe; approximation; numerical
 

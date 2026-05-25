@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **55** (1.03%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `networks / equivariant / symmetry / symmetries`
 - Keyword pool: networks; equivariant; symmetry; symmetries; relu; quantum; width; kolmogorov-arnold; kernel; permutations; canonicalization; equivariance
 

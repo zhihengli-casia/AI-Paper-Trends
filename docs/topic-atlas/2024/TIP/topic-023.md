@@ -1,4 +1,4 @@
-# TIP 2024: action / 图学习 / human / 运动建模
+# TIP 2024: 视频动作识别与时序定位
 
 - Topic ID: `23`
 - Papers: **10** (2.09%)

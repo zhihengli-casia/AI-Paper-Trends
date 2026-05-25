@@ -1,8 +1,8 @@
-# ICCV 2023: 查询理解与检索优化
+# ICCV 2023: 视频检索、时刻定位与事件理解
 
 - Topic ID: `9`
 - Papers: **42** (1.95%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `video / retrieval / moment / grounding`
 - Keyword pool: video; retrieval; moment; grounding; temporal; product; query; answers; content; cross-modal; procedural; matching
 

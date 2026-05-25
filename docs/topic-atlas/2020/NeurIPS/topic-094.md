@@ -2,7 +2,7 @@
 
 - Topic ID: `94`
 - Papers: **8** (0.42%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `graph / attacks / gnns / node`
 - Keyword pool: graph; attacks; gnns; node; defense; adversarial; aggregation; perturbations; edges; importance score; mis-classification; information bottleneck
 

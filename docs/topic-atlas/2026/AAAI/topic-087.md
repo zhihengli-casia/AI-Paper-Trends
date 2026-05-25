@@ -2,7 +2,7 @@
 
 - Topic ID: `87`
 - Papers: **22** (0.53%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `multimodal / mllms / creativity / chart`
 - Keyword pool: multimodal; mllms; creativity; chart; mathematical; financial; table; scientific; education; expressions; metaphor understanding; mer
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **18** (1.44%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `editing / cropping / instruction-based / text-to-image`
 - Keyword pool: editing; cropping; instruction-based; text-to-image; edited; video; image generation; self-attention; multimodal; spatial structure; instructions; user
 

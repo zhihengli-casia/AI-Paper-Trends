@@ -1,8 +1,8 @@
-# ACL 2024: 文档摘要与信息压缩
+# ACL 2024: 摘要生成与信息压缩
 
 - Topic ID: `14`
 - Papers: **22** (2.34%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `summaries / summarization / summary / medical`
 - Keyword pool: summaries; summarization; summary; medical; opinion; reviews; metrics; coreference; sentiment; dialogue; aspect; plain
 

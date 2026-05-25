@@ -1,4 +1,4 @@
-# ICLR 2020: meta-learning / 少样本 / domain / bayesian
+# ICLR 2020: 元学习、MAML 与少样本适应
 
 - Topic ID: `8`
 - Papers: **22** (3.20%)

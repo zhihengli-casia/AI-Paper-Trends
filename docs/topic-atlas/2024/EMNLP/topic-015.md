@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **26** (2.05%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `instruction / tuning / modular / speech`
 - Keyword pool: instruction; tuning; modular; speech; demonstrations; communities; multilingual; response; distillation; alpaca; synthetic; pre-training
 

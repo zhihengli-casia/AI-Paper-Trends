@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **9** (2.06%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `color / exposure / low-light / ldr`
 - Keyword pool: color; exposure; low-light; ldr; dynamic range; separation; contrast; image restoration; hdr; face; mapping; higher average
 

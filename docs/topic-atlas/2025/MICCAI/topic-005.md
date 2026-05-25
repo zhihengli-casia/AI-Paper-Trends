@@ -1,8 +1,8 @@
-# MICCAI 2025: 多模态情感理解
+# MICCAI 2025: 情感识别与多模态情绪理解
 
 - Topic ID: `5`
 - Papers: **7** (10.77%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `fmri / multimodal emotion recognition / eeg / network`
 - Keyword pool: fmri; multimodal emotion recognition; eeg; network; mamba multi-expert; msgflownet learning connectivity; learning brain; multi-level neuroimaging meta-analysis; multi-expert collaboration knowledge; mnm multi-level neuroimaging; meta-analysis hyperbolic brain-text; mambamer adaptive
 

@@ -1,8 +1,8 @@
-# ACL 2020: extraction / open / relation / scientific
+# ACL 2020: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `21`
 - Papers: **15** (1.93%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `extraction / open / relation / scientific`
 - Keyword pool: extraction; open; relation; scientific; facts; citation; document-level; entities; papers; scholarly; academic; texts
 

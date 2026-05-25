@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **21** (1.37%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `graph / community / kernel / curvature`
 - Keyword pool: graph; community; kernel; curvature; manifolds; communities; hyperbolic; matrix; riemannian; sketching; geometric; product
 

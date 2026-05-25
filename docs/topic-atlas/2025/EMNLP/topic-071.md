@@ -2,7 +2,7 @@
 
 - Topic ID: `71`
 - Papers: **13** (0.72%)
-- Macro topic: NLP任务
+- Macro topic: 推荐/检索/排序
 - English keywords: `legal / citation / parser / retrieval`
 - Keyword pool: legal; citation; parser; retrieval; patent; case; thai; law; judgment; facts; texts; claims
 

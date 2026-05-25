@@ -2,7 +2,7 @@
 
 - Topic ID: `106`
 - Papers: **10** (0.37%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 强化学习/决策
 - English keywords: `games / extensive-form / equilibria / regret`
 - Keyword pool: games; extensive-form; equilibria; regret; uncoupled; equilibrium; players; mirror descent; quantum; mediator; learning dynamics; zero-sum
 

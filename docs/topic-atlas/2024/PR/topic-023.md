@@ -1,4 +1,4 @@
-# PR 2024: domain / 图学习 / target / unlabeled
+# PR 2024: 领域自适应与迁移学习
 
 - Topic ID: `23`
 - Papers: **18** (1.87%)

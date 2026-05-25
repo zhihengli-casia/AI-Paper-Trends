@@ -1,8 +1,8 @@
-# ICLR 2026: detection / deepfake / anomaly / forgery
+# ICLR 2026: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `112`
 - Papers: **22** (0.41%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `detection / deepfake / anomaly / forgery`
 - Keyword pool: detection; deepfake; anomaly; forgery; ai-generated; fraud; images; forensic; detectors; specular; normal; gms
 

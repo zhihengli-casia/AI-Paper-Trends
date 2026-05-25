@@ -1,8 +1,8 @@
-# CVPR 2025: 医学影像病灶分析
+# CVPR 2025: 医学影像分割
 
 - Topic ID: `105`
 - Papers: **13** (0.45%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / tumor / vessel / medical`
 - Keyword pool: segmentation; tumor; vessel; medical; brain; imaging; lesion; blood; mri; lung; foundation; modalities
 

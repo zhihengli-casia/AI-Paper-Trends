@@ -1,4 +1,4 @@
-# PR 2026: image / features / state-of-the-art / introduce
+# PR 2026: 人脸分析、表情与属性建模
 
 - Topic ID: `0`
 - Papers: **38** (4.11%)

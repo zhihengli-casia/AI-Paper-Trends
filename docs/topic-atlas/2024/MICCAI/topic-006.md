@@ -1,8 +1,8 @@
-# MICCAI 2024: 目标检测与图像分割
+# MICCAI 2024: 医学影像分割
 
 - Topic ID: `6`
 - Papers: **5** (7.04%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `ultrasound / fetal / musculoskeletal / brain`
 - Keyword pool: ultrasound; fetal; musculoskeletal; brain; segmentation; improving; adjusting; sonographers; scan-path; student-teacher cnn-vit; pubic symphysis; prediction freehand
 

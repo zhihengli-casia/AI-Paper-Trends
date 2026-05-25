@@ -1,8 +1,8 @@
-# NAACL 2024: 文档摘要与信息压缩
+# NAACL 2024: 摘要生成与信息压缩
 
 - Topic ID: `4`
 - Papers: **27** (4.80%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `event / moral / argument / summarization`
 - Keyword pool: event; moral; argument; summarization; news; opinions; political; articles; key; topics; media; essays
 

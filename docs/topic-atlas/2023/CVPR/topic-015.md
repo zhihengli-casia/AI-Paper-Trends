@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **35** (1.49%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `diffusion / shape / nerf / latent`
 - Keyword pool: diffusion; shape; nerf; latent; point; synthesis; generative; denoising; mesh; radiance; rgbd; cloud
 

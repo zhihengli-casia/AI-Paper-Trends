@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **31** (7.71%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 多模态/VLM
 - English keywords: `hashing / semi-supervised / cross-modal / codes`
 - Keyword pool: hashing; semi-supervised; cross-modal; codes; label; class; instances; examples; domain; transfer; discrete; dictionary
 

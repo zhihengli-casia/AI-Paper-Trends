@@ -1,4 +1,4 @@
-# ACMMM 2025: person / identity / 检索 / re-identification
+# ACMMM 2025: 行人重识别与人群计数
 
 - Topic ID: `39`
 - Papers: **14** (1.12%)

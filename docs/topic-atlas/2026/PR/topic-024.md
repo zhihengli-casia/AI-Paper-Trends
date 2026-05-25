@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **17** (1.84%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `low-light / image / enhancement / restoration`
 - Keyword pool: low-light; image; enhancement; restoration; video; dual; universal; transformer; neural; frequency-adaptive; mixing; emphasizing
 

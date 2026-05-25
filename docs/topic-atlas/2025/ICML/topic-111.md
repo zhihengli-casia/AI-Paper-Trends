@@ -2,7 +2,7 @@
 
 - Topic ID: `111`
 - Papers: **15** (0.45%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `emotion / mllms / multimodal / hallucination`
 - Keyword pool: emotion; mllms; multimodal; hallucination; visual; lvlms; conflict; tokens; captions; decoding; vision-language; modality
 

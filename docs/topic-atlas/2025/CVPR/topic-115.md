@@ -1,4 +1,4 @@
-# CVPR 2025: counting / crowd / semi-supervised / detection
+# CVPR 2025: 行人重识别与人群计数
 
 - Topic ID: `115`
 - Papers: **11** (0.38%)

@@ -1,8 +1,8 @@
-# IJCAI 2024: LLM Agent 与工具使用
+# IJCAI 2024: 智能体决策与多智能体系统
 
 - Topic ID: `30`
 - Papers: **16** (1.53%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 强化学习/决策
 - English keywords: `market / revenue / carbon / agents`
 - Keyword pool: market; revenue; carbon; agents; demand; fraud; strategies; federated; trading; strategic; valuation; consumers
 

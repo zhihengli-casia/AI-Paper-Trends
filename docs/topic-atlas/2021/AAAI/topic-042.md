@@ -1,8 +1,8 @@
-# AAAI 2021: 社交媒体与社会计算
+# AAAI 2021: 视频动作识别与时序定位
 
 - Topic ID: `42`
 - Papers: **17** (1.04%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 计算机视觉
 - English keywords: `action / video / temporal / localization`
 - Keyword pool: action; video; temporal; localization; boundary; events; activity; background; grounding; frames; social; untrimmed
 

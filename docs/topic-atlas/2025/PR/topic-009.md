@@ -1,8 +1,8 @@
-# PR 2025: 目标检测与图像分割
+# PR 2025: 医学影像分割
 
 - Topic ID: `9`
 - Papers: **32** (2.12%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / images / semantic / registration`
 - Keyword pool: segmentation; images; semantic; registration; information; medical; state-of-the-art; cell; quality; loss; strategy; classes
 

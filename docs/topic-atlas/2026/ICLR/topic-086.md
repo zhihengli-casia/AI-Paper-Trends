@@ -2,7 +2,7 @@
 
 - Topic ID: `86`
 - Papers: **31** (0.58%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / ptq / qat / bit`
 - Keyword pool: quantization; ptq; qat; bit; quantized; llms; fp4; quantum; post-training; outlier; fp8; ternary
 

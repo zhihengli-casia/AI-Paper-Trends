@@ -1,8 +1,8 @@
-# IJCAI 2025: 文档摘要与信息压缩
+# IJCAI 2025: 摘要生成与信息压缩
 
 - Topic ID: `67`
 - Papers: **10** (0.78%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `reasoning / llms / logical / language`
 - Keyword pool: reasoning; llms; logical; language; summarization; answer; student; chains; thinking; mathematical; abstractive; questions
 

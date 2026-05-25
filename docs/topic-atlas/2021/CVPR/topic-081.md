@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **9** (0.54%)
-- Macro topic: 理论/优化
+- Macro topic: 计算机视觉
 - English keywords: `metric learning / asymmetric / student / teacher`
 - Keyword pool: metric learning; asymmetric; student; teacher; dynamic range; embedding; knowledge transfer; labels; relative; unsupervised; value function; retrieval
 

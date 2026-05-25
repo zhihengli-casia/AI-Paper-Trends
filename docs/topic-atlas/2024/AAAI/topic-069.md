@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **16** (0.69%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `tracking / object / frames / template`
 - Keyword pool: tracking; object; frames; template; tracker; visual; video; motion; multi-modal; appearance; cues; spatio-temporal
 

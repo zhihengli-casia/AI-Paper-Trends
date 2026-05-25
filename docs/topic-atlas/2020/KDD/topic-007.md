@@ -1,8 +1,8 @@
-# KDD 2020: spatial / user / urban / 智能体
+# KDD 2020: 神经架构搜索与模型设计
 
 - Topic ID: `7`
 - Papers: **10** (4.61%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 理论/优化
 - English keywords: `spatial / user / urban / agent`
 - Keyword pool: spatial; user; urban; agent; activity; location; mobility; group; behaviors; traffic; sequential; nas
 

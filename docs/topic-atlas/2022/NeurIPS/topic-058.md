@@ -2,7 +2,7 @@
 
 - Topic ID: `58`
 - Papers: **20** (0.75%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `human / language / explanations / user`
 - Keyword pool: human; language; explanations; user; doctors; patient; concept; feedback; statements; diagnosis; fine-tuning; advice
 

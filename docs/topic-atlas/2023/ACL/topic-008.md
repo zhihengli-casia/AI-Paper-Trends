@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **24** (2.23%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `transformer / positional / sequence / length`
 - Keyword pool: transformer; positional; sequence; length; parallelism; decomposition; autoregressive language; attention; embedding; extrapolation; quantization; functions
 

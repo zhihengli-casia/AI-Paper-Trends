@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **19** (3.51%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `captioning / captions / graph / video`
 - Keyword pool: captioning; captions; graph; video; story; stylized; reasoning; scene; sign; language; sentence; pose
 

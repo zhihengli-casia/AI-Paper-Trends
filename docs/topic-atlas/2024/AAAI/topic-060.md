@@ -1,4 +1,4 @@
-# AAAI 2024: margins / sparsity / dnn / batch
+# AAAI 2024: 归一化、网络层与训练稳定性
 
 - Topic ID: `60`
 - Papers: **18** (0.77%)

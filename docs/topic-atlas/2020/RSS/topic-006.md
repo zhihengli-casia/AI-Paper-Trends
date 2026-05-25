@@ -1,4 +1,4 @@
-# RSS 2020: demonstrations / learning / human / language
+# RSS 2020: 视频动作识别与时序定位
 
 - Topic ID: `6`
 - Papers: **8** (8.16%)

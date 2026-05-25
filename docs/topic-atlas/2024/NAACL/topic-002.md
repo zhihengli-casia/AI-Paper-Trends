@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **31** (5.52%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `cultural / medical / languages / multilingual`
 - Keyword pool: cultural; medical; languages; multilingual; case; law; outcome; variation; political; commonsense; spanish; tone
 

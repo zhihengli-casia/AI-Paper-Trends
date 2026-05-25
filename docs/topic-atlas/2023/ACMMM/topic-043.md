@@ -1,8 +1,8 @@
-# ACMMM 2023: action / recognition / 视频理解/生成 / tokens
+# ACMMM 2023: 视频动作识别与时序定位
 
 - Topic ID: `43`
 - Papers: **10** (1.11%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `action / recognition / video / tokens`
 - Keyword pool: action; recognition; video; tokens; granularity; temporal; multi-view; score; subspace; quality assessment; fourier; matching
 

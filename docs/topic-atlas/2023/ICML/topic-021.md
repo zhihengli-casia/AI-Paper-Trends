@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **25** (1.37%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `sensitivity sampling / gaussian / roughly / bounds`
 - Keyword pool: sensitivity sampling; gaussian; roughly; bounds; simplex; subspace; score; dimension reduction; labels; kernels; random; permutation
 

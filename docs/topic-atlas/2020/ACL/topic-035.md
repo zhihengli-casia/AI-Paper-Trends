@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **11** (1.41%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `dialogue / slot / tracking / multiwoz`
 - Keyword pool: dialogue; slot; tracking; multiwoz; multi-domain; goal-oriented; task-oriented; tracker; synthesized; domains; end-to-end; meta-learning
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **12** (1.49%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `super-resolution / adversarial / composite / video`
 - Keyword pool: super-resolution; adversarial; composite; video; generative; image; recurrent; neural network; versatile; deraining; iterative optimization; longitudinal
 

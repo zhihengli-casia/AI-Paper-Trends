@@ -1,8 +1,8 @@
-# ACL 2025: 文档摘要与信息压缩
+# ACL 2025: 数据摘要、聚类与原型选择
 
 - Topic ID: `28`
 - Papers: **21** (1.24%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `event / news / topic / articles`
 - Keyword pool: event; news; topic; articles; episodes; literary; media; social; summarization; detection; clustering; documents
 

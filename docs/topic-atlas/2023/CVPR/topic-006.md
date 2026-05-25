@@ -1,8 +1,8 @@
-# CVPR 2023: 医疗健康与临床 AI
+# CVPR 2023: 医学影像分割
 
 - Topic ID: `6`
 - Papers: **45** (1.91%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `cell / medical / segmentation / clinical`
 - Keyword pool: cell; medical; segmentation; clinical; cancer; protein; semi-supervised; tumors; slide; labeled; contour; mil
 

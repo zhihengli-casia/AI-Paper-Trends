@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **11** (0.84%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `language / syntactic / brain / word`
 - Keyword pool: language; syntactic; brain; word; lms; pre-training; semantics; syntax; gpt-2; speech; probe; linguistic features
 

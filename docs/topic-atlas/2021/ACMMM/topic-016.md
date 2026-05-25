@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **15** (2.77%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `compatibility / virtual / clothing / fashion`
 - Keyword pool: compatibility; virtual; clothing; fashion; warping; video; item; human-object; editing; modeling; rendering; interactive
 

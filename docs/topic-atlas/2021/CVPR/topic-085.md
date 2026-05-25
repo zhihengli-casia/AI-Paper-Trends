@@ -1,8 +1,8 @@
-# CVPR 2021: 视频动作生成与运动控制
+# CVPR 2021: 视频动作识别与时序定位
 
 - Topic ID: `85`
 - Papers: **9** (0.54%)
-- Macro topic: HCI/社会计算
+- Macro topic: 计算机视觉
 - English keywords: `video / programs / action / human-object`
 - Keyword pool: video; programs; action; human-object; motion; agent; social; goals; nonverbal; beliefs; unintentional; domain experts
 

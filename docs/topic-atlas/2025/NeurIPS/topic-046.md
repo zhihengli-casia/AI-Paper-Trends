@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **43** (0.81%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / backdoor / llms / membership inference`
 - Keyword pool: attacks; backdoor; llms; membership inference; triggers; stealthiness; mias; poisoning; privacy; security; defense; attack success
 

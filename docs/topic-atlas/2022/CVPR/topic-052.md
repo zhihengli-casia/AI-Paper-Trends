@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **18** (0.87%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / clients / privacy / heterogeneity`
 - Keyword pool: federated; clients; privacy; heterogeneity; heterogeneous; private; learning fl; leakage; forgetting; gradient; label noise; personalized
 

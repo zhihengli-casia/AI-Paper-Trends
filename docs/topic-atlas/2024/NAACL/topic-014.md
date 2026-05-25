@@ -1,8 +1,8 @@
-# NAACL 2024: 机器翻译与跨语言对齐
+# NAACL 2024: 跨域转换与序列转换
 
 - Topic ID: `14`
 - Papers: **16** (2.85%)
-- Macro topic: 生成模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `nlg / sentences / emergent / guidelines`
 - Keyword pool: nlg; sentences; emergent; guidelines; references; reference-free; reliable; translation; impact; aspects; ranking; natural language generation
 

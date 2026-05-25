@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **42** (1.95%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / diagnosis / clinical / slide`
 - Keyword pool: medical; diagnosis; clinical; slide; mil; instance; microscopy; patients; ssl; annotations; reports; progression
 

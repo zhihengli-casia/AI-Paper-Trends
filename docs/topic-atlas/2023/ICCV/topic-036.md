@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **26** (1.21%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `compression / pruning / underwater / video`
 - Keyword pool: compression; pruning; underwater; video; data-free; quantization; coding; compass; screen; implicit neural; neural networks; ratio
 

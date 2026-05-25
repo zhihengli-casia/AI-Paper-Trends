@@ -1,8 +1,8 @@
-# COLM 2024: 文档摘要与信息压缩
+# COLM 2024: 摘要生成与信息压缩
 
 - Topic ID: `9`
 - Papers: **13** (4.35%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `korean / error / domain-specific / pretraining`
 - Keyword pool: korean; error; domain-specific; pretraining; detection; tabular; summarization; does; incomplete; claude; detectors; navigation
 

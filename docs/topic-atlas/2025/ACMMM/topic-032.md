@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **17** (1.36%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `pathological / clinical / wsi / cancer`
 - Keyword pool: pathological; clinical; wsi; cancer; infinite; pre-training; prediction; anatomical; tissue; dual-modality; nuclei; medical
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **9** (1.25%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `molecular / interaction / prediction / patient`
 - Keyword pool: molecular; interaction; prediction; patient; recommendation; combinations; medications; message; events; self-supervised; multimodal; neural network
 

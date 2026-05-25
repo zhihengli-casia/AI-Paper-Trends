@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **13** (18.31%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / graph / functional / networks`
 - Keyword pool: brain; graph; functional; networks; structural; connectome; representation; hierarchical; contrastive; local; mind; mappings
 

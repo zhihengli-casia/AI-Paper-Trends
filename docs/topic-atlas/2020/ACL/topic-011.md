@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **20** (2.57%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `cross-lingual / multilingual / languages / monolingual`
 - Keyword pool: cross-lingual; multilingual; languages; monolingual; transfer; code-switched; masked language; bert xlnet; sentiment; summarization; embeddings; parallel
 

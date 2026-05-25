@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **18** (5.68%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `item / drug / detection / autoencoder`
 - Keyword pool: item; drug; detection; autoencoder; representation; markets; discrete; unsupervised; continuous; traffic; adversarial; retrieval
 

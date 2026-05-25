@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **21** (3.04%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `retrieval / moment / videos / query`
 - Keyword pool: retrieval; moment; videos; query; clips; video-text; high-level semantics; relevant; summarization; audio-visual; question; zero-shot
 

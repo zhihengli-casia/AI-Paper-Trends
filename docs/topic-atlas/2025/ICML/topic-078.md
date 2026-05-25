@@ -2,7 +2,7 @@
 
 - Topic ID: `78`
 - Papers: **19** (0.57%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `cad / visual / generative / images`
 - Keyword pool: cad; visual; generative; images; vision-language; scene; text-based; multimodal; t2i; text-to-image; person; objects
 

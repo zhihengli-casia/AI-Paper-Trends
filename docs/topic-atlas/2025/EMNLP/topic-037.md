@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **19** (1.05%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `rag / retrieval-augmented generation / passages / retrievers`
 - Keyword pool: rag; retrieval-augmented generation; passages; retrievers; document; rms; query; retrieved; distracting; anic; rerankers; adaptive retrieval
 

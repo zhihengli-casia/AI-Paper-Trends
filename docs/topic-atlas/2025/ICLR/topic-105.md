@@ -2,7 +2,7 @@
 
 - Topic ID: `105`
 - Papers: **17** (0.46%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `speculative / draft / decoding / verification`
 - Keyword pool: speculative; draft; decoding; verification; llm inference; sampling; acceptance; cascades; speedup; tokens; target; generative recommendation
 

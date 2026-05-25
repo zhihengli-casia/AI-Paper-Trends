@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **27** (2.57%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `moderation / online / communities / content`
 - Keyword pool: moderation; online; communities; content; social; consumer; internet; survey; policies; self-efficacy; financial; fairness
 

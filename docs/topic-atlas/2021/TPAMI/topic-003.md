@@ -1,4 +1,4 @@
-# TPAMI 2021: face / makeup / facial / identity
+# TPAMI 2021: 人脸分析、表情与属性建模
 
 - Topic ID: `3`
 - Papers: **27** (4.90%)

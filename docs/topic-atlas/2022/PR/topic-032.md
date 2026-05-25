@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **9** (1.37%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attack / black-box / example`
 - Keyword pool: adversarial; attack; black-box; example; deep neural networks; corruptions; recognize; frequency; query; sampling; few-shot; common
 

@@ -1,8 +1,8 @@
-# ICLR 2026: 病理图像与临床 AI
+# ICLR 2026: 医学影像分割
 
 - Topic ID: `50`
 - Papers: **44** (0.82%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / clinical / ultrasound / segmentation`
 - Keyword pool: medical; clinical; ultrasound; segmentation; imaging; pathology; diagnosis; disease; vqa; visual; tumor; multimodal
 

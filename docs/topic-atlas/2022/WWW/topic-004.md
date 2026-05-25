@@ -1,8 +1,8 @@
-# WWW 2022: LLM Agent 与工具使用
+# WWW 2022: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `4`
 - Papers: **25** (6.87%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 推荐/检索/排序
 - English keywords: `optimal / advertising / revenue / allocation`
 - Keyword pool: optimal; advertising; revenue; allocation; agents; welfare; ads; price; two-stage; equilibrium; objectives; click-through
 

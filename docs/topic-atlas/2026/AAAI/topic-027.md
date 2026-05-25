@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **48** (1.16%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `video / audio-visual / mllms / multimodal`
 - Keyword pool: video; audio-visual; mllms; multimodal; segmentation; question; egocentric; causal; preference; object; event; vqa
 

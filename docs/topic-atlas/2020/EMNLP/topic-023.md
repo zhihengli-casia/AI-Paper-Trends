@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **14** (1.86%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `graph / reasoning / multi-hop / paths`
 - Keyword pool: graph; reasoning; multi-hop; paths; commonsense; kgs; knowledge-aware; sparse; dialogue; completion; nodes; edges
 

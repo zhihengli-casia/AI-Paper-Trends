@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **13** (2.40%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `video / streaming / bandwidth / cloud`
 - Keyword pool: video; streaming; bandwidth; cloud; rate control; degree; mobile; users; transmission; web; game; frame
 

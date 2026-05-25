@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **31** (0.84%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / autoregressive / visual / tokens`
 - Keyword pool: video; autoregressive; visual; tokens; image generation; diffusion; decoding; text-to-image; quantization; echo; compression; speculative
 

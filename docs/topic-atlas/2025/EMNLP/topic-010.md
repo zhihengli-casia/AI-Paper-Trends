@@ -1,8 +1,8 @@
-# EMNLP 2025: 语音/音频语言模型
+# EMNLP 2025: 音频理解与生成
 
 - Topic ID: `10`
 - Papers: **29** (1.60%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `attack / adversarial / defense / injection`
 - Keyword pool: attack; adversarial; defense; injection; malicious; prompt; rag; detection; audio; agents; vulnerabilities; backdoor
 

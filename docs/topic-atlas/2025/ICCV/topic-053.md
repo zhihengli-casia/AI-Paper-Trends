@@ -1,8 +1,8 @@
-# ICCV 2025: 语音/音频语言模型
+# ICCV 2025: 音视频多模态理解
 
 - Topic ID: `53`
 - Papers: **22** (0.81%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 多模态/VLM
 - English keywords: `audio-visual / speech / acoustic / sound`
 - Keyword pool: audio-visual; speech; acoustic; sound; segmentation; audio visual; context modeling; visual cues; peripheral information; semantic context; facial; languages
 

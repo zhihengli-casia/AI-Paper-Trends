@@ -1,8 +1,8 @@
-# EMNLP 2021: 语音/音频语言模型
+# EMNLP 2021: 语音理解、识别与交互
 
 - Topic ID: `21`
 - Papers: **15** (1.77%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `probing / marginal / robustness / word embeddings`
 - Keyword pool: probing; marginal; robustness; word embeddings; bert; information-theoretic; regions; dimensions; bayesian; properties; measures; part-of-speech
 

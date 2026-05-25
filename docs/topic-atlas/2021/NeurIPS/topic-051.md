@@ -1,8 +1,8 @@
-# NeurIPS 2021: 搜索排序与相关性建模
+# NeurIPS 2021: 神经架构搜索与模型设计
 
 - Topic ID: `51`
 - Papers: **20** (0.86%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 推荐/检索/排序
 - English keywords: `search / architecture / latency / supernet`
 - Keyword pool: search; architecture; latency; supernet; predictors; graph; nas-bench-101; lists; downstream; early; ranking; parallelism
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **18** (1.12%)
-- Macro topic: 理论/优化
+- Macro topic: AI4Science/医疗
 - English keywords: `domain / generalization / shift / diagnosis`
 - Keyword pool: domain; generalization; shift; diagnosis; unseen; distribution; calibration; disease; augmentation; diversity; uda; pre-training
 

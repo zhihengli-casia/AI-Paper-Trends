@@ -1,8 +1,8 @@
-# ACMMM 2021: 目标检测与图像分割
+# ACMMM 2021: 领域自适应与迁移学习
 
 - Topic ID: `0`
 - Papers: **41** (7.56%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `domain / adaptation / source / classes`
 - Keyword pool: domain; adaptation; source; classes; segmentation; few-shot; shift; event; adversarial; transferable; matching; counting
 

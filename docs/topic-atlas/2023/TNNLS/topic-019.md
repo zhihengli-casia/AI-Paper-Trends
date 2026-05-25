@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **20** (1.95%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `eeg / brain / emotion / bci`
 - Keyword pool: eeg; brain; emotion; bci; ecg; imagery; signals; diagnosis; spatial; temporal; graph; motor
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **21** (0.90%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `reasoning / graph / visual / transformer`
 - Keyword pool: reasoning; graph; visual; transformer; systematic generalization; attention; physics; architecture; physical; stitching; interpreters; brain
 

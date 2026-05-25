@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **15** (0.82%)
-- Macro topic: 理论/优化
+- Macro topic: 推荐/检索/排序
 - English keywords: `loss / ranking / classification / learner`
 - Keyword pool: loss; ranking; classification; learner; cross-entropy; adaboost; consistency bounds; square; manipulations; imbalance; negative; classifier
 

@@ -1,8 +1,8 @@
-# NAACL 2024: 句法语义解析与结构化表示
+# NAACL 2024: 结构化解析与表示学习
 
 - Topic ID: `8`
 - Papers: **18** (3.20%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `in-context / demonstrations / parsing / uncertainty`
 - Keyword pool: in-context; demonstrations; parsing; uncertainty; calibration; low-resource; languages; examples; sensitivity; few-shot; gec; memorized
 

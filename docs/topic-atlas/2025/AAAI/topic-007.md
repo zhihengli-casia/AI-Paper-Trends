@@ -1,8 +1,8 @@
-# AAAI 2025: 文档摘要与信息压缩
+# AAAI 2025: 视频摘要与精彩片段检测
 
 - Topic ID: `7`
 - Papers: **52** (1.72%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `video / audio-visual / event / moment`
 - Keyword pool: video; audio-visual; event; moment; captioning; temporal; retrieval; untrimmed; frames; cross-modal; grounding; summarization
 

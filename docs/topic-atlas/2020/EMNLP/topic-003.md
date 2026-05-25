@@ -1,4 +1,4 @@
-# EMNLP 2020: entity / entities / ner / linking
+# EMNLP 2020: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `3`
 - Papers: **37** (4.93%)

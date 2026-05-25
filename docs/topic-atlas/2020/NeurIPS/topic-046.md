@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **17** (0.90%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `robustness / verification / relaxation / certified`
 - Keyword pool: robustness; verification; relaxation; certified; sdp; adversarial; certificate; lipschitz; certification; certifiable; perturbations; bound
 

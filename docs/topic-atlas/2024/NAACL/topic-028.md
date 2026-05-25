@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **10** (1.78%)
-- Macro topic: 生成模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `diffusion / autoregressive / audio / noise`
 - Keyword pool: diffusion; autoregressive; audio; noise; image-to-text; embedding; time; control; captions; flow; sequence-to-sequence; transformer
 

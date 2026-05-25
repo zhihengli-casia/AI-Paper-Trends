@@ -1,8 +1,8 @@
-# CVPR 2024: 语音/音频语言模型
+# CVPR 2024: 音视频多模态理解
 
 - Topic ID: `39`
 - Papers: **28** (1.03%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 多模态/VLM
 - English keywords: `audio-visual / speech / sound / acoustic`
 - Keyword pool: audio-visual; speech; sound; acoustic; video; avs; modality; egocentric; audio visual; localization; modalities; multi-source
 

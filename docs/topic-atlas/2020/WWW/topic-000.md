@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **39** (12.30%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `security / privacy / apps / ads`
 - Keyword pool: security; privacy; apps; ads; ecosystem; tracking; sensitive; iot; developers; mobile; internet; browsing
 

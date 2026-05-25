@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **20** (5.39%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / privacy / attack / clients`
 - Keyword pool: federated; privacy; attack; clients; edge; devices; local; trust; poisoning; servers; accounts; membership
 

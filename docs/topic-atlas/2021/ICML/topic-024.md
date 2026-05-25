@@ -1,4 +1,4 @@
-# ICML 2021: nas / search / architecture / accelerators
+# ICML 2021: 神经架构搜索与模型设计
 
 - Topic ID: `24`
 - Papers: **19** (1.61%)

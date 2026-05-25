@@ -2,7 +2,7 @@
 
 - Topic ID: `121`
 - Papers: **19** (0.36%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / clinical / patient / llms`
 - Keyword pool: medical; clinical; patient; llms; mental; diagnostic; health; questions; agentic; decision-making; diagnosis; abstention
 

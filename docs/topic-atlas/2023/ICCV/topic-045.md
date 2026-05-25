@@ -1,4 +1,4 @@
-# ICCV 2023: face recognition / gaze / skin / gender
+# ICCV 2023: 人脸分析、表情与属性建模
 
 - Topic ID: `45`
 - Papers: **22** (1.02%)

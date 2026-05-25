@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **45** (2.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `long-context / compression / document / attention`
 - Keyword pool: long-context; compression; document; attention; long context; window; length; positional; memory; retrieval; chunks; passage
 

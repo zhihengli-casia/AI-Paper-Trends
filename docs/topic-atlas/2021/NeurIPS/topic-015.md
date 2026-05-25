@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **37** (1.59%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 推荐/检索/排序
 - English keywords: `active learning / label / ssl / acquisition`
 - Keyword pool: active learning; label; ssl; acquisition; learner; teaching; examples; weak; semi-supervised learning; fpr; instances; ranking
 

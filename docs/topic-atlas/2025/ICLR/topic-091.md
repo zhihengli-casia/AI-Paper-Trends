@@ -2,7 +2,7 @@
 
 - Topic ID: `91`
 - Papers: **19** (0.51%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `unlearning / memorization / detoxification / llms`
 - Keyword pool: unlearning; memorization; detoxification; llms; unlearned; unlearnable; privacy; memorized; machine; forget; verbatim; copyrighted
 

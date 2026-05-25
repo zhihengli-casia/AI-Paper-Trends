@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **17** (1.62%)
-- Macro topic: HCI/社会计算
+- Macro topic: 计算机视觉
 - English keywords: `think / targeted / platform / want`
 - Keyword pool: think; targeted; platform; want; barriers; users; video; tool; online; social; identity-based; signals
 

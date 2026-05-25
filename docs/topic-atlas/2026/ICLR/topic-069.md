@@ -1,8 +1,8 @@
-# ICLR 2026: 对抗攻击、鲁棒性与安全
+# ICLR 2026: 语音识别与语音理解
 
 - Topic ID: `69`
 - Papers: **36** (0.67%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `jailbreak / attacks / safety / llms`
 - Keyword pool: jailbreak; attacks; safety; llms; harmful; attack success; adversarial; red-teaming; asr; multi-turn; vulnerabilities; malicious
 

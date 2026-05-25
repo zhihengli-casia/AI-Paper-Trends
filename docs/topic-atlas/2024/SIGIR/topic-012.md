@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **8** (3.74%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `recommendation / long-term / poi / reward`
 - Keyword pool: recommendation; long-term; poi; reward; recommender; users; latent; exploration; actions; preferences; learning rl; reinforcement
 

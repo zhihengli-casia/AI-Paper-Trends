@@ -1,4 +1,4 @@
-# IJCAI 2022: style / images / generative / creative
+# IJCAI 2022: GAN 与图像生成
 
 - Topic ID: `7`
 - Papers: **25** (2.90%)

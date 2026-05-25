@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **28** (1.48%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `scene / object / video / images`
 - Keyword pool: scene; object; video; images; spatial; visual; views; generative; representations; contact; frame; pose
 

@@ -1,8 +1,8 @@
-# COLM 2025: 多语言建模与跨语言迁移
+# COLM 2025: 机器翻译与跨语言对齐
 
 - Topic ID: `3`
 - Papers: **31** (7.42%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `translation / multilingual / writing / quality`
 - Keyword pool: translation; multilingual; writing; quality; criteria; languages; benchmarking; machine; crosslingual; discourse; speech; diversity
 

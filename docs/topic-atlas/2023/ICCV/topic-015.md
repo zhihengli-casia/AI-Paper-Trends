@@ -1,4 +1,4 @@
-# ICCV 2023: labels / ssl / 长尾 / class
+# ICCV 2023: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `15`
 - Papers: **38** (1.76%)

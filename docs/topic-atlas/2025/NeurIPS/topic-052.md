@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **41** (0.78%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: AI4Science/医疗
 - English keywords: `rnns / synaptic / brain / recurrent neural`
 - Keyword pool: rnns; synaptic; brain; recurrent neural; plasticity; cells; neural networks; biological; learning rules; memories; neuroscience; activity
 

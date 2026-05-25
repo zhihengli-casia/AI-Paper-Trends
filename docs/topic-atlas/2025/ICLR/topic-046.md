@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **28** (0.76%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `llms / long-context / documents / retrieval`
 - Keyword pool: llms; long-context; documents; retrieval; long context; long-term memory; length; multi-table; reasoning; sensitive information; question answering; rag
 

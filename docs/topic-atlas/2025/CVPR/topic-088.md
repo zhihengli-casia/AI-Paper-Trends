@@ -2,7 +2,7 @@
 
 - Topic ID: `88`
 - Papers: **15** (0.52%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `anatomical / vascular / mri / angiography`
 - Keyword pool: anatomical; vascular; mri; angiography; blood; imaging; anatomy; scanning; tomography; clinical; vessels; probe
 

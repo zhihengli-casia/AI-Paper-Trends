@@ -1,8 +1,8 @@
-# ACMMM 2024: 医学影像病灶分析
+# ACMMM 2024: 医学影像分割
 
 - Topic ID: `31`
 - Papers: **16** (1.39%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical / diagnosis / cancer`
 - Keyword pool: segmentation; medical; diagnosis; cancer; classification; sam; unlabeled; anatomical; spatial; lesion; domain generalization; boundary
 

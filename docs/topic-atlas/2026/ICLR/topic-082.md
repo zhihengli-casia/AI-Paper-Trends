@@ -2,7 +2,7 @@
 
 - Topic ID: `82`
 - Papers: **32** (0.60%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `diffusion / inverse problems / imaging / medical`
 - Keyword pool: diffusion; inverse problems; imaging; medical; posterior; reconstruction; score-based; measurements; computed tomography; admm; priors; clean
 

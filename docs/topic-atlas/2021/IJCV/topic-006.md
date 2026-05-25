@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **9** (6.77%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 计算机视觉
 - English keywords: `tracking / object / channel / multiple`
 - Keyword pool: tracking; object; channel; multiple; filters; accuracy; motion; camera; adaptive; videos; correlation; number
 

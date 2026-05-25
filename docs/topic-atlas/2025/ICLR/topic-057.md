@@ -1,8 +1,8 @@
-# ICLR 2025: 随机优化与收敛理论
+# ICLR 2025: 神经架构搜索与模型设计
 
 - Topic ID: `57`
 - Papers: **26** (0.70%)
-- Macro topic: LLM/语言模型
+- Macro topic: 理论/优化
 - English keywords: `adam / optimizer / shampoo / gradient`
 - Keyword pool: adam; optimizer; shampoo; gradient; symbolic regression; coresets; nas; spikes; momentum; preconditioning; sgd; backpropagation
 

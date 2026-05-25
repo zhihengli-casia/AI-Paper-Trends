@@ -1,4 +1,4 @@
-# ECCV 2020: reid / person re-identification / domain / unsupervised
+# ECCV 2020: 领域自适应与迁移学习
 
 - Topic ID: `37`
 - Papers: **15** (1.10%)

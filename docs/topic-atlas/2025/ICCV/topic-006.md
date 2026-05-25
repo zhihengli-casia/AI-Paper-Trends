@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **54** (2.00%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `depth / stereo / monocular / matching`
 - Keyword pool: depth; stereo; monocular; matching; estimation; camera; completion; disparity; geometric; mde; reconstruction; scene
 

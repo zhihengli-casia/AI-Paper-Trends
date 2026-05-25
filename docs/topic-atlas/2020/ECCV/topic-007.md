@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **29** (2.14%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `attack / adversarial / defense / black-box`
 - Keyword pool: attack; adversarial; defense; black-box; perturbations; robustness; examples; success rate; neural networks; clean; deep neural; targeted
 

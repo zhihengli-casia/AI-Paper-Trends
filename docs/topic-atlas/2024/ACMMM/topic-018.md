@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **20** (1.74%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `watermark / diffusion / hiding / attacks`
 - Keyword pool: watermark; diffusion; hiding; attacks; security; deepfake; message; generative; backdoor; cover; ai-generated; latent
 

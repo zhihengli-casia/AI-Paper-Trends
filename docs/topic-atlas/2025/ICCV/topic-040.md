@@ -1,4 +1,4 @@
-# ICCV 2025: pose / body / estimation / fitting
+# ICCV 2025: 人体姿态估计与运动理解
 
 - Topic ID: `40`
 - Papers: **25** (0.93%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **16** (0.94%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / leakage / private / contextual knowledge`
 - Keyword pool: privacy; leakage; private; contextual knowledge; parametric knowledge; decentralized; pii; unlearning; awareness; protection; attacks; obfuscation
 

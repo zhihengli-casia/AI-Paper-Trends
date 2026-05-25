@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **18** (1.00%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `kgs / graph / kgqa / knowledge base`
 - Keyword pool: kgs; graph; kgqa; knowledge base; question answering; retrieval; kgc; entity; query; structured knowledge; external knowledge; relational
 

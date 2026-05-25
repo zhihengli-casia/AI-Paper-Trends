@@ -2,7 +2,7 @@
 
 - Topic ID: `122`
 - Papers: **18** (0.34%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `visual / brain / neuroscience / fmri`
 - Keyword pool: visual; brain; neuroscience; fmri; stimulus; cortex; stimuli; predictive coding; sensory; neural decoding; activity; bayesian
 

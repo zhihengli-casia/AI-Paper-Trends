@@ -1,8 +1,8 @@
-# ACMMM 2020: 机器翻译与跨语言对齐
+# ACMMM 2020: 领域自适应与迁移学习
 
 - Topic ID: `8`
 - Papers: **19** (4.02%)
-- Macro topic: NLP任务
+- Macro topic: 可信/安全/公平
 - English keywords: `domain / adaptation / shape / source`
 - Keyword pool: domain; adaptation; shape; source; retrieval; translation; alignment; classifier; adversarial; normal; image-to-image; transfer
 

@@ -1,8 +1,8 @@
-# ACMMM 2025: 机器翻译与跨语言对齐
+# ACMMM 2025: 医学影像分割
 
 - Topic ID: `37`
 - Papers: **14** (1.12%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `latent / age / ldm / mri`
 - Keyword pool: latent; age; ldm; mri; anatomical; x-ray; semantic segmentation; augmentation; lesion; low-light; reconstruction; translation
 

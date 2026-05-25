@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **46** (4.79%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical image / cancer / semi-supervised`
 - Keyword pool: segmentation; medical image; cancer; semi-supervised; tumor; classification; brain; u-net; ultrasound; region-aware; multi-modal; collaborative
 

@@ -1,8 +1,8 @@
-# NeurIPS 2020: 目标检测与图像分割
+# NeurIPS 2020: 医学影像分割
 
 - Topic ID: `59`
 - Papers: **15** (0.79%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `domain / adaptation / target / source`
 - Keyword pool: domain; adaptation; target; source; unsupervised; medical; label; spurious; semantic segmentation; shift; style; heuristic
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **26** (8.41%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `knowledge / entity / graphs / embedding`
 - Keyword pool: knowledge; entity; graphs; embedding; detection; resolution; explainable; discovery; deep; learning; modeling; programming
 

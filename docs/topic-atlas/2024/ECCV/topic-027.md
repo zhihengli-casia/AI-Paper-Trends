@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **27** (1.13%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `diffusion / point / depth / cloud`
 - Keyword pool: diffusion; point; depth; cloud; denoising; shape; reconstruction; x-rays; estimation; monocular; tree; aware
 

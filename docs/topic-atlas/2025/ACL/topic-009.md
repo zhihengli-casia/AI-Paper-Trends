@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **32** (1.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `clinical / medical / patient / report generation`
 - Keyword pool: clinical; medical; patient; report generation; diagnostic; reports; health; diagnosis; trial; coding; extraction; disease
 

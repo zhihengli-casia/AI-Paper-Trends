@@ -1,8 +1,8 @@
-# ACL 2022: 多语言建模与跨语言迁移
+# ACL 2022: 机器翻译与跨语言对齐
 
 - Topic ID: `10`
 - Papers: **24** (3.43%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `cross-lingual / multilingual / transfer / entity`
 - Keyword pool: cross-lingual; multilingual; transfer; entity; monolingual; translation; low-resource; word; retrieval; kbs; contrastive; phrase
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **25** (1.37%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `language / lms / reasoning / prompt`
 - Keyword pool: language; lms; reasoning; prompt; generation; human; genie; in-context; irrelevant; preferences; dialogue; chain-of-thought
 

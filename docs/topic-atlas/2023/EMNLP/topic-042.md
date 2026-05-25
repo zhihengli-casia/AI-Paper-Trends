@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **10** (0.96%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `long / pushdown / compression / vectors`
 - Keyword pool: long; pushdown; compression; vectors; inference; summary; layers; tokens; transformer; compressing; self-attention; documents
 

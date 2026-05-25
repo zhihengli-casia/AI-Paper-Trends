@@ -2,7 +2,7 @@
 
 - Topic ID: `126`
 - Papers: **13** (0.39%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / harmful / refusal / alignment`
 - Keyword pool: safety; harmful; refusal; alignment; llms; usefulness; attacks; delta; fine-tuning; jailbreak; unsafe; directions
 

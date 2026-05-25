@@ -1,8 +1,8 @@
-# ACL 2023: 文档摘要与信息压缩
+# ACL 2023: 摘要生成与信息压缩
 
 - Topic ID: `18`
 - Papers: **19** (1.77%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `summarization / summaries / meeting / abstractive`
 - Keyword pool: summarization; summaries; meeting; abstractive; simplification; summary; cross-lingual; extractive; cnn; cls; dailymail; multimodal
 

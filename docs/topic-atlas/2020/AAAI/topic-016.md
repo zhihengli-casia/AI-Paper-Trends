@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **25** (1.56%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `stochastic / mcmc / sampling / kernel`
 - Keyword pool: stochastic; mcmc; sampling; kernel; gradient; variational; newton; langevin; sparse; screening; samples; low-rank
 

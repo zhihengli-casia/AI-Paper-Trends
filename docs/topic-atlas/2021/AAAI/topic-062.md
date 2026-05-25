@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **13** (0.79%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `communication / sgd / distributed / gradient`
 - Keyword pool: communication; sgd; distributed; gradient; compression; frank-wolfe; decentralized; balancing; stochastic; pac learning; asynchronous; convergence
 

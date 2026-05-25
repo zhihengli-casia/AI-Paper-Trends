@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **40** (1.24%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `sgd / convergence / adam / sam`
 - Keyword pool: sgd; convergence; adam; sam; descent; matrix; diagonal; optimizer; rank-1; linear; stepsizes; implicit bias
 

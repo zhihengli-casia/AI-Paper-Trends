@@ -1,8 +1,8 @@
-# MICCAI 2020: 目标检测与图像分割
+# MICCAI 2020: 医学影像分割
 
 - Topic ID: `4`
 - Papers: **9** (11.25%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `mri / domain adaptation / uncertainty / cartilage segmentation`
 - Keyword pool: mri; domain adaptation; uncertainty; cartilage segmentation; information; sparse; image segmentation; regularise semantic segmentation; segmentation high-resolution micro-ct; probabilistic; prostate; segmentation knee
 

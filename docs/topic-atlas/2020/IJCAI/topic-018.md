@@ -1,8 +1,8 @@
-# IJCAI 2020: 文档摘要与信息压缩
+# IJCAI 2020: 摘要生成与信息压缩
 
 - Topic ID: `18`
 - Papers: **16** (2.06%)
-- Macro topic: 生成模型
+- Macro topic: NLP任务
 - English keywords: `generation / style / summarization / chinese`
 - Keyword pool: generation; style; summarization; chinese; triples; syntactic; english; language; texts; pre-training; temporal; content
 

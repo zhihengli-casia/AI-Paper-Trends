@@ -2,7 +2,7 @@
 
 - Topic ID: `73`
 - Papers: **14** (0.65%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `graph generation / sgg / scene / relation`
 - Keyword pool: graph generation; sgg; scene; relation; predicate; unbiased; traffic; imbalance; cgg; graphs; co-occurrence; panoptic
 

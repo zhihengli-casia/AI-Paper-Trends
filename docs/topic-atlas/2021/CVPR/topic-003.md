@@ -1,8 +1,8 @@
-# CVPR 2021: search / nas / neural architecture / scaling
+# CVPR 2021: 神经架构搜索与模型设计
 
 - Topic ID: `3`
 - Papers: **40** (2.41%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `search / nas / neural architecture / scaling`
 - Keyword pool: search; nas; neural architecture; scaling; topology; ensemble; architectures; supernet; imagenet; memory; flops; dnns
 

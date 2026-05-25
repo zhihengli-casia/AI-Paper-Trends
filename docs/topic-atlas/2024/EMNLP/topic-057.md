@@ -1,8 +1,8 @@
-# EMNLP 2024: 语音/音频语言模型
+# EMNLP 2024: 语音与音频对抗攻击
 
 - Topic ID: `57`
 - Papers: **10** (0.79%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `attacks / copyrighted / paraphrasing / green`
 - Keyword pool: attacks; copyrighted; paraphrasing; green; robust; audio; infringe; lists; verifiability; neural; articles; content
 

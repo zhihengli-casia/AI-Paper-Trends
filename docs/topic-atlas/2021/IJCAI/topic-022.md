@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **16** (2.22%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `policy / variance / value / reinforcement`
 - Keyword pool: policy; variance; value; reinforcement; mcts; trust; games; model-based; region; criterion; gradient; variational
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **13** (2.69%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `spatial / online / cross / instant`
 - Keyword pool: spatial; online; cross; instant; video analytics; urban; trends; trade-off; toolkit; smart; sensing; pooling
 

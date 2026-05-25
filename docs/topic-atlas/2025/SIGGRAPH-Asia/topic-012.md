@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **9** (4.69%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `estimation / single-image / lighting / face`
 - Keyword pool: estimation; single-image; lighting; face; uncertainty; feature distillation; prediction; camera; video generation; priors; portrait; generative
 

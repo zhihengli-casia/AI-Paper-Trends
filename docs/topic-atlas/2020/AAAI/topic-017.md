@@ -1,8 +1,8 @@
-# AAAI 2020: 机器翻译与跨语言对齐
+# AAAI 2020: 领域自适应与迁移学习
 
 - Topic ID: `17`
 - Papers: **25** (1.56%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `domain / adaptation / target / source`
 - Keyword pool: domain; adaptation; target; source; sentiment; adversarial; unsupervised; feature; translation; classifier; labeled; discriminator
 

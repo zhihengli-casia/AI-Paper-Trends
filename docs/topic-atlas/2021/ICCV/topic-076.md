@@ -2,7 +2,7 @@
 
 - Topic ID: `76`
 - Papers: **10** (0.62%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `pose / category-level / objects / estimation`
 - Keyword pool: pose; category-level; objects; estimation; graph; self-occlusion; rgb image; point; refinement; single rgb; convolutional network; rgb-d
 

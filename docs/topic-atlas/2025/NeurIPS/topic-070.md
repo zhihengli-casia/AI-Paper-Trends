@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **35** (0.66%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `hallucination / visual / contrastive decoding / lvlms`
 - Keyword pool: hallucination; visual; contrastive decoding; lvlms; reasoning; mllms; preference; multimodal; tokens; vision-language; multi-image; object
 

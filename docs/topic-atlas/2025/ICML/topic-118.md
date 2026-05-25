@@ -1,8 +1,8 @@
-# ICML 2025: domain / uda / adaptation / label
+# ICML 2025: 领域自适应与迁移学习
 
 - Topic ID: `118`
 - Papers: **14** (0.42%)
-- Macro topic: 生成模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `domain / uda / adaptation / label`
 - Keyword pool: domain; uda; adaptation; label; source; alignment; classes; shifts; channel-wise; flatter; kind; quantization
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **12** (1.69%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `multilingual / monolingual / languages / cross-lingual`
 - Keyword pool: multilingual; monolingual; languages; cross-lingual; parallel; few-shot; word alignment; retrieval; shots; suggestion; moment; gec
 

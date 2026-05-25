@@ -2,7 +2,7 @@
 
 - Topic ID: `83`
 - Papers: **10** (0.53%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: AI4Science/医疗
 - English keywords: `plasticity / rules / hebbian / synaptic`
 - Keyword pool: plasticity; rules; hebbian; synaptic; brain; animal; synapses; biological; sensory; learning rule; stimulus; representations
 

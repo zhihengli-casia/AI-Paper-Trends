@@ -1,8 +1,8 @@
-# NeurIPS 2023: 图神经网络与节点表示学习
+# NeurIPS 2023: 神经架构搜索与模型设计
 
 - Topic ID: `60`
 - Papers: **24** (0.75%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 理论/优化
 - English keywords: `graph / search / node / neural architecture`
 - Keyword pool: graph; search; node; neural architecture; circuit; link; inductive; routing; transformers; higher-order; architectures; relationships
 

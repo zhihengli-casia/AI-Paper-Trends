@@ -2,7 +2,7 @@
 
 - Topic ID: `96`
 - Papers: **11** (0.46%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `image super-resolution / infrared / jpeg / quantization`
 - Keyword pool: image super-resolution; infrared; jpeg; quantization; super-resolution sr; upsampling; restoration; mismatch; windows; double; pixel-wise predictions; networks
 

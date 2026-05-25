@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **14** (1.37%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `quantum / dynamics / reservoir / neuron`
 - Keyword pool: quantum; dynamics; reservoir; neuron; sgd; physics-informed; video prediction; hysteresis; dynamical; hamiltonian; driven; stochastic
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **25** (2.44%)
-- Macro topic: 强化学习/决策
+- Macro topic: 计算机视觉
 - English keywords: `control / optimal / discrete-time / temperature`
 - Keyword pool: control; optimal; discrete-time; temperature; nonlinear; critic; dynamic programming; operating conditions; predictive; tracking; constrained; finite-time
 

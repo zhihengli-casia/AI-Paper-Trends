@@ -1,8 +1,8 @@
-# ACL 2021: relation / biomedical / entity / 图学习
+# ACL 2021: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `17`
 - Papers: **18** (2.54%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `relation / biomedical / entity / graph`
 - Keyword pool: relation; biomedical; entity; graph; extraction; causal; scientific; link; completion; entities; collective; patterns
 

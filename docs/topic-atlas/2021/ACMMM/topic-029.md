@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **9** (1.66%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `hashing / retrieval / ball / hash codes`
 - Keyword pool: hashing; retrieval; ball; hash codes; dnn; weighted; adversarial patch; gaussian; semantic similarity; date; dissimilar; unsupervised
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **31** (4.43%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `linguistic / word / bert / probing`
 - Keyword pool: linguistic; word; bert; probing; change; entropy; grammatical; frequency; character; sound; gec; encoded
 

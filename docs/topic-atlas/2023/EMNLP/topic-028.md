@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **15** (1.43%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `commonsense / verification / reasoning / exemplars`
 - Keyword pool: commonsense; verification; reasoning; exemplars; counterfactuals; knowledge graph; verifier; extraction; relation; external knowledge; multi-hop; gnn
 

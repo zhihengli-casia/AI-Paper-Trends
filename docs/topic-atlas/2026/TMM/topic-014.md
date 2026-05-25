@@ -1,8 +1,8 @@
-# TMM 2026: 语音/音频语言模型
+# TMM 2026: 情感识别与多模态情绪理解
 
 - Topic ID: `14`
 - Papers: **17** (2.86%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `emotion / facial / recognition / eye`
 - Keyword pool: emotion; facial; recognition; eye; expression; modal; personalized; complementary; speech; context; behaviors; deformation
 

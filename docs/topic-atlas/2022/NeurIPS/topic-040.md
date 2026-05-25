@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **27** (1.01%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `distillation / student / teacher / distilled`
 - Keyword pool: distillation; student; teacher; distilled; feature; ensemble; privileged; generator; classes; bag; object; shadow
 

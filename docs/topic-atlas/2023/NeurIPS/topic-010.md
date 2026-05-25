@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **46** (1.43%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `transformers / icl / self-attention / tokens`
 - Keyword pool: transformers; icl; self-attention; tokens; softmax; in-context; layer; language; quantization; mlps; programs; saliency
 

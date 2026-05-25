@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **18** (2.74%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 系统/效率/压缩
 - English keywords: `few-shot / metric learning / prototype / self-attention`
 - Keyword pool: few-shot; metric learning; prototype; self-attention; relation; classification; enhancement; multi-view; learnable; kernel learning; multi-instance; multiple kernel
 

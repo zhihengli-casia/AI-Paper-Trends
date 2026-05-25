@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **9** (0.86%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: AI4Science/医疗
 - English keywords: `cancer / haptics / modulation / ultrasonic`
 - Keyword pool: cancer; haptics; modulation; ultrasonic; face; interactive shape; parameters; predict; fabric; sonification; creative design; surgery
 

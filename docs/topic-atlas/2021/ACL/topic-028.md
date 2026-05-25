@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **11** (1.55%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `transformers / document / length / layers`
 - Keyword pool: transformers; document; length; layers; incremental; summarization; long; perplexity; constraints; transformer-based; computational; hierarchical
 

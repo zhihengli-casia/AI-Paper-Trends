@@ -2,7 +2,7 @@
 
 - Topic ID: `56`
 - Papers: **12** (0.94%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / document / reasoning / answering`
 - Keyword pool: retrieval; document; reasoning; answering; editing; questions; logical; queries; llms; language; triplets; external knowledge
 

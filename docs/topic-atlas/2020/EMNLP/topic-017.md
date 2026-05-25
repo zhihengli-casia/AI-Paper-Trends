@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **18** (2.40%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `graph / kgs / temporal / entities`
 - Keyword pool: graph; kgs; temporal; entities; entity; completion; triples; link prediction; alignment; attribute; database schema; calibration
 

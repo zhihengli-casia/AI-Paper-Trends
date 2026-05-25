@@ -1,8 +1,8 @@
-# IJCAI 2025: 目标检测与图像分割
+# IJCAI 2025: 图像分割、语义分割与场景解析
 
 - Topic ID: `60`
 - Papers: **11** (0.86%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `anomaly / industrial / detection / segmentation`
 - Keyword pool: anomaly; industrial; detection; segmentation; anomalies; sam; pixel-level; ood; prompts; images; masks; transport
 

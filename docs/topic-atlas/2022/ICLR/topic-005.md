@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **30** (2.83%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `policy / games / multi-agent / reinforcement learning`
 - Keyword pool: policy; games; multi-agent; reinforcement learning; markov; policies; actor-critic; nash; zero-sum; cooperative; coordination; mean field
 

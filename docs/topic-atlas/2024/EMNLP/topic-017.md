@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **24** (1.89%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `prompt / engineering / optimization / recommendation`
 - Keyword pool: prompt; engineering; optimization; recommendation; peft; shortcuts; instructions; lexical; multi-expert; oppu; twins; programs
 

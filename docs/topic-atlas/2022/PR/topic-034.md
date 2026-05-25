@@ -1,8 +1,8 @@
-# PR 2022: 目标检测与图像分割
+# PR 2022: 医学影像分割
 
 - Topic ID: `34`
 - Papers: **8** (1.22%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `waves / effects / captures / entire`
 - Keyword pool: waves; effects; captures; entire; change; segmentation; images; individuals; lung; motivation; daily; control
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **24** (11.21%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `search / test / information retrieval / collection`
 - Keyword pool: search; test; information retrieval; collection; trec; responses; llms; questions; rag; medical; queries; conversational
 

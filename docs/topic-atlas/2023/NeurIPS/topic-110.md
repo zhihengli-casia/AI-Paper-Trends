@@ -2,7 +2,7 @@
 
 - Topic ID: `110`
 - Papers: **11** (0.34%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 强化学习/决策
 - English keywords: `diffusion / trajectory / trajectories / planning`
 - Keyword pool: diffusion; trajectory; trajectories; planning; plans; multi-task; driving; offline; traffic; planner; vehicles; instantaneous
 

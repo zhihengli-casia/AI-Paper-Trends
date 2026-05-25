@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **25** (1.37%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `games / equilibrium / equilibria / regret`
 - Keyword pool: games; equilibrium; equilibria; regret; nash; players; zero-sum; team; online; convergence; gda; double
 

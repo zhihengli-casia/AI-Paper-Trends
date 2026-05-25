@@ -1,8 +1,8 @@
-# ICLR 2026: LLM Agent 与工具使用
+# ICLR 2026: LLM 推理系统与 GPU Kernel 优化
 
 - Topic ID: `118`
 - Papers: **21** (0.39%)
-- Macro topic: 强化学习/决策
+- Macro topic: 系统/效率/压缩
 - English keywords: `cuda / kernels / gpu / llms`
 - Keyword pool: cuda; kernels; gpu; llms; star; speculative; tilelang; placement; programming; scaling rl; speedups; agents
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `123`
 - Papers: **14** (0.42%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `inference-time / test-time compute / best-of / reward`
 - Keyword pool: inference-time; test-time compute; best-of; reward; alignment; llms; policy; win; search; compute budget; scaling; rejection sampling
 

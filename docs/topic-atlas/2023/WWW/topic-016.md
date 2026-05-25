@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **11** (2.96%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `temporal / link prediction / trends / spatial`
 - Keyword pool: temporal; link prediction; trends; spatial; events; hyperbolic; streams; locations; structural; ranking; hierarchical; graph neural
 

@@ -1,8 +1,8 @@
-# EMNLP 2024: 句法语义解析与结构化表示
+# EMNLP 2024: 结构化解析与表示学习
 
 - Topic ID: `5`
 - Papers: **35** (2.76%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `segmentation / tokenization / subword / vocabulary`
 - Keyword pool: segmentation; tokenization; subword; vocabulary; morphological; languages; parsing; tokens; sequence; bpe; csc; chinese
 

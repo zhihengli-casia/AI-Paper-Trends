@@ -1,4 +1,4 @@
-# AAAI 2026: person / re-identification / pedestrian / tir
+# AAAI 2026: 行人重识别与人群计数
 
 - Topic ID: `45`
 - Papers: **36** (0.87%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **15** (1.60%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `forgetting / memorization / neurons / catastrophic`
 - Keyword pool: forgetting; memorization; neurons; catastrophic; composition; continual learning; sft; noisy; plms; privacy; world knowledge; memory
 

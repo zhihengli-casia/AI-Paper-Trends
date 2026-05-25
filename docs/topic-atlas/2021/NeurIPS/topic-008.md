@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **45** (1.93%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `regression / ridge / sgd / regularization`
 - Keyword pool: regression; ridge; sgd; regularization; squares; descent; lookahead; svm; flatness; kernel; support vector; mixtures
 

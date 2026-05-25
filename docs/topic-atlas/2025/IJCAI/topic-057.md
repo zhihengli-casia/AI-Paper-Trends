@@ -2,7 +2,7 @@
 
 - Topic ID: `57`
 - Papers: **12** (0.94%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / sensitive / demographic / factors`
 - Keyword pool: fairness; sensitive; demographic; factors; algorithmic; causal; classifiers; predictions; human-ai; target variable; transport; bias
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `94`
 - Papers: **19** (0.51%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / defense / attacks / poisoned`
 - Keyword pool: backdoor; defense; attacks; poisoned; poisoning; clean; ownership; attack success; privacy; detection; security; triggers
 

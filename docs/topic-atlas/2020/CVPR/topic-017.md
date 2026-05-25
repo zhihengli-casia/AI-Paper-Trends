@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **21** (1.43%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `compression / video / frame / interpolation`
 - Keyword pool: compression; video; frame; interpolation; flow; shutter; optical; super-resolution; motion; temporal; reference; warping
 

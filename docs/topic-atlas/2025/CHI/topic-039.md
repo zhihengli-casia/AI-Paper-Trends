@@ -1,8 +1,8 @@
-# CHI 2025: 多智能体协作与规划
+# CHI 2025: 语音交互与语音表征
 
 - Topic ID: `39`
 - Papers: **14** (1.13%)
-- Macro topic: 强化学习/决策
+- Macro topic: 语音/音频/音乐
 - English keywords: `voice / older adults / conversational / agents`
 - Keyword pool: voice; older adults; conversational; agents; reminiscence; reflect; aging; emergency; assistants; multi-agent; designing; care
 

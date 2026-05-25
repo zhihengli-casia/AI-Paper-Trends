@@ -1,8 +1,8 @@
-# CVPR 2020: action / recognition / temporal / repetition
+# CVPR 2020: 视频动作识别与时序定位
 
 - Topic ID: `57`
 - Papers: **13** (0.89%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `action / recognition / temporal / repetition`
 - Keyword pool: action; recognition; temporal; repetition; fusion; counting; video; cycle; repetitive; excitation; probability space; regularization
 

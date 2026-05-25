@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **17** (1.48%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / report / x-ray / disease`
 - Keyword pool: medical; report; x-ray; disease; radiology; diagnostic; clinical; generation; image classification; in-the-wild; noisy; causal
 

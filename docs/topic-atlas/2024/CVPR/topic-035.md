@@ -1,8 +1,8 @@
-# CVPR 2024: 社交媒体与社会计算
+# CVPR 2024: 手部姿态与人-物交互
 
 - Topic ID: `35`
 - Papers: **30** (1.10%)
-- Macro topic: 计算机视觉
+- Macro topic: NLP任务
 - English keywords: `hoi / interaction / human-object / contact`
 - Keyword pool: hoi; interaction; human-object; contact; human object; motion; humans objects; scene; relation; affordance; hand-object; social
 

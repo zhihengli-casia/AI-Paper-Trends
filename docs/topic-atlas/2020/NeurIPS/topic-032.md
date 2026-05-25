@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **21** (1.11%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `contrastive / self-supervised / representations / adversarial`
 - Keyword pool: contrastive; self-supervised; representations; adversarial; augmentation; image; views; registration; unsupervised; representation learning; visual; pre-training
 

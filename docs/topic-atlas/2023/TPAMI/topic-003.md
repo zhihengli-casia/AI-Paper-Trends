@@ -1,4 +1,4 @@
-# TPAMI 2023: 少样本 / ood / samples / meta-learning
+# TPAMI 2023: 零样本分类与开放集识别
 
 - Topic ID: `3`
 - Papers: **36** (5.29%)

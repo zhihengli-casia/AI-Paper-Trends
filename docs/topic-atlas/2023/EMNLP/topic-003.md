@@ -1,8 +1,8 @@
-# EMNLP 2023: 目标检测与图像分割
+# EMNLP 2023: 图像分割、语义分割与场景解析
 
 - Topic ID: `3`
 - Papers: **37** (3.53%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `outlier / compression / tokenization / word`
 - Keyword pool: outlier; compression; tokenization; word; segmentation; wasserstein; compositional; masked; generalization; distance; ood; cognate
 

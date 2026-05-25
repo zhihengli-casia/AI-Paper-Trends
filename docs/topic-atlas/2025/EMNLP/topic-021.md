@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **23** (1.27%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `misinformation / news / detection / social`
 - Keyword pool: misinformation; news; detection; social; fake; claims; fact-checking; spread; disinformation; cross-domain; adversarial; media
 

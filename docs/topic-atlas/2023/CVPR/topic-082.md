@@ -2,7 +2,7 @@
 
 - Topic ID: `82`
 - Papers: **13** (0.55%)
-- Macro topic: 计算机视觉
+- Macro topic: NLP任务
 - English keywords: `graph / scene / relationships / unbiased`
 - Keyword pool: graph; scene; relationships; unbiased; genome; predicate; edges; vss; nodes; open-vocabulary; pairs; entity
 

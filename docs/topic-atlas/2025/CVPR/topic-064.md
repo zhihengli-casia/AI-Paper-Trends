@@ -2,7 +2,7 @@
 
 - Topic ID: `64`
 - Papers: **20** (0.70%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / report generation / x-ray / multimodal`
 - Keyword pool: medical; report generation; x-ray; multimodal; clinical; radiology; reports; missing modality; healthcare; drug; contrastive; mimo
 

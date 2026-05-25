@@ -1,8 +1,8 @@
-# ECCV 2024: 文档摘要与信息压缩
+# ECCV 2024: 视频摘要与精彩片段检测
 
 - Topic ID: `83`
 - Papers: **13** (0.54%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `video / temporal / grounding / moment`
 - Keyword pool: video; temporal; grounding; moment; retrieval; event; proposals; query; summarization; long-term; cross-modal; alignable
 

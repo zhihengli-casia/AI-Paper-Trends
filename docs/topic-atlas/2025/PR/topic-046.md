@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **15** (0.99%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `disease / prediction / missing / land`
 - Keyword pool: disease; prediction; missing; land; alzheimer; multimodal; cancer; modality; multi-modal; diagnosis; graph convolutional; modalities
 

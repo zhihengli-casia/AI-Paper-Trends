@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **25** (3.94%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `games / player / experience / don`
 - Keyword pool: games; player; experience; don; video; gaming; feedback; identifying; computational; user; human; digital
 

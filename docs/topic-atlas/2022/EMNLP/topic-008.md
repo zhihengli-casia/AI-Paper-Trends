@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **25** (3.02%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `multilingual / languages / cross-lingual / word`
 - Keyword pool: multilingual; languages; cross-lingual; word; transfer; lexicon; low-resource; pos; code-switching; sentence embeddings; induction; compression
 

@@ -1,8 +1,8 @@
-# TMM 2026: old / prototype / discovery / classes
+# TMM 2026: 领域自适应与迁移学习
 
 - Topic ID: `21`
 - Papers: **14** (2.36%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `old / prototype / discovery / classes`
 - Keyword pool: old; prototype; discovery; classes; target domain; facial; source domain; previously; energy; backward; task-agnostic; adaptation
 

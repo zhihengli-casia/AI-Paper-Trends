@@ -1,8 +1,8 @@
-# ECCV 2022: noisy labels / noise / label correction / clean samples
+# ECCV 2022: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `82`
 - Papers: **8** (0.49%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `noisy labels / noise / label correction / clean samples`
 - Keyword pool: noisy labels; noise; label correction; clean samples; examples; facial; sample selection; confidence; collective; transition; soft; neighborhood
 

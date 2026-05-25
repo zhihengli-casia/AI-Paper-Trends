@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **17** (1.34%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `neurons / activation / multilingual / heads`
 - Keyword pool: neurons; activation; multilingual; heads; circuits; continuation; memorized; ffn; node; memorization; pruning; attention
 

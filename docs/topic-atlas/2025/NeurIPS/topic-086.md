@@ -2,7 +2,7 @@
 
 - Topic ID: `86`
 - Papers: **30** (0.57%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `games / last-iterate / equilibria / nash`
 - Keyword pool: games; last-iterate; equilibria; nash; equilibrium; zero-sum; cfr; monotone; regularized; regret; player; policy
 

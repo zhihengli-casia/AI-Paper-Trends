@@ -1,8 +1,8 @@
-# ICCV 2023: 目标检测与图像分割
+# ICCV 2023: 领域自适应与迁移学习
 
 - Topic ID: `72`
 - Papers: **14** (0.65%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `adaptation / semantic segmentation / target domain / domain adaptive`
 - Keyword pool: adaptation; semantic segmentation; target domain; domain adaptive; panoptic; uda; cross-domain; domain-adaptive; unsupervised domain; idm; unlabeled; cma
 

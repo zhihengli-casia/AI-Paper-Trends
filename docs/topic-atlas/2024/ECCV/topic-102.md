@@ -2,7 +2,7 @@
 
 - Topic ID: `102`
 - Papers: **10** (0.42%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `avatar / facial / talking / phone`
 - Keyword pool: avatar; facial; talking; phone; photorealistic; diffusion; expressions; person-specific; stylegan2; texture; animation; monocular
 

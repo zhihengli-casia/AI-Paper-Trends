@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **15** (1.02%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `vqa / questions / reasoning / answering`
 - Keyword pool: vqa; questions; reasoning; answering; visual question; sgg; causal; counterfactual; language; answers; expression; r-cnn
 

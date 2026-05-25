@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **20** (1.18%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / gender / agency / conformity`
 - Keyword pool: bias; gender; agency; conformity; ses; racial; social; chatbots; demographics; dialect; american; groups
 

@@ -1,8 +1,8 @@
-# EMNLP 2021: 多语言建模与跨语言迁移
+# EMNLP 2021: 机器翻译与跨语言对齐
 
 - Topic ID: `18`
 - Papers: **18** (2.13%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: NLP任务
 - English keywords: `translation / machine / simultaneous / beam`
 - Keyword pool: translation; machine; simultaneous; beam; decoding; nmt; bleu; parallel; language pairs; steps; poetry; multilingual
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **15** (1.60%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `agents / social / collaboration / tom`
 - Keyword pool: agents; social; collaboration; tom; multi-agent; mental states; software; communication; communicative; intelligence; environments; simulation
 

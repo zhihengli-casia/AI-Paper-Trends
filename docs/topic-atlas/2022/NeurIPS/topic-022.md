@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **35** (1.31%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / visual / representations / stimuli`
 - Keyword pool: brain; visual; representations; stimuli; compositional; fmri; memorization; eeg; retina; ventral; functional; organization
 

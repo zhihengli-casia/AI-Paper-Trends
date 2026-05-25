@@ -1,8 +1,8 @@
-# ICCV 2021: 语音/音频语言模型
+# ICCV 2021: 音频理解与生成
 
 - Topic ID: `39`
 - Papers: **18** (1.12%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `audio / video / sound / separation`
 - Keyword pool: audio; video; sound; separation; modalities; two-stream; source; temporal; active; associative; multi-modal; adaptive
 

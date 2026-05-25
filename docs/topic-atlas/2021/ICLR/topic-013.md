@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **22** (2.56%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `denoising / mcmc / energy-based / ebm`
 - Keyword pool: denoising; mcmc; energy-based; ebm; generative; sampling; likelihood; adversarial; diffusion; markov chain; recovery; images
 

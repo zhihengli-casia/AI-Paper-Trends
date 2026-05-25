@@ -1,4 +1,4 @@
-# NeurIPS 2022: nas / search / architecture / scheduling
+# NeurIPS 2022: 神经架构搜索与模型设计
 
 - Topic ID: `51`
 - Papers: **21** (0.79%)

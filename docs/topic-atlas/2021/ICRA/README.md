@@ -36,12 +36,12 @@
 | [022](topic-022.md) | 机器人操作与抓取 | 22 | 1.61% | 3D/具身/机器人 | `deformable / linear / learning / shape` | Learning to Propagate Interaction Effects for Modeling Deformable Linear Objects Dynamics |
 | [023](topic-023.md) | 人机交互与协作机器人 | 21 | 1.53% | 3D/具身/机器人 | `human-robot / collaboration / interaction / social` | Dynamic Projection of Human Motion for Safe and Efficient Human-Robot Collaboration |
 | [024](topic-024.md) | 视频动作生成与运动控制 | 21 | 1.53% | 3D/具身/机器人 | `prediction / human motion / neural / networks` | Probabilistic Human Motion Prediction via A Bayesian Neural Network |
-| [025](topic-025.md) | 目标检测与图像分割 | 21 | 1.53% | 3D/具身/机器人 | `segmentation / instance / learning / detection` | Real-time Instance Detection with Fast Incremental Learning |
-| [026](topic-026.md) | pose / estimation / object / network | 20 | 1.46% | 3D/具身/机器人 | `pose / estimation / object / network` | ParametricNet: 6DoF Pose Estimation Network for Parametric Shapes in Stacked Scenarios |
+| [025](topic-025.md) | 实例分割与开放词汇分割 | 21 | 1.53% | 3D/具身/机器人 | `segmentation / instance / learning / detection` | Real-time Instance Detection with Fast Incremental Learning |
+| [026](topic-026.md) | 人体姿态估计与运动理解 | 20 | 1.46% | 3D/具身/机器人 | `pose / estimation / object / network` | ParametricNet: 6DoF Pose Estimation Network for Parametric Shapes in Stacked Scenarios |
 | [027](topic-027.md) | friction / estimation / robotic / force | 20 | 1.46% | 3D/具身/机器人 | `friction / estimation / robotic / force` | Real-time Friction Estimation for Grip Force Control |
 | [028](topic-028.md) | 机器人操作与抓取 | 20 | 1.46% | 3D/具身/机器人 | `dexterous / learning / manipulation / grasping` | Learning Task-Oriented Dexterous Grasping from Human Knowledge |
 | [029](topic-029.md) | 足式机器人与运动控制 | 19 | 1.39% | 3D/具身/机器人 | `locomotion / humanoid / bipedal / control` | 3D biped locomotion control including seamless transition between walking and running via 3D ZMP manipulation |
-| [030](topic-030.md) | LiDAR 点云与 3D 感知 | 19 | 1.39% | 3D/具身/机器人 | `segmentation / semantic / domain adaptation / lidar` | S3Net: 3D LiDAR Sparse Semantic Segmentation Network |
+| [030](topic-030.md) | 领域自适应与迁移学习 | 19 | 1.39% | 3D/具身/机器人 | `segmentation / semantic / domain adaptation / lidar` | S3Net: 3D LiDAR Sparse Semantic Segmentation Network |
 | [031](topic-031.md) | control / nonlinear / learning / neural | 19 | 1.39% | 3D/具身/机器人 | `control / nonlinear / learning / neural` | Data-based Control of Partially-Observed Robotic Systems |
 | [033](topic-033.md) | 机器人运动控制与移动能力 | 18 | 1.31% | 3D/具身/机器人 | `locomotion / bipedal / learning / gait` | Learning Bipedal Robot Locomotion from Human Movement |
 | [032](topic-032.md) | 运动建模 / tracking / visual servoing / loop closure | 18 | 1.31% | 3D/具身/机器人 | `motion / tracking / visual servoing / loop closure` | Tracking 6-DoF Object Motion from Events and Frames |
@@ -59,7 +59,7 @@
 | [045](topic-045.md) | 多机器人路径规划与协同导航 | 15 | 1.09% | 3D/具身/机器人 | `exploration / environments / multi-robot / three-dimensional` | Dynamic-Aware Autonomous Exploration in Populated Environments |
 | [046](topic-046.md) | aided / localization / indoor / navigation | 15 | 1.09% | 3D/具身/机器人 | `aided / localization / indoor / navigation` | MSTSL: Multi-Sensor Based Two-Step Localization in Geometrically Symmetric Environments |
 | [047](topic-047.md) | 无人机/四旋翼规划与控制 | 14 | 1.02% | 3D/具身/机器人 | `tracking / multi-target / graph / networks` | Distributed Multi-Target Tracking in Camera Networks |
-| [048](topic-048.md) | 目标检测与图像分割 | 14 | 1.02% | 3D/具身/机器人 | `inspection / observation / segmentation / space` | Efficient Multi-Robot Inspection of Row Crops via Kernel Estimation and Region-Based Task Allocation |
+| [048](topic-048.md) | 图像分割、语义分割与场景解析 | 14 | 1.02% | 3D/具身/机器人 | `inspection / observation / segmentation / space` | Efficient Multi-Robot Inspection of Row Crops via Kernel Estimation and Region-Based Task Allocation |
 | [049](topic-049.md) | 机器人运动控制与移动能力 | 13 | 0.95% | 3D/具身/机器人 | `underwater / bioinspired / robot / vehicles` | Docking and Undocking a Modular Underactuated Oscillating Swimming Robot |
 | [050](topic-050.md) | 机器人操作与抓取 | 13 | 0.95% | 3D/具身/机器人 | `grasping / robotic / gripper / manipulation` | Analysis of Open-Loop Grasping From Piles |
 | [051](topic-051.md) | 自动驾驶感知与世界模型 | 13 | 0.95% | 3D/具身/机器人 | `autonomous / vehicles / traffic / driving` | Pylot: A Modular Platform for Exploring Latency-Accuracy Tradeoffs in Autonomous Vehicles |

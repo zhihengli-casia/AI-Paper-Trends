@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **16** (1.25%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `tracking / motion / object / template`
 - Keyword pool: tracking; motion; object; template; fusion; visual; sensors; saliency; imu; spatial-temporal; trackers; uncertainty
 

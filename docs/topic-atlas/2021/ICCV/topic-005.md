@@ -1,4 +1,4 @@
-# ICCV 2021: scene graph / graph generation / grounding / graphs
+# ICCV 2021: 场景图、关系推理与视觉理解
 
 - Topic ID: `5`
 - Papers: **35** (2.17%)

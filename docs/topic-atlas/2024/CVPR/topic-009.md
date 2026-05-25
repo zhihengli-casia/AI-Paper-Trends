@@ -1,8 +1,8 @@
-# CVPR 2024: 文生图生成与个性化编辑
+# CVPR 2024: 扩散生成模型
 
 - Topic ID: `9`
 - Papers: **41** (1.51%)
-- Macro topic: 生成模型
+- Macro topic: 强化学习/决策
 - English keywords: `diffusion / text-to-image / editing / t2i`
 - Keyword pool: diffusion; text-to-image; editing; t2i; reward; style; stable; conditional; generative; crowd; latent; point-based
 

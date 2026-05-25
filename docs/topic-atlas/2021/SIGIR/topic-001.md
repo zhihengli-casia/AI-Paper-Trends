@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **17** (11.26%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `observation / reviews / intent / change`
 - Keyword pool: observation; reviews; intent; change; item; legal case; clicks; preferences; bias; retrieval; similarity; language
 

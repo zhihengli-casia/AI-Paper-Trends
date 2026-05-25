@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **16** (0.94%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `multilingual / cross-lingual / languages / csc`
 - Keyword pool: multilingual; cross-lingual; languages; csc; discourse; character; target language; morphological; naturalness; inconsistency; mlms; chinese
 

@@ -1,8 +1,8 @@
-# ACMMM 2022: 目标检测与图像分割
+# ACMMM 2022: 实例分割与开放词汇分割
 
 - Topic ID: `1`
 - Papers: **34** (4.92%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / object / few-shot / classes`
 - Keyword pool: segmentation; object; few-shot; classes; attribute; salient; x-ray; zero-shot; category; shadow detection; instance; scene
 

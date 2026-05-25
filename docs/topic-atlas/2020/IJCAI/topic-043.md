@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **10** (1.29%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `knowledge graphs / relations / linked / commonsense knowledge`
 - Keyword pool: knowledge graphs; relations; linked; commonsense knowledge; support-query; rdf; entities; few-shot learning; relational; linguistic; neighbors; interpretable
 

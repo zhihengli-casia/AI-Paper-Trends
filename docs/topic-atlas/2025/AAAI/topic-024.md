@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **35** (1.16%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `llms / backdoor / attacks / language`
 - Keyword pool: llms; backdoor; attacks; language; safety; unlearning; meme; security; triggers; social; adversarial; harmful
 

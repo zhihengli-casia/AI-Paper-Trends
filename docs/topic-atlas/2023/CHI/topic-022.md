@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **17** (1.95%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `virtual reality / social / collaborative / video`
 - Keyword pool: virtual reality; social; collaborative; video; awareness; control; experiences; people; support; autobiographical; probing; lgbtq
 

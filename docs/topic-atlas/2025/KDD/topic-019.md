@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **11** (1.99%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `mobility / human / trajectory / urban`
 - Keyword pool: mobility; human; trajectory; urban; offline; location; trajectories; llms; symbolic; dynamics; planning; spatial-temporal
 

@@ -1,4 +1,4 @@
-# CVPR 2024: action / skeleton / 运动建模 / retargeting
+# CVPR 2024: 视频动作识别与时序定位
 
 - Topic ID: `103`
 - Papers: **10** (0.37%)

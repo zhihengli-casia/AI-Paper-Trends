@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **32** (2.79%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `video / streaming / compression / bitrate`
 - Keyword pool: video; streaming; compression; bitrate; volumetric; live; bandwidth; qoe; nerf; exposure; transmission; frames
 

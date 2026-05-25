@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **27** (2.92%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical image / brain / few-shot medical`
 - Keyword pool: segmentation; medical image; brain; few-shot medical; joint learning; multi-level; lesion; mamba; tumor; information; fusion; aggregation
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **8** (2.16%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `entity / temporal / entities / knowledge graph`
 - Keyword pool: entity; temporal; entities; knowledge graph; alignment; kgs; facts; reasoning; timestamps; logic; knowledge bases; long short-term
 

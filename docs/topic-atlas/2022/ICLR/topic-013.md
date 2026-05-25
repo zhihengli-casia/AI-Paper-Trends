@@ -1,4 +1,4 @@
-# ICLR 2022: domain / adaptation / 少样本 / source
+# ICLR 2022: 领域自适应与迁移学习
 
 - Topic ID: `13`
 - Papers: **22** (2.07%)

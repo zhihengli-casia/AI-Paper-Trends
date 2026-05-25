@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **37** (0.92%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `pde / fluid / physical / dynamics`
 - Keyword pool: pde; fluid; physical; dynamics; operator; mesh; simulation; tumor; physics; equations; partial differential; cloth
 

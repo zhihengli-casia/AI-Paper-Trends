@@ -1,8 +1,8 @@
-# PR 2026: 目标检测与图像分割
+# PR 2026: 目标检测与开放世界检测
 
 - Topic ID: `37`
 - Papers: **12** (1.30%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `detection / localization / weather / object`
 - Keyword pool: detection; localization; weather; object; harsh; heterogeneous; mamba; adaptive; feature interaction; unmanned aerial; oriented; spatial feature
 

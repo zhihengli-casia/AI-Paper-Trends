@@ -2,7 +2,7 @@
 
 - Topic ID: `88`
 - Papers: **14** (0.54%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 推荐/检索/排序
 - English keywords: `moe / experts / recommendation / gating`
 - Keyword pool: moe; experts; recommendation; gating; scaling; softmax; temperature; laws; pcs; mixture; rates; scalability
 

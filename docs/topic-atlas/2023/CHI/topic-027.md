@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **15** (1.72%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `conversational / language / communication / agent`
 - Keyword pool: conversational; language; communication; agent; chatbot; improving; automatic; collaboration; interactions; online; aac; inform
 

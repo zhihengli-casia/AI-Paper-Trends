@@ -1,8 +1,8 @@
-# ICCV 2021: 视频动作生成与运动控制
+# ICCV 2021: 实例分割与开放词汇分割
 
 - Topic ID: `11`
 - Papers: **30** (1.86%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `matting / video / object segmentation / instance`
 - Keyword pool: matting; video; object segmentation; instance; objects; motion; frame; online; memory; foreground; unannotated; multi-modality
 

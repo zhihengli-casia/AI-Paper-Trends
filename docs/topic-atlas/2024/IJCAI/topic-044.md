@@ -1,8 +1,8 @@
-# IJCAI 2024: vehicle routing / services / agencies / combinatorial optimization
+# IJCAI 2024: 组合优化与神经求解
 
 - Topic ID: `44`
 - Papers: **12** (1.15%)
-- Macro topic: 强化学习/决策
+- Macro topic: 理论/优化
 - English keywords: `vehicle routing / services / agencies / combinatorial optimization`
 - Keyword pool: vehicle routing; services; agencies; combinatorial optimization; transformer; tsp; reinforcement; fuel; traffic; policy; ensemble; instances
 

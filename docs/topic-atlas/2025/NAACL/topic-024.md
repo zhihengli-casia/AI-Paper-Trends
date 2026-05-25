@@ -1,8 +1,8 @@
-# NAACL 2025: 多智能体协作与规划
+# NAACL 2025: 对话系统与会话智能体
 
 - Topic ID: `24`
 - Papers: **14** (1.95%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `agents / multi-agent / character / role-playing`
 - Keyword pool: agents; multi-agent; character; role-playing; strategic; mcts; social; truthfulness; conversational; chess; simulation; capability
 

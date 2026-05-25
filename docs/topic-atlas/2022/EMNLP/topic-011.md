@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **21** (2.54%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `temporal / reasoning / logical / knowledge graphs`
 - Keyword pool: temporal; reasoning; logical; knowledge graphs; queries; kgs; entities; query; answering; relational; multi-hop; evolution
 

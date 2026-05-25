@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **38** (3.00%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `speech / asr / languages / dialects`
 - Keyword pool: speech; asr; languages; dialects; recognition; audio; acoustic; hours; multilingual; style; stem; emotion
 

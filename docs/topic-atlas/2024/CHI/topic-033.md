@@ -1,8 +1,8 @@
-# CHI 2024: writing / intelligent / human-ai / personas
+# CHI 2024: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `33`
 - Papers: **17** (1.62%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `writing / intelligent / human-ai / personas`
 - Keyword pool: writing; intelligent; human-ai; personas; processes; language; agent; collaboration; journaling; journalists; deepfakes; elicitation
 

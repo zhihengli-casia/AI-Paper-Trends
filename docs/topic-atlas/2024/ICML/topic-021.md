@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **39** (1.49%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `llms / language / cell / retrieval`
 - Keyword pool: llms; language; cell; retrieval; e-commerce; fine-tuning; context; tokens; tokenizer; documents; routing; identity
 

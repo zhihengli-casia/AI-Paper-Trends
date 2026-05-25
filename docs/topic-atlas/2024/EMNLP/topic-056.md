@@ -1,8 +1,8 @@
-# EMNLP 2024: mental / 健康AI / patient / emotion
+# EMNLP 2024: 语音、音频与声学建模
 
 - Topic ID: `56`
 - Papers: **10** (0.79%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `mental / health / patient / emotion`
 - Keyword pool: mental; health; patient; emotion; cognitive; detection; disorders; counseling; symptoms; psychology; granularity; acoustic
 

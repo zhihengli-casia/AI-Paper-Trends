@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **53** (7.16%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `virtual / reality / games / experience`
 - Keyword pool: virtual; reality; games; experience; studies; social; play; exercise; app; food; effects; designing
 

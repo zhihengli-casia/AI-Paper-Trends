@@ -1,8 +1,8 @@
-# ICCV 2025: facial / expression / recognition / stylized
+# ICCV 2025: 情感识别与多模态情绪理解
 
 - Topic ID: `41`
 - Papers: **25** (0.93%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `facial / expression / recognition / stylized`
 - Keyword pool: facial; expression; recognition; stylized; temperature; emotion; quality assessment; landmark; softmax; academic; ai-generated; image quality
 

@@ -1,8 +1,8 @@
-# PR 2024: person / re-identification / search / modality
+# PR 2024: 行人重识别与人群计数
 
 - Topic ID: `14`
 - Papers: **21** (2.19%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `person / re-identification / search / modality`
 - Keyword pool: person; re-identification; search; modality; visible infrared; intra; alignment; multi-granularity; mutual learning; module; cross-modal; features
 

@@ -1,4 +1,4 @@
-# PR 2026: action / recognition / activity / temporal
+# PR 2026: 视频动作识别与时序定位
 
 - Topic ID: `26`
 - Papers: **17** (1.84%)

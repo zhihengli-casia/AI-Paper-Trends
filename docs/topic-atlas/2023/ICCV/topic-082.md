@@ -1,4 +1,4 @@
-# ICCV 2023: test-time / adaptation / shifts / label
+# ICCV 2023: 领域自适应与迁移学习
 
 - Topic ID: `82`
 - Papers: **10** (0.46%)

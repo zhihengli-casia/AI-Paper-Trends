@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **38** (1.18%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `surface / reconstruction / scene / shape`
 - Keyword pool: surface; reconstruction; scene; shape; object; rendering; point; sdf; cloud; lighting; geometry; multi-view
 

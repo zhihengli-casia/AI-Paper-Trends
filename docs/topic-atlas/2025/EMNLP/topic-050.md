@@ -1,8 +1,8 @@
-# EMNLP 2025: 视频理解/生成 / token / compression / 视觉理解
+# EMNLP 2025: 视频检索、时刻定位与事件理解
 
 - Topic ID: `50`
 - Papers: **17** (0.94%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `video / token / compression / visual`
 - Keyword pool: video; token; compression; visual; pruning; caption; temporal; t2v; frames; spatial; editing; retrieval
 

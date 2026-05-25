@@ -1,8 +1,8 @@
-# MICCAI 2021: 目标检测与图像分割
+# MICCAI 2021: 医学影像分割
 
 - Topic ID: `0`
 - Papers: **23** (33.82%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `image / learning / medical / labels`
 - Keyword pool: image; learning; medical; labels; vessel; retinal; noisy; self-supervised; robust; selective; segmentation spatial; multi-domain
 

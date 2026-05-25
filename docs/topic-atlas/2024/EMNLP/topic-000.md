@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **48** (3.79%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / social / gender / demographic`
 - Keyword pool: bias; social; gender; demographic; stereotypes; media; groups; fairness; nlp; names; political; mlms
 

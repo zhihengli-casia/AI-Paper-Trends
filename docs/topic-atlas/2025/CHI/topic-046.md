@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **13** (1.05%)
-- Macro topic: HCI/社会计算
+- Macro topic: 强化学习/决策
 - English keywords: `blocks / engineering / game / interaction`
 - Keyword pool: blocks; engineering; game; interaction; hci; prototyping; interface; opportunities; collaborative; kit; open-source; structures
 

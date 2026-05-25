@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **16** (0.94%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `hallucination / detection / cross-lingual cross-modal / intent`
 - Keyword pool: hallucination; detection; cross-lingual cross-modal; intent; extrinsic; statements; internal states; attribution; stance; factual; stochastic; detectors
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **13** (5.20%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / tex-math / inline-formula / notation`
 - Keyword pool: privacy; tex-math; inline-formula; notation; latex; streaming; query; differential; transaction; fraud; flow; expressions
 

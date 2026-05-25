@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **24** (0.88%)
-- Macro topic: 生成模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `diffusion / sampling / solvers / ode`
 - Keyword pool: diffusion; sampling; solvers; ode; image generation; quantization; timesteps; ddpm; residual; denoising; noise; editing
 

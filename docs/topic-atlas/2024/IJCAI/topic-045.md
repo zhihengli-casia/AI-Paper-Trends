@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **12** (1.15%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / sampler / restoration / video`
 - Keyword pool: diffusion; sampler; restoration; video; sampling; face; latent; blind; ssd; image; multi-modal features; fidelity
 

@@ -1,8 +1,8 @@
-# ICML 2020: 文档摘要与信息压缩
+# ICML 2020: 摘要生成与信息压缩
 
 - Topic ID: `32`
 - Papers: **15** (1.38%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: NLP任务
 - English keywords: `transformer / nlp / attention / position`
 - Keyword pool: transformer; nlp; attention; position; normalization; layer; language; sinkhorn; warm-up; summarization; bert; pre-training
 

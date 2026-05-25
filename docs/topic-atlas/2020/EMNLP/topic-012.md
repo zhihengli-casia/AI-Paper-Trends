@@ -1,8 +1,8 @@
-# EMNLP 2020: 语音/音频语言模型
+# EMNLP 2020: 领域自适应与迁移学习
 
 - Topic ID: `12`
 - Papers: **22** (2.93%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `masking / pre-training / adaptation / masked`
 - Keyword pool: masking; pre-training; adaptation; masked; domain; tokens; fine-tuning; masks; mlm; active learning; target; speech
 

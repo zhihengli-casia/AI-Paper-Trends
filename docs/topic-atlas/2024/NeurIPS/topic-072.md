@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **26** (0.64%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `tabular / retrieval / table / rag`
 - Keyword pool: tabular; retrieval; table; rag; llms; relevance; ebms; auction; in-context; trees; default; documents
 

@@ -1,8 +1,8 @@
-# AAAI 2023: 自回归 Transformer 与语言建模
+# AAAI 2023: 机器翻译与跨语言对齐
 
 - Topic ID: `81`
 - Papers: **9** (0.57%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `autoregressive / medical / transformer / language`
 - Keyword pool: autoregressive; medical; transformer; language; image modeling; nlp; self-attention; sparse; reports; matrix; vision; neural machine
 

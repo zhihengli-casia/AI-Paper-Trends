@@ -1,4 +1,4 @@
-# ICRA 2023: pose / estimation / category-level / object
+# ICRA 2023: 人体姿态估计与运动理解
 
 - Topic ID: `26`
 - Papers: **18** (1.35%)

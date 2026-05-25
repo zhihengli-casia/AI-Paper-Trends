@@ -2,7 +2,7 @@
 
 - Topic ID: `106`
 - Papers: **13** (0.45%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `sketch / animation / colorization / creation`
 - Keyword pool: sketch; animation; colorization; creation; photo; line; interactive; video instance; asynchronous; artistic; communication; drawing
 

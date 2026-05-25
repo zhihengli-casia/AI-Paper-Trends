@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **12** (2.99%)
-- Macro topic: HCI/社会计算
+- Macro topic: 推荐/检索/排序
 - English keywords: `event / social / cascades / recommendation`
 - Keyword pool: event; social; cascades; recommendation; early; malicious; factors; ratings; personalized; preference; latent; reviews
 

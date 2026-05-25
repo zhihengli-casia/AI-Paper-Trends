@@ -1,8 +1,8 @@
-# EMNLP 2021: 文档摘要与信息压缩
+# EMNLP 2021: 对话系统与会话建模
 
 - Topic ID: `1`
 - Papers: **46** (5.43%)
-- Macro topic: 强化学习/决策
+- Macro topic: 计算机视觉
 - English keywords: `dialogue / conversation / tracking / summarization`
 - Keyword pool: dialogue; conversation; tracking; summarization; response; task-oriented; summaries; policy; agent; user; grounded; discourse
 

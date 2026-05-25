@@ -1,8 +1,8 @@
-# ICML 2023: flows / gflownets / normalizing / generative
+# ICML 2023: GAN 与图像生成
 
 - Topic ID: `29`
 - Papers: **23** (1.26%)
-- Macro topic: 理论/优化
+- Macro topic: 生成模型
 - English keywords: `flows / gflownets / normalizing / generative`
 - Keyword pool: flows; gflownets; normalizing; generative; gans; density; bit; energy; posterior; sampler; allocation; conditional
 

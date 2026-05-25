@@ -2,7 +2,7 @@
 
 - Topic ID: `90`
 - Papers: **17** (0.53%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `degradation / restoration / image super-resolution / quantization`
 - Keyword pool: degradation; restoration; image super-resolution; quantization; winograd; diffusion; perceptual quality; images; deblurring; tone; quantized; mse
 

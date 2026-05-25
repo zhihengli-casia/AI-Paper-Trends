@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **10** (12.50%)
-- Macro topic: 强化学习/决策
+- Macro topic: AI4Science/医疗
 - English keywords: `uncertainty / selection / forgotten / difficulty-aware`
 - Keyword pool: uncertainty; selection; forgotten; difficulty-aware; glaucoma classification; assess; omni-supervised learning; pathology; predictive; rare; real; reinforcement learning
 

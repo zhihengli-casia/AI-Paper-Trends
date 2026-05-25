@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **25** (0.93%)
-- Macro topic: 生成模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `autoregressive / tokens / tokenizers / visual generation`
 - Keyword pool: autoregressive; tokens; tokenizers; visual generation; discrete; image generation; continuous; masked; ar image; next-token; quantization; scaling
 

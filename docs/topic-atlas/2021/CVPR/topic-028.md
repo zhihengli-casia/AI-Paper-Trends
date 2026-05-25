@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **21** (1.27%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `scene / recognition / texts / language`
 - Keyword pool: scene; recognition; texts; language; tokens; contour; image captioning; tap; super-resolution; character; words; instances
 

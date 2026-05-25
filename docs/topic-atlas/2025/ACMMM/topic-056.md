@@ -1,8 +1,8 @@
-# ACMMM 2025: 目标检测与图像分割
+# ACMMM 2025: 图像分割、语义分割与场景解析
 
 - Topic ID: `56`
 - Papers: **10** (0.80%)
-- Macro topic: 强化学习/决策
+- Macro topic: 计算机视觉
 - English keywords: `inpainting / completion / amodal / occluded`
 - Keyword pool: inpainting; completion; amodal; occluded; occlusions; masks; pieces; rgb; segmentation; missing; human; agents
 

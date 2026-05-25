@@ -1,8 +1,8 @@
-# ICLR 2025: 视频扩散生成与运动控制
+# ICLR 2025: 扩散生成模型
 
 - Topic ID: `39`
 - Papers: **31** (0.84%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / diffusion / frames / interpolation`
 - Keyword pool: video; diffusion; frames; interpolation; multi-view; camera; consistency; generative; views; keyframe; scenes; sampler
 

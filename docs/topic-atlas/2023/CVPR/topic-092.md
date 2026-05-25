@@ -2,7 +2,7 @@
 
 - Topic ID: `92`
 - Papers: **12** (0.51%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `grounding / video / temporal / sentence`
 - Keyword pool: grounding; video; temporal; sentence; untrimmed; hierarchical; predicate; query; correspondence; language; proposal; self-training
 

@@ -1,8 +1,8 @@
-# ICCV 2021: 语音/音频语言模型
+# ICCV 2021: 人脸分析、表情与属性建模
 
 - Topic ID: `51`
 - Papers: **14** (0.87%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `face / age / facial / identity`
 - Keyword pool: face; age; facial; identity; audio; head; control; expression; animation; pose; talking; texture
 

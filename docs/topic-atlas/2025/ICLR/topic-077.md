@@ -2,7 +2,7 @@
 
 - Topic ID: `77`
 - Papers: **23** (0.62%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `clustering / approximation / submodular / algorithms`
 - Keyword pool: clustering; approximation; submodular; algorithms; means; fairness; sparse pca; streaming; online; ratio; jensen; running time
 

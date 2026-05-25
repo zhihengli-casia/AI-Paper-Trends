@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **11** (0.61%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `link prediction / graph / kgs / numerical`
 - Keyword pool: link prediction; graph; kgs; numerical; kgc; calibration; intervals; embeddings; structural; type; predictive uncertainty; entities
 

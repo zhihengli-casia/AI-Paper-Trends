@@ -2,7 +2,7 @@
 
 - Topic ID: `55`
 - Papers: **13** (0.81%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / attack / trigger / security`
 - Keyword pool: backdoor; attack; trigger; security; dnn; black-box; detection; adversarial; success rate; point; safety-critical; prohibited
 

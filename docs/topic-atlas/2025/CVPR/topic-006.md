@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **49** (1.71%)
-- Macro topic: 生成模型
+- Macro topic: 强化学习/决策
 - English keywords: `text-to-image / t2i / customization / concepts`
 - Keyword pool: text-to-image; t2i; customization; concepts; editing; prompts; control; image generation; multi-concept; attributes; creative; reward
 

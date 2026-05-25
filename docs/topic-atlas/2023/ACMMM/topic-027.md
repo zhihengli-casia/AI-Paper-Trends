@@ -1,8 +1,8 @@
-# ACMMM 2023: person / re-identification / reid / visible-infrared
+# ACMMM 2023: 行人重识别与人群计数
 
 - Topic ID: `27`
 - Papers: **16** (1.77%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `person / re-identification / reid / visible-infrared`
 - Keyword pool: person; re-identification; reid; visible-infrared; camera; cross-modality; occlusion; identity; style; high-frequency; unsupervised; nir-vis
 

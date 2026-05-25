@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **9** (2.24%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `diffusion / influence / maximization / social`
 - Keyword pool: diffusion; influence; maximization; social; abilities; cascades; propagation; limitation; holistic; adaptive; privacy; sensitive
 

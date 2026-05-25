@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **34** (15.67%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `node / gnns / graph neural networks / structural`
 - Keyword pool: node; gnns; graph neural networks; structural; graphs; graph convolutional; variance; subgraph; embedding; negative; aggregation; adversarial attacks
 

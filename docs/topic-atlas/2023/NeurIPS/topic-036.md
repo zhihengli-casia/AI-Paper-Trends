@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **33** (1.03%)
-- Macro topic: 理论/优化
+- Macro topic: AI4Science/医疗
 - English keywords: `recurrent / brain / plasticity / rnns`
 - Keyword pool: recurrent; brain; plasticity; rnns; attractor; synaptic; memory; temporal; dynamics; neuronal; circuits; hopfield
 

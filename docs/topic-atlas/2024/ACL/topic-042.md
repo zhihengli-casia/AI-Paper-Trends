@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **9** (0.96%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `adapters / inductive / transformers / embedding`
 - Keyword pool: adapters; inductive; transformers; embedding; invariant; structurally; layers; generalization; bias; linear; systematicity; quantized
 

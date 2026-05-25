@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **13** (1.04%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `anomaly / detection / anomalies / industrial`
 - Keyword pool: anomaly; detection; anomalies; industrial; anomalous; multimodal; point; inspection; geometric; discriminative patterns; rgb; logical
 

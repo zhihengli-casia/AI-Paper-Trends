@@ -1,8 +1,8 @@
-# ECCV 2022: action / temporal / timestamp / localization
+# ECCV 2022: 视频动作识别与时序定位
 
 - Topic ID: `44`
 - Papers: **16** (0.97%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 计算机视觉
 - English keywords: `action / temporal / timestamp / localization`
 - Keyword pool: action; temporal; timestamp; localization; tags; video; detection; uncertainty; path; activity; pooling; frames
 

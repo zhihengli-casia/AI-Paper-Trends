@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **11** (2.68%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `feedback / recommender / bandit / items`
 - Keyword pool: feedback; recommender; bandit; items; user; noisy; recommendation; multi-modal; popularity; bias; item representations; regret
 

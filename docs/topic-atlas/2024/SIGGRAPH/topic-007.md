@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **8** (6.61%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `gaussian / distillation / facial / generalized`
 - Keyword pool: gaussian; distillation; facial; generalized; monocular; stylized; animation; transfer; generation
 

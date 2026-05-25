@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **42** (5.28%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / clients / learning fl / privacy`
 - Keyword pool: federated; clients; learning fl; privacy; personalized; aggregation; communication; distributed; lora; pde; drift; physics-informed
 

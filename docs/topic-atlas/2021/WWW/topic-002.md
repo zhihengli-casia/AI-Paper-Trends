@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **32** (9.01%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `relevance / ranking / query / item`
 - Keyword pool: relevance; ranking; query; item; retrieval; intent; click; feedback; queries; document; recommendation; fairness
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **8** (2.68%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `icl / in-context / demonstrations / retrieval-augmented`
 - Keyword pool: icl; in-context; demonstrations; retrieval-augmented; long-context; encoder-decoder; adversarial; random; label; stronger; few-shot; baseline
 

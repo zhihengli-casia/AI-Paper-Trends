@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **17** (0.90%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 生成模型
 - English keywords: `continual learning / forgetting / lifelong / catastrophic`
 - Keyword pool: continual learning; forgetting; lifelong; catastrophic; memory; knowledge; episodic; meta-learning; calibration; gan; past; semantic
 

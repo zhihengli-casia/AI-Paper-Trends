@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **35** (4.35%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `image / scene / quality / document`
 - Keyword pool: image; scene; quality; document; compression; corrigendum; volume; assessment; pre-training; recognition; pattern; visual
 

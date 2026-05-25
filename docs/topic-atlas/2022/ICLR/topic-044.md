@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **11** (1.04%)
-- Macro topic: 强化学习/决策
+- Macro topic: 系统/效率/压缩
 - English keywords: `lottery / pruning / ticket / subnetworks`
 - Keyword pool: lottery; pruning; ticket; subnetworks; hypothesis; sparse; winning; sparsity; grouped; weights; randomly; dense
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **11** (1.38%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `vqa / prompt / social / visual`
 - Keyword pool: vqa; prompt; social; visual; clip; question; abnormal; vlms; knowledge-based; counterfactual; language; zero-shot
 

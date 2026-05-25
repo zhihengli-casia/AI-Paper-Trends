@@ -1,8 +1,8 @@
-# WWW 2023: LLM Agent 与工具使用
+# WWW 2023: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `1`
 - Papers: **29** (7.82%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `auction / optimal / agents / mechanisms`
 - Keyword pool: auction; optimal; agents; mechanisms; advertising; welfare; constraint; platform; fairness; bound; markets; payment
 

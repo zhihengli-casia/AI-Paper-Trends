@@ -2,7 +2,7 @@
 
 - Topic ID: `116`
 - Papers: **15** (0.41%)
-- Macro topic: 生成模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `diffusion / preference / text-to-image / t2i`
 - Keyword pool: diffusion; preference; text-to-image; t2i; alignment; compositional; recommendation; feedback; human; reward; personalization; aligning
 

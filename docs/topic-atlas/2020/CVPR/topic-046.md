@@ -1,8 +1,8 @@
-# CVPR 2020: 语音/音频语言模型
+# CVPR 2020: 语音合成与音频生成
 
 - Topic ID: `46`
 - Papers: **15** (1.02%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / synthesis / lip / speech`
 - Keyword pool: video; synthesis; lip; speech; frames; future; motion; forecasting; painting; transition; backpropagation; reference
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `60`
 - Papers: **18** (0.80%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `llms / feedback / bias / multi-turn`
 - Keyword pool: llms; feedback; bias; multi-turn; human; behavior; gender; prompt; social; evoke; content; writing
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **12** (2.02%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `motion / video / diffusion / editing`
 - Keyword pool: motion; video; diffusion; editing; trajectory; inpainting; temporal; subjects; long; flow; view; short-term
 

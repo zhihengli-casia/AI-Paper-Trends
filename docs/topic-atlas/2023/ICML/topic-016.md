@@ -1,4 +1,4 @@
-# ICML 2023: cnns / convolutional / mixup / dropout
+# ICML 2023: 卷积网络结构与训练
 
 - Topic ID: `16`
 - Papers: **28** (1.53%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **18** (22.50%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / classification / image / deep`
 - Keyword pool: medical; classification; image; deep; space; latent; visual; comparing; radiographs; semi-supervised; active; prediction
 

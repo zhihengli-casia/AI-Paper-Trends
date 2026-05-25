@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **22** (3.70%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `point / clouds / depth / query`
 - Keyword pool: point; clouds; depth; query; indoor; scene; queries; segmentation; objects; geometric; object detection; map
 

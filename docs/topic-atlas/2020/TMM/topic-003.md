@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **27** (6.70%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `captioning / user / multimedia / social`
 - Keyword pool: captioning; user; multimedia; social; recommendation; search; graph; intelligence; answers; retrieval; words; captions
 

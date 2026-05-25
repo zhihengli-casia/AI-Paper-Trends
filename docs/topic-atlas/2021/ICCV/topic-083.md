@@ -1,4 +1,4 @@
-# ICCV 2021: 检索 / video-text / cross-modal / contrastive
+# ICCV 2021: 视频检索、时刻定位与事件理解
 
 - Topic ID: `83`
 - Papers: **9** (0.56%)

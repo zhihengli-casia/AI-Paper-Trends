@@ -1,4 +1,4 @@
-# AAAI 2023: object / pseudo / detectors / detection
+# AAAI 2023: 半监督学习与噪声标签建模
 
 - Topic ID: `75`
 - Papers: **10** (0.64%)

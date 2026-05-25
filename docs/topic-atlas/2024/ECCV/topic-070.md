@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **14** (0.59%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / super-resolution / vsr / stitching`
 - Keyword pool: video; super-resolution; vsr; stitching; blur; frames; perceptual quality; dms; temporal; diffusion; indexing; restoration
 

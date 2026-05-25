@@ -1,8 +1,8 @@
-# IJCAI 2022: LLM Agent 与工具使用
+# IJCAI 2022: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `8`
 - Papers: **23** (2.67%)
-- Macro topic: 生成模型
+- Macro topic: 强化学习/决策
 - English keywords: `social / agents / games / players`
 - Keyword pool: social; agents; games; players; mechanisms; utility; mechanism design; facility; optimal; stability; stable; anonymous
 

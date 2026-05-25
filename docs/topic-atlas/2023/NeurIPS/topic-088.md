@@ -2,7 +2,7 @@
 
 - Topic ID: `88`
 - Papers: **17** (0.53%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `inverse problems / mri / pnp / denoising`
 - Keyword pool: inverse problems; mri; pnp; denoising; denoisers; random weight; imaging; self-supervised; quantum; tomography; restoration; bregman
 

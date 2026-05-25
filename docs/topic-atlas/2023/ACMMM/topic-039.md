@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **11** (1.22%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 多模态/VLM
 - English keywords: `quality assessment / vqa / video / subjective`
 - Keyword pool: quality assessment; vqa; video; subjective; aesthetic; subjects; compression; stability; distortions; database; low-light; perceptual quality
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `106`
 - Papers: **15** (0.45%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / fp8 / bit / quantized`
 - Keyword pool: quantization; fp8; bit; quantized; precision; slim; qat; depth; ptq; codebook; low-rank approximation; layer-wise
 

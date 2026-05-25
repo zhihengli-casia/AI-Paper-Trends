@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **26** (0.86%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `graph / fraud / attacks / gnns`
 - Keyword pool: graph; fraud; attacks; gnns; anomaly; detection; nodes; adversarial; injection; neural networks; neighbor; heterophily
 

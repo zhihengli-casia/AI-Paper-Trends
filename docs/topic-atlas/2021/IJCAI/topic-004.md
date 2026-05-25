@@ -1,8 +1,8 @@
-# IJCAI 2021: 机器翻译与跨语言对齐
+# IJCAI 2021: 跨域转换与序列转换
 
 - Topic ID: `4`
 - Papers: **28** (3.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `word / language / translation / sentence`
 - Keyword pool: word; language; translation; sentence; nlp; code; sense; lists; generation; documentation; substitution; entity
 

@@ -1,8 +1,8 @@
-# CVPR 2023: assessment / image quality / aesthetic / face
+# CVPR 2023: 人脸分析、表情与属性建模
 
 - Topic ID: `89`
 - Papers: **12** (0.51%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `assessment / image quality / aesthetic / face`
 - Keyword pool: assessment; image quality; aesthetic; face; facial hair; artistic; diagnosis; blind; logical; neuroscience; quality-aware; attribute
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **20** (2.42%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `commonsense / reasoning / plms / conceptual`
 - Keyword pool: commonsense; reasoning; plms; conceptual; ranker; physical; safety; retriever; knowledge bases; answer; graphs; children
 

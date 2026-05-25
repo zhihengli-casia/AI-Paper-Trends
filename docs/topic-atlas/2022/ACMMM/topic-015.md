@@ -1,8 +1,8 @@
-# ACMMM 2022: action / 运动建模 / recognition / skeleton
+# ACMMM 2022: 视频动作识别与时序定位
 
 - Topic ID: `15`
 - Papers: **19** (2.75%)
-- Macro topic: HCI/社会计算
+- Macro topic: 语音/音频/音乐
 - English keywords: `action / motion / recognition / skeleton`
 - Keyword pool: action; motion; recognition; skeleton; human; synthesis; graph; group; music; body; collaboration; inter-class
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **20** (3.56%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `prompt / classification / long / random`
 - Keyword pool: prompt; classification; long; random; black-box; detectors; disambiguation; ranking; linguistic features; length; few-shot; memory
 

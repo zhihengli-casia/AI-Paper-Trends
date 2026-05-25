@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **14** (0.59%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `animal / metadata / crop / identification`
 - Keyword pool: animal; metadata; crop; identification; disease; aerial; satellite; reading; multimodal; re-id; population; scene understanding
 

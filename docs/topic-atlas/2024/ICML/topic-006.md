@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **48** (1.84%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `regression / kernel / quantile / ridge`
 - Keyword pool: regression; kernel; quantile; ridge; covariance; covariate; high-dimensional; principal; mixed linear; error; risk; estimation
 

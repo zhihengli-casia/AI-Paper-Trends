@@ -1,8 +1,8 @@
-# IJCAI 2022: 对抗攻击、鲁棒性与安全
+# IJCAI 2022: 领域自适应与迁移学习
 
 - Topic ID: `30`
 - Papers: **15** (1.74%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `domain / adaptation / target / source`
 - Keyword pool: domain; adaptation; target; source; feature; adversarial; shift; branch; distribution; color; test-time; pseudo-labels
 

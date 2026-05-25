@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **26** (0.91%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / unlearning / client / aggregation`
 - Keyword pool: federated; unlearning; client; aggregation; heterogeneity; learning fl; weight decay; server; privacy; skew; normalization; lotus
 

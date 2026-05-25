@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **19** (0.57%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: AI4Science/医疗
 - English keywords: `graph / gts / encoding / gnns`
 - Keyword pool: graph; gts; encoding; gnns; positional; structural; edges; node; transformers; hyperbolic; brain network; networks
 

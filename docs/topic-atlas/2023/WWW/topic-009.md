@@ -1,8 +1,8 @@
-# WWW 2023: 知识图谱推理与表示学习
+# WWW 2023: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `9`
 - Papers: **18** (4.85%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `knowledge graph / entities / political / kgs`
 - Keyword pool: knowledge graph; entities; political; kgs; completion; relation; question; taxonomy; stance; answering; nodes; link prediction
 

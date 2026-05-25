@@ -1,8 +1,8 @@
-# CVPR 2024: 目标检测与图像分割
+# CVPR 2024: 语义分割与场景解析
 
 - Topic ID: `72`
 - Papers: **16** (0.59%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `segmentation / clip / prompting / zero-shot semantic`
 - Keyword pool: segmentation; clip; prompting; zero-shot semantic; regional; bias; strokes; few-shot; referring; contrastive; image-text; language
 

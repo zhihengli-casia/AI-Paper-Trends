@@ -1,8 +1,8 @@
-# ACMMM 2020: 搜索排序与相关性建模
+# ACMMM 2020: 视频时刻定位与文本检索
 
 - Topic ID: `4`
 - Papers: **22** (4.65%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `moment / localization / temporal / event`
 - Keyword pool: moment; localization; temporal; event; untrimmed; grounding; videos; query; sentence; object; ranking; traffic
 

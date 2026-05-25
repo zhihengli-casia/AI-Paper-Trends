@@ -1,8 +1,8 @@
-# ACL 2020: 句法语义解析与结构化表示
+# ACL 2020: 句法解析与语言结构建模
 
 - Topic ID: `14`
 - Papers: **19** (2.44%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `parsing / graph / srl / dependency`
 - Keyword pool: parsing; graph; srl; dependency; structural; parser; networks; grammar; type; relations; structure; meaning
 

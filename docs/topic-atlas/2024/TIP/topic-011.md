@@ -1,8 +1,8 @@
-# TIP 2024: 扩散生成模型
+# TIP 2024: 行人重识别与人群计数
 
 - Topic ID: `11`
 - Papers: **18** (3.77%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attack / person / face`
 - Keyword pool: adversarial; attack; person; face; re-identification; diffusion; samples; forgery; recognition; bypass; identity; defense
 

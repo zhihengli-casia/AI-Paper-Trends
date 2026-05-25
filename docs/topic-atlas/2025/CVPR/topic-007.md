@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **46** (1.60%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `retrieval / document / composed image / query`
 - Keyword pool: retrieval; document; composed image; query; multimodal; retrieve; rag; mllms; language; cross-modal; person; layout
 

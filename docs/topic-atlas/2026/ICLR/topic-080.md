@@ -2,7 +2,7 @@
 
 - Topic ID: `80`
 - Papers: **32** (0.60%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / secure / private / membership inference`
 - Keyword pool: privacy; secure; private; membership inference; llms; sensitive; attacks; rag; security; homomorphic encryption; leakage; inference attack
 

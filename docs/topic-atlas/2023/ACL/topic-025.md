@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **16** (1.49%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `summarization / summaries / key point / metrics`
 - Keyword pool: summarization; summaries; key point; metrics; evidence; multi-document; points; summary; report; automated; workers; reviews
 

@@ -1,8 +1,8 @@
-# IJCAI 2020: 目标检测与图像分割
+# IJCAI 2020: 医学影像分割
 
 - Topic ID: `38`
 - Papers: **11** (1.41%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `domain / segmentation / retrieval / semantic`
 - Keyword pool: domain; segmentation; retrieval; semantic; image; alignment; adaptation; cross-modality; medical; bi-level; receptive; target
 

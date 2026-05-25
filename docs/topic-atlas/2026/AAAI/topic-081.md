@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **24** (0.58%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `preference / llms / dpo / sda`
 - Keyword pool: preference; llms; dpo; sda; aligning; annealing; test-time; margin; reward; human values; spa; fuzzy
 

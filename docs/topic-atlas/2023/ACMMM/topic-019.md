@@ -1,4 +1,4 @@
-# ACMMM 2023: classes / food / 零样本 / old
+# ACMMM 2023: 零样本分类与开放集识别
 
 - Topic ID: `19`
 - Papers: **17** (1.88%)

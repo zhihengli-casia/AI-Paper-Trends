@@ -2,7 +2,7 @@
 
 - Topic ID: `61`
 - Papers: **14** (0.77%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `chart / diagrams / layout / visualizations`
 - Keyword pool: chart; diagrams; layout; visualizations; design; attribution; multimodal; cross-modal; mllms; misleading; scientific; slides
 

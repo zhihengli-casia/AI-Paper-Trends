@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **18** (0.75%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `event / flow / cameras / motion`
 - Keyword pool: event; flow; cameras; motion; optical; neuromorphic; dynamic range; stereo; sign language; magnification; intensity; temporal
 

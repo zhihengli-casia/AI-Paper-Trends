@@ -1,8 +1,8 @@
-# ECCV 2024: 语音/音频语言模型
+# ECCV 2024: 说话人视频生成与人脸动画
 
 - Topic ID: `43`
 - Papers: **21** (0.88%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `talking / audio / facial / synchronization`
 - Keyword pool: talking; audio; facial; synchronization; motions; sound; speech; videos; emotional; head; animation; gesture
 

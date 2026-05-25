@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **9** (13.24%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / lesion / mr images / instance`
 - Keyword pool: brain; lesion; mr images; instance; mousegan; regions carvemix; priors; nucmm neuronal; resgan; residuals; scale; nuclei
 

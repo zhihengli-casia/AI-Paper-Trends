@@ -1,4 +1,4 @@
-# IJCAI 2020: quantization / architecture search / bit / devices
+# IJCAI 2020: 神经架构搜索与模型设计
 
 - Topic ID: `25`
 - Papers: **15** (1.93%)

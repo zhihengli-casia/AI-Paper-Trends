@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **33** (2.18%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / editing / image / style`
 - Keyword pool: diffusion; editing; image; style; fine-tuning; transfer; generation; portrait; text-guided; face; inpainting; semantic-aware
 

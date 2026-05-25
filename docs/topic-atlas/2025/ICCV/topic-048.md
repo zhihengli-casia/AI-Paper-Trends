@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **23** (0.85%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `counting / detection / exemplars / few-shot`
 - Keyword pool: counting; detection; exemplars; few-shot; segmentation; vlms; ovod; x-ray; text-guided; hallucinations; wildlife; dash
 

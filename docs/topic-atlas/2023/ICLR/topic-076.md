@@ -1,4 +1,4 @@
-# ICLR 2023: tabular / feature / generative / fetch
+# ICLR 2023: 扩散生成模型
 
 - Topic ID: `76`
 - Papers: **10** (0.65%)

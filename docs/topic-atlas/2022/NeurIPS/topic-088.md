@@ -2,7 +2,7 @@
 
 - Topic ID: `88`
 - Papers: **14** (0.52%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / attack / trigger / poisoned`
 - Keyword pool: backdoor; attack; trigger; poisoned; clean; target class; poisoning; apis; benign; defenses; stem; watermarking
 

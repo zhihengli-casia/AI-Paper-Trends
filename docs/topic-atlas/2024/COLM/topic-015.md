@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **9** (3.01%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `visual / mllms / vlms / cot`
 - Keyword pool: visual; mllms; vlms; cot; planning; long-form; answers; chain-of-thought; questions; vision; multi-modal; deductive reasoning
 

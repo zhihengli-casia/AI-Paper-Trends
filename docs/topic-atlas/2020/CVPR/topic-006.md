@@ -1,8 +1,8 @@
-# CVPR 2020: event / dynamic range / camera / 运动建模
+# CVPR 2020: 事件相机与高动态范围视觉
 
 - Topic ID: `6`
 - Papers: **27** (1.84%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 计算机视觉
 - English keywords: `event / dynamic range / camera / motion`
 - Keyword pool: event; dynamic range; camera; motion; imaging; intensity; optical; resolution; smartphone; reconstruction; sensor; hardware
 

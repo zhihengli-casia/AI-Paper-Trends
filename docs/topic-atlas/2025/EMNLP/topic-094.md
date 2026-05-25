@@ -2,7 +2,7 @@
 
 - Topic ID: `94`
 - Papers: **8** (0.44%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `preference / dpo / reward / alpacaeval`
 - Keyword pool: preference; dpo; reward; alpacaeval; aligning language; function; listwise; arena-hard; token selection; selective; online; feedback rlhf
 

@@ -1,8 +1,8 @@
-# SIGIR 2025: 知识图谱推理与表示学习
+# SIGIR 2025: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `7`
 - Papers: **13** (5.44%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `kgs / relation / knowledge graph / reasoning`
 - Keyword pool: kgs; relation; knowledge graph; reasoning; entity; biomedical; normalization; pattern; neural; entities; forgetting; facts
 

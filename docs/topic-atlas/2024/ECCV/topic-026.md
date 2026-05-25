@@ -1,8 +1,8 @@
-# ECCV 2024: 视频扩散生成与运动控制
+# ECCV 2024: 扩散生成模型
 
 - Topic ID: `26`
 - Papers: **27** (1.13%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `multi-view / synthesis / diffusion / video`
 - Keyword pool: multi-view; synthesis; diffusion; video; views; scene; nvs; motion; omni-directional; dynamic; generative; gaussian
 

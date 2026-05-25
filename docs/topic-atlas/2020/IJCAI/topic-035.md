@@ -1,8 +1,8 @@
-# IJCAI 2020: 语音/音频语言模型
+# IJCAI 2020: 语音与视觉对抗攻击
 
 - Topic ID: `35`
 - Papers: **12** (1.54%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 可信/安全/公平
 - English keywords: `speech / audio / temporal / signal`
 - Keyword pool: speech; audio; temporal; signal; adversarial examples; generation; snn; transformer; recognition; attention; separation; dependency
 

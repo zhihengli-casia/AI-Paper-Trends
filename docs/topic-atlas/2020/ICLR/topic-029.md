@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **11** (1.60%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `games / regret / communication / minimax`
 - Keyword pool: games; regret; communication; minimax; minimization; value function; mean-field; zero-sum; agents; multi-agent; equilibrium; reinforcement
 

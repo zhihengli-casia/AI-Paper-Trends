@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **10** (6.49%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / unlearning / clients / global`
 - Keyword pool: federated; unlearning; clients; global; local; attack; privacy; backdoor; personalized; distributed; poisoning; convergence
 

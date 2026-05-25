@@ -1,8 +1,8 @@
-# ICLR 2023: teacher / student / distillation / augmentation
+# ICLR 2023: 神经架构搜索与模型设计
 
 - Topic ID: `45`
 - Papers: **16** (1.05%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `teacher / student / distillation / augmentation`
 - Keyword pool: teacher; student; distillation; augmentation; feature; ideal; ensemble; nas; pre-trained; distilling; task-agnostic; capacity
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **19** (1.81%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / clinical / radiology / reports`
 - Keyword pool: medical; clinical; radiology; reports; healthcare; faithfulness; cross-modal; reviews; nli; criteria; quality estimation; simplification
 

@@ -1,8 +1,8 @@
-# IJCAI 2023: 文档摘要与信息压缩
+# IJCAI 2023: 视频摘要与精彩片段检测
 
 - Topic ID: `26`
 - Papers: **14** (1.65%)
-- Macro topic: NLP任务
+- Macro topic: 多模态/VLM
 - English keywords: `video / captioning / visual / prompt`
 - Keyword pool: video; captioning; visual; prompt; question; summarization; language; image; answering; tuning; frames; clip
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **9** (4.05%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `llms / language / few-shot / fsl`
 - Keyword pool: llms; language; few-shot; fsl; modification; unlearning; word; topic; explainability; recommendation; hallucinations; demonstrations
 

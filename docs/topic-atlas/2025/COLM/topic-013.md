@@ -1,8 +1,8 @@
-# COLM 2025: LLM Agent 与工具使用
+# COLM 2025: 智能体决策与多智能体系统
 
 - Topic ID: `13`
 - Papers: **16** (3.83%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `social / values / agents / user`
 - Keyword pool: social; values; agents; user; simulation; framing; news; preferences; interactions; preference modeling; researchers; personalized
 

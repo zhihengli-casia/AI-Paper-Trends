@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **28** (1.20%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / clients / personalized / learning fl`
 - Keyword pool: federated; clients; personalized; learning fl; communication; heterogeneity; attacks; devices; fedavg; server; privacy; leakage
 

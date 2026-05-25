@@ -1,4 +1,4 @@
-# CVPR 2020: labels / semi-supervised / labeled / 图学习
+# CVPR 2020: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `23`
 - Papers: **20** (1.36%)

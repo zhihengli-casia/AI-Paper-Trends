@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **34** (2.68%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / pruning / decoding / speculative`
 - Keyword pool: quantization; pruning; decoding; speculative; activation; memory; inference; gpu; verbatim; cache; compression; calibration
 

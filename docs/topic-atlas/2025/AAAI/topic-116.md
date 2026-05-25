@@ -2,7 +2,7 @@
 
 - Topic ID: `116`
 - Papers: **10** (0.33%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `quantum / bayesian / processor / circuit`
 - Keyword pool: quantum; bayesian; processor; circuit; functional; schr; bella; dinger; ising; learner; approximations; optimization problems
 

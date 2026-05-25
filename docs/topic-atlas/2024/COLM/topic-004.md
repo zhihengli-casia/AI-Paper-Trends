@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **23** (7.69%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `reward / preference / rlhf / alignment`
 - Keyword pool: reward; preference; rlhf; alignment; pairwise; policy; biases; reinforcement; dpo; economic; dialogue; noise
 

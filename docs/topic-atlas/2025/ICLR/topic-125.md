@@ -2,7 +2,7 @@
 
 - Topic ID: `125`
 - Papers: **14** (0.38%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `pruning / layers / dare / pruned`
 - Keyword pool: pruning; layers; dare; pruned; post-training; calibration; clipping; delta; stagewise; llms; compression; dropping
 

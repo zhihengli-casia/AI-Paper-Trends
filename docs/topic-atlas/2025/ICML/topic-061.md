@@ -2,7 +2,7 @@
 
 - Topic ID: `61`
 - Papers: **22** (0.66%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `agents / defenses / web / security`
 - Keyword pool: agents; defenses; web; security; vulnerabilities; red-teaming; attacks; malicious; safety; llm; adversarial; red teaming
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **8** (0.53%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `registration / image / medical / cross-attention network`
 - Keyword pool: registration; image; medical; cross-attention network; network brain; multi-resolution; gradient modulation; optimal transport; deep reinforcement; multimodal; intelligent; self-distillation
 

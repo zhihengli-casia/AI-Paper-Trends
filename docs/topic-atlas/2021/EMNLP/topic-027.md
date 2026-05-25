@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **12** (1.42%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `cross-lingual / multilingual / languages / monolingual`
 - Keyword pool: cross-lingual; multilingual; languages; monolingual; parallel corpora; alignment; crosslingual; similarity; amr; embedding; ree; meaning
 

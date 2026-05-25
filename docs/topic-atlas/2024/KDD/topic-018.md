@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **10** (2.43%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / sensitive / attributes / groups`
 - Keyword pool: fairness; sensitive; attributes; groups; classifier; debiasing; dependence; ssl; utility; gnns; embedding; invariant
 

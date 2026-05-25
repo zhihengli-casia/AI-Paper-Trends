@@ -2,7 +2,7 @@
 
 - Topic ID: `71`
 - Papers: **11** (0.65%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / visual / hallucination / vision-language`
 - Keyword pool: medical; visual; hallucination; vision-language; lvlms; images; attention; preference; object; listwise; optimization; pathology
 

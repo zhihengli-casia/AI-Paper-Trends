@@ -1,8 +1,8 @@
-# AAAI 2026: 医疗健康与临床 AI
+# AAAI 2026: 医学影像分析
 
 - Topic ID: `56`
 - Papers: **32** (0.77%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `report generation / clinical / radiology / medical`
 - Keyword pool: report generation; clinical; radiology; medical; x-ray; diagnostic; chest; imaging; reports; mri; diagnosis; anatomical
 

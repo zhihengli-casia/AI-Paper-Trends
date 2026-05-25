@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **42** (4.37%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `object / detection / pruning / localization`
 - Keyword pool: object; detection; pruning; localization; re-identification; remote; change; feature; multi-scale; fusion; attention; few-shot
 

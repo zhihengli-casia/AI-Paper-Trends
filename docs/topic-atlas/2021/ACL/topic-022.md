@@ -1,8 +1,8 @@
-# ACL 2021: 机器翻译与跨语言对齐
+# ACL 2021: 领域自适应与迁移学习
 
 - Topic ID: `22`
 - Papers: **15** (2.11%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `distillation / teacher / student / translation`
 - Keyword pool: distillation; teacher; student; translation; domain; low-frequency; machine; adaptation; unsupervised; decoder; compression; transferable knowledge
 

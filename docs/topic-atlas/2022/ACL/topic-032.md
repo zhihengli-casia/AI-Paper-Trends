@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **8** (1.14%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 推荐/检索/排序
 - English keywords: `document / dense retrieval / multi-view / tabular`
 - Keyword pool: document; dense retrieval; multi-view; tabular; column; layout; row; token; latency; encoding; re-ranking; language-independent
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **11** (2.49%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: NLP任务
 - English keywords: `event / extraction / arguments / graph`
 - Keyword pool: event; extraction; arguments; graph; document-level; degree; languages; class; joint; dependencies; compact; relation
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **10** (15.38%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `physics-informed / imaging / cardiac / neural`
 - Keyword pool: physics-informed; imaging; cardiac; neural; mapping; brain; modeling; polarimetric; pressure; odes temporal; quantized; personalized
 

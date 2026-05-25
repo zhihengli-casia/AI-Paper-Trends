@@ -2,7 +2,7 @@
 
 - Topic ID: `135`
 - Papers: **11** (0.33%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `merging / merged / task-specific / interference`
 - Keyword pool: merging; merged; task-specific; interference; vectors; conflicts; multi-task; cat; fusion; quantization; multi-expert; restoration
 

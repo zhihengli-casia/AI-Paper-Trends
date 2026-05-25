@@ -1,4 +1,4 @@
-# IJCAI 2025: LLM Agent 与工具使用
+# IJCAI 2025: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `21`
 - Papers: **19** (1.48%)

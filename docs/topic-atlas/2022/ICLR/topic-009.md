@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **27** (2.54%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `kernel / collapse / relu / approximation`
 - Keyword pool: kernel; collapse; relu; approximation; infinite-width; feature learning; ntk; overparametrized; tangent; double descent; bounds; error
 

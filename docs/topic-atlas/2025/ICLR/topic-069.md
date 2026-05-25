@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **25** (0.68%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `graph / gnns / neural networks / expressivity`
 - Keyword pool: graph; gnns; neural networks; expressivity; node; ranking; centrality; mpnns; expressive; sis; simplex; homomorphism
 

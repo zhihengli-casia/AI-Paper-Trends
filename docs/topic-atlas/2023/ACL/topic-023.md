@@ -1,8 +1,8 @@
-# ACL 2023: 文档摘要与信息压缩
+# ACL 2023: 摘要生成与信息压缩
 
 - Topic ID: `23`
 - Papers: **17** (1.58%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `summarization / factual / summaries / omission`
 - Keyword pool: summarization; factual; summaries; omission; summary; error; metrics; consistency; extractive; dialogue; faithfulness; unfaithful
 

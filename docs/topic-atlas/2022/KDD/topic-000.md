@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **27** (10.67%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `clustering / fairness / community / private`
 - Keyword pool: clustering; fairness; community; private; sketch; privacy; queries; topic; machines; distributed; communities; query
 

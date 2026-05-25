@@ -2,7 +2,7 @@
 
 - Topic ID: `106`
 - Papers: **10** (0.37%)
-- Macro topic: 多模态/VLM
+- Macro topic: 强化学习/决策
 - English keywords: `driving / autonomous / language / llms`
 - Keyword pool: driving; autonomous; language; llms; waypoints; traffic; vehicles; vlp; agent; planning; closed-loop; collision
 

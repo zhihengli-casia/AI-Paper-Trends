@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **21** (0.65%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `activity / spike / neuronal / neurons`
 - Keyword pool: activity; spike; neuronal; neurons; brain; spiking; recordings; populations; decoding; whitening; trials; sensory
 

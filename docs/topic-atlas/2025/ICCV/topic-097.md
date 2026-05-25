@@ -2,7 +2,7 @@
 
 - Topic ID: `97`
 - Papers: **12** (0.44%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `driving / scene generation / simulation / autonomous`
 - Keyword pool: driving; scene generation; simulation; autonomous; video generation; infgen; closed-loop; videos; geometric; synthesis; scenes; controllable
 

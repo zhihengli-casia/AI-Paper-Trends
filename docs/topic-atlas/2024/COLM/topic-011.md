@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **12** (4.01%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `mllms / visual / image / multimodal`
 - Keyword pool: mllms; visual; image; multimodal; tags; fine-grained; lite; long-context; inputs; encoders; t2i; hallucinations
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **39** (2.13%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `clip / language / multimodal / zero-shot`
 - Keyword pool: clip; language; multimodal; zero-shot; semantic; segmentation; image; word; prompt; visual; multi-modal; video
 

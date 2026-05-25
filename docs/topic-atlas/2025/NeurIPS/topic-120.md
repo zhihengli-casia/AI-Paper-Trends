@@ -2,7 +2,7 @@
 
 - Topic ID: `120`
 - Papers: **18** (0.34%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `pruning / sparsity / pruned / llms`
 - Keyword pool: pruning; sparsity; pruned; llms; compression; permllm; mezo; matrix approximation; channel; permutation; weight; memory-efficient
 

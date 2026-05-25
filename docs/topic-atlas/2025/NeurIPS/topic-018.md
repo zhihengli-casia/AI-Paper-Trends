@@ -1,8 +1,8 @@
-# NeurIPS 2025: 病理图像与临床 AI
+# NeurIPS 2025: 医学影像分割
 
 - Topic ID: `18`
 - Papers: **62** (1.17%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / pathology / medical / images`
 - Keyword pool: segmentation; pathology; medical; images; clinical; cancer; anatomical; wsi; diagnostic; ehr; diffusion; visual
 

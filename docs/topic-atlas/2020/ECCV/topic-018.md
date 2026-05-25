@@ -1,8 +1,8 @@
-# ECCV 2020: 目标检测与图像分割
+# ECCV 2020: 实例分割与开放词汇分割
 
 - Topic ID: `18`
 - Papers: **24** (1.77%)
-- Macro topic: NLP任务
+- Macro topic: 计算机视觉
 - English keywords: `segmentation / instance / mask / r-cnn`
 - Keyword pool: segmentation; instance; mask; r-cnn; foregrounds; few-shot semantic; boundary; objects; query; transparent; head; segmenting
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `65`
 - Papers: **8** (0.70%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `scene recognition / document / masked / character`
 - Keyword pool: scene recognition; document; masked; character; decoder; pre-training; low-light; vision language; positional; retrieval; localization; denoising
 

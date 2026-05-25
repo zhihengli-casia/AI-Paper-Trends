@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **12** (2.98%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `body / style / fashion / pose`
 - Keyword pool: body; style; fashion; pose; shape; control; influence; photos; transfer; estimation; appearance; heatmaps
 

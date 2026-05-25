@@ -1,8 +1,8 @@
-# EMNLP 2025: 语音/音频语言模型
+# EMNLP 2025: 语音合成与音频生成
 
 - Topic ID: `0`
 - Papers: **48** (2.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `speech / audio / asr / recognition`
 - Keyword pool: speech; audio; asr; recognition; speaker; tts; transcription; acoustic; tta; spoken; whisper; style
 

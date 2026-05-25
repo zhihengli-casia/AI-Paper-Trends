@@ -1,8 +1,8 @@
-# IJCAI 2020: dialogue / responses / topic / generation
+# IJCAI 2020: 对话系统与会话建模
 
 - Topic ID: `23`
 - Papers: **15** (1.93%)
-- Macro topic: 计算机视觉
+- Macro topic: NLP任务
 - English keywords: `dialogue / responses / topic / generation`
 - Keyword pool: dialogue; responses; topic; generation; comments; gaze; exemplar; conversation; coherence; discourse; latent variable; word
 

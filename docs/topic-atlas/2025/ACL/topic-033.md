@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **20** (1.18%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `legal / stance / retrieval / patent`
 - Keyword pool: legal; stance; retrieval; patent; court; claims; sustainability; jurisdictions; experts; law; interpretation; cases
 

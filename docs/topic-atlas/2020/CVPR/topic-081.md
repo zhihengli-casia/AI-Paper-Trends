@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **9** (0.61%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `vae / latent / variational / disentanglement`
 - Keyword pool: vae; latent; variational; disentanglement; autoencoder; cognitive; brain; factors; representations; nested; unsupervised; riemannian
 

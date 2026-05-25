@@ -2,7 +2,7 @@
 
 - Topic ID: `77`
 - Papers: **12** (0.63%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `reasoning / logical / relational / entities`
 - Keyword pool: reasoning; logical; relational; entities; queries; embedding; knowledge base; visual; program; drawing; induction; planes
 

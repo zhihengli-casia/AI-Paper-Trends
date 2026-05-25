@@ -2,7 +2,7 @@
 
 - Topic ID: `77`
 - Papers: **14** (0.60%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `ner / entity / entities / span`
 - Keyword pool: ner; entity; entities; span; recognition; typing; sentences; boundary; multi-modal; few-shot; low-resource; source domain
 

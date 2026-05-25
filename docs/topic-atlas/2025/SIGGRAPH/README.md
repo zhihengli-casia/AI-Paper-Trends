@@ -14,7 +14,7 @@
 | [000](topic-000.md) | generation / control / 运动建模 / learning | 29 | 18.01% | 生成模型 | `generation / control / motion / learning` | Large-Scale Multi-Character Interaction Synthesis |
 | [001](topic-001.md) | 高斯表示 / monte carlo / simulation / rendering | 18 | 11.18% | 生成模型 | `gaussian / monte carlo / simulation / rendering` | 3DGS2: Near Second-order Converging 3D Gaussian Splatting |
 | [002](topic-002.md) | 扩散生成模型 | 17 | 10.56% | 系统/效率/压缩 | `sampling / rendering / neural / spherical` | Neural BRDF Importance Sampling by Reparameterization |
-| [003](topic-003.md) | 视频扩散生成与运动控制 | 16 | 9.94% | 生成模型 | `video / motion / control / generation` | MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation |
+| [003](topic-003.md) | 视频扩散生成与运动控制 | 16 | 9.94% | 计算机视觉 | `video / motion / control / generation` | MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation |
 | [004](topic-004.md) | 扩散生成模型 | 15 | 9.32% | 生成模型 | `image / generation / learning / attention` | InstanceGen: Image Generation with Instance-level Instructions |
 | [005](topic-005.md) | generation / neural / learning / representation | 13 | 8.07% | 生成模型 | `generation / neural / learning / representation` | OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation |
 | [006](topic-006.md) | scene / editing / generation / online | 10 | 6.21% | 生成模型 | `scene / editing / generation / online` | 3D-Fixup: Advancing Photo Editing with 3D Priors |

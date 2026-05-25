@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **8** (3.60%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `federated / clients / knowledge / aggregation`
 - Keyword pool: federated; clients; knowledge; aggregation; graph; heterogeneous; hyperspectral; privacy; server; class; collaborative; medical
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **22** (1.06%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 计算机视觉
 - English keywords: `video / self-supervised / highlight / contrastive`
 - Keyword pool: video; self-supervised; highlight; contrastive; representation learning; event; temporal; ucf101; hmdb51; boundary detection; correspondence; distinction
 

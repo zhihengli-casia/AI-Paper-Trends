@@ -38,13 +38,13 @@
 | [024](topic-024.md) | 模仿学习与机器人示教 | 25 | 1.27% | 3D/具身/机器人 | `imitation / learning / visuomotor / demonstrations` | Offline Imitation Learning upon Arbitrary Demonstrations by Pre-Training Dynamics Representations |
 | [025](topic-025.md) | 多机器人路径规划与协同导航 | 25 | 1.27% | 3D/具身/机器人 | `multi-robot / exploration / autonomous / cooperative` | Multi-Robot Motion Planning with Cooperative Localization |
 | [026](topic-026.md) | 机器人操作与抓取 | 25 | 1.27% | 3D/具身/机器人 | `grasping / cluttered / object / robotic` | SemSegGrasp: Plug-and-play Task-oriented Grasping via Semantic Segmentation |
-| [027](topic-027.md) | recognition / action / human / flow matching | 24 | 1.21% | 3D/具身/机器人 | `recognition / action / human / flow matching` | LS-HAR: Language Supervised Human Action Recognition with Salient Fusion, Construction Sites as a Use-Case |
+| [027](topic-027.md) | 视频动作识别与时序定位 | 24 | 1.21% | 3D/具身/机器人 | `recognition / action / human / flow matching` | LS-HAR: Language Supervised Human Action Recognition with Salient Fusion, Construction Sites as a Use-Case |
 | [028](topic-028.md) | 机器人视觉目标检测与域适应 | 24 | 1.21% | 3D/具身/机器人 | `segmentation / detection / object / instance` | Adapting Pre-Trained Vision Models for Novel Instance Detection and Segmentation |
 | [029](topic-029.md) | 人形机器人与全身控制 | 24 | 1.21% | 3D/具身/机器人 | `control / impedance / whole-body / human-robot` | Safety-Aware Geometric Force-Impedance Control for Manipulators |
 | [030](topic-030.md) | 机器人操作与具身智能 | 24 | 1.21% | 3D/具身/机器人 | `localization / camera / global / relative` | One-shot Global Localization through Semantic Distribution Feature Retrieval and Semantic Topological Histogram Registration |
 | [031](topic-031.md) | tactile / sensor / vision-based / magnetic | 23 | 1.16% | 3D/具身/机器人 | `tactile / sensor / vision-based / magnetic` | TwinTac: A Wide-Range, Highly Sensitive Tactile Sensor with Real-To-Sim Digital Twin Sensor Model |
 | [032](topic-032.md) | LiDAR 点云与 3D 感知 | 23 | 1.16% | 3D/具身/机器人 | `odometry / lidar / localization / inertial` | Adaptive Sliding Window Optimization for Multi-Modal LiDAR Inertial Odometry and Mapping |
-| [033](topic-033.md) | 多智能体协作与规划 | 23 | 1.16% | 3D/具身/机器人 | `trajectory prediction / forecasting / traffic / spatial-temporal` | Stochasticity in Motion: An Information-Theoretic Approach to Trajectory Prediction |
+| [033](topic-033.md) | 时间序列预测 | 23 | 1.16% | 3D/具身/机器人 | `trajectory prediction / forecasting / traffic / spatial-temporal` | Stochasticity in Motion: An Information-Theoretic Approach to Trajectory Prediction |
 | [036](topic-036.md) | 足式机器人与运动控制 | 22 | 1.11% | 3D/具身/机器人 | `locomotion / bipedal / humanoid / wheels` | Motion Control of a Hybrid Self-Reconfigurable Wheel-Legged Dual-Arm Robot |
 | [034](topic-034.md) | LiDAR 点云与 3D 感知 | 22 | 1.11% | 3D/具身/机器人 | `calibration / extrinsic / lidar-camera / panoramic` | Direct, Targetless and Automatic Joint Calibration of LiDAR-Camera Intrinsic and Extrinsic |
 | [038](topic-038.md) | 机器人操作与具身智能 | 22 | 1.11% | 3D/具身/机器人 | `decentralized / multi-robot / formation / control` | Decentralized Uncertainty-Aware Multi-Agent Collision Avoidance With Model Predictive Path Integral * |
@@ -55,7 +55,7 @@
 | [041](topic-041.md) | 深度估计与立体匹配 | 19 | 0.96% | 3D/具身/机器人 | `depth / monocular / estimation / self-supervised` | BoRe-Depth: Self-Supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems |
 | [042](topic-042.md) | pose estimation / object pose / category-level / estimating | 19 | 0.96% | 3D/具身/机器人 | `pose estimation / object pose / category-level / estimating` | Distilling 3D distinctive local descriptors for 6D pose estimation |
 | [043](topic-043.md) | 规划搜索与决策推理 | 19 | 0.96% | 3D/具身/机器人 | `planning / motion / sampling-based / tethered` | Sampling-Based Motion Planning with Discrete Configuration-Space Symmetries |
-| [044](topic-044.md) | 机器人操作与具身智能 | 19 | 0.96% | 3D/具身/机器人 | `tactile / sensing / contact / sensors` | High-dynamic Tactile Sensing for Tactile Servo Manipulation: Let Robots Swing a Hammer |
+| [044](topic-044.md) | 语音、音频与声学建模 | 19 | 0.96% | 3D/具身/机器人 | `tactile / sensing / contact / sensors` | High-dynamic Tactile Sensing for Tactile Servo Manipulation: Let Robots Swing a Hammer |
 | [045](topic-045.md) | predictive / control / vehicles / autonomous | 18 | 0.91% | 3D/具身/机器人 | `predictive / control / vehicles / autonomous` | Online Residual Model Learning for Model Predictive Control of Autonomous Surface Vehicles in Real-World Environments |
 | [047](topic-047.md) | 规划搜索与决策推理 | 17 | 0.86% | 3D/具身/机器人 | `avoidance / obstacle / planning / environments` | DGVO: A Dynamically Constrained Gradient Velocity Obstacle Approach for Mobile Robots in Dynamic Environments |
 | [046](topic-046.md) | gait / exoskeleton / prosthetic / limb | 17 | 0.86% | 3D/具身/机器人 | `gait / exoskeleton / prosthetic / limb` | Towards Data-Driven Adaptive Exoskeleton Assistance for Post-stroke Gait |
@@ -78,13 +78,13 @@
 | [064](topic-064.md) | 无人机/四旋翼规划与控制 | 14 | 0.71% | 3D/具身/机器人 | `quadrotor / control / morphing / flight` | Quadrotor Morpho-Transition: Learning vs Model-Based Control Strategies |
 | [065](topic-065.md) | 深度估计与立体匹配 | 14 | 0.71% | 3D/具身/机器人 | `attention / perception / bird / depth` | Adjacent-view Transformers for Supervised Surround-view Depth Estimation |
 | [066](topic-066.md) | 机器人操作与抓取 | 14 | 0.71% | 3D/具身/机器人 | `manipulation / learning / assembly / reinforcement` | RecoveryChaining: Learning Local Recovery Policies for Robust Manipulation |
-| [067](topic-067.md) | 目标检测与图像分割 | 14 | 0.71% | 3D/具身/机器人 | `underwater / object detection / maritime / observations` | The Common Objects Underwater (COU) Dataset for Robust Underwater Object Detection |
+| [067](topic-067.md) | 语音、音频与声学建模 | 14 | 0.71% | 3D/具身/机器人 | `underwater / object detection / maritime / observations` | The Common Objects Underwater (COU) Dataset for Robust Underwater Object Detection |
 | [068](topic-068.md) | 扩散生成模型 | 14 | 0.71% | 3D/具身/机器人 | `diffusion / policies / policy / offline` | Diffusion Policies with Value-Conditional Optimization for Offline Reinforcement Learning |
 | [069](topic-069.md) | scene / open-vocabulary / understanding / graphs | 14 | 0.71% | 3D/具身/机器人 | `scene / open-vocabulary / understanding / graphs` | Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding |
 | [071](topic-071.md) | 规划搜索与决策推理 | 13 | 0.66% | 3D/具身/机器人 | `navigation / terrain / risk / safe` | Safe Navigation in Uncertain Crowded Environments Using Risk Adaptive CVaR Barrier Functions |
 | [070](topic-070.md) | actuators / exoskeleton / compensation / devices | 13 | 0.66% | 3D/具身/机器人 | `actuators / exoskeleton / compensation / devices` | WAVE: Worm Gear-based Adaptive Variable Elasticity for Decoupling Actuators from External Forces |
 | [073](topic-073.md) | 无人机/四旋翼规划与控制 | 13 | 0.66% | 3D/具身/机器人 | `uav / navigation / drones / outdoor environments` | UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat |
-| [072](topic-072.md) | 多模态学习与跨模态理解 | 13 | 0.66% | 3D/具身/机器人 | `anomaly / detection / noise / world` | Noise Fusion-based Distillation Learning for Anomaly Detection in Complex Industrial Environments |
+| [072](topic-072.md) | 多模态融合与跨模态表示 | 13 | 0.66% | 3D/具身/机器人 | `anomaly / detection / noise / world` | Noise Fusion-based Distillation Learning for Anomaly Detection in Complex Industrial Environments |
 | [074](topic-074.md) | physics-informed / generation / visual servoing / scalable | 12 | 0.61% | 3D/具身/机器人 | `physics-informed / generation / visual servoing / scalable` | Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups |
 | [075](topic-075.md) | 机器人触觉感知与操作 | 12 | 0.61% | 3D/具身/机器人 | `haptic / teleoperation / immersive / feedback` | Touch-Linked Sleeve: A Haptic Interface for Augmented Tactile Perception in Robotic Teleoperation |
 | [076](topic-076.md) | 规划搜索与决策推理 | 12 | 0.61% | 3D/具身/机器人 | `planning / manufacturing / benchmarking / assembly` | Assembly Sequence Planning Considering Robotic Motion Costs and Multi-Operation Constraints |
@@ -105,8 +105,8 @@
 | [091](topic-091.md) | 策略优化 / multi-task / learning / preference-based | 10 | 0.51% | 3D/具身/机器人 | `policy / multi-task / learning / preference-based` | M3PO: Massively Multi-Task Model-Based Policy Optimization |
 | [092](topic-092.md) | 时序逻辑约束下的机器人任务规划 | 10 | 0.51% | 3D/具身/机器人 | `temporal logic / code generation / planning / reactive` | LTLCodeGen: Code Generation of Syntactically Correct Temporal Logic for Robot Task Planning |
 | [093](topic-093.md) | 视觉语言模型与多模态理解 | 10 | 0.51% | 3D/具身/机器人 | `vision-language / action / vision language / forecasting` | Real-World Offline Reinforcement Learning from Vision Language Model Feedback |
-| [094](topic-094.md) | 目标检测与图像分割 | 10 | 0.51% | 3D/具身/机器人 | `semantic segmentation / coarse / rgb-t / space` | TASeg: Text-aware RGB-T Semantic Segmentation based on Fine-tuning Vision Foundation Models |
+| [094](topic-094.md) | 语义分割与场景解析 | 10 | 0.51% | 3D/具身/机器人 | `semantic segmentation / coarse / rgb-t / space` | TASeg: Text-aware RGB-T Semantic Segmentation based on Fine-tuning Vision Foundation Models |
 | [095](topic-095.md) | LiDAR 点云与 3D 感知 | 10 | 0.51% | 3D/具身/机器人 | `tracking / multi-object / association / multiple` | MCTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving |
 | [096](topic-096.md) | tracking / object pose / cameras / fast-moving | 9 | 0.46% | 3D/具身/机器人 | `tracking / object pose / cameras / fast-moving` | DynamicPose: Real-time and Robust 6D Object Pose Tracking for Fast-Moving Cameras and Objects |
 | [097](topic-097.md) | 机器人操作与具身智能 | 9 | 0.46% | 3D/具身/机器人 | `flapping-wing / flight / takeoff / mechanism` | Eagle-Scale Flapping-Wing Robot with Aggressive Roll Maneuverability: Bio-Inspired Actuation, Fluid-Structure Interaction Simulation and Flight Experiment |
-| [098](topic-098.md) | 深度估计与立体匹配 | 8 | 0.40% | 3D/具身/机器人 | `source / sound / localization / environments` | Single-Microphone-Based Sound Source Localization for Mobile Robots in Reverberant Environments |
+| [098](topic-098.md) | 语音、音频与声学建模 | 8 | 0.40% | 3D/具身/机器人 | `source / sound / localization / environments` | Single-Microphone-Based Sound Source Localization for Mobile Robots in Reverberant Environments |

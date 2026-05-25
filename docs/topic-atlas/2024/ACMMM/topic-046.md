@@ -1,8 +1,8 @@
-# ACMMM 2024: action / 运动建模 / recognition / skeleton
+# ACMMM 2024: 视频动作识别与时序定位
 
 - Topic ID: `46`
 - Papers: **12** (1.04%)
-- Macro topic: 多模态/VLM
+- Macro topic: 推荐/检索/排序
 - English keywords: `action / motion / recognition / skeleton`
 - Keyword pool: action; motion; recognition; skeleton; panoramic; hand; multi-granularity; body; sequences; retrieval; semantics; activities
 

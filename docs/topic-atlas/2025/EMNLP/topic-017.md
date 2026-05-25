@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **25** (1.38%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `languages / multilingual / arabic / memorization`
 - Keyword pool: languages; multilingual; arabic; memorization; cultural; low-resource; linguistic; nlp; cross-lingual; acceptability; spanish; factual recall
 

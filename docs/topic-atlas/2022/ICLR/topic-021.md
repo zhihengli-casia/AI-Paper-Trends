@@ -1,8 +1,8 @@
-# ICLR 2022: 机器翻译与跨语言对齐
+# ICLR 2022: 跨域转换与序列转换
 
 - Topic ID: `21`
 - Papers: **20** (1.89%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `bert / transformer / language / scaling`
 - Keyword pool: bert; transformer; language; scaling; compression; over-smoothing; pre-trained; dictionary; subword; translation; pooling; editing
 

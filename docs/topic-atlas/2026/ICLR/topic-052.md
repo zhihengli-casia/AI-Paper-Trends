@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **43** (0.80%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `latent reasoning / llms / thinking / cot`
 - Keyword pool: latent reasoning; llms; thinking; cot; length; reward; chain-of-thought; llm reasoning; reasoner; planning; lrms; reasoning language
 

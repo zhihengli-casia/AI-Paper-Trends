@@ -1,8 +1,8 @@
-# WWW 2022: 语音/音频语言模型
+# WWW 2022: 仇恨言论与有害内容检测
 
 - Topic ID: `17`
 - Papers: **9** (2.47%)
-- Macro topic: HCI/社会计算
+- Macro topic: 语音/音频/音乐
 - English keywords: `hate speech / biases / gender / misinformation`
 - Keyword pool: hate speech; biases; gender; misinformation; replies; labels; tweets; media; email; twitter; political; pages
 

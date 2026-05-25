@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **12** (0.97%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `entry / language / smartphones / errors`
 - Keyword pool: entry; language; smartphones; errors; mobile; typing; natural; input; touch; multimodal; customized; feature
 

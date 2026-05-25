@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **35** (1.09%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `generative / images / discriminator / gans`
 - Keyword pool: generative; images; discriminator; gans; augmentation; spuriosity; stylegan; metrics; diversity; classes; anns; clinical
 

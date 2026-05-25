@@ -2,7 +2,7 @@
 
 - Topic ID: `117`
 - Papers: **15** (0.41%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `games / last-iterate / nash / equilibrium`
 - Keyword pool: games; last-iterate; nash; equilibrium; convergence; zero-sum; algorithms; agent; payoff; two-player; game theory; principal
 

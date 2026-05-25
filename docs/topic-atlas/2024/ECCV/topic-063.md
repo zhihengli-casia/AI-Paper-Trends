@@ -2,7 +2,7 @@
 
 - Topic ID: `63`
 - Papers: **16** (0.67%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `image compression / quantization / entropy / convolution`
 - Keyword pool: image compression; quantization; entropy; convolution; quantized; dwt; neural; coding; interval; texture; transformations; matrices
 

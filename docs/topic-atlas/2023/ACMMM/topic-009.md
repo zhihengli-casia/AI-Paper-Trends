@@ -1,8 +1,8 @@
-# ACMMM 2023: 目标检测与图像分割
+# ACMMM 2023: 医学影像分割
 
 - Topic ID: `9`
 - Papers: **22** (2.44%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `domain / segmentation / medical / semi-supervised`
 - Keyword pool: domain; segmentation; medical; semi-supervised; contrastive learning; ssl; class-wise; prototypes; unlabeled; food; adversarial; connectivity
 

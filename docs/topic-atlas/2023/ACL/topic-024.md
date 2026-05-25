@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **17** (1.58%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `commonsense / reasoning / nmt / abductive`
 - Keyword pool: commonsense; reasoning; nmt; abductive; knowledge representation; question answering; graphs; hkg; cot; document understanding; cat; conceptualization
 

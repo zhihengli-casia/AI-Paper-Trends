@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **18** (4.46%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `search / retrieval / llms / query`
 - Keyword pool: search; retrieval; llms; query; conversational; queries; documents; questions; generation; reasoning; suggestion; multi-turn
 

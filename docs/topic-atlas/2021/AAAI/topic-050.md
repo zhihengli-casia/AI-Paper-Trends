@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **16** (0.97%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `kernel / gaussian / functions / vector-valued`
 - Keyword pool: kernel; gaussian; functions; vector-valued; risk minimization; bounds; processes; regularization; binary; neurons; estimation; svm
 

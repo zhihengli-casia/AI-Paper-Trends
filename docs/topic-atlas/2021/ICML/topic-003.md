@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **36** (3.04%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `regret / bandits / arm / reward`
 - Keyword pool: regret; bandits; arm; reward; adversarial; delay; stochastic; online; best; feedback; identification; time horizon
 

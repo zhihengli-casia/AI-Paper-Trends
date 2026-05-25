@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **11** (0.87%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `multimodal / recognition / mllms / sign`
 - Keyword pool: multimodal; recognition; mllms; sign; multi-image; in-context; speech; connectors; visual; modalities; asr; textual information
 

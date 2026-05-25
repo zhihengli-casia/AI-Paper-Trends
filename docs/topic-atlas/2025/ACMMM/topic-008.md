@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **31** (2.48%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `motion / video / dance / human`
 - Keyword pool: motion; video; dance; human; trajectory; frame; style; editing; temporal; intention; fidelity; appearance
 

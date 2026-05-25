@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **19** (1.86%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `registration / point cloud / object / geometric`
 - Keyword pool: registration; point cloud; object; geometric; localization; depth; points; overlapping; estimation; detection; pose; module
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **27** (2.13%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `questions / answer / languages / condition`
 - Keyword pool: questions; answer; languages; condition; valid; ambiguous; ambiguity; conversational; responses; commonsense; entity-centric; unknown
 

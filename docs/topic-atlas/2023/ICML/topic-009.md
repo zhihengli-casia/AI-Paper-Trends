@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **32** (1.75%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `contrastive / ssl / representation / self-supervised`
 - Keyword pool: contrastive; ssl; representation; self-supervised; loss; graph; anchor; downstream; gcl; view; bias-free; labels
 

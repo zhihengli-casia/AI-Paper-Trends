@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **11** (5.14%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / bias / sensitive / items`
 - Keyword pool: fairness; bias; sensitive; items; recommendation; users; attributes; recommender; group; measures; metrics; accuracy
 

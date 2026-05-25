@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **8** (1.62%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `hashing / cross-modal / retrieval / unsupervised`
 - Keyword pool: hashing; cross-modal; retrieval; unsupervised; similarity; factorization; deep; joint; matrix; structures; sensitive; representation image
 

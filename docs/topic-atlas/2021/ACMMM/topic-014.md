@@ -1,4 +1,4 @@
-# ACMMM 2021: face / facial / portrait / latent space
+# ACMMM 2021: 人脸分析、表情与属性建模
 
 - Topic ID: `14`
 - Papers: **16** (2.95%)

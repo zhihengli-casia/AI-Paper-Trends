@@ -1,8 +1,8 @@
-# AAAI 2023: detection / explanation / dialogue / question answering
+# AAAI 2023: 情感识别与多模态情绪理解
 
 - Topic ID: `76`
 - Papers: **10** (0.64%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `detection / explanation / dialogue / question answering`
 - Keyword pool: detection; explanation; dialogue; question answering; multi-modal; visual question; language; emotion recognition; affective; learning network; utterance; comprehension
 

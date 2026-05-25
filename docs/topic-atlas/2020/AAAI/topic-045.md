@@ -1,8 +1,8 @@
-# AAAI 2020: 医疗健康与临床 AI
+# AAAI 2020: 医学影像分割
 
 - Topic ID: `45`
 - Papers: **16** (1.00%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical / images / disease`
 - Keyword pool: segmentation; medical; images; disease; modality; detection; landmark; patients; severity; object; annotation; clinical
 

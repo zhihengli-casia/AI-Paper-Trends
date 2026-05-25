@@ -2,7 +2,7 @@
 
 - Topic ID: `89`
 - Papers: **28** (0.53%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `visual / brain / fmri / decoding`
 - Keyword pool: visual; brain; fmri; decoding; stimuli; subjects; cortex; neuroscience; responses; bias terms; object; vision
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **17** (1.57%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 系统/效率/压缩
 - English keywords: `gaussian processes / gps / inference / influenza`
 - Keyword pool: gaussian processes; gps; inference; influenza; random fields; regression; predictive; spatio-temporal; kernel; uncertainty; non-stationary; spike
 

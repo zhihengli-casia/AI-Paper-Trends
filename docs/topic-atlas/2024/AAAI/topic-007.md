@@ -1,8 +1,8 @@
-# AAAI 2024: 视频扩散生成与运动控制
+# AAAI 2024: 人体姿态估计与运动理解
 
 - Topic ID: `7`
 - Papers: **45** (1.93%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `motion / human / diffusion / body`
 - Keyword pool: motion; human; diffusion; body; pose; synthesis; gait; sequences; temporal; grasp; video; frames
 

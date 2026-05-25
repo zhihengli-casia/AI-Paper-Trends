@@ -1,8 +1,8 @@
-# AAAI 2024: 知识图谱推理与表示学习
+# AAAI 2024: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `75`
 - Papers: **14** (0.60%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `knowledge graph / facts / entities / kgs`
 - Keyword pool: knowledge graph; facts; entities; kgs; embedding; graph completion; triples; entity; relation; kgc; temporal; reasoning
 

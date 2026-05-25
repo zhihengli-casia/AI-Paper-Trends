@@ -2,7 +2,7 @@
 
 - Topic ID: `60`
 - Papers: **12** (0.78%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `relu / gradient / implicit / descent`
 - Keyword pool: relu; gradient; implicit; descent; neural collapse; rank; bias; flow; layers; homogeneous; shallow; lipschitz
 

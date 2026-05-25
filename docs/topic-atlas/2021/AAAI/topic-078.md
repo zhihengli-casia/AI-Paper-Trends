@@ -2,7 +2,7 @@
 
 - Topic ID: `78`
 - Papers: **10** (0.61%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `covid-19 / pandemic / disease / forecasting`
 - Keyword pool: covid-19; pandemic; disease; forecasting; spread; infection; city; patients; anatomical; severity; epidemic; screening
 

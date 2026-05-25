@@ -1,8 +1,8 @@
-# EMNLP 2023: entity / knowledge graphs / kgs / relation
+# EMNLP 2023: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `38`
 - Papers: **13** (1.24%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `entity / knowledge graphs / kgs / relation`
 - Keyword pool: entity; knowledge graphs; kgs; relation; entities; concepts; ensemble; textual information; typing; quantization; subgraphs; embeddings
 

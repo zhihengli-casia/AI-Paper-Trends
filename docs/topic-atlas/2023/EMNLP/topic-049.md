@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **9** (0.86%)
-- Macro topic: 生成模型
+- Macro topic: NLP任务
 - English keywords: `entity linking / biomedical / entities / mentions`
 - Keyword pool: entity linking; biomedical; entities; mentions; scientific; tables; structured prediction; knowledge base; generative; mentioned; sparse; unified
 

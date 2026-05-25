@@ -1,8 +1,8 @@
-# CVPR 2024: 多智能体协作与规划
+# CVPR 2024: 人体姿态估计与运动理解
 
 - Topic ID: `90`
 - Papers: **13** (0.48%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `forecasting / social / motion / human pose`
 - Keyword pool: forecasting; social; motion; human pose; long-term; trajectories; whole-body; trajectory; interactions; multi-agent; intention; human behavior
 

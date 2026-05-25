@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **9** (1.25%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `cultural / images / text-to-image / culture`
 - Keyword pool: cultural; images; text-to-image; culture; nouns; vlms; visual; t2i; underrepresented; refinement; alignment; refines
 

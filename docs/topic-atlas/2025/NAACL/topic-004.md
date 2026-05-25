@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **28** (3.90%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `prompt / inference / bias / padding`
 - Keyword pool: prompt; inference; bias; padding; tokens; format; soft; moderation; repetition; augmentation; filtering; compression
 

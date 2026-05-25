@@ -1,8 +1,8 @@
-# CVPR 2024: 语音/音频语言模型
+# CVPR 2024: 音频理解与生成
 
 - Topic ID: `60`
 - Papers: **20** (0.74%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `multimodal / modalities / modality / audio`
 - Keyword pool: multimodal; modalities; modality; audio; unimodal; language; intent; representation space; token pruning; in-context; sample-level; video
 

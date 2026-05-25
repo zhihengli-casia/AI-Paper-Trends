@@ -1,8 +1,8 @@
-# EMNLP 2023: LLM Agent 与工具使用
+# EMNLP 2023: 对话系统与会话智能体
 
 - Topic ID: `40`
 - Papers: **11** (1.05%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `mental / health / empathy / markers`
 - Keyword pool: mental; health; empathy; markers; detection; digital; monitoring; intent; emotion; conversational agents; linguistic; interpersonal
 

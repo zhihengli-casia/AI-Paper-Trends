@@ -1,8 +1,8 @@
-# AAAI 2025: facial / identity / face / hair
+# AAAI 2025: 人脸分析、表情与属性建模
 
 - Topic ID: `85`
 - Papers: **17** (0.56%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `facial / identity / face / hair`
 - Keyword pool: facial; identity; face; hair; image; geometry; reactions; customization; reference; retouching; editing; texture
 

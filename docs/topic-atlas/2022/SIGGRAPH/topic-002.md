@@ -1,8 +1,8 @@
-# SIGGRAPH 2022: shape / 运动建模 / leviprint / networks symmetry-driven
+# SIGGRAPH 2022: 语音、音频与声学建模
 
 - Topic ID: `2`
 - Papers: **9** (17.65%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 语音/音频/音乐
 - English keywords: `shape / motion / leviprint / networks symmetry-driven`
 - Keyword pool: shape; motion; leviprint; networks symmetry-driven; network low-overlap; pairs; part-segmented; parts; misaligned image-supported registration; low-overlap point; acoustic trapping; loose-fitting
 

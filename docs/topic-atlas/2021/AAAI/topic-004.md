@@ -1,8 +1,8 @@
-# AAAI 2021: LLM Agent 与工具使用
+# AAAI 2021: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `4`
 - Papers: **35** (2.13%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `allocation / welfare / fairness / goods`
 - Keyword pool: allocation; welfare; fairness; goods; agents; auction; maximin; price; nash; item; division; optimal
 

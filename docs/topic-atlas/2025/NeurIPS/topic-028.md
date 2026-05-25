@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **53** (1.00%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 强化学习/决策
 - English keywords: `driving / planning / autonomous / world`
 - Keyword pool: driving; planning; autonomous; world; trajectory; traffic; scene; vehicle; motion; end-to-end; trajectories; travel
 

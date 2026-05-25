@@ -1,8 +1,8 @@
-# ICLR 2025: 语音/音频语言模型
+# ICLR 2025: 音频理解与生成
 
 - Topic ID: `124`
 - Papers: **14** (0.38%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `animation / motion / portrait / talking`
 - Keyword pool: animation; motion; portrait; talking; video; gesture; character; diffusion; facial; audio; body; concurrent
 

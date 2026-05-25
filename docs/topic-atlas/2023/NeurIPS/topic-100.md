@@ -2,7 +2,7 @@
 
 - Topic ID: `100`
 - Papers: **14** (0.44%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attack / transferability / examples`
 - Keyword pool: adversarial; attack; transferability; examples; face recognition; unrestricted; perturbation; purification; transferable; imperceptible; backward propagation; images
 

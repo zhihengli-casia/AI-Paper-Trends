@@ -1,8 +1,8 @@
-# NAACL 2021: 句法语义解析与结构化表示
+# NAACL 2021: 结构化解析与表示学习
 
 - Topic ID: `12`
 - Papers: **18** (3.77%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `parsing / discourse / sense / trees`
 - Keyword pool: parsing; discourse; sense; trees; amr; sentence; parser; formation; treebank; structures; definition; relation
 

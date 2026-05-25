@@ -1,4 +1,4 @@
-# TMM 2026: person / re-identification / identity / modality
+# TMM 2026: 行人重识别与人群计数
 
 - Topic ID: `16`
 - Papers: **15** (2.53%)

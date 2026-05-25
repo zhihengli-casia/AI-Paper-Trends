@@ -1,8 +1,8 @@
-# PR 2021: 目标检测与图像分割
+# PR 2021: 医学影像分割
 
 - Topic ID: `33`
 - Papers: **9** (1.53%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / brain / tumor / guided`
 - Keyword pool: segmentation; brain; tumor; guided; image; deep learning; asymmetric; mri; integration; learning network; optic; multi-modal
 

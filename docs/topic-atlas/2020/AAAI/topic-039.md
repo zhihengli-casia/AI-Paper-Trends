@@ -1,8 +1,8 @@
-# AAAI 2020: 知识图谱推理与表示学习
+# AAAI 2020: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `39`
 - Papers: **17** (1.06%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `entity / knowledge graph / entities / embeddings`
 - Keyword pool: entity; knowledge graph; entities; embeddings; kgs; alignment; relation; graphs; completion; rule; facts; attribute
 

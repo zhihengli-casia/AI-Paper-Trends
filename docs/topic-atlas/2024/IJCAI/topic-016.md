@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **22** (2.10%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `anomaly / detection / cell / unsupervised`
 - Keyword pool: anomaly; detection; cell; unsupervised; normal; table; monitoring; video; reconstruction; annotation; anomalies; health
 

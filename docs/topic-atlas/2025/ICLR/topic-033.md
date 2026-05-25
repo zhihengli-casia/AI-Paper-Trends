@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **32** (0.86%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `human / llms / judges / fairness`
 - Keyword pool: human; llms; judges; fairness; llm-as-a-judge; creativity; bias; agreement; preferences; alignment; legal; chatbot
 

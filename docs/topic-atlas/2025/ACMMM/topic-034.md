@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **16** (1.28%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `compression / video / coding / analytics`
 - Keyword pool: compression; video; coding; analytics; codecs; quantization; neural; frames; corruption; recovery; filtering; latency
 

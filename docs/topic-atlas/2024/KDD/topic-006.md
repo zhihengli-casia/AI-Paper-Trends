@@ -1,8 +1,8 @@
-# KDD 2024: hyperbolic / teacher / tabular / physical
+# KDD 2024: 神经架构搜索与模型设计
 
 - Topic ID: `6`
 - Papers: **23** (5.60%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `hyperbolic / teacher / tabular / physical`
 - Keyword pool: hyperbolic; teacher; tabular; physical; dnns; concepts; nas; neural networks; lipschitz; neurons; hyperparameter; operator
 

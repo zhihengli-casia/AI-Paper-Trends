@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **52** (1.62%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 系统/效率/压缩
 - English keywords: `neurons / complex-valued / feature learning / relu`
 - Keyword pool: neurons; complex-valued; feature learning; relu; width; layer; activation; kernel; quantum; teacher; linear; depth
 

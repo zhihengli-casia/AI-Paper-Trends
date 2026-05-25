@@ -1,8 +1,8 @@
-# CVPR 2020: 机器翻译与跨语言对齐
+# CVPR 2020: 手语识别与视觉语言翻译
 
 - Topic ID: `62`
 - Papers: **13** (0.89%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `captioning / captions / language / translation`
 - Keyword pool: captioning; captions; language; translation; sign; grounded; transformer; group; words; self-attention; attention block; interactions
 

@@ -1,8 +1,8 @@
-# SIGIR 2025: 推荐系统与用户建模
+# SIGIR 2025: 扩散生成模型
 
 - Topic ID: `5`
 - Papers: **15** (6.28%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `modality / recommendation / multi-modal / noise`
 - Keyword pool: modality; recommendation; multi-modal; noise; modalities; denoising; features; preferences; diffusion; signals; brain; logical
 

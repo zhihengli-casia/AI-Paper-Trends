@@ -1,8 +1,8 @@
-# EMNLP 2025: entity / relation / ner / extraction
+# EMNLP 2025: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `14`
 - Papers: **26** (1.44%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `entity / relation / ner / extraction`
 - Keyword pool: entity; relation; ner; extraction; entities; recognition; temporal; named; resolution; students; coreference; instances
 

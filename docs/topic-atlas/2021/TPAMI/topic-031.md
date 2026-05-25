@@ -1,8 +1,8 @@
-# TPAMI 2021: 医疗健康与临床 AI
+# TPAMI 2021: 医学影像分割
 
 - Topic ID: `31`
 - Papers: **9** (1.63%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `diagnosis / segmentation / clinical / reasoning`
 - Keyword pool: diagnosis; segmentation; clinical; reasoning; infants; multi-view; medical; individual; views; graph convolutional network; hybrid; scans
 

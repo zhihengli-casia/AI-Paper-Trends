@@ -1,8 +1,8 @@
-# CVPR 2021: 目标检测与图像分割
+# CVPR 2021: 目标检测与开放世界检测
 
 - Topic ID: `57`
 - Papers: **14** (0.84%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `augmentation / multi-label / policies / labels`
 - Keyword pool: augmentation; multi-label; policies; labels; object detection; classification; adversarial; autoaugment; active learning; imagenet; probe; task-aware
 

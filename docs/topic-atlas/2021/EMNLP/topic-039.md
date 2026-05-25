@@ -1,8 +1,8 @@
-# EMNLP 2021: 机器翻译与跨语言对齐
+# EMNLP 2021: 语音翻译与跨语言语音处理
 
 - Topic ID: `39`
 - Papers: **10** (1.18%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `distillation / teacher / student / relational`
 - Keyword pool: distillation; teacher; student; relational; layer; intermediate; hierarchical; dynamic knowledge; bert; early; distilling; speech translation
 

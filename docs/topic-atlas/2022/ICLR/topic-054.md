@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **9** (0.85%)
-- Macro topic: 计算机视觉
+- Macro topic: 强化学习/决策
 - English keywords: `trajectory / motion / agent / navigation`
 - Keyword pool: trajectory; motion; agent; navigation; environments; trajectories; visual; indoor; semantic; scenes; future; social
 

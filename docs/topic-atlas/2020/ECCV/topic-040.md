@@ -1,4 +1,4 @@
-# ECCV 2020: reconstruction / shape / implicit / occupancy
+# ECCV 2020: 3D 形状重建与隐式表示
 
 - Topic ID: `40`
 - Papers: **14** (1.03%)

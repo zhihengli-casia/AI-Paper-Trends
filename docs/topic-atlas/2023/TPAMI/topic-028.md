@@ -1,8 +1,8 @@
-# TPAMI 2023: 目标检测与图像分割
+# TPAMI 2023: 医学影像分割
 
 - Topic ID: `28`
 - Papers: **12** (1.76%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / diagnosis / segmentation / motion`
 - Keyword pool: medical; diagnosis; segmentation; motion; covid-19; ssl; frequency; semi-supervised; labeled; tracking; signals; imaging
 

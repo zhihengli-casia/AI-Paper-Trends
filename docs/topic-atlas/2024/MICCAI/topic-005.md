@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **5** (7.04%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `cardiac / lge / myocardial / enhancement`
 - Keyword pool: cardiac; lge; myocardial; enhancement; mri; diffusion; microvascular obstruction; mr images; mask regularization microvascular; magnetic resonance hamil-qa; representation learning sparse; scar
 

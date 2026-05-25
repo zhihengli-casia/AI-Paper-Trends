@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **7** (3.27%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `examples / llms / student / distillation`
 - Keyword pool: examples; llms; student; distillation; multimodal; in-context; sessions; calibration; downstream; ranking; teacher; zero-shot
 

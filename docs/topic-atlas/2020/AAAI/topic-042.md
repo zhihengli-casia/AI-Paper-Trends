@@ -1,8 +1,8 @@
-# AAAI 2020: 语音/音频语言模型
+# AAAI 2020: 零样本分类与开放集识别
 
 - Topic ID: `42`
 - Papers: **16** (1.00%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 语音/音频/音乐
 - English keywords: `zero-shot / classes / unseen / visual`
 - Keyword pool: zero-shot; classes; unseen; visual; semantic; categories; graph; speech; few-shot learning; samples; object; feature
 

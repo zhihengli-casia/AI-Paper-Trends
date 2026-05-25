@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **18** (5.07%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `video / trading / cloud / edge`
 - Keyword pool: video; trading; cloud; edge; viewport; services; decentralized; covert; adoption; streaming; latency; servers
 

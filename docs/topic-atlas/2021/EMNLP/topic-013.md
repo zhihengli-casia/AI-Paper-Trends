@@ -1,8 +1,8 @@
-# EMNLP 2021: 多语言建模与跨语言迁移
+# EMNLP 2021: 机器翻译与跨语言对齐
 
 - Topic ID: `13`
 - Papers: **23** (2.72%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `translation / neural machine / nmt / simultaneous`
 - Keyword pool: translation; neural machine; nmt; simultaneous; language pairs; multilingual; target language; bleu; hints; captioning; fixing; alignment
 

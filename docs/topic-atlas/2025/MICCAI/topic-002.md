@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **10** (15.38%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `mamba / medical / fetal / multi-view`
 - Keyword pool: mamba; medical; fetal; multi-view; image; estimation; myocardial lesion; needle; non-contrast; obstruction identification; multiview xray matching; on-site
 

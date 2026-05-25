@@ -2,7 +2,7 @@
 
 - Topic ID: `66`
 - Papers: **12** (0.74%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / robustness / examples / attacks`
 - Keyword pool: adversarial; robustness; examples; attacks; loss landscape; flatness; robust loss; distribution shifts; edge; clean; generalization; perturbations
 

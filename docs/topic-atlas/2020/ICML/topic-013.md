@@ -1,8 +1,8 @@
-# ICML 2020: loss / overparameterization / bias / architecture
+# ICML 2020: 神经架构搜索与模型设计
 
 - Topic ID: `13`
 - Papers: **24** (2.21%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `loss / overparameterization / bias / architecture`
 - Keyword pool: loss; overparameterization; bias; architecture; search; dropout; landscape; validation; shapley; nas; groups; generalization
 

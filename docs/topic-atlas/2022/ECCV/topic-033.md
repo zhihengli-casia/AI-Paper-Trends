@@ -1,4 +1,4 @@
-# ECCV 2022: body / human / try-on / clothed
+# ECCV 2022: 3D 形状重建与隐式表示
 
 - Topic ID: `33`
 - Papers: **20** (1.22%)

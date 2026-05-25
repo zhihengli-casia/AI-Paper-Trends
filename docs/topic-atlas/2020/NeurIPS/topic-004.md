@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **37** (1.95%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / spike / neurons / stimuli`
 - Keyword pool: brain; spike; neurons; stimuli; activity; spiking; fmri; recordings; latent; coding; signal; firing
 

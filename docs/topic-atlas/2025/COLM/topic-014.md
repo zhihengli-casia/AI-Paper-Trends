@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **14** (3.35%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `agents / multi-agent / strategic / planning`
 - Keyword pool: agents; multi-agent; strategic; planning; ai research; explanations; social; actions; guides; environment; management; tool
 

@@ -1,8 +1,8 @@
-# AAAI 2026: 医疗健康与临床 AI
+# AAAI 2026: 医学影像分割
 
 - Topic ID: `23`
 - Papers: **52** (1.25%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / medical / image / vascular`
 - Keyword pool: segmentation; medical; image; vascular; ultrasound; clinical; imaging; anatomical; surgical; mri; smoke; nucleus
 

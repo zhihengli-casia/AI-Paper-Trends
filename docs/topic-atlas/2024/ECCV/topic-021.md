@@ -1,8 +1,8 @@
-# ECCV 2024: 目标检测与图像分割
+# ECCV 2024: 图像分割、语义分割与场景解析
 
 - Topic ID: `21`
 - Papers: **31** (1.30%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `segmentation / click / referring / ris`
 - Keyword pool: segmentation; click; referring; ris; rec; grounding; refcoco; prompts; expression; anchor; apl; mask
 

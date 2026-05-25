@@ -2,7 +2,7 @@
 
 - Topic ID: `83`
 - Papers: **19** (0.59%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / visual / prompt / vision-language`
 - Keyword pool: segmentation; visual; prompt; vision-language; semantic; retrieval; surgical; categories; instrument; category; wildlife; ordinal
 

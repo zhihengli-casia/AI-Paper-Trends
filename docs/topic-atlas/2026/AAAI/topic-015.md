@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **66** (1.59%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `token / pruning / mllms / multimodal`
 - Keyword pool: token; pruning; mllms; multimodal; lvlms; video; image; vision-language; entity alignment; compression; redundancy; visual information
 

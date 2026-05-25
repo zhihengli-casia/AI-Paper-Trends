@@ -1,8 +1,8 @@
-# IJCV 2021: 目标检测与图像分割
+# IJCV 2021: 语义分割与场景解析
 
 - Topic ID: `0`
 - Papers: **20** (15.04%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `shape / segmentation / metrics / abstract`
 - Keyword pool: shape; segmentation; metrics; abstract; global; state-of-the-art; semantic; features; face; detection; latent; maps
 

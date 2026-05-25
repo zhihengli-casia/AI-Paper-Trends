@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **28** (1.71%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `depth / object / detection / spherical`
 - Keyword pool: depth; object; detection; spherical; image; estimation; feature; illumination; semantic; rgb-d; camera; fusion
 

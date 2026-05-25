@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **28** (3.29%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `language / brain / entity / spoken`
 - Keyword pool: language; brain; entity; spoken; parsing; tuning; generation; overlapping; multilingual; diffusion; prompt; few-shot
 

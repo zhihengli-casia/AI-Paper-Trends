@@ -1,8 +1,8 @@
-# IJCAI 2025: 语音/音频语言模型
+# IJCAI 2025: 说话人建模与语音表征
 
 - Topic ID: `47`
 - Papers: **13** (1.02%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / speech / signals / coupling`
 - Keyword pool: brain; speech; signals; coupling; spatial-temporal; identity; decoding; temporal spatial; multi-scale; speaker; enhancement; connectivity
 

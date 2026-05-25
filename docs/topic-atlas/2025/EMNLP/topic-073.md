@@ -1,8 +1,8 @@
-# EMNLP 2025: 多语言建模与跨语言迁移
+# EMNLP 2025: 机器翻译与跨语言对齐
 
 - Topic ID: `73`
 - Papers: **12** (0.66%)
-- Macro topic: 强化学习/决策
+- Macro topic: AI4Science/医疗
 - English keywords: `translation / languages / quality estimation / machine`
 - Keyword pool: translation; languages; quality estimation; machine; african; pearson; remedy; probability; pairwise; multilingual; cascaded; medical
 

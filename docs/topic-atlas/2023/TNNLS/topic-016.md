@@ -1,8 +1,8 @@
-# TNNLS 2023: entity / relational / entities / 图学习
+# TNNLS 2023: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `16`
 - Papers: **21** (2.05%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `entity / relational / entities / graph`
 - Keyword pool: entity; relational; entities; graph; reasoning; semantics; evidence; relation extraction; logical; relations; dialog; question
 

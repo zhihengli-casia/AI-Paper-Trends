@@ -2,7 +2,7 @@
 
 - Topic ID: `74`
 - Papers: **9** (0.70%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `lung / report / diagnosis / medical`
 - Keyword pool: lung; report; diagnosis; medical; disease; visual; imaging; concept bottleneck; cbm; clinical; cancer; diagnostic
 

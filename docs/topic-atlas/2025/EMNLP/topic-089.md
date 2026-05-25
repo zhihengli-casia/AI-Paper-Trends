@@ -1,8 +1,8 @@
-# EMNLP 2025: 社交媒体与社会计算
+# EMNLP 2025: 语音、音频与声学建模
 
 - Topic ID: `89`
 - Papers: **9** (0.50%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / discussion / social / disability`
 - Keyword pool: bias; discussion; social; disability; bbq; spurious; triples; spoken language; acoustic; stereotypical; correlations; conversations
 

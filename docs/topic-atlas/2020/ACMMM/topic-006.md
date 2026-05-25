@@ -1,4 +1,4 @@
-# ACMMM 2020: scene graph / expression / object / relation
+# ACMMM 2020: 场景图、关系推理与视觉理解
 
 - Topic ID: `6`
 - Papers: **21** (4.44%)

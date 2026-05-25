@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **23** (1.81%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `icl / in-context / demonstrations / examples`
 - Keyword pool: icl; in-context; demonstrations; examples; coverage; selection; box; fairness; mistakes; heads; redundant information; compositional
 

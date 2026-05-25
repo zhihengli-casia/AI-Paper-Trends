@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **16** (4.51%)
-- Macro topic: 生成模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `question / answering / cross-lingual / language`
 - Keyword pool: question; answering; cross-lingual; language; gender; retrieval; bert; multilingual; generation; keywords; multi-task learning; order
 

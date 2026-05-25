@@ -2,7 +2,7 @@
 
 - Topic ID: `67`
 - Papers: **12** (0.76%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 系统/效率/压缩
 - English keywords: `hashing / long-tail / quantization / concept`
 - Keyword pool: hashing; long-tail; quantization; concept; nonlinear; inner; product search; commonality; interpretability; ssl; mips; metrics
 

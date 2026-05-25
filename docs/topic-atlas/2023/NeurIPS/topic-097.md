@@ -2,7 +2,7 @@
 
 - Topic ID: `97`
 - Papers: **15** (0.47%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `reward / human / conversational / preferences`
 - Keyword pool: reward; human; conversational; preferences; feedback; language; rlhf; responses; reinforcement; llms; recommender; ppo
 

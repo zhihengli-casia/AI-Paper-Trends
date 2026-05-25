@@ -1,8 +1,8 @@
-# CVPR 2020: 对抗攻击、鲁棒性与安全
+# CVPR 2020: GAN 与图像生成
 
 - Topic ID: `2`
 - Papers: **39** (2.66%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 生成模型
 - English keywords: `gan / generative / generator / adversarial networks`
 - Keyword pool: gan; generative; generator; adversarial networks; discriminator; fake; imputation; fid; noise; distribution; flow; image synthesis
 

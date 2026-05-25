@@ -1,8 +1,8 @@
-# KDD 2025: 图神经网络与图表示学习
+# KDD 2025: 神经架构搜索与模型设计
 
 - Topic ID: `2`
 - Papers: **32** (5.80%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `gnns / graph neural / spectral / graphs`
 - Keyword pool: gnns; graph neural; spectral; graphs; node; connectivity; filtering; propagation; search; neural architecture; anns; fairness
 

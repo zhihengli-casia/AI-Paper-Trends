@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **17** (1.25%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `salient object detection / depth / rgb-d / saliency`
 - Keyword pool: salient object detection; depth; rgb-d; saliency; blur; defocus; cross-modal; fusion; stream; modality; modalities; branches
 

@@ -1,8 +1,8 @@
-# ACMMM 2024: 多模态情感理解
+# ACMMM 2024: 情感识别与多模态情绪理解
 
 - Topic ID: `25`
 - Papers: **19** (1.65%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `eeg / brain / facial / signals`
 - Keyword pool: eeg; brain; facial; signals; physiological; emotion; recognition; thoughts; multimodal; cognitive; stimuli; diagnosis
 

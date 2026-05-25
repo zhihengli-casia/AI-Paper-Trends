@@ -1,4 +1,4 @@
-# CVPR 2024: human pose / pose estimation / pressure / poses
+# CVPR 2024: 人体姿态估计与运动理解
 
 - Topic ID: `47`
 - Papers: **24** (0.88%)

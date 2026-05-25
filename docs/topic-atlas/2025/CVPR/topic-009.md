@@ -1,8 +1,8 @@
-# CVPR 2025: 视频动作生成与运动控制
+# CVPR 2025: 视频动作识别与时序定位
 
 - Topic ID: `9`
 - Papers: **40** (1.39%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `motion / body / action / video`
 - Keyword pool: motion; body; action; video; persona; animal; crowd; pose; kinematics; human-centric; text-driven; sports
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **11** (1.41%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `knowledge graph / embedding / triple / multi-hop`
 - Keyword pool: knowledge graph; embedding; triple; multi-hop; entity; relations; typing; facts; hyperbolic; graphs; missing; query
 

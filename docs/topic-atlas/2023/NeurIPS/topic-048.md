@@ -1,8 +1,8 @@
-# NeurIPS 2023: 语音/音频语言模型
+# NeurIPS 2023: 音频理解与生成
 
 - Topic ID: `48`
 - Papers: **28** (0.87%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `language / in-context / llms / prompt`
 - Keyword pool: language; in-context; llms; prompt; grammar; audio; pretraining; tools; skills; few-shot; fine-tuning; examples
 

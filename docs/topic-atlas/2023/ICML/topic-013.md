@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **29** (1.59%)
-- Macro topic: 多模态/VLM
+- Macro topic: 强化学习/决策
 - English keywords: `molecular / molecules / drug / protein`
 - Keyword pool: molecular; molecules; drug; protein; atoms; discovery; diffusion; materials; force; graph; generation; planning
 

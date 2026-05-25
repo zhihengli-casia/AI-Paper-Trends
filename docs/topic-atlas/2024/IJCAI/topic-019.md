@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **20** (1.91%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `image / fusion / deblurring / super-resolution`
 - Keyword pool: image; fusion; deblurring; super-resolution; shadow; high-frequency; feature; restoration; event; multi-scale; module; channel
 

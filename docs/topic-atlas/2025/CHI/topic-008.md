@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **29** (2.33%)
-- Macro topic: 可信/安全/公平
+- Macro topic: AI4Science/医疗
 - English keywords: `decision-making / decisions / medical / human`
 - Keyword pool: decision-making; decisions; medical; human; decision making; explanations; ai-assisted; perceptions; trust; fairness; tone; prediction
 

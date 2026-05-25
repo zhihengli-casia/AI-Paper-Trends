@@ -2,7 +2,7 @@
 
 - Topic ID: `73`
 - Papers: **16** (0.59%)
-- Macro topic: 理论/优化
+- Macro topic: 计算机视觉
 - English keywords: `polarization / optics / imaging / polarimetric`
 - Keyword pool: polarization; optics; imaging; polarimetric; optical; wave; metalens; light; super-resolution; hyperspectral; endoscopy; diffraction
 

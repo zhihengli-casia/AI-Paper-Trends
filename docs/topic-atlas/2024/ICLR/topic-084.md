@@ -2,7 +2,7 @@
 
 - Topic ID: `84`
 - Papers: **13** (0.58%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `scene / dynamic / motion / flow`
 - Keyword pool: scene; dynamic; motion; flow; monocular; nerf; sdf; video; view; rendering; semantic; fields
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `105`
 - Papers: **10** (0.37%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attack / infrared / physical`
 - Keyword pool: adversarial; attack; infrared; physical; mde; patch; backdoor; imperceptibility; naturalistic; transferable targeted; glow; aggressive
 

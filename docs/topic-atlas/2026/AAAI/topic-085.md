@@ -1,8 +1,8 @@
-# AAAI 2026: 文档摘要与信息压缩
+# AAAI 2026: 摘要生成与信息压缩
 
 - Topic ID: `85`
 - Papers: **22** (0.53%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: NLP任务
 - English keywords: `argumentation / arguments / logics / explanations`
 - Keyword pool: argumentation; arguments; logics; explanations; analogical; description; ontology; query; knowledge bases; formal; conjunctive; summarization
 

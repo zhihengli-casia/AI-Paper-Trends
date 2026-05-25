@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **14** (1.80%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `policy / decision / markov / processes`
 - Keyword pool: policy; decision; markov; processes; synthesis; mdps; swarm; probability; observable; continuous; states; policies
 

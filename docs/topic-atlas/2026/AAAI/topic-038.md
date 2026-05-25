@@ -1,8 +1,8 @@
-# AAAI 2026: 规划搜索与决策推理
+# AAAI 2026: 组合优化与神经求解
 
 - Topic ID: `38`
 - Papers: **42** (1.01%)
-- Macro topic: LLM/语言模型
+- Macro topic: 理论/优化
 - English keywords: `solvers / problems / branching / combinatorial optimization`
 - Keyword pool: solvers; problems; branching; combinatorial optimization; search; planning; instances; constraint; solving; algorithms; heuristics; hyperparameter
 

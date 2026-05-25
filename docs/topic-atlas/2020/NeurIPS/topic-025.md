@@ -1,8 +1,8 @@
-# NeurIPS 2020: 深度估计与立体匹配
+# NeurIPS 2020: 神经架构搜索与模型设计
 
 - Topic ID: `25`
 - Papers: **23** (1.21%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `search / nas / architecture / sharing`
 - Keyword pool: search; nas; architecture; sharing; augmentation; one-shot; gnn; imagenet; design space; swat; stereo; designs
 

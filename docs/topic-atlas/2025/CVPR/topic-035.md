@@ -1,8 +1,8 @@
-# CVPR 2025: 对抗攻击、鲁棒性与安全
+# CVPR 2025: 人脸分析、表情与属性建模
 
 - Topic ID: `35`
 - Papers: **28** (0.98%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `forgery / deepfake / facial / detection`
 - Keyword pool: forgery; deepfake; facial; detection; face; protection; adversarial; security; portrait; detectors; media; thermal
 

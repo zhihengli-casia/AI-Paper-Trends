@@ -2,7 +2,7 @@
 
 - Topic ID: `73`
 - Papers: **24** (0.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `jailbreak / attacks / safety / llms`
 - Keyword pool: jailbreak; attacks; safety; llms; adversarial; harmful; attack success; defense; prompts; backdoor; refusal; vlms
 

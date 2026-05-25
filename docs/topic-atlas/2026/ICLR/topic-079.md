@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **33** (0.62%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / identity / editing / subject`
 - Keyword pool: video; identity; editing; subject; facial; diffusion; reference; customization; matting; images; multi-instance; attribute
 

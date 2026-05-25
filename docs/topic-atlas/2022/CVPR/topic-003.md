@@ -1,4 +1,4 @@
-# CVPR 2022: shape / cad / reconstruction / deformation
+# CVPR 2022: 3D 形状重建与隐式表示
 
 - Topic ID: `3`
 - Papers: **58** (2.80%)

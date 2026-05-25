@@ -1,8 +1,8 @@
-# AAAI 2026: 语音/音频语言模型
+# AAAI 2026: 音乐与音频生成/理解
 
 - Topic ID: `98`
 - Papers: **18** (0.43%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `music / audio / sound / rhythmic`
 - Keyword pool: music; audio; sound; rhythmic; editing; symbolic; auditory; source; emotional; ios; macs; video
 

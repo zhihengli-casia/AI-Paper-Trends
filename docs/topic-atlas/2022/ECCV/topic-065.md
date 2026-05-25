@@ -2,7 +2,7 @@
 
 - Topic ID: `65`
 - Papers: **12** (0.73%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `scene flow / flow estimation / omnidirectional / point`
 - Keyword pool: scene flow; flow estimation; omnidirectional; point; optical flow; clouds; stitching; depth; view; camera; panoramic; object reconstruction
 

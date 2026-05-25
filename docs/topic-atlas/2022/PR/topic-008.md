@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **24** (3.65%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 系统/效率/压缩
 - English keywords: `kernel / discriminant / generalized / gaussian`
 - Keyword pool: kernel; discriminant; generalized; gaussian; process; classification; random; imbalanced; functional; algorithm; incremental; mixture
 

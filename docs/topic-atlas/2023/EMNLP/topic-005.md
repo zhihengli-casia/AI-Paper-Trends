@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **30** (2.87%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `explanations / decompositions / zero-shot / negation`
 - Keyword pool: explanations; decompositions; zero-shot; negation; interpretation; reasoning; humor; ner; machine reading; questions; examples; cross-attention
 

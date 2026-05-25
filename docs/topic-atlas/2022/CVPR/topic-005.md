@@ -1,4 +1,4 @@
-# CVPR 2022: body / shape / clothing / face
+# CVPR 2022: 3D 形状重建与隐式表示
 
 - Topic ID: `5`
 - Papers: **51** (2.46%)

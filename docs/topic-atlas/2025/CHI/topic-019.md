@@ -1,8 +1,8 @@
-# CHI 2025: LLM Agent 与工具使用
+# CHI 2025: AI Agent、人机协作与交互评估
 
 - Topic ID: `19`
 - Papers: **24** (1.93%)
-- Macro topic: HCI/社会计算
+- Macro topic: 强化学习/决策
 - English keywords: `algorithmic / human-ai / perceptions / ai agents`
 - Keyword pool: algorithmic; human-ai; perceptions; ai agents; algorithms; ai-infused; content; risk; confidence; understanding; decisions; ai-generated
 

@@ -1,8 +1,8 @@
-# PR 2025: 目标检测与图像分割
+# PR 2025: 医学影像分割
 
 - Topic ID: `43`
 - Papers: **16** (1.06%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / coronary / foundation / segmentation`
 - Keyword pool: medical; coronary; foundation; segmentation; graph; artery; slide; image; multi-modal; matching; contrastive learning; semantic
 

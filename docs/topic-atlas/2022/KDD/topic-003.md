@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **22** (8.70%)
-- Macro topic: 理论/优化
+- Macro topic: AI4Science/医疗
 - English keywords: `extraction / explanation / urban / momentum`
 - Keyword pool: extraction; explanation; urban; momentum; multi-task; tensor; brain; uncertainty; labels; query; extreme; auc
 

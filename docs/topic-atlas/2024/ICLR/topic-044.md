@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **21** (0.93%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `compression / implicit neural / mode / modulation`
 - Keyword pool: compression; implicit neural; mode; modulation; codec; video; recognition; fourier; neural representation; quantization; codebook; lossless
 

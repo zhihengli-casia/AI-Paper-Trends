@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **14** (5.53%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `recommender / user / recommendation / item`
 - Keyword pool: recommender; user; recommendation; item; exposure; bias; policy; feedback; preference; samples; exploration; online
 

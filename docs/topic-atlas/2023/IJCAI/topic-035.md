@@ -1,8 +1,8 @@
-# IJCAI 2023: 语音/音频语言模型
+# IJCAI 2023: 语音交互与语音表征
 
 - Topic ID: `35`
 - Papers: **11** (1.29%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 可信/安全/公平
 - English keywords: `audio / monitoring / tracking / interactive`
 - Keyword pool: audio; monitoring; tracking; interactive; voice; passive; adversarial; imaging; biodiversity; privacy; identity; active learning
 

@@ -1,8 +1,8 @@
-# CVPR 2025: 文档摘要与信息压缩
+# CVPR 2025: 视频摘要与精彩片段检测
 
 - Topic ID: `18`
 - Papers: **33** (1.15%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `video / temporal / long / frames`
 - Keyword pool: video; temporal; long; frames; language; grounding; llms; captions; captioning; summarization; content; keyframe
 

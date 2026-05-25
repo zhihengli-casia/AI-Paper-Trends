@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **35** (3.23%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: AI4Science/医疗
 - English keywords: `causal / treatment / observational / clinical`
 - Keyword pool: causal; treatment; observational; clinical; effects; interventions; confounders; variables; covariates; graphical; conditional; event
 

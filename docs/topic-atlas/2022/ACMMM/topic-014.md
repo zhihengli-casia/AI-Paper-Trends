@@ -1,8 +1,8 @@
-# ACMMM 2022: inpainting / patches / vision transformer / character
+# ACMMM 2022: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `14`
 - Papers: **20** (2.89%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `inpainting / patches / vision transformer / character`
 - Keyword pool: inpainting; patches; vision transformer; character; jpeg; quantization; rotation; deepfake; denoising; spatial; transformers; blind
 

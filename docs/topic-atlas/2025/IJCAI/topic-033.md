@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **16** (1.25%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `candidates / fairness / voting / approximation`
 - Keyword pool: candidates; fairness; voting; approximation; opinions; innate; demographic; number; parameterized; rules; submodular; set
 

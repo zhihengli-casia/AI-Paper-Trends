@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **10** (1.78%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `entity / ner / entities / recognition`
 - Keyword pool: entity; ner; entities; recognition; candidate; named; blocking; linking; disambiguation; target; source; self-improving
 

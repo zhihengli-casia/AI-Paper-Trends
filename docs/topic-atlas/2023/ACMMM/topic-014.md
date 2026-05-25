@@ -1,8 +1,8 @@
-# ACMMM 2023: 语音/音频语言模型
+# ACMMM 2023: 语音与音频对抗攻击
 
 - Topic ID: `14`
 - Papers: **19** (2.11%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 多模态/VLM
 - English keywords: `audio / speech / temporal / sound`
 - Keyword pool: audio; speech; temporal; sound; localization; video; attack; event; modalities; objects; acoustic; cross-modal
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **19** (1.65%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `retrieval / image-text / alignment / cross-modal`
 - Keyword pool: retrieval; image-text; alignment; cross-modal; clip; fine-grained; composed; query; document; remote sensing; negatives; specific domain
 

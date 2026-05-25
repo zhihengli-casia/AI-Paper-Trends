@@ -2,7 +2,7 @@
 
 - Topic ID: `115`
 - Papers: **21** (0.39%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `physical / physics / simulation / video`
 - Keyword pool: physical; physics; simulation; video; intrinsic dynamics; scene; object; wind; motion; world; force field; intuitive
 

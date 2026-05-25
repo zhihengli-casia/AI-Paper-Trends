@@ -1,4 +1,4 @@
-# CVPR 2024: vit / transformers / vision transformer / registration
+# CVPR 2024: 卷积网络结构与训练
 
 - Topic ID: `6`
 - Papers: **50** (1.84%)

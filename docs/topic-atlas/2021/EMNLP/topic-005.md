@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **34** (4.01%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `gender / emotion / bias / demographic`
 - Keyword pool: gender; emotion; bias; demographic; social; moral; attributes; sentiment; groups; styles; linguistic; names
 

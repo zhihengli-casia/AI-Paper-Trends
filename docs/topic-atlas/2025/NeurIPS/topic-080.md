@@ -2,7 +2,7 @@
 
 - Topic ID: `80`
 - Papers: **32** (0.61%)
-- Macro topic: 生成模型
+- Macro topic: 理论/优化
 - English keywords: `constraint / optimization problems / convex / programming`
 - Keyword pool: constraint; optimization problems; convex; programming; decision; mixed-integer; solvers; feasible; regret; dnn; linear optimization; solving
 

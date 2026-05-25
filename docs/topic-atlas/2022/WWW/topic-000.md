@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **43** (11.81%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `entity / topic / language / taxonomy`
 - Keyword pool: entity; topic; language; taxonomy; stance; alignment; knowledge graphs; completion; entities; log; kgs; embedding
 

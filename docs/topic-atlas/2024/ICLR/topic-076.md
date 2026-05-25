@@ -1,4 +1,4 @@
-# ICLR 2024: multi-label / ssl / extreme / semi-supervised learning
+# ICLR 2024: 半监督学习与噪声标签建模
 
 - Topic ID: `76`
 - Papers: **14** (0.62%)

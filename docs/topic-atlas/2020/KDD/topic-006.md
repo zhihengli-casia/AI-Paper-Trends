@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **15** (6.91%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 系统/效率/压缩
 - English keywords: `kernel / patterns / time series / graphs`
 - Keyword pool: kernel; patterns; time series; graphs; databases; frequent; top-k; queries; similarity search; query; sliding; chains
 

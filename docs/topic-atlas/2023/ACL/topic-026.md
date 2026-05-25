@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **16** (1.49%)
-- Macro topic: LLM/语言模型
+- Macro topic: 生成模型
 - English keywords: `rationales / counterfactual / rationalization / active`
 - Keyword pool: rationales; counterfactual; rationalization; active; argument; causal; ood; selective; generator; examples; predictor; reward
 

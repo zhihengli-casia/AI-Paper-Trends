@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **14** (1.74%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `federated / medical image / image classification / learning statistical`
 - Keyword pool: federated; medical image; image classification; learning statistical; value; decomposition; group; contrastive; distribution; adaptive; lie; multi-center
 

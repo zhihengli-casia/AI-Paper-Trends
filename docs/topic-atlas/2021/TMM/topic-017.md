@@ -1,8 +1,8 @@
-# TMM 2021: 语音/音频语言模型
+# TMM 2021: 情感识别与多模态情绪理解
 
 - Topic ID: `17`
 - Papers: **13** (2.97%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `emotion / recognition / graph / facial`
 - Keyword pool: emotion; recognition; graph; facial; expression; ensemble; speech; dcnn; states; prototypes; video; wild
 

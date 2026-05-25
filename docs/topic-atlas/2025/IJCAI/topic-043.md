@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **15** (1.17%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `point cloud / clouds / assembly / object-centric`
 - Keyword pool: point cloud; clouds; assembly; object-centric; industrial; registration; objects; completion; representations; topology; top-down; module
 

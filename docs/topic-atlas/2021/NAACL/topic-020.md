@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **11** (2.31%)
-- Macro topic: NLP任务
+- Macro topic: 推荐/检索/排序
 - English keywords: `multi-hop / reasoning / question / answering`
 - Keyword pool: multi-hop; reasoning; question; answering; evidence; commonsense; graph; answers; retrieval; facts; papers; retrieving
 

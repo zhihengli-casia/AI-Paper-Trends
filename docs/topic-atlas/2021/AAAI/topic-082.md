@@ -2,7 +2,7 @@
 
 - Topic ID: `82`
 - Papers: **9** (0.55%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `differentially private / privacy / protected / additive error`
 - Keyword pool: differentially private; privacy; protected; additive error; coordinate descent; k-means; projection-free; clustering; euclidean; auxiliary information; link prediction; descent algorithm
 

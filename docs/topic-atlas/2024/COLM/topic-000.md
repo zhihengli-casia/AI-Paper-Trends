@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **37** (12.37%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `search / thinking / questions / intelligence`
 - Keyword pool: search; thinking; questions; intelligence; heuristic; cognitive; planning; mathematical; compression; game; dialogue; compositional
 

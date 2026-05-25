@@ -1,4 +1,4 @@
-# PR 2024: knowledge / distillation / mining / label
+# PR 2024: 时间序列建模与预测
 
 - Topic ID: `32`
 - Papers: **15** (1.56%)

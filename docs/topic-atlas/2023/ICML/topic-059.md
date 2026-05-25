@@ -2,7 +2,7 @@
 
 - Topic ID: `59`
 - Papers: **14** (0.77%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `unlearning / xai / concept / blackbox`
 - Keyword pool: unlearning; xai; concept; blackbox; interpretable; data-free; right; deleted; interpretability; intervention; explanations; privacy
 

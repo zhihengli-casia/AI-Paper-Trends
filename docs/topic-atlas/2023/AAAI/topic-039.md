@@ -1,8 +1,8 @@
-# AAAI 2023: 多语言建模与跨语言迁移
+# AAAI 2023: 机器翻译与跨语言对齐
 
 - Topic ID: `39`
 - Papers: **17** (1.08%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `translation / topic / mrc / sentence`
 - Keyword pool: translation; topic; mrc; sentence; cross-lingual; neural machine; meta; slot; multilingual; segformer; monolingual; non-autoregressive
 

@@ -1,8 +1,8 @@
-# ECCV 2024: 目标检测与图像分割
+# ECCV 2024: 图像分割、语义分割与场景解析
 
 - Topic ID: `36`
 - Papers: **23** (0.96%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `grounding / language / segmentation / understanding`
 - Keyword pool: grounding; language; segmentation; understanding; sign; gaze; reasoning; multi-modal; chat; point; scene; clouds
 

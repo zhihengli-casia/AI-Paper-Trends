@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **51** (4.87%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: AI4Science/医疗
 - English keywords: `graph / node / gnns / neural networks`
 - Keyword pool: graph; node; gnns; neural networks; taxonomy; recommendation; contrastive; augmentation; structural; social; brain; fraud
 

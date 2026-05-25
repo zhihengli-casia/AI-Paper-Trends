@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **14** (3.47%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `llms / news / comment / personalized`
 - Keyword pool: llms; news; comment; personalized; recommender; user item; agents; video; multimodal; prompts; generation; preference
 

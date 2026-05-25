@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **29** (7.82%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `search / retrieval / queries / query`
 - Keyword pool: search; retrieval; queries; query; conversational; dense; reading; websites; ranker; adversarial; entities; relevance
 

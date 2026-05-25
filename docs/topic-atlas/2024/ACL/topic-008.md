@@ -1,8 +1,8 @@
-# ACL 2024: 多语言建模与跨语言迁移
+# ACL 2024: 机器翻译与跨语言对齐
 
 - Topic ID: `8`
 - Papers: **29** (3.09%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `languages / multilingual / cross-lingual / translation`
 - Keyword pool: languages; multilingual; cross-lingual; translation; alignment; low-resource; unsupervised; english; scripts; embeddings; language pairs; high-resource
 

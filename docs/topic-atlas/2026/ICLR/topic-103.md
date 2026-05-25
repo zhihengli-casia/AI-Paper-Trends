@@ -1,8 +1,8 @@
-# ICLR 2026: 在线学习与 regret 理论
+# ICLR 2026: 组合优化与神经求解
 
 - Topic ID: `103`
 - Papers: **25** (0.47%)
-- Macro topic: LLM/语言模型
+- Macro topic: 理论/优化
 - English keywords: `bayesian optimization / acquisition / optimization bo / black-box`
 - Keyword pool: bayesian optimization; acquisition; optimization bo; black-box; regret; pram; high-dimensional; duet; permutation; multi-objective optimization; diversity optimization; combinatorial
 

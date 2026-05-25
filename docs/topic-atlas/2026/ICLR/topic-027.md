@@ -1,8 +1,8 @@
-# ICLR 2026: combinatorial optimization / routing / solvers / vehicle
+# ICLR 2026: 组合优化与神经求解
 
 - Topic ID: `27`
 - Papers: **54** (1.01%)
-- Macro topic: LLM/语言模型
+- Macro topic: 理论/优化
 - English keywords: `combinatorial optimization / routing / solvers / vehicle`
 - Keyword pool: combinatorial optimization; routing; solvers; vehicle; milp; neural combinatorial; scheduling; sat; circuit; instances; programming; branching
 

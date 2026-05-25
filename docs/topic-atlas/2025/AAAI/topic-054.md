@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **24** (0.79%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `news / hallucination / fake / detection`
 - Keyword pool: news; hallucination; fake; detection; multimodal; llms; reasoning; facts; lvlms; triples; commonsense; visual
 

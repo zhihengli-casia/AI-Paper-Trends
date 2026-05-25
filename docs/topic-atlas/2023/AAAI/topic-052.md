@@ -1,4 +1,4 @@
-# AAAI 2023: noisy labels / denoising / noise / samples
+# AAAI 2023: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `52`
 - Papers: **14** (0.89%)

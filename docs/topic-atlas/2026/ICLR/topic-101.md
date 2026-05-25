@@ -2,7 +2,7 @@
 
 - Topic ID: `101`
 - Papers: **25** (0.47%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / clients / heterogeneity / server`
 - Keyword pool: federated; clients; heterogeneity; server; heterogeneous; learning fl; personalized; aggregation; distributed; clustered; collaborative learning; attack
 

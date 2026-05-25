@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **21** (1.37%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `graph / gnns / unlearning / node`
 - Keyword pool: graph; gnns; unlearning; node; circuit; oversmoothing; influence; adversarial; edges; gcns; attack; mlps
 

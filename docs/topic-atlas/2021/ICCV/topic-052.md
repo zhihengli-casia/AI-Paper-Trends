@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **14** (0.87%)
-- Macro topic: NLP任务
+- Macro topic: 计算机视觉
 - English keywords: `relational / reasoning / graph / visual-semantic`
 - Keyword pool: relational; reasoning; graph; visual-semantic; long-tail; induction; language; relations; video; grounded; hierarchical; induced
 

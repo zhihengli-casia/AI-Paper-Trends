@@ -1,8 +1,8 @@
-# AAAI 2022: 目标检测与图像分割
+# AAAI 2022: 半监督学习与噪声标签建模
 
 - Topic ID: `51`
 - Papers: **11** (0.84%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 计算机视觉
 - English keywords: `labels / few-shot / ssl / meta-learning`
 - Keyword pool: labels; few-shot; ssl; meta-learning; prototypes; segmentation; finetuning; semi-supervised learning; classes; safe; dnns; bi-level optimization
 

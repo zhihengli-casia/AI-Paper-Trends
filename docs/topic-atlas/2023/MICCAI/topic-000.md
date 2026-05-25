@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **20** (27.40%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `contrastive / medical / pre-training / representation learning`
 - Keyword pool: contrastive; medical; pre-training; representation learning; networks; classification; vision-language; knowledge; multi-modal; robust; disease; transfer
 

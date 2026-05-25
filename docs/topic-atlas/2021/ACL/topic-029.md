@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **11** (1.55%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `event / extraction / argument / document-level`
 - Keyword pool: event; extraction; argument; document-level; ontology; mentions; git; deep learning; video; anchor; structures; captioning
 

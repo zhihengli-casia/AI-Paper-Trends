@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **13** (2.97%)
-- Macro topic: 强化学习/决策
+- Macro topic: 计算机视觉
 - English keywords: `video / streaming / edge / qoe`
 - Keyword pool: video; streaming; edge; qoe; service; bitrate; traces; dynamic; mobile; user; online; inline-formula tex-math
 

@@ -1,4 +1,4 @@
-# CVPR 2021: batch / normalization / whitening / metadata
+# CVPR 2021: 归一化、网络层与训练稳定性
 
 - Topic ID: `83`
 - Papers: **9** (0.54%)

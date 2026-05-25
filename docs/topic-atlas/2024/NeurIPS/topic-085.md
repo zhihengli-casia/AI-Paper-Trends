@@ -1,8 +1,8 @@
-# NeurIPS 2024: LLM Agent 与工具使用
+# NeurIPS 2024: 智能体决策与多智能体系统
 
 - Topic ID: `85`
 - Papers: **20** (0.50%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `backdoor / attacks / defense / threat`
 - Keyword pool: backdoor; attacks; defense; threat; agents; trigger; poisoned; defensive; security; clean; collusion; attack success
 

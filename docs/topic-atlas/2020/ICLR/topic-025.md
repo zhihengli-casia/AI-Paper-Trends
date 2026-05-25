@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **13** (1.89%)
-- Macro topic: 计算机视觉
+- Macro topic: NLP任务
 - English keywords: `translation / bert / word / nmt`
 - Keyword pool: translation; bert; word; nmt; neural machine; alignment; transfer; languages; sentence; contextual; knowledge distillation; style
 

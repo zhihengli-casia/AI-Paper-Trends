@@ -1,4 +1,4 @@
-# PR 2026: coreset / domain / architectures / selection
+# PR 2026: 领域自适应与迁移学习
 
 - Topic ID: `35`
 - Papers: **13** (1.41%)

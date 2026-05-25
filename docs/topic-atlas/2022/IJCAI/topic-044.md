@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **10** (1.16%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `entity / linking / entities / question`
 - Keyword pool: entity; linking; entities; question; reasoning; answering; multi-hop; kgs; query; heterogeneous; path; low-resource
 

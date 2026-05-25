@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **14** (1.74%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: AI4Science/医疗
 - English keywords: `clustering / kernel / algorithms / brain`
 - Keyword pool: clustering; kernel; algorithms; brain; distance; feature; graph; transport; pcm; optimal; clusters; parameters
 

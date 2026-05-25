@@ -1,8 +1,8 @@
-# CVPR 2022: 对抗攻击、鲁棒性与安全
+# CVPR 2022: 领域自适应与迁移学习
 
 - Topic ID: `80`
 - Papers: **11** (0.53%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `adaptation / uda / domain-invariant / gaze`
 - Keyword pool: adaptation; uda; domain-invariant; gaze; target domain; source domain; unsupervised domain; unlabeled target; ssrt; domains; adversarial; contrastive
 

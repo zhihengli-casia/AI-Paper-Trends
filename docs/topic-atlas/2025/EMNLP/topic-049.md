@@ -1,8 +1,8 @@
-# EMNLP 2025: 语音/音频语言模型
+# EMNLP 2025: 仇恨言论与有害内容检测
 
 - Topic ID: `49`
 - Papers: **17** (0.94%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `toxic / moderation / hate speech / online`
 - Keyword pool: toxic; moderation; hate speech; online; dscd; dpo; annotator; personalized; subjectivity; content; pdd; posts
 

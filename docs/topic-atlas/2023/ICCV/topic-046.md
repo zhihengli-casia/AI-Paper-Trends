@@ -1,8 +1,8 @@
-# ICCV 2023: domain generalization / domains / shift / generalization dg
+# ICCV 2023: 领域自适应与迁移学习
 
 - Topic ID: `46`
 - Papers: **22** (1.02%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `domain generalization / domains / shift / generalization dg`
 - Keyword pool: domain generalization; domains; shift; generalization dg; unseen; hessian; domain adaptation generalization; texture; continual domain; classifier; policy; augmentation
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **15** (1.40%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `multilingual / languages / transfer / cross-lingual`
 - Keyword pool: multilingual; languages; transfer; cross-lingual; multitask; bloom; distractors; english; zero-shot; finetuning; acquisition; dialect
 

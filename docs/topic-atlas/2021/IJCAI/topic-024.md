@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **16** (2.22%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `action / demonstrations / point cloud / pedestrian`
 - Keyword pool: action; demonstrations; point cloud; pedestrian; intent; agent; objects; skills; imitation; place; visual; unseen
 

@@ -1,4 +1,4 @@
-# ACMMM 2020: 语音/音频语言模型
+# ACMMM 2020: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `18`
 - Papers: **12** (2.54%)

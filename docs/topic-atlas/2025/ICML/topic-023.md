@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **33** (0.99%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `preference / alignment / reward / dpo`
 - Keyword pool: preference; alignment; reward; dpo; human; llms; aligning language; tpo; responses; on-policy; dpa; writing
 

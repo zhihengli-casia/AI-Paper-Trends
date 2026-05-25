@@ -1,8 +1,8 @@
-# TMM 2026: attribute / self-distillation / traffic / zero-shot learning
+# TMM 2026: 零样本分类与开放集识别
 
 - Topic ID: `25`
 - Papers: **12** (2.02%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `attribute / self-distillation / traffic / zero-shot learning`
 - Keyword pool: attribute; self-distillation; traffic; zero-shot learning; material; pruning; student; biased; nodes; continual; classes; attribution
 

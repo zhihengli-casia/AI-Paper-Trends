@@ -1,4 +1,4 @@
-# ICCV 2023: domain adaptation / target domain / unsupervised domain / uda
+# ICCV 2023: 领域自适应与迁移学习
 
 - Topic ID: `43`
 - Papers: **23** (1.07%)

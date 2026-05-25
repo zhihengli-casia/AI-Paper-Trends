@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **32** (2.98%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 多模态/VLM
 - English keywords: `speech / asr / translation / recognition`
 - Keyword pool: speech; asr; translation; recognition; modality; audio; noises; languages; pre-training; cross-modal; spoken; end-to-end
 

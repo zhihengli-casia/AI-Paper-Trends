@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **25** (1.07%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `cross-modal / captioning / image-text / alignment`
 - Keyword pool: cross-modal; captioning; image-text; alignment; visual; images; retrieval; gloss; clip; language; pairs; hashing
 

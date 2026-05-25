@@ -1,8 +1,8 @@
-# NeurIPS 2020: 语音/音频语言模型
+# NeurIPS 2020: 视频动作识别与时序定位
 
 - Topic ID: `49`
 - Papers: **17** (0.90%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `video / self-supervised / audio / visual`
 - Keyword pool: video; self-supervised; audio; visual; action recognition; modalities; sign; object; semantic; facial; countries; spatial
 

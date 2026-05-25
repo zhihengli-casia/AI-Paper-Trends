@@ -1,8 +1,8 @@
-# CVPR 2022: nas / search / neural architecture / supernet
+# CVPR 2022: 神经架构搜索与模型设计
 
 - Topic ID: `33`
 - Papers: **23** (1.11%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 理论/优化
 - English keywords: `nas / search / neural architecture / supernet`
 - Keyword pool: nas; search; neural architecture; supernet; architectures; meta-learning; multi-task; maml; latency; architecture parameters; one-shot; paths
 

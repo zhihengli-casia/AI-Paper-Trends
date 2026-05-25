@@ -1,8 +1,8 @@
-# NAACL 2025: 语音/音频语言模型
+# NAACL 2025: 语音识别与语音理解
 
 - Topic ID: `32`
 - Papers: **10** (1.39%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `hate / humor / speech / moderation`
 - Keyword pool: hate; humor; speech; moderation; individuality; detection; harmful; speaker; recognition; online; gaming; expressions
 

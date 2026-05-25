@@ -1,8 +1,8 @@
-# EMNLP 2020: 多语言建模与跨语言迁移
+# EMNLP 2020: 机器翻译与跨语言对齐
 
 - Topic ID: `1`
 - Papers: **40** (5.33%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: NLP任务
 - English keywords: `languages / multilingual / cross-lingual / alignment`
 - Keyword pool: languages; multilingual; cross-lingual; alignment; word; amr; embeddings; translation; language pairs; bilingual; lexicon induction; sentence
 

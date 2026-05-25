@@ -1,8 +1,8 @@
-# CVPR 2024: 目标检测与图像分割
+# CVPR 2024: 医学影像分割
 
 - Topic ID: `56`
 - Papers: **22** (0.81%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `concept / hierarchy / hierarchical / explanations`
 - Keyword pool: concept; hierarchy; hierarchical; explanations; hyperbolic; parent; segmentation; pixels; interpretable; www; inrs; brain
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `93`
 - Papers: **13** (0.49%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `entities / knowledge graph / query answering / reasoning`
 - Keyword pool: entities; knowledge graph; query answering; reasoning; facts; few-shot; triplets; topic; graphs; logical; multi-modal; pretraining
 

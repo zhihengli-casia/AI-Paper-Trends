@@ -1,8 +1,8 @@
-# CVPR 2021: 语音/音频语言模型
+# CVPR 2021: 音视频多模态理解
 
 - Topic ID: `21`
 - Papers: **22** (1.33%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `audio-visual / sound / video / cross-modal`
 - Keyword pool: audio-visual; sound; video; cross-modal; audio visual; event; speech; modalities; contrastive learning; separation; lip; multimodal
 

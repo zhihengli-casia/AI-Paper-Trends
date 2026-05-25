@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **69** (1.66%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `motion / pose / action / hoi`
 - Keyword pool: motion; pose; action; hoi; gait; multi-person; video; dance; humanoid; recognition; contact; skeleton
 

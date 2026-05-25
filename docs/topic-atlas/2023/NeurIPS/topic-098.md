@@ -2,7 +2,7 @@
 
 - Topic ID: `98`
 - Papers: **15** (0.47%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `marl / multi-agent / agents / cooperative`
 - Keyword pool: marl; multi-agent; agents; cooperative; team; reinforcement; reward; individual; fairness; policies; policy; mesh
 

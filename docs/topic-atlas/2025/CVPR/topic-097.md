@@ -1,8 +1,8 @@
-# CVPR 2025: 语音/音频语言模型
+# CVPR 2025: 音乐与音频生成/理解
 
 - Topic ID: `97`
 - Papers: **14** (0.49%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `audio / music / video / sound`
 - Keyword pool: audio; music; video; sound; rhythmic; dubbing; acoustic; synchronization; synchronized; film; joint; movie
 

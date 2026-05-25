@@ -1,8 +1,8 @@
-# AAAI 2022: dialogue / emotion / responses / conversation
+# AAAI 2022: 对话系统与会话建模
 
 - Topic ID: `65`
 - Papers: **9** (0.68%)
-- Macro topic: 计算机视觉
+- Macro topic: NLP任务
 - English keywords: `dialogue / emotion / responses / conversation`
 - Keyword pool: dialogue; emotion; responses; conversation; utterance; discourse; curriculum; value; evaluator; recognition; human; generation
 

@@ -1,8 +1,8 @@
-# AAAI 2025: 扩散生成模型
+# AAAI 2025: 场景图、关系推理与视觉理解
 
 - Topic ID: `105`
 - Papers: **13** (0.43%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `scene graph / segmentation / diffusion / captioning`
 - Keyword pool: scene graph; segmentation; diffusion; captioning; image; change; open-vocabulary; masks; visual; predicates; graph generation; prompt
 

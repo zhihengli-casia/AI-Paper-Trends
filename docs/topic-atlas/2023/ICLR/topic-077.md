@@ -2,7 +2,7 @@
 
 - Topic ID: `77`
 - Papers: **10** (0.65%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `pomdps / reinforcement learning / policy / markov decision`
 - Keyword pool: pomdps; reinforcement learning; policy; markov decision; observable; sample complexity; partially; safety; sim-to-real; decision processes; transition; sample-efficient
 

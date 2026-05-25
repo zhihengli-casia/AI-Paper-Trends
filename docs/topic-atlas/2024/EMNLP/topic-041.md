@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **16** (1.26%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / clinical / disease / progression`
 - Keyword pool: medical; clinical; disease; progression; diagnosis; decision; retrieved contexts; healthcare; visual; explanations; vqa; rag
 

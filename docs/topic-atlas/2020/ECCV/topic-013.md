@@ -1,4 +1,4 @@
-# ECCV 2020: shape / pose / human / mesh
+# ECCV 2020: 人体姿态估计与运动理解
 
 - Topic ID: `13`
 - Papers: **25** (1.84%)

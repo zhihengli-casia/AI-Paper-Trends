@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **16** (5.84%)
-- Macro topic: 其他/交叉主题
+- Macro topic: NLP任务
 - English keywords: `matching / entity / bootstrapping / feature`
 - Keyword pool: matching; entity; bootstrapping; feature; techniques; spaces; smart; property; pre-trained; object; iterative; variational
 

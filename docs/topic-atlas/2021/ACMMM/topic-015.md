@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **15** (2.77%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `recommendation / news / item / product`
 - Keyword pool: recommendation; news; item; product; engagement; collaborative; users; media; preference; brand; privacy; click
 

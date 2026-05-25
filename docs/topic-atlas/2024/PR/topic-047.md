@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **9** (0.94%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `human / pedestrian / knowledge / video`
 - Keyword pool: human; pedestrian; knowledge; video; detection; forecasting; motion; gesture; graphs; open-world; state-of-the-art; depth
 

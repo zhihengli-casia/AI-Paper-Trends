@@ -2,7 +2,7 @@
 
 - Topic ID: `91`
 - Papers: **16** (0.53%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `tracking / multi-object / tracker / appearance`
 - Keyword pool: tracking; multi-object; tracker; appearance; tokens; template; mamba; referring; tracked; objects; temporal; frame
 

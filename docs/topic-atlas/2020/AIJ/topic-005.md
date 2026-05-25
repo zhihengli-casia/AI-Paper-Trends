@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **6** (7.06%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `ethical / public / definitions / fairness`
 - Keyword pool: ethical; public; definitions; fairness; kidney exchange; moral permissibility; permissibility action plans; opinion guide; normative theories; methodology tool support; logikey methodology tool; loan allocations
 

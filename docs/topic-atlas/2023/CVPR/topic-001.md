@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **55** (2.34%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `lidar / point / clouds / segmentation`
 - Keyword pool: lidar; point; clouds; segmentation; autonomous; driving; object detection; domain; self-supervised; motion; contrastive; fusion
 

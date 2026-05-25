@@ -1,8 +1,8 @@
-# IJCAI 2024: 大语言模型 / language / fine-tuning / vocabulary
+# IJCAI 2024: LLM 推理系统与 GPU Kernel 优化
 
 - Topic ID: `11`
 - Papers: **23** (2.19%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `llms / language / fine-tuning / vocabulary`
 - Keyword pool: llms; language; fine-tuning; vocabulary; job; plm; gpu; sentences; legal; long; documents; memory
 

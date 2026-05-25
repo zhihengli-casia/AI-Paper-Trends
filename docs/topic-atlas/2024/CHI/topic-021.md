@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **19** (1.81%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `game / community / players / video`
 - Keyword pool: game; community; players; video; engagement; research; exploring; experiences; social support; gaming; prevalence; external
 

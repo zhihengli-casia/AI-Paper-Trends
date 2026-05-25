@@ -2,7 +2,7 @@
 
 - Topic ID: `104`
 - Papers: **13** (0.45%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `reasoning / video / question / answering`
 - Keyword pool: reasoning; video; question; answering; evidence; entailment; continual; events; audio-visual; vqa; robust fine-tuning; vlms
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **12** (2.02%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `anomaly / bold xmlns mml / facial / tampered`
 - Keyword pool: anomaly; bold xmlns mml; facial; tampered; fake; characteristic; localization; generative; distribution; regions; industrial; unseen
 

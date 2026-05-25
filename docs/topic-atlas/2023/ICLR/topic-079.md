@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **9** (0.59%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `feature / extractor / anomaly / fine-tuning`
 - Keyword pool: feature; extractor; anomaly; fine-tuning; finetuning; pretrained; simplicity bias; adaptation; pre-trained; distortion; few-shot; protocols
 

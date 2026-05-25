@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **24** (2.29%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `detection / copyright / llm-generated / quantization`
 - Keyword pool: detection; copyright; llm-generated; quantization; authorship; document-level; classification; synthetic; social; detectors; historical; texts
 

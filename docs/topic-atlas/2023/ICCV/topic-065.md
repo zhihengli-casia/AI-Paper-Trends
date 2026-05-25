@@ -1,4 +1,4 @@
-# ICCV 2023: gan / 少样本 / adaptation / generative
+# ICCV 2023: 领域自适应与迁移学习
 
 - Topic ID: `65`
 - Papers: **16** (0.74%)

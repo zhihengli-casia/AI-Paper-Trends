@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **28** (1.24%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `dynamical / dynamics / recurrent / periods`
 - Keyword pool: dynamical; dynamics; recurrent; periods; connectivity; neuroscience; neurons; biological; brain; activity; latent; quantum
 

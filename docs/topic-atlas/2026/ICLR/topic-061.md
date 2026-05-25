@@ -2,7 +2,7 @@
 
 - Topic ID: `61`
 - Papers: **40** (0.75%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / diffusion / quantization / caching`
 - Keyword pool: video; diffusion; quantization; caching; acceleration; ptq; cache; dit; codebook; sparse attention; timesteps; transformers
 

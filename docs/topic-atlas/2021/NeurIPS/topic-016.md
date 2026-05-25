@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **35** (1.50%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / neurons / synaptic / plasticity`
 - Keyword pool: brain; neurons; synaptic; plasticity; feedback; biological; cortex; visual; spiking; rnns; snns; sensory
 

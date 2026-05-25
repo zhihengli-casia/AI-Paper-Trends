@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **60** (1.49%)
-- Macro topic: 生成模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `diffusion / dits / denoising / image generation`
 - Keyword pool: diffusion; dits; denoising; image generation; quantization; fid; ldms; autoregressive; images; distillation; one-step; imagenet
 

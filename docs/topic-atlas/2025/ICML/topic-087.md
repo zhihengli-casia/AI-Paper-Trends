@@ -2,7 +2,7 @@
 
 - Topic ID: `87`
 - Papers: **18** (0.54%)
-- Macro topic: 理论/优化
+- Macro topic: AI4Science/医疗
 - English keywords: `diffusion / inverse problems / noise / mri`
 - Keyword pool: diffusion; inverse problems; noise; mri; inversion; denoising; reconstruction; image; restoration; sampling; dms; priors
 

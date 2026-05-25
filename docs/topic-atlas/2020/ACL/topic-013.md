@@ -1,8 +1,8 @@
-# ACL 2020: 多语言建模与跨语言迁移
+# ACL 2020: 机器翻译与跨语言对齐
 
 - Topic ID: `13`
 - Papers: **20** (2.57%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `translation / nmt / neural machine / multilingual`
 - Keyword pool: translation; nmt; neural machine; multilingual; language pairs; multi-modal; document-level; word alignment; unsupervised; bleu; source; bilingual
 

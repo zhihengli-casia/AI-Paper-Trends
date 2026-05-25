@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **57** (1.54%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 推荐/检索/排序
 - English keywords: `graph / node / gnns / neural networks`
 - Keyword pool: graph; node; gnns; neural networks; condensation; ood; classification; recommendation; heterogeneous; link prediction; dynamic; temporal
 

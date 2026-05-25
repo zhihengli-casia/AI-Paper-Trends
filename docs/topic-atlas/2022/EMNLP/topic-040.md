@@ -1,8 +1,8 @@
-# EMNLP 2022: 社交媒体与社会计算
+# EMNLP 2022: 音乐与音频生成/理解
 
 - Topic ID: `40`
 - Papers: **10** (1.21%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `mental / media / social / bias`
 - Keyword pool: mental; media; social; bias; health; emotions; music; diagnosis; news; discourse; triggers; posts
 

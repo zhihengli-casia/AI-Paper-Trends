@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **40** (1.48%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `scene / gaussian / splatting / reconstruction`
 - Keyword pool: scene; gaussian; splatting; reconstruction; multi-view; primitives; camera poses; scr; point; rendering; segmentation; objects
 

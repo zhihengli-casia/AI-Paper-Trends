@@ -2,7 +2,7 @@
 
 - Topic ID: `55`
 - Papers: **12** (0.94%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `agents / marl / multi-agent / skills`
 - Keyword pool: agents; marl; multi-agent; skills; bts; reward; options; relation; centralized; credit; coordination; reinforcement learning
 

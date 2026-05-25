@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **16** (13.79%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / text-to-image / synthesis / text-guided`
 - Keyword pool: diffusion; text-to-image; synthesis; text-guided; face; multiple; texture; shape-guided; rerender video zero-shot; rectification; removal; single-image human digitization
 

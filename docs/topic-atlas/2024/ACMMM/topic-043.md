@@ -1,8 +1,8 @@
-# ACMMM 2024: 语音/音频语言模型
+# ACMMM 2024: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `43`
 - Papers: **13** (1.13%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `deepfake / forgery / voice / audio`
 - Keyword pool: deepfake; forgery; voice; audio; identity; manipulations; ood; detectors; spoofing; interference; media; outlier
 

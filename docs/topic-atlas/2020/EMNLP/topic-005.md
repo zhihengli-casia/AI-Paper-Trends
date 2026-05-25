@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **31** (4.13%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `summarization / abstractive / summary / summaries`
 - Keyword pool: summarization; abstractive; summary; summaries; extractive; factual; multi-document; rouge; summarizing; spectral; documents; consistency
 

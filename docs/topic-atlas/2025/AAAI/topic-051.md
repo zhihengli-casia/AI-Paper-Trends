@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **25** (0.83%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `medical / preference / report / clinical`
 - Keyword pool: medical; preference; report; clinical; bone; diagnosis; multimodal; language; visual; patient; image; radiologists
 

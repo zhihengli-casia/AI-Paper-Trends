@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **13** (0.86%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `segmentation / fusion / lesion / dynamic`
 - Keyword pool: segmentation; fusion; lesion; dynamic; lightweight; image; conversion; multiview feature; frequency-enhanced; multi-scale; global-local; fused
 

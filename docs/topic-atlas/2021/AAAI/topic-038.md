@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **18** (1.10%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `summarization / summaries / document / abstractive`
 - Keyword pool: summarization; summaries; document; abstractive; summary; chat; citation; language; rewriting; comments; scientific; content
 

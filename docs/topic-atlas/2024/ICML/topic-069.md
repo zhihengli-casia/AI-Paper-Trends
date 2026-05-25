@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **18** (0.69%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `spurious / dnn / grokking / feature`
 - Keyword pool: spurious; dnn; grokking; feature; neural networks; simplified; simplicity bias; regime; overparameterisation; inference time; single-pass; boolean
 

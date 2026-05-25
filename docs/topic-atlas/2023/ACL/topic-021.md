@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **17** (1.58%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: NLP任务
 - English keywords: `conversational / question generation / dialogue / query`
 - Keyword pool: conversational; question generation; dialogue; query; response; conversations; retriever; questions; search; argumentative; intention; queries
 

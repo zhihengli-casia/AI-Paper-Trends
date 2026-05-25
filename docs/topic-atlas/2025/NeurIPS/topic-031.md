@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **52** (0.98%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `reasoning / rlvr / reinforcement / reward`
 - Keyword pool: reasoning; rlvr; reinforcement; reward; llms; verifiable; prms; grpo; base; mathematical; learning rl; verifiers
 

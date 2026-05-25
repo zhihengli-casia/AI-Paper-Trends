@@ -1,8 +1,8 @@
-# ICCV 2021: search / nas / neural architecture / supernet
+# ICCV 2021: 神经架构搜索与模型设计
 
 - Topic ID: `36`
 - Papers: **19** (1.18%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 理论/优化
 - English keywords: `search / nas / neural architecture / supernet`
 - Keyword pool: search; nas; neural architecture; supernet; architectures; predictor; ood; imagenet; augmentation; top-1; faster; differentiable
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **21** (6.71%)
-- Macro topic: 可信/安全/公平
+- Macro topic: AI4Science/医疗
 - English keywords: `federated / clients / privacy / patient`
 - Keyword pool: federated; clients; privacy; patient; personalized; server; local; survival; heterogeneity; global; health; trial
 

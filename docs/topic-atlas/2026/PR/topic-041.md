@@ -1,8 +1,8 @@
-# PR 2026: 目标检测与图像分割
+# PR 2026: 医学影像分割
 
 - Topic ID: `41`
 - Papers: **12** (1.30%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `anomaly / detection / zero-shot / multivariate`
 - Keyword pool: anomaly; detection; zero-shot; multivariate; medical; prompt; memory; reconstruction; segmentation; centroid; autoencoders; context-aware multi-modal
 

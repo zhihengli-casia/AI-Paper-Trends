@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **25** (3.52%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `translation / neural machine / nmt / alignment`
 - Keyword pool: translation; neural machine; nmt; alignment; bleu; context-aware; decoding; transformer; token; parallel; word; lstm
 

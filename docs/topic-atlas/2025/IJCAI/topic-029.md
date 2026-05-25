@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **17** (1.33%)
-- Macro topic: 多模态/VLM
+- Macro topic: 推荐/检索/排序
 - English keywords: `person / visual / camouflaged / forgery`
 - Keyword pool: person; visual; camouflaged; forgery; novelty; retrieval; object; image; semi-supervised; har; occluded; old
 

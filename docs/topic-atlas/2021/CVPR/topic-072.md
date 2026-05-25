@@ -1,4 +1,4 @@
-# CVPR 2021: label noise / noisy / labels / meta
+# CVPR 2021: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `72`
 - Papers: **10** (0.60%)

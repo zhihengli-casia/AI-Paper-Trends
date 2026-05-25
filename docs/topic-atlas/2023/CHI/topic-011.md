@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **25** (2.87%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `games / players / video / demand`
 - Keyword pool: games; players; video; demand; playing; theory; fairness; scale; social; experience; development; physical
 

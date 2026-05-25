@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **35** (1.29%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `radar / lidar / depth / object detection`
 - Keyword pool: radar; lidar; depth; object detection; monocular; objects; distillation; weather; edges; detectors; point; clouds
 

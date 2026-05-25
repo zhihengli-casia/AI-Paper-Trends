@@ -1,8 +1,8 @@
-# AAAI 2025: LLM Agent 与工具使用
+# AAAI 2025: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `59`
 - Papers: **22** (0.73%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `allocations / valuations / fairness / agents`
 - Keyword pool: allocations; valuations; fairness; agents; mms; indivisible; fair division; notions; additive; day; existence; guarantees
 

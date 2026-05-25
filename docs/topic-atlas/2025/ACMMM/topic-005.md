@@ -1,8 +1,8 @@
-# ACMMM 2025: 语音/音频语言模型
+# ACMMM 2025: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `5`
 - Papers: **35** (2.80%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `deepfake / detection / forgery / audio`
 - Keyword pool: deepfake; detection; forgery; audio; localization; manipulations; watermark; voice; add; forged; proactive; fraud
 

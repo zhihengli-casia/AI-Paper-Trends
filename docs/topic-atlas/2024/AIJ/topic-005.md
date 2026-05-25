@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **9** (7.83%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `learning / representations / neurosymbolic / reinforcement`
 - Keyword pool: learning; representations; neurosymbolic; reinforcement; agent; safety; environment; bias; machine; properties; development; deep
 

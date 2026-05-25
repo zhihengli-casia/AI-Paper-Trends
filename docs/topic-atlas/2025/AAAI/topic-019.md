@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **35** (1.16%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `image / frequency / reconstruction / spectral`
 - Keyword pool: image; frequency; reconstruction; spectral; spatial; restoration; unfolding; symbol; implicit; inr; priors; mri
 

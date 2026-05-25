@@ -1,8 +1,8 @@
-# EMNLP 2022: 句法语义解析与结构化表示
+# EMNLP 2022: 结构化解析与表示学习
 
 - Topic ID: `25`
 - Papers: **16** (1.93%)
-- Macro topic: 生成模型
+- Macro topic: NLP任务
 - English keywords: `seq2seq / parser / algorithms / trees`
 - Keyword pool: seq2seq; parser; algorithms; trees; constituency; gec; tagging; discontinuous; sequence; parsing; failure; prefix
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **13** (1.81%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `cultural / cultures / norms / social`
 - Keyword pool: cultural; cultures; norms; social; values; arabic; awareness; entities; french; alignment; conversations; pluralistic
 

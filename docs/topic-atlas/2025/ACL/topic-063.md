@@ -1,8 +1,8 @@
-# ACL 2025: 语音/音频语言模型
+# ACL 2025: 仇恨言论与有害内容检测
 
 - Topic ID: `63`
 - Papers: **13** (0.77%)
-- Macro topic: HCI/社会计算
+- Macro topic: 语音/音频/音乐
 - English keywords: `hate / speech / detection / hyperbole`
 - Keyword pool: hate; speech; detection; hyperbole; moderation; metaphor; implicit; videos; social media; dog; offensive; emotion
 

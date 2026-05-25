@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **10** (1.15%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / accessibility / gesture / typing`
 - Keyword pool: brain; accessibility; gesture; typing; health; virtual; smartwatch; non-visual; older; touchscreens; strength; metrics
 

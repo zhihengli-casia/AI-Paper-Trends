@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **16** (1.09%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 可信/安全/公平
 - English keywords: `lidar / driving / autonomous / vehicle`
 - Keyword pool: lidar; driving; autonomous; vehicle; detection tracking; sensor; weather; nlos; fog; realistic; camera; adversarial
 

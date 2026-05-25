@@ -1,8 +1,8 @@
-# ACL 2024: 句法语义解析与结构化表示
+# ACL 2024: 句法解析与语言结构建模
 
 - Topic ID: `26`
 - Papers: **16** (1.70%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `parsing / dependency / syntactic / trees`
 - Keyword pool: parsing; dependency; syntactic; trees; graph; frames; srl; structures; wsd; gpst; transformer language; constituency
 

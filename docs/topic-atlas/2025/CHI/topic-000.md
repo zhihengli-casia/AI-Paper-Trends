@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **67** (5.39%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `body / games / players / gender`
 - Keyword pool: body; games; players; gender; video; technology; creative; identity; digital; review; learning; does
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **41** (1.02%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `agents / strategic / social / game`
 - Keyword pool: agents; strategic; social; game; players; utility; fairness; reward; beliefs; policy; contract; welfare
 

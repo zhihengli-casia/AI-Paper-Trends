@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **8** (6.96%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 强化学习/决策
 - English keywords: `heuristic / search / planning / optimisation`
 - Keyword pool: heuristic; search; planning; optimisation; domains; algorithms; solution; asp; low-level; constraint; symbolic; instances
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **41** (0.78%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / activity / neurons / neuronal`
 - Keyword pool: brain; activity; neurons; neuronal; stimuli; connectivity; cell; stimulus; neuroscience; cortex; visual; sensory
 

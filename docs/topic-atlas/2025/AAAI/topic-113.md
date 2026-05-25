@@ -1,8 +1,8 @@
-# AAAI 2025: re-identification / camera / person / nighttime
+# AAAI 2025: 行人重识别与人群计数
 
 - Topic ID: `113`
 - Papers: **11** (0.36%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `re-identification / camera / person / nighttime`
 - Keyword pool: re-identification; camera; person; nighttime; video; multi-modal; object; dnn; analytics; identity; edge; deviation
 

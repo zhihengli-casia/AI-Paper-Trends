@@ -1,4 +1,4 @@
-# ICML 2020: equivariant / group / object / shape
+# ICML 2020: 3D 形状重建与隐式表示
 
 - Topic ID: `18`
 - Papers: **21** (1.94%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `57`
 - Papers: **13** (0.81%)
-- Macro topic: 强化学习/决策
+- Macro topic: 可信/安全/公平
 - English keywords: `attack / adversary / defender / security`
 - Keyword pool: attack; adversary; defender; security; drl; screening; agent; games; diagnosis; reinforcement learning; adversarial; signaling
 

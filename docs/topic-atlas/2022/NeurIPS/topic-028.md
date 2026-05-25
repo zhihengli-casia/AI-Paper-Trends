@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **31** (1.16%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `vits / vision / transformers / visual`
 - Keyword pool: vits; vision; transformers; visual; image; restoration; window; vsr; recognition; adversarial; object; spatial
 

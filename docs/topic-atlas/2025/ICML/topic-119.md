@@ -1,8 +1,8 @@
-# ICML 2025: 语音/音频语言模型
+# ICML 2025: 语音理解、识别与交互
 
 - Topic ID: `119`
 - Papers: **14** (0.42%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `scaling laws / upcycling / speech / pretraining`
 - Keyword pool: scaling laws; upcycling; speech; pretraining; neural scaling; power law; language scaling; scaling behavior; probability mass; compute; downstream; power-law
 

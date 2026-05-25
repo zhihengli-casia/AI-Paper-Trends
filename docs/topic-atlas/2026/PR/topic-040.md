@@ -1,4 +1,4 @@
-# PR 2026: emotion recognition / neural / clustering / cross-domain
+# PR 2026: 情感识别与多模态情绪理解
 
 - Topic ID: `40`
 - Papers: **12** (1.30%)

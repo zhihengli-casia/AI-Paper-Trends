@@ -2,7 +2,7 @@
 
 - Topic ID: `66`
 - Papers: **12** (0.73%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `regret / online / convex / kernel`
 - Keyword pool: regret; online; convex; kernel; strongly; fourier; non-monotone; oracle; projection-free; dynamic; algorithms; bound
 

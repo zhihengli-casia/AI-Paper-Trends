@@ -1,8 +1,8 @@
-# ICLR 2021: 文档摘要与信息压缩
+# ICLR 2021: 摘要生成与信息压缩
 
 - Topic ID: `33`
 - Papers: **13** (1.51%)
-- Macro topic: 理论/优化
+- Macro topic: NLP任务
 - English keywords: `language / program / pre-training / probing`
 - Keyword pool: language; program; pre-training; probing; source code; summarization; tree; inductive biases; search; learners; probe; linguistic
 

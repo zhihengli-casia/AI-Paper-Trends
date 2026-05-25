@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **16** (9.94%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `video / motion / control / generation`
 - Keyword pool: video; motion; control; generation; aware; consistent; diffusion; local; unsupervised; transfer; temporally; spatially
 

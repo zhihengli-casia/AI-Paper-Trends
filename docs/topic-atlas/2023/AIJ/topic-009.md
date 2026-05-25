@@ -1,8 +1,8 @@
-# AIJ 2023: LLM Agent 与工具使用
+# AIJ 2023: 多智能体博弈、机制设计与社会选择
 
 - Topic ID: `9`
 - Papers: **7** (5.65%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / agents / games / selecting`
 - Keyword pool: bias; agents; games; selecting; proportionally; picture; mechanisms; maximization; theoretical; diversity; decision-making; feedback
 

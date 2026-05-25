@@ -1,8 +1,8 @@
-# AAAI 2020: emotion / fmri / recognition / modalities
+# AAAI 2020: 情感识别与多模态情绪理解
 
 - Topic ID: `65`
 - Papers: **12** (0.75%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `emotion / fmri / recognition / modalities`
 - Keyword pool: emotion; fmri; recognition; modalities; subjects; pathway; memory; video; memories; cognitive; human; signals
 

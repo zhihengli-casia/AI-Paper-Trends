@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **31** (0.96%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 强化学习/决策
 - English keywords: `bandits / contextual / regret / reward`
 - Keyword pool: bandits; contextual; regret; reward; user; feedback; contexts; cumulative; linear; arm; action; online
 

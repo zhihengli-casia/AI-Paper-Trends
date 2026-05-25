@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **16** (1.26%)
-- Macro topic: LLM/语言模型
+- Macro topic: 生成模型
 - English keywords: `dialogue / task-oriented / feature-based / tod`
 - Keyword pool: dialogue; task-oriented; feature-based; tod; policies; generator; topic; latent space; denoising; end-to-end; coherence; conversations
 

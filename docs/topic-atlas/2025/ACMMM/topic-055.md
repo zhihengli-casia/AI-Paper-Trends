@@ -2,7 +2,7 @@
 
 - Topic ID: `55`
 - Papers: **10** (0.80%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `video / reasoning / counterfactual / sports`
 - Keyword pool: video; reasoning; counterfactual; sports; soccer; answering; understanding; egocentric; questions; causal; affordance; textual
 

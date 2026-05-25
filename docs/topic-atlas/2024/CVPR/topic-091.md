@@ -1,8 +1,8 @@
-# CVPR 2024: action / egocentric / procedural / 视频理解/生成
+# CVPR 2024: 视频动作识别与时序定位
 
 - Topic ID: `91`
 - Papers: **13** (0.48%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `action / egocentric / procedural / video`
 - Keyword pool: action; egocentric; procedural; video; online; skill; ego4d; error; recognition; verb; uncertainty; plausible
 

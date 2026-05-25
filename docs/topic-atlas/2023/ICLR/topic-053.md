@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **14** (0.92%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 系统/效率/压缩
 - English keywords: `relu / width / kernel / real-valued`
 - Keyword pool: relu; width; kernel; real-valued; ntk; activation; approximation; functions; decay; binary; weights; threshold
 

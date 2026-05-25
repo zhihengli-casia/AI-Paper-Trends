@@ -1,8 +1,8 @@
-# ECCV 2022: LLM Agent 与工具使用
+# ECCV 2022: 时间序列预测
 
 - Topic ID: `57`
 - Papers: **13** (0.79%)
-- Macro topic: HCI/社会计算
+- Macro topic: 强化学习/决策
 - English keywords: `trajectory / forecasting / trajectories / pedestrian`
 - Keyword pool: trajectory; forecasting; trajectories; pedestrian; social; group; agents; behavior; interaction; physics; latent; contrastive
 

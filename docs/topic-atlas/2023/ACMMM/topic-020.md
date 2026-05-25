@@ -1,8 +1,8 @@
-# ACMMM 2023: 对抗攻击、鲁棒性与安全
+# ACMMM 2023: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `20`
 - Papers: **17** (1.88%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `detection / identity / deepfake / video`
 - Keyword pool: detection; identity; deepfake; video; vod; adversarial; activations; occluded; attacks; object; boundary; ood
 

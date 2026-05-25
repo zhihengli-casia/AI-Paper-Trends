@@ -1,8 +1,8 @@
-# ACMMM 2020: 攻击、防御与模型安全
+# ACMMM 2020: 视频动作识别与时序定位
 
 - Topic ID: `24`
 - Papers: **11** (2.33%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `action / skeleton / recognition / gcn`
 - Keyword pool: action; skeleton; recognition; gcn; motion; topology; graph convolutional; gait; dynamic; attack; temporal; view synthesis
 

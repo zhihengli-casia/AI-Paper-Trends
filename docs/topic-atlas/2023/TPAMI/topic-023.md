@@ -1,4 +1,4 @@
-# TPAMI 2023: pruning / search / compression / lottery
+# TPAMI 2023: 神经架构搜索与模型设计
 
 - Topic ID: `23`
 - Papers: **15** (2.20%)

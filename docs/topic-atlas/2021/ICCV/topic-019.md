@@ -1,4 +1,4 @@
-# ICCV 2021: clothing / deformation / pose / articulated
+# ICCV 2021: 人体姿态估计与运动理解
 
 - Topic ID: `19`
 - Papers: **24** (1.49%)

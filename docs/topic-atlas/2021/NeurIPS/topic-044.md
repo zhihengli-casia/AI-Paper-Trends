@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **21** (0.90%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `activity / brain / variability / recordings`
 - Keyword pool: activity; brain; variability; recordings; spiking; fmri; dynamics; neural population; neurons; latent; neuroscience; spike
 

@@ -1,8 +1,8 @@
-# EMNLP 2022: 推荐系统与用户建模
+# EMNLP 2022: 开放域对话与响应生成
 
 - Topic ID: `20`
 - Papers: **18** (2.17%)
-- Macro topic: NLP任务
+- Macro topic: AI4Science/医疗
 - English keywords: `dialogue / recommendation / conversations / responses`
 - Keyword pool: dialogue; recommendation; conversations; responses; act; open-domain; comprehension; tracking; metrics; instruction tuning; segment; medical
 

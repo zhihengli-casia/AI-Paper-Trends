@@ -1,4 +1,4 @@
-# NeurIPS 2025: vehicle routing / scheduling / mtl / solvers
+# NeurIPS 2025: 组合优化与神经求解
 
 - Topic ID: `85`
 - Papers: **31** (0.59%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `55`
 - Papers: **22** (0.81%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `text-to-image / personalization / subject / personalized`
 - Keyword pool: text-to-image; personalization; subject; personalized; t2i; preference; identity; brain; scanpath; attributes; concepts; decoding
 

@@ -1,8 +1,8 @@
-# AAAI 2023: 知识图谱推理与表示学习
+# AAAI 2023: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `13`
 - Papers: **27** (1.72%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `entities / entity / embedding / knowledge graph`
 - Keyword pool: entities; entity; embedding; knowledge graph; triplets; biomedical; relation; commonsense; prediction; analogical; graphs; linking
 

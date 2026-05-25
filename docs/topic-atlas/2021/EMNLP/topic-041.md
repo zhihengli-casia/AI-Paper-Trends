@@ -1,8 +1,8 @@
-# EMNLP 2021: 文档摘要与信息压缩
+# EMNLP 2021: 摘要生成与信息压缩
 
 - Topic ID: `41`
 - Papers: **9** (1.06%)
-- Macro topic: 理论/优化
+- Macro topic: NLP任务
 - English keywords: `summarization / summaries / factual / summary`
 - Keyword pool: summarization; summaries; factual; summary; abstractive; reviews; consistency; decision; metrics; assessment; series; programs
 

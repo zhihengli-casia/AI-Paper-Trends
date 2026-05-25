@@ -1,8 +1,8 @@
-# TIP 2024: 医疗健康与临床 AI
+# TIP 2024: 医学影像分割
 
 - Topic ID: `16`
 - Papers: **14** (2.93%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / segmentation / lesions / mri`
 - Keyword pool: brain; segmentation; lesions; mri; clinical; lstm; anatomical; roi; medical; normal; diagnosis; image fusion
 

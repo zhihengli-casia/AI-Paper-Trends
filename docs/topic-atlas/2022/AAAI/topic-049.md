@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **12** (0.91%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `graph / gnns / kernel / node`
 - Keyword pool: graph; gnns; kernel; node; isomorphism; matching; passing; edge; convolutional; neural networks; comparison; message
 

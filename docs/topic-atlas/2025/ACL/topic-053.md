@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **16** (0.94%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `calibration / confidence / uncertainty / epistemic`
 - Keyword pool: calibration; confidence; uncertainty; epistemic; self-correction; selection bias; quantized; calibrated; confident; markers; answer; options
 

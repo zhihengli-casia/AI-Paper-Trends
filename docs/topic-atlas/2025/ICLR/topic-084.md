@@ -2,7 +2,7 @@
 
 - Topic ID: `84`
 - Papers: **20** (0.54%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `cortex / neurons / brain / neuroscience`
 - Keyword pool: cortex; neurons; brain; neuroscience; color; neuronal; invariance; activity; sensory; manifold; population; visual
 

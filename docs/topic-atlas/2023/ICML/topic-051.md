@@ -1,8 +1,8 @@
-# ICML 2023: quantization / language / gpu / memory
+# ICML 2023: LLM 推理系统与 GPU Kernel 优化
 
 - Topic ID: `51`
 - Papers: **16** (0.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / language / gpu / memory`
 - Keyword pool: quantization; language; gpu; memory; scaling; bit; llms; inference; decoding; quantized; pipeline; activations
 

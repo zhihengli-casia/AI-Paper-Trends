@@ -1,4 +1,4 @@
-# ECCV 2024: affordance / action / anticipation / assembly
+# ECCV 2024: 视频动作识别与时序定位
 
 - Topic ID: `49`
 - Papers: **19** (0.80%)

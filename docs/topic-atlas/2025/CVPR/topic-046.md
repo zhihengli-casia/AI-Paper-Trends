@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **26** (0.91%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `text-to-3d / scene / assets / editing`
 - Keyword pool: text-to-3d; scene; assets; editing; latent; geometry; stylization; score distillation; generator; intermediary; reconstruction; synthesis
 

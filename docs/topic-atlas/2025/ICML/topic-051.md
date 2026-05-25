@@ -1,4 +1,4 @@
-# ICML 2025: combinatorial optimization / problems / multi-objective / pareto
+# ICML 2025: 组合优化与神经求解
 
 - Topic ID: `51`
 - Papers: **25** (0.75%)

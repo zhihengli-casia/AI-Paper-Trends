@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **38** (3.71%)
-- Macro topic: 强化学习/决策
+- Macro topic: 推荐/检索/排序
 - English keywords: `policy / reinforcement / actions / exploration`
 - Keyword pool: policy; reinforcement; actions; exploration; agent; expert; offline; planning; learning rl; reward; recommendation; action space
 

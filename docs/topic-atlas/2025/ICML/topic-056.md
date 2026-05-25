@@ -2,7 +2,7 @@
 
 - Topic ID: `56`
 - Papers: **24** (0.72%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / ecg / decoding / clinical`
 - Keyword pool: brain; ecg; decoding; clinical; alignment; subjects; functional; signals; visual; activity; tsfm; cross-modal
 

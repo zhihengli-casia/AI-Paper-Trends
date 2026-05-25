@@ -1,8 +1,8 @@
-# CVPR 2024: 目标检测与图像分割
+# CVPR 2024: 目标检测与开放世界检测
 
 - Topic ID: `66`
 - Papers: **18** (0.66%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `open-vocabulary / object detection / ood / lvis`
 - Keyword pool: open-vocabulary; object detection; ood; lvis; detector; categories; classes; negative; open vocabulary; names; pls; ralf
 

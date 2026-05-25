@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **16** (5.35%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `attacks / jailbreak / privacy / adversarial`
 - Keyword pool: attacks; jailbreak; privacy; adversarial; harmful; safety; prompts; public; mllms; user; false; queries
 

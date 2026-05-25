@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **21** (0.78%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `inpainting / control / adapter / morphing`
 - Keyword pool: inpainting; control; adapter; morphing; editing; image generation; corrupted; subject; blind video; foreground; occlusion; multi-view
 

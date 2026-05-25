@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **10** (1.21%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `entity / ner / recognition / named`
 - Keyword pool: entity; ner; recognition; named; semi-supervised; structured information; old; entities; extraction; jargon; multimodal; span
 

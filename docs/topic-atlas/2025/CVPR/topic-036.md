@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **28** (0.98%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `motion / video / temporal / vsr`
 - Keyword pool: motion; video; temporal; vsr; flow; frame interpolation; t2v; frames; i2v; dit; content; vfi
 

@@ -1,8 +1,8 @@
-# ACMMM 2021: 查询理解与检索优化
+# ACMMM 2021: 视频检索、时刻定位与事件理解
 
 - Topic ID: `26`
 - Papers: **11** (2.03%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `video / alignment / moment / retrieval`
 - Keyword pool: video; alignment; moment; retrieval; similarity; cross-modal; matching; meta; partial; temporal; self-paced; query
 

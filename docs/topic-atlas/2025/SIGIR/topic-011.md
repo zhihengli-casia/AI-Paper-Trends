@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **9** (3.77%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `graph / social / recommendation / contrastive`
 - Keyword pool: graph; social; recommendation; contrastive; node; neighborhood; bias; positive; heterogeneous; filtering; networks; matrix
 

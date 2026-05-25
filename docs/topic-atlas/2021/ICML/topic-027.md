@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **18** (1.52%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 系统/效率/压缩
 - English keywords: `tensor / gaussian / sparse / inducing`
 - Keyword pool: tensor; gaussian; sparse; inducing; fourier; processes; delaunay; variational; gram; decomposition; regression; kernel
 

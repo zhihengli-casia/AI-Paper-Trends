@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **12** (5.91%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `event / streaming / graphs / video`
 - Keyword pool: event; streaming; graphs; video; streams; processing; remote; temporal; stores; scheduling; aggregation; flexible
 

@@ -1,8 +1,8 @@
-# AAAI 2020: 句法语义解析与结构化表示
+# AAAI 2020: 句法解析与语言结构建模
 
 - Topic ID: `3`
 - Papers: **37** (2.31%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `word / parsing / semantic / language`
 - Keyword pool: word; parsing; semantic; language; sentence; dependency; bert; sense; syntactic; transformer; embeddings; parser
 

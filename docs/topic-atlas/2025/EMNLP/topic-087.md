@@ -2,7 +2,7 @@
 
 - Topic ID: `87`
 - Papers: **10** (0.55%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `materials / discovery / scientific / enterprise`
 - Keyword pool: materials; discovery; scientific; enterprise; decentralized; agents; science; automation; mobile; data-driven; federated; llm agent
 

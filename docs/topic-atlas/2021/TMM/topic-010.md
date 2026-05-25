@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **15** (3.43%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `high-frequency / removal / inpainting / dehazing`
 - Keyword pool: high-frequency; removal; inpainting; dehazing; adversarial; non-local; generative; monospace; haze; single image; map; deblurring
 

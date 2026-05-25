@@ -1,8 +1,8 @@
-# CVPR 2023: 扩散生成模型
+# CVPR 2023: 人脸分析、表情与属性建模
 
 - Topic ID: `61`
 - Papers: **16** (0.68%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `swapping / face / diffusion / editing`
 - Keyword pool: swapping; face; diffusion; editing; style; facial; identity; gaze; gene; high-fidelity; person; latent
 

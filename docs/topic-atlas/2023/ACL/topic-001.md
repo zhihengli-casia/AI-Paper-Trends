@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **33** (3.07%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `fine-tuning / bert / parameters / parameter-efficient`
 - Keyword pool: fine-tuning; bert; parameters; parameter-efficient; pruning; dynamic; plms; search; training-free; pre-trained language; layers; masked
 

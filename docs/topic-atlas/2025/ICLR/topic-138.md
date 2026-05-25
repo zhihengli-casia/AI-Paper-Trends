@@ -1,8 +1,8 @@
-# ICLR 2025: 视频理解/生成 / captions / egocentric / relation
+# ICLR 2025: 场景图、关系推理与视觉理解
 
 - Topic ID: `138`
 - Papers: **11** (0.30%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `video / captions / egocentric / relation`
 - Keyword pool: video; captions; egocentric; relation; scene graph; spatio-temporal; grounding; hoi; queries; supervision; graph generation; object
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **22** (13.33%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 多模态/VLM
 - English keywords: `items / recommender / interests / offline`
 - Keyword pool: items; recommender; interests; offline; multimodal; behavior; cold-start; preference; twitter; feature; recommendations; content
 

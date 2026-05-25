@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **36** (5.01%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `bias / social / demographic / cognitive`
 - Keyword pool: bias; social; demographic; cognitive; emotion; gender; stance; identity; causal; topic; cause; detection
 

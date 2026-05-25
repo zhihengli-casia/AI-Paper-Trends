@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **12** (0.73%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 多模态/VLM
 - English keywords: `interpolation / video / frame / perceptual`
 - Keyword pool: interpolation; video; frame; perceptual; quality; motion; vqa; metric; optical; flow; animation; assessment
 

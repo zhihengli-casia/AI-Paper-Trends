@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **36** (2.81%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / tensor / llms / quantum`
 - Keyword pool: quantization; tensor; llms; quantum; compression; language; low-rank; nuclear; fine-tuning; lora; recovery; norm
 

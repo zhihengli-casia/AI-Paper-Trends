@@ -1,4 +1,4 @@
-# CVPR 2020: pose / human / estimation / animal
+# CVPR 2020: 人体姿态估计与运动理解
 
 - Topic ID: `1`
 - Papers: **45** (3.07%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **19** (0.66%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `wsi / slide / pathology / gene`
 - Keyword pool: wsi; slide; pathology; gene; gigapixel; pathological; mil; tissue; staining; patches; expression; classification
 

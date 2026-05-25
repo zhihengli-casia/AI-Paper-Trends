@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **19** (0.66%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `modalities / multimodal / cross-modal / modality`
 - Keyword pool: modalities; multimodal; cross-modal; modality; homography estimation; language; unimodal; encoders; matching; crossover; minima; embeddings
 

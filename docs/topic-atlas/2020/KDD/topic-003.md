@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **19** (8.76%)
-- Macro topic: 强化学习/决策
+- Macro topic: 多模态/VLM
 - English keywords: `attacks / adversarial / cross-modal / interpretation`
 - Keyword pool: attacks; adversarial; cross-modal; interpretation; drl; re-identification; online; examples; strategies; outlier; crowdsourcing; explanation
 

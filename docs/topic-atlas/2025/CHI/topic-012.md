@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **26** (2.09%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / security / tracking / sharing`
 - Keyword pool: privacy; security; tracking; sharing; users; intimate; compliance; knowledge; dark patterns; sight; memory; context
 

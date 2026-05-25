@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **9** (1.86%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `networks / path / query / worst-case`
 - Keyword pool: networks; path; query; worst-case; planning; batch; joins; instant; influence; guarantee; skyline; spatiotemporal
 

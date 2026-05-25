@@ -2,7 +2,7 @@
 
 - Topic ID: `90`
 - Papers: **14** (0.52%)
-- Macro topic: 理论/优化
+- Macro topic: 强化学习/决策
 - English keywords: `games / nash / equilibrium / zero-sum`
 - Keyword pool: games; nash; equilibrium; zero-sum; markov; equilibria; stackelberg; players; policy; two-player; convergence; stochastic
 

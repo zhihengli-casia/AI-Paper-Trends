@@ -2,7 +2,7 @@
 
 - Topic ID: `105`
 - Papers: **24** (0.45%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / llms / reasoning / cognitive`
 - Keyword pool: brain; llms; reasoning; cognitive; multilingual; causal; languages; spontaneous; participants; fmri; topic; heads
 

@@ -1,8 +1,8 @@
-# EMNLP 2024: LLM Agent 与工具使用
+# EMNLP 2024: 对话系统与会话智能体
 
 - Topic ID: `36`
 - Papers: **16** (1.26%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `dialogue / conversational / pragmatic / utterance`
 - Keyword pool: dialogue; conversational; pragmatic; utterance; conversations; agents; spoken; user; game; instructional; strategic; instructions
 

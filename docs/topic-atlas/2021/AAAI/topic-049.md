@@ -1,8 +1,8 @@
-# AAAI 2021: 攻击、防御与模型安全
+# AAAI 2021: 行人重识别与人群计数
 
 - Topic ID: `49`
 - Papers: **16** (0.97%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `tracking / object / counting / localization`
 - Keyword pool: tracking; object; counting; localization; pedestrian; board; attack; patterns; crowd; instances; physical; infrared
 

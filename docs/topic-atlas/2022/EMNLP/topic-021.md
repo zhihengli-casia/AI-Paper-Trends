@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **17** (2.05%)
-- Macro topic: 可信/安全/公平
+- Macro topic: NLP任务
 - English keywords: `summarization / summaries / abstractive / document`
 - Keyword pool: summarization; summaries; abstractive; document; long; summary; scientific; extractive; citation; guidance; salience; articles
 

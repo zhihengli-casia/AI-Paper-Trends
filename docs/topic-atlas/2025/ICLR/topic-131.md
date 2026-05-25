@@ -1,8 +1,8 @@
-# ICLR 2025: 视频扩散生成与运动控制
+# ICLR 2025: 人体姿态估计与运动理解
 
 - Topic ID: `131`
 - Papers: **12** (0.32%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `camera / video / motion / control`
 - Keyword pool: camera; video; motion; control; blur; diffusion; trajectory; pose; object; animation; temporal; human image
 

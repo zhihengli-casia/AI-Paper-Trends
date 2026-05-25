@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **8** (1.07%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `distillation / teacher / compression / intermediate`
 - Keyword pool: distillation; teacher; compression; intermediate; student; layers; degradation; compact; lifelong language; many-to-many; devices; glue
 

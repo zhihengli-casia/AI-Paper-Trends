@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **18** (3.20%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `summarization / summaries / news / abstractive`
 - Keyword pool: summarization; summaries; news; abstractive; summary; articles; extractive; meta-evaluation; document; event; pre-training; zero-shot
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **32** (1.95%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `style / face / attribute / editing`
 - Keyword pool: style; face; attribute; editing; identity; hair; transfer; gan; age; swapping; pose; generation
 

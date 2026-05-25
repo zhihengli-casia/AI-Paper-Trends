@@ -2,7 +2,7 @@
 
 - Topic ID: `92`
 - Papers: **17** (0.51%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `diffusion / dinger / schr / bridge`
 - Keyword pool: diffusion; dinger; schr; bridge; restoration; steering; nets; transport; bilevel; guidance; inference-time; control
 

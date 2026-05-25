@@ -2,7 +2,7 @@
 
 - Topic ID: `76`
 - Papers: **8** (0.53%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `medical image segmentation / domain / adaptation / generalization`
 - Keyword pool: medical image segmentation; domain; adaptation; generalization; adversarial; unsupervised; learning medical image; contrast-enhanced; synthesizing; misalignment; divergence; source-free
 

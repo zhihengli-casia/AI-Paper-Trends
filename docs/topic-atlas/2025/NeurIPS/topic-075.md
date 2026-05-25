@@ -2,7 +2,7 @@
 
 - Topic ID: `75`
 - Papers: **34** (0.64%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `moe / expert / multilingual / gating`
 - Keyword pool: moe; expert; multilingual; gating; routing; mixture; pruning; target llm; proportions; grape; llms; lmc
 

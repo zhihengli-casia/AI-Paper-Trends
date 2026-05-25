@@ -1,8 +1,8 @@
-# ICCV 2025: 目标检测与图像分割
+# ICCV 2025: 图像分割、语义分割与场景解析
 
 - Topic ID: `98`
 - Papers: **12** (0.44%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `referring / expression / rec / segmentation`
 - Keyword pool: referring; expression; rec; segmentation; grounding; small objects; comprehension; refcoco; multi-granularity; cir; textual; region-aware
 

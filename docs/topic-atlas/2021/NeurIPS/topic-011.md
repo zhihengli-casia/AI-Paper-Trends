@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **43** (1.84%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 系统/效率/压缩
 - English keywords: `processes / gaussian / variational / inference`
 - Keyword pool: processes; gaussian; variational; inference; kernel; posterior; events; gps; stochastic; bayesian; inducing; regression
 

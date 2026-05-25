@@ -2,7 +2,7 @@
 
 - Topic ID: `66`
 - Papers: **37** (0.69%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / harmful / llms / attacks`
 - Keyword pool: safety; harmful; llms; attacks; backdoor; over-refusal; defense; malicious; benign; behaviors; steganography; adversarial
 

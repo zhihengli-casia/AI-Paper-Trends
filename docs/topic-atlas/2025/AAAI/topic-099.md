@@ -2,7 +2,7 @@
 
 - Topic ID: `99`
 - Papers: **13** (0.43%)
-- Macro topic: 多模态/VLM
+- Macro topic: AI4Science/医疗
 - English keywords: `gene / cancer / expression / spatial`
 - Keyword pool: gene; cancer; expression; spatial; ppi; tissue; drug; biological; graph; perturbations; imputation; pathology
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `60`
 - Papers: **21** (0.73%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `super-resolution / perceptual / sampling / infrared`
 - Keyword pool: super-resolution; perceptual; sampling; infrared; noise; one-step; sisr; pan-sharpening; vsr; real-world image; adjustable; faithful
 

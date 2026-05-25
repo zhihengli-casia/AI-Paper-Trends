@@ -1,4 +1,4 @@
-# IROS 2024: learning / demonstration / bimanual / imitation
+# IROS 2024: 视频动作识别与时序定位
 
 - Topic ID: `43`
 - Papers: **17** (1.08%)

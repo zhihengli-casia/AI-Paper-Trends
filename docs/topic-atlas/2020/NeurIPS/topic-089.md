@@ -1,8 +1,8 @@
-# NeurIPS 2020: 语音/音频语言模型
+# NeurIPS 2020: 语音合成与音频生成
 
 - Topic ID: `89`
 - Papers: **9** (0.47%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `speech / audio / sources / separation`
 - Keyword pool: speech; audio; sources; separation; music; synthesis; mixtures; denoising; autoregressive; silent; sound; video
 

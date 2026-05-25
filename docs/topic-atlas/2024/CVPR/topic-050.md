@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **23** (0.85%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / backdoor / adversarial / trigger`
 - Keyword pool: attacks; backdoor; adversarial; trigger; defense; transferability; victim; poisoning; perturbations; attacker; client; threats
 

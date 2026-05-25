@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **8** (5.67%)
-- Macro topic: 生成模型
+- Macro topic: 计算机视觉
 - English keywords: `high-quality / attention / casual / full-body`
 - Keyword pool: high-quality; attention; casual; full-body; portrait; real-time; virtual; avatars; video; single; view; animation
 

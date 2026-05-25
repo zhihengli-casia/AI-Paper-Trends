@@ -1,8 +1,8 @@
-# AAAI 2021: 机器翻译与跨语言对齐
+# AAAI 2021: 图像/视频描述与视觉语言生成
 
 - Topic ID: `47`
 - Papers: **17** (1.04%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `captioning / image / video / manga`
 - Keyword pool: captioning; image; video; manga; captions; visual; translation; words; pre-training; descriptions; paragraph; vivo
 

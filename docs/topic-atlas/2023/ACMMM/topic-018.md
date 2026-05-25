@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **17** (1.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `question / vqa / answering / pre-training`
 - Keyword pool: question; vqa; answering; pre-training; language; videoqa; prompt; reasoning; answers; llms; biomedical; personalized
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **12** (2.18%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 计算机视觉
 - English keywords: `pruning / compression / quantization / filters`
 - Keyword pool: pruning; compression; quantization; filters; mobile; inference; channels; transform; versatile; video frame interpolation; sparse; sparsity
 

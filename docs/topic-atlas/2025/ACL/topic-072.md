@@ -1,8 +1,8 @@
-# ACL 2025: 目标检测与图像分割
+# ACL 2025: 图像分割、语义分割与场景解析
 
 - Topic ID: `72`
 - Papers: **11** (0.65%)
-- Macro topic: LLM/语言模型
+- Macro topic: 计算机视觉
 - English keywords: `tokenization / tokenizer / subword / segmentation`
 - Keyword pool: tokenization; tokenizer; subword; segmentation; sequence; tokens; prediction; choice; numerical; morpheme; belarusian; characters
 

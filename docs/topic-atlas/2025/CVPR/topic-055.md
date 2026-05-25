@@ -1,8 +1,8 @@
-# CVPR 2025: 语音/音频语言模型
+# CVPR 2025: 说话人视频生成与人脸动画
 
 - Topic ID: `55`
 - Papers: **23** (0.80%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `facial / talking / audio / head`
 - Keyword pool: facial; talking; audio; head; animation; motion; lip; speech; portrait; movements; expression; gesture
 

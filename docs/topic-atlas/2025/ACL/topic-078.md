@@ -2,7 +2,7 @@
 
 - Topic ID: `78`
 - Papers: **10** (0.59%)
-- Macro topic: 强化学习/决策
+- Macro topic: NLP任务
 - English keywords: `psychological / counselor / client / mental health`
 - Keyword pool: psychological; counselor; client; mental health; proactive; dialogue; conversational; style; emotional; questioning; coaching; topic exploration
 

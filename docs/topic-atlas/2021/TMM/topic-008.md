@@ -1,8 +1,8 @@
-# TMM 2021: 推荐系统与用户建模
+# TMM 2021: 音乐与音频生成/理解
 
 - Topic ID: `8`
 - Papers: **17** (3.89%)
-- Macro topic: 多模态/VLM
+- Macro topic: 语音/音频/音乐
 - English keywords: `user / fashion / recommendation / items`
 - Keyword pool: user; fashion; recommendation; items; music; social; sequential; media; multi-modal; preference; bold xmlns; forecasting
 

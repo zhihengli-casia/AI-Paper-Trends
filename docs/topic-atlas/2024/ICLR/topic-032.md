@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **25** (1.11%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `llms / jailbreak / safety / attack`
 - Keyword pool: llms; jailbreak; safety; attack; backdoor; contamination; prompt; misinformation; alignment; adversarial; unsafe; injection
 

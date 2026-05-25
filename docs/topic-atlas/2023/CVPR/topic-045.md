@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **22** (0.93%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / metric learning / hash / reid`
 - Keyword pool: retrieval; metric learning; hash; reid; hyperbolic; centers; dml; embedding; descriptors; search; binarization; binary
 

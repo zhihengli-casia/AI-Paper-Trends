@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **18** (1.70%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / clients / communication / server`
 - Keyword pool: federated; clients; communication; server; heterogeneity; privacy; local; heterogeneous; personalized; distributed; personalization; sgd
 

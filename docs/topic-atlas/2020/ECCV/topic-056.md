@@ -2,7 +2,7 @@
 
 - Topic ID: `56`
 - Papers: **12** (0.88%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / adversarial / patches / physical`
 - Keyword pool: attacks; adversarial; patches; physical; detectors; dnns; non-local; examples; universal; defenses; targeted; face
 

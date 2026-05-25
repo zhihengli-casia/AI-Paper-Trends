@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **30** (1.29%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / summarization / language / document`
 - Keyword pool: retrieval; summarization; language; document; passages; generative; word; summary; multi-intent; llms; slu; glosses
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **15** (1.41%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `retrieval / reasoning / visual / concepts`
 - Keyword pool: retrieval; reasoning; visual; concepts; image; systematic generalization; compositional; search; retriever; negative; explanations; pairs
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `95`
 - Papers: **13** (0.48%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `dit / diffusion transformer / multimodal diffusion / linear attention`
 - Keyword pool: dit; diffusion transformer; multimodal diffusion; linear attention; overlay; transformers; lit; text-to-image; self-attention; flux; mate; map generation
 

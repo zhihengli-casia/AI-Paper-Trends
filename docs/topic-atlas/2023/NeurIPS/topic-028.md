@@ -1,8 +1,8 @@
-# NeurIPS 2023: 多语言建模与跨语言迁移
+# NeurIPS 2023: 机器翻译与跨语言对齐
 
 - Topic ID: `28`
 - Papers: **37** (1.15%)
-- Macro topic: LLM/语言模型
+- Macro topic: 语音/音频/音乐
 - English keywords: `language / speech / multilingual / translation`
 - Keyword pool: language; speech; multilingual; translation; time series; generation; cross-lingual; neural machine; pre-training; human; pre-trained; downstream
 

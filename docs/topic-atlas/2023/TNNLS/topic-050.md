@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **11** (1.07%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `diffusion / causal / popularity / counterfactual`
 - Keyword pool: diffusion; causal; popularity; counterfactual; recommendation; temporal; interactive; candidate; cascade; user; bias; nodes
 

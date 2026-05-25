@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **38** (5.29%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `summarization / graphs / fairness / document`
 - Keyword pool: summarization; graphs; fairness; document; topic; simplification; event; summary; positional; news; long-context; coherence
 

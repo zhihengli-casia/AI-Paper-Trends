@@ -2,7 +2,7 @@
 
 - Topic ID: `65`
 - Papers: **25** (0.68%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `watermarking / watermarks / purification / ai-generated`
 - Keyword pool: watermarking; watermarks; purification; ai-generated; diffusion; adversarial; attacks; detection; protection; images; forgery; editing
 

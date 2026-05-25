@@ -2,7 +2,7 @@
 
 - Topic ID: `74`
 - Papers: **24** (0.59%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `sam / weight decay / sharpness / implicit regularization`
 - Keyword pool: sam; weight decay; sharpness; implicit regularization; minimization; nuclear norm; flat; perturbation; cpr; hessian; matrix; spectral bias
 

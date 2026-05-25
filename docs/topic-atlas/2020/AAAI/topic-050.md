@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **15** (0.94%)
-- Macro topic: NLP任务
+- Macro topic: AI4Science/医疗
 - English keywords: `answer / question / selection / medical`
 - Keyword pool: answer; question; selection; medical; generation; rewriting; community; summaries; non-factoid; supplementary; reading; memory cost
 

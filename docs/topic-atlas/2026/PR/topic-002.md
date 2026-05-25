@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **34** (3.68%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `classification / few-shot / image / medical`
 - Keyword pool: classification; few-shot; image; medical; zero-shot; neural; representation; fine-grained; long-tailed; recognition; contrastive learning; contextual
 

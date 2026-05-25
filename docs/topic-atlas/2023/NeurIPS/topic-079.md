@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **19** (0.59%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `online / regret / convex / performative`
 - Keyword pool: online; regret; convex; performative; oco; projection-free; bounds; implicit bias; losses; guarantees; constrained; generic optimization
 

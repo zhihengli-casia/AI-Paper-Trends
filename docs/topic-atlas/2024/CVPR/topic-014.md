@@ -1,8 +1,8 @@
-# CVPR 2024: 公平性、偏见与可信 AI
+# CVPR 2024: Deepfake 检测、多媒体取证与内容安全
 
 - Topic ID: `14`
 - Papers: **37** (1.36%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / biases / deepfake / spurious`
 - Keyword pool: fairness; biases; deepfake; spurious; forgery; attributes; debiasing; biased; subgroups; counterfactual; gender; classification
 

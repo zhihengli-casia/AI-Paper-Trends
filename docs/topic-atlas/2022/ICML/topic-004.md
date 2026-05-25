@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **34** (2.76%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `ntk / neural networks / initialization / weights`
 - Keyword pool: ntk; neural networks; initialization; weights; tangent kernel; feedback; descent; width; minimizers; depth; alignment; deep neural
 

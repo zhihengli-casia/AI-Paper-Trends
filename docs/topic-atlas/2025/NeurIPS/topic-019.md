@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **62** (1.17%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `reasoning / cot / llms / chain-of-thought`
 - Keyword pool: reasoning; cot; llms; chain-of-thought; thinking; reinforcement; abilities; planning; logical; mathematical; atomic; tokens
 

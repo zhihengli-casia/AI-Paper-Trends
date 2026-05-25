@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **23** (7.26%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: AI4Science/医疗
 - English keywords: `query / ranking / document / queries`
 - Keyword pool: query; ranking; document; queries; patient; code; retrieval; reports; risk; generation; learning rank; relevance
 

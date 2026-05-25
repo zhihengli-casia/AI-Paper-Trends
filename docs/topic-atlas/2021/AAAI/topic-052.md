@@ -1,8 +1,8 @@
-# AAAI 2021: 知识图谱推理与表示学习
+# AAAI 2021: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `52`
 - Papers: **15** (0.91%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: NLP任务
 - English keywords: `link prediction / knowledge graph / relation / rotation`
 - Keyword pool: link prediction; knowledge graph; relation; rotation; graphs; temporal; kgs; uncertain; entities; embedding; grl; entity
 

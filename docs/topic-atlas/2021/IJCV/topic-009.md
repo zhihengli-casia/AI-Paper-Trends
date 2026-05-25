@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **8** (6.02%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `video / compression / deep learning / cloud`
 - Keyword pool: video; compression; deep learning; cloud; unified; special issue; point; maximum; machine; guest editorial special; estimator; in-the-wild
 

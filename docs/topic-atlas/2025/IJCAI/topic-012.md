@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **24** (1.88%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `splatting / gaussian / rendering / pose estimation`
 - Keyword pool: splatting; gaussian; rendering; pose estimation; adversarial; physical; attack; object; scene; try-on; outdoor; motion
 

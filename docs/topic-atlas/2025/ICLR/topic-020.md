@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **36** (0.97%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `transformers / heads / softmax / self-attention`
 - Keyword pool: transformers; heads; softmax; self-attention; length; sigmoid; tokens; selective attention; prompt tuning; long-context; linear; retrieval
 

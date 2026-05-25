@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **38** (1.14%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 系统/效率/压缩
 - English keywords: `clustering / coreset / approximation / graphs`
 - Keyword pool: clustering; coreset; approximation; graphs; kernel; pivot; k-means; fair; hierarchical; recourse; median; distance
 

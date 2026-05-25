@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **28** (1.07%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `quantization / llms / bit / quantized`
 - Keyword pool: quantization; llms; bit; quantized; compression; trustworthiness; post-training; language; memory; weight; precision; qd algorithms
 

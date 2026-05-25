@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **11** (0.96%)
-- Macro topic: 生成模型
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / clients / communication / one-shot`
 - Keyword pool: federated; clients; communication; one-shot; pfl; personalized; server; fairness; parameter; personalization; non-iid; anomaly
 

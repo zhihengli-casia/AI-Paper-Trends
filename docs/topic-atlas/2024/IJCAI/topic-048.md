@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **11** (1.05%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `fairness / sensitive / recommender / health`
 - Keyword pool: fairness; sensitive; recommender; health; inequality; user; gender; workers; elicitation; attributes; recommendation; race
 

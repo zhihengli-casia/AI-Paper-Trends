@@ -1,4 +1,4 @@
-# NeurIPS 2021: 对抗攻击、鲁棒性与安全
+# NeurIPS 2021: GAN 与图像生成
 
 - Topic ID: `38`
 - Papers: **23** (0.99%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **74** (1.78%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `brain / eeg / ecg / decoding`
 - Keyword pool: brain; eeg; ecg; decoding; tensor; disease; covariance; cross-subject; hearing; physiological; cardiac; clinical
 

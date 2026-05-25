@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **16** (0.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `reinforcement / reward / verification / process-supervised`
 - Keyword pool: reinforcement; reward; verification; process-supervised; prms; process supervision; learning rl; answers; code generation; instruction; verifier; clinical
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **9** (2.88%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: AI4Science/医疗
 - English keywords: `spatial / gnns / urban / graph neural`
 - Keyword pool: spatial; gnns; urban; graph neural; node; receptive; heterophily; heterogeneous; filters; spectral; brain; space
 

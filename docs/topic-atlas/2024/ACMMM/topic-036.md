@@ -1,8 +1,8 @@
-# ACMMM 2024: 语音/音频语言模型
+# ACMMM 2024: 音视频多模态理解
 
 - Topic ID: `36`
 - Papers: **14** (1.22%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `audio-visual / speech / event / audio visual`
 - Keyword pool: audio-visual; speech; event; audio visual; speakers; questions; segmentation; recognition; units; eeg; cues; vsr
 

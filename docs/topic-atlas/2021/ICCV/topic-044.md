@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **16** (0.99%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `amodal / instance / unsupervised / depth`
 - Keyword pool: amodal; instance; unsupervised; depth; augmentation; autoencoder; detection; self-supervised object; layered; shape; generator; generative
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **30** (5.43%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / client / devices / compression`
 - Keyword pool: federated; client; devices; compression; convergence; learning fl; communication; trading; gradients; privacy-preserving; local; heterogeneous
 

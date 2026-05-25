@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **7** (9.86%)
-- Macro topic: 生成模型
+- Macro topic: AI4Science/医疗
 - English keywords: `diffusion / mri / progression / microstructure estimation`
 - Keyword pool: diffusion; mri; progression; microstructure estimation; imaging; multi-site; network extragradient; normative modeling; metrics hierarchical bayesian; medical image generation; longitudinal variational auto; adaptation clinical
 

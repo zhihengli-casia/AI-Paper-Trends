@@ -1,8 +1,8 @@
-# CVPR 2024: 语音/音频语言模型
+# CVPR 2024: 说话人视频生成与人脸动画
 
 - Topic ID: `21`
 - Papers: **35** (1.29%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `emotion / music / gestures / speech`
 - Keyword pool: emotion; music; gestures; speech; facial; sign; audio; dance; talking; head; expression; video
 

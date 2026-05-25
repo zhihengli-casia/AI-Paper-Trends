@@ -1,8 +1,8 @@
-# PR 2020: 对抗攻击、鲁棒性与安全
+# PR 2020: 行人重识别与人群计数
 
 - Topic ID: `16`
 - Papers: **13** (2.63%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `re-identification / person / metric learning / structure`
 - Keyword pool: re-identification; person; metric learning; structure; adversarial; semi-supervised; features; transductive; triplet loss; one-shot; pedestrian; user
 

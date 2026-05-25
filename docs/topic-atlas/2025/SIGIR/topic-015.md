@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **8** (3.35%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `intents / conversational / recommendation / item`
 - Keyword pool: intents; conversational; recommendation; item; locations; disentanglement; dialogue; interests; hierarchical; unlabeled; lifelong; prompt learning
 

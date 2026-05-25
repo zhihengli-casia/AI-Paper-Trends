@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **16** (1.70%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / attacks / jailbreak / backdoor`
 - Keyword pool: safety; attacks; jailbreak; backdoor; harmful; prompts; agents; tool learning; alignment; aligned; frequency; dangerous
 

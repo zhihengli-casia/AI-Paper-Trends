@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **22** (1.67%)
-- Macro topic: 计算机视觉
+- Macro topic: 推荐/检索/排序
 - English keywords: `contrastive / hashing / unsupervised / retrieval`
 - Keyword pool: contrastive; hashing; unsupervised; retrieval; negatives; ssl; self-supervised; semantic; representations; components; image; representation learning
 

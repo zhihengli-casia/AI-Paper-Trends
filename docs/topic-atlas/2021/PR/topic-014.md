@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **15** (2.55%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `semantic segmentation / network semantic / fusion / driving`
 - Keyword pool: semantic segmentation; network semantic; fusion; driving; weakly-supervised; guided; behavior; related; refinement; normalization; network visual; multi-modal
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **46** (0.87%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / harmful / refusal / agents`
 - Keyword pool: safety; harmful; refusal; agents; llms; unsafe; monitors; reasoning; red-teaming; attack; risks; computer-use
 

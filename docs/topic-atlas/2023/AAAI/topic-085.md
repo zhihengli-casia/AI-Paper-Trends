@@ -1,8 +1,8 @@
-# AAAI 2023: 语音/音频语言模型
+# AAAI 2023: 音频理解与生成
 
 - Topic ID: `85`
 - Papers: **8** (0.51%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `video / vln / temporal / actional`
 - Keyword pool: video; vln; temporal; actional; augmentations; trajectory; navigation; atomic; frames; hashing; audio; object
 

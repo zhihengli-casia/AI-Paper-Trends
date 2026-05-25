@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **11** (0.70%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `attack / defense / graphs / categorical`
 - Keyword pool: attack; defense; graphs; categorical; investigation; data-free; node; adversarial; injection; edges; privacy; decision
 

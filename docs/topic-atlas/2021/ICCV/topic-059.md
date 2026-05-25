@@ -2,7 +2,7 @@
 
 - Topic ID: `59`
 - Papers: **13** (0.81%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `retrieval / product / cross-modal / query`
 - Keyword pool: retrieval; product; cross-modal; query; attributes; preference; wasserstein; user; interactive; orthogonal; medical; instance-level
 

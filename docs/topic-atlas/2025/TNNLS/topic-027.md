@@ -1,8 +1,8 @@
-# TNNLS 2025: 脑电信号表征与解码
+# TNNLS 2025: 情感识别与多模态情绪理解
 
 - Topic ID: `27`
 - Papers: **13** (1.63%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `eeg / emotion / decoding / brain`
 - Keyword pool: eeg; emotion; decoding; brain; recognition; bci; spatiotemporal; signals; human; visual; electroencephalogram; cholesky
 

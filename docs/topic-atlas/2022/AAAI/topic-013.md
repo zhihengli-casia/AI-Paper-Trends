@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **25** (1.90%)
-- Macro topic: 计算机视觉
+- Macro topic: 系统/效率/压缩
 - English keywords: `transformer / vit / vision / image`
 - Keyword pool: transformer; vit; vision; image; self-attention; tokens; object; detr; pruning; depth; width; decoders
 

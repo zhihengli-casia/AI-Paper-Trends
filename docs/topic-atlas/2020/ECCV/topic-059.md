@@ -1,4 +1,4 @@
-# ECCV 2020: domain / generalization / normalization / unseen
+# ECCV 2020: 领域自适应与迁移学习
 
 - Topic ID: `59`
 - Papers: **11** (0.81%)

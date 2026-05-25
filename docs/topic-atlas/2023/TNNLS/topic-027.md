@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **18** (1.76%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `image / rain / fusion / shadow`
 - Keyword pool: image; rain; fusion; shadow; enhancement; removal; underwater; branch; detection; sound; restoration; reflection
 

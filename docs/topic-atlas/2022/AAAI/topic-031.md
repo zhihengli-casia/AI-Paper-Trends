@@ -1,8 +1,8 @@
-# AAAI 2022: 语音/音频语言模型
+# AAAI 2022: 说话人建模与语音表征
 
 - Topic ID: `31`
 - Papers: **18** (1.37%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 计算机视觉
 - English keywords: `audio / speech / talking / speaker`
 - Keyword pool: audio; speech; talking; speaker; separation; visual; face; sound; memory; enhancement; fusion; mvm
 

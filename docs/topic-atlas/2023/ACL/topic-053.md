@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **10** (0.93%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `privacy / legal / extraction / private`
 - Keyword pool: privacy; legal; extraction; private; unlearning; continual; memorize; confidence estimation; protection; calibrated confidence; synthetic; probing
 

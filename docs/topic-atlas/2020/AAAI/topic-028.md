@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **21** (1.31%)
-- Macro topic: NLP任务
+- Macro topic: 多模态/VLM
 - English keywords: `visual / question / image / dialogue`
 - Keyword pool: visual; question; image; dialogue; answering; modality; video; reasoning; attention maps; grounding; federated; captioning
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `74`
 - Papers: **12** (0.63%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `kernel / tangent / ntk / landscape`
 - Keyword pool: kernel; tangent; ntk; landscape; rkhs; nns; resnets; feature distributions; width; symmetry; weight decay; overparameterized
 

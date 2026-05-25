@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **10** (1.11%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `image-text matching / negatives / retrieval / taxonomy`
 - Keyword pool: image-text matching; negatives; retrieval; taxonomy; false; associations; textual; external knowledge; expansion; flickr30k; entailment; dimensions
 

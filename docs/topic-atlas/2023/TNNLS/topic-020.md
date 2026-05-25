@@ -1,8 +1,8 @@
-# TNNLS 2023: 视频动作生成与运动控制
+# TNNLS 2023: 视频动作识别与时序定位
 
 - Topic ID: `20`
 - Papers: **20** (1.95%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 计算机视觉
 - English keywords: `action / recognition / gait / video`
 - Keyword pool: action; recognition; gait; video; event; temporal; sequences; localization; activity; human; capsule; motion
 

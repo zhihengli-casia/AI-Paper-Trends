@@ -2,7 +2,7 @@
 
 - Topic ID: `60`
 - Papers: **9** (0.68%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `attack / adversarial / video / perturbations`
 - Keyword pool: attack; adversarial; video; perturbations; transferability; examples; defense; detectors; object; vits; vehicle; recognition
 

@@ -1,8 +1,8 @@
-# EMNLP 2025: 文档摘要与信息压缩
+# EMNLP 2025: 摘要生成与信息压缩
 
 - Topic ID: `88`
 - Papers: **9** (0.50%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `argumentative / rhetorical / crisis / arguments`
 - Keyword pool: argumentative; rhetorical; crisis; arguments; summarization; discourse; positional bias; logical; structuring; abstract; writing; evidence
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **8** (0.61%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `event / automata / timed / language`
 - Keyword pool: event; automata; timed; language; sequence; temporal; logs; relation extraction; trigger; sentences; corpus; subject
 

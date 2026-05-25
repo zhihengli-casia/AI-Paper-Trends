@@ -1,8 +1,8 @@
-# ACMMM 2024: 语音/音频语言模型
+# ACMMM 2024: 人脸分析、表情与属性建模
 
 - Topic ID: `38`
 - Papers: **14** (1.22%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `talking / facial / head / identity`
 - Keyword pool: talking; facial; head; identity; animation; motion; lip; audio; face; diffusion; video; editing
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **12** (2.02%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 系统/效率/压缩
 - English keywords: `gaussian / rendering / nerf / scenes`
 - Keyword pool: gaussian; rendering; nerf; scenes; synthesis; splatting; colorization; stereo; compression; reconstruction; grayscale; view
 

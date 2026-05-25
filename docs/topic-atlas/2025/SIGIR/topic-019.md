@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **6** (2.51%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `recommendation / graph / items / interaction`
 - Keyword pool: recommendation; graph; items; interaction; diagram; review; neural networks; hyperbolic; user-item; gnns; recommender; representations
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **22** (1.44%)
-- Macro topic: 理论/优化
+- Macro topic: 系统/效率/压缩
 - English keywords: `federated / convergence / communication / gradient`
 - Keyword pool: federated; convergence; communication; gradient; proximal; stochastic; convexity; distributed; algorithms; nonconvex; compression; second-order
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **18** (0.63%)
-- Macro topic: 理论/优化
+- Macro topic: 计算机视觉
 - English keywords: `neural / nerf / rendering / radiance`
 - Keyword pool: neural; nerf; rendering; radiance; fields; ray; scene; view synthesis; geometry; unposed; camera; views
 

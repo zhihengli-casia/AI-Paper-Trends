@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **8** (3.20%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `trajectory / trajectories / spatio-temporal / privacy`
 - Keyword pool: trajectory; trajectories; spatio-temporal; privacy; autonomous; velocity; traffic; decisions; head; underline xmlns mml; similarity; identification
 

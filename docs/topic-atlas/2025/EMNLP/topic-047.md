@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **17** (0.94%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `stance / news / political / detection`
 - Keyword pool: stance; news; political; detection; media; minority; bias; outlets; topics; content; social; framing
 

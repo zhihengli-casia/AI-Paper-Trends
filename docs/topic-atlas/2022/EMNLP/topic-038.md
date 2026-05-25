@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **10** (1.21%)
-- Macro topic: NLP任务
+- Macro topic: 强化学习/决策
 - English keywords: `argument / tactics / event / extraction`
 - Keyword pool: argument; tactics; event; extraction; fallacies; helpfulness; mining; prompt-tuning; role; planning; disagreements; querying
 

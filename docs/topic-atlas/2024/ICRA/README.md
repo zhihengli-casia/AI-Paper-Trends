@@ -19,7 +19,7 @@
 | [005](topic-005.md) | 规划搜索与决策推理 | 36 | 2.07% | 3D/具身/机器人 | `control barrier / neural / learning / safety` | How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems |
 | [006](topic-006.md) | 无人机/四旋翼规划与控制 | 35 | 2.01% | 3D/具身/机器人 | `uav / aerial / drone / planning` | Design and Evaluation of Motion Planners for Quadrotors in Environments with Varying Complexities |
 | [007](topic-007.md) | exoskeleton / walking / design / prosthesis | 33 | 1.89% | 3D/具身/机器人 | `exoskeleton / walking / design / prosthesis` | Transparency Control of a 1-DoF Knee Exoskeleton via Human-in-the-Loop Velocity Optimisation |
-| [008](topic-008.md) | 目标检测与图像分割 | 33 | 1.89% | 3D/具身/机器人 | `representations / object / visual / segmentation` | MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Learning via Interactive Perception |
+| [008](topic-008.md) | 视频动作识别与时序定位 | 33 | 1.89% | 3D/具身/机器人 | `representations / object / visual / segmentation` | MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Learning via Interactive Perception |
 | [009](topic-009.md) | 足式机器人与运动控制 | 33 | 1.89% | 3D/具身/机器人 | `locomotion / legged / body / robots` | Manipulator as a Tail: Promoting Dynamic Stability for Legged Locomotion |
 | [010](topic-010.md) | LiDAR 点云与 3D 感知 | 32 | 1.84% | 3D/具身/机器人 | `semantic segmentation / scene / driving / semi-supervised` | End-to-end Semantic Segmentation Network for Low-Light Scenes |
 | [011](topic-011.md) | 机器人遥操作与触觉交互 | 31 | 1.78% | 3D/具身/机器人 | `teleoperation / human / impedance / robotic` | TELESIM: A Modular and Plug-and-Play Framework for Robotic Arm Teleoperation using a Digital Twin |
@@ -27,7 +27,7 @@
 | [013](topic-013.md) | 机器人触觉感知与操作 | 30 | 1.72% | 3D/具身/机器人 | `soft / hand / gripper / skin` | The Fractal Hand-I: A Non-anthropomorphic, but Synergistic, Adaptable Gripper |
 | [014](topic-014.md) | 点云表示与 3D 感知 | 29 | 1.66% | 3D/具身/机器人 | `point / registration / cloud / distance` | Multi-Model 3D Registration: Finding Multiple Moving Objects in Cluttered Point Clouds |
 | [015](topic-015.md) | 无人机/四旋翼规划与控制 | 29 | 1.66% | 3D/具身/机器人 | `tracking / multi-object / event / detection` | SWTrack: Multiple Hypothesis Sliding Window 3D Multi-Object Tracking |
-| [016](topic-016.md) | 多模态学习与跨模态理解 | 28 | 1.61% | 3D/具身/机器人 | `object detection / feature / bev / point` | Eliminating Cross-modal Conflicts in BEV Space for LiDAR-Camera 3D Object Detection |
+| [016](topic-016.md) | 多模态融合与跨模态表示 | 28 | 1.61% | 3D/具身/机器人 | `object detection / feature / bev / point` | Eliminating Cross-modal Conflicts in BEV Space for LiDAR-Camera 3D Object Detection |
 | [017](topic-017.md) | predictive / control / mpc / racing | 28 | 1.61% | 3D/具身/机器人 | `predictive / control / mpc / racing` | Receding-Constraint Model Predictive Control using a Learned Approximate Control-Invariant Set |
 | [018](topic-018.md) | 机器人操作与具身智能 | 28 | 1.61% | 3D/具身/机器人 | `robot / modular / growing / experimental` | A non-cubic space-filling modular robot |
 | [019](topic-019.md) | 规划搜索与决策推理 | 28 | 1.61% | 3D/具身/机器人 | `planning / manipulators / motion / bimanual` | Constant-time Motion Planning with Anytime Refinement for Manipulation |
@@ -42,7 +42,7 @@
 | [028](topic-028.md) | 视觉语言模型与多模态理解 | 22 | 1.26% | 3D/具身/机器人 | `navigation / maps / interactive / semantic` | Interactive Navigation in Environments with Traversable Obstacles Using Large Language and Vision-Language Models |
 | [029](topic-029.md) | 机器人操作与抓取 | 21 | 1.21% | 3D/具身/机器人 | `grasp / dof / bin / picking` | ICGNet: A Unified Approach for Instance-Centric Grasping |
 | [030](topic-030.md) | reinforcement / learning / 奖励建模 / real-world | 21 | 1.21% | 3D/具身/机器人 | `reinforcement / learning / reward / real-world` | Enhancing Task Performance of Learned Simplified Models via Reinforcement Learning |
-| [031](topic-031.md) | language / open-vocabulary / scene / 视觉理解 | 21 | 1.21% | 3D/具身/机器人 | `language / open-vocabulary / scene / visual` | ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning |
+| [031](topic-031.md) | 视频动作识别与时序定位 | 21 | 1.21% | 3D/具身/机器人 | `language / open-vocabulary / scene / visual` | ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning |
 | [032](topic-032.md) | 软体机器人与柔性执行器 | 20 | 1.15% | 3D/具身/机器人 | `stiffness / soft / actuator / variable` | Design and Analysis of Soft Hybrid-Driven Manipulator with Variable Stiffness and Multiple Motion Patterns |
 | [033](topic-033.md) | flight / wing / mechanism / autonomous | 20 | 1.15% | 3D/具身/机器人 | `flight / wing / mechanism / autonomous` | Ospreys-inspired Self-takeoff Strategy of An Eagle-scale Flapping-wing Robot: System Design and Flight Experiments |
 | [034](topic-034.md) | 规划搜索与决策推理 | 19 | 1.09% | 3D/具身/机器人 | `underwater / autonomous / vehicle / preliminary` | RUMP: Robust Underwater Motion Planning in Dynamic Environments of Fast-moving Obstacles |
@@ -53,7 +53,7 @@
 | [039](topic-039.md) | robotics / modular / scalable / deployment | 18 | 1.03% | 3D/具身/机器人 | `robotics / modular / scalable / deployment` | FogROS2-Config: A Toolkit for Choosing Server Configurations for Cloud Robotics |
 | [040](topic-040.md) | 规划搜索与决策推理 | 17 | 0.98% | 3D/具身/机器人 | `path / planning / unknown / navigation` | History-Aware Planning for Risk-free Autonomous Navigation on Unknown Uneven Terrain |
 | [041](topic-041.md) | 多机器人路径规划与协同导航 | 17 | 0.98% | 3D/具身/机器人 | `multi-robot / allocation / heterogeneous / teams` | Behavior Tree Capabilities for Dynamic Multi-Robot Task Allocation with Heterogeneous Robot Teams |
-| [042](topic-042.md) | 规划搜索与决策推理 | 16 | 0.92% | 3D/具身/机器人 | `reconstruction / implicit / scene / indoor` | Active Implicit Reconstruction Using One-Shot View Planning |
+| [042](topic-042.md) | 3D 形状重建与隐式表示 | 16 | 0.92% | 3D/具身/机器人 | `reconstruction / implicit / scene / indoor` | Active Implicit Reconstruction Using One-Shot View Planning |
 | [043](topic-043.md) | 机器人遥操作与触觉交互 | 16 | 0.92% | 3D/具身/机器人 | `design / hybrid / vascular / robot` | Preliminary Study of Fingertip and Wrist Motion Based Haptic Controller for Robotically Assisted Micro- and Supermicrosurgery |
 | [044](topic-044.md) | 多智能体协作与规划 | 16 | 0.92% | 3D/具身/机器人 | `multi-agent / search / learning / cooperative` | Learning Heterogeneous Multi-Agent Allocations for Ergodic Search |
 | [045](topic-045.md) | 深度估计与立体匹配 | 16 | 0.92% | 3D/具身/机器人 | `manipulation / keypoint / servoing / camera` | RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation |
@@ -66,7 +66,7 @@
 | [052](topic-052.md) | 足式机器人与运动控制 | 15 | 0.86% | 3D/具身/机器人 | `reinforcement / learning / physics-informed / control` | Reinforcement learning for freeform robot design |
 | [053](topic-053.md) | 点云表示与 3D 感知 | 14 | 0.80% | 3D/具身/机器人 | `point / cloud / understanding / learning` | QuadricsNet: Learning Concise Representation for Geometric Primitives in Point Clouds |
 | [054](topic-054.md) | 强化学习算法与理论 | 14 | 0.80% | 3D/具身/机器人 | `reinforcement learning / policy optimization / offline / safe` | Safety Optimized Reinforcement Learning via Multi-Objective Policy Optimization |
-| [055](topic-055.md) | 多智能体协作与规划 | 14 | 0.80% | 3D/具身/机器人 | `motion forecasting / pedestrian / prediction / trajectory` | CausalAgents: A Robustness Benchmark for Motion Forecasting |
+| [055](topic-055.md) | 时间序列预测 | 14 | 0.80% | 3D/具身/机器人 | `motion forecasting / pedestrian / prediction / trajectory` | CausalAgents: A Robustness Benchmark for Motion Forecasting |
 | [058](topic-058.md) | 机器人操作与具身智能 | 14 | 0.80% | 3D/具身/机器人 | `localization / relative / ground / onboard` | Robust Multi-Robot Global Localization with Unknown Initial Pose based on Neighbor Constraints |
 | [059](topic-059.md) | 足式机器人与运动控制 | 14 | 0.80% | 3D/具身/机器人 | `locomotion / quadruped / learning / policy` | Learning Highly Dynamic Behaviors for Quadrupedal Robots |
 | [060](topic-060.md) | 足式机器人与运动控制 | 14 | 0.80% | 3D/具身/机器人 | `locomotion / learning / bipedal / agile` | Learning Agile Bipedal Motions on a Quadrupedal Robot |

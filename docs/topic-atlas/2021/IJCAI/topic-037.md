@@ -1,8 +1,8 @@
-# IJCAI 2021: 对抗攻击、鲁棒性与安全
+# IJCAI 2021: 人脸分析、表情与属性建模
 
 - Topic ID: `37`
 - Papers: **8** (1.11%)
-- Macro topic: 计算机视觉
+- Macro topic: 生成模型
 - English keywords: `face / attribute / image / synthesis`
 - Keyword pool: face; attribute; image; synthesis; generative adversarial; style; adversarial networks; facial; photo-realistic; editing; latent; shape
 

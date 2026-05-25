@@ -1,8 +1,8 @@
-# ACL 2021: relation / extraction / entity / triple
+# ACL 2021: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `27`
 - Papers: **12** (1.69%)
-- Macro topic: 其他/交叉主题
+- Macro topic: NLP任务
 - English keywords: `relation / extraction / entity / triple`
 - Keyword pool: relation; extraction; entity; triple; entities; distantly; related; labels; negative; samples; dependency; false
 

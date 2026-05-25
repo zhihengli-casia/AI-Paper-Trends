@@ -1,4 +1,4 @@
-# AAAI 2025: hashing / 检索 / cross-modal / hash codes
+# AAAI 2025: 噪声标签学习与半监督鲁棒训练
 
 - Topic ID: `68`
 - Papers: **20** (0.66%)

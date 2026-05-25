@@ -1,8 +1,8 @@
-# SIGIR 2025: music / unseen / objects / generalization
+# SIGIR 2025: 音乐与音频生成/理解
 
 - Topic ID: `9`
 - Papers: **12** (5.02%)
-- Macro topic: 生成模型
+- Macro topic: 多模态/VLM
 - English keywords: `music / unseen / objects / generalization`
 - Keyword pool: music; unseen; objects; generalization; prompts; features; style; images; domain; queries; cross-modal; sample
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **112** (2.70%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `llms / dialogue / questions / multi-turn`
 - Keyword pool: llms; dialogue; questions; multi-turn; educational; counseling; cognitive; conversational; mathematical; fairness; student; answer
 

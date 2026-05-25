@@ -1,4 +1,4 @@
-# PR 2020: domain / mml / adaptation / unsupervised
+# PR 2020: 领域自适应与迁移学习
 
 - Topic ID: `24`
 - Papers: **11** (2.22%)

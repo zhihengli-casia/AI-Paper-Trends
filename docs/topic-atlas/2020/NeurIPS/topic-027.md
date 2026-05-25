@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **23** (1.21%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 理论/优化
 - English keywords: `graph / gnns / node / link prediction`
 - Keyword pool: graph; gnns; node; link prediction; substructures; grand; labels; edges; classification; combinatorial; meta-learning; proxies
 

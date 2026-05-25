@@ -2,7 +2,7 @@
 
 - Topic ID: `64`
 - Papers: **8** (0.74%)
-- Macro topic: NLP任务
+- Macro topic: 可信/安全/公平
 - English keywords: `table / answering / retriever / question`
 - Keyword pool: table; answering; retriever; question; answers; hybrid; operations; distant supervision; linked; adversarial; structures; scale quality
 

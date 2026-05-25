@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **18** (4.31%)
-- Macro topic: LLM/语言模型
+- Macro topic: 多模态/VLM
 - English keywords: `visual / multimodal / mllms / cross-modal`
 - Keyword pool: visual; multimodal; mllms; cross-modal; vision-language; modalities; vlms; textual; representation; editing; spatial; cultural
 

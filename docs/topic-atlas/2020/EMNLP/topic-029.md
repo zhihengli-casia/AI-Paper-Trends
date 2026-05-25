@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **12** (1.60%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `video / captioning / visual / agents`
 - Keyword pool: video; captioning; visual; agents; dialog; image; responses; commonsense; navigation; hero; captions; instructional
 

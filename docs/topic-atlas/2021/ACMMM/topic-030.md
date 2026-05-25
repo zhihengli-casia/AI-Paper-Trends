@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **9** (1.66%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `quality assessment / image quality / video quality / vqa`
 - Keyword pool: quality assessment; image quality; video quality; vqa; database; blind; videos; structure texture; compression; internet; distortion; projection
 

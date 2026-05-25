@@ -1,8 +1,8 @@
-# PR 2023: 深度估计与立体匹配
+# PR 2023: 人体姿态估计与运动理解
 
 - Topic ID: `15`
 - Papers: **19** (2.36%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 计算机视觉
 - English keywords: `point / pose / clouds / module`
 - Keyword pool: point; pose; clouds; module; features; images; mml; spatial; segmentation; depth; object; human
 

@@ -1,8 +1,8 @@
-# ACMMM 2024: facial / expression / flow / dfer
+# ACMMM 2024: 情感识别与多模态情绪理解
 
 - Topic ID: `57`
 - Papers: **10** (0.87%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `facial / expression / flow / dfer`
 - Keyword pool: facial; expression; flow; dfer; recognition; clip; shifts; stylized; landmark; emotion; intra-domain; characters
 

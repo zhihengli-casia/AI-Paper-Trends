@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **38** (0.72%)
-- Macro topic: 强化学习/决策
+- Macro topic: 系统/效率/压缩
 - English keywords: `bayesian optimization / black-box optimization / gaussian process / pareto`
 - Keyword pool: bayesian optimization; black-box optimization; gaussian process; pareto; multi-objective; uncertainty; gps; regret; frequentist; kernel; expected improvement; process gp
 

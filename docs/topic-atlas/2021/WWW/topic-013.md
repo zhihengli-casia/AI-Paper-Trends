@@ -1,8 +1,8 @@
-# WWW 2021: entity / entities / extraction / relation
+# WWW 2021: 信息抽取、实体识别与关系抽取
 
 - Topic ID: `13`
 - Papers: **14** (3.94%)
-- Macro topic: 多模态/VLM
+- Macro topic: 推荐/检索/排序
 - English keywords: `entity / entities / extraction / relation`
 - Keyword pool: entity; entities; extraction; relation; wikidata; retrieval; facts; matching; language; wikipedia; cells; tables
 

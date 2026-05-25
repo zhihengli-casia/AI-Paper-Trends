@@ -1,4 +1,4 @@
-# CVPR 2021: incremental / continual learning / forgetting / catastrophic
+# CVPR 2021: 零样本分类与开放集识别
 
 - Topic ID: `29`
 - Papers: **21** (1.27%)

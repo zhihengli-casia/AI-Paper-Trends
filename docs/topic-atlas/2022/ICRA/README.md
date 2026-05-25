@@ -13,10 +13,10 @@
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 规划搜索与决策推理 | 42 | 4.55% | 3D/具身/机器人 | `planning / path / exploration / navigation` | Uncertainty-driven Planner for Exploration and Navigation |
 | [001](topic-001.md) | 多机器人路径规划与协同导航 | 40 | 4.33% | 3D/具身/机器人 | `multi-robot / multi-agent / swarm / reinforcement learning` | Relative Distributed Formation and Obstacle Avoidance with Multi-agent Reinforcement Learning |
-| [002](topic-002.md) | LiDAR 点云与 3D 感知 | 38 | 4.12% | 3D/具身/机器人 | `segmentation / lidar / point / clouds` | CPGNet: Cascade Point-Grid Fusion Network for Real-Time LiDAR Semantic Segmentation |
+| [002](topic-002.md) | 领域自适应与迁移学习 | 38 | 4.12% | 3D/具身/机器人 | `segmentation / lidar / point / clouds` | CPGNet: Cascade Point-Grid Fusion Network for Real-Time LiDAR Semantic Segmentation |
 | [003](topic-003.md) | 机器人操作与抓取 | 36 | 3.90% | 3D/具身/机器人 | `grasp / object / learning / pose` | LEGS: Learning Efficient Grasp Sets for Exploratory Grasping |
 | [004](topic-004.md) | 机器人触觉感知与操作 | 32 | 3.47% | 3D/具身/机器人 | `tactile / sensor / sensing / manipulation` | Load-sensitive Data Acquisition for a Tactile Sensor System of Multi-fingered Robotic Hands |
-| [005](topic-005.md) | 目标检测与图像分割 | 32 | 3.47% | 3D/具身/机器人 | `object / learning / segmentation / search` | Incremental Few-Shot Object Detection for Robotics |
+| [005](topic-005.md) | 图像分割、语义分割与场景解析 | 32 | 3.47% | 3D/具身/机器人 | `object / learning / segmentation / search` | Incremental Few-Shot Object Detection for Robotics |
 | [006](topic-006.md) | walking / gait / assistance / passive | 27 | 2.93% | 3D/具身/机器人 | `walking / gait / assistance / passive` | Using Arm Swing Movements to Maintain the Walking State in a Self-Balanced Lower-Limb Exoskeleton |
 | [007](topic-007.md) | 足式机器人与运动控制 | 26 | 2.82% | 3D/具身/机器人 | `locomotion / terrain / quadruped / robot` | A Universal Footstep Planning Methodology for Continuous Walking in Challenging Terrain Applicable to Different Types of Legged Robots |
 | [008](topic-008.md) | pose / estimation / camera / reconstruction | 25 | 2.71% | 3D/具身/机器人 | `pose / estimation / camera / reconstruction` | Globally Optimal Relative Pose Estimation for Multi-Camera Systems with Known Gravity Direction |
@@ -52,7 +52,7 @@
 | [038](topic-038.md) | 规划搜索与决策推理 | 13 | 1.41% | 3D/具身/机器人 | `trajectory / risk / uncertain / convex` | Optimizing Trajectories with Closed-Loop Dynamic SQP |
 | [039](topic-039.md) | 规划搜索与决策推理 | 12 | 1.30% | 3D/具身/机器人 | `planning / gaussian / probabilistic / space` | Belief Space Planning: a Covariance Steering Approach |
 | [040](topic-040.md) | 足式机器人与运动控制 | 12 | 1.30% | 3D/具身/机器人 | `locomotion / learning / bipedal / sim-to-real` | An Adaptable Approach to Learn Realistic Legged Locomotion without Examples |
-| [041](topic-041.md) | deformable / shape / deformation / tracking | 11 | 1.19% | 3D/具身/机器人 | `deformable / shape / deformation / tracking` | Tracking Fast Trajectories with a Deformable Object using a Learned Model |
+| [041](topic-041.md) | 3D 形状重建与隐式表示 | 11 | 1.19% | 3D/具身/机器人 | `deformable / shape / deformation / tracking` | Tracking Fast Trajectories with a Deformable Object using a Learned Model |
 | [042](topic-042.md) | 机器人触觉感知与操作 | 11 | 1.19% | 3D/具身/机器人 | `transfer / grasps / contact / robotic` | Contact Transfer: A Direct, User-Driven Method for Human to Robot Transfer of Grasps and Manipulations |
 | [043](topic-043.md) | 机器人视觉目标检测与域适应 | 10 | 1.08% | 3D/具身/机器人 | `object detection / unsupervised domain adaptation / fields / flow` | NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields |
 | [044](topic-044.md) | 自动驾驶感知与世界模型 | 10 | 1.08% | 3D/具身/机器人 | `map / semantic / autonomous / driving` | Vision-Based Large-scale 3D Semantic Mapping for Autonomous Driving Applications |

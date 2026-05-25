@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **17** (1.00%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `dialogue / conversational / conversations / planning`
 - Keyword pool: dialogue; conversational; conversations; planning; agents; task-oriented; tod; user; function; product; ambiguous; accountability
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `96`
 - Papers: **8** (0.44%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `cot / compression / continuous / tokens`
 - Keyword pool: cot; compression; continuous; tokens; slm; chain-of-thought; iteration; dart; chunks; pathway; rationale; silent
 

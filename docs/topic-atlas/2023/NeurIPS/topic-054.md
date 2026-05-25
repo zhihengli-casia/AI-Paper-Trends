@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **26** (0.81%)
-- Macro topic: 理论/优化
+- Macro topic: 可信/安全/公平
 - English keywords: `relu / implicit bias / gradient flow / gradient descent`
 - Keyword pool: relu; implicit bias; gradient flow; gradient descent; sharpness; stochastic; ntk; two-layer; dynamics; learning rate; edge stability; regime
 

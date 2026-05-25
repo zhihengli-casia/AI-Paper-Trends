@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **13** (0.63%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: AI4Science/医疗
 - English keywords: `grounding / affordance / language / clinical`
 - Keyword pool: grounding; affordance; language; clinical; captioning; visual features; regions; graph transformer; dependency; report; dynamic graph; scene graphs
 

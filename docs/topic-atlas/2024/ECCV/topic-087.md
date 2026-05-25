@@ -2,7 +2,7 @@
 
 - Topic ID: `87`
 - Papers: **12** (0.50%)
-- Macro topic: 多模态/VLM
+- Macro topic: NLP任务
 - English keywords: `sgg / graph / relation / scene`
 - Keyword pool: sgg; graph; relation; scene; panoptic; open-set; heterogeneous; open vocabulary; semantic diversity; collaboration; perception; message passing
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **21** (1.64%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `agents / llms / game / language`
 - Keyword pool: agents; llms; game; language; llm-based; feedback; opponent; students; programming; consequences; human; search
 

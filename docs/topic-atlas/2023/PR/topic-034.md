@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **12** (1.49%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `verification / vein / attack detection / offline`
 - Keyword pool: verification; vein; attack detection; offline; presentation attack; recognition; sign; mask-guided; language; templates; multiscale feature; mitigation
 

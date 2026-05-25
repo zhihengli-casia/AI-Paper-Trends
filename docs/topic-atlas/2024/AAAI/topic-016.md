@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **35** (1.50%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / clients / heterogeneity / server`
 - Keyword pool: federated; clients; heterogeneity; server; learning fl; fairness; personalized; heterogeneous; convergence; momentum; asynchronous; aggregation
 

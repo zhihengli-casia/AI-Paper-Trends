@@ -1,8 +1,8 @@
-# ECCV 2024: counting / crowd / exemplars / class-agnostic
+# ECCV 2024: 行人重识别与人群计数
 
 - Topic ID: `95`
 - Papers: **11** (0.46%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `counting / crowd / exemplars / class-agnostic`
 - Keyword pool: counting; crowd; exemplars; class-agnostic; multi-view; localization; density; point; pedestrian; transport; camera; multi-modal
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **8** (1.26%)
-- Macro topic: HCI/社会计算
+- Macro topic: 可信/安全/公平
 - English keywords: `covid-19 / pandemic / trust / mixed-methods`
 - Keyword pool: covid-19; pandemic; trust; mixed-methods; information seeking; views; united states; racism; privacy; narratives; misinformation; lens
 

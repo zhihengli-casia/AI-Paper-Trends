@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **15** (1.43%)
-- Macro topic: LLM/语言模型
+- Macro topic: AI4Science/医疗
 - English keywords: `reasoning / llms / language / clinical`
 - Keyword pool: reasoning; llms; language; clinical; letter; compositional; medical; questions; multifaceted; geometry; spatial; grade
 

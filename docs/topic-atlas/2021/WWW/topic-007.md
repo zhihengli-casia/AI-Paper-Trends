@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **18** (5.07%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / adversarial / emotion / fake`
 - Keyword pool: attacks; adversarial; emotion; fake; news; twitter; videos; network alignment; black-box; defenses; temporal; targeted
 

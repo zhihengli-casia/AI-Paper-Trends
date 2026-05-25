@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **29** (7.18%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / privacy / devices / clients`
 - Keyword pool: federated; privacy; devices; clients; server; edge; communication; attacks; item; computing; distributed; differential
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `87`
 - Papers: **16** (0.56%)
-- Macro topic: 多模态/VLM
+- Macro topic: 计算机视觉
 - English keywords: `physics / physical / material / simulation`
 - Keyword pool: physics; physical; material; simulation; video; properties; dynamics; fluid; geometry; dynamical; crowd; appearance
 

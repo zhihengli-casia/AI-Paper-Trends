@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **20** (4.52%)
-- Macro topic: NLP任务
+- Macro topic: 多模态/VLM
 - English keywords: `answer / questions / question generation / multi-span`
 - Keyword pool: answer; questions; question generation; multi-span; temporal; vqa; comprehension; structural; tables; objects; reading; situation
 

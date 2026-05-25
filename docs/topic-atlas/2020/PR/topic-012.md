@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **17** (3.43%)
-- Macro topic: 计算机视觉
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / samples / class / self-attention`
 - Keyword pool: adversarial; samples; class; self-attention; accuracy; network; generative; deep feature; attack; detection; lightweight; face
 

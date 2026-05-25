@@ -1,8 +1,8 @@
-# ICDE 2025: 检索 / feature / 视频理解/生成 / large-scale
+# ICDE 2025: 视频检索、时刻定位与事件理解
 
 - Topic ID: `4`
 - Papers: **19** (4.87%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 计算机视觉
 - English keywords: `retrieval / feature / video / large-scale`
 - Keyword pool: retrieval; feature; video; large-scale; access; vector; scaling; detection; sketch; set; selection; extended abstract
 

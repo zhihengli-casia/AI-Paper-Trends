@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **8** (3.60%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 可信/安全/公平
 - English keywords: `federated / decentralized / privacy / communication`
 - Keyword pool: federated; decentralized; privacy; communication; lipschitz; convergence; distributed; unlearning; clients; continuity; algorithm; learning fl
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **15** (6.28%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `ranking / document / relevance / source bias`
 - Keyword pool: ranking; document; relevance; source bias; pointwise; scores; explanations; attribution; presentation; context; tables; listwise
 

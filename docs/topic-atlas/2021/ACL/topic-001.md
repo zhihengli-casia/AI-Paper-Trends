@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **42** (5.92%)
-- Macro topic: NLP任务
+- Macro topic: 推荐/检索/排序
 - English keywords: `question / answer / retrieval / open-domain`
 - Keyword pool: question; answer; retrieval; open-domain; queries; dense; text-to-sql; generative; hybrid; query; documents; correct
 

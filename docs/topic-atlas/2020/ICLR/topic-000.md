@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **46** (6.70%)
-- Macro topic: LLM/语言模型
+- Macro topic: NLP任务
 - English keywords: `language / transformer / bert / sequence`
 - Keyword pool: language; transformer; bert; sequence; word; generation; natural; machine translation; nlp; decoding; modeling; processing
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **26** (6.22%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `safety / attack / agents / malicious`
 - Keyword pool: safety; attack; agents; malicious; privacy; harmful; adversarial; risks; security; multi-turn; multilingual; success
 

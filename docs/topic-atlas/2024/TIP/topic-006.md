@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **23** (4.81%)
-- Macro topic: 计算机视觉
+- Macro topic: 多模态/VLM
 - English keywords: `rgb-d / saliency / salient / color`
 - Keyword pool: rgb-d; saliency; salient; color; depth; uncertainty; object; video inpainting; views; multi-view; cross-modal; modality
 

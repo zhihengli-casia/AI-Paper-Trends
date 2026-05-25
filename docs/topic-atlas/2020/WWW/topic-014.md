@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **10** (3.15%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 可信/安全/公平
 - English keywords: `community detection / accounts / token / diffusion`
 - Keyword pool: community detection; accounts; token; diffusion; fake; attack; robustness; targets; graphs; adversarial; node; credit
 

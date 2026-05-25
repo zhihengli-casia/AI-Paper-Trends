@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **15** (1.43%)
-- Macro topic: LLM/语言模型
+- Macro topic: 系统/效率/压缩
 - English keywords: `moe / experts / recurrent / sparse`
 - Keyword pool: moe; experts; recurrent; sparse; computational; tokens; quantization; gating; adaptive; real-time; transformer; efficiency
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `57`
 - Papers: **19** (0.82%)
-- Macro topic: LLM/语言模型
+- Macro topic: 推荐/检索/排序
 - English keywords: `human / reinforcement learning / game / agent`
 - Keyword pool: human; reinforcement learning; game; agent; assistance; recommender; decision making; preference; trading; policy; behavior; value
 

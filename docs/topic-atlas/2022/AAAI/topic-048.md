@@ -1,8 +1,8 @@
-# AAAI 2022: 机器翻译与跨语言对齐
+# AAAI 2022: 医学影像分割
 
 - Topic ID: `48`
 - Papers: **13** (0.99%)
-- Macro topic: 计算机视觉
+- Macro topic: AI4Science/医疗
 - English keywords: `domain / medical / adaptation / segmentation`
 - Keyword pool: domain; medical; adaptation; segmentation; image; translation; style; sparse attention; feature; target; cross; shape
 

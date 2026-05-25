@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **25** (4.53%)
-- Macro topic: LLM/语言模型
+- Macro topic: 强化学习/决策
 - English keywords: `reasoning / planning / llms / search`
 - Keyword pool: reasoning; planning; llms; search; hyperparameter; agents; workflows; tool; heuristics; programming; multi-agent; logical
 

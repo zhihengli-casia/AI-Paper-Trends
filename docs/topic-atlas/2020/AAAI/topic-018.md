@@ -1,4 +1,4 @@
-# AAAI 2020: action / 视频理解/生成 / temporal / recognition
+# AAAI 2020: 视频时刻定位与文本检索
 
 - Topic ID: `18`
 - Papers: **24** (1.50%)

@@ -1,8 +1,8 @@
-# ACMMM 2025: hoi / interaction / hand / human-object
+# ACMMM 2025: 手部姿态与人-物交互
 
 - Topic ID: `33`
 - Papers: **16** (1.28%)
-- Macro topic: HCI/社会计算
+- Macro topic: 计算机视觉
 - English keywords: `hoi / interaction / hand / human-object`
 - Keyword pool: hoi; interaction; hand; human-object; objects; joints; pose estimation; contextual cues; gesture; detection; trial-and-error; contact
 

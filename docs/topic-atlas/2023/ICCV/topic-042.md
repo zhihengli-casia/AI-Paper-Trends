@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **23** (1.07%)
-- Macro topic: 多模态/VLM
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attacks / examples / transferability`
 - Keyword pool: adversarial; attacks; examples; transferability; robustness; uap; neural networks; unlearning; frequency; attack success; perturbations; patch
 

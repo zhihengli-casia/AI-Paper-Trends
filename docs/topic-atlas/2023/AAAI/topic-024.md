@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **22** (1.40%)
-- Macro topic: 3D/具身/机器人
+- Macro topic: 可信/安全/公平
 - English keywords: `adversarial / attack / dnn / transferability`
 - Keyword pool: adversarial; attack; dnn; transferability; examples; multispectral; robustness; black-box; perturbation; point clouds; ensemble; imagenet
 

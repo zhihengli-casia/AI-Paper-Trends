@@ -2,7 +2,7 @@
 
 - Topic ID: `59`
 - Papers: **14** (0.84%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 可信/安全/公平
 - English keywords: `attack / adversarial / black-box / transferability`
 - Keyword pool: attack; adversarial; black-box; transferability; substitute; hashing; targeted; queries; image retrieval; query; data-free; victim
 

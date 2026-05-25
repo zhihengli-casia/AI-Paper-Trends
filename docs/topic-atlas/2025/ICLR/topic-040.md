@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **30** (0.81%)
-- Macro topic: LLM/语言模型
+- Macro topic: 可信/安全/公平
 - English keywords: `attacks / llms / safety / agents`
 - Keyword pool: attacks; llms; safety; agents; backdoor; security; vulnerabilities; poisoning; web; defenses; guard; vulnerability
 
