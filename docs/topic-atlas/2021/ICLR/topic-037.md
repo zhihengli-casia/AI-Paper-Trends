@@ -1,59 +1,56 @@
-# ICLR 2021: shape / texture / images / imagenet
+# ICLR 2021: 多智能体协作与规划
 
 - Topic ID: `37`
-- Papers: **13** (1.51%)
-- Macro topic: 计算机视觉
-- English keywords: `shape / texture / images / imagenet`
-- Keyword pool: shape; texture; images; imagenet; cnns; robustness; bias; object; backgrounds; convolutional; visual; natural
+- Papers: **12** (1.40%)
+- Macro topic: 强化学习/决策
+- English keywords: `multi-agent / policy / reinforcement / communication`
+- Keyword pool: multi-agent; policy; reinforcement; communication; agents; game; road; rules; action; policies; drl; imagined
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Shape or Texture: Understanding Discriminative Features in CNNs
-- Robust and Generalizable Visual Representation Learning via Random Convolutions
-- Contemplating Real-World Object Classification
-- Shape-Texture Debiased Neural Network Training
-- Noise or Signal: The Role of Image Backgrounds in Object Recognition
+- Iterative Empirical Game Solving via Single Policy Best Response
+- Discovering Diverse Multi-Agent Strategic Behavior via Reward Randomization
+- Learning Safe Multi-agent Control with Decentralized Neural Barrier Certificates
+- DOP: Off-Policy Multi-Agent Decomposed Policy Gradients
+- Correcting experience replay for multi-agent communication
 
 ## Papers
 
-<a id="paper-yicbfdntty"></a>
-1. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
-   - Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-mqpbmvyauk"></a>
-2. [BREEDS: Benchmarks for Subpopulation Shift](https://openreview.net/forum?id=mQPBmvyAuk)
-   - Shibani Santurkar, Dimitris Tsipras, Aleksander Madry; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-q4euywjikqr"></a>
-3. [Contemplating Real-World Object Classification](https://openreview.net/forum?id=Q4EUywJIkqr)
-   - ali borji; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yuxunaj2sl"></a>
-4. [Does enhanced shape bias improve neural network robustness to common corruptions?](https://openreview.net/forum?id=yUxUNaj2Sl)
-   - Chaithanya Kumar Mummadi, Ranjitha Subramaniam, Robin Hutmacher, Julien Vitay, Volker Fischer, Jan Hendrik Metzen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6xhj37mvxxp"></a>
-5. [Domain Generalization with MixStyle](https://openreview.net/forum?id=6xHJ37MVxxp)
-   - Kaiyang Zhou, Yongxin Yang, Yu Qiao, Tao Xiang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-qo9-y8also"></a>
-6. [Exemplary Natural Images Explain CNN Activations Better than State-of-the-Art Feature Visualization](https://openreview.net/forum?id=QO9-y8also-)
-   - Judy Borowski, Roland Simon Zimmermann, Judith Schepers, Robert Geirhos, Thomas S. A. Wallis, Matthias Bethge, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tp7ki90htd"></a>
-7. [Generalization in data-driven models of primary visual cortex](https://openreview.net/forum?id=Tp7kI90Htd)
-   - Konstantin-Klemens Lurz, Mohammad Bashiri, Konstantin Willeke, Akshay Jagadish, Eric Wang, Edgar Y. Walker, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xtjen-ggl1b"></a>
-8. [LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/forum?id=xTJEN-ggl1b)
-   - Irwan Bello; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-m1cd7tpubny"></a>
-9. [Mind the Pad -- CNNs Can Develop Blind Spots](https://openreview.net/forum?id=m1CD7tPubNy)
-   - Bilal Alsallakh, Narine Kokhlikyan, Vivek Miglani, Jun Yuan, Orion Reblitz-Richardson; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gl3d-xy7wlq"></a>
-10. [Noise or Signal: The Role of Image Backgrounds in Object Recognition](https://openreview.net/forum?id=gl3D-xY7wLq)
-   - Kai Yuanqing Xiao, Logan Engstrom, Andrew Ilyas, Aleksander Madry; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bvsm0x3edk6"></a>
-11. [Robust and Generalizable Visual Representation Learning via Random Convolutions](https://openreview.net/forum?id=BVSM0x3EDK6)
-   - Zhenlin Xu, Deyi Liu, Junlin Yang, Colin Raffel, Marc Niethammer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ncfezoi-rla"></a>
-12. [Shape or Texture: Understanding Discriminative Features in CNNs](https://openreview.net/forum?id=NcFEZOi-rLa)
-   - Md Amirul Islam, Matthew Kowal, Patrick Esser, Sen Jia, Björn Ommer, Konstantinos G. Derpanis, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-db4yerztykz"></a>
-13. [Shape-Texture Debiased Neural Network Training](https://openreview.net/forum?id=Db4yerZTYkz)
-   - Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, Wei Shen, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yhdeao61l6t"></a>
+1. [Auction Learning as a Two-Player Game](https://openreview.net/forum?id=YHdeAO61l6T)
+   - Jad Rahme, Samy Jelassi, S. Matthew Weinberg; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qpsl2dr9twy"></a>
+2. [Communication in Multi-Agent Reinforcement Learning: Intention Sharing](https://openreview.net/forum?id=qpsl2dR9twy)
+   - Woojun Kim, Jongeui Park, Youngchul Sung; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xvxpuckcnpo"></a>
+3. [Correcting experience replay for multi-agent communication](https://openreview.net/forum?id=xvxPuCkCNPO)
+   - Sanjeevan Ahilan, Peter Dayan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6fqkivadi3y"></a>
+4. [DOP: Off-Policy Multi-Agent Decomposed Policy Gradients](https://openreview.net/forum?id=6FqKiVAdI3Y)
+   - Yihan Wang, Beining Han, Tonghan Wang, Heng Dong, Chongjie Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lvrtc669ey"></a>
+5. [Discovering Diverse Multi-Agent Strategic Behavior via Reward Randomization](https://openreview.net/forum?id=lvRTC669EY_)
+   - Zhenggang Tang, Chao Yu, Boyuan Chen, Huazhe Xu, Xiaolong Wang, Fei Fang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-d8q1mt2ghw"></a>
+6. [Emergent Road Rules In Multi-Agent Driving Environments](https://openreview.net/forum?id=d8Q1mt2Ghw)
+   - Avik Pal, Jonah Philion, Yuan-Hong Liao, Sanja Fidler; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0-uugpbijd"></a>
+7. [Human-Level Performance in No-Press Diplomacy via Equilibrium Search](https://openreview.net/forum?id=0-uUGPbIjD)
+   - Jonathan Gray, Adam Lerer, Anton Bakhtin, Noam Brown; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-r4awtjmrekm"></a>
+8. [Iterative Empirical Game Solving via Single Policy Best Response](https://openreview.net/forum?id=R4aWTjmrEKM)
+   - Max Smith, Thomas Anthony, Michael Wellman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-p6-q1brxy8q"></a>
+9. [Learning Safe Multi-agent Control with Decentralized Neural Barrier Certificates](https://openreview.net/forum?id=P6_q1BRxY8Q)
+   - Zengyi Qin, Kaiqing Zhang, Yuxiao Chen, Jingkai Chen, Chuchu Fan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rcmk0xxiqv"></a>
+10. [QPLEX: Duplex Dueling Multi-Agent Q-Learning](https://openreview.net/forum?id=Rcmk0xxIQV)
+   - Jianhao Wang, Zhizhou Ren, Terry Liu, Yang Yu, Chongjie Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ttuvg6vknjk"></a>
+11. [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://openreview.net/forum?id=TTUVg6vkNjK)
+   - Tonghan Wang, Tarun Gupta, Anuj Mahajan, Bei Peng, Shimon Whiteson, Chongjie Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-v9c7hr9adkx"></a>
+12. [UPDeT: Universal Multi-agent RL via Policy Decoupling with Transformers](https://openreview.net/forum?id=v9c7hr9ADKx)
+   - Siyi Hu, Fengda Zhu, Xiaojun Chang, Xiaodan Liang; assignment: `hdbscan`; source: `OpenReview`

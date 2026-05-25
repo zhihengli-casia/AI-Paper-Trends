@@ -1,62 +1,65 @@
-# ICLR 2021: 强化学习算法与理论
+# ICLR 2021: 医疗健康与临床 AI
 
 - Topic ID: `29`
-- Papers: **14** (1.63%)
-- Macro topic: 强化学习/决策
-- English keywords: `policy / reinforcement learning / actor-critic / trust`
-- Keyword pool: policy; reinforcement learning; actor-critic; trust; continuous control; deep reinforcement; constraints; drl; power; regularization; wasserstein; function approximation
+- Papers: **15** (1.75%)
+- Macro topic: 计算机视觉
+- English keywords: `disentanglement / disentangled / object / generalisation`
+- Keyword pool: disentanglement; disentangled; object; generalisation; factors; appearance; unsupervised; generative; clinical; scene; physical; images
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Regularization Matters in Policy Optimization - An Empirical Study on Continuous Control
-- What Matters for On-Policy Deep Actor-Critic Methods? A Large-Scale Study
-- Learning Value Functions in Deep Policy Gradients using Residual Variance
-- Batch Reinforcement Learning Through Continuation Method
-- Single-Timescale Actor-Critic Provably Finds Globally Optimal Policy
+- Evaluating the Disentanglement of Deep Generative Models through Manifold Topology
+- On the Transfer of Disentangled Representations in Realistic Settings
+- Towards Nonlinear Disentanglement in Natural Data with Temporal Sparse Coding
+- Disentangling 3D Prototypical Networks for Few-Shot Concept Learning
+- Disentangled Recurrent Wasserstein Autoencoder
 
 ## Papers
 
-<a id="paper-mqp5cr-iny"></a>
-1. [Adversarially Guided Actor-Critic](https://openreview.net/forum?id=_mQp5cr_iNy)
-   - Yannis Flet-Berliac, Johan Ferret, Olivier Pietquin, Philippe Preux, Matthieu Geist; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tqt98ya7ump"></a>
-2. [Balancing Constraints and Rewards with Meta-Gradient D4PG](https://openreview.net/forum?id=TQt98Ya7UMP)
-   - Dan A. Calian, Daniel J Mankowitz, Tom Zahavy, Zhongwen Xu, Junhyuk Oh, Nir Levine, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-po-dllbuauz"></a>
-3. [Batch Reinforcement Learning Through Continuation Method](https://openreview.net/forum?id=po-DLlBuAuz)
-   - Yijie Guo, Shengyu Feng, Nicolas Le Roux, Ed Chi, Honglak Lee, Minmin Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-v1zhvxj6dss"></a>
-4. [DC3: A learning method for optimization with hard constraints](https://openreview.net/forum?id=V1ZHVxJ6dSS)
-   - Priya L. Donti, David Rolnick, J Zico Kolter; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qyzd-ao1vn"></a>
-5. [Differentiable Trust Region Layers for Deep Reinforcement Learning](https://openreview.net/forum?id=qYZD-AO1Vn)
-   - Fabian Otto, Philipp Becker, Vien Anh Ngo, Hanna Carolin Maria Ziesche, Gerhard Neumann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ohgnfsrn2jv"></a>
-6. [Efficient Wasserstein Natural Gradients for Reinforcement Learning](https://openreview.net/forum?id=OHgnfSrn2jv)
-   - Ted Moskovitz, Michael Arbel, Ferenc Huszar, Arthur Gretton; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tgfo0dbd-pk"></a>
-7. [Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning](https://openreview.net/forum?id=TGFO0DbD_pk)
-   - Enrico Marchesini, Davide Corsi, Alessandro Farinelli; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-bb2drc7dpub"></a>
-8. [Global optimality of softmax policy gradient with single hidden layer neural networks in the mean-field regime](https://openreview.net/forum?id=bB2drc7DPuB)
-   - Andrea Agazzi, Jianfeng Lu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nx1he-afo-f"></a>
-9. [Learning Value Functions in Deep Policy Gradients using Residual Variance](https://openreview.net/forum?id=NX1He-aFO_F)
-   - Yannis Flet-Berliac, reda ouhamma, odalric-ambrym maillard, Philippe Preux; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yr1mzrh3ic"></a>
-10. [Regularization Matters in Policy Optimization - An Empirical Study on Continuous Control](https://openreview.net/forum?id=yr1mzrH3IC)
-   - Zhuang Liu, Xuanlin Li, Bingyi Kang, Trevor Darrell; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hglo8yalfwc"></a>
-11. [Regularized Inverse Reinforcement Learning](https://openreview.net/forum?id=HgLO8yalfwc)
-   - Wonseok Jeon, Chen-Yang Su, Paul Barde, Thang Doan, Derek Nowrouzezahrai, Joelle Pineau; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pqzv-sruvmk"></a>
-12. [Single-Timescale Actor-Critic Provably Finds Globally Optimal Policy](https://openreview.net/forum?id=pqZV_srUVmK)
-   - Zuyue Fu, Zhuoran Yang, Zhaoran Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-niaxjsnidzg"></a>
-13. [What Matters for On-Policy Deep Actor-Critic Methods? A Large-Scale Study](https://openreview.net/forum?id=nIAxjsniDzg)
-   - Marcin Andrychowicz, Anton Raichuk, Piotr Stańczyk, Manu Orsini, Sertan Girgin, Raphaël Marinier, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lmujqb1cz8"></a>
-14. [Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic](https://openreview.net/forum?id=LmUJqB1Cz8)
-   - Deunsol Yoon, Sunghoon Hong, Byung-Jun Lee, Kee-Eung Kim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-esg-dmkqksd"></a>
+1. [Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis](https://openreview.net/forum?id=ESG-DMKQKsD)
+   - Zhipeng Bao, Yu-Xiong Wang, Martial Hebert; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o7ms4lfdsx"></a>
+2. [Disentangled Recurrent Wasserstein Autoencoder](https://openreview.net/forum?id=O7ms4LFdsX)
+   - Jun Han, Martin Renqiang Min, Ligong Han, Li Erran Li, Xuan Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lr-u0b42he"></a>
+3. [Disentangling 3D Prototypical Networks for Few-Shot Concept Learning](https://openreview.net/forum?id=-Lr-u0b42he)
+   - Mihir Prabhudesai, Shamit Lal, Darshan Patil, Hsiao-Yu Tung, Adam W Harley, Katerina Fragkiadaki; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-djws0m4ft-a"></a>
+4. [Evaluating the Disentanglement of Deep Generative Models through Manifold Topology](https://openreview.net/forum?id=djwS0m4Ft_A)
+   - Sharon Zhou, Eric Zelikman, Fred Lu, Andrew Y. Ng, Gunnar E. Carlsson, Stefano Ermon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-m88ofvqp-9"></a>
+5. [Generating Furry Cars: Disentangling Object Shape and Appearance across Multiple Domains](https://openreview.net/forum?id=M88oFvqp_9)
+   - Utkarsh Ojha, Krishna Kumar Singh, Yong Jae Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-impa6mndsxu"></a>
+6. [Integrating Categorical Semantics into Unsupervised Domain Translation](https://openreview.net/forum?id=IMPA6MndSXU)
+   - Samuel Lavoie-Marchildon, Faruk Ahmed, Aaron Courville; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1fvkspwosol"></a>
+7. [Is Attention Better Than Matrix Decomposition?](https://openreview.net/forum?id=1FvkSpWosOl)
+   - Zhengyang Geng, Meng-Hao Guo, Hongxu Chen, Xia Li, Ke Wei, Zhouchen Lin; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ldau9ehu-qo"></a>
+8. [Learning from Demonstration with Weakly Supervised Disentanglement](https://openreview.net/forum?id=Ldau9eHU-qO)
+   - Yordan Hristov, Subramanian Ramamoorthy; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-8vxvj1qnrl1"></a>
+9. [On the Transfer of Disentangled Representations in Realistic Settings](https://openreview.net/forum?id=8VXvj1QNRl1)
+   - Andrea Dittadi, Frederik Träuble, Francesco Locatello, Manuel Wuthrich, Vaibhav Agrawal, Ole Winther, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vlahrthvffp"></a>
+10. [PDE-Driven Spatiotemporal Disentanglement](https://openreview.net/forum?id=vLaHRtHvfFp)
+   - Jérémie Donà, Jean-Yves Franceschi, sylvain lamprier, patrick gallinari; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tvjlza1t4hi"></a>
+11. [Representation learning for improved interpretability and classification accuracy of clinical factors from EEG](https://openreview.net/forum?id=TVjLza1t4hI)
+   - Garrett Honke, Irina Higgins, Nina Thigpen, Vladimir Miskovic, Katie Link, Sunny Duan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qbh974jkuvy"></a>
+12. [The role of Disentanglement in Generalisation](https://openreview.net/forum?id=qbH974jKUVy)
+   - Milton Llera Montero, Casimir JH Ludwig, Rui Ponte Costa, Gaurav Malhotra, Jeffrey Bowers; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ebidjbynyj8"></a>
+13. [Towards Nonlinear Disentanglement in Natural Data with Temporal Sparse Coding](https://openreview.net/forum?id=EbIDjBynYJ8)
+   - David A. Klindt, Lukas Schott, Yash Sharma, Ivan Ustyuzhaninov, Wieland Brendel, Matthias Bethge, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lf7st0bjia5"></a>
+14. [Unsupervised Discovery of 3D Physical Objects from Video](https://openreview.net/forum?id=lf7st0bJIA5)
+   - Yilun Du, Kevin A. Smith, Tomer Ullman, Joshua B. Tenenbaum, Jiajun Wu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8wqcdnbmnrt"></a>
+15. [Zero-shot Synthesis with Group-Supervised Learning](https://openreview.net/forum?id=8wqCDnBmnrT)
+   - Yunhao Ge, Sami Abu-El-Haija, Gan Xin, Laurent Itti; assignment: `hdbscan`; source: `OpenReview`

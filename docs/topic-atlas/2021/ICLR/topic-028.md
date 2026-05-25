@@ -1,62 +1,65 @@
-# ICLR 2021: shapes / graphics / generative / gans
+# ICLR 2021: label / noise / smoothing / noisy
 
 - Topic ID: `28`
-- Papers: **14** (1.63%)
+- Papers: **15** (1.75%)
 - Macro topic: 计算机视觉
-- English keywords: `shapes / graphics / generative / gans`
-- Keyword pool: shapes; graphics; generative; gans; image; rendering; object; scene; differentiable; pose; geometry; reconstruction
+- English keywords: `label / noise / smoothing / noisy`
+- Keyword pool: label; noise; smoothing; noisy; clean; curriculum; soft; robust; distillation; curricula; cores; divergence
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- A Geometric Analysis of Deep Generative Image Models and Its Applications
-- Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs
-- Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering
-- Generative Scene Graph Networks
-- GAN "Steerability" without optimization
+- Learning with Feature-Dependent Label Noise: A Progressive Approach
+- Noise against noise: stochastic label noise helps combat inherent label noise
+- Robust Curriculum Learning: from clean label detection to noisy label self-correction
+- Learning with Instance-Dependent Label Noise: A Sample Sieve Approach
+- Beyond Categorical Label Representations for Image Classification
 
 ## Papers
 
-<a id="paper-gh7qrzuddxg"></a>
-1. [A Geometric Analysis of Deep Generative Image Models and Its Applications](https://openreview.net/forum?id=GH7QRzUDdXG)
-   - Binxu Wang, Carlos R Ponce; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gz9hcdwe6ke"></a>
-2. [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://openreview.net/forum?id=gZ9hCDWe6ke)
-   - Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-fgqidsbukl0"></a>
-3. [Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs](https://openreview.net/forum?id=FGqiDsBUKL0)
-   - Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zdy-nqcxiij"></a>
-4. [GAN "Steerability" without optimization](https://openreview.net/forum?id=zDy_nQCXiIj)
-   - Nurit Spingarn, Ron Banner, Tomer Michaeli; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rmcpm9m3tnk"></a>
-5. [Generative Scene Graph Networks](https://openreview.net/forum?id=RmcPm9m3tnk)
-   - Fei Deng, Zhuo Zhi, Donghun Lee, Sungjin Ahn; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ywkp7juhx1"></a>
-6. [Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering](https://openreview.net/forum?id=yWkP7JuHX1)
-   - Yuxuan Zhang, Wenzheng Chen, Huan Ling, Jun Gao, Yinan Zhang, Antonio Torralba, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gu5wqn9j3fn"></a>
-7. [Learning Manifold Patch-Based Representations of Man-Made Shapes](https://openreview.net/forum?id=Gu5WqN9J3Fn)
-   - Dmitriy Smirnov, Mikhail Bessmeltsev, Justin Solomon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rabumu3ulqh"></a>
-8. [Learning to Generate 3D Shapes with Generative Cellular Automata](https://openreview.net/forum?id=rABUmU3ulQh)
-   - Dongsu Zhang, Changwoon Choi, Jeonghwan Kim, Young Min Kim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pmj131uil9h"></a>
-9. [NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation](https://openreview.net/forum?id=pmj131uIL9H)
-   - Angtian Wang, Adam Kortylewski, Alan Yuille; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8x2easzxtp"></a>
-10. [PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds](https://openreview.net/forum?id=8X2eaSZxTP)
-   - Yujia Liu, Stefano D'Aronco, Konrad Schindler, Jan Dirk Wegner; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7edglu9reqd"></a>
-11. [SALD: Sign Agnostic Learning with Derivatives](https://openreview.net/forum?id=7EDgLu9reQD)
-   - Matan Atzmon, Yaron Lipman; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lqu2cs3zca"></a>
-12. [Signatory: differentiable computations of the signature and logsignature transforms, on both CPU and GPU](https://openreview.net/forum?id=lqU2cs3Zca)
-   - Patrick Kidger, Terry Lyons; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xas3ukefwj"></a>
-13. [Variational State-Space Models for Localisation and Dense 3D Mapping in 6 DoF](https://openreview.net/forum?id=XAS3uKeFWj)
-   - Atanas Mirchev, Baris Kayalibay, Patrick van der Smagt, Justin Bayer; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-c-e8kfwfhp0"></a>
-14. [gradSim: Differentiable simulation for system identification and visuomotor control](https://openreview.net/forum?id=c_E8kFWfhp0)
-   - Krishna Murthy Jatavallabhula, Miles Macklin, Florian Golemo, Vikram Voleti, Linda Petrini, Martin Weiss, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-myhwdabuhzm"></a>
+1. [Beyond Categorical Label Representations for Image Classification](https://openreview.net/forum?id=MyHwDabUHZm)
+   - Boyuan Chen, Yu Li, Sunand Raghupathi, Hod Lipson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-btzhssgnrni"></a>
+2. [Coping with Label Shift via Distributionally Robust Optimisation](https://openreview.net/forum?id=BtZhsSGNRNi)
+   - Jingzhao Zhang, Aditya Krishna Menon, Andreas Veit, Srinadh Bhojanapalli, Sanjiv Kumar, Suvrit Sra; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hsfn92eqela"></a>
+3. [EVALUATION OF NEURAL ARCHITECTURES TRAINED WITH SQUARE LOSS VS CROSS-ENTROPY IN CLASSIFICATION TASKS](https://openreview.net/forum?id=hsFN92eQEla)
+   - Like Hui, Mikhail Belkin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-medwvcrjux4"></a>
+4. [Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization](https://openreview.net/forum?id=mEdwVCRJuX4)
+   - Kaidi Cao, Yining Chen, Junwei Lu, Nikos Arechiga, Adrien Gaidon, Tengyu Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pobuugvrgaz"></a>
+5. [Is Label Smoothing Truly Incompatible with Knowledge Distillation: An Empirical Study](https://openreview.net/forum?id=PObuuGVrGaZ)
+   - Zhiqiang Shen, Zechun Liu, Dejia Xu, Zitian Chen, Kwang-Ting Cheng, Marios Savvides; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-5nseiflpbsv"></a>
+6. [Learning Better Structured Representations Using Low-rank Adaptive Label Smoothing](https://openreview.net/forum?id=5NsEIflpbSv)
+   - Asish Ghoshal, Xilun Chen, Sonal Gupta, Luke Zettlemoyer, Yashar Mehdad; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zpa2sygcbwh"></a>
+7. [Learning with Feature-Dependent Label Noise: A Progressive Approach](https://openreview.net/forum?id=ZPa2SyGcbwh)
+   - Yikai Zhang, Songzhu Zheng, Pengxiang Wu, Mayank Goswami, Chao Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2vxyy9miyu3"></a>
+8. [Learning with Instance-Dependent Label Noise: A Sample Sieve Approach](https://openreview.net/forum?id=2VXyy9mIyU3)
+   - Hao Cheng, Zhaowei Zhu, Xingyu Li, Yifei Gong, Xing Sun, Yang Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-80fmctsz6j0"></a>
+9. [Noise against noise: stochastic label noise helps combat inherent label noise](https://openreview.net/forum?id=80FMcTSZ6J0)
+   - Pengfei Chen, Guangyong Chen, Junjie Ye, jingwei zhao, Pheng-Ann Heng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gihd-5x324"></a>
+10. [Rethinking Soft Labels for Knowledge Distillation: A Bias–Variance Tradeoff Perspective](https://openreview.net/forum?id=gIHd-5X324)
+   - Helong Zhou, Liangchen Song, Jiajie Chen, Ye Zhou, Guoli Wang, Junsong Yuan, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-lmtwnm3cojj"></a>
+11. [Robust Curriculum Learning: from clean label detection to noisy label self-correction](https://openreview.net/forum?id=lmTWnm3coJJ)
+   - Tianyi Zhou, Shengjie Wang, Jeff Bilmes; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-eql5b1-hte4"></a>
+12. [Robust early-learning: Hindering the memorization of noisy labels](https://openreview.net/forum?id=Eql5b1_hTE4)
+   - Xiaobo Xia, Tongliang Liu, Bo Han, Chen Gong, Nannan Wang, Zongyuan Ge, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4rbdgbh9ge"></a>
+13. [Teaching with Commentaries](https://openreview.net/forum?id=4RbdgBh9gE)
+   - Aniruddh Raghu, Maithra Raghu, Simon Kornblith, David Duvenaud, Geoffrey Hinton; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tw4qeinpni"></a>
+14. [When Do Curricula Work?](https://openreview.net/forum?id=tW4QEInpni)
+   - Xiaoxia Wu, Ethan Dyer, Behnam Neyshabur; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wesicorvq15"></a>
+15. [When Optimizing $f$-Divergence is Robust with Label Noise](https://openreview.net/forum?id=WesiCoRVQ15)
+   - Jiaheng Wei, Yang Liu; assignment: `hdbscan`; source: `OpenReview`

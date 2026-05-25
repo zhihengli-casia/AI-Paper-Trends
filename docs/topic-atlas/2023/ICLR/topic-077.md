@@ -1,44 +1,50 @@
-# ICLR 2023: second-order / derivative / differentiation / vanishing
+# ICLR 2023: 强化学习算法与理论
 
 - Topic ID: `77`
-- Papers: **8** (0.51%)
-- Macro topic: 理论/优化
-- English keywords: `second-order / derivative / differentiation / vanishing`
-- Keyword pool: second-order; derivative; differentiation; vanishing; gradient; nonsmooth; zeroth-order; estimation; fisher; alternating; ideal; conservative
+- Papers: **10** (0.65%)
+- Macro topic: 强化学习/决策
+- English keywords: `pomdps / reinforcement learning / policy / markov decision`
+- Keyword pool: pomdps; reinforcement learning; policy; markov decision; observable; sample complexity; partially; safety; sim-to-real; decision processes; transition; sample-efficient
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- On the complexity of nonsmooth automatic differentiation
-- Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation
-- Alternating Differentiation for Optimization Layers
-- Fisher-Legendre (FishLeg) optimization of deep neural networks
-- Zeroth-Order Optimization with Trajectory-Informed Derivative Estimation
+- Represent to Control Partially Observed Systems: Representation Learning with Provable Sample Efficiency
+- PAC Reinforcement Learning for Predictive State Representations
+- Partially Observable RL with B-Stability: Unified Structural Condition and Sharp Sample-Efficient Algorithms
+- Safe Reinforcement Learning From Pixels Using a Stochastic Latent Representation
+- Optimistic Exploration with Learned Features Provably Solves Markov Decision Processes with Neural Dynamics
 
 ## Papers
 
-<a id="paper-kkbmz-el4td"></a>
-1. [Alternating Differentiation for Optimization Layers](https://openreview.net/forum?id=KKBMz-EL4tD)
-   - Haixiang Sun, Ye Shi, Jingya Wang, Hoang Duong Tuan, H. Vincent Poor, Dacheng Tao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3zpesalkxo"></a>
-2. [Approximate Vanishing Ideal Computations at Scale](https://openreview.net/forum?id=3ZPESALKXO)
-   - Elias Samuel Wirth, Hiroshi Kera, Sebastian Pokutta; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mic8v96voy"></a>
-3. [Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation](https://openreview.net/forum?id=_Mic8V96Voy)
-   - Lin Zhang, Shaohuai Shi, Bo Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-c9laopvqhs"></a>
-4. [Fisher-Legendre (FishLeg) optimization of deep neural networks](https://openreview.net/forum?id=c9lAOPvQHS)
-   - Jezabel R Garcia, Federica Freddi, Stathi Fotiadis, Maolin Li, Sattar Vakili, Alberto Bernacchia, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0pacjsfw7j"></a>
-5. [ISAAC Newton: Input-based Approximate Curvature for Newton's Method](https://openreview.net/forum?id=0paCJSFW7j)
-   - Felix Petersen, Tobias Sutter, Christian Borgelt, Dongsung Huh, Hilde Kuehne, Yuekai Sun, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uqg3fhrzaq"></a>
-6. [On the complexity of nonsmooth automatic differentiation](https://openreview.net/forum?id=uqg3FhRZaq)
-   - Jerome Bolte, Ryan Boustany, Edouard Pauwels, Béatrice Pesquet-Popescu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jxpbp1jm15"></a>
-7. [Scaling Forward Gradient With Local Losses](https://openreview.net/forum?id=JxpBP1JM15-)
-   - Mengye Ren, Simon Kornblith, Renjie Liao, Geoffrey Hinton; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n1blgxhw6jw"></a>
-8. [Zeroth-Order Optimization with Trajectory-Informed Derivative Estimation](https://openreview.net/forum?id=n1bLgxHW6jW)
-   - Yao Shu, Zhongxiang Dai, Weicong Sng, Arun Verma, Patrick Jaillet, Bryan Kian Hsiang Low; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vuudxdgujac"></a>
+1. [HiT-MDP: Learning the SMDP option framework on MDPs with Hidden Temporal Embeddings](https://openreview.net/forum?id=VuuDXDgujAc)
+   - Chang Li, Dongjin Song, Dacheng Tao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3or2tbtnyc"></a>
+2. [Near-optimal Policy Identification in Active Reinforcement Learning](https://openreview.net/forum?id=3OR2tbtnYC-)
+   - Xiang Li, Viraj Mehta, Johannes Kirschner, Ian Char, Willie Neiswanger, Jeff Schneider, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9kbcmnb5mc"></a>
+3. [Optimistic Exploration with Learned Features Provably Solves Markov Decision Processes with Neural Dynamics](https://openreview.net/forum?id=9kBCMNb5mc)
+   - Sirui Zheng, Lingxiao Wang, Shuang Qiu, Zuyue Fu, Zhuoran Yang, Csaba Szepesvari, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fvw7mi2ph6c"></a>
+4. [PAC Reinforcement Learning for Predictive State Representations](https://openreview.net/forum?id=FVW7Mi2ph6C)
+   - Wenhao Zhan, Masatoshi Uehara, Wen Sun, Jason D. Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n05upkp02kq"></a>
+5. [Partially Observable RL with B-Stability: Unified Structural Condition and Sharp Sample-Efficient Algorithms](https://openreview.net/forum?id=n05upKp02kQ)
+   - Fan Chen, Yu Bai, Song Mei; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-s31otb72m0g"></a>
+6. [Provable Sim-to-real Transfer in Continuous Domain with Partial Observations](https://openreview.net/forum?id=S31oTB72m0G)
+   - Jiachen Hu, Han Zhong, Chi Jin, Liwei Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8ojhwb3sgp"></a>
+7. [Represent to Control Partially Observed Systems: Representation Learning with Provable Sample Efficiency](https://openreview.net/forum?id=8oJHwb3Sgp)
+   - Lingxiao Wang, Qi Cai, Zhuoran Yang, Zhaoran Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-b39dqt-uffw"></a>
+8. [Safe Reinforcement Learning From Pixels Using a Stochastic Latent Representation](https://openreview.net/forum?id=b39dQt_uffW)
+   - Yannick Hogewind, Thiago D. Simão, Tal Kachman, Nils Jansen; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fbmleaxpzn"></a>
+9. [Spectral Decomposition Representation for Reinforcement Learning](https://openreview.net/forum?id=FBMLeaXpZN)
+   - Tongzheng Ren, Tianjun Zhang, Lisa Lee, Joseph E. Gonzalez, Dale Schuurmans, Bo Dai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jllttedh1zy"></a>
+10. [Wasserstein Auto-encoded MDPs: Formal Verification of Efficiently Distilled RL Policies with Many-sided Guarantees](https://openreview.net/forum?id=JLLTtEdh1ZY)
+   - Florent Delgrange, Ann Nowe, Guillermo Perez; assignment: `nearest_centroid`; source: `OpenReview`

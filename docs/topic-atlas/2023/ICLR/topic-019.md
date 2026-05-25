@@ -1,95 +1,89 @@
-# ICLR 2023: masked / mim / image / self-supervised
+# ICLR 2023: 联邦学习与分布式训练
 
 - Topic ID: `19`
-- Papers: **25** (1.59%)
-- Macro topic: 计算机视觉
-- English keywords: `masked / mim / image / self-supervised`
-- Keyword pool: masked; mim; image; self-supervised; patches; pre-training; visual; downstream; contrastive; tokens; ctr; feature
+- Papers: **23** (1.50%)
+- Macro topic: 系统/效率/压缩
+- English keywords: `federated / clients / heterogeneity / local`
+- Keyword pool: federated; clients; heterogeneity; local; personalized; decentralized; unlearning; communication; heterogeneous; non-iid; personalization; global
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Masked Image Modeling with Denoising Contrast
-- Exploring The Role of Mean Teachers in Self-supervised Masked Auto-Encoders
-- What Do Self-Supervised Vision Transformers Learn?
-- Masked Frequency Modeling for Self-Supervised Visual Pre-Training
-- Corrupted Image Modeling for Self-Supervised Visual Pre-Training
+- Personalized Federated Learning with Feature Alignment and Classifier Collaboration
+- Data-Free One-Shot Federated Learning Under Very High Statistical Heterogeneity
+- On the Importance and Applicability of Pre-Training for Federated Learning
+- The Best of Both Worlds: Accurate Global and Personalized Models through Federated Learning with Data-Free Hyper-Knowledge Distillation
+- Efficient Federated Domain Translation
 
 ## Papers
 
-<a id="paper-8oun8zuve8n"></a>
-1. [Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?](https://openreview.net/forum?id=8Oun8ZUVe8N)
-   - Runpei Dong, Zekun Qi, Linfeng Zhang, Junbo Zhang, Jianjian Sun, Zheng Ge, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-a3sgyt4hwp"></a>
-2. [Contextual Image Masking Modeling via Synergized Contrasting without View Augmentation for Faster and Better Visual Pretraining](https://openreview.net/forum?id=A3sgyt4HWp)
-   - Shaofeng Zhang, Feng Zhu, Rui Zhao, Junchi Yan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qptmryk5rb"></a>
-3. [Contrastive Audio-Visual Masked Autoencoder](https://openreview.net/forum?id=QPtMRyk5rb)
-   - Yuan Gong, Andrew Rouditchenko, Alexander H. Liu, David Harwath, Leonid Karlinsky, Hilde Kuehne, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-09hvcsdkea"></a>
-4. [Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://openreview.net/forum?id=09hVcSDkea)
-   - Yuxin Fang, Li Dong, Hangbo Bao, Xinggang Wang, Furu Wei; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cmjo1ftwbtq"></a>
-5. [DINO as a von Mises-Fisher mixture model](https://openreview.net/forum?id=cMJo1FTwBTQ)
-   - Hariprasath Govindarajan, Per Sidén, Jacob Roll, Fredrik Lindsten; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zdjtzzbztqk"></a>
-6. [Denoising Masked Autoencoders Help Robust Classification](https://openreview.net/forum?id=zDjtZZBZtqK)
-   - QuanLin Wu, Hang Ye, Yuntian Gu, Huishuai Zhang, Liwei Wang, Di He; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xuxad2gj40n"></a>
-7. [EVC: Towards Real-Time Neural Image Compression with Mask Decay](https://openreview.net/forum?id=XUxad2Gj40n)
-   - Wang Guo-Hua, Jiahao Li, Bin Li, Yan Lu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zmz-sw6gclf"></a>
-8. [Energy-Inspired Self-Supervised Pretraining for Vision Models](https://openreview.net/forum?id=ZMz-sW6gCLF)
-   - Ze Wang, Jiang Wang, Zicheng Liu, Qiang Qiu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7sn6vxp92xv"></a>
-9. [Exploring The Role of Mean Teachers in Self-supervised Masked Auto-Encoders](https://openreview.net/forum?id=7sn6Vxp92xV)
-   - Youngwan Lee, Jeffrey Ryan Willette, Jonghee Kim, Juho Lee, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ilqvw4ca5f9"></a>
-10. [LDMIC: Learning-based Distributed Multi-view Image Coding](https://openreview.net/forum?id=ILQVw4cA5F9)
-   - Xinjie Zhang, Jiawei Shao, Jun Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jwdqnwyreyh"></a>
-11. [Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Label-Efficient Representations](https://openreview.net/forum?id=jwdqNwyREyh)
-   - Ziyu Jiang, Yinpeng Chen, Mengchen Liu, Dongdong Chen, Xiyang Dai, Lu Yuan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-j9m-mvnndbm"></a>
-12. [MIMT: Masked Image Modeling Transformer for Video Compression](https://openreview.net/forum?id=j9m-mVnndbm)
-   - Jinxi Xiang, Kuan Tian, Jun Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qzbkh8nnq-v"></a>
-13. [MaskFusion: Feature Augmentation for Click-Through Rate Prediction via Input-adaptive Mask Fusion](https://openreview.net/forum?id=QzbKH8nNq_V)
-   - Chao Liao, Jianchao Tan, Jiyuan Jia, Yi Guo, Chengru Song; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9-umxtnpx5e"></a>
-14. [Masked Frequency Modeling for Self-Supervised Visual Pre-Training](https://openreview.net/forum?id=9-umxtNPx5E)
-   - Jiahao Xie, Wei Li, Xiaohang Zhan, Ziwei Liu, Yew-Soon Ong, Chen Change Loy; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1fzd4owfjp6"></a>
-15. [Masked Image Modeling with Denoising Contrast](https://openreview.net/forum?id=1fZd4owfJP6)
-   - Kun Yi, Yixiao Ge, Xiaotong Li, Shusheng Yang, Dian Li, Jianping Wu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zakkivxiam9"></a>
-16. [Masked Unsupervised Self-training for Label-free Image Classification](https://openreview.net/forum?id=ZAKkiVxiAM9)
-   - Junnan Li, Silvio Savarese, Steven Hoi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nn-nbvkahhd"></a>
-17. [Minimalistic Unsupervised Representation Learning with the Sparse Manifold Transform](https://openreview.net/forum?id=nN_nBVKAhhD)
-   - Yubei Chen, Zeyu Yun, Yi Ma, Bruno Olshausen, Yann LeCun; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-jaezpmehauu"></a>
-18. [Mosaic Representation Learning for Self-supervised Visual Pre-training](https://openreview.net/forum?id=JAezPMehaUu)
-   - Zhaoqing Wang, Ziyu Chen, Yaqian Li, Yandong Guo, Jun Yu, Mingming Gong, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-10r-bcjfwj"></a>
-19. [Patch-Level Contrasting without Patch Correspondence for Accurate and Dense Contrastive Representation Learning](https://openreview.net/forum?id=10R_bcjFwJ)
-   - Shaofeng Zhang, Feng Zhu, Rui Zhao, Junchi Yan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8t4qmzbtkw7"></a>
-20. [Progressively Compressed Auto-Encoder for Self-supervised Representation Learning](https://openreview.net/forum?id=8T4qmZbTkW7)
-   - Jin Li, Yaoming Wang, XIAOPENG ZHANG, Yabo Chen, Dongsheng Jiang, Wenrui Dai, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ubc74gtvo3"></a>
-21. [Self-supervision through Random Segments with Autoregressive Coding (RandSAC)](https://openreview.net/forum?id=Ubc74gTVo3)
-   - Tianyu Hua, Yonglong Tian, Sucheng Ren, Michalis Raptis, Hang Zhao, Leonid Sigal; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-j8iiqum33s"></a>
-22. [Task-customized Masked Autoencoder via Mixture of Cluster-conditional Experts](https://openreview.net/forum?id=j8IiQUM33s)
-   - Zhili LIU, Kai Chen, Jianhua Han, Lanqing HONG, Hang Xu, Zhenguo Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6kxapt2r2i"></a>
-23. [The Augmented Image Prior: Distilling 1000 Classes by Extrapolating from a Single Image](https://openreview.net/forum?id=6kxApT2r2i)
-   - Yuki M Asano, Aaqib Saeed; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-paeuqiy40dk"></a>
-24. [Towards Understanding Why Mask Reconstruction Pretraining Helps in Downstream Tasks](https://openreview.net/forum?id=PaEUQiY40Dk)
-   - Jiachun Pan, Pan Zhou, Shuicheng YAN; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-azckuyys74"></a>
-25. [What Do Self-Supervised Vision Transformers Learn?](https://openreview.net/forum?id=azCKuYyS74)
-   - Namuk Park, Wonjae Kim, Byeongho Heo, Taekyung Kim, Sangdoo Yun; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ekllxploom"></a>
+1. [Combating Exacerbated Heterogeneity for Robust Models in Federated Learning](https://openreview.net/forum?id=eKllxpLOOm)
+   - Jianing Zhu, Jiangchao Yao, Tongliang Liu, quanming yao, Jianliang Xu, Bo Han; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hb4vm3jspb"></a>
+2. [Data-Free One-Shot Federated Learning Under Very High Statistical Heterogeneity](https://openreview.net/forum?id=_hb4vM3jspB)
+   - Clare Elizabeth Heinbaugh, Emilio Luz-Ricca, Huajie Shao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pf8riztmu58"></a>
+3. [DepthFL : Depthwise Federated Learning for Heterogeneous Clients](https://openreview.net/forum?id=pf8RIZTMU58)
+   - Minjae Kim, Sangyoon Yu, Suhyun Kim, Soo-Mook Moon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2l9gzs80ta4"></a>
+4. [Does Learning from Decentralized Non-IID Unlabeled Data Benefit from Self Supervision?](https://openreview.net/forum?id=2L9gzS80tA4)
+   - Lirui Wang, Kaiqing Zhang, Yunzhu Li, Yonglong Tian, Russ Tedrake; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uhlacraz9cj"></a>
+5. [Efficient Federated Domain Translation](https://openreview.net/forum?id=uhLAcrAZ9cJ)
+   - Zeyu Zhou, Sheikh Shams Azam, Christopher Brinton, David I. Inouye; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6p9y25pljl6"></a>
+6. [FedDAR: Federated Domain-Aware Representation Learning](https://openreview.net/forum?id=6P9Y25Pljl6)
+   - Aoxiao Zhong, Hao He, Zhaolin Ren, Na Li, Quanzheng Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-u9yfp90ju0"></a>
+7. [FedFA: Federated Feature Augmentation](https://openreview.net/forum?id=U9yFP90jU0)
+   - Tianfei Zhou, Ender Konukoglu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hddv1lsrv8"></a>
+8. [Federated Learning from Small Datasets](https://openreview.net/forum?id=hDDV1lsRV8)
+   - Michael Kamp, Jonas Fischer, Jilles Vreeken; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9aokcgbvij1"></a>
+9. [FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification](https://openreview.net/forum?id=9aokcgBVIj1)
+   - Aliaksandra Shysheya, John F Bronskill, Massimiliano Patacchiola, Sebastian Nowozin, Richard E Turner; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ehqoysuylx"></a>
+10. [Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses](https://openreview.net/forum?id=-EHqoysUYLx)
+   - Xiaolin Hu, Shaojie Li, Yong Liu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vzwfofyydga"></a>
+11. [Machine Unlearning of Federated Clusters](https://openreview.net/forum?id=VzwfoFyYDga)
+   - Chao Pan, Jin Sima, Saurav Prakash, Vishal Rana, Olgica Milenkovic; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-g2ob-k-18b"></a>
+12. [Measure the Predictive Heterogeneity](https://openreview.net/forum?id=g2oB_k-18b)
+   - Jiashuo Liu, Jiayun Wu, Renjie Pi, Renzhe Xu, Xingxuan Zhang, Bo Li, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tdf-xfawc79"></a>
+13. [Meta Knowledge Condensation for Federated Learning](https://openreview.net/forum?id=TDf-XFAwc79)
+   - Ping Liu, Xin Yu, Joey Tianyi Zhou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2qgjxymnopz"></a>
+14. [MocoSFL: enabling cross-client collaborative self-supervised learning](https://openreview.net/forum?id=2QGJXyMNoPz)
+   - Jingtao Li, Lingjuan Lyu, Daisuke Iso, Chaitali Chakrabarti, Michael Spranger; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fwwfv-p0xp"></a>
+15. [On the Importance and Applicability of Pre-Training for Federated Learning](https://openreview.net/forum?id=fWWFv--P0xP)
+   - Hong-You Chen, Cheng-Hao Tu, Ziwei Li, Han Wei Shen, Wei-Lun Chao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hxeiguxlff"></a>
+16. [PerFedMask: Personalized Federated Learning with Optimized Masking Vectors](https://openreview.net/forum?id=hxEIgUXLFF)
+   - Mehdi Setayesh, Xiaoxiao Li, Vincent W.S. Wong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sxzr8adkia"></a>
+17. [Personalized Federated Learning with Feature Alignment and Classifier Collaboration](https://openreview.net/forum?id=SXZr8aDKia)
+   - Jian Xu, Xinyi Tong, Shao-Lun Huang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3abujeza5sq"></a>
+18. [Test-Time Robust Personalization for Federated Learning](https://openreview.net/forum?id=3aBuJEza5sq)
+   - Liangze Jiang, Tao Lin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-29v3awjvafi"></a>
+19. [The Best of Both Worlds: Accurate Global and Personalized Models through Federated Learning with Data-Free Hyper-Knowledge Distillation](https://openreview.net/forum?id=29V3AWjVAFi)
+   - Huancheng Chen, Chianing Wang, Haris Vikalo; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rzrqh85f4sc"></a>
+20. [Towards Addressing Label Skews in One-Shot Federated Learning](https://openreview.net/forum?id=rzrqh85f4Sc)
+   - Yiqun Diao, Qinbin Li, Bingsheng He; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-exniymvtl8s"></a>
+21. [Towards Understanding and Mitigating Dimensional Collapse in Heterogeneous Federated Learning](https://openreview.net/forum?id=EXnIyMVTL8s)
+   - Yujun Shi, Jian Liang, Wenqing Zhang, Vincent Tan, Song Bai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-htnolwdlvp"></a>
+22. [Transferable Unlearnable Examples](https://openreview.net/forum?id=-htnolWDLvP)
+   - Jie Ren, Han Xu, Yuxuan Wan, Xingjun Ma, Lichao Sun, Jiliang Tang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mpa3trjfbb"></a>
+23. [Where to Begin? On the Impact of Pre-Training and Initialization in Federated Learning](https://openreview.net/forum?id=Mpa3tRJFBb)
+   - John Nguyen, Jianyu Wang, Kshitiz Malik, Maziar Sanjabi, Michael Rabbat; assignment: `hdbscan`; source: `OpenReview`

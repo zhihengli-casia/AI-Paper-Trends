@@ -1,74 +1,74 @@
-# ICLR 2022: 图神经网络与图表示学习
+# ICLR 2022: continual learning / forgetting / catastrophic / replay
 
 - Topic ID: `27`
-- Papers: **18** (1.65%)
-- Macro topic: 图学习/数据挖掘
-- English keywords: `graph / node / gnns / self-supervised`
-- Keyword pool: graph; node; gnns; self-supervised; metrics; pretext; classification; giant; labels; interpretability; positional; hierarchies
+- Papers: **18** (1.70%)
+- Macro topic: 理论/优化
+- English keywords: `continual learning / forgetting / catastrophic / replay`
+- Keyword pool: continual learning; forgetting; catastrophic; replay; memory; online; old; past; filter; trust region; projection; transfer
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Node Feature Extraction by Self-Supervised Multi-scale Neighborhood Prediction
-- Why Propagate Alone? Parallel Use of Labels and Features on Graphs
-- Neural Structured Prediction for Inductive Node Classification
-- Graph Auto-Encoder via Neighborhood Wasserstein Reconstruction
-- Graph Neural Networks with Learnable Structural and Positional Representations
+- Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference
+- Looking Back on Learned Experiences For Class/task Incremental Learning
+- Continual Learning with Recursive Gradient Optimization
+- Model Zoo: A Growing Brain That Learns Continually
+- New Insights on Reducing Abrupt Representation Change in Online Continual Learning
 
 ## Papers
 
-<a id="paper-lwr8we4mixn"></a>
-1. [A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Imaging Phenotypes of Disease](https://openreview.net/forum?id=Lwr8We4MIxn)
-   - Sayan Ghosal, Qiang Chen, Giulio Pergola, Aaron L Goldman, William Ulrich, Daniel R Weinberger, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-rfbr4fv-d6"></a>
-2. [Automated Self-Supervised Learning for Graphs](https://openreview.net/forum?id=rFbR4Fv-D6-)
-   - Wei Jin, Xiaorui Liu, Xiangyu Zhao, Yao Ma, Neil Shah, Jiliang Tang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ve0wth3ptt"></a>
-3. [DEGREE: Decomposition Based Explanation for Graph Neural Networks](https://openreview.net/forum?id=Ve0Wth3ptT_)
-   - Qizhang Feng, Ninghao Liu, Fan Yang, Ruixiang Tang, Mengnan Du, Xia Hu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nhpze7dqang"></a>
-4. [Does your graph need a confidence boost? Convergent boosted smoothing on graphs with tabular node features](https://openreview.net/forum?id=nHpzE7DqAnG)
-   - Jiuhai Chen, Jonas Mueller, Vassilis N. Ioannidis, Soji Adeshina, Yangkun Wang, Tom Goldstein, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-g2lcqwg7of"></a>
-5. [End-to-End Learning of Probabilistic Hierarchies on Graphs](https://openreview.net/forum?id=g2LCQwG7Of)
-   - Daniel Zügner, Bertrand Charpentier, Morgane Ayle, Sascha Geringer, Stephan Günnemann; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-tbtozykd9n"></a>
-6. [Evaluation Metrics for Graph Generative Models: Problems, Pitfalls, and Practical Solutions](https://openreview.net/forum?id=tBtoZYKd9n)
-   - Leslie O'Bray, Max Horn, Bastian Rieck, Karsten Borgwardt; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-atuh28lnsuw"></a>
-7. [Graph Auto-Encoder via Neighborhood Wasserstein Reconstruction](https://openreview.net/forum?id=ATUh28lnSuW)
-   - Mingyue Tang, Pan Li, Carl Yang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-wttjnvgphyj"></a>
-8. [Graph Neural Networks with Learnable Structural and Positional Representations](https://openreview.net/forum?id=wTTjnvGphYj)
-   - Vijay Prakash Dwivedi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-usc0-nvgpk"></a>
-9. [Information Gain Propagation: a New Way to Graph Active Learning with Soft Labels](https://openreview.net/forum?id=USC0-nvGPK)
-   - Wentao Zhang, Yexin Wang, Zhenbang You, Meng Cao, Ping Huang, Jiulong Shan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0uxt6pprpw"></a>
-10. [Large-Scale Representation Learning on Graphs via Bootstrapping](https://openreview.net/forum?id=0UXT6PpRpW)
-   - Shantanu Thakoor, Corentin Tallec, Mohammad Gheshlaghi Azar, Mehdi Azabou, Eva L Dyer, Remi Munos, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-g8njr6fccl8"></a>
-11. [NODE-GAM: Neural Generalized Additive Model for Interpretable Deep Learning](https://openreview.net/forum?id=g8NJR6fCCl8)
-   - Chun-Hao Chang, Rich Caruana, Anna Goldenberg; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-hbsjnesj2s"></a>
-12. [Neural Relational Inference with Node-Specific Information](https://openreview.net/forum?id=HBsJNesj2S)
-   - Ershad Banijamali; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ywnax0caeji"></a>
-13. [Neural Structured Prediction for Inductive Node Classification](https://openreview.net/forum?id=YWNAX0caEjI)
-   - Meng Qu, Huiyu Cai, Jian Tang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kjgglihbs8"></a>
-14. [Node Feature Extraction by Self-Supervised Multi-scale Neighborhood Prediction](https://openreview.net/forum?id=KJggliHbs8)
-   - Eli Chien, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu, Jiong Zhang, Olgica Milenkovic, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-enwczixjsh"></a>
-15. [On Evaluation Metrics for Graph Generative Models](https://openreview.net/forum?id=EnwCZixjSh)
-   - Rylee Thompson, Boris Knyazev, Elahe Ghalebi, Jungtaek Kim, Graham W. Taylor; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-k9bx1efhi"></a>
-16. [Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis](https://openreview.net/forum?id=k9bx1EfHI_-)
-   - Siyi Tang, Jared Dunnmon, Khaled Kamal Saab, Xuan Zhang, Qianying Huang, Florian Dubost, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-oteds2nwhqa"></a>
-17. [Using Graph Representation Learning with Schema Encoders to Measure the Severity of Depressive Symptoms](https://openreview.net/forum?id=OtEDS2NWhqa)
-   - Simin Hong, Anthony Cohn, David Crossland Hogg; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vtnjxbfrkly"></a>
-18. [Why Propagate Alone? Parallel Use of Labels and Features on Graphs](https://openreview.net/forum?id=VTNjxbFRKly)
-   - Yangkun Wang, Jiarui Jin, Weinan Zhang, Yang Yongyi, Jiuhai Chen, Quan Gan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ndooqnypj"></a>
+1. [BAM: Bayes with Adaptive Memory](https://openreview.net/forum?id=NdOoQnYPj_)
+   - Josue Nassar, Jennifer Rogers Brennan, Ben Evans, Kendall Lowrey; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rhmabybkkrj"></a>
+2. [CLEVA-Compass: A Continual Learning Evaluation Assessment Compass to Promote Research Transparency and Comparability](https://openreview.net/forum?id=rHMaBYbkkRJ)
+   - Martin Mundt, Steven Lang, Quentin Delfosse, Kristian Kersting; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-metrpm4zrcb"></a>
+3. [Continual Learning with Filter Atom Swapping](https://openreview.net/forum?id=metRpM4Zrcb)
+   - Zichen Miao, Ze Wang, Wei Chen, Qiang Qiu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7ydlgf9-zgm"></a>
+4. [Continual Learning with Recursive Gradient Optimization](https://openreview.net/forum?id=7YDLgf9_zgm)
+   - Hao Liu, Huaping Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vwllq-hwqhz"></a>
+5. [Continual Normalization: Rethinking Batch Normalization for Online Continual Learning](https://openreview.net/forum?id=vwLLQ-HwqhZ)
+   - Quang Pham, Chenghao Liu, Steven HOI; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-57pips27km"></a>
+6. [Continuous-Time Meta-Learning with Forward Mode Differentiation](https://openreview.net/forum?id=57PipS27Km)
+   - Tristan Deleu, David Kanaa, Leo Feng, Giancarlo Kerg, Yoshua Bengio, Guillaume Lajoie, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ghvs8-ypeea"></a>
+7. [Effect of scale on catastrophic forgetting in neural networks](https://openreview.net/forum?id=GhVS8_yPeEa)
+   - Vinay Venkatesh Ramasesh, Aitor Lewkowycz, Ethan Dyer; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ipctgl7khpp"></a>
+8. [Information-theoretic Online Memory Selection for Continual Learning](https://openreview.net/forum?id=IpctgL7khPp)
+   - Shengyang Sun, Daniele Calandriello, Huiyi Hu, Ang Li, Michalis Titsias; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uxxfrdwre7y"></a>
+9. [Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System](https://openreview.net/forum?id=uxxFrDwrE7Y)
+   - Elahe Arani, Fahad Sarfraz, Bahram Zonooz; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tfgdrqbbaa"></a>
+10. [Learning curves for continual learning in neural networks: Self-knowledge transfer and forgetting](https://openreview.net/forum?id=tFgdrQbbaa)
+   - Ryo Karakida, Shotaro Akaho; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rxplu3vmbx"></a>
+11. [Looking Back on Learned Experiences For Class/task Incremental Learning](https://openreview.net/forum?id=RxplU3vmBx)
+   - Mozhgan PourKeshavarzi, Guoying Zhao, Mohammad Sabokrou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-a7h7oucbwau"></a>
+12. [Memory Replay with Data Compression for Continual Learning](https://openreview.net/forum?id=a7H7OucbWaU)
+   - Liyuan Wang, Xingxing Zhang, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing HONG, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wfvggbcgbe7"></a>
+13. [Model Zoo: A Growing Brain That Learns Continually](https://openreview.net/forum?id=WfvgGBcgbE7)
+   - Rahul Ramesh, Pratik Chaudhari; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n8mabyozufb"></a>
+14. [New Insights on Reducing Abrupt Representation Change in Online Continual Learning](https://openreview.net/forum?id=N8MaByOzUfb)
+   - Lucas Caccia, Rahaf Aljundi, Nader Asadi, Tinne Tuytelaars, Joelle Pineau, Eugene Belilovsky; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nrggfmby-qk"></a>
+15. [Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference](https://openreview.net/forum?id=nrGGfMbY_qK)
+   - Hyunseo Koh, Dahyun Kim, Jung-Woo Ha, Jonghyun Choi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-f9d-5wng4nv"></a>
+16. [Online Coreset Selection for Rehearsal-based Continual Learning](https://openreview.net/forum?id=f9D-5WNG4Nv)
+   - Jaehong Yoon, Divyam Madaan, Eunho Yang, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9hrka5pa7lw"></a>
+17. [Representational Continuity for Unsupervised Continual Learning](https://openreview.net/forum?id=9Hrka5PA7LW)
+   - Divyam Madaan, Jaehong Yoon, Yuanchun Li, Yunxin Liu, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ievaf8i6jjo"></a>
+18. [TRGP: Trust Region Gradient Projection for Continual Learning](https://openreview.net/forum?id=iEvAf8i6JjO)
+   - Sen Lin, Li Yang, Deliang Fan, Junshan Zhang; assignment: `hdbscan`; source: `OpenReview`

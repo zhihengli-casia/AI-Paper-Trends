@@ -1,47 +1,44 @@
-# ICLR 2022: 图神经网络与图表示学习
+# ICLR 2022: 公平性、偏见与可信 AI
 
 - Topic ID: `57`
-- Papers: **9** (0.82%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `graph / gcn / distributed / gnn`
-- Keyword pool: graph; gcn; distributed; gnn; memory; trainability; node; parallel; pipeline; updates; rate; scheduling
+- Papers: **8** (0.75%)
+- Macro topic: 可信/安全/公平
+- English keywords: `fairness / auc / metric learning / demographic`
+- Keyword pool: fairness; auc; metric learning; demographic; mixup; compositional; gdp; sensitive; group; target labels; shift; attributes
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication
-- Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks
-- EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression
-- IGLU: Efficient GCN Training via Lazy Updates
-- Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective
+- Is Fairness Only Metric Deep? Evaluating and Addressing Subgroup Gaps in Deep Metric Learning
+- Fair Normalizing Flows
+- It Takes Two to Tango: Mixup for Deep Metric Learning
+- No One Representation to Rule Them All: Overlapping Features of Training Methods
+- Generalized Demographic Parity for Group Fairness
 
 ## Papers
 
-<a id="paper-hl9epdho4-s"></a>
-1. [Do We Need Anisotropic Graph Neural Networks?](https://openreview.net/forum?id=hl9ePdHO4_s)
-   - Shyam A. Tailor, Felix Opolka, Pietro Lio, Nicholas Donald Lane; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vkamaq95-rx"></a>
-2. [EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression](https://openreview.net/forum?id=vkaMaq95_rX)
-   - Zirui Liu, Kaixiong Zhou, Fan Yang, Li Li, Rui Chen, Xia Hu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cw-emnq5zfd"></a>
-3. [Group-based Interleaved Pipeline Parallelism for Large-scale DNN Training](https://openreview.net/forum?id=cw-EmNq5zfD)
-   - PengCheng Yang, Xiaoming Zhang, Wenpeng Zhang, Ming Yang, Hong Wei; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5kq11tl1z4"></a>
-4. [IGLU: Efficient GCN Training via Lazy Updates](https://openreview.net/forum?id=5kq11Tl1z4)
-   - S Deepak Narayanan, Aditya Sinha, Prateek Jain, Purushottam Kar, SUNDARARAJAN SELLAMANICKAM; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fnddxsz3lxq"></a>
-5. [Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks](https://openreview.net/forum?id=FndDxSz3LxQ)
-   - Morteza Ramezani, Weilin Cong, Mehrdad Mahdavi, Mahmut Kandemir, Anand Sivasubramaniam; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-k7eftb0un9z"></a>
-6. [Learning to Schedule Learning rate with Graph Neural Networks](https://openreview.net/forum?id=k7efTb0un9z)
-   - Yuanhao Xiong, Li-Cheng Lan, Xiangning Chen, Ruochen Wang, Cho-Jui Hsieh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n1wi0vjler"></a>
-7. [Parallel Training of GRU Networks with a Multi-Grid Solver for Long Sequences](https://openreview.net/forum?id=N1WI0vJLER)
-   - Euhyun Moon, Eric C Cyr; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kswqmh0zn1f"></a>
-8. [PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication](https://openreview.net/forum?id=kSwqMH0zn1F)
-   - Cheng Wan, Youjie Li, Cameron R. Wolfe, Anastasios Kyrillidis, Nam Sung Kim, Yingyan Lin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tt9t-zctzrl"></a>
-9. [Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective](https://openreview.net/forum?id=tT9t_ZctZRL)
-   - Wei Huang, Yayong Li, weitao Du, Richard Xu, Jie Yin, Ling Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gpvb4pdu-z"></a>
+1. [Compositional Training for End-to-End Deep AUC Maximization](https://openreview.net/forum?id=gPvB4pdu_Z)
+   - Zhuoning Yuan, Zhishuai Guo, Nitesh Chawla, Tianbao Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-brfikuxrze"></a>
+2. [Fair Normalizing Flows](https://openreview.net/forum?id=BrFIKuxrZE)
+   - Mislav Balunovic, Anian Ruoss, Martin Vechev; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wbpoblm6uea"></a>
+3. [Fairness Guarantees under Demographic Shift](https://openreview.net/forum?id=wbPObLm6ueA)
+   - Stephen Giguere, Blossom Metevier, Bruno Castro da Silva, Yuriy Brun, Philip S. Thomas, Scott Niekum; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yigklmjwjye"></a>
+4. [Generalized Demographic Parity for Group Fairness](https://openreview.net/forum?id=YigKlMJwjye)
+   - Zhimeng Jiang, Xiaotian Han, Chao Fan, Fan Yang, Ali Mostafavi, Xia Hu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-js62-xulddv"></a>
+5. [Is Fairness Only Metric Deep? Evaluating and Addressing Subgroup Gaps in Deep Metric Learning](https://openreview.net/forum?id=js62_xuLDDv)
+   - Natalie Dullerud, Karsten Roth, Kimia Hamidieh, Nicolas Papernot, Marzyeh Ghassemi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zky2x3dgpa"></a>
+6. [It Takes Two to Tango: Mixup for Deep Metric Learning](https://openreview.net/forum?id=ZKy2X3dgPA)
+   - Shashanka Venkataramanan, Bill Psomas, Ewa Kijak, laurent amsaleg, Konstantinos Karantzalos, Yannis Avrithis; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bk-4qbggie3"></a>
+7. [No One Representation to Rule Them All: Overlapping Features of Training Methods](https://openreview.net/forum?id=BK-4qbGgIE3)
+   - Raphael Gontijo-Lopes, Yann Dauphin, Ekin Dogus Cubuk; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vjb4i2anmy"></a>
+8. [Noisy Feature Mixup](https://openreview.net/forum?id=vJb4I2ANmy)
+   - Soon Hoe Lim, N. Benjamin Erichson, Francisco Utrera, Winnie Xu, Michael W. Mahoney; assignment: `hdbscan`; source: `OpenReview`

@@ -1,44 +1,47 @@
-# ICLR 2023: disentanglement / factors / disentangling / disentangled
+# ICLR 2023: nas / architecture / test-time / search
 
 - Topic ID: `78`
-- Papers: **8** (0.51%)
-- Macro topic: 其他/交叉主题
-- English keywords: `disentanglement / factors / disentangling / disentangled`
-- Keyword pool: disentanglement; factors; disentangling; disentangled; koopman; autoencoder; continual; brain; density estimation; representation learning; latent; identifiability
+- Papers: **9** (0.59%)
+- Macro topic: 理论/优化
+- English keywords: `nas / architecture / test-time / search`
+- Keyword pool: nas; architecture; test-time; search; reparameterization; collapse; basin; mode connectivity; adaptation; gradient scaling; proxies; optimizers
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Multifactor Sequential Disentanglement via Structured Koopman Autoencoders
-- Disentanglement of Correlated Factors via Hausdorff Factorized Support
-- DCI-ES: An Extended Disentanglement Framework with Connections to Identifiability
-- Structure by Architecture: Structured Representations without Regularization
-- Continual Unsupervised Disentangling of Self-Organizing Representations
+- Re-parameterizing Your Optimizers rather than Architectures
+- Improving Differentiable Neural Architecture Search by Encouraging Transferability
+- Git Re-Basin: Merging Models modulo Permutation Symmetries
+- Transfer NAS with Meta-learned Bayesian Surrogates
+- $\Lambda$-DARTS: Mitigating Performance Collapse by Harmonizing Operation Selection among Cells
 
 ## Papers
 
-<a id="paper-ih0ufrfhazz"></a>
-1. [Continual Unsupervised Disentangling of Self-Organizing Representations](https://openreview.net/forum?id=ih0uFRFhaZZ)
-   - Zhiyuan Li, Xiajun Jiang, Ryan Missel, Prashnna Kumar Gyawali, Nilesh Kumar, Linwei Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cw6kmu5wph"></a>
-2. [DAVA: Disentangling Adversarial Variational Autoencoder](https://openreview.net/forum?id=CW6KmU5wPh)
-   - Benjamin Estermann, Roger Wattenhofer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-462z-glgsht"></a>
-3. [DCI-ES: An Extended Disentanglement Framework with Connections to Identifiability](https://openreview.net/forum?id=462z-gLgSht)
-   - Cian Eastwood, Andrei Liviu Nicolicioiu, Julius Von Kügelgen, Armin Kekić, Frederik Träuble, Andrea Dittadi, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-okcjhpqigix"></a>
-4. [Disentanglement of Correlated Factors via Hausdorff Factorized Support](https://openreview.net/forum?id=OKcJhpQiGiX)
-   - Karsten Roth, Mark Ibrahim, Zeynep Akata, Pascal Vincent, Diane Bouchacourt; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9z-gfhzngh"></a>
-5. [Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://openreview.net/forum?id=9Z_GfhZnGH)
-   - James C. R. Whittington, Will Dorrell, Surya Ganguli, Timothy Behrens; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-emvg1jdhw-8"></a>
-6. [Disentangling Learning Representations with Density Estimation](https://openreview.net/forum?id=EMvG1Jdhw_8)
-   - Eric Yeats, Frank Y Liu, Hai Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6fupie9tbnc"></a>
-7. [Multifactor Sequential Disentanglement via Structured Koopman Autoencoders](https://openreview.net/forum?id=6fuPIe9tbnC)
-   - Nimrod Berman, Ilan Naiman, Omri Azencot; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-o-lfcpaf48t"></a>
-8. [Structure by Architecture: Structured Representations without Regularization](https://openreview.net/forum?id=O_lFCPaF48t)
-   - Felix Leeb, Giulia Lanzillotta, Yashas Annadani, Michel Besserve, Stefan Bauer, Bernhard Schölkopf; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oztkqizr3kk"></a>
+1. [$\Lambda$-DARTS: Mitigating Performance Collapse by Harmonizing Operation Selection among Cells](https://openreview.net/forum?id=oztkQizr3kk)
+   - Sajad Movahedi, Melika Adabinejad, Ayyoob Imani, Arezou Keshavarz, Mostafa Dehghani, Azadeh Shakery, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-egm22rqg93"></a>
+2. [DELTA: DEGRADATION-FREE FULLY TEST-TIME ADAPTATION](https://openreview.net/forum?id=eGm22rqG93)
+   - Bowen Zhao, Chen Chen, Shu-Tao Xia; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-cqsmmymlp5t"></a>
+3. [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://openreview.net/forum?id=CQsmMYmlP5T)
+   - Samuel Ainsworth, Jonathan Hayase, Siddhartha Srinivasa; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tl8omiibp99"></a>
+4. [Improving Differentiable Neural Architecture Search by Encouraging Transferability](https://openreview.net/forum?id=Tl8OmiibP99)
+   - Parth Sheth, Pengtao Xie; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gu5sj6zggcx"></a>
+5. [REPAIR: REnormalizing Permuted Activations for Interpolation Repair](https://openreview.net/forum?id=gU5sJ6ZggcX)
+   - Keller Jordan, Hanie Sedghi, Olga Saukh, Rahim Entezari, Behnam Neyshabur; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-b92tmcg-7rp"></a>
+6. [Re-parameterizing Your Optimizers rather than Architectures](https://openreview.net/forum?id=B92TMCG_7rp)
+   - Xiaohan Ding, Honghao Chen, Xiangyu Zhang, Kaiqi Huang, Jungong Han, Guiguang Ding; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kpdewuy7ru6"></a>
+7. [Reparameterization through Spatial Gradient Scaling](https://openreview.net/forum?id=Kpdewuy7RU6)
+   - Alexander Detkov, Mohammad Salameh, Muhammad Fetrat, Jialin Zhang, Robin Luwei, SHANGLING JUI, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pagvsrl4ntr"></a>
+8. [Transfer NAS with Meta-learned Bayesian Surrogates](https://openreview.net/forum?id=paGvsrl4Ntr)
+   - Gresa Shala, Thomas Elsken, Frank Hutter, Josif Grabocka; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rwo-ls5gqgn"></a>
+9. [ZiCo: Zero-shot NAS via inverse Coefficient of Variation on Gradients](https://openreview.net/forum?id=rwo-ls5GqGn)
+   - Guihong Li, Yuedong Yang, Kartikeya Bhardwaj, Radu Marculescu; assignment: `hdbscan`; source: `OpenReview`

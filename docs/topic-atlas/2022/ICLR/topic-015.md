@@ -1,86 +1,83 @@
-# ICLR 2022: contrastive / self-supervised / collapse / distillation
+# ICLR 2022: spurious / explanations / normalization / counterfactual
 
 - Topic ID: `15`
-- Papers: **22** (2.01%)
+- Papers: **21** (1.98%)
 - Macro topic: 计算机视觉
-- English keywords: `contrastive / self-supervised / collapse / distillation`
-- Keyword pool: contrastive; self-supervised; collapse; distillation; negative; samples; pre-training; pairs; feature kernel; auxiliary information; downstream; image-text
+- English keywords: `spurious / explanations / normalization / counterfactual`
+- Keyword pool: spurious; explanations; normalization; counterfactual; attribute; cues; visual; interpretability; perceptual; images; concepts; dissect
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Zero-CL: Instance and Feature decorrelation for negative-free symmetric contrastive learning
-- Incremental False Negative Detection for Contrastive Learning
-- Prototypical Contrastive Predictive Coding
-- The Close Relationship Between Contrastive Learning and Meta-Learning
-- Chaos is a Ladder: A New Theoretical Understanding of Contrastive Learning via Augmentation Overlap
+- Do Users Benefit From Interpretable Vision? A User Study, Baseline, And Dataset
+- Measuring the Interpretability of Unsupervised Representations via Quantized Reversed Probing
+- Consistent Counterfactuals for Deep Models
+- Visual Representation Learning Does Not Generalize Strongly Within the Same Domain
+- Salient ImageNet: How to discover spurious features in Deep Learning?
 
 ## Papers
 
-<a id="paper-ebs-3yiail"></a>
-1. [Analyzing and Improving the Optimization Landscape of Noise-Contrastive Estimation](https://openreview.net/forum?id=eBS-3YiaIL-)
-   - Bingbin Liu, Elan Rosenfeld, Pradeep Kumar Ravikumar, Andrej Risteski; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n0ujgwdw21d"></a>
-2. [Bag of Instances Aggregation Boosts Self-supervised Distillation](https://openreview.net/forum?id=N0uJGWDw21d)
-   - Haohang Xu, Jiemin Fang, XIAOPENG ZHANG, Lingxi Xie, Xinggang Wang, Wenrui Dai, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ecvgmyvyeuz"></a>
-3. [Chaos is a Ladder: A New Theoretical Understanding of Contrastive Learning via Augmentation Overlap](https://openreview.net/forum?id=ECvgmYVyeUz)
-   - Yifei Wang, Qi Zhang, Yisen Wang, Jiansheng Yang, Zhouchen Lin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hbtfcx2plq0"></a>
-4. [Churn Reduction via Distillation](https://openreview.net/forum?id=HbtFCX2PLq0)
-   - Heinrich Jiang, Harikrishna Narasimhan, Dara Bahri, Andrew Cotter, Afshin Rostamizadeh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-aajlbogt0xm"></a>
-5. [Conditional Contrastive Learning with Kernel](https://openreview.net/forum?id=AAJLBoGt0XM)
-   - Yao-Hung Hubert Tsai, Tianqin Li, Martin Q. Ma, Han Zhao, Kun Zhang, Louis-Philippe Morency, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-g89-1yzlfhk"></a>
-6. [Data Efficient Language-Supervised Zero-Shot Recognition with Optimal Transport Distillation](https://openreview.net/forum?id=G89-1yZLFHk)
-   - Bichen Wu, Ruizhe Cheng, Peizhao Zhang, Tianren Gao, Joseph E. Gonzalez, Peter Vajda; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-gklaafiyti"></a>
-7. [Equivariant Self-Supervised Learning: Encouraging Equivariance in Representations](https://openreview.net/forum?id=gKLAAfiytI)
-   - Rumen Dangovski, Li Jing, Charlotte Loh, Seungwook Han, Akash Srivastava, Brian Cheung, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tbiqevapzk5"></a>
-8. [Feature Kernel Distillation](https://openreview.net/forum?id=tBIQEvApZK5)
-   - Bobby He, Mete Ozay; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bwq6o4cwdl"></a>
-9. [How Does SimSiam Avoid Collapse Without Negative Samples? A Unified Understanding with Self-supervised Contrastive Learning](https://openreview.net/forum?id=bwq6O4Cwdl)
-   - Chaoning Zhang, Kang Zhang, Chenshuang Zhang, Trung X. Pham, Chang D. Yoo, In So Kweon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ddjskka5tp1"></a>
-10. [Incremental False Negative Detection for Contrastive Learning](https://openreview.net/forum?id=dDjSKKA5TP1)
-   - Tsai-Shien Chen, Wei-Chih Hung, Hung-Yu Tseng, Shao-Yi Chien, Ming-Hsuan Yang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mswefaztwke"></a>
-11. [Learning Weakly-supervised Contrastive Representations](https://openreview.net/forum?id=MSwEFaztwkE)
-   - Yao-Hung Hubert Tsai, Tianqin Li, Weixin Liu, Peiyuan Liao, Ruslan Salakhutdinov, Louis-Philippe Morency; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ehyjzy6e1gj"></a>
-12. [PiCO: Contrastive Label Disambiguation for Partial Label Learning](https://openreview.net/forum?id=EhYjZy6e1gJ)
-   - Haobo Wang, Ruixuan Xiao, Yixuan Li, Lei Feng, Gang Niu, Gang Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8la28hzowug"></a>
-13. [Prototypical Contrastive Predictive Coding](https://openreview.net/forum?id=8la28hZOwug)
-   - Kyungmin Lee; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jjcv9mtqhcq"></a>
-14. [Rethinking Supervised Pre-Training for Better Downstream Transferring](https://openreview.net/forum?id=Jjcv9MTqhcq)
-   - Yutong Feng, Jianwen Jiang, Mingqian Tang, Rong Jin, Yue Gao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-cuv-qykmkb3"></a>
-15. [Scarf: Self-Supervised Contrastive Learning using Random Feature Corruption](https://openreview.net/forum?id=CuV_qYkmKb3)
-   - Dara Bahri, Heinrich Jiang, Yi Tay, Donald Metzler; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zuqcmnvk4c2"></a>
-16. [Self-Joint Supervised Learning](https://openreview.net/forum?id=zuqcmNVK4c2)
-   - Navid Kardan, Mubarak Shah, Mitch Hill; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-odfvtxzpox"></a>
-17. [Self-Supervision Enhanced Feature Selection with Correlated Gates](https://openreview.net/forum?id=oDFvtxzPOx)
-   - Changhee Lee, Fergus Imrie, Mihaela van der Schaar; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-zq1ijknk3un"></a>
-18. [Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm](https://openreview.net/forum?id=zq1iJkNk3uN)
-   - Yangguang Li, Feng Liang, Lichen Zhao, Yufeng Cui, Wanli Ouyang, Jing Shao, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-gicys3itsmj"></a>
-19. [The Close Relationship Between Contrastive Learning and Meta-Learning](https://openreview.net/forum?id=gICys3ITSmj)
-   - Renkun Ni, Manli Shu, Hossein Souri, Micah Goldblum, Tom Goldstein; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yevsq05den7"></a>
-20. [Understanding Dimensional Collapse in Contrastive Self-supervised Learning](https://openreview.net/forum?id=YevsQ05DEN7)
-   - Li Jing, Pascal Vincent, Yann LeCun, Yuandong Tian; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xm6yd62d1ub"></a>
-21. [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://openreview.net/forum?id=xm6YD62D1Ub)
-   - Adrien Bardes, Jean Ponce, Yann LeCun; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-raw9tcdvxlj"></a>
-22. [Zero-CL: Instance and Feature decorrelation for negative-free symmetric contrastive learning](https://openreview.net/forum?id=RAW9tCdVxLj)
-   - Shaofeng Zhang, Feng Zhu, Junchi Yan, Rui Zhao, Xiaokang Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-st6eyitehng"></a>
+1. [Consistent Counterfactuals for Deep Models](https://openreview.net/forum?id=St6eyiTEHnG)
+   - Emily Black, Zifan Wang, Matt Fredrikson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qy79g8jgsep"></a>
+2. [DISSECT: Disentangled Simultaneous Explanations via Concept Traversals](https://openreview.net/forum?id=qY79G8jGsep)
+   - Asma Ghandeharioun, Been Kim, Chun-Liang Li, Brendan Jou, Brian Eoff, Rosalind Picard; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-aox3a9q3rvv"></a>
+3. [Divisive Feature Normalization Improves Image Recognition Performance in AlexNet](https://openreview.net/forum?id=aOX3a9q3RVV)
+   - Michelle Miller, SueYeon Chung, Kenneth D. Miller; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-v6s3hvjperv"></a>
+4. [Do Users Benefit From Interpretable Vision? A User Study, Baseline, And Dataset](https://openreview.net/forum?id=v6s3HVjPerv)
+   - Leon Sixt, Martin Schuessler, Oana-Iuliana Popescu, Philipp Weiß, Tim Landgraf; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fpcmqji0jxn"></a>
+5. [Domino: Discovering Systematic Errors with Cross-Modal Embeddings](https://openreview.net/forum?id=FPCMqjI0jXN)
+   - Sabri Eyuboglu, Maya Varma, Khaled Kamal Saab, Jean-Benoit Delbrouck, Christopher Lee-Messer, Jared Dunnmon, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-slz5szjacp"></a>
+6. [Evaluating Disentanglement of Structured Representations](https://openreview.net/forum?id=SLz5sZjacp)
+   - Raphaël Dang-Nhu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-45mr7lekr9"></a>
+7. [Explanations of Black-Box Models based on Directional Feature Interactions](https://openreview.net/forum?id=45Mr7LeKR9)
+   - Aria Masoomi, Davin Hill, Zhonghui Xu, Craig P Hersh, Edwin K. Silverman, Peter J. Castaldi, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fqtlgi2qzqe"></a>
+8. [Fast Generic Interaction Detection for Model Interpretability and Compression](https://openreview.net/forum?id=fQTlgI2qZqE)
+   - Tianjian Zhang, Feng Yin, Zhi-Quan Luo; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-1l0c5rotfp"></a>
+9. [Filtered-CoPhy: Unsupervised Learning of Counterfactual Physics in Pixel Space](https://openreview.net/forum?id=1L0C5ROtFp)
+   - Steeven JANNY, Fabien Baradel, Natalia Neverova, Madiha Nadri, Greg Mori, Christian Wolf; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-yep-zx9vqnm"></a>
+10. [Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks](https://openreview.net/forum?id=yeP_zx9vqNm)
+   - Anne Harrington, Arturo Deza; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-j3krplz-4w6"></a>
+11. [Fooling Explanations in Text Classifiers](https://openreview.net/forum?id=j3krplz_4w6)
+   - Adam Ivankay, Ivan Girardi, Chiara Marchiori, Pascal Frossard; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-hfptzdwn39"></a>
+12. [Measuring the Interpretability of Unsupervised Representations via Quantized Reversed Probing](https://openreview.net/forum?id=HFPTzdwN39)
+   - Iro Laina, Yuki M Asano, Andrea Vedaldi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8uz0ewpqimu"></a>
+13. [On the Pitfalls of Analyzing Individual Neurons in Language Models](https://openreview.net/forum?id=8uz0EWPQIMu)
+   - Omer Antverg, Yonatan Belinkov; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-zxm0b4hi5-b"></a>
+14. [On the relation between statistical learning and perceptual distances](https://openreview.net/forum?id=zXM0b4hi5_B)
+   - Alexander Hepburn, Valero Laparra, Raul Santos-Rodriguez, Jona Ballé, Jesus Malo; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xnovfccvdpm"></a>
+15. [Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation](https://openreview.net/forum?id=xNOVfCCvDpM)
+   - Julius Adebayo, Michael Muelly, Harold Abelson, Been Kim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xvpqlynxsyh"></a>
+16. [Salient ImageNet: How to discover spurious features in Deep Learning?](https://openreview.net/forum?id=XVPqLyNxSyh)
+   - Sahil Singla, Soheil Feizi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hfuycrbeqc"></a>
+17. [Selective Ensembles for Consistent Predictions](https://openreview.net/forum?id=HfUyCRBeQc)
+   - Emily Black, Klas Leino, Matt Fredrikson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-f9xporqyx9"></a>
+18. [Spread Spurious Attribute: Improving Worst-group Accuracy with Spurious Attribute Estimation](https://openreview.net/forum?id=_F9xpOrqyX9)
+   - Junhyun Nam, Jaehyung Kim, Jaeho Lee, Jinwoo Shin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-c-vsgweijar"></a>
+19. [Trivial or Impossible --- dichotomous data difficulty masks model differences (on ImageNet and beyond)](https://openreview.net/forum?id=C_vsGwEIjAr)
+   - Kristof Meding, Luca M. Schulze Buschoff, Robert Geirhos, Felix A. Wichmann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9ruhplladgh"></a>
+20. [Visual Representation Learning Does Not Generalize Strongly Within the Same Domain](https://openreview.net/forum?id=9RUHPlladgh)
+   - Lukas Schott, Julius Von Kügelgen, Frederik Träuble, Peter Vincent Gehler, Chris Russell, Matthias Bethge, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-qrdqi3ocgr3"></a>
+21. [Which Shortcut Cues Will DNNs Choose? A Study from the Parameter-Space Perspective](https://openreview.net/forum?id=qRDQi3ocgR3)
+   - Luca Scimeca, Seong Joon Oh, Sanghyuk Chun, Michael Poli, Sangdoo Yun; assignment: `hdbscan`; source: `OpenReview`

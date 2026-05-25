@@ -1,44 +1,47 @@
-# ICLR 2023: meta-learning / contrastive / periodic / sensitive attributes
+# ICLR 2023: feature / extractor / anomaly / fine-tuning
 
 - Topic ID: `79`
-- Papers: **8** (0.51%)
-- Macro topic: 其他/交叉主题
-- English keywords: `meta-learning / contrastive / periodic / sensitive attributes`
-- Keyword pool: meta-learning; contrastive; periodic; sensitive attributes; self-supervised learning; ssl; tree; representation learning; views; unsupervised; partial; annotated
+- Papers: **9** (0.59%)
+- Macro topic: 计算机视觉
+- English keywords: `feature / extractor / anomaly / fine-tuning`
+- Keyword pool: feature; extractor; anomaly; fine-tuning; finetuning; pretrained; simplicity bias; adaptation; pre-trained; distortion; few-shot; protocols
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Self-Supervised Set Representation Learning for Unsupervised Meta-Learning
-- Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning
-- Simplicial Embeddings in Self-Supervised Learning and Downstream Classification
-- Contrastive Meta-Learning for Partially Observable Few-Shot Learning
-- Learning Structured Representations by Embedding Class Hierarchy
+- A Closer Look at Model Adaptation using Feature Distortion and Simplicity Bias
+- Surgical Fine-Tuning Improves Adaptation to Distribution Shifts
+- Revisit Finetuning strategy for Few-Shot Learning to Transfer the Emdeddings
+- How to prepare your task head for finetuning
+- Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation
 
 ## Papers
 
-<a id="paper-6ivjotr2zl2"></a>
-1. [Contrastive Meta-Learning for Partially Observable Few-Shot Learning](https://openreview.net/forum?id=6iVJOtr2zL2)
-   - Adam Jelley, Amos Storkey, Antreas Antoniou, Sam Devlin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-woa783qmul"></a>
-2. [Fairness-aware Contrastive Learning with Partially Annotated Sensitive Attributes](https://openreview.net/forum?id=woa783QMul)
-   - Fengda Zhang, Kun Kuang, Long Chen, Yuxuan Liu, Chao Wu, Jun Xiao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7j-30ilauzm"></a>
-3. [Learning Structured Representations by Embedding Class Hierarchy](https://openreview.net/forum?id=7J-30ilaUZM)
-   - Siqi Zeng, Remi Tachet des Combes, Han Zhao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kiax30hyi-p"></a>
-4. [Self-Supervised Set Representation Learning for Unsupervised Meta-Learning](https://openreview.net/forum?id=kIAx30hYi_p)
-   - Dong Bok Lee, Seanie Lee, Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ekpmeev0hoo"></a>
-5. [SimPer: Simple Self-Supervised Learning of Periodic Targets](https://openreview.net/forum?id=EKpMeEV0hOo)
-   - Yuzhe Yang, Xin Liu, Jiang Wu, Silviu Borac, Dina Katabi, Ming-Zher Poh, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rwtgrerpovs"></a>
-6. [Simplicial Embeddings in Self-Supervised Learning and Downstream Classification](https://openreview.net/forum?id=RWtGreRpovS)
-   - Samuel Lavoie, Christos Tsirigotis, Max Schwarzer, Ankit Vani, Michael Noukhovitch, Kenji Kawaguchi, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ph5cjsfd2xn"></a>
-7. [Unbiased Supervised Contrastive Learning](https://openreview.net/forum?id=Ph5cJSfD2XN)
-   - Carlo Alberto Barbano, Benoit Dufumier, Enzo Tartaglione, Marco Grangetto, Pietro Gori; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tdtggj7fyyj"></a>
-8. [Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning](https://openreview.net/forum?id=TdTGGj7fYYJ)
-   - Huiwon Jang, Hankook Lee, Jinwoo Shin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wkg-b4-iwtz"></a>
+1. [A Closer Look at Model Adaptation using Feature Distortion and Simplicity Bias](https://openreview.net/forum?id=wkg_b4-IwTZ)
+   - Puja Trivedi, Danai Koutra, Jayaraman J. Thiagarajan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6t0kwf8-jrj"></a>
+2. [Editing models with task arithmetic](https://openreview.net/forum?id=6t0Kwf8-jrj)
+   - Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zh9gcz3zgxu"></a>
+3. [Feature Reconstruction From Outputs Can Mitigate Simplicity Bias in Neural Networks](https://openreview.net/forum?id=zH9GcZ3ZGXu)
+   - Sravanti Addepalli, Anshul Nasery, Venkatesh Babu Radhakrishnan, Praneeth Netrapalli, Prateek Jain; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gvoxzproe-e"></a>
+4. [How to prepare your task head for finetuning](https://openreview.net/forum?id=gVOXZproe-e)
+   - Yi Ren, Shangmin Guo, Wonho Bae, Danica J. Sutherland; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5ind3txjrb"></a>
+5. [Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation](https://openreview.net/forum?id=5IND3TXJRb-)
+   - Mohit Sharma, Claudio Fantacci, Yuxiang Zhou, Skanda Koppula, Nicolas Heess, Jon Scholz, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xzmqxhdzawo"></a>
+6. [Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore](https://openreview.net/forum?id=xzmqxHdZAwO)
+   - Guoyang Xie, Jinbao Wang, Jiaqi Liu, Yaochu Jin, Feng Zheng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-txc-rixhmx"></a>
+7. [Revisit Finetuning strategy for Few-Shot Learning to Transfer the Emdeddings](https://openreview.net/forum?id=tXc-riXhmx)
+   - Heng Wang, Tan Yue, Xiang Ye, Zihang He, Bohan Li, Yong Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cguvk3u09lh"></a>
+8. [Suppressing the Heterogeneity: A Strong Feature Extractor for Few-shot Segmentation](https://openreview.net/forum?id=CGuvK3U09LH)
+   - Zhengdong Hu, Yifan Sun, Yi Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-apuprxjhvz"></a>
+9. [Surgical Fine-Tuning Improves Adaptation to Distribution Shifts](https://openreview.net/forum?id=APuPRxjHvZ)
+   - Yoonho Lee, Annie S Chen, Fahim Tajwar, Ananya Kumar, Huaxiu Yao, Percy Liang, et al.; assignment: `hdbscan`; source: `OpenReview`

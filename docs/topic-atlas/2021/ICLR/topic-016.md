@@ -1,80 +1,80 @@
-# ICLR 2021: 强化学习策略与奖励建模
+# ICLR 2021: 凸/非凸优化理论
 
 - Topic ID: `16`
 - Papers: **20** (2.33%)
-- Macro topic: 强化学习/决策
-- English keywords: `reinforcement learning / planning / agent / reward`
-- Keyword pool: reinforcement learning; planning; agent; reward; intrinsic; exploration; environment; model-based; goals; reaching; policy; goal-conditioned
+- Macro topic: 系统/效率/压缩
+- English keywords: `flows / binary / normalizing / transport`
+- Keyword pool: flows; binary; normalizing; transport; convex; optimal; generative; discrepancy; integer; invertible; discrete; persistence
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Learning to Reach Goals via Iterated Supervised Learning
-- Learning with AMIGo: Adversarially Motivated Intrinsic Goals
-- Latent Skill Planning for Exploration and Transfer
-- C-Learning: Learning to Achieve Goals via Recursive Classification
-- Planning from Pixels using Inverse Dynamics Models
+- Convex Potential Flows: Universal Probability Distributions with Optimal Transport and Convex Optimization
+- Wasserstein-2 Generative Networks
+- Distributional Sliced-Wasserstein and Applications to Generative Modeling
+- Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks
+- IDF++: Analyzing and Improving Integer Discrete Flows for Lossless Compression
 
 ## Papers
 
-<a id="paper-8xlkv08d70t"></a>
-1. [Adaptive Procedural Task Generation for Hard-Exploration Problems](https://openreview.net/forum?id=8xLkv08d70T)
-   - Kuan Fang, Yuke Zhu, Silvio Savarese, L. Fei-Fei; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w3wf-wkmqm9"></a>
-2. [C-Learning: Horizon-Aware Cumulative Accessibility Estimation](https://openreview.net/forum?id=W3Wf_wKmqm9)
-   - Panteha Naderian, Gabriel Loaiza-Ganem, Harry J. Braviner, Anthony L. Caterini, Jesse C. Cresswell, Tong Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tc5qisob-c"></a>
-3. [C-Learning: Learning to Achieve Goals via Recursive Classification](https://openreview.net/forum?id=tc5qisoB-C)
-   - Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-u2ynjpcqlwq"></a>
-4. [Efficient Empowerment Estimation for Unsupervised Stabilization](https://openreview.net/forum?id=u2YNJPcQlwq)
-   - Ruihan Zhao, Kevin Lu, Pieter Abbeel, Stas Tiomkin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jxe91kq3jaq"></a>
-5. [Latent Skill Planning for Exploration and Transfer](https://openreview.net/forum?id=jXe91kq3jAq)
-   - Kevin Xie, Homanga Bharadhwaj, Danijar Hafner, Animesh Garg, Florian Shkurti; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rala0xo6ynj"></a>
-6. [Learning to Reach Goals via Iterated Supervised Learning](https://openreview.net/forum?id=rALA0Xo6yNJ)
-   - Dibya Ghosh, Abhishek Gupta, Ashwin Reddy, Justin Fu, Coline Manon Devin, Benjamin Eysenbach, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-etbc-mimgox"></a>
-7. [Learning with AMIGo: Adversarially Motivated Intrinsic Goals](https://openreview.net/forum?id=ETBc_MIMgoX)
-   - Andres Campero, Roberta Raileanu, Heinrich Kuttler, Joshua B. Tenenbaum, Tim Rocktäschel, Edward Grefenstette; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ucoxdfrorc"></a>
-8. [Model-Based Visual Planning with Self-Supervised Functional Distances](https://openreview.net/forum?id=UcoXdfrORC)
-   - Stephen Tian, Suraj Nair, Frederik Ebert, Sudeep Dasari, Benjamin Eysenbach, Chelsea Finn, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-otheq8i5v1"></a>
-9. [Mutual Information State Intrinsic Control](https://openreview.net/forum?id=OthEq8I5v1)
-   - Rui Zhao, Yang Gao, Pieter Abbeel, Volker Tresp, Wei Xu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-irm64dgb21"></a>
-10. [On the role of planning in model-based deep reinforcement learning](https://openreview.net/forum?id=IrM64DGB21)
-   - Jessica B Hamrick, Abram L. Friesen, Feryal Behbahani, Arthur Guez, Fabio Viola, Sims Witherspoon, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w2z2owvnek"></a>
-11. [Plan-Based Relaxed Reward Shaping for Goal-Directed Tasks](https://openreview.net/forum?id=w2Z2OwVNeK)
-   - Ingmar Schubert, Ozgur S Oguz, Marc Toussaint; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-v6bjbgku7ro"></a>
-12. [Planning from Pixels using Inverse Dynamics Models](https://openreview.net/forum?id=V6BjBgku7Ro)
-   - Keiran Paster, Sheila A. McIlraith, Jimmy Ba; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mtee0cktzht"></a>
-13. [Rank the Episodes: A Simple Approach for Exploration in Procedurally-Generated Environments](https://openreview.net/forum?id=MtEE0CktZht)
-   - Daochen Zha, Wenye Ma, Lei Yuan, Xia Hu, Ji Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-f-mvpfpn-0q"></a>
-14. [Rapid Task-Solving in Novel Environments](https://openreview.net/forum?id=F-mvpFpn_0q)
-   - Samuel Ritter, Ryan Faulkner, Laurent Sartran, Adam Santoro, Matthew Botvinick, David Raposo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-higsa-3kox3"></a>
-15. [Reset-Free Lifelong Learning with Skill-Space Planning](https://openreview.net/forum?id=HIGSa_3kOx3)
-   - Kevin Lu, Aditya Grover, Pieter Abbeel, Igor Mordatch; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-cpzoyodloxl"></a>
-16. [SMiRL: Surprise Minimizing Reinforcement Learning in Unstable Environments](https://openreview.net/forum?id=cPZOyoDloxl)
-   - Glen Berseth, Daniel Geng, Coline Manon Devin, Nicholas Rhinehart, Chelsea Finn, Dinesh Jayaraman, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9ss69kwomam"></a>
-17. [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM)
-   - Yunfei Li, Yilin Wu, Huazhe Xu, Xiaolong Wang, Yi Wu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cgq6enumx6"></a>
-18. [Task-Agnostic Morphology Evolution](https://openreview.net/forum?id=CGQ6ENUMX6)
-   - Donald Joseph Hejna III, Pieter Abbeel, Lerrel Pinto; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-onbphfz7zg4"></a>
-19. [Temporally-Extended ε-Greedy Exploration](https://openreview.net/forum?id=ONBPHFZ7zG4)
-   - Will Dabney, Georg Ostrovski, Andre Barreto; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-p0p33rgyoe"></a>
-20. [Variational Intrinsic Control Revisited](https://openreview.net/forum?id=P0p33rgyoE)
-   - Taehwan Kwon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zk6vtvb84s"></a>
+1. [A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention](https://openreview.net/forum?id=ZK6vTvb84s)
+   - Grégoire Mialon, Dexiong Chen, Alexandre d'Aspremont, Julien Mairal; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9qlrcvysdlo"></a>
+2. [BiPointNet: Binary Neural Network for Point Clouds](https://openreview.net/forum?id=9QLRCVysdlO)
+   - Haotong Qin, Zhongang Cai, Mingyuan Zhang, Yifu Ding, Haiyu Zhao, Shuai Yi, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-glnzevduik"></a>
+3. [Categorical Normalizing Flows via Continuous Transformations](https://openreview.net/forum?id=-GLNZeVDuik)
+   - Phillip Lippe, Efstratios Gavves; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-l0v53bernib"></a>
+4. [Combining Physics and Machine Learning for Network Flow Estimation](https://openreview.net/forum?id=l0V53bErniB)
+   - Arlei Lopes da Silva, Furkan Kocayusufoglu, Saber Jafarpour, Francesco Bullo, Ananthram Swami, Ambuj Singh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3tfas5e-pe"></a>
+5. [Continuous Wasserstein-2 Barycenter Estimation without Minimax Optimization](https://openreview.net/forum?id=3tFAs5E-Pe)
+   - Alexander Korotin, Lingxiao Li, Justin Solomon, Evgeny Burnaev; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-te7pvh1spxj"></a>
+6. [Convex Potential Flows: Universal Probability Distributions with Optimal Transport and Convex Optimization](https://openreview.net/forum?id=te7PVH1sPxJ)
+   - Chin-Wei Huang, Ricky T. Q. Chen, Christos Tsirigotis, Aaron Courville; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qyjo70acdk"></a>
+7. [Distributional Sliced-Wasserstein and Applications to Generative Modeling](https://openreview.net/forum?id=QYjO70ACDK)
+   - Khai Nguyen, Nhat Ho, Tung Pham, Hung Bui; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mxay4fzota"></a>
+8. [High-Capacity Expert Binary Networks](https://openreview.net/forum?id=MxaY4FzOTa)
+   - Adrian Bulat, Brais Martinez, Georgios Tzimiropoulos; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mboyinnythd"></a>
+9. [IDF++: Analyzing and Improving Integer Discrete Flows for Lossless Compression](https://openreview.net/forum?id=MBOyiNnYthd)
+   - Rianne van den Berg, Alexey A. Gritsenko, Mostafa Dehghani, Casper Kaae Sønderby, Tim Salimans; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8ps8m9oytny"></a>
+10. [Implicit Normalizing Flows](https://openreview.net/forum?id=8PS8m9oYtNy)
+   - Cheng Lu, Jianfei Chen, Chongxuan Li, Qiuhao Wang, Jun Zhu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-diqd7fwl233"></a>
+11. [Improving Relational Regularized Autoencoders with Spherical Sliced Fused Gromov Wasserstein](https://openreview.net/forum?id=DiQD7FWL233)
+   - Khai Nguyen, Son Nguyen, Nhat Ho, Tung Pham, Hung Bui; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yqpnirhhtzv"></a>
+12. [Learning Hyperbolic Representations of Topological Features](https://openreview.net/forum?id=yqPnIRhHtZv)
+   - Panagiotis Kyriakis, Iordanis Fostiropoulos, Paul Bogdan; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ke3vd639urw"></a>
+13. [LiftPool: Bidirectional ConvNet Pooling](https://openreview.net/forum?id=kE3vd639uRW)
+   - Jiaojiao Zhao, Cees G. M. Snoek; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-u-mat0b9iv"></a>
+14. [Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network](https://openreview.net/forum?id=U_mat0b9iv)
+   - James Diffenderfer, Bhavya Kailkhura; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6brlofrmhw"></a>
+15. [Partitioned Learned Bloom Filters](https://openreview.net/forum?id=6BRLOfrMhW)
+   - Kapil Vaidya, Eric Knorr, Michael Mitzenmacher, Tim Kraska; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-steojib4ur"></a>
+16. [Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks](https://openreview.net/forum?id=sTeoJiB4uR)
+   - Thomas Bird, Friso Kingma, David Barber; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hajqfbx-yb"></a>
+17. [Scalable Learning and MAP Inference for Nonsymmetric Determinantal Point Processes](https://openreview.net/forum?id=HajQFbx_yB)
+   - Mike Gartrell, Insu Han, Elvis Dohmatob, Jennifer Gillenwater, Victor-Emmanuel Brunel; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-t0takv0gx6z"></a>
+18. [Sliced Kernelized Stein Discrepancy](https://openreview.net/forum?id=t0TaKv0Gx6Z)
+   - Wenbo Gong, Yingzhen Li, José Miguel Hernández-Lobato; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lggdb4ts4z"></a>
+19. [Topology-Aware Segmentation Using Discrete Morse Theory](https://openreview.net/forum?id=LGgdb4TS4Z)
+   - Xiaoling Hu, Yusu Wang, Li Fuxin, Dimitris Samaras, Chao Chen; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-beoxzw-exsa"></a>
+20. [Wasserstein-2 Generative Networks](https://openreview.net/forum?id=bEoxzW_EXsa)
+   - Alexander Korotin, Vage Egiazarian, Arip Asadulaev, Alexander Safin, Evgeny Burnaev; assignment: `hdbscan`; source: `OpenReview`

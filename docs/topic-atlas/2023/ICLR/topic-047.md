@@ -1,65 +1,65 @@
-# ICLR 2023: 多模态学习与跨模态理解
+# ICLR 2023: 强化学习策略与奖励建模
 
 - Topic ID: `47`
-- Papers: **15** (0.95%)
-- Macro topic: 多模态/VLM
-- English keywords: `reasoning / visual / scene / symbol`
-- Keyword pool: reasoning; visual; scene; symbol; concepts; laws; abstract; multimodal; grounding; schema; semantics; logical
+- Papers: **15** (0.98%)
+- Macro topic: 强化学习/决策
+- English keywords: `reinforcement learning / regret / reward-free / sample complexity`
+- Keyword pool: reinforcement learning; regret; reward-free; sample complexity; policy; mdps; function approximation; exploration; learning rl; linear; cvar; constraint
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- A Minimalist Dataset for Systematic Generalization of Perception, Syntax, and Semantics
-- GAMR: A Guided Attention Model for (visual) Reasoning
-- Learning to reason over visual objects
-- Learning where and when to reason in neuro-symbolic inference
-- Analogy-Forming Transformers for Few-Shot 3D Parsing
+- Towards Minimax Optimal Reward-free Reinforcement Learning in Linear MDPs
+- Improved Sample Complexity for Reward-free Reinforcement Learning under Low-rank MDPs
+- A General Framework for Sample-Efficient Function Approximation in Reinforcement Learning
+- Achieving Sub-linear Regret in Infinite Horizon Average Reward Constrained MDP with Linear Function Approximation
+- Near-Optimal Deployment Efficiency in Reward-Free Reinforcement Learning with Linear Function Approximation
 
 ## Papers
 
-<a id="paper-kipytuezuak"></a>
-1. [A Minimalist Dataset for Systematic Generalization of Perception, Syntax, and Semantics](https://openreview.net/forum?id=kIPyTuEZuAK)
-   - Qing Li, Siyuan Huang, Yining Hong, Yixin Zhu, Ying Nian Wu, Song-Chun Zhu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sriqzth0ik"></a>
-2. [Analogy-Forming Transformers for Few-Shot 3D Parsing](https://openreview.net/forum?id=SRIQZTh0IK)
-   - Nikolaos Gkanatsios, Mayank Singh, Zhaoyuan Fang, Shubham Tulsiani, Katerina Fragkiadaki; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hvojcrlbyvk"></a>
-3. [Can Neural Networks Learn Implicit Logic from Physical Reasoning?](https://openreview.net/forum?id=HVoJCRLByVk)
-   - Aaron Traylor, Roman Feiman, Ellie Pavlick; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-peuxuximlla"></a>
-4. [Compositional Law Parsing with Latent Random Functions](https://openreview.net/forum?id=PEuxUXIMLlA)
-   - Fan Shi, Bin Li, Xiangyang Xue; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-deg07-tczvt"></a>
-5. [Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task](https://openreview.net/forum?id=DeG07_TcZvT)
-   - Kenneth Li, Aspen K Hopkins, David Bau, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ilmgk2ignyv"></a>
-6. [GAMR: A Guided Attention Model for (visual) Reasoning](https://openreview.net/forum?id=iLMgk2IGNyv)
-   - Mohit Vaishnav, Thomas Serre; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0f-0i6rfach"></a>
-7. [Improving Out-of-distribution Generalization with Indirection Representations](https://openreview.net/forum?id=0f-0I6RFAch)
-   - Kha Pham, Hung Le, Man Ngo, Truyen Tran; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ur6x8be7o-m"></a>
-8. [Learning to reason over visual objects](https://openreview.net/forum?id=uR6x8Be7o_M)
-   - Shanka Subhra Mondal, Taylor Whittington Webb, Jonathan Cohen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-en9v5f8pr"></a>
-9. [Learning where and when to reason in neuro-symbolic inference](https://openreview.net/forum?id=en9V5F8PR-)
-   - Cristina Cornelio, Jan Stuehmer, Shell Xu Hu, Timothy Hospedales; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4rxmruojlai"></a>
-10. [Mind's Eye: Grounded Language Model Reasoning through Simulation](https://openreview.net/forum?id=4rXMRuoJlai)
-   - Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nrhajbzg8y0p"></a>
-11. [Multimodal Analogical Reasoning over Knowledge Graphs](https://openreview.net/forum?id=NRHajbzg8y0P)
-   - Ningyu Zhang, Lei Li, Xiang Chen, Xiaozhuan Liang, Shumin Deng, Huajun Chen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-rz-wyly5vi"></a>
-12. [Programmatically Grounded, Compositionally Generalizable Robotic Manipulation](https://openreview.net/forum?id=rZ-wylY5VI)
-   - Renhao Wang, Jiayuan Mao, Joy Hsu, Hang Zhao, Jiajun Wu, Yang Gao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-idjx97bc38"></a>
-13. [SQA3D: Situated Question Answering in 3D Scenes](https://openreview.net/forum?id=IDJx97BC38)
-   - Xiaojian Ma, Silong Yong, Zilong Zheng, Qing Li, Yitao Liang, Song-Chun Zhu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-vgi9dsmtgpf"></a>
-14. [Schema Inference for Interpretable Image Classification](https://openreview.net/forum?id=VGI9dSmTgPF)
-   - Haofei Zhang, Mengqi Xue, Xiaokang Liu, Kaixuan Chen, Jie Song, Mingli Song; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-htje5krui0g"></a>
-15. [Softened Symbol Grounding for Neuro-symbolic Systems](https://openreview.net/forum?id=HTJE5Krui0g)
-   - Zenan Li, Yuan Yao, Taolue Chen, Jingwei Xu, Chun Cao, Xiaoxing Ma, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mbxz9cjehr"></a>
+1. [A CMDP-within-online framework for Meta-Safe Reinforcement Learning](https://openreview.net/forum?id=mbxz9Cjehr)
+   - Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, Ming Jin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dqitipz5z4b"></a>
+2. [A General Framework for Sample-Efficient Function Approximation in Reinforcement Learning](https://openreview.net/forum?id=dqITIpZ5Z4b)
+   - Zixiang Chen, Chris Junchi Li, Huizhuo Yuan, Quanquan Gu, Michael Jordan; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-zzhx4eyneeh"></a>
+3. [Achieving Sub-linear Regret in Infinite Horizon Average Reward Constrained MDP with Linear Function Approximation](https://openreview.net/forum?id=zZhX4eYNeeh)
+   - Arnob Ghosh, Xingyu Zhou, Ness Shroff; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0wvnuenqvu"></a>
+4. [Deep Reinforcement Learning for Cost-Effective Medical Diagnosis](https://openreview.net/forum?id=0WVNuEnqVu)
+   - Zheng Yu, Yikuan Li, Joseph Chahn Kim, Kaixuan Huang, Yuan Luo, Mengdi Wang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-jpsw-kuoi7r"></a>
+5. [Improved Sample Complexity for Reward-free Reinforcement Learning under Low-rank MDPs](https://openreview.net/forum?id=jpsw-KuOi7r)
+   - Yuan Cheng, Ruiquan Huang, Yingbin Liang, Jing Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-svu54nyaa9k"></a>
+6. [Learning Adversarial Linear Mixture Markov Decision Processes with Bandit Feedback and Unknown Transition](https://openreview.net/forum?id=sVU54nyaA9K)
+   - Canzhe Zhao, Ruofeng Yang, Baoxiang Wang, Shuai Li; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ox3tgygjw1q"></a>
+7. [Minimum Description Length Control](https://openreview.net/forum?id=oX3tGygjW1q)
+   - Ted Moskovitz, Ta-Chu Kao, Maneesh Sahani, Matthew Botvinick; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-snwh0ddgl7"></a>
+8. [Near-Optimal Deployment Efficiency in Reward-Free Reinforcement Learning with Linear Function Approximation](https://openreview.net/forum?id=SNwH0dDGl7_)
+   - Dan Qiao, Yu-Xiang Wang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-20gbzezgtii"></a>
+9. [Performance Bounds for Model and Policy Transfer in Hidden-parameter MDPs](https://openreview.net/forum?id=20gBzEzgtiI)
+   - Haotian Fu, Jiayu Yao, Omer Gottesman, Finale Doshi-Velez, George Konidaris; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qd0p0bl-a9t"></a>
+10. [Provably Efficient Lifelong Reinforcement Learning with Linear Representation](https://openreview.net/forum?id=Qd0p0bl-A9t)
+   - Sanae Amani, Lin Yang, Ching-An Cheng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yn0xg-khnw"></a>
+11. [Provably Efficient Risk-Sensitive Reinforcement Learning: Iterated CVaR and Worst Path](https://openreview.net/forum?id=Yn0xg-kHNW-)
+   - Yihan Du, Siwei Wang, Longbo Huang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-o8vc52xfsur"></a>
+12. [Quasi-optimal Reinforcement Learning with Continuous Actions](https://openreview.net/forum?id=O8Vc52xFSUR)
+   - Yuhan Li, Wenzhuo Zhou, Ruoqing Zhu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rwzovybbj"></a>
+13. [Risk-Aware Reinforcement Learning with Coherent Risk Measures and Non-linear Function Approximation](https://openreview.net/forum?id=-RwZOVybbj)
+   - Thanh Lam, Arun Verma, Bryan Kian Hsiang Low, Patrick Jaillet; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wnugn1n6esq"></a>
+14. [Safe Exploration Incurs Nearly No Additional Sample Complexity for Reward-Free RL](https://openreview.net/forum?id=wNUgn1n6esQ)
+   - Ruiquan Huang, Jing Yang, Yingbin Liang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-u9hw6vynclg"></a>
+15. [Towards Minimax Optimal Reward-free Reinforcement Learning in Linear MDPs](https://openreview.net/forum?id=U9HW6vyNClg)
+   - Pihe Hu, Yu Chen, Longbo Huang; assignment: `hdbscan`; source: `OpenReview`

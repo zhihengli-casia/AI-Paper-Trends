@@ -1,113 +1,92 @@
-# ICLR 2023: PDE 神经求解器与科学计算
+# ICLR 2023: 图神经网络与图表示学习
 
 - Topic ID: `11`
-- Papers: **31** (1.97%)
-- Macro topic: 图学习/数据挖掘
-- English keywords: `pde / equations / differential / physical`
-- Keyword pool: pde; equations; differential; physical; dynamics; operator; ode; partial; dynamical; physics; nonlinear; fluid
+- Papers: **24** (1.57%)
+- Macro topic: AI4Science/医疗
+- English keywords: `molecular / molecules / drug / protein`
+- Keyword pool: molecular; molecules; drug; protein; binding; discovery; graph; generation; property prediction; gnn; energy; motif
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- A Stable and Scalable Method for Solving Initial Value PDEs with Neural Networks
-- Learning differentiable solvers for systems with hard constraints
-- Enhancing the Inductive Biases of Graph Neural ODE for Modeling Physical Systems
-- Evolve Smoothly, Fit Consistently: Learning Smooth Latent Dynamics For Advection-Dominated Systems
-- Anamnesic Neural Differential Equations with Orthogonal Polynomial Projections
+- Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design
+- Pre-training via Denoising for Molecular Property Prediction
+- 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction
+- Retrieval-based Controllable Molecule Generation
+- Molecule Generation For Target Protein Binding with Structural Motifs
 
 ## Papers
 
-<a id="paper-vsmyhuq-c1c"></a>
-1. [A Stable and Scalable Method for Solving Initial Value PDEs with Neural Networks](https://openreview.net/forum?id=vsMyHUq_C1c)
-   - Marc Anton Finzi, Andres Potapczynski, Matthew Choptuik, Andrew Gordon Wilson; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xywqsjbcgml"></a>
-2. [Anamnesic Neural Differential Equations with Orthogonal Polynomial Projections](https://openreview.net/forum?id=xYWqSjBcGMl)
-   - Edward De Brouwer, Rahul G Krishnan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kkpl4zuxtiw"></a>
-3. [Bi-level Physics-Informed Neural Networks for PDE Constrained Optimization using Broyden's Hypergradients](https://openreview.net/forum?id=kkpL4zUXtiw)
-   - Zhongkai Hao, Chengyang Ying, Hang Su, Jun Zhu, Jian Song, Ze Cheng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fuorz1tg8og"></a>
-4. [CROM: Continuous Reduced-Order Modeling of PDEs Using Implicit Neural Representations](https://openreview.net/forum?id=FUORz1tG8Og)
-   - Peter Yichen Chen, Jinxu Xiang, Dong Heon Cho, Yue Chang, G A Pershing, Henrique Teles Maia, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-loifc8whevk"></a>
-5. [Characteristic Neural Ordinary Differential Equation](https://openreview.net/forum?id=loIfC8WHevK)
-   - Xingzi Xu, Ali Hasan, Khalil Elkhalil, Jie Ding, Vahid Tarokh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-okwxl-c4x84"></a>
-6. [Clifford Neural Layers for PDE Modeling](https://openreview.net/forum?id=okwxL_c4x84)
-   - Johannes Brandstetter, Rianne van den Berg, Max Welling, Jayesh K Gupta; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-z9sij-im7tn"></a>
-7. [Competitive Physics Informed Networks](https://openreview.net/forum?id=z9SIj-IM7tn)
-   - Qi Zeng, Yash Kothari, Spencer H Bryngelson, Florian Tobias Schaefer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-b73ninjbps"></a>
-8. [Continuous PDE Dynamics Forecasting with Implicit Neural Representations](https://openreview.net/forum?id=B73niNjbPs)
-   - Yuan Yin, Matthieu Kirchmeyer, Jean-Yves Franceschi, Alain Rakotomamonjy, patrick gallinari; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kio-c6qmmom"></a>
-9. [Coupled Multiwavelet Operator Learning for Coupled Differential Equations](https://openreview.net/forum?id=kIo_C6QmMOM)
-   - Xiongye Xiao, Defu Cao, Ruochen Yang, Gaurav Gupta, Gengshuo Liu, Chenzhong Yin, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mfix4qpsarj"></a>
-10. [EAGLE: Large-scale Learning of Turbulent Fluid Dynamics with Mesh Transformers](https://openreview.net/forum?id=mfIX4QpsARJ)
-   - Steeven JANNY, Aurélien Bénéteau, Madiha Nadri, Julie Digne, Nicolas THOME, Christian Wolf; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kyovpyvwwnk"></a>
-11. [Efficient Certified Training and Robustness Verification of Neural ODEs](https://openreview.net/forum?id=KyoVpYvWWnK)
-   - Mustafa Zeqiri, Mark Niklas Mueller, Marc Fischer, Martin Vechev; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-atlel-izd87"></a>
-12. [Enhancing the Inductive Biases of Graph Neural ODE for Modeling Physical Systems](https://openreview.net/forum?id=ATLEl_izD87)
-   - Suresh Bishnoi, Ravinder Bhattoo, Jayadeva Jayadeva, Sayan Ranu, N M Anoop Krishnan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-z4s73sjyqm"></a>
-13. [Evolve Smoothly, Fit Consistently: Learning Smooth Latent Dynamics For Advection-Dominated Systems](https://openreview.net/forum?id=Z4s73sJYQM)
-   - Zhong Yi Wan, Leonardo Zepeda-Nunez, Anudhyan Boral, Fei Sha; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tlsckvhccr"></a>
-14. [FINDE: Neural Differential Equations for Finding and Preserving Invariant Quantities](https://openreview.net/forum?id=tLScKVhcCR)
-   - Takashi Matsubara, Takaharu Yaguchi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tmiimpl4ipa"></a>
-15. [Factorized Fourier Neural Operators](https://openreview.net/forum?id=tmIiMPl4IPa)
-   - Alasdair Tran, Alexander Mathews, Lexing Xie, Cheng Soon Ong; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gfwnitgoes6"></a>
-16. [Guiding continuous operator learning through Physics-based boundary constraints](https://openreview.net/forum?id=gfWNItGOES6)
-   - Nadim Saad, Gaurav Gupta, Shima Alizadeh, Danielle C. Maddix; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oaw6v3zahsd"></a>
-17. [HyperDeepONet: learning operator with complex target function space using the limited resources via hypernetwork](https://openreview.net/forum?id=OAw6V3ZAhSd)
-   - Jae Yong Lee, SungWoong CHO, Hyung Ju Hwang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-zqkfja6r1-r"></a>
-18. [Improved Training of Physics-Informed Neural Networks Using Energy-Based Priors: a Study on Electrical Impedance Tomography](https://openreview.net/forum?id=zqkfJA6R1-r)
-   - Akarsh Pokkunuru, Pedram Rooshenas, Thilo Strauss, Anuj Abhishek, Taufiquar Khan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-moilfzfj-1b"></a>
-19. [Latent Neural ODEs with Sparse Bayesian Multiple Shooting](https://openreview.net/forum?id=moIlFZfj_1b)
-   - Valerii Iakovlev, Cagatay Yildiz, Markus Heinonen, Harri Lähdesmäki; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pbfgkz2hdbe"></a>
-20. [Learning Controllable Adaptive Simulation for Multi-resolution Physics](https://openreview.net/forum?id=PbfgkZ2HdbE)
-   - Tailin Wu, Takashi Maruyama, Qingqing Zhao, Gordon Wetzstein, Jure Leskovec; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-f2wn4v-2-w"></a>
-21. [Learning Symbolic Models for Graph-structured Physical Mechanism](https://openreview.net/forum?id=f2wN4v_2__W)
-   - Hongzhi Shi, Jingtao Ding, Yufan Cao, quanming yao, Li Liu, Yong Li; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nywqxuwfc3x"></a>
-22. [Learning Vortex Dynamics for Fluid Inference and Prediction](https://openreview.net/forum?id=nYWqxUwFc3x)
-   - Yitong Deng, Hong-Xing Yu, Jiajun Wu, Bo Zhu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vdv6cmgksr0"></a>
-23. [Learning differentiable solvers for systems with hard constraints](https://openreview.net/forum?id=vdv6CmGksr0)
-   - Geoffrey Négiar, Michael W. Mahoney, Aditi Krishnapriyan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-apf0dmi1-9k"></a>
-24. [NTFields: Neural Time Fields for Physics-Informed Robot Motion Planning](https://openreview.net/forum?id=ApF0dmi1_9K)
-   - Ruiqi Ni, Ahmed H Qureshi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-d3qnwd-pcfv"></a>
-25. [Neural Lagrangian Schr\"{o}dinger Bridge: Diffusion Modeling for Population Dynamics](https://openreview.net/forum?id=d3QNWD_pcFv)
-   - Takeshi Koshizuka, Issei Sato; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-crfhzasjdsz"></a>
-26. [Nonlinear Reconstruction for Operator Learning of PDEs with Discontinuities](https://openreview.net/forum?id=CrfhZAsJDsZ)
-   - Samuel Lanthaler, Roberto Molinaro, Patrik Hadorn, Siddhartha Mishra; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-z9c5dgip90"></a>
-27. [Phase2vec: dynamical systems embedding with a physics-informed convolutional network](https://openreview.net/forum?id=z9C5dGip90)
-   - Matt Ricci, Noa Moriel, Zoe Piran, Mor Nitzan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8ms2ne-hxn"></a>
-28. [SYNC: SAFETY-AWARE NEURAL CONTROL FOR STABILIZING STOCHASTIC DELAY-DIFFERENTIAL EQUATIONS](https://openreview.net/forum?id=_8mS2NE-HXN)
-   - Jingdong Zhang, Qunxi Zhu, Wei Yang, Wei Lin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ztk3sefe8-z"></a>
-29. [Symbolic Physics Learner: Discovering governing equations via Monte Carlo tree search](https://openreview.net/forum?id=ZTK3SefE8_Z)
-   - Fangzheng Sun, Yang Liu, Jian-Xun Wang, Hao Sun; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-hnlczatopvr"></a>
-30. [Transformer Meets Boundary Value Inverse Problems](https://openreview.net/forum?id=HnlCZATopvr)
-   - Ruchi Guo, Shuhao Cao, Long Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jscuk9tbun"></a>
-31. [Uniform-in-time propagation of chaos for the mean-field gradient Langevin dynamics](https://openreview.net/forum?id=_JScUk9TBUn)
-   - Taiji Suzuki, Atsushi Nitanda, Denny Wu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5cffz6ymvpu"></a>
+1. [$\mathcal{O}$-GNN: incorporating ring priors into molecular modeling](https://openreview.net/forum?id=5cFfz6yMVPU)
+   - Jinhua Zhu, Kehan Wu, Bohan Wang, Yingce Xia, Shufang Xie, Qi Meng, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kjqxepxmse0"></a>
+2. [3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction](https://openreview.net/forum?id=kJqXEPXMsE0)
+   - Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-65xdf-nwi61"></a>
+3. [A Graph Neural Network Approach to Automated Model Building in Cryo-EM Maps](https://openreview.net/forum?id=65XDF_nwI61)
+   - Kiarash Jamali, Dari Kimanius, Sjors HW Scheres; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xvetehvlf7j"></a>
+4. [A Self-Attention Ansatz for Ab-initio Quantum Chemistry](https://openreview.net/forum?id=xveTeHVlF7j)
+   - Ingrid von Glehn, James S Spencer, David Pfau; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-socffuzsilx"></a>
+5. [Anisotropic Message Passing: Graph Neural Networks with Directional and Long-Range Interactions](https://openreview.net/forum?id=socffUzSIlx)
+   - Moritz Thürlemann, Sereina Riniker; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xrmwuueevr"></a>
+6. [Context-enriched molecule representations improve few-shot drug discovery](https://openreview.net/forum?id=XrMWUuEevr)
+   - Johannes Schimunek, Philipp Seidl, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-abwnqqsuot7"></a>
+7. [D4FT: A Deep Learning Approach to Kohn-Sham Density Functional Theory](https://openreview.net/forum?id=aBWnqqsuot7)
+   - Tianbo Li, Min Lin, Zheyuan Hu, Kunhao Zheng, Giovanni Vignale, Kenji Kawaguchi, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q-jexl8-qdi"></a>
+8. [De Novo Molecular Generation via Connection-aware Motif Mining](https://openreview.net/forum?id=Q_Jexl8-qDi)
+   - Zijie Geng, Shufang Xie, Yingce Xia, Lijun Wu, Tao Qin, Jie Wang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-kkf8-k-mbbs"></a>
+9. [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://openreview.net/forum?id=kKF8_K-mBbS)
+   - Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi S. Jaakkola; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-so1qiaftqfv"></a>
+10. [E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking](https://openreview.net/forum?id=sO1QiAftQFv)
+   - Yangtian Zhang, Huiyu Cai, Chence Shi, Jian Tang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-r0otltowyw"></a>
+11. [Equivariant Energy-Guided SDE for Inverse Molecular Design](https://openreview.net/forum?id=r0otLtOwYW)
+   - Fan Bao, Min Zhao, Zhongkai Hao, Peiyao Li, Chongxuan Li, Jun Zhu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4mbgnp4ipq"></a>
+12. [Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design](https://openreview.net/forum?id=4MbGnp4iPQ)
+   - Keir Adams, Connor W. Coley; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yo06f8kfma1"></a>
+13. [How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules](https://openreview.net/forum?id=Yo06F8kfMa1)
+   - Yutong Xie, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yscl-ng-i3"></a>
+14. [Learning Harmonic Molecular Representations on Riemannian Manifold](https://openreview.net/forum?id=ySCL-NG_I3)
+   - Yiqun Wang, Yuning Shen, Shi Chen, Lihao Wang, Fei YE, Hao Zhou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q9vherqjd8"></a>
+15. [Matching receptor to odorant with protein language and graph neural networks](https://openreview.net/forum?id=q9VherQJd8_)
+   - Matej Hladiš, Maxence Lalis, Sebastien Fiorucci, Jérémie Topin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kxrsh0sdvtp"></a>
+16. [Meta-learning Adaptive Deep Kernel Gaussian Processes for Molecular Property Prediction](https://openreview.net/forum?id=KXRSh0sdVTP)
+   - Wenlin Chen, Austin Tripp, José Miguel Hernández-Lobato; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jevy-dtiztr"></a>
+17. [Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules](https://openreview.net/forum?id=jevY-DtiZTR)
+   - Jun Xia, Chengshuai Zhao, Bozhen Hu, Zhangyang Gao, Cheng Tan, Yue Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cjthvo1dvr"></a>
+18. [Molecular Geometry Pretraining with SE(3)-Invariant Denoising Distance Matching](https://openreview.net/forum?id=CjTHVo1dvR)
+   - Shengchao Liu, Hongyu Guo, Jian Tang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rq13idf0f73"></a>
+19. [Molecule Generation For Target Protein Binding with Structural Motifs](https://openreview.net/forum?id=Rq13idF0F73)
+   - ZAIXI ZHANG, Yaosen Min, Shuxin Zheng, Qi Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vztp1opv3pc"></a>
+20. [One Transformer Can Understand Both 2D & 3D Molecular Data](https://openreview.net/forum?id=vZTp1oPV3PC)
+   - Shengjie Luo, Tianlang Chen, Yixian Xu, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tyimtogyee"></a>
+21. [Pre-training via Denoising for Molecular Property Prediction](https://openreview.net/forum?id=tYIMtogyee)
+   - Sheheryar Zaidi, Michael Schaarschmidt, James Martens, Hyunjik Kim, Yee Whye Teh, Alvaro Sanchez-Gonzalez, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vdfa1tpulvk"></a>
+22. [Retrieval-based Controllable Molecule Generation](https://openreview.net/forum?id=vDFA1tpuLvk)
+   - Zichao Wang, Weili Nie, Zhuoran Qiao, Chaowei Xiao, Richard Baraniuk, Anima Anandkumar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tuk3pqaizx"></a>
+23. [Sampling-free Inference for Ab-Initio Potential Energy Surface Networks](https://openreview.net/forum?id=Tuk3Pqaizx)
+   - Nicholas Gao, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6k2rm6wvqku"></a>
+24. [Uni-Mol: A Universal 3D Molecular Representation Learning Framework](https://openreview.net/forum?id=6K2RM6wVqKu)
+   - Gengmo Zhou, Zhifeng Gao, Qiankun Ding, Hang Zheng, Hongteng Xu, Zhewei Wei, et al.; assignment: `hdbscan`; source: `OpenReview`

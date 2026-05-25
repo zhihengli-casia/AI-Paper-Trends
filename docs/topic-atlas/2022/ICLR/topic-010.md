@@ -1,98 +1,98 @@
-# ICLR 2022: nas / search / architecture / supernet
+# ICLR 2022: 目标检测与图像分割
 
 - Topic ID: `10`
-- Papers: **26** (2.38%)
-- Macro topic: 理论/优化
-- English keywords: `nas / search / architecture / supernet`
-- Keyword pool: nas; search; architecture; supernet; parameter; ncp; spaces; surrogate; gradient; layers; feedforward; accelerators
+- Papers: **26** (2.45%)
+- Macro topic: 计算机视觉
+- English keywords: `segmentation / semantic / object / visual`
+- Keyword pool: segmentation; semantic; object; visual; image; detection; clip; anytime; language; mlp; categories; contrastive
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Surrogate NAS Benchmarks: Going Beyond the Limited Search Spaces of Tabular NAS Benchmarks
-- Learning Versatile Neural Architectures by Propagating Network Codes
-- On Redundancy and Diversity in Cell-based Neural Architecture Search
-- Learning Features with Parameter-Free Layers
-- Neural Parameter Allocation Search
+- Pix2seq: A Language Modeling Framework for Object Detection
+- CycleMLP: A MLP-like Architecture for Dense Prediction
+- Unsupervised Vision-Language Grammar Induction with Shared Structure Modeling
+- Unsupervised Semantic Segmentation by Distilling Feature Correspondences
+- Open-vocabulary Object Detection via Vision and Language Knowledge Distillation
 
 ## Papers
 
+<a id="paper-fvllciymxb"></a>
+1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://openreview.net/forum?id=fvLLcIYmXb)
+   - Dongze Lian, Zehao Yu, Xing Sun, Shenghua Gao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-knkfoxleuc"></a>
+2. [Anytime Dense Prediction with Confidence Adaptivity](https://openreview.net/forum?id=kNKFOXleuC)
+   - Zhuang Liu, Zhiqiu Xu, Hung-Ju Wang, Trevor Darrell, Evan Shelhamer; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6u6n8wwwysm"></a>
+3. [Bootstrapping Semantic Segmentation with Regional Contrast](https://openreview.net/forum?id=6u6N8WWwYSM)
+   - Shikun Liu, Shuaifeng Zhi, Edward Johns, Andrew Davison; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-oay7ypmdnz"></a>
-1. [CoordX: Accelerating Implicit Neural Representation with a Split MLP Architecture](https://openreview.net/forum?id=oAy7yPmdNz)
-   - Ruofan Liang, Hongyi Sun, Nandita Vijaykumar; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-gsh-k1viyy"></a>
-2. [Data-Driven Offline Optimization for Architecting Hardware Accelerators](https://openreview.net/forum?id=GsH-K1VIyy)
-   - Aviral Kumar, Amir Yazdanbakhsh, Milad Hashemi, Kevin Swersky, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3joof27-0wy"></a>
-3. [FlexConv: Continuous Kernel Convolutions With Differentiable Kernel Sizes](https://openreview.net/forum?id=3jooF27-0Wy)
-   - David W. Romero, Robert-Jan Bruintjes, Jakub Mikolaj Tomczak, Erik J Bekkers, Mark Hoogendoorn, Jan van Gemert; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-jmtny3smku"></a>
-4. [Generalizing Few-Shot NAS with Gradient Matching](https://openreview.net/forum?id=_jMtny3sMKU)
-   - Shoukang Hu, Ruochen Wang, Lanqing HONG, Zhenguo Li, Cho-Jui Hsieh, Jiashi Feng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qjn4h-wwuo"></a>
-5. [GradMax: Growing Neural Networks using Gradient Information](https://openreview.net/forum?id=qjN4h_wwUO)
-   - Utku Evci, Bart van Merrienboer, Thomas Unterthiner, Fabian Pedregosa, Max Vladymyrov; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hobmhrceaaf"></a>
-6. [GradSign: Model Performance Inference with Theoretical Insights](https://openreview.net/forum?id=HObMhrCeAAF)
-   - Zhihao Zhang, Zhihao Jia; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bcrdi4ivvv"></a>
-7. [Learning Features with Parameter-Free Layers](https://openreview.net/forum?id=bCrdi4iVvv)
-   - Dongyoon Han, YoungJoon Yoo, Beomyoung Kim, Byeongho Heo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-m752z9fkjp"></a>
-8. [Learning Strides in Convolutional Neural Networks](https://openreview.net/forum?id=M752z9FKJP)
-   - Rachid Riad, Olivier Teboul, David Grangier, Neil Zeghidour; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-keql-mz5fg7"></a>
-9. [Learning Versatile Neural Architectures by Propagating Network Codes](https://openreview.net/forum?id=KEQl-MZ5fg7)
-   - Mingyu Ding, Yuqi Huo, Haoyu Lu, Linjie Yang, Zhe Wang, Zhiwu Lu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0dlwqqlmqv"></a>
-10. [NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy](https://openreview.net/forum?id=0DLwqQLmqV)
-   - Yash Mehta, Colin White, Arber Zela, Arjun Krishnakumar, Guri Zabergja, Shakiba Moradian, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-v-v1cpnnk-v"></a>
-11. [NASI: Label- and Data-agnostic Neural Architecture Search at Initialization](https://openreview.net/forum?id=v-v1cpNNK_v)
-   - Yao Shu, Shaofeng Cai, Zhongxiang Dai, Beng Chin Ooi, Bryan Kian Hsiang Low; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-khlk0shmgxk"></a>
-12. [NASPY: Automated Extraction of Automated Machine Learning Models](https://openreview.net/forum?id=KhLK0sHMgXK)
-   - Xiaoxuan Lou, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8sbpe7rdiv"></a>
-13. [NETWORK INSENSITIVITY TO PARAMETER NOISE VIA PARAMETER ATTACK DURING TRAINING](https://openreview.net/forum?id=-8sBpe7rDiV)
-   - Julian Büchel, Fynn Firouz Faber, Dylan Richard Muir; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-srtixtysft4"></a>
-14. [Neural Parameter Allocation Search](https://openreview.net/forum?id=srtIXtySfT4)
-   - Bryan A. Plummer, Nikoli Dryden, Julius Frost, Torsten Hoefler, Kate Saenko; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rfjwoyoxrdb"></a>
-15. [On Redundancy and Diversity in Cell-based Neural Architecture Search](https://openreview.net/forum?id=rFJWoYoxrDB)
-   - Xingchen Wan, Binxin Ru, Pedro M Esperança, Zhenguo Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7b3ijmm1k-m"></a>
-16. [Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks](https://openreview.net/forum?id=7B3IJMM1k_M)
-   - Tong Bu, Wei Fang, Jianhao Ding, PENGLIN DAI, Zhaofei Yu, Tiejun Huang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-t8whz4rnugl"></a>
-17. [RotoGrad: Gradient Homogenization in Multitask Learning](https://openreview.net/forum?id=T8wHz4rnuGL)
-   - Adrián Javaloy, Isabel Valera; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-z8fzvvu6-kj"></a>
-18. [SUMNAS: Supernet with Unbiased Meta-Features for Neural Architecture Search](https://openreview.net/forum?id=Z8FzvVU6_Kj)
-   - Hyeonmin Ha, Ji-Hoon Kim, Semin Park, Byung-Gon Chun; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rhb1adoffge"></a>
-19. [Sample and Computation Redistribution for Efficient Face Detection](https://openreview.net/forum?id=RhB1AdoFfGE)
-   - Jia Guo, Jiankang Deng, Alexandros Lattas, Stefanos Zafeiriou; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-bp-lj4y-xc"></a>
-20. [Sequence Approximation using Feedforward Spiking Neural Network for Spatiotemporal Learning: Theory and Optimization Methods](https://openreview.net/forum?id=bp-LJ4y_XC)
-   - Xueyuan She, Saurabh Dash, Saibal Mukhopadhyay; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xs8amyieav3"></a>
-21. [Sound and Complete Neural Network Repair with Minimality and Locality Guarantees](https://openreview.net/forum?id=xS8AMYiEav3)
-   - Feisi Fu, Wenchao Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-imh1e5k7n3l"></a>
-22. [Spike-inspired rank coding for fast and accurate recurrent neural networks](https://openreview.net/forum?id=iMH1e5k7n3L)
-   - Alan Jeffares, Qinghai Guo, Pontus Stenetorp, Timoleon Moraitis; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-onpfa95rvqs"></a>
-23. [Surrogate NAS Benchmarks: Going Beyond the Limited Search Spaces of Tabular NAS Benchmarks](https://openreview.net/forum?id=OnpFa95RVqs)
-   - Arber Zela, Julien Niklas Siems, Lucas Zimmer, Jovita Lukasik, Margret Keuper, Frank Hutter; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xntisl32jv"></a>
-24. [Temporal Efficient Training of Spiking Neural Network via Gradient Re-weighting](https://openreview.net/forum?id=_XNtisL32jv)
-   - Shikuang Deng, Yuhang Li, Shanghang Zhang, Shi Gu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mvo2t0vbs4"></a>
-25. [Wisdom of Committees: An Overlooked Approach To Faster and More Accurate Models](https://openreview.net/forum?id=MvO2t0vbs4-)
-   - Xiaofang Wang, Dan Kondratyuk, Eric Christiansen, Kris M. Kitani, Yair Movshovitz-Attias, Elad Eban; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p3bh01hbyth"></a>
-26. [X-model: Improving Data Efficiency in Deep Learning with A Minimax Model](https://openreview.net/forum?id=P3Bh01hBYTH)
-   - Ximei Wang, Xinyang Chen, Jianmin Wang, Mingsheng Long; assignment: `hdbscan`; source: `OpenReview`
+4. [CoordX: Accelerating Implicit Neural Representation with a Split MLP Architecture](https://openreview.net/forum?id=oAy7yPmdNz)
+   - Ruofan Liang, Hongyi Sun, Nandita Vijaykumar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nmeceg4v69y"></a>
+5. [CycleMLP: A MLP-like Architecture for Dense Prediction](https://openreview.net/forum?id=NMEceG4v69Y)
+   - Shoufa Chen, Enze Xie, Chongjian GE, Runjian Chen, Ding Liang, Ping Luo; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-g89-1yzlfhk"></a>
+6. [Data Efficient Language-Supervised Zero-Shot Recognition with Optimal Transport Distillation](https://openreview.net/forum?id=G89-1yZLFHk)
+   - Bichen Wu, Ruizhe Cheng, Peizhao Zhang, Tianren Gao, Joseph E. Gonzalez, Peter Vajda; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cpdhcsedc2"></a>
+7. [FILIP: Fine-grained Interactive Language-Image Pre-Training](https://openreview.net/forum?id=cpDhcsEDC2)
+   - Lewei Yao, Runhui Huang, Lu Hou, Guansong Lu, Minzhe Niu, Hang Xu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ug-bgjgslkv"></a>
+8. [Finding an Unsupervised Image Segmenter in each of your Deep Generative Models](https://openreview.net/forum?id=Ug-bgjgSlKV)
+   - Luke Melas-Kyriazi, Christian Rupprecht, Iro Laina, Andrea Vedaldi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cbu4eljfnev"></a>
+9. [GiraffeDet: A Heavy-Neck Paradigm for Object Detection](https://openreview.net/forum?id=cBu4ElJfneV)
+   - yiqi jiang, Zhiyu Tan, Junyan Wang, Xiuyu Sun, Ming Lin, Hao Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zf-ll3hzwgy"></a>
+10. [How Much Can CLIP Benefit Vision-and-Language Tasks?](https://openreview.net/forum?id=zf_Ll3HZWgy)
+   - Sheng Shen, Liunian Harold Li, Hao Tan, Mohit Bansal, Anna Rohrbach, Kai-Wei Chang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xno7oeicjc6"></a>
+11. [Language-biased image classification: evaluation based on semantic representations](https://openreview.net/forum?id=xNO7OEIcJc6)
+   - Yoann Lemesle, Masataka Sawayama, Guillermo Valle-Perez, Maxime Adolphe, Hélène Sauzéon, Pierre-Yves Oudeyer; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-rridjddcln"></a>
+12. [Language-driven Semantic Segmentation](https://openreview.net/forum?id=RriDjddCLN)
+   - Boyi Li, Kilian Q Weinberger, Serge Belongie, Vladlen Koltun, Rene Ranftl; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-znr43c03lry"></a>
+13. [Learning to Annotate Part Segmentation with Gradient Matching](https://openreview.net/forum?id=zNR43c03lRy)
+   - Yu Yang, Xiaotian Cheng, Hakan Bilen, Xiangyang Ji; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hndgqudnb91"></a>
+14. [Learning to Downsample for Segmentation of Ultra-High Resolution Images](https://openreview.net/forum?id=HndgQudNb91)
+   - Chen Jin, Ryutaro Tanno, Thomy Mertzanidou, Eleftheria Panagiotaki, Daniel C. Alexander; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nudbmy-tzdr"></a>
+15. [Natural Language Descriptions of Deep Visual Features](https://openreview.net/forum?id=NudBMY-tzDr)
+   - Evan Hernandez, Sarah Schwettmann, David Bau, Teona Bagashvili, Antonio Torralba, Jacob Andreas; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-lbauk6wk2-y"></a>
+16. [Object Pursuit: Building a Space of Objects via Discriminative Weight Generation](https://openreview.net/forum?id=lbauk6wK2-y)
+   - Chuanyu Pan, Yanchao Yang, Kaichun Mo, Yueqi Duan, Leonidas Guibas; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-d5scuj5t1k"></a>
+17. [Objects in Semantic Topology](https://openreview.net/forum?id=d5SCUJ5t1k)
+   - Shuo Yang, Peize Sun, Yi Jiang, Xiaobo Xia, Ruiheng Zhang, Zehuan Yuan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5hlp5jy9s2d"></a>
+18. [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](https://openreview.net/forum?id=5hLP5JY9S2d)
+   - Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ll3lnmbr4wu"></a>
+19. [Open-vocabulary Object Detection via Vision and Language Knowledge Distillation](https://openreview.net/forum?id=lL3lnMbR4WU)
+   - Xiuye Gu, Tsung-Yi Lin, Weicheng Kuo, Yin Cui; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-e42kbiw6wb"></a>
+20. [Pix2seq: A Language Modeling Framework for Object Detection](https://openreview.net/forum?id=e42KbIw6Wb)
+   - Ting Chen, Saurabh Saxena, Lala Li, David J. Fleet, Geoffrey Hinton; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gurhftuf-3"></a>
+21. [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://openreview.net/forum?id=GUrhfTuf_3)
+   - Zirui Wang, Jiahui Yu, Adams Wei Yu, Zihang Dai, Yulia Tsvetkov, Yuan Cao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zq1ijknk3un"></a>
+22. [Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm](https://openreview.net/forum?id=zq1iJkNk3uN)
+   - Yangguang Li, Feng Liang, Lichen Zhao, Yufeng Cui, Wanli Ouyang, Jing Shao, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sako6z6hl0c"></a>
+23. [Unsupervised Semantic Segmentation by Distilling Feature Correspondences](https://openreview.net/forum?id=SaKO6z6Hl0c)
+   - Mark Hamilton, Zhoutong Zhang, Bharath Hariharan, Noah Snavely, William T. Freeman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n0n-qyq5lbf"></a>
+24. [Unsupervised Vision-Language Grammar Induction with Shared Structure Modeling](https://openreview.net/forum?id=N0n_QyQ5lBF)
+   - Bo Wan, Wenjuan Han, Zilong Zheng, Tinne Tuytelaars; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-g1szirlqxmm"></a>
+25. [Wiring Up Vision: Minimizing Supervised Synaptic Updates Needed to Produce a Primate Ventral Stream](https://openreview.net/forum?id=g1SzIRLQXMM)
+   - Franziska Geiger, Martin Schrimpf, Tiago Marques, James J. DiCarlo; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-nxcabl7jbqh"></a>
+26. [Zero Pixel Directional Boundary by Vector Transform](https://openreview.net/forum?id=nxcABL7jbQh)
+   - Edoardo Mello Rella, Ajad Chhatkuli, Yun Liu, Ender Konukoglu, Luc Van Gool; assignment: `nearest_centroid`; source: `OpenReview`

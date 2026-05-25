@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a GitHub-browsable topic atlas from fine-grained topic results."""
+"""Build a static topic atlas from fine-grained topic results."""
 
 from __future__ import annotations
 
@@ -378,7 +378,7 @@ def build_home_page(output_root: Path, summary: pd.DataFrame, topic_index: pd.Da
     lines = [
         "# AI Paper Topic Atlas",
         "",
-        "Fine-grained topic index generated from accepted/main-track AI conference papers.",
+        "Fine-grained topic index generated from AI conference and journal papers.",
         "",
         "Navigation pattern: **year -> venue -> topic -> paper**.",
         "",

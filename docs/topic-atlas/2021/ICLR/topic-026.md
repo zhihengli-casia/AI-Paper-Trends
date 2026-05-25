@@ -1,65 +1,65 @@
-# ICLR 2021: Bandit 与 regret 理论
+# ICLR 2021: 多语言建模与跨语言迁移
 
 - Topic ID: `26`
-- Papers: **15** (1.74%)
-- Macro topic: 强化学习/决策
-- English keywords: `reinforcement / action / representation learning / bandit`
-- Keyword pool: reinforcement; action; representation learning; bandit; regret; agent; bisimulation; exploration; control; states; options; policy
+- Papers: **15** (1.75%)
+- Macro topic: 其他/交叉主题
+- English keywords: `multi-task / multilingual / few-shot / auxiliary`
+- Keyword pool: multi-task; multilingual; few-shot; auxiliary; incremental; aggregation; fsl; forgetting; transfer; episode-level; pretext; representation learning
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Learning Invariant Representations for Reinforcement Learning without Reconstruction
-- Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning
-- Data-Efficient Reinforcement Learning with Self-Predictive Representations
-- Return-Based Contrastive Representation Learning for Reinforcement Learning
-- Learning Subgoal Representations with Slow Dynamics
+- Deciphering and Optimizing Multi-Task Learning: a Random Matrix Approach
+- One Network Fits All? Modular versus Monolithic Task Formulations in Neural Networks
+- Towards Impartial Multi-task Learning
+- Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data
+- The Traveling Observer Model: Multi-task Learning Through Spatial Variable Embeddings
 
 ## Papers
 
-<a id="paper-qda7-svg84"></a>
-1. [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://openreview.net/forum?id=qda7-sVg84)
-   - Rishabh Agarwal, Marlos C. Machado, Pablo Samuel Castro, Marc G Bellemare; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ud3dsz72nyr"></a>
-2. [Contrastive Explanations for Reinforcement Learning via Embedded Self Predictions](https://openreview.net/forum?id=Ud3DSz72nYR)
-   - Zhengxian Lin, Kin-Ho Lam, Alan Fern; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dgd4ejqsbw5"></a>
-3. [Control-Aware Representations for Model-based Reinforcement Learning](https://openreview.net/forum?id=dgd4EJqsbW5)
-   - Brandon Cui, Yinlam Chow, Mohammad Ghavamzadeh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ucqfpzwrauu"></a>
-4. [Data-Efficient Reinforcement Learning with Self-Predictive Representations](https://openreview.net/forum?id=uCQfPZwRaUu)
-   - Max Schwarzer, Ankesh Anand, Rishab Goel, R Devon Hjelm, Aaron Courville, Philip Bachman; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1rxhobjeduw"></a>
-5. [Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration](https://openreview.net/forum?id=1rxHOBjeDUW)
-   - Jaekyeom Kim, Minjung Kim, Dongyeon Woo, Gunhee Kim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ur9lao-qxf"></a>
-6. [Efficient Transformers in Reinforcement Learning using Actor-Learner Distillation](https://openreview.net/forum?id=uR9LaO_QxF)
-   - Emilio Parisotto, Russ Salakhutdinov; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-r-gpphejpmw"></a>
-7. [Hierarchical Reinforcement Learning by Discovering Intrinsic Options](https://openreview.net/forum?id=r-gPPHEjpmw)
-   - Jesse Zhang, Haonan Yu, Wei Xu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gy6-6stvgaf"></a>
-8. [Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://openreview.net/forum?id=GY6-6sTvGaf)
-   - Denis Yarats, Ilya Kostrikov, Rob Fergus; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-edj-hipawca"></a>
-9. [Impact of Representation Learning in Linear Bandits](https://openreview.net/forum?id=edJ_HipawCa)
-   - Jiaqi Yang, Wei Hu, Jason D. Lee, Simon Shaolei Du; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-2fcwdkrreu"></a>
-10. [Learning Invariant Representations for Reinforcement Learning without Reconstruction](https://openreview.net/forum?id=-2FCwDKRREu)
-   - Amy Zhang, Rowan Thomas McAllister, Roberto Calandra, Yarin Gal, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wxrwhsdorkg"></a>
-11. [Learning Subgoal Representations with Slow Dynamics](https://openreview.net/forum?id=wxRwhSdORKG)
-   - Siyuan Li, Lulu Zheng, Jianhao Wang, Chongjie Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xv-s64fixtv"></a>
-12. [Learning to Represent Action Values as a Hypergraph on the Action Vertices](https://openreview.net/forum?id=Xv_s64FiXTv)
-   - Arash Tavakoli, Mehdi Fatemi, Petar Kormushev; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tkatozkcunm"></a>
-13. [Neural Thompson Sampling](https://openreview.net/forum?id=tkAtoZkcUnm)
-   - Weitong ZHANG, Dongruo Zhou, Lihong Li, Quanquan Gu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hx1ixfhaw7r"></a>
-14. [Provable Rich Observation Reinforcement Learning with Combinatorial Latent States](https://openreview.net/forum?id=hx1IXFHAw7R)
-   - Dipendra Misra, Qinghua Liu, Chi Jin, John Langford; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-tm6rt7txke"></a>
-15. [Return-Based Contrastive Representation Learning for Reinforcement Learning](https://openreview.net/forum?id=_TM6rT7tXke)
-   - Guoqing Liu, Chuheng Zhang, Li Zhao, Tao Qin, Jinhua Zhu, Li Jian, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1gtma8hwlyp"></a>
+1. [AUXILIARY TASK UPDATE DECOMPOSITION: THE GOOD, THE BAD AND THE NEUTRAL](https://openreview.net/forum?id=1GTma8HwlYp)
+   - Lucio M. Dery, Yann Dauphin, David Grangier; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n7wifypdvet"></a>
+2. [Auxiliary Learning by Implicit Differentiation](https://openreview.net/forum?id=n7wIfYPdVet)
+   - Aviv Navon, Idan Achituve, Haggai Maron, Gal Chechik, Ethan Fetaya; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ufzn2-aehfa"></a>
+3. [Bayesian Context Aggregation for Neural Processes](https://openreview.net/forum?id=ufZN2-aehFa)
+   - Michael Volpp, Fabian Flürenbrock, Lukas Grossberger, Christian Daniel, Gerhard Neumann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ejijf3-lozo"></a>
+4. [Concept Learners for Few-Shot Learning](https://openreview.net/forum?id=eJIJF3-LoZO)
+   - Kaidi Cao, Maria Brbic, Jure Leskovec; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-de11dbhzamf"></a>
+5. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF)
+   - Jonathan Pilault, Amine El hattami, Christopher Pal; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-cri3xz59ga"></a>
+6. [Deciphering and Optimizing Multi-Task Learning: a Random Matrix Approach](https://openreview.net/forum?id=Cri3xz59ga)
+   - Malik Tiomoko, Hafiz Tiomoko Ali, Romain Couillet; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pw2q2xlwimd"></a>
+7. [Few-Shot Learning via Learning the Representation, Provably](https://openreview.net/forum?id=pW2Q2xLwIMD)
+   - Simon Shaolei Du, Wei Hu, Sham M. Kakade, Jason D. Lee, Qi Lei; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-f1vejwk-lh"></a>
+8. [Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models](https://openreview.net/forum?id=F1vEjWK-lH_)
+   - Zirui Wang, Yulia Tsvetkov, Orhan Firat, Yuan Cao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xzqlpqrzxlq"></a>
+9. [IEPT: Instance-Level and Episode-Level Pretext Tasks for Few-Shot Learning](https://openreview.net/forum?id=xzqLpqRzxLq)
+   - Manli Zhang, Jianhong Zhang, Zhiwu Lu, Tao Xiang, Mingyu Ding, Songfang Huang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-3sv-zephnzm"></a>
+10. [Incremental few-shot learning via vector quantization in deep embedded space](https://openreview.net/forum?id=3SV-ZePhnZM)
+   - Kuilin Chen, Chi-Guhn Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zzwdy-wiwv"></a>
+11. [Knowledge distillation via softmax regression representation learning](https://openreview.net/forum?id=ZzwDy_wiWv)
+   - Jing Yang, Brais Martinez, Adrian Bulat, Georgios Tzimiropoulos; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-uz5uw6gm0m"></a>
+12. [One Network Fits All? Modular versus Monolithic Task Formulations in Neural Networks](https://openreview.net/forum?id=uz5uw6gM0m)
+   - Atish Agarwala, Abhimanyu Das, Brendan Juba, Rina Panigrahy, Vatsal Sharan, Xin Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-23zjugpjcc"></a>
+13. [Scalable Transfer Learning with Expert Models](https://openreview.net/forum?id=23ZjUGpjcc)
+   - Joan Puigcerver, Carlos Riquelme Ruiz, Basil Mustafa, Cedric Renggli, André Susano Pinto, Sylvain Gelly, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-qyda4olec1"></a>
+14. [The Traveling Observer Model: Multi-task Learning Through Spatial Variable Embeddings](https://openreview.net/forum?id=qYda4oLEc1)
+   - Elliot Meyerson, Risto Miikkulainen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-impnrxewpvr"></a>
+15. [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr)
+   - Liyang Liu, Yi Li, Zhanghui Kuang, Jing-Hao Xue, Yimin Chen, Wenming Yang, et al.; assignment: `hdbscan`; source: `OpenReview`

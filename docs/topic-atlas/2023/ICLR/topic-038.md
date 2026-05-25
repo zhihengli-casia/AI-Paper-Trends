@@ -1,77 +1,74 @@
-# ICLR 2023: Chain-of-Thought 与大模型推理
+# ICLR 2023: transformers / attention / layer / in-context
 
 - Topic ID: `38`
-- Papers: **19** (1.21%)
-- Macro topic: LLM/语言模型
-- English keywords: `reasoning / language / llms / chain-of-thought`
-- Keyword pool: reasoning; language; llms; chain-of-thought; question answering; logical; answers; procedural; prompting; proofs; formal; rationale
+- Papers: **18** (1.18%)
+- Macro topic: 系统/效率/压缩
+- English keywords: `transformers / attention / layer / in-context`
+- Keyword pool: transformers; attention; layer; in-context; language; pruning; non-linear functions; transformer-based; sequences; sharing; vision; normalisation
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought
-- Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning
-- Language models are multilingual chain-of-thought reasoners
-- Self-Consistency Improves Chain of Thought Reasoning in Language Models
-- Learning Math Reasoning from Self-Sampled Correct and Partially-Correct Solutions
+- Treeformer: Dense Gradient Trees for Efficient Attention Computation
+- A Primal-Dual Framework for Transformers and Neural Networks
+- Learning to Grow Pretrained Models for Efficient Transformer Training
+- Composite Slice Transformer: An Efficient Transformer with Composition of Multi-Scale Multi-Range Attentions
+- Continual Transformers: Redundancy-Free Attention for Online Inference
 
 ## Papers
 
-<a id="paper-xhc5zrpxqv9"></a>
-1. [DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases](https://openreview.net/forum?id=XHc5zRPxqV9)
-   - Donghan Yu, Sheng Zhang, Patrick Ng, Henghui Zhu, Alexander Hanbo Li, Jun Wang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-sma9eaovkmc"></a>
-2. [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://openreview.net/forum?id=SMa9EAovKMC)
-   - Albert Qiaochu Jiang, Sean Welleck, Jin Peng Zhou, Timothee Lacroix, Jiacheng Liu, Wenda Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dhyhrbwjutn"></a>
-3. [Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning](https://openreview.net/forum?id=DHyHRBwJUTN)
-   - Pan Lu, Liang Qiu, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Tanmay Rajpurohit, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p7g-8dmsh4"></a>
-4. [Formal Mathematics Statement Curriculum Learning](https://openreview.net/forum?id=-P7G-8dmSh4)
-   - Stanislas Polu, Jesse Michael Han, Kunhao Zheng, Mantas Baksys, Igor Babuschkin, Ilya Sutskever; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qfvvbzxxr2v"></a>
-5. [Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://openreview.net/forum?id=qFVVBzXxR2V)
-   - Abulhair Saparov, He He; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fr3wgck-ixp"></a>
-6. [Language models are multilingual chain-of-thought reasoners](https://openreview.net/forum?id=fR3wGCk-IXp)
-   - Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4d4tsje6-k"></a>
-7. [Learning Math Reasoning from Self-Sampled Correct and Partially-Correct Solutions](https://openreview.net/forum?id=4D4TSJE6-K)
-   - Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Alex Polozov, Christopher Meek, Dragomir Radev, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ioc57x9km54"></a>
-8. [Neuro-Symbolic Procedural Planning with Commonsense Prompting](https://openreview.net/forum?id=iOc57X9KM54)
-   - Yujie Lu, Weixi Feng, Wanrong Zhu, Wenda Xu, Xin Eric Wang, Miguel Eckstein, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wbxbrs63ovu"></a>
-9. [PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales](https://openreview.net/forum?id=WBXbRs63oVu)
-   - PeiFeng Wang, Aaron Chan, Filip Ilievski, Muhao Chen, Xiang Ren; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xyljrpzztsy"></a>
-10. [ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning](https://openreview.net/forum?id=xYlJRpzZtsY)
-   - Olga Golovneva, Moya Peng Chen, Spencer Poff, Martin Corredor, Luke Zettlemoyer, Maryam Fazel-Zarandi, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-we-vluyul-x"></a>
-11. [ReAct: Synergizing Reasoning and Acting in Language Models](https://openreview.net/forum?id=WE_vluYUL-X)
-   - Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik R Narasimhan, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-1c-ksw1-k0"></a>
-12. [STREET: A MULTI-TASK STRUCTURED REASONING AND EXPLANATION BENCHMARK](https://openreview.net/forum?id=1C_kSW1-k0)
-   - Danilo Neves Ribeiro, Shen Wang, Xiaofei Ma, Henghui Zhu, Rui Dong, Deguang Kong, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tprrs6yb2p"></a>
-13. [Scenario-based Question Answering with Interacting Contextual Properties](https://openreview.net/forum?id=tPrRs6YB2P)
-   - Haitian Sun, William W. Cohen, Ruslan Salakhutdinov; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3pf3wg6o-a4"></a>
-14. [Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning](https://openreview.net/forum?id=3Pf3Wg6o-A4)
-   - Antonia Creswell, Murray Shanahan, Irina Higgins; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1pl1nimmrw"></a>
-15. [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://openreview.net/forum?id=1PL1NIMMrw)
-   - Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V Le, Ed H. Chi, Sharan Narang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vd-aytp0dve"></a>
-16. [Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation](https://openreview.net/forum?id=VD-AYtP0dve)
-   - Lorenz Kuhn, Yarin Gal, Sebastian Farquhar; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-z63rvyaz2vh"></a>
-17. [UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph](https://openreview.net/forum?id=Z63RvyAZ2Vh)
-   - Jinhao Jiang, Kun Zhou, Xin Zhao, Ji-Rong Wen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-hu4r-dedqr0"></a>
-18. [Weakly Supervised Explainable Phrasal Reasoning with Neural Fuzzy Logic](https://openreview.net/forum?id=Hu4r-dedqR0)
-   - Zijun Wu, Zi Xuan Zhang, Atharva Naik, Zhijian Mei, Mauajama Firdaus, Lili Mou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vaxnu-utr4l"></a>
-19. [WikiWhy: Answering and Explaining Cause-and-Effect Questions](https://openreview.net/forum?id=vaxnu-Utr4l)
-   - Matthew Ho, Aditya Sharma, Justin Chang, Michael Saxon, Sharon Levy, Yujie Lu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-u-t8-5hclv"></a>
+1. [A Primal-Dual Framework for Transformers and Neural Networks](https://openreview.net/forum?id=U_T8-5hClV)
+   - Tan Minh Nguyen, Tam Minh Nguyen, Nhat Ho, Andrea L. Bertozzi, Richard Baraniuk, Stanley Osher; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jpvafxhlbl"></a>
+2. [Calibrating Transformers via Sparse Gaussian Processes](https://openreview.net/forum?id=jPVAFXHlbL)
+   - Wenlong Chen, Yingzhen Li; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-saooei878ns"></a>
+3. [Characterizing intrinsic compositionality in transformers with Tree Projections](https://openreview.net/forum?id=sAOOeI878Ns)
+   - Shikhar Murty, Pratyusha Sharma, Jacob Andreas, Christopher D Manning; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-e8mzu3jbdr"></a>
+4. [ChordMixer: A Scalable Neural Attention Model for Sequences with Different Length](https://openreview.net/forum?id=E8mzu3JbdR)
+   - Ruslan Khalitov, Tong Yu, Lei Cheng, Zhirong Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rb6tpjausry"></a>
+5. [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://openreview.net/forum?id=rB6TpjAuSRy)
+   - Wenyi Hong, Ming Ding, Wendi Zheng, Xinghan Liu, Jie Tang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-nwtzisgrynn"></a>
+6. [Composite Slice Transformer: An Efficient Transformer with Composition of Multi-Scale Multi-Range Attentions](https://openreview.net/forum?id=nWTzIsgrYNN)
+   - Mingu Lee, Saurabh Pitre, Tianyu Jiang, Pierre-David Letourneau, Matthew J Morse, Kanghwan Jang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-polhquob8m7"></a>
+7. [Continual Transformers: Redundancy-Free Attention for Online Inference](https://openreview.net/forum?id=PolHquob8M7)
+   - Lukas Hedegaard, Arian Bakhtiarnia, Alexandros Iosifidis; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pvgel1ys3ql"></a>
+8. [Cross-Layer Retrospective Retrieving via Layer Attention](https://openreview.net/forum?id=pvgEL1yS3Ql)
+   - Yanwen Fang, Yuxi CAI, Jintai Chen, Jingyu Zhao, Guangjian Tian, Guodong Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nprsuqgmjkk"></a>
+9. [Deep Transformers without Shortcuts: Modifying Self-attention for Faithful Signal Propagation](https://openreview.net/forum?id=NPrsUQgMjKK)
+   - Bobby He, James Martens, Guodong Zhang, Aleksandar Botev, Andrew Brock, Samuel L Smith, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-g-unfhkrj46"></a>
+10. [Efficient Attention via Control Variates](https://openreview.net/forum?id=G-uNfHKrj46)
+   - Lin Zheng, Jianbo Yuan, Chong Wang, Lingpeng Kong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cdyrs5iz16f"></a>
+11. [Learning to Grow Pretrained Models for Efficient Transformer Training](https://openreview.net/forum?id=cDYRS5iZ16f)
+   - Peihao Wang, Rameswar Panda, Lucas Torroba Hennigen, Philip Greengard, Leonid Karlinsky, Rogerio Feris, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-umeraihmwb3"></a>
+12. [Learning to Jointly Share and Prune Weights for Grounding Based Vision and Language Models](https://openreview.net/forum?id=UMERaIHMwB3)
+   - Shangqian Gao, Burak Uzkent, Yilin Shen, Heng Huang, Hongxia Jin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-htafbha7lal"></a>
+13. [MA-BERT: Towards Matrix Arithmetic-only BERT Inference by Eliminating Complex Non-Linear Functions](https://openreview.net/forum?id=HtAfbHa7LAL)
+   - Neo Wei Ming, Zhehui Wang, Cheng Liu, Rick Siow Mong Goh, Tao Luo; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qnle3iq2el"></a>
+14. [Mega: Moving Average Equipped Gated Attention](https://openreview.net/forum?id=qNLe3iq2El)
+   - Xuezhe Ma, Chunting Zhou, Xiang Kong, Junxian He, Liangke Gui, Graham Neubig, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-w1hwfub-81"></a>
+15. [Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers](https://openreview.net/forum?id=w1hwFUb_81)
+   - Tianlong Chen, Zhenyu Zhang, AJAY KUMAR JAISWAL, Shiwei Liu, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ulzyv9m1j5"></a>
+16. [Transformer-based model for symbolic regression via joint supervised learning](https://openreview.net/forum?id=ULzyv9M1j5)
+   - Wenqiang Li, Weijun Li, Linjun Sun, Min Wu, Lina Yu, Jingyi Liu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-dwn1teb2fk"></a>
+17. [Treeformer: Dense Gradient Trees for Efficient Attention Computation](https://openreview.net/forum?id=DWn1TEb2fK)
+   - Lovish Madaan, Srinadh Bhojanapalli, Himanshu Jain, Prateek Jain; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0g0x4h8yn4i"></a>
+18. [​​What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/forum?id=0g0X4H8yN4I)
+   - Ekin Akyürek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou; assignment: `hdbscan`; source: `OpenReview`

@@ -1,83 +1,80 @@
-# ICLR 2022: 强化学习算法与理论
+# ICLR 2022: 对抗攻击、鲁棒性与安全
 
 - Topic ID: `18`
-- Papers: **21** (1.92%)
-- Macro topic: 强化学习/决策
-- English keywords: `action / agents / trajectory / environment`
-- Keyword pool: action; agents; trajectory; environment; navigation; hierarchical; motion; reinforcement learning; planning; trajectories; instructions; prediction
+- Papers: **20** (1.89%)
+- Macro topic: 可信/安全/公平
+- English keywords: `adversarial / robustness / attacks / examples`
+- Keyword pool: adversarial; robustness; attacks; examples; red; perturbations; batch size; vulnerability; teachers; defenses; membership; robust generalization
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Value Function Spaces: Skill-Centric State Abstractions for Long-Horizon Reasoning
-- Possibility Before Utility: Learning And Using Hierarchical Affordances
-- Environment Predictive Coding for Visual Navigation
-- Learning Continuous Environment Fields via Implicit Functions
-- Autonomous Learning of Object-Centric Abstractions for High-Level Planning
+- Provably Robust Adversarial Examples
+- A Unified Wasserstein Distributional Robustness Framework for Adversarial Training
+- Implicit Bias of Adversarial Training for Deep Neural Networks
+- Reducing Excessive Margin to Achieve a Better Accuracy vs. Robustness Trade-off
+- Robust Learning Meets Generative Models: Can Proxy Distributions Improve Adversarial Robustness?
 
 ## Papers
 
-<a id="paper-jbaze2yn6ub"></a>
-1. [A First-Occupancy Representation for Reinforcement Learning](https://openreview.net/forum?id=JBAZe2yN6Ub)
-   - Ted Moskovitz, Spencer R Wilson, Maneesh Sahani; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-snufktmktcy"></a>
-2. [Active Hierarchical Exploration with Stable Subgoal Representation Learning](https://openreview.net/forum?id=sNuFKTMktcY)
-   - Siyuan Li, Jin Zhang, Jianhao Wang, Yang Yu, Chongjie Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rrwee9zdw"></a>
-3. [Autonomous Learning of Object-Centric Abstractions for High-Level Planning](https://openreview.net/forum?id=rrWeE9ZDw_)
-   - Steven James, Benjamin Rosman, George Konidaris; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dbiqqywykyy"></a>
-4. [Environment Predictive Coding for Visual Navigation](https://openreview.net/forum?id=DBiQQYWykyy)
-   - Santhosh Kumar Ramakrishnan, Tushar Nagarajan, Ziad Al-Halah, Kristen Grauman; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qi4542y2s1d"></a>
-5. [FILM: Following Instructions in Language with Modular Methods](https://openreview.net/forum?id=qI4542Y2s1D)
-   - So Yeon Min, Devendra Singh Chaplot, Pradeep Kumar Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-64trbbohdgu"></a>
-6. [HyAR: Addressing Discrete-Continuous Action Reinforcement Learning via Hybrid Action Representation](https://openreview.net/forum?id=64trBbOhdGU)
-   - Boyan Li, Hongyao Tang, YAN ZHENG, Jianye HAO, Pengyi Li, Zhen Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ot3mlgr8wg8"></a>
-7. [IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes](https://openreview.net/forum?id=OT3mLgR8Wg8)
-   - QI LI, Kaichun Mo, Yanchao Yang, Hang Zhao, Leonidas Guibas; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ruwm9wcjurv"></a>
-8. [In a Nutshell, the Human Asked for This: Latent Goals for Following Temporal Specifications](https://openreview.net/forum?id=rUwm9wCjURV)
-   - Borja G. León, Murray Shanahan, Francesco Belardinelli; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mljxvdp4a3n"></a>
-9. [Know Your Action Set: Learning Action Relations for Reinforcement Learning](https://openreview.net/forum?id=MljXVdp4A3N)
-   - Ayush Jain, Norio Kosaka, Kyung-Min Kim, Joseph J Lim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dup-ddqkzc5"></a>
-10. [Latent Variable Sequential Set Transformers for Joint Multi-Agent Motion Prediction](https://openreview.net/forum?id=Dup_dDqkZC5)
-   - Roger Girgis, Florian Golemo, Felipe Codevilla, Martin Weiss, Jim Aldon D'Souza, Samira Ebrahimi Kahou, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3ilxkq7yelm"></a>
-11. [Learning Continuous Environment Fields via Implicit Functions](https://openreview.net/forum?id=3ILxkQ7yElm)
-   - Xueting Li, Shalini De Mello, Xiaolong Wang, Ming-Hsuan Yang, Jan Kautz, Sifei Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-swiyaegzfhq"></a>
-12. [Learning to Guide and to be Guided in the Architect-Builder Problem](https://openreview.net/forum?id=swiyAeGzFhQ)
-   - Paul Barde, Tristan Karch, Derek Nowrouzezahrai, Clément Moulin-Frier, Christopher Pal, Pierre-Yves Oudeyer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-swrmqttr6wn"></a>
-13. [Learning to Map for Active Semantic Goal Navigation](https://openreview.net/forum?id=swrMQttr6wN)
-   - Georgios Georgakis, Bernadette Bucher, Karl Schmeckpeper, Siddharth Singh, Kostas Daniilidis; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1nusbu-7hal"></a>
-14. [Map Induction: Compositional spatial submap learning for efficient exploration in novel environments](https://openreview.net/forum?id=1NUsBU-7HAL)
-   - Sugandha Sharma, Aidan Curtis, Marta Kryven, Joshua B. Tenenbaum, Ila R Fiete; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7b4zxunro2n"></a>
-15. [Possibility Before Utility: Learning And Using Hierarchical Affordances](https://openreview.net/forum?id=7b4zxUnrO2N)
-   - Robby Costales, Shariq Iqbal, Fei Sha; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wm3ea5olhsg"></a>
-16. [Scene Transformer: A unified architecture for predicting future trajectories of multiple agents](https://openreview.net/forum?id=Wm3EA5OlHsG)
-   - Jiquan Ngiam, Vijay Vasudevan, Benjamin Caine, Zhengdong Zhang, Hao-Tien Lewis Chiang, Jeffrey Ling, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nkzq4oeyn"></a>
-17. [Sound Adversarial Audio-Visual Navigation](https://openreview.net/forum?id=NkZq4OEYN-)
-   - Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-qddjhacyrlx"></a>
-18. [THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling](https://openreview.net/forum?id=QDdJhACYrlX)
-   - Thomas Gilles, Stefano Sabatini, Dzmitry Tsishkou, Bogdan Stanciulescu, Fabien Moutarde; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iex3piooly"></a>
-19. [VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects](https://openreview.net/forum?id=iEx3PiooLy)
-   - Ruihai Wu, Yan Zhao, Kaichun Mo, Zizheng Guo, Yian Wang, Tianhao Wu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vgqs1vkkcbe"></a>
-20. [Value Function Spaces: Skill-Centric State Abstractions for Long-Horizon Reasoning](https://openreview.net/forum?id=vgqS1vkkCbE)
-   - Dhruv Shah, Peng Xu, Yao Lu, Ted Xiao, Alexander T Toshev, Sergey Levine, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-poxf-leqnf"></a>
-21. [You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction](https://openreview.net/forum?id=POxF-LEqnF)
-   - Osama Makansi, Julius Von Kügelgen, Francesco Locatello, Peter Vincent Gehler, Dominik Janzing, Thomas Brox, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dzpe9c1mpiv"></a>
+1. [A Unified Wasserstein Distributional Robustness Framework for Adversarial Training](https://openreview.net/forum?id=Dzpe9C1mpiv)
+   - Anh Tuan Bui, Trung Le, Quan Hung Tran, He Zhao, Dinh Phung; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-czai1ywpixq"></a>
+2. [Adversarial Robustness Through the Lens of Causality](https://openreview.net/forum?id=cZAi1yWpiXQ)
+   - Yonggang Zhang, Mingming Gong, Tongliang Liu, Gang Niu, Xinmei Tian, Bo Han, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rw1mzl-ss3l"></a>
+3. [Concurrent Adversarial Learning for Large-Batch Training](https://openreview.net/forum?id=rw1mZl_ss3L)
+   - Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jjojjizhy3h"></a>
+4. [Defending Against Image Corruptions Through Adversarial Augmentations](https://openreview.net/forum?id=jJOjjiZHy3h)
+   - Dan Andrei Calian, Florian Stimberg, Olivia Wiles, Sylvestre-Alvise Rebuffi, András György, Timothy A Mann, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-af1eudduvz"></a>
+5. [Evading Adversarial Example Detection Defenses with Orthogonal Projected Gradient Descent](https://openreview.net/forum?id=af1eUDdUVz)
+   - Oliver Bryniarski, Nabeel Hingun, Pedro Pachuca, Vincent Wang, Nicholas Carlini; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7ge9v9gbzai"></a>
+6. [Exploring Memorization in Adversarial Training](https://openreview.net/forum?id=7gE9V9GBZaI)
+   - Yinpeng Dong, Ke Xu, Xiao Yang, Tianyu Pang, Zhijie Deng, Hang Su, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hcoswsdhnaw"></a>
+7. [Fast AdvProp](https://openreview.net/forum?id=hcoswsDHNAW)
+   - Jieru Mei, Yucheng Han, Yutong Bai, Yixiao Zhang, Yingwei Li, Xianhang Li, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-l8it-0le5e7"></a>
+8. [Implicit Bias of Adversarial Training for Deep Neural Networks](https://openreview.net/forum?id=l8It-0lE5e7)
+   - Bochen Lv, Zhanxing Zhu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6vpes27vitq"></a>
+9. [Learnability Lock: Authorized Learnability Control Through Adversarial Invertible Transformations](https://openreview.net/forum?id=6VpeS27viTq)
+   - Weiqi Peng, Jinghui Chen; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-3eirli0twq"></a>
+10. [On the Importance of Difficulty Calibration in Membership Inference Attacks](https://openreview.net/forum?id=3eIrli0TwQ)
+   - Lauren Watson, Chuan Guo, Graham Cormode, Alexandre Sablayrolles; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mwdfai8nbrj"></a>
+11. [Policy Smoothing for Provably Robust Reinforcement Learning](https://openreview.net/forum?id=mwdfai8NBrJ)
+   - Aounon Kumar, Alexander Levine, Soheil Feizi; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-umfhomtiap5"></a>
+12. [Provably Robust Adversarial Examples](https://openreview.net/forum?id=UMfhoMtIaP5)
+   - Dimitar Iliev Dimitrov, Gagandeep Singh, Timon Gehr, Martin Vechev; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-azh9qbq4tr7"></a>
+13. [Reducing Excessive Margin to Achieve a Better Accuracy vs. Robustness Trade-off](https://openreview.net/forum?id=Azh9QBQ4tR7)
+   - Rahul Rade, Seyed-Mohsen Moosavi-Dezfooli; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-u6trgdzhfip"></a>
+14. [Reliable Adversarial Distillation with Unreliable Teachers](https://openreview.net/forum?id=u6TRGdzhfip)
+   - Jianing Zhu, Jiangchao Yao, Bo Han, Jingfeng Zhang, Tongliang Liu, Gang Niu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gpp7cf0xdfn"></a>
+15. [Reverse Engineering of Imperceptible Adversarial Image Perturbations](https://openreview.net/forum?id=gpp7cf0xdfN)
+   - Yifan Gong, Yuguang Yao, Yize Li, Yimeng Zhang, Xiaoming Liu, Xue Lin, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wvx0nnvbbkv"></a>
+16. [Robust Learning Meets Generative Models: Can Proxy Distributions Improve Adversarial Robustness?](https://openreview.net/forum?id=WVX0NNVBBkV)
+   - Vikash Sehwag, Saeed Mahloujifar, Tinashe Handina, Sihui Dai, Chong Xiang, Mung Chiang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bauqqpwqiag"></a>
+17. [Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning](https://openreview.net/forum?id=baUQQPwQiAg)
+   - Shaopeng Fu, Fengxiang He, Yang Liu, Li Shen, Dacheng Tao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ou3atsmerqv"></a>
+18. [Self-ensemble Adversarial Training for Improved Robustness](https://openreview.net/forum?id=oU3aTsmeRQV)
+   - Hongjun Wang, Yisen Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-syujxrxq8tw"></a>
+19. [Sparsity Winning Twice: Better Robust Generalization from More Efficient Training](https://openreview.net/forum?id=SYuJXrXq8tw)
+   - Tianlong Chen, Zhenyu Zhang, pengjun wang, Santosh Balachandra, Haoyu Ma, Zehao Wang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-bmjv7kyamg"></a>
+20. [Towards Understanding the Robustness Against Evasion Attack on Categorical Data](https://openreview.net/forum?id=BmJV7kyAmg)
+   - Hongyan Bao, Yufei Han, Yujun Zhou, Yun Shen, Xiangliang Zhang; assignment: `nearest_centroid`; source: `OpenReview`

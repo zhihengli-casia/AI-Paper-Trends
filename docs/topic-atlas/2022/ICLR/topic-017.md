@@ -1,83 +1,80 @@
-# ICLR 2022: kernel / matrix / random features / principal
+# ICLR 2022: 对抗攻击、鲁棒性与安全
 
 - Topic ID: `17`
-- Papers: **21** (1.92%)
+- Papers: **20** (1.89%)
 - Macro topic: 生成模型
-- English keywords: `kernel / matrix / random features / principal`
-- Keyword pool: kernel; matrix; random features; principal; subspace; sparse; orthogonal; svd; recovery; palm; convolution; matrices
+- English keywords: `generative / gan / latent space / image`
+- Keyword pool: generative; gan; latent space; image; adversarial; generator; domain; disentangled; video; generation; fine-grained; contrastive
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Generative Principal Component Analysis
-- Anisotropic Random Feature Regression in High Dimensions
-- A generalization of the randomized singular value decomposition
-- Random matrices in service of ML footprint: ternary random features with no performance loss
-- Generalized Kernel Thinning
+- Generative Models as a Data Source for Multiview Representation Learning
+- Stein Latent Optimization for Generative Adversarial Networks
+- When, Why, and Which Pretrained GANs Are Useful?
+- Collapse by Conditioning: Training Class-conditional GANs with Limited Data
+- InfinityGAN: Towards Infinite-Pixel Image Synthesis
 
 ## Papers
 
-<a id="paper-nhn-fqxmngx"></a>
-1. [A Comparison of Hamming Errors of Representative Variable Selection Methods](https://openreview.net/forum?id=nhN-fqxmNGx)
-   - Tracy Ke, Longlin Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-14f3fi6mgxx"></a>
-2. [A Generalized Weighted Optimization Method for Computational Learning and Inversion](https://openreview.net/forum?id=14F3fI6MGxX)
-   - Kui Ren, Yunan Yang, Björn Engquist; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-hgktwsb4s2"></a>
-3. [A generalization of the randomized singular value decomposition](https://openreview.net/forum?id=hgKtwSb4S2)
-   - Nicolas Boulle, Alex Townsend; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jfawawz8bmx"></a>
-4. [Anisotropic Random Feature Regression in High Dimensions](https://openreview.net/forum?id=JfaWawZ8BmX)
-   - Gabriel Mel, Jeffrey Pennington; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zr5w2lsrhd"></a>
-5. [Constructing Orthogonal Convolutions in an Explicit Manner](https://openreview.net/forum?id=Zr5W2LSRhD)
-   - Tan Yu, Jun Li, YUNFENG CAI, Ping Li; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-lzupy5zjau9"></a>
-6. [Distribution Compression in Near-Linear Time](https://openreview.net/forum?id=lzupY5zjaU9)
-   - Abhishek Shetty, Raaz Dwivedi, Lester Mackey; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-9nvd-dmtthy"></a>
-7. [Distributionally Robust Fair Principal Components via Geodesic Descents](https://openreview.net/forum?id=9NVd-DMtThY)
-   - Hieu Vu, Toan Tran, Man-Chung Yue, Viet Anh Nguyen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-so6yaqnqgmj"></a>
-8. [EigenGame Unloaded: When playing games is better than optimizing](https://openreview.net/forum?id=So6YAqnqgMj)
-   - Ian Gemp, Brian McWilliams, Claire Vernade, Thore Graepel; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-aoei-5vtu8"></a>
-9. [Fast Differentiable Matrix Square Root](https://openreview.net/forum?id=-AOEi-5VTU8)
-   - Yue Song, Nicu Sebe, Wei Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gnp54nxhupj"></a>
-10. [Fast Regression for Structured Inputs](https://openreview.net/forum?id=gNp54NxHUPJ)
-   - Raphael A Meyer, Cameron N Musco, Christopher P Musco, David Woodruff, Samson Zhou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ifnu7dr-3fq"></a>
-11. [Generalized Kernel Thinning](https://openreview.net/forum?id=IfNu7Dr-3fQ)
-   - Raaz Dwivedi, Lester Mackey; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-pgir5f7ekal"></a>
-12. [Generative Principal Component Analysis](https://openreview.net/forum?id=pgir5f7ekAL)
-   - Zhaoqiang Liu, Jiulong Liu, Subhroshekhar Ghosh, Jun Han, Jonathan Scarlett; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9-rfew334n"></a>
-13. [Givens Coordinate Descent Methods for Rotation Matrix Learning in Trainable Embedding Indexes](https://openreview.net/forum?id=9-Rfew334N)
-   - Yunjiang Jiang, Han Zhang, Yiming Qiu, Yun Xiao, Bo Long, Wen-Yun Yang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-9kpub2bgnim"></a>
-14. [Huber Additive Models for Non-stationary Time Series Analysis](https://openreview.net/forum?id=9kpuB2bgnim)
-   - Yingjie Wang, Xianrui Zhong, Fengxiang He, Hong Chen, Dacheng Tao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-emigfe6zes"></a>
-15. [Hybrid Random Features](https://openreview.net/forum?id=EMigfE6ZeS)
-   - Krzysztof Marcin Choromanski, Han Lin, Haoxian Chen, Arijit Sehanobish, Yuanzhe Ma, Deepali Jain, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-va7domdgi75"></a>
-16. [Implicit Bias of Projected Subgradient Method Gives Provable Robust Recovery of Subspaces of Unknown Codimension](https://openreview.net/forum?id=vA7doMdgi75)
-   - Paris Giampouras, Benjamin David Haeffele, Rene Vidal; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bwpapxwgyqb"></a>
-17. [Provable Learning-based Algorithm For Sparse Recovery](https://openreview.net/forum?id=BwPaPxwgyQb)
-   - Xinshi Chen, Haoran Sun, Le Song; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qwulhx9zld"></a>
-18. [Random matrices in service of ML footprint: ternary random features with no performance loss](https://openreview.net/forum?id=qwULHx9zld)
-   - Hafiz Tiomoko Ali, Zhenyu Liao, Romain Couillet; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bb4e8atc1er"></a>
-19. [Scalable Sampling for Nonsymmetric Determinantal Point Processes](https://openreview.net/forum?id=BB4e8Atc1eR)
-   - Insu Han, Mike Gartrell, Jennifer Gillenwater, Elvis Dohmatob, amin karbasi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ri0lyggeyaw"></a>
-20. [Understanding approximate and unrolled dictionary learning for pattern recovery](https://openreview.net/forum?id=rI0LYgGeYaw)
-   - Benoît Malézieux, Thomas Moreau, Matthieu Kowalski; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-abvxf5naart"></a>
-21. [Unrolling PALM for Sparse Semi-Blind Source Separation](https://openreview.net/forum?id=aBVxf5NaaRt)
-   - Mohammad Fahes, Christophe Kervazo, Jérôme Bobin, Florence Tupin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xhf2vomrhs"></a>
+1. [A Unified Contrastive Energy-based Model for Understanding the Generative Ability of Adversarial Training](https://openreview.net/forum?id=XhF2VOMRHS)
+   - Yifei Wang, Yisen Wang, Jiansheng Yang, Zhouchen Lin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-eznob-unpjk"></a>
+2. [ClimateGAN: Raising Climate Change Awareness by Generating Images of Floods](https://openreview.net/forum?id=EZNOb_uNpJk)
+   - Victor Schmidt, Alexandra Luccioni, Mélisande Teng, Tianyu Zhang, Alexia Reynaud, Sunand Raghupathi, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ljxwpdbl4v"></a>
+3. [Closed-form Sample Probing for Learning Generative Models in Zero-shot Learning](https://openreview.net/forum?id=ljxWpdBl4V)
+   - Samet Cetin, Orhun Buğra Baran, Ramazan Gokberk Cinbis; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7tzecsnoub"></a>
+4. [Collapse by Conditioning: Training Class-conditional GANs with Limited Data](https://openreview.net/forum?id=7TZeCsNOUB_)
+   - Mohamad Shahbazi, Martin Danelljan, Danda Pani Paudel, Luc Van Gool; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xwode7zln8f"></a>
+5. [Contrastive Fine-grained Class Clustering via Generative Adversarial Networks](https://openreview.net/forum?id=XWODe7ZLn8f)
+   - Yunji Kim, Jung-Woo Ha; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qjoqkpzkbnk"></a>
+6. [Distilling GANs with Style-Mixed Triplets for X2I Translation with Limited Data](https://openreview.net/forum?id=QjOQkpzKbNk)
+   - Yaxing Wang, Joost van de weijer, Lu Yu, SHANGLING JUI; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-atzmi4yv-ro"></a>
+7. [Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs](https://openreview.net/forum?id=aTzMi4yV_RO)
+   - Jaewoong Choi, Junho Lee, Changyeon Yoon, Jung Ho Park, Geonho Hwang, Myungjoo Kang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-czsdv-s4-w9"></a>
+8. [Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://openreview.net/forum?id=Czsdv-S4-w9)
+   - Sihyun Yu, Jihoon Tack, Sangwoo Mo, Hyunsu Kim, Junho Kim, Jung-Woo Ha, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-qhaezjs7dcl"></a>
+9. [Generative Models as a Data Source for Multiview Representation Learning](https://openreview.net/forum?id=qhAeZjs7dCL)
+   - Ali Jahanian, Xavier Puig, Yonglong Tian, Phillip Isola; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ufgmqim0a4b"></a>
+10. [InfinityGAN: Towards Infinite-Pixel Image Synthesis](https://openreview.net/forum?id=ufGMqIM0a4b)
+   - Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7r6kdq0mk"></a>
+11. [Latent Image Animator: Learning to Animate Images via Latent Space Navigation](https://openreview.net/forum?id=7r6kDq0mK_)
+   - Yaohui Wang, Di Yang, Francois Bremond, Antitza Dantcheva; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-j-63fsnco5a"></a>
+12. [Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View](https://openreview.net/forum?id=j-63FSNcO5a)
+   - Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-r5qumliywf9"></a>
+13. [MaGNET: Uniform Sampling from Deep Generative Network Manifolds Without Retraining](https://openreview.net/forum?id=r5qumLiYwf9)
+   - Ahmed Imtiaz Humayun, Randall Balestriero, Richard Baraniuk; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vqgi8kp0wm"></a>
+14. [Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks](https://openreview.net/forum?id=vqGi8Kp0wM)
+   - Peihao Zhu, Rameen Abdal, John Femiani, Peter Wonka; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ew5r4cek6y6"></a>
+15. [On Predicting Generalization using GANs](https://openreview.net/forum?id=eW5R4Cek6y6)
+   - Yi Zhang, Arushi Gupta, Nikunj Saunshi, Sanjeev Arora; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-2-mkius9jx7"></a>
+16. [Stein Latent Optimization for Generative Adversarial Networks](https://openreview.net/forum?id=2-mkiUs9Jx7)
+   - Uiwon Hwang, Heeseung Kim, Dahuin Jung, Hyemi Jang, Hyungyu Lee, Sungroh Yoon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qg2vi4zbhm9"></a>
+17. [StyleAlign: Analysis and Applications of Aligned StyleGAN Models](https://openreview.net/forum?id=Qg2vi4ZbHM9)
+   - Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-iuuzztmuw9k"></a>
+18. [StyleNeRF: A Style-based 3D Aware Generator for High-resolution Image Synthesis](https://openreview.net/forum?id=iUuzzTMUw9K)
+   - Jiatao Gu, Lingjie Liu, Peng Wang, Christian Theobalt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vds4snoooe"></a>
+19. [Superclass-Conditional Gaussian Mixture Model For Learning Fine-Grained Embeddings](https://openreview.net/forum?id=vds4SNooOe)
+   - Jingchao Ni, Wei Cheng, Zhengzhang Chen, Takayoshi Asakura, Tomoya Soma, Sho Kato, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4ycr8oecoih"></a>
+20. [When, Why, and Which Pretrained GANs Are Useful?](https://openreview.net/forum?id=4Ycr8oeCoIh)
+   - Timofey Grigoryev, Andrey Voynov, Artem Babenko; assignment: `hdbscan`; source: `OpenReview`

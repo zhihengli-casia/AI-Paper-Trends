@@ -1,65 +1,68 @@
-# ICLR 2021: augmentation / mixup / ood / detection
+# ICLR 2021: 推理 / rules / symbolic / systematic generalization
 
 - Topic ID: `24`
-- Papers: **15** (1.74%)
+- Papers: **16** (1.86%)
 - Macro topic: 计算机视觉
-- English keywords: `augmentation / mixup / ood / detection`
-- Keyword pool: augmentation; mixup; ood; detection; in-distribution; out-of-distribution; dropout; auxiliary; anomaly; image; diversity; samples
+- English keywords: `reasoning / rules / symbolic / systematic generalization`
+- Keyword pool: reasoning; rules; symbolic; systematic generalization; theorem; mathematical; proving; iterated; visual; dialogue; answer; solutions
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Removing Undesirable Feature Contributions Using Out-of-Distribution Data
-- Negative Data Augmentation
-- Tradeoffs in Data Augmentation: An Empirical Study
-- How Does Mixup Help With Robustness and Generalization?
-- Reweighting Augmented Samples by Minimizing the Maximal Expected Loss
+- IsarStep: a Benchmark for High-level Mathematical Reasoning
+- Effective Abstract Reasoning with Dual-Contrast Network
+- Learning Task-General Representations with Generative Neuro-Symbolic Modeling
+- Neural Learning of One-of-Many Solutions for Combinatorial Problems in Structured Output Spaces
+- Teaching Temporal Logics to Neural Networks
 
 ## Papers
 
-<a id="paper-ijjzbomcjim"></a>
-1. [Adversarially-Trained Deep Nets Transfer Better: Illustration on Image Classification](https://openreview.net/forum?id=ijJZbomCJIm)
-   - Francisco Utrera, Evan Kravitz, N. Benjamin Erichson, Rajiv Khanna, Michael W. Mahoney; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gvxjzw8kw4b"></a>
-2. [Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity](https://openreview.net/forum?id=gvxJzw8kW4b)
-   - JangHyun Kim, Wonho Choo, Hosan Jeong, Hyun Oh Song; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-r2zltvpx0gk"></a>
-3. [DICE: Diversity in Deep Ensembles via Conditional Redundancy Adversarial Estimation](https://openreview.net/forum?id=R2ZlTVPx0Gk)
-   - Alexandre Rame, Matthieu Cord; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-a5vv3uyiqz"></a>
-4. [Explainable Deep One-Class Classification](https://openreview.net/forum?id=A5VV3UyIQz)
-   - Philipp Liznerski, Lukas Ruff, Robert A. Vandermeulen, Billy Joe Franks, Marius Kloft, Klaus Robert Muller; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8ykeo06dkno"></a>
-5. [How Does Mixup Help With Robustness and Generalization?](https://openreview.net/forum?id=8yKEo06dKNo)
-   - Linjun Zhang, Zhun Deng, Kenji Kawaguchi, Amirata Ghorbani, James Zou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jznizqvr15j"></a>
-6. [In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness](https://openreview.net/forum?id=jznizqvr15J)
-   - Sang Michael Xie, Ananya Kumar, Robbie Jones, Fereshte Khani, Tengyu Ma, Percy Liang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jacdvfjicf7"></a>
-7. [Interpreting and Boosting Dropout from a Game-Theoretic View](https://openreview.net/forum?id=Jacdvfjicf7)
-   - Hao Zhang, Sen Li, YinChao Ma, Mingjie Li, Yichen Xie, Quanshi Zhang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-xjygr6gbcec"></a>
-8. [MODALS: Modality-agnostic Automated Data Augmentation in the Latent Space](https://openreview.net/forum?id=XjYgR6gbCEc)
-   - Tsz-Him Cheung, Dit-Yan Yeung; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-xohdgbqjohv"></a>
-9. [Multiscale Score Matching for Out-of-Distribution Detection](https://openreview.net/forum?id=xoHdgbQJohv)
-   - Ahsan Mahmood, Junier Oliva, Martin Andreas Styner; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ovp8dvb8ibh"></a>
-10. [Negative Data Augmentation](https://openreview.net/forum?id=Ovp8dvB8IBH)
-   - Abhishek Sinha, Kumar Ayush, Jiaming Song, Burak Uzkent, Hongxia Jin, Stefano Ermon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-eihyl6fpbka"></a>
-11. [Removing Undesirable Feature Contributions Using Out-of-Distribution Data](https://openreview.net/forum?id=eIHYL6fpbkA)
-   - Saehyung Lee, Changhwa Park, Hyungyu Lee, Jihun Yi, Jonghyun Lee, Sungroh Yoon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9g5mic-goqb"></a>
-12. [Reweighting Augmented Samples by Minimizing the Maximal Expected Loss](https://openreview.net/forum?id=9G5MIc-goqB)
-   - Mingyang Yi, Lu Hou, Lifeng Shang, Xin Jiang, Qun Liu, Zhi-Ming Ma; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-v5gjxpmr8j"></a>
-13. [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://openreview.net/forum?id=v5gjXpmR8J)
-   - Vikash Sehwag, Mung Chiang, Prateek Mittal; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-m0qkvbgttq"></a>
-14. [SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization](https://openreview.net/forum?id=-M0QkvBGTTq)
-   - A F M Shahab Uddin, Mst. Sirazam Monira, Wheemyung Shin, TaeChoong Chung, Sung-Ho Bae; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zckpwuhg6wy"></a>
-15. [Tradeoffs in Data Augmentation: An Empirical Study](https://openreview.net/forum?id=ZcKPWuhG6wy)
-   - Raphael Gontijo-Lopes, Sylvia Smullin, Ekin Dogus Cubuk, Ethan Dyer; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7uvcpu-gmd"></a>
+1. [Are Neural Nets Modular? Inspecting Functional Modularity Through Differentiable Weight Masks](https://openreview.net/forum?id=7uVcpu-gMD)
+   - Róbert Csordás, Sjoerd van Steenkiste, Jürgen Schmidhuber; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-m5qsh0kbqg"></a>
+2. [Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients](https://openreview.net/forum?id=m5Qsh0kBQG)
+   - Brenden K Petersen, Mikel Landajuela Larma, Terrell N. Mundhenk, Claudio Prata Santiago, Soo Kyung Kim, Joanne Taery Kim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ldxlzgywdmw"></a>
+3. [Effective Abstract Reasoning with Dual-Contrast Network](https://openreview.net/forum?id=ldxlzGYWDmW)
+   - Tao Zhuo, Mohan Kankanhalli; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lsfceb3gyu7"></a>
+4. [Emergent Symbols through Binding in External Memory](https://openreview.net/forum?id=LSFCEb3GYU7)
+   - Taylor Whittington Webb, Ishan Sinha, Jonathan Cohen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bhcdo-cegcz"></a>
+5. [Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning](https://openreview.net/forum?id=bhCDO_cEGCz)
+   - Zhenfang Chen, Jiayuan Mao, Jiajun Wu, Kwan-Yee Kenneth Wong, Joshua B. Tenenbaum, Chuang Gan; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-o6lpudownqm"></a>
+6. [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)
+   - Yuhuai Wu, Albert Jiang, Jimmy Ba, Roger Baker Grosse; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pzj6fzu6wkj"></a>
+7. [IsarStep: a Benchmark for High-level Mathematical Reasoning](https://openreview.net/forum?id=Pzj6fzU6wkj)
+   - Wenda Li, Lei Yu, Yuhuai Wu, Lawrence C. Paulson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pd-omxh8ilf"></a>
+8. [Iterated learning for emergent systematicity in VQA](https://openreview.net/forum?id=Pd_oMxH8IlF)
+   - Ankit Vani, Max Schwarzer, Yuchen Lu, Eeshan Dhekane, Aaron Courville; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hpwj1qduvw8"></a>
+9. [Learning Reasoning Paths over Semantic Graphs for Video-grounded Dialogues](https://openreview.net/forum?id=hPWj1qduVw8)
+   - Hung Le, Nancy F. Chen, Steven Hoi; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-qzbuizq5xr2"></a>
+10. [Learning Task-General Representations with Generative Neuro-Symbolic Modeling](https://openreview.net/forum?id=qzBUIzq5XR2)
+   - Reuben Feinman, Brenden M. Lake; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-b7g3-zmhnt0"></a>
+11. [Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation](https://openreview.net/forum?id=b7g3_ZMHnT0)
+   - Mrigank Raman, Aaron Chan, Siddhant Agarwal, PeiFeng Wang, Hansen Wang, Sungchul Kim, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ymqany0cmey"></a>
+12. [Mathematical Reasoning via Self-supervised Skip-tree Training](https://openreview.net/forum?id=YmqAnY0CMEy)
+   - Markus Norman Rabe, Dennis Lee, Kshitij Bansal, Christian Szegedy; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-atp1nw2fuzl"></a>
+13. [Neural Learning of One-of-Many Solutions for Combinatorial Problems in Structured Output Spaces](https://openreview.net/forum?id=ATp1nW2FuZL)
+   - Yatin Nandwani, Deepanshu Jindal, Mausam ., Parag Singla; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tgzu6dlbrev"></a>
+14. [RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs](https://openreview.net/forum?id=tGZu6DlbreV)
+   - Meng Qu, Junkun Chen, Louis-Pascal Xhonneux, Yoshua Bengio, Jian Tang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-v5j-jdoddp"></a>
+15. [Scaling Symbolic Methods using Gradients for Neural Model Explanation](https://openreview.net/forum?id=V5j-jdoDDP)
+   - Subham Sekhar Sahoo, Subhashini Venugopalan, Li Li, Rishabh Singh, Patrick Riley; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-docqk-f4byz"></a>
+16. [Teaching Temporal Logics to Neural Networks](https://openreview.net/forum?id=dOcQK-f4byz)
+   - Christopher Hahn, Frederik Schmitt, Jens U. Kreber, Markus Norman Rabe, Bernd Finkbeiner; assignment: `hdbscan`; source: `OpenReview`

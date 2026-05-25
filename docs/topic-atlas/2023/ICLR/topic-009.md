@@ -1,116 +1,98 @@
-# ICLR 2023: 在线学习与 regret 理论
+# ICLR 2023: memorization / forgetting / languages / class-incremental
 
 - Topic ID: `9`
-- Papers: **32** (2.03%)
-- Macro topic: 理论/优化
-- English keywords: `multi-objective / hyperparameter optimization / recourse / objectives`
-- Keyword pool: multi-objective; hyperparameter optimization; recourse; objectives; search; pareto; quantile; hypervolume; hpo; parameter-efficient fine-tuning; regret; gradients
+- Papers: **26** (1.70%)
+- Macro topic: LLM/语言模型
+- English keywords: `memorization / forgetting / languages / class-incremental`
+- Keyword pool: memorization; forgetting; languages; class-incremental; neural collapse; recurrent; cil; rnns; symbolic regression; incremental learning; capacity; transformer
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Targeted Hyperparameter Optimization with Lexicographic Preferences Over Multiple Objectives
-- Pareto Invariant Risk Minimization: Towards Mitigating the Optimization Dilemma in Out-of-Distribution Generalization
-- M-L2O: Towards Generalizable Learning-to-Optimize by Test-Time Fast Self-Adaptation
-- Hyperparameter Optimization through Neural Network Partitioning
-- Efficiently Controlling Multiple Risks with Pareto Testing
+- A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning
+- Incremental Learning of Structured Memory via Closed-Loop Transcription
+- Quantifying Memorization Across Neural Language Models
+- Sequential Learning of Neural Networks for Prequential MDL
+- Measuring Forgetting of Memorized Training Examples
 
 ## Papers
 
-<a id="paper-oztkqizr3kk"></a>
-1. [$\Lambda$-DARTS: Mitigating Performance Collapse by Harmonizing Operation Selection among Cells](https://openreview.net/forum?id=oztkQizr3kk)
-   - Sajad Movahedi, Melika Adabinejad, Ayyoob Imani, Arezou Keshavarz, Mostafa Dehghani, Azadeh Shakery, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-vtvdi3w-bll"></a>
-2. [AANG : Automating Auxiliary Learning](https://openreview.net/forum?id=vtVDI3w_BLL)
-   - Lucio M. Dery, Paul Michel, Mikhail Khodak, Graham Neubig, Ameet Talwalkar; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-kfptqcekvw4"></a>
-3. [Automating Nearest Neighbor Search Configuration with Constrained Optimization](https://openreview.net/forum?id=KfptQCEKVW4)
-   - Philip Sun, Ruiqi Guo, Sanjiv Kumar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cn223oxgyb5"></a>
-4. [BALTO: fast tensor program optimization with diversity-based active learning](https://openreview.net/forum?id=CN223OXgyb5)
-   - Jun Bi, Xiaqing Li, Qi Guo, Rui Zhang, Yuanbo Wen, Xing Hu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dk7qqp8jheo"></a>
-5. [Batch Multivalid Conformal Prediction](https://openreview.net/forum?id=Dk7QQp8jHEo)
-   - Christopher Jung, Georgy Noarov, Ramya Ramalingam, Aaron Roth; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lv-mems38q9"></a>
-6. [Betty: An Automatic Differentiation Library for Multilevel Optimization](https://openreview.net/forum?id=LV_MeMS38Q9)
-   - Sang Keun Choe, Willie Neiswanger, Pengtao Xie, Eric Xing; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ruvo2kcl2x"></a>
-7. [Deep Ranking Ensembles for Hyperparameter Optimization](https://openreview.net/forum?id=_ruvo2KCL2x)
-   - Abdus Salam Khazi, Sebastian Pineda Arango, Josif Grabocka; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mfdu0fp3eqh"></a>
-8. [Discovering Evolution Strategies via Meta-Black-Box Optimization](https://openreview.net/forum?id=mFDU0fP3EQH)
-   - Robert Tjarko Lange, Tom Schaul, Yutian Chen, Tom Zahavy, Valentin Dalibard, Chris Lu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n-bvalscc78"></a>
-9. [EA-HAS-Bench: Energy-aware Hyperparameter and Architecture Search Benchmark](https://openreview.net/forum?id=n-bvaLSCC78)
-   - Shuguang Dou, XINYANG JIANG, Cai Rong Zhao, Dongsheng Li; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-cyg2yxn-bqf"></a>
-10. [Efficiently Controlling Multiple Risks with Pareto Testing](https://openreview.net/forum?id=cyg2YXn_BqF)
-   - Bracha Laufer-Goldshtein, Adam Fisch, Regina Barzilay, Tommi S. Jaakkola; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hcmjbjegxcu"></a>
-11. [Enhancing Meta Learning via Multi-Objective Soft Improvement Functions](https://openreview.net/forum?id=hCmjBJeGXcu)
-   - Runsheng Yu, Weiyu Chen, Xinrun Wang, James Kwok; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w2p7fmy-rh"></a>
-12. [Expressive Monotonic Neural Networks](https://openreview.net/forum?id=w2P7fMy_RH)
-   - Niklas Nolte, Ouail Kitouni, Mike Williams; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-uxqugchwxkk"></a>
-13. [Fast Nonlinear Vector Quantile Regression](https://openreview.net/forum?id=UxqUgchwXkK)
-   - Aviv A. Rosenberg, Sanketh Vedula, Yaniv Romano, Alexander Bronstein; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nagdxgfmqj"></a>
-14. [Hyperparameter Optimization through Neural Network Partitioning](https://openreview.net/forum?id=nAgdXgfmqj)
-   - Bruno Kacper Mlodozeniec, Matthias Reisser, Christos Louizos; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-s7ooe6cnrt8"></a>
-15. [M-L2O: Towards Generalizable Learning-to-Optimize by Test-Time Fast Self-Adaptation](https://openreview.net/forum?id=s7oOe6cNRT8)
-   - Junjie Yang, Xuxi Chen, Tianlong Chen, Zhangyang Wang, Yingbin Liang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pvdy71zksvp"></a>
-16. [Min-Max Multi-objective Bilevel Optimization with Applications in Robust Machine Learning](https://openreview.net/forum?id=PvDY71zKsvP)
-   - Alex Gu, Songtao Lu, Parikshit Ram, Tsui-Wei Weng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dlaygdkti2"></a>
-17. [Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach](https://openreview.net/forum?id=dLAYGdKTi2)
-   - Heshan Devaka Fernando, Han Shen, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dkkmncwfvmm"></a>
-18. [Multi-Objective Online Learning](https://openreview.net/forum?id=dKkMnCWfVmm)
-   - Jiyan Jiang, Wenpeng Zhang, Shiji Zhou, Lihong Gu, Xiaodong Zeng, Wenwu Zhu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fsa5ijnmmmi"></a>
-19. [Multi-objective optimization via equivariant deep hypervolume approximation](https://openreview.net/forum?id=fSa5IjNMmmi)
-   - Jim Boelrijk, Bernd Ensing, Patrick Forré; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tubpc5rqga"></a>
-20. [Neural Design for Genetic Perturbation Experiments](https://openreview.net/forum?id=TUBpc5rqGA)
-   - Aldo Pacchiano, Drausin Wulsin, Robert A Barton, Luis Voloch; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fyzlpcsgzvf"></a>
-21. [On Accelerated Perceptrons and Beyond](https://openreview.net/forum?id=fYzLpCsGZVf)
-   - Guanghui Wang, Rafael Hanashiro, Etash Kumar Guha, Jacob Abernethy; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-47kg-avnqez"></a>
-22. [Online Low Rank Matrix Completion](https://openreview.net/forum?id=47KG_AvNqeZ)
-   - Soumyabrata Pal, Prateek Jain; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-syfgje6nfrw"></a>
-23. [PASHA: Efficient HPO and NAS with Progressive Resource Allocation](https://openreview.net/forum?id=syfgJE6nFRW)
-   - Ondrej Bohdal, Lukas Balles, Martin Wistuba, Beyza Ermis, Cedric Archambeau, Giovanni Zappella; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xsrswxyjic"></a>
-24. [Parameter-Efficient Fine-Tuning Design Spaces](https://openreview.net/forum?id=XSRSWxyJIC)
-   - Jiaao Chen, Aston Zhang, Xingjian Shi, Mu Li, Alex Smola, Diyi Yang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-esfxsb-0psl"></a>
-25. [Pareto Invariant Risk Minimization: Towards Mitigating the Optimization Dilemma in Out-of-Distribution Generalization](https://openreview.net/forum?id=esFxSb_0pSL)
-   - Yongqiang Chen, Kaiwen Zhou, Yatao Bian, Binghui Xie, Bingzhe Wu, Yonggang Zhang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sc-pmtsitb"></a>
-26. [Probabilistically Robust Recourse: Navigating the Trade-offs between Costs and Robustness in Algorithmic Recourse](https://openreview.net/forum?id=sC-PmTsiTB)
-   - Martin Pawelczyk, Teresa Datta, Johan Van den Heuvel, Gjergji Kasneci, Himabindu Lakkaraju; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-p6jstidukpx"></a>
-27. [Quantile Risk Control: A Flexible Framework for Bounding the Probability of High-Loss Predictions](https://openreview.net/forum?id=p6jsTidUkPx)
-   - Jake Snell, Thomas P Zollo, Zhun Deng, Toniann Pitassi, Richard Zemel; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-b92tmcg-7rp"></a>
-28. [Re-parameterizing Your Optimizers rather than Architectures](https://openreview.net/forum?id=B92TMCG_7rp)
-   - Xiaohan Ding, Honghao Chen, Xiangyu Zhang, Kaiqi Huang, Jungong Han, Guiguang Ding; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ivwzo-hnzg"></a>
-29. [Recon: Reducing Conflicting Gradients From the Root For Multi-Task Learning](https://openreview.net/forum?id=ivwZO-HnzG_)
-   - Guangyuan SHI, Qimai Li, Wenlong Zhang, Jiaxin Chen, Xiao-Ming Wu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-opgy07pojsz"></a>
-30. [Rethinking Symbolic Regression: Morphology and Adaptability in the Context of Evolutionary Algorithms](https://openreview.net/forum?id=OPGy07PojsZ)
-   - Kei Sen Fong, Shelvia Wongso, Mehul Motani; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-3rhuf8foypw"></a>
-31. [Single-shot General Hyper-parameter Optimization for Federated Learning](https://openreview.net/forum?id=3RhuF8foyPW)
-   - Yi Zhou, Parikshit Ram, Theodoros Salonidis, Nathalie Baracaldo, Horst Samulowitz, Heiko Ludwig; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0ij9-q567ma"></a>
-32. [Targeted Hyperparameter Optimization with Lexicographic Preferences Over Multiple Objectives](https://openreview.net/forum?id=0Ij9_q567Ma)
-   - Shaokun Zhang, Feiran Jia, Chi Wang, Qingyun Wu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-s07fealqhgm"></a>
+1. [A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning](https://openreview.net/forum?id=S07feAlQHgM)
+   - Da-Wei Zhou, Qi-Wei Wang, Han-Jia Ye, De-Chuan Zhan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ip77-axu0h3"></a>
+2. [BEEF: Bi-Compatible Class-Incremental Learning via Energy-Based Expansion and Fusion](https://openreview.net/forum?id=iP77_axu0h3)
+   - Fu-Yun Wang, Da-Wei Zhou, Liu Liu, Han-Jia Ye, Yatao Bian, De-Chuan Zhan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uazgybms9-w"></a>
+3. [Can BERT Refrain from Forgetting on Sequential Tasks? A Probing Study](https://openreview.net/forum?id=UazgYBMS9-W)
+   - Mingxu Tao, Yansong Feng, Dongyan Zhao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yzz6vlx7v"></a>
+4. [Compositionality with Variation Reliably Emerges in Neural Networks](https://openreview.net/forum?id=-Yzz6vlX7V-)
+   - Henry Conklin, Kenny Smith; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o7koeema1br"></a>
+5. [Deep Generative Symbolic Regression](https://openreview.net/forum?id=o7koEEMA1bR)
+   - Samuel Holt, Zhaozhi Qian, Mihaela van der Schaar; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ljdolwg8td"></a>
+6. [Efficient recurrent architectures through activity sparsity and sparse back-propagation through time](https://openreview.net/forum?id=lJdOlWg8td)
+   - Anand Subramoney, Khaleelulla Khan Nazeer, Mark Schöne, Christian Mayr, David Kappel; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7yfhla7ixbj"></a>
+7. [Encoding Recurrence into Transformers](https://openreview.net/forum?id=7YfHla7IxBJ)
+   - Feiqing Huang, Kexin Lu, Yuxi CAI, Zhen Qin, Yanwen Fang, Guangjian Tian, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fsd-6ax4t1m"></a>
+8. [Evaluating Representations with Readout Model Switching](https://openreview.net/forum?id=Fsd-6ax4T1m)
+   - Yazhe Li, Jorg Bornschein, Marcus Hutter; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ddad0pnuvv"></a>
+9. [Images as Weight Matrices: Sequential Image Generation Through Synaptic Learning Rules](https://openreview.net/forum?id=ddad0PNUvV)
+   - Kazuki Irie, Jürgen Schmidhuber; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-rau07gpp0p"></a>
+10. [Improving Deep Regression with Ordinal Entropy](https://openreview.net/forum?id=raU07GpP0P)
+   - Shihao Zhang, Linlin Yang, Michael Bi Mi, Xiaoxu Zheng, Angela Yao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xrgjf5-m3xi"></a>
+11. [Incremental Learning of Structured Memory via Closed-Loop Transcription](https://openreview.net/forum?id=XrgjF5-M3xi)
+   - Shengbang Tong, Xili Dai, Ziyang Wu, Mingyang Li, Brent Yi, Yi Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-secsahl0ql"></a>
+12. [Iterative Circuit Repair Against Formal Specifications](https://openreview.net/forum?id=SEcSahl0Ql)
+   - Matthias Cosler, Frederik Schmitt, Christopher Hahn, Bernd Finkbeiner; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-udnhdcr2kqe"></a>
+13. [Learning to Solve Constraint Satisfaction Problems with Recurrent Transformer](https://openreview.net/forum?id=udNhDCr2KQe)
+   - Zhun Yang, Adam Ishay, Joohyung Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-orp91sabzi"></a>
+14. [Leveraging Unlabeled Data to Track Memorization](https://openreview.net/forum?id=ORp91sAbzI)
+   - Mahsa Forouzesh, Hanie Sedghi, Patrick Thiran; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7bjizxlkrr"></a>
+15. [Measuring Forgetting of Memorized Training Examples](https://openreview.net/forum?id=7bJizxLKrR)
+   - Matthew Jagielski, Om Thakkar, Florian Tramer, Daphne Ippolito, Katherine Lee, Nicholas Carlini, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cjwxqmmdl2b"></a>
+16. [Memorization-Dilation: Modeling Neural Collapse Under Noise](https://openreview.net/forum?id=cJWxqmmDL2b)
+   - Duc Anh Nguyen, Ron Levie, Julian Lienen, Eyke Hüllermeier, Gitta Kutyniok; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6qcydvlvlnk"></a>
+17. [Mitigating Memorization of Noisy Labels via Regularization between Representations](https://openreview.net/forum?id=6qcYDVlVLnK)
+   - Hao Cheng, Zhaowei Zhu, Xing Sun, Yang Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-y5w8tpojhtj"></a>
+18. [Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning](https://openreview.net/forum?id=y5W8tpojhtJ)
+   - Yibo Yang, Haobo Yuan, Xiangtai Li, Zhouchen Lin, Philip Torr, Dacheng Tao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-z57wk5lgehd"></a>
+19. [On the Soft-Subnetwork for Few-Shot Class Incremental Learning](https://openreview.net/forum?id=z57WK5lGeHd)
+   - Haeyong Kang, Jaehong Yoon, Sultan Rizky Hikmawan Madjid, Sung Ju Hwang, Chang D. Yoo; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8jcg5xjctpr"></a>
+20. [Provable Memorization Capacity of Transformers](https://openreview.net/forum?id=8JCg5xJCTPR)
+   - Junghwan Kim, Michelle Kim, Barzan Mozafari; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tatrht-1ck"></a>
+21. [Quantifying Memorization Across Neural Language Models](https://openreview.net/forum?id=TatRHT_1cK)
+   - Nicholas Carlini, Daphne Ippolito, Matthew Jagielski, Katherine Lee, Florian Tramer, Chiyuan Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dmmpuvnsyjr"></a>
+22. [Sequential Learning of Neural Networks for Prequential MDL](https://openreview.net/forum?id=dMMPUvNSYJr)
+   - Jorg Bornschein, Yazhe Li, Marcus Hutter; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4c8chyvmybn"></a>
+23. [The Curious Case of Benign Memorization](https://openreview.net/forum?id=4C8ChYvMYBn)
+   - Sotiris Anagnostidis, Gregor Bachmann, Lorenzo Noci, Thomas Hofmann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o58jtgds6y"></a>
+24. [The Surprising Computational Power of Nondeterministic Stack RNNs](https://openreview.net/forum?id=o58JtGDs6y)
+   - Brian DuSell, David Chiang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-de4fyqjfuez"></a>
+25. [Transformers Learn Shortcuts to Automata](https://openreview.net/forum?id=De4FYqjFueZ)
+   - Bingbin Liu, Jordan T. Ash, Surbhi Goel, Akshay Krishnamurthy, Cyril Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kplzofpfa2l"></a>
+26. [Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning](https://openreview.net/forum?id=kPLzOfPfA2l)
+   - Do-Yeon Kim, Dong-Jun Han, Jun Seo, Jaekyun Moon; assignment: `hdbscan`; source: `OpenReview`

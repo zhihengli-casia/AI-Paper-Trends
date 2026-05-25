@@ -1,92 +1,86 @@
-# ICLR 2022: 分子表示学习与药物发现
+# ICLR 2022: 随机优化与收敛理论
 
 - Topic ID: `12`
-- Papers: **24** (2.19%)
-- Macro topic: AI4Science/医疗
-- English keywords: `molecular / graph / molecules / drug`
-- Keyword pool: molecular; graph; molecules; drug; protein; generation; discovery; docking; coverage; materials; generative; structures
+- Papers: **22** (2.07%)
+- Macro topic: 理论/优化
+- English keywords: `sgd / convergence / stochastic / minimax`
+- Keyword pool: sgd; convergence; stochastic; minimax; gradient; convex; gans; minibatch; distributed; permutations; local; ascent
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Data-Efficient Graph Grammar Learning for Molecular Generation
-- Learning to Extend Molecular Scaffolds with Structural Motifs
-- Spanning Tree-based Graph Generation for Molecules
-- Pre-training Molecular Graph Representation with 3D Geometry
-- Spherical Message Passing for 3D Molecular Graphs
+- Permutation-Based SGD: Is Random Optimal?
+- Minimax Optimization with Smooth Algorithmic Adversaries
+- On the Convergence of mSGD and AdaGrad for Stochastic Optimization
+- High Probability Bounds for a Class of Nonconvex Algorithms with AdaGrad Stepsize
+- SGD Can Converge to Local Maxima
 
 ## Papers
 
-<a id="paper-apv504xsysp"></a>
-1. [Ab-Initio Potential Energy Surfaces by Pairing GNNs with Neural Wave Functions](https://openreview.net/forum?id=apv504XsysP)
-   - Nicholas Gao, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-frxhhdnxt1"></a>
-2. [Amortized Tree Generation for Bottom-up Synthesis Planning and Synthesizable Molecular Design](https://openreview.net/forum?id=FRxhHdnxt1)
-   - Wenhao Gao, Rocío Mercado, Connor W. Coley; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-c03ajc-ns5w"></a>
-3. [An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch](https://openreview.net/forum?id=C03Ajc-NS5W)
-   - Youzhi Luo, Shuiwang Ji; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6sh3pizks"></a>
-4. [Chemical-Reaction-Aware Molecule Representation Learning](https://openreview.net/forum?id=6sh3pIzKS-)
-   - Hongwei Wang, Weijiang Li, Xiaomeng Jin, Kyunghyun Cho, Heng Ji, Jiawei Han, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-03rlpj-tc"></a>
-5. [Crystal Diffusion Variational Autoencoder for Periodic Material Generation](https://openreview.net/forum?id=03RLpj-tc_)
-   - Tian Xie, Xiang Fu, Octavian-Eugen Ganea, Regina Barzilay, Tommi S. Jaakkola; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-l4ihywgq6a"></a>
-6. [Data-Efficient Graph Grammar Learning for Molecular Generation](https://openreview.net/forum?id=l4IHywGq6a)
-   - Minghao Guo, Veronika Thost, Beichen Li, Payel Das, Jie Chen, Wojciech Matusik; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w-drcost76"></a>
-7. [Differentiable Scaffolding Tree for Molecule Optimization](https://openreview.net/forum?id=w_drCosT76)
-   - Tianfan Fu, Wenhao Gao, Cao Xiao, Jacob Yasonik, Connor W. Coley, Jimeng Sun; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7qflw-xztl"></a>
-8. [Energy-Inspired Molecular Conformation Optimization](https://openreview.net/forum?id=7QfLW-XZTl)
-   - Jiaqi Guan, Wesley Wei Qian, qiang liu, Wei-Ying Ma, Jianzhu Ma, Jian Peng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-znhzqz9wrrb"></a>
-9. [Equivariant Transformers for Neural Network based Molecular Potentials](https://openreview.net/forum?id=zNHzqZ9wrRB)
-   - Philipp Thölke, Gianni De Fabritiis; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w2oomo6qgc"></a>
-10. [GeneDisco: A Benchmark for Experimental Design in Drug Discovery](https://openreview.net/forum?id=-w2oomO6qgc)
-   - Arash Mehrjou, Ashkan Soleymani, Andrew Jesson, Pascal Notin, Yarin Gal, Stefan Bauer, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pzcvxemzvqc"></a>
-11. [GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation](https://openreview.net/forum?id=PzcvxEMzvQC)
-   - Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cs4463zx6hi"></a>
-12. [Geometric Transformers for Protein Interface Contact Prediction](https://openreview.net/forum?id=CS4463zx6Hi)
-   - Alex Morehead, Chen Chen, Jianlin Cheng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gqjai9mlet"></a>
-13. [Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking](https://openreview.net/forum?id=GQjaI9mLet)
-   - Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi S. Jaakkola, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-li2bhre-2a"></a>
-14. [Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design](https://openreview.net/forum?id=LI2bhrE_2A)
-   - Wengong Jin, Jeremy Wohlwend, Regina Barzilay, Tommi S. Jaakkola; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hm2tnddgafk"></a>
-15. [Learning 3D Representations of Molecular Chirality with Invariance to Bond Rotations](https://openreview.net/forum?id=hm2tNDdgaFK)
-   - Keir Adams, Lagnajit Pattanaik, Connor W. Coley; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ztsoe8g3gg"></a>
-16. [Learning to Extend Molecular Scaffolds with Structural Motifs](https://openreview.net/forum?id=ZTsoE8G3GG)
-   - Krzysztof Maziarz, Henry Richard Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ulfq0qr25dy"></a>
-17. [Maximum n-times Coverage for Vaccine Design](https://openreview.net/forum?id=ULfq0qR25dY)
-   - Ge Liu, Alexander Dimitrakakis, Brandon Carter, David Gifford; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dng75-kyhjx"></a>
-18. [MoReL: Multi-omics Relational Learning](https://openreview.net/forum?id=DnG75_KyHjX)
-   - Arman Hasanzadeh, Ehsan Hajiramezanali, Nick Duffield, Xiaoning Qian; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-xque1pokpam"></a>
-19. [Pre-training Molecular Graph Representation with 3D Geometry](https://openreview.net/forum?id=xQUe1pOKPam)
-   - Shengchao Liu, Hanchen Wang, Weiyang Liu, Joan Lasenby, Hongyu Guo, Jian Tang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1wvvwek3oib"></a>
-20. [Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond](https://openreview.net/forum?id=1wVvweK3oIb)
-   - Jonathan Godwin, Michael Schaarschmidt, Alexander L Gaunt, Alvaro Sanchez-Gonzalez, Yulia Rubanova, Petar Veličković, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w60bte-8t2m"></a>
-21. [Spanning Tree-based Graph Generation for Molecules](https://openreview.net/forum?id=w60btE_8T2m)
-   - Sungsoo Ahn, Binghong Chen, Tianzhe Wang, Le Song; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kavty-jxp"></a>
-22. [Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery](https://openreview.net/forum?id=kavTY__jxp)
-   - Yulun Wu, Nicholas Choma, Andrew Deru Chen, Mikaela Cashman, Erica Teixeira Prates, Veronica G Melesse Vergara, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-givsrxsot9r"></a>
-23. [Spherical Message Passing for 3D Molecular Graphs](https://openreview.net/forum?id=givsRXsOt9r)
-   - Yi Liu, Limei Wang, Meng Liu, Yuchao Lin, Xuan Zhang, Bora Oztekin, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0jp2n0yfmkg"></a>
-24. [Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations](https://openreview.net/forum?id=0jP2n0YFmKG)
-   - Anuroop Sriram, Abhishek Das, Brandon M Wood, Siddharth Goyal, C. Lawrence Zitnick; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-x90sikbha"></a>
+1. [A Class of Short-term Recurrence Anderson Mixing Methods and Their Applications](https://openreview.net/forum?id=_X90SIKbHa)
+   - Fuchao Wei, Chenglong Bao, Yang Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7gwsjrp3opb"></a>
+2. [A General Analysis of Example-Selection for Stochastic Gradient Descent](https://openreview.net/forum?id=7gWSJrP3opB)
+   - Yucheng Lu, Si Yi Meng, Christopher De Sa; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3pn4iyxbef"></a>
+3. [Amortized Implicit Differentiation for Stochastic Bilevel Optimization](https://openreview.net/forum?id=3PN4iyXBeF)
+   - Michael Arbel, Julien Mairal; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hcelxxcseuh"></a>
+4. [Doubly Adaptive Scaled Algorithm for Machine Learning Using Second-Order Information](https://openreview.net/forum?id=HCelXXcSEuH)
+   - Majid Jahani, Sergey Rusakov, Zheng Shi, Peter Richtárik, Michael W. Mahoney, Martin Takac; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2-vhkamark"></a>
+5. [Escaping limit cycles: Global convergence for constrained nonconvex-nonconcave minimax problems](https://openreview.net/forum?id=2_vhkAMARk)
+   - Thomas Pethick, Puya Latafat, Panos Patrinos, Olivier Fercoq, Volkan Cevher; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3yqeucvwy1d"></a>
+6. [GDA-AM: ON THE EFFECTIVENESS OF SOLVING MIN-IMAX OPTIMIZATION VIA ANDERSON MIXING](https://openreview.net/forum?id=3YqeuCVwy1d)
+   - Huan He, Shifan Zhao, Yuanzhe Xi, Joyce Ho, Yousef Saad; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bsycpmi00r1"></a>
+7. [Generalized Natural Gradient Flows in Hidden Convex-Concave Games and GANs](https://openreview.net/forum?id=bsycpMi00R1)
+   - Andjela Mladenovic, Iosif Sakos, Gauthier Gidel, Georgios Piliouras; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-e2lle5cij9d"></a>
+8. [Hidden Convexity of Wasserstein GANs: Interpretable Generative Models with Closed-Form Solutions](https://openreview.net/forum?id=e2Lle5cij9D)
+   - Arda Sahiner, Tolga Ergen, Batu Ozturkler, Burak Bartan, John M. Pauly, Morteza Mardani, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dsw0qtrmjko"></a>
+9. [High Probability Bounds for a Class of Nonconvex Algorithms with AdaGrad Stepsize](https://openreview.net/forum?id=dSw0QtRMJkO)
+   - Ali Kavis, Kfir Yehuda Levy, Volkan Cevher; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gi7fej9yxpz"></a>
+10. [High Probability Generalization Bounds with Fast Rates for Minimax Problems](https://openreview.net/forum?id=gI7feJ9yXPz)
+   - Shaojie Li, Yong Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pfyxqxchzc"></a>
+11. [IntSGD: Adaptive Floatless Compression of Stochastic Gradients](https://openreview.net/forum?id=pFyXqxChZc)
+   - Konstantin Mishchenko, Bokun Wang, Dmitry Kovalev, Peter Richtárik; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ldlwbbp2mlq"></a>
+12. [Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond](https://openreview.net/forum?id=LdlwbBP2mlq)
+   - Chulhee Yun, Shashank Rajput, Suvrit Sra; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nc0etaieux"></a>
+13. [Minimax Optimality (Probably) Doesn't Imply Distribution Learning for GANs](https://openreview.net/forum?id=nc0ETaieux)
+   - Sitan Chen, Jerry Li, Yuanzhi Li, Raghu Meka; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-udxj2fjx7n0"></a>
+14. [Minimax Optimization with Smooth Algorithmic Adversaries](https://openreview.net/forum?id=UdxJ2fJx7N0)
+   - Tanner Fiez, Chi Jin, Praneeth Netrapalli, Lillian J Ratliff; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-aiskpsmm3fg"></a>
+15. [Neural Stochastic Dual Dynamic Programming](https://openreview.net/forum?id=aisKPsMM3fg)
+   - Hanjun Dai, Yuan Xue, Zia Syed, Dale Schuurmans, Bo Dai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ci-xxx9dg9l"></a>
+16. [On Distributed Adaptive Optimization with Gradient Compression](https://openreview.net/forum?id=CI-xXX9dg9l)
+   - Xiaoyun Li, Belhal Karimi, Ping Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-g5tanwnd04i"></a>
+17. [On the Convergence of mSGD and AdaGrad for Stochastic Optimization](https://openreview.net/forum?id=g5tANwND04i)
+   - ruinan Jin, Yu Xing, Xingkang He; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pqqp7ajwz3"></a>
+18. [Particle Stochastic Dual Coordinate Ascent: Exponential convergent algorithm for mean field neural network optimization](https://openreview.net/forum?id=PQQp7AJwz3)
+   - Kazusato Oko, Taiji Suzuki, Atsushi Nitanda, Denny Wu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gugz5dzzau"></a>
+19. [Permutation Compressors for Provably Faster Distributed Nonconvex Optimization](https://openreview.net/forum?id=GugZ5DzzAu)
+   - Rafał Szlendak, Alexander Tyurin, Peter Richtárik; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yiba9hktyxe"></a>
+20. [Permutation-Based SGD: Is Random Optimal?](https://openreview.net/forum?id=YiBa9HKTyXE)
+   - Shashank Rajput, Kangwook Lee, Dimitris Papailiopoulos; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9xhplajjrb"></a>
+21. [SGD Can Converge to Local Maxima](https://openreview.net/forum?id=9XhPLAjjRB)
+   - Liu Ziyin, Botao Li, James B Simon, Masahito Ueda; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uorvgbwv5sw"></a>
+22. [Strength of Minibatch Noise in SGD](https://openreview.net/forum?id=uorVGbWV5sw)
+   - Liu Ziyin, Kangqiao Liu, Takashi Mori, Masahito Ueda; assignment: `nearest_centroid`; source: `OpenReview`

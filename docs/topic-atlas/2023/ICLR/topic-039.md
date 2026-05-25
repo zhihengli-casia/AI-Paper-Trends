@@ -1,74 +1,74 @@
-# ICLR 2023: 代码生成与程序理解
+# ICLR 2023: 多智能体协作与规划
 
 - Topic ID: `39`
-- Papers: **18** (1.14%)
-- Macro topic: 理论/优化
-- English keywords: `combinatorial optimization / heuristics / graph / solvers`
-- Keyword pool: combinatorial optimization; heuristics; graph; solvers; scheduling; feasibility; optimization problems; solution; cuts; columns; linear programming; vehicle
+- Papers: **18** (1.18%)
+- Macro topic: 强化学习/决策
+- English keywords: `multi-agent / agents / marl / reinforcement`
+- Keyword pool: multi-agent; agents; marl; reinforcement; communication; games; policy; coordination; policies; environment; cooperation; cooperative
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- On Representing Mixed-Integer Linear Programs by Graph Neural Networks
-- On Representing Linear Programs by Graph Neural Networks
-- A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming
-- Towards One-shot Neural Combinatorial Solvers: Theoretical and Empirical Notes on the Cardinality-Constrained Case
-- Unsupervised Learning for Combinatorial Optimization Needs Meta Learning
+- RPM: Generalizable Multi-Agent Policies for Multi-Agent Reinforcement Learning
+- Cheap Talk Discovery and Utilization in Multi-Agent Reinforcement Learning
+- Revisiting Populations in multi-agent Communication
+- MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning
+- Discovering Generalizable Multi-agent Coordination Skills from Multi-task Offline Data
 
 ## Papers
 
-<a id="paper-0jxpyvwmiif"></a>
-1. [A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data](https://openreview.net/forum?id=0jxPyVWmiiF)
-   - Jiajin Li, Jianheng Tang, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-phmpgt5xwae"></a>
-2. [A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming](https://openreview.net/forum?id=pHMpgT5xWaE)
-   - Qingyu Han, Linxin Yang, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jzmr727o29"></a>
-3. [Backpropagation through Combinatorial Algorithms: Identity with Projection Works](https://openreview.net/forum?id=JZMR727O29)
-   - Subham Sekhar Sahoo, Anselm Paulus, Marin Vlastelica, Vít Musil, Volodymyr Kuleshov, Georg Martius; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hhvkdrdwt1f"></a>
-4. [Dual Algorithmic Reasoning](https://openreview.net/forum?id=hhvkdRdWt1F)
-   - Danilo Numeroso, Davide Bacciu, Petar Veličković; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qvcdqjdftg"></a>
-5. [Ensuring DNN Solution Feasibility for Optimization Problems with Linear Constraints](https://openreview.net/forum?id=QVcDQJdFTG)
-   - Tianyu Zhao, Xiang Pan, Minghua Chen, Steven Low; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6zajpxqtlq"></a>
-6. [Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time](https://openreview.net/forum?id=6ZajpxqTlQ)
-   - Qingchun Hou, Jingwei Yang, Yiqiang Su, Xiaoqing Wang, Yuming Deng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yhiim9bgoo"></a>
-7. [Graph-based Deterministic Policy Gradient for Repetitive Combinatorial Optimization Problems](https://openreview.net/forum?id=yHIIM9BgOo)
-   - Zhongyuan Zhao, Ananthram Swami, Santiago Segarra; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zob4p9brnck"></a>
-8. [Learning Cut Selection for Mixed-Integer Linear Programming via Hierarchical Sequence Model](https://openreview.net/forum?id=Zob4P9bRNcK)
-   - Zhihai Wang, Xijun Li, Jie Wang, Yufei Kuang, Mingxuan Yuan, Jia Zeng, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zcnzshc10y"></a>
-9. [Learning to CROSS exchange to solve min-max vehicle routing problems](https://openreview.net/forum?id=ZcnzsHC10Y)
-   - Minjun Kim, Junyoung Park, Jinkyoo Park; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jhw30a4dxto"></a>
-10. [Learning to Generate Columns with Application to Vertex Coloring](https://openreview.net/forum?id=JHW30A4DXtO)
-   - Yuan Sun, Andreas T Ernst, Xiaodong Li, Jake Weiner; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wl8flaugqq"></a>
-11. [Neural DAG Scheduling via One-Shot Priority Sampling](https://openreview.net/forum?id=WL8FlAugqQ)
-   - Wonseok Jeon, Mukul Gagrani, Burak Bartan, Weiliang Will Zeng, Harris Teague, Piero Zappi, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cp2qvk-uygd"></a>
-12. [On Representing Linear Programs by Graph Neural Networks](https://openreview.net/forum?id=cP2QVK-uygd)
-   - Ziang Chen, Jialin Liu, Xinshang Wang, Wotao Yin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4gc3mgzra1d"></a>
-13. [On Representing Mixed-Integer Linear Programs by Graph Neural Networks](https://openreview.net/forum?id=4gc3MGZra1d)
-   - Ziang Chen, Jialin Liu, Xinshang Wang, Wotao Yin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-2r6ymqz4mml"></a>
-14. [ROCO: A General Framework for Evaluating Robustness of Combinatorial Optimization Solvers on Graphs](https://openreview.net/forum?id=2r6YMqz4Mml)
-   - Han Lu, Zenan Li, Runzhong Wang, Qibing Ren, Xijun Li, Mingxuan Yuan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qjqibo3scv"></a>
-15. [Revocable Deep Reinforcement Learning with Affinity Regularization for Outlier-Robust Graph Matching](https://openreview.net/forum?id=QjQibO3scV_)
-   - Chang Liu, Zetian Jiang, Runzhong Wang, Lingxiao Huang, Pinyan Lu, Junchi Yan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zbuthi6wk9h"></a>
-16. [Robust Scheduling with GFlowNets](https://openreview.net/forum?id=ZBUthI6wK9h)
-   - David W Zhang, Corrado Rainone, Markus Peschl, Roberto Bondesan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h21yjhdzbwz"></a>
-17. [Towards One-shot Neural Combinatorial Solvers: Theoretical and Empirical Notes on the Cardinality-Constrained Case](https://openreview.net/forum?id=h21yJhdzbwz)
-   - Runzhong Wang, Li Shen, Yiting Chen, Xiaokang Yang, Dacheng Tao, Junchi Yan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-enyhce8zbp"></a>
-18. [Unsupervised Learning for Combinatorial Optimization Needs Meta Learning](https://openreview.net/forum?id=-ENYHCE8zBp)
-   - Haoyu Peter Wang, Pan Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oxnqxyzk-k8"></a>
+1. [Boosting Multiagent Reinforcement Learning via Permutation Invariant and Permutation Equivariant Networks](https://openreview.net/forum?id=OxNQXyZK-K8)
+   - Jianye HAO, Xiaotian Hao, Hangyu Mao, Weixun Wang, Yaodong Yang, Dong Li, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dcol0ingl3e"></a>
+2. [Certifiably Robust Policy Learning against Adversarial Multi-Agent Communication](https://openreview.net/forum?id=dCOL0inGl3e)
+   - Yanchao Sun, Ruijie Zheng, Parisa Hassanzadeh, Yongyuan Liang, Soheil Feizi, Sumitra Ganesh, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cddbel1hwad"></a>
+3. [Cheap Talk Discovery and Utilization in Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=cddbeL1HWaD)
+   - Yat Long Lo, Christian Schroeder de Witt, Samuel Sokota, Jakob Nicolaus Foerster, Shimon Whiteson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-53fyuadp7d"></a>
+4. [Discovering Generalizable Multi-agent Coordination Skills from Multi-task Offline Data](https://openreview.net/forum?id=53FyUAdP7d)
+   - Fuxiang Zhang, Chengxing Jia, Yi-Chen Li, Lei Yuan, Yang Yu, Zongzhang Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nnozt-cr26z"></a>
+5. [GoBigger: A Scalable Platform for Cooperative-Competitive Multi-Agent Interactive Simulation](https://openreview.net/forum?id=NnOZT_CR26Z)
+   - Ming Zhang, Shenghan Zhang, Zhenjie Yang, Lekai Chen, Jinliang Zheng, Chao Yang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-trwe8l9ajzs"></a>
+6. [Learning Zero-Shot Cooperation with Humans, Assuming Humans Are Biased](https://openreview.net/forum?id=TrwE8l9aJzs)
+   - Chao Yu, Jiaxuan Gao, Weilin Liu, Botian Xu, Hao Tang, Jiaqi Yang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cdlhz78-xzi"></a>
+7. [MACTA: A Multi-agent Reinforcement Learning Approach for Cache Timing Attacks and Detection](https://openreview.net/forum?id=CDlHZ78-Xzi)
+   - Jiaxun Cui, Xiaomeng Yang, Mulong Luo, Geunbae Lee, Peter Stone, Hsien-Hsin S. Lee, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-skwlrdzpfd7"></a>
+8. [MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=sKWlRDzPfd7)
+   - Mikayel Samvelyan, Akbir Khan, Michael D Dennis, Minqi Jiang, Jack Parker-Holder, Jakob Nicolaus Foerster, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-f61fwjtzhb"></a>
+9. [Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning](https://openreview.net/forum?id=F61FwJTZhb)
+   - Anton Bakhtin, David J Wu, Adam Lerer, Jonathan Gray, Athul Paul Jacob, Gabriele Farina, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-znllsgn-4s0"></a>
+10. [More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization](https://openreview.net/forum?id=znLlSgN-4S0)
+   - Jiangxing Wang, Deheng Ye, Zongqing Lu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gulfhqfgw0g"></a>
+11. [Neural Agents Struggle to Take Turns in Bidirectional Emergent Communication](https://openreview.net/forum?id=GULFHQfgw0g)
+   - Valentin Taillandier, Dieuwke Hupkes, Benoît Sagot, Emmanuel Dupoux, Paul Michel; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-b4t9-xast6g"></a>
+12. [On the Word Boundaries of Emergent Languages Based on Harris's Articulation Scheme](https://openreview.net/forum?id=b4t9_XASt6G)
+   - Ryo Ueda, Taiga Ishii, Yusuke Miyao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fb4v-2qvcem"></a>
+13. [Population-size-Aware Policy Optimization for Mean-Field Games](https://openreview.net/forum?id=fB4V-2QvCEm)
+   - Pengdeng Li, Xinrun Wang, Shuxin Li, Hau Chan, Bo An; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hnsceszlfry"></a>
+14. [RPM: Generalizable Multi-Agent Policies for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=HnSceSzlfrY)
+   - Wei Qiu, Xiao Ma, Bo An, Svetlana Obraztsova, Shuicheng YAN, Zhongwen Xu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n-uhridpju"></a>
+15. [Revisiting Populations in multi-agent Communication](https://openreview.net/forum?id=n-UHRIdPju)
+   - Paul Michel, Mathieu Rita, Kory Wallace Mathewson, Olivier Tieleman, Angeliki Lazaridou; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-zrebzl9eq3w"></a>
+16. [Scaling Laws for a Multi-Agent Reinforcement Learning Model](https://openreview.net/forum?id=ZrEbzL9eQ3W)
+   - Oren Neumann, Claudius Gros; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-b4mazqllw0"></a>
+17. [Stateful Active Facilitator: Coordination and Environmental Heterogeneity in Cooperative Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=B4maZQLLW0_)
+   - Dianbo Liu, Vedant Shah, Oussama Boussif, Cristian Meo, Anirudh Goyal, Tianmin Shu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q3f0ubaruo"></a>
+18. [Towards Effective and Interpretable Human-Agent Collaboration in MOBA Games: A Communication Perspective](https://openreview.net/forum?id=q3F0UBAruO)
+   - Yiming Gao, Feiyu Liu, Liang Wang, Zhenjie Lian, Weixuan Wang, Siqin Li, et al.; assignment: `hdbscan`; source: `OpenReview`

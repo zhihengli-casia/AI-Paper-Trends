@@ -1,74 +1,71 @@
-# ICLR 2022: vision / transformer / convolution / self-attention
+# ICLR 2022: compression / quantization / bit / bottleneck
 
 - Topic ID: `28`
-- Papers: **18** (1.65%)
-- Macro topic: 计算机视觉
-- English keywords: `vision / transformer / convolution / self-attention`
-- Keyword pool: vision; transformer; convolution; self-attention; tokens; image; local; detection; dynamic; detr; object; vits
+- Papers: **17** (1.60%)
+- Macro topic: 系统/效率/压缩
+- English keywords: `compression / quantization / bit / bottleneck`
+- Keyword pool: compression; quantization; bit; bottleneck; dnn; entropy; units; quantized; bounds; format; nns; status
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- RegionViT: Regional-to-Local Attention for Vision Transformers
-- EViT: Expediting Vision Transformers via Token Reorganizations
-- On the Connection between Local Attention and Dynamic Depth-wise Convolution
-- CrossFormer: A Versatile Vision Transformer Hinging on Cross-scale Attention
-- MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer
+- Information Bottleneck: Exact Analysis of (Quantized) Neural Networks
+- Lossless Compression with Probabilistic Circuits
+- F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization
+- Toward Efficient Low-Precision Training: Data Format Optimization and Hysteresis Quantization
+- PAC-Bayes Information Bottleneck
 
 ## Papers
 
-<a id="paper-fvllciymxb"></a>
-1. [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://openreview.net/forum?id=fvLLcIYmXb)
-   - Dongze Lian, Zehao Yu, Xing Sun, Shenghua Gao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-qhkfx-hluhv"></a>
-2. [Can an Image Classifier Suffice For Action Recognition?](https://openreview.net/forum?id=qhkFX-HLuHV)
-   - Quanfu Fan, Chun-Fu Chen, Rameswar Panda; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-phymlixui"></a>
-3. [CrossFormer: A Versatile Vision Transformer Hinging on Cross-scale Attention](https://openreview.net/forum?id=_PHymLIxuI)
-   - Wenxiao Wang, Lu Yao, Long Chen, Binbin Lin, Deng Cai, Xiaofei He, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bjyvwnxxvn"></a>
-4. [EViT: Expediting Vision Transformers via Token Reorganizations](https://openreview.net/forum?id=BjyvwnXXVn_)
-   - Youwei Liang, Chongjian GE, Zhan Tong, Yibing Song, Jue Wang, Pengtao Xie; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fvu3o-yugqk"></a>
-5. [Efficient Self-supervised Vision Transformers for Representation Learning](https://openreview.net/forum?id=fVu3o-YUGQK)
-   - Chunyuan Li, Jianwei Yang, Pengchuan Zhang, Mei Gao, Bin Xiao, Xiyang Dai, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-exhg-a3jlm"></a>
-6. [Efficient Token Mixing for Transformers via Adaptive Fourier Neural Operators](https://openreview.net/forum?id=EXHG-A3jlM)
-   - John Guibas, Morteza Mardani, Zongyi Li, Andrew Tao, Anima Anandkumar, Bryan Catanzaro; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-vrjoffcnsv8"></a>
-7. [Entroformer: A Transformer-based Entropy Model for Learned Image Compression](https://openreview.net/forum?id=VrjOFfcnSV8)
-   - Yichen Qian, Xiuyu Sun, Ming Lin, Zhiyu Tan, Rong Jin; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-yjmqullcgwk"></a>
-8. [FP-DETR: Detection Transformer Advanced by Fully Pre-training](https://openreview.net/forum?id=yjMQuLLcGWK)
-   - Wen Wang, Yang Cao, Jing Zhang, Dacheng Tao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-d78go4hvcxo"></a>
-9. [How Do Vision Transformers Work?](https://openreview.net/forum?id=D78Go4hVcxO)
-   - Namuk Park, Songkuk Kim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vh-0sut8hlg"></a>
-10. [MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer](https://openreview.net/forum?id=vh-0sUt8HlG)
-   - Sachin Mehta, Mohammad Rastegari; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dmpcfq6mg39"></a>
-11. [Omni-Dimensional Dynamic Convolution](https://openreview.net/forum?id=DmpCfq6Mg39)
-   - Chao Li, Aojun Zhou, Anbang Yao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-l3-sssnmmy"></a>
-12. [On the Connection between Local Attention and Dynamic Depth-wise Convolution](https://openreview.net/forum?id=L3_SsSNMmy)
-   - Qi Han, Zejia Fan, Qi Dai, Lei Sun, Ming-Ming Cheng, Jiaying Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fr-enkwl-zb"></a>
-13. [Quadtree Attention for Vision Transformers](https://openreview.net/forum?id=fR-EnKWL_Zb)
-   - Shitao Tang, Jiahui Zhang, Siyu Zhu, Ping Tan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-t-v3ulix7v"></a>
-14. [RegionViT: Regional-to-Local Attention for Vision Transformers](https://openreview.net/forum?id=T__V3uLix7V)
-   - Chun-Fu Chen, Rameswar Panda, Quanfu Fan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rrgvcn8kjim"></a>
-15. [Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity](https://openreview.net/forum?id=RRGVCN8kjim)
-   - Byungseok Roh, JaeWoong Shin, Wuhyun Shin, Saehoon Kim; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-izj68lucbpt"></a>
-16. [TAda! Temporally-Adaptive Convolutions for Video Understanding](https://openreview.net/forum?id=izj68lUcBpt)
-   - Ziyuan Huang, Shiwei Zhang, Liang Pan, Zhiwu Qing, Mingqian Tang, Ziwei Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nbu-u6dlvok"></a>
-17. [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning](https://openreview.net/forum?id=nBU_u6DLvoK)
-   - Kunchang Li, Yali Wang, Gao Peng, Guanglu Song, Yu Liu, Hongsheng Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w4cxzddib1h"></a>
-18. [ViDT: An Efficient and Effective Fully Transformer-based Object Detector](https://openreview.net/forum?id=w4cXZDDib1H)
-   - Hwanjun Song, Deqing Sun, Sanghyuk Chun, Varun Jampani, Dongyoon Han, Byeongho Heo, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-shpkpvxzo3h"></a>
+1. [8-bit Optimizers via Block-wise Quantization](https://openreview.net/forum?id=shpkpVXzo3h)
+   - Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-irculgmdfhj"></a>
+2. [DISCOVERING AND EXPLAINING THE REPRESENTATION BOTTLENECK OF DNNS](https://openreview.net/forum?id=iRCUlgmdfHJ)
+   - Huiqi Deng, Qihan Ren, Hao Zhang, Quanshi Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-j-f-qqce3z5"></a>
+3. [DKM: Differentiable k-Means Clustering Layer for Neural Network Compression](https://openreview.net/forum?id=J_F_qqCE3Z5)
+   - Minsik Cho, Keivan Alizadeh-Vahid, Saurabh Adya, Mohammad Rastegari; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cfpjazzxt2"></a>
+4. [F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization](https://openreview.net/forum?id=_CfpJazzXT2)
+   - Qing Jin, Jian Ren, Richard Zhuang, Sumant Hanumante, Zhengang Li, Zhiyu Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hcmvapxgszz"></a>
+5. [Fixed Neural Network Steganography: Train the images, not the network](https://openreview.net/forum?id=hcMvApxGSzZ)
+   - Varsha Kishore, Xiangyu Chen, Yan Wang, Boyi Li, Kilian Q Weinberger; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-t0b9aom-bfg"></a>
+6. [Improving Mutual Information Estimation with Annealed and Energy-Based Bounds](https://openreview.net/forum?id=T0B9AoM_bFg)
+   - Rob Brekelmans, Sicong Huang, Marzyeh Ghassemi, Greg Ver Steeg, Roger Baker Grosse, Alireza Makhzani; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kf9dzqqru0w"></a>
+7. [Information Bottleneck: Exact Analysis of (Quantized) Neural Networks](https://openreview.net/forum?id=kF9DZQQrU0w)
+   - Stephan Sloth Lorenzen, Christian Igel, Mads Nielsen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-brfwxczfadc"></a>
+8. [LOSSY COMPRESSION WITH DISTRIBUTION SHIFT AS ENTROPY CONSTRAINED OPTIMAL TRANSPORT](https://openreview.net/forum?id=BRFWxcZfAdC)
+   - Huan Liu, George Zhang, Jun Chen, Ashish J Khisti; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8wawvddkqll"></a>
+9. [Label Encoding for Regression Networks](https://openreview.net/forum?id=8WawVDdKqlL)
+   - Deval Shah, Zi Yu Xue, Tor Aamodt; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-x-hbyk2-5je"></a>
+10. [Lossless Compression with Probabilistic Circuits](https://openreview.net/forum?id=X_hByk2-5je)
+   - Anji Liu, Stephan Mandt, Guy Van den Broeck; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ilhoidspv1p"></a>
+11. [PAC-Bayes Information Bottleneck](https://openreview.net/forum?id=iLHOIDsPv1P)
+   - Zifeng Wang, Shao-Lun Huang, Ercan Engin Kuruoglu, Jimeng Sun, Xi Chen, Yefeng Zheng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ysqh0odyp7"></a>
+12. [QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization](https://openreview.net/forum?id=ySQH0oDyp7)
+   - Xiuying Wei, Ruihao Gong, Yuhang Li, Xianglong Liu, Fengwei Yu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xfoymwwpkz"></a>
+13. [Quantitative Performance Assessment of CNN Units via Topological Entropy Calculation](https://openreview.net/forum?id=xFOyMwWPkz)
+   - Yang Zhao, Hao Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jxhroknzzoc"></a>
+14. [SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation](https://openreview.net/forum?id=JXhROKNZzOc)
+   - Cong Guo, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-waid50qschi"></a>
+15. [Sparse Communication via Mixed Distributions](https://openreview.net/forum?id=WAid50QschI)
+   - António Farinhas, Wilker Aziz, Vlad Niculae, Andre Martins; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3hjoa-1hb0e"></a>
+16. [Toward Efficient Low-Precision Training: Data Format Optimization and Hysteresis Quantization](https://openreview.net/forum?id=3HJOA-1hb0e)
+   - Sunwoo Lee, Jeongwoo Park, Dongsuk Jeon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-h4pmoqszdy"></a>
+17. [Towards Empirical Sandwich Bounds on the Rate-Distortion Function](https://openreview.net/forum?id=H4PmOqSZDY)
+   - Yibo Yang, Stephan Mandt; assignment: `hdbscan`; source: `OpenReview`

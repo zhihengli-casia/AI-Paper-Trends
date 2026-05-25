@@ -1,59 +1,59 @@
-# ICLR 2021: pruning / sparsity / pruned / sparse
+# ICLR 2021: 文档摘要与信息压缩
 
 - Topic ID: `33`
 - Papers: **13** (1.51%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `pruning / sparsity / pruned / sparse`
-- Keyword pool: pruning; sparsity; pruned; sparse; initialization; magnitude-based; learning rate; parallelism; structured; parameters; et al; growing
+- Macro topic: 理论/优化
+- English keywords: `language / program / pre-training / probing`
+- Keyword pool: language; program; pre-training; probing; source code; summarization; tree; inductive biases; search; learners; probe; linguistic
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Growing Efficient Deep Networks by Structured Continuous Sparsification
-- Robust Pruning at Initialization
-- Progressive Skeletonization: Trimming more fat from a network at initialization
-- Neural Pruning via Growing Regularization
-- A Gradient Flow Framework For Analyzing Network Pruning
+- Language-Agnostic Representation Learning of Source Code from Structure and Context
+- Learning to Recombine and Resample Data For Compositional Generalization
+- Representing Partial Programs with Blended Abstract Semantics
+- GraphCodeBERT: Pre-training Code Representations with Data Flow
+- What they do when in doubt: a study of inductive biases in seq2seq learners
 
 ## Papers
 
-<a id="paper-rumv7qmluue"></a>
-1. [A Gradient Flow Framework For Analyzing Network Pruning](https://openreview.net/forum?id=rumv7QmLUue)
-   - Ekdeep Singh Lubana, Robert P. Dick; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xcxxwtzx4l1"></a>
-2. [ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations](https://openreview.net/forum?id=xCxXwTzx4L1)
-   - Rishabh Tiwari, Udbhav Bamba, Arnav Chavan, Deepak Gupta; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zelset1klrp"></a>
-3. [Fuzzy Tiling Activations: A Simple Approach to Learning Sparse Representations Online](https://openreview.net/forum?id=zElset1Klrp)
-   - Yangchen Pan, Kirby Banman, Martha White; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wb3wxcobbrt"></a>
-4. [Growing Efficient Deep Networks by Structured Continuous Sparsification](https://openreview.net/forum?id=wb3wxCObbRT)
-   - Xin Yuan, Pedro Henrique Pamplona Savarese, Michael Maire; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h6atjj0tkdf"></a>
-5. [Layer-adaptive Sparsity for the Magnitude-based Pruning](https://openreview.net/forum?id=H6ATjJ0TKdf)
-   - Jaeho Lee, Sejun Park, Sangwoo Mo, Sungsoo Ahn, Jinwoo Shin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-k9bw7vqp-s"></a>
-6. [Learning N:M Fine-grained Structured Sparse Neural Networks From Scratch](https://openreview.net/forum?id=K9bw7vqp_s)
-   - Aojun Zhou, Yukun Ma, Junnan Zhu, Jianbo Liu, Zhijie Zhang, Kun Yuan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cb54amqhqfp"></a>
-7. [Network Pruning That Matters: A Case Study on Retraining Variants](https://openreview.net/forum?id=Cb54AMqHQFP)
-   - Duong Hoang Le, Binh-Son Hua; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-o966-is-npa"></a>
-8. [Neural Pruning via Growing Regularization](https://openreview.net/forum?id=o966_Is_nPA)
-   - Huan Wang, Can Qin, Yulun Zhang, Yun Fu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-q-s44klq-aa"></a>
-9. [Neurally Augmented ALISTA](https://openreview.net/forum?id=q_S44KLQ_Aa)
-   - Freya Behrens, Jonathan Sauder, Peter Jung; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9gsfouyupi"></a>
-10. [Progressive Skeletonization: Trimming more fat from a network at initialization](https://openreview.net/forum?id=9GsFOUyUPi)
-   - Pau de Jorge, Amartya Sanyal, Harkirat Behl, Philip Torr, Grégory Rogez, Puneet K. Dokania; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ig-vyqc-mlk"></a>
-11. [Pruning Neural Networks at Initialization: Why Are We Missing the Mark?](https://openreview.net/forum?id=Ig-VyQc-MLK)
-   - Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vxj-uczq4ha"></a>
-12. [Robust Pruning at Initialization](https://openreview.net/forum?id=vXj_ucZQ4hA)
-   - Soufiane Hayou, Jean-Francois Ton, Arnaud Doucet, Yee Whye Teh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rsogjanys4z"></a>
-13. [Understanding the effects of data parallelism and sparsity on neural network training](https://openreview.net/forum?id=rsogjAnYs4z)
-   - Namhoon Lee, Thalaiyasingam Ajanthan, Philip Torr, Martin Jaggi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vvjiw3sec1s"></a>
+1. [A Mathematical Exploration of Why Language Models Help Solve Downstream Tasks](https://openreview.net/forum?id=vVjIW3sEc1s)
+   - Nikunj Saunshi, Sadhika Malladi, Sanjeev Arora; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yheg4pbfhh"></a>
+2. [BUSTLE: Bottom-Up Program Synthesis Through Learning-Guided Exploration](https://openreview.net/forum?id=yHeg4PbFHh)
+   - Augustus Odena, Kensen Shi, David Bieber, Rishabh Singh, Charles Sutton, Hanjun Dai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k5j7d81abvt"></a>
+3. [Disambiguating Symbolic Expressions in Informal Documents](https://openreview.net/forum?id=K5j7D81ABvt)
+   - Dennis Müller, Cezary Kaliszyk; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kyaieyj4zz"></a>
+4. [GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](https://openreview.net/forum?id=kyaIeYj4zZ)
+   - Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, bailin wang, Yi Chern Tan, Xinyi Yang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-jloc4ez43pz"></a>
+5. [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://openreview.net/forum?id=jLoC4ez43PZ)
+   - Daya Guo, Shuo Ren, Shuai Lu, Zhangyin Feng, Duyu Tang, Shujie LIU, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xh5emzvongf"></a>
+6. [Language-Agnostic Representation Learning of Source Code from Structure and Context](https://openreview.net/forum?id=Xh5eMZVONGF)
+   - Daniel Zügner, Tobias Kirschstein, Michele Catasta, Jure Leskovec, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-v9hax77-cz"></a>
+7. [Learning Structural Edits via Incremental Tree Transformations](https://openreview.net/forum?id=v9hAX77--cZ)
+   - Ziyu Yao, Frank F. Xu, Pengcheng Yin, Huan Sun, Graham Neubig; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ps3imnscugk"></a>
+8. [Learning to Recombine and Resample Data For Compositional Generalization](https://openreview.net/forum?id=PS3IMnScugk)
+   - Ekin Akyürek, Afra Feyza Akyürek, Jacob Andreas; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mntmhadkar"></a>
+9. [Predicting Inductive Biases of Pre-Trained Models](https://openreview.net/forum?id=mNtmhaDkAr)
+   - Charles Lovering, Rohan Jha, Tal Linzen, Ellie Pavlick; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-17vnwxyzyhh"></a>
+10. [Probing BERT in Hyperbolic Spaces](https://openreview.net/forum?id=17VnwXYZyhH)
+   - Boli Chen, Yao Fu, Guangwei Xu, Pengjun Xie, Chuanqi Tan, Mosha Chen, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mctadqixoj"></a>
+11. [Representing Partial Programs with Blended Abstract Semantics](https://openreview.net/forum?id=mCtadqIxOJ)
+   - Maxwell Nye, Yewen Pu, Matthew Bowers, Jacob Andreas, Joshua B. Tenenbaum, Armando Solar-Lezama; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zv-typ1gpxa"></a>
+12. [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
+   - Shangqing Liu, Yu Chen, Xiaofei Xie, Jing Kai Siow, Yang Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yma86zo-p-t"></a>
+13. [What they do when in doubt: a study of inductive biases in seq2seq learners](https://openreview.net/forum?id=YmA86Zo-P_t)
+   - Eugene Kharitonov, Rahma Chaabouni; assignment: `hdbscan`; source: `OpenReview`

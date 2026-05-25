@@ -1,101 +1,113 @@
-# ICLR 2021: 强化学习策略与奖励建模
+# ICLR 2021: contrastive / representation learning / self-supervised / clustering
 
 - Topic ID: `5`
-- Papers: **27** (3.14%)
-- Macro topic: 强化学习/决策
-- English keywords: `reinforcement / offline / policy / policies`
-- Keyword pool: reinforcement; offline; policy; policies; model-based; reward; control; value; model-free; mpc; function approximation; mdps
+- Papers: **31** (3.61%)
+- Macro topic: 计算机视觉
+- English keywords: `contrastive / representation learning / self-supervised / clustering`
+- Keyword pool: contrastive; representation learning; self-supervised; clustering; keypoint; object; unsupervised; visual; discrimination; one-class; detection; views
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Parameter-Based Value Functions
-- Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization
-- Model-Based Offline Planning
-- DeepAveragers: Offline Reinforcement Learning By Solving Derived Non-Parametric MDPs
-- Blending MPC & Value Function Approximation for Efficient Reinforcement Learning
+- What Should Not Be Contrastive in Contrastive Learning
+- Self-supervised Learning from a Multi-view Perspective
+- Conditional Negative Sampling for Contrastive Learning of Visual Representations
+- SEED: Self-supervised Distillation For Visual Representation
+- Exploring Balanced Feature Spaces for Representation Learning
 
 ## Papers
 
-<a id="paper-j1rmmkep2gr"></a>
-1. [Acting in Delayed Environments with Non-Stationary Markov Policies](https://openreview.net/forum?id=j1RMMKeP2gR)
-   - Esther Derman, Gal Dalal, Shie Mannor; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dyjpvuc2kb"></a>
-2. [Adapting to Reward Progressivity via Spectral Reinforcement Learning](https://openreview.net/forum?id=dyjPVUc2KB)
-   - Michael Dann, John Thangarajah; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kmqjgsnxby"></a>
-3. [Autoregressive Dynamics Models for Offline Policy Evaluation and Optimization](https://openreview.net/forum?id=kmqjgSNXby)
-   - Michael R Zhang, Thomas Paine, Ofir Nachum, Cosmin Paduraru, George Tucker, ziyu wang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kwsegeehvf8"></a>
-4. [Benchmarks for Deep Off-Policy Evaluation](https://openreview.net/forum?id=kWSeGEeHvF8)
-   - Justin Fu, Mohammad Norouzi, Ofir Nachum, George Tucker, ziyu wang, Alexander Novikov, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rqcc-00bg7v"></a>
-5. [Blending MPC & Value Function Approximation for Efficient Reinforcement Learning](https://openreview.net/forum?id=RqCC_00Bg7V)
-   - Mohak Bhardwaj, Sanjiban Choudhury, Byron Boots; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-emp1j9efxtx"></a>
-6. [DeepAveragers: Offline Reinforcement Learning By Solving Derived Non-Parametric MDPs](https://openreview.net/forum?id=eMP1j9efXtX)
-   - Aayam Kumar Shrestha, Stefan Lee, Prasad Tadepalli, Alan Fern; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3hgnqpi4ws"></a>
-7. [Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization](https://openreview.net/forum?id=3hGNqpI4WS)
-   - Tatsuya Matsushima, Hiroki Furuta, Yutaka Matsuo, Ofir Nachum, Shixiang Gu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pukhwz65dy5"></a>
-8. [Discovering a set of policies for the worst case reward](https://openreview.net/forum?id=PUkhWz65dy5)
-   - Tom Zahavy, Andre Barreto, Daniel J Mankowitz, Shaobo Hou, Brendan O'Donoghue, Iurii Kemaev, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fmtsg8591q"></a>
-9. [Efficient Reinforcement Learning in Factored MDPs with Application to Constrained RL](https://openreview.net/forum?id=fmtSg8591Q)
-   - Xiaoyu Chen, Jiachen Hu, Lihong Li, Liwei Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0xxpj4otjw"></a>
-10. [Evolving Reinforcement Learning Algorithms](https://openreview.net/forum?id=0XXpJ4OtjW)
-   - John D Co-Reyes, Yingjie Miao, Daiyi Peng, Esteban Real, Quoc V Le, Sergey Levine, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nc3tjqbcl3"></a>
-11. [Extracting Strong Policies for Robotics Tasks from Zero-Order Trajectory Optimizers](https://openreview.net/forum?id=Nc3TJqbcl3)
-   - Cristina Pinneri, Shambhuraj Sawant, Sebastian Blaes, Georg Martius; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8cphifgy4dj"></a>
-12. [FOCAL: Efficient Fully-Offline Meta-Reinforcement Learning via Distance Metric Learning and Behavior Regularization](https://openreview.net/forum?id=8cpHIfgY4Dj)
-   - Lanqing Li, Rui Yang, Dijun Luo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6t-dlshiuyz"></a>
-13. [Greedy-GQ with Variance Reduction: Finite-time Analysis and Improved Complexity](https://openreview.net/forum?id=6t_dLShIUyZ)
-   - Shaocong Ma, Ziyi Chen, Yi Zhou, Shaofeng Zou; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-o9bnihsffxu"></a>
-14. [Implicit Under-Parameterization Inhibits Data-Efficient Deep Reinforcement Learning](https://openreview.net/forum?id=O9bnihsFfXU)
-   - Aviral Kumar, Rishabh Agarwal, Dibya Ghosh, Sergey Levine; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-fmooi2a3tqp"></a>
-15. [Learning Robust State Abstractions for Hidden-Parameter Block MDPs](https://openreview.net/forum?id=fmOOI2a3tQP)
-   - Amy Zhang, Shagun Sodhani, Khimya Khetarpal, Joelle Pineau; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-omnb1g5xzd4"></a>
-16. [Model-Based Offline Planning](https://openreview.net/forum?id=OMNB1G5xzd4)
-   - Arthur Argenson, Gabriel Dulac-Arnold; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p5uylg94s68"></a>
-17. [Model-based micro-data reinforcement learning: what are the crucial model properties and which model to choose?](https://openreview.net/forum?id=p5uylG94S68)
-   - Balázs Kégl, Gabriel Hurtado, Albert Thomas; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dkg5d1z1lm"></a>
-18. [Non-asymptotic Confidence Intervals of Off-policy Evaluation: Primal and Dual Bounds](https://openreview.net/forum?id=dKg5D1Z1Lm)
-   - Yihao Feng, Ziyang Tang, na zhang, qiang liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-v69lgwj0lin"></a>
-19. [OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning](https://openreview.net/forum?id=V69LGwJ0lIN)
-   - Anurag Ajay, Aviral Kumar, Pulkit Agrawal, Sergey Levine, Ofir Nachum; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cbmjwzneppz"></a>
-20. [Optimism in Reinforcement Learning with Generalized Linear Function Approximation](https://openreview.net/forum?id=CBmJwzneppz)
-   - Yining Wang, Ruosong Wang, Simon Shaolei Du, Akshay Krishnamurthy; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tv6obfuyltq"></a>
-21. [Parameter-Based Value Functions](https://openreview.net/forum?id=tV6oBfuyLTQ)
-   - Francesco Faccio, Louis Kirsch, Jürgen Schmidhuber; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-lweqnp6cyev"></a>
-22. [Quantifying Differences in Reward Functions](https://openreview.net/forum?id=LwEQnp6CYev)
-   - Adam Gleave, Michael D Dennis, Shane Legg, Stuart Russell, Jan Leike; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ay8zfzm0tdd"></a>
-23. [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://openreview.net/forum?id=AY8zfZm0tDd)
-   - Xinyue Chen, Che Wang, Zijian Zhou, Keith W. Ross; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qfynklbjyr"></a>
-24. [Reinforcement Learning with Random Delays](https://openreview.net/forum?id=QFYnKlBJYR)
-   - Yann Bouteiller, Simon Ramstedt, Giovanni Beltrame, Christopher Pal, Jonathan Binas; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-qpnz8r-ri2y"></a>
-25. [Representation Balancing Offline Model-based Reinforcement Learning](https://openreview.net/forum?id=QpNz8r_Ri2Y)
-   - Byung-Jun Lee, Jongmin Lee, Kee-Eung Kim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-e3ys6a1ntgt"></a>
-26. [The Importance of Pessimism in Fixed-Dataset Policy Optimization](https://openreview.net/forum?id=E3Ys6a1NTGT)
-   - Jacob Buckman, Carles Gelada, Marc G Bellemare; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-30evkp2aqld"></a>
-27. [What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://openreview.net/forum?id=30EvkP2aQLD)
-   - Ruosong Wang, Dean Foster, Sham M. Kakade; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-t6axtoawydq"></a>
+1. [$i$-Mix: A Domain-Agnostic Strategy for Contrastive Representation Learning](https://openreview.net/forum?id=T6AxtOaWydQ)
+   - Kibok Lee, Yian Zhu, Kihyuk Sohn, Chun-Liang Li, Jinwoo Shin, Honglak Lee; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-foyuz26emy"></a>
+2. [A Critique of Self-Expressive Deep Subspace Clustering](https://openreview.net/forum?id=FOyuZ26emy)
+   - Benjamin David Haeffele, Chong You, Rene Vidal; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-04cii6mumyv"></a>
+3. [A Universal Representation Transformer Layer for Few-Shot Image Classification](https://openreview.net/forum?id=04cII6MumYV)
+   - Lu Liu, William L. Hamilton, Guodong Long, Jing Jiang, Hugo Larochelle; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-umidul8rmh"></a>
+4. [BOIL: Towards Representation Change for Few-shot Learning](https://openreview.net/forum?id=umIdUL8rMH)
+   - Jaehoon Oh, Hyungjun Yoo, ChangHwan Kim, Se-Young Yun; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-u4xljhqwnf1"></a>
+5. [CO2: Consistent Contrast for Unsupervised Visual Representation Learning](https://openreview.net/forum?id=U4XLJhqwNF1)
+   - Chen Wei, Huiyu Wang, Wei Shen, Alan Yuille; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-e12ndm7wkey"></a>
+6. [Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation](https://openreview.net/forum?id=e12NDM7wkEY)
+   - Yaling Tao, Kentaro Takagi, Kouta Nakata; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-v8b3e5jn66j"></a>
+7. [Conditional Negative Sampling for Contrastive Learning of Visual Representations](https://openreview.net/forum?id=v8b3e5jN66j)
+   - Mike Wu, Milan Mosse, Chengxu Zhuang, Daniel Yamins, Noah Goodman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cr1xoq0uth"></a>
+8. [Contrastive Learning with Hard Negative Samples](https://openreview.net/forum?id=CR1XOQ0UTh-)
+   - Joshua David Robinson, Ching-Yao Chuang, Suvrit Sra, Stefanie Jegelka; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-f8whuo8hnbp"></a>
+9. [Contrastive Syn-to-Real Generalization](https://openreview.net/forum?id=F8whUO8HNbP)
+   - Wuyang Chen, Zhiding Yu, Shalini De Mello, Sifei Liu, Jose M. Alvarez, Zhangyang Wang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-yz-xtk5rbxb"></a>
+10. [Deep Repulsive Clustering of Ordered Data Based on Order-Identity Decomposition](https://openreview.net/forum?id=Yz-XtK5RBxB)
+   - Seon-Ho Lee, Chang-Su Kim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oqtliabptit"></a>
+11. [Exploring Balanced Feature Spaces for Representation Learning](https://openreview.net/forum?id=OqtLIabPTit)
+   - Bingyi Kang, Yu Li, Sa Xie, Zehuan Yuan, Jiashi Feng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ukhgrvm8qnh"></a>
+12. [Improve Object Detection with Feature-based Knowledge Distillation: Towards Accurate and Efficient Detectors](https://openreview.net/forum?id=uKhGRvM8QNH)
+   - Linfeng Zhang, Kaisheng Ma; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-nomedgiebwe"></a>
+13. [Improving Transformation Invariance in Contrastive Representation Learning](https://openreview.net/forum?id=NomEDgIEBwE)
+   - Adam Foster, Rattana Pukdee, Tom Rainforth; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mwcqvlpspy"></a>
+14. [Isometric Propagation Network for Generalized Zero-shot Learning](https://openreview.net/forum?id=-mWcQVLPSPy)
+   - Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong, Chengqi Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xtjen-ggl1b"></a>
+15. [LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/forum?id=xTJEN-ggl1b)
+   - Irwan Bello; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-hcsgypufedj"></a>
+16. [Learning and Evaluating Representations for Deep One-Class Classification](https://openreview.net/forum?id=HCSgyPUfeDj)
+   - Kihyuk Sohn, Chun-Liang Li, Jinsung Yoon, Minho Jin, Tomas Pfister; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gv3wdeogy-v"></a>
+17. [MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering](https://openreview.net/forum?id=gV3wdEOGy_V)
+   - Tsung Wei Tsai, Chongxuan Li, Jun Zhu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0-eybhgw80y"></a>
+18. [MoPro: Webly Supervised Learning with Momentum Prototypes](https://openreview.net/forum?id=0-EYBhgw80y)
+   - Junnan Li, Caiming Xiong, Steven Hoi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tyxs-y84xrj"></a>
+19. [PolarNet: Learning to Optimize Polar Keypoints for Keypoint Based Object Detection](https://openreview.net/forum?id=TYXs_y84xRj)
+   - Wu Xiongwei, Doyen Sahoo, Steven HOI; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kmykpusrjcq"></a>
+20. [Prototypical Contrastive Learning of Unsupervised Representations](https://openreview.net/forum?id=KmykpuSrjcq)
+   - Junnan Li, Pan Zhou, Caiming Xiong, Steven Hoi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9p2ekp904rs"></a>
+21. [Representation Learning via Invariant Causal Mechanisms](https://openreview.net/forum?id=9p2ekP904Rs)
+   - Jovana Mitrovic, Brian McWilliams, Jacob C Walker, Lars Holger Buesing, Charles Blundell; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ahm3dbp7d1d"></a>
+22. [SEED: Self-supervised Distillation For Visual Representation](https://openreview.net/forum?id=AHm3dbp7D1D)
+   - Zhiyuan Fang, Jianfeng Wang, Lijuan Wang, Lei Zhang, Yezhou Yang, Zicheng Liu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-bdp-8itjwp"></a>
+23. [Self-supervised Learning from a Multi-view Perspective](https://openreview.net/forum?id=-bdp_8Itjwp)
+   - Yao-Hung Hubert Tsai, Yue Wu, Ruslan Salakhutdinov, Louis-Philippe Morency; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-068e-jsq9o"></a>
+24. [Self-supervised Representation Learning with Relative Predictive Coding](https://openreview.net/forum?id=068E_JSq9O)
+   - Yao-Hung Hubert Tsai, Martin Q. Ma, Muqiao Yang, Han Zhao, Louis-Philippe Morency, Ruslan Salakhutdinov; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yfj67ztei2"></a>
+25. [Semi-supervised Keypoint Localization](https://openreview.net/forum?id=yFJ67zTeI2)
+   - Olga Moskvyak, Frederic Maire, Feras Dayoub, Mahsa Baktashmotlagh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n33d7wjgzde"></a>
+26. [Universal Weakly Supervised Segmentation by Pixel-to-Segment Contrastive Learning](https://openreview.net/forum?id=N33d7wjgzde)
+   - Tsung-Wei Ke, Jyh-Jing Hwang, Stella Yu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gjwmhethc73"></a>
+27. [Unsupervised Object Keypoint Learning using Local Spatial Predictability](https://openreview.net/forum?id=GJwMHetHc73)
+   - Anand Gopalakrishnan, Sjoerd van Steenkiste, Jürgen Schmidhuber; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-enovqwlsfyl"></a>
+28. [Viewmaker Networks: Learning Views for Unsupervised Representation Learning](https://openreview.net/forum?id=enoVQWLsfyL)
+   - Alex Tamkin, Mike Wu, Noah Goodman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qm8unvcfdh"></a>
+29. [What Can You Learn From Your Muscles? Learning Visual Representation from Human Interactions](https://openreview.net/forum?id=Qm8UNVCFdh)
+   - Kiana Ehsani, Daniel Gordon, Thomas Hai Dang Nguyen, Roozbeh Mottaghi, Ali Farhadi; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-tc6iw2uubjf"></a>
+30. [What Makes Instance Discrimination Good for Transfer Learning?](https://openreview.net/forum?id=tC6iW2UUbJf)
+   - Nanxuan Zhao, Zhirong Wu, Rynson W. H. Lau, Stephen Lin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cz8y3nzuvzo"></a>
+31. [What Should Not Be Contrastive in Contrastive Learning](https://openreview.net/forum?id=CZ8Y3NzuVzO)
+   - Tete Xiao, Xiaolong Wang, Alexei A Efros, Trevor Darrell; assignment: `hdbscan`; source: `OpenReview`

@@ -1,68 +1,68 @@
-# ICLR 2023: 目标检测与图像分割
+# ICLR 2023: teacher / student / distillation / augmentation
 
 - Topic ID: `45`
-- Papers: **16** (1.02%)
-- Macro topic: 计算机视觉
-- English keywords: `object-centric / objects / rearrangement / unsupervised`
-- Keyword pool: object-centric; objects; rearrangement; unsupervised; visual; hebbian; scene; binding; entities; segmentation; detectors; interactions
+- Papers: **16** (1.05%)
+- Macro topic: 系统/效率/压缩
+- English keywords: `teacher / student / distillation / augmentation`
+- Keyword pool: teacher; student; distillation; augmentation; feature; ideal; ensemble; nas; pre-trained; distilling; task-agnostic; capacity
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Bridging the Gap to Real-World Object-Centric Learning
-- Improving Object-centric Learning with Query Optimization
-- Robust and Controllable Object-Centric Learning through Energy-based Models
-- Differentiable Mathematical Programming for Object-Centric Representation Learning
-- Neural Systematic Binder
+- Supervision Complexity and its Role in Knowledge Distillation
+- Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation
+- Teacher Guided Training: An Efficient Framework for Knowledge Transfer
+- NORM: Knowledge Distillation via N-to-One Representation Matching
+- Scaffolding a Student to Instill Knowledge
 
 ## Papers
 
-<a id="paper-1c6nccare6p"></a>
-1. [A Simple Approach for Visual Room Rearrangement: 3D Mapping and Semantic Search](https://openreview.net/forum?id=1C6nCCaRe6p)
-   - Brandon Trabucco, Gunnar A Sigurdsson, Robinson Piramuthu, Gaurav S. Sukhatme, Ruslan Salakhutdinov; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-zcstthyw-td"></a>
-2. [Associative Memory Augmented Asynchronous Spatiotemporal Representation Learning for Event-based Perception](https://openreview.net/forum?id=ZCStthyW-TD)
-   - Uday Kamal, Saurabh Dash, Saibal Mukhopadhyay; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-b9tuk-f-ag"></a>
-3. [Bridging the Gap to Real-World Object-Centric Learning](https://openreview.net/forum?id=b9tUk-f_aG)
-   - Maximilian Seitzer, Max Horn, Andrii Zadaianchuk, Dominik Zietlow, Tianjun Xiao, Carl-Johann Simon-Gabriel, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1j-ztr7aypy"></a>
-4. [Differentiable Mathematical Programming for Object-Centric Representation Learning](https://openreview.net/forum?id=1J-ZTr7aypY)
-   - Adeel Pervez, Phillip Lippe, Efstratios Gavves; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fgg6vhp3w9w"></a>
-5. [Hierarchical Abstraction for Combinatorial Generalization in Object Rearrangement](https://openreview.net/forum?id=fGG6vHp3W9W)
-   - Michael Chang, Alyssa Li Dayan, Franziska Meier, Thomas L. Griffiths, Sergey Levine, Amy Zhang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-9mbhfhqrti9"></a>
-6. [ImaginaryNet: Learning Object Detectors without Real Images and Annotations](https://openreview.net/forum?id=9MbhFHqrti9)
-   - Minheng Ni, Zitong Huang, Kailai Feng, Wangmeng Zuo; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-fn9mjsgg"></a>
-7. [Improving Object-centric Learning with Query Optimization](https://openreview.net/forum?id=_-FN9mJsgg)
-   - Baoxiong Jia, Yu Liu, Siyuan Huang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jqc2vowqczz"></a>
-8. [Interaction-Based Disentanglement of Entities for Object-Centric World Models](https://openreview.net/forum?id=JQc2VowqCzz)
-   - Akihiro Nakano, Masahiro Suzuki, Yutaka Matsuo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nedc-ak-h"></a>
-9. [Learning What and Where: Disentangling Location and Identity Tracking Without Supervision](https://openreview.net/forum?id=NeDc-Ak-H_)
-   - Manuel Traub, Sebastian Otte, Tobias Menge, Matthias Karlbauer, Jannik Thuemmel, Martin V. Butz; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zphe4fht19t"></a>
-10. [Neural Systematic Binder](https://openreview.net/forum?id=ZPHE4fht19t)
-   - Gautam Singh, Yeongbin Kim, Sungjin Ahn; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kjwci39kxy"></a>
-11. [ODAM: Gradient-based Instance-Specific Visual Explanations for Object Detection](https://openreview.net/forum?id=kJWcI39kXY)
-   - Chenyang ZHAO, Antoni B. Chan; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-zjxg-wmob03"></a>
-12. [Progressive Voronoi Diagram Subdivision Enables Accurate Data-free Class-Incremental Learning](https://openreview.net/forum?id=zJXg_Wmob03)
-   - Chunwei Ma, Zhanghexuan Ji, Ziyun Huang, Yan Shen, Mingchen Gao, Jinhui Xu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wcntbetcgic"></a>
-13. [Robust and Controllable Object-Centric Learning through Energy-based Models](https://openreview.net/forum?id=wcNtbEtcGIC)
-   - Ruixiang ZHANG, Tong Che, Boris Ivanovic, Renhao Wang, Marco Pavone, Yoshua Bengio, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tfbwv6i0vlg"></a>
-14. [SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models](https://openreview.net/forum?id=TFbwV6I0VLg)
-   - Ziyi Wu, Nikita Dvornik, Klaus Greff, Thomas Kipf, Animesh Garg; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mxpobtnpmnuy"></a>
-15. [Unsupervised 3D Object Learning through Neuron Activity aware Plasticity](https://openreview.net/forum?id=mXPoBtnpMnuy)
-   - Beomseok Kang, Biswadeep Chakraborty, Saibal Mukhopadhyay; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-1-jfnef07yc"></a>
-16. [Unsupervised Semantic Segmentation with Self-supervised Object-centric Representations](https://openreview.net/forum?id=1_jFneF07YC)
-   - Andrii Zadaianchuk, Matthaeus Kleindessner, Yi Zhu, Francesco Locatello, Thomas Brox; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kppvmuf6bm"></a>
+1. [Augmentation with Projection: Towards an Effective and Efficient Data Augmentation Paradigm for Distillation](https://openreview.net/forum?id=kPPVmUF6bM_)
+   - Ziqi Wang, Yuexin Wu, Frederick Liu, Daogao Liu, Le Hou, Hongkun Yu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-m0-suueyhs"></a>
+2. [Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation](https://openreview.net/forum?id=M0_sUuEyHs)
+   - Martin Zong, Zengyu Qiu, Xinzhu Ma, Kunlin Yang, Chunya Liu, Jun Hou, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-99rpbvplix"></a>
+3. [Distilling Model Failures as Directions in Latent Space](https://openreview.net/forum?id=99RpBVpLiX)
+   - Saachi Jain, Hannah Lawrence, Ankur Moitra, Aleksander Madry; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-pghnocxedri"></a>
+4. [Function-Consistent Feature Distillation](https://openreview.net/forum?id=pgHNOcxEdRI)
+   - Dongyang Liu, Meina Kan, Shiguang Shan, Xilin CHEN; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-d7srtrghas"></a>
+5. [HomoDistil: Homotopic Task-Agnostic Distillation of Pre-trained Transformers](https://openreview.net/forum?id=D7srTrGhAs)
+   - Chen Liang, Haoming Jiang, Zheng Li, Xianfeng Tang, Bing Yin, Tuo Zhao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cont6h7mwl"></a>
+6. [IDEAL: Query-Efficient Data-Free Learning from Black-Box Models](https://openreview.net/forum?id=ConT6H7MWL)
+   - Jie Zhang, Chen Chen, Lingjuan Lyu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-seh5sfeqtqb"></a>
+7. [Meta-prediction Model for Distillation-Aware NAS on Unseen Datasets](https://openreview.net/forum?id=SEh5SfEQtqB)
+   - Hayeon Lee, Sohyun An, Minseon Kim, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-crnwgauqpb6"></a>
+8. [NORM: Knowledge Distillation via N-to-One Representation Matching](https://openreview.net/forum?id=CRNwGauQpb6)
+   - Xiaolong Liu, LUKING LI, Chao Li, Anbang Yao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-exkhh12dtd9"></a>
+9. [Pseudo-label Training and Model Inertia in Neural Machine Translation](https://openreview.net/forum?id=eXkhH12DTD9)
+   - Benjamin Hsu, Anna Currey, Xing Niu, Maria Nadejde, Georgiana Dinu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-aldm5sn2r7m"></a>
+10. [Robust Active Distillation](https://openreview.net/forum?id=ALDM5SN2r7M)
+   - Cenk Baykal, Khoa Trinh, Fotis Iliopoulos, Gaurav Menghani, Erik Vee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n4k5ck-btt"></a>
+11. [Scaffolding a Student to Instill Knowledge](https://openreview.net/forum?id=N4K5ck-BTT)
+   - Anil Kag, Durmus Alp Emre Acar, Aditya Gangrade, Venkatesh Saligrama; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kj6ok-hj40"></a>
+12. [Self-Distillation for Further Pre-training of Transformers](https://openreview.net/forum?id=kj6oK_Hj40)
+   - Seanie Lee, Minki Kang, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8ju7wy7n7ma"></a>
+13. [Supervision Complexity and its Role in Knowledge Distillation](https://openreview.net/forum?id=8jU7wy7N7mA)
+   - Hrayr Harutyunyan, Ankit Singh Rawat, Aditya Krishna Menon, Seungyeon Kim, Sanjiv Kumar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gvsf7z7dbyl"></a>
+14. [Teacher Guided Training: An Efficient Framework for Knowledge Transfer](https://openreview.net/forum?id=GVSf7Z7DbYL)
+   - Manzil Zaheer, Ankit Singh Rawat, Seungyeon Kim, Chong You, Himanshu Jain, Andreas Veit, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uuf2q9tfxga"></a>
+15. [Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning](https://openreview.net/forum?id=Uuf2q9TfXGA)
+   - Zeyuan Allen-Zhu, Yuanzhi Li; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9higqc9c-ka"></a>
+16. [simpleKT: A Simple But Tough-to-Beat Baseline for Knowledge Tracing](https://openreview.net/forum?id=9HiGqC9C-KA)
+   - Zitao Liu, Qiongqiong Liu, Jiahao Chen, Shuyan Huang, Weiqi Luo; assignment: `hdbscan`; source: `OpenReview`

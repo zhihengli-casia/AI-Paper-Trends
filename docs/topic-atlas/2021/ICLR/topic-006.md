@@ -1,98 +1,110 @@
-# ICLR 2021: 对抗攻击、鲁棒性与安全
+# ICLR 2021: 强化学习算法与理论
 
 - Topic ID: `6`
-- Papers: **26** (3.02%)
-- Macro topic: 生成模型
-- English keywords: `generative / image / gan / discriminator`
-- Keyword pool: generative; image; gan; discriminator; vaes; adversarial; conditional; unsupervised; editing; synthesis; private; meta-learning
+- Papers: **30** (3.49%)
+- Macro topic: 强化学习/决策
+- English keywords: `agent / memory / language / reinforcement learning`
+- Keyword pool: agent; memory; language; reinforcement learning; dialogue; environment; actions; navigation; interface; planning; user; humans
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Decoupling Global and Local Representations via Invertible Generative Flows
-- Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis
-- Training GANs with Stronger Augmentations via Contrastive Discriminator
-- Refining Deep Generative Models via Discriminator Gradient Flow
-- CcGAN: Continuous Conditional Generative Adversarial Networks for Image Generation
+- Meta-Learning of Structured Task Distributions in Humans and Machines
+- Ask Your Humans: Using Human Instructions to Improve Generalization in Reinforcement Learning
+- Fast And Slow Learning Of Recurrent Independent Mechanisms
+- Grounded Language Learning Fast and Slow
+- Grounding Language to Autonomously-Acquired Skills via Goal Generation
 
 ## Papers
 
-<a id="paper-wqrlsuz5v7b"></a>
-1. [Capturing Label Characteristics in VAEs](https://openreview.net/forum?id=wQRlSUZ5V7B)
-   - Tom Joy, Sebastian Schmon, Philip Torr, Siddharth N, Tom Rainforth; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-przjugosdee"></a>
-2. [CcGAN: Continuous Conditional Generative Adversarial Networks for Image Generation](https://openreview.net/forum?id=PrzjugOsDeE)
-   - Xin Ding, Yongwei Wang, Zuheng Xu, William J Welch, Z. Jane Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5na1pinlgfu"></a>
-3. [Colorization Transformer](https://openreview.net/forum?id=5NA1PinlGFu)
-   - Manoj Kumar, Dirk Weissenborn, Nal Kalchbrenner; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vjnrycnrc6"></a>
-4. [Conditional Generative Modeling via Learning the Latent Space](https://openreview.net/forum?id=VJnrYcnRc6)
-   - Sameera Ramasinghe, Kanchana Nisal Ranasinghe, Salman Khan, Nick Barnes, Stephen Gould; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-gwnovhies05"></a>
-5. [Creative Sketch Generation](https://openreview.net/forum?id=gwnoVHIES05)
-   - Songwei Ge, Vedanuj Goswami, Larry Zitnick, Devi Parikh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-waismwsqdsb"></a>
-6. [DINO: A Conditional Energy-Based GAN for Domain Translation](https://openreview.net/forum?id=WAISmwsqDsb)
-   - Konstantinos Vougioukas, Stavros Petridis, Maja Pantic; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iwlbyfvuhn"></a>
-7. [Decoupling Global and Local Representations via Invertible Generative Flows](https://openreview.net/forum?id=iWLByfvUhN)
-   - Xuezhe Ma, Xiang Kong, Shanghang Zhang, Eduard H Hovy; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hofxecutxzr"></a>
-8. [Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation](https://openreview.net/forum?id=HOFxeCutxZR)
-   - Peiye Zhuang, Oluwasanmi O Koyejo, Alex Schwing; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5y21v0rdbv"></a>
-9. [Generalized Multimodal ELBO](https://openreview.net/forum?id=5Y21V0RDBV)
-   - Thomas M. Sutter, Imant Daunhawer, Julia E Vogt; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-0o-cqfw6ueh"></a>
-10. [Gradient Origin Networks](https://openreview.net/forum?id=0O_cQfw6uEh)
-   - Sam Bond-Taylor, Chris G. Willcocks; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hs-otp2rb"></a>
-11. [Improving VAEs' Robustness to Adversarial Attack](https://openreview.net/forum?id=-Hs_otp2RB)
-   - Matthew JF Willetts, Alexander Camuto, Tom Rainforth, S Roberts, Christopher C Holmes; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ophlcxxytc"></a>
-12. [Influence Estimation for Generative Adversarial Networks](https://openreview.net/forum?id=opHLcXxYTC_)
-   - Naoyuki Terashita, Hiroki Ohashi, Yuichi Nonaka, Takashi Kanemaru; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ssjqmfsk95o"></a>
-13. [Large Scale Image Completion via Co-Modulated Generative Adversarial Networks](https://openreview.net/forum?id=sSjqmfsk95O)
-   - Shengyu Zhao, Jonathan Cui, Yilun Sheng, Yue Dong, Xiao Liang, Eric I-Chao Chang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ws0ufjsnyjn"></a>
-14. [Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning](https://openreview.net/forum?id=wS0UFjsNYjn)
-   - Dong Bok Lee, Dongchan Min, Seanie Lee, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nerdbetionn"></a>
-15. [On Self-Supervised Image Representations for GAN Evaluation](https://openreview.net/forum?id=NeRdBeTionN)
-   - Stanislav Morozov, Andrey Voynov, Artem Babenko; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-6isfr3jcbi"></a>
-16. [Private Post-GAN Boosting](https://openreview.net/forum?id=6isfR3JCbi)
-   - Marcel Neunhoeffer, Steven Wu, Cynthia Dwork; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-tyxg-oms9we"></a>
-17. [Property Controllable Variational Autoencoder via Invertible Mutual Dependence](https://openreview.net/forum?id=tYxG_OMs9WE)
-   - Xiaojie Guo, Yuanqi Du, Liang Zhao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zbc-ue9p-re"></a>
-18. [Refining Deep Generative Models via Discriminator Gradient Flow](https://openreview.net/forum?id=Zbc-ue9p_rE)
-   - Abdul Fatir Ansari, Ming Liang Ang, Harold Soh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-i4c4k9vbnny"></a>
-19. [Spatial Dependency Networks: Neural Layers for Improved Generative Image Modeling](https://openreview.net/forum?id=I4c4K9vBNny)
-   - Đorđe Miladinović, Aleksandar Stanić, Stefan Bauer, Jürgen Schmidhuber, Joachim M. Buhmann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zw0yxjynmog"></a>
-20. [Taming GANs with Lookahead-Minmax](https://openreview.net/forum?id=ZW0yXJyNmoG)
-   - Tatjana Chavdarova, Matteo Pagliardini, Sebastian U Stich, François Fleuret, Martin Jaggi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-1fqg133qrai"></a>
-21. [Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis](https://openreview.net/forum?id=1Fqg133qRaI)
-   - Bingchen Liu, Yizhe Zhu, Kunpeng Song, Ahmed Elgammal; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-eo6u4cawvmg"></a>
-22. [Training GANs with Stronger Augmentations via Contrastive Discriminator](https://openreview.net/forum?id=eo6U4CAwVmg)
-   - Jongheon Jeong, Jinwoo Shin; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-xojv2hxif6i"></a>
-23. [Unsupervised Meta-Learning through Latent-Space Interpolation in Generative Models](https://openreview.net/forum?id=XOjv2HxIF6i)
-   - Siavash Khodadadeh, Sharare Zehtabian, Saeed Vahidian, Weijia Wang, Bill Lin, Ladislau Boloni; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sjuutm4vj0"></a>
-24. [Using latent space regression to analyze and leverage compositionality in GANs](https://openreview.net/forum?id=sjuuTm4vj0)
-   - Lucy Chai, Jonas Wulff, Phillip Isola; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rlrxcv6dbej"></a>
-25. [Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images](https://openreview.net/forum?id=RLRXCV6DbEJ)
-   - Rewon Child; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yvqklaqne6m"></a>
-26. [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://openreview.net/forum?id=yvQKLaqNE6M)
-   - Edgar Schönfeld, Vadim Sushko, Dan Zhang, Juergen Gall, Bernt Schiele, Anna Khoreva; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0iox0yccdtn"></a>
+1. [ALFWorld: Aligning Text and Embodied Environments for Interactive Learning](https://openreview.net/forum?id=0IOX0YcCdTn)
+   - Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Cote, Yonatan Bisk, Adam Trischler, Matthew Hausknecht; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dny-rkzjacy"></a>
+2. [Aligning AI With Shared Human Values](https://openreview.net/forum?id=dNy_RKzJacY)
+   - Dan Hendrycks, Collin Burns, Steven Basart, Andrew Critch, Jerry Li, Dawn Song, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-y87ri-gnhyu"></a>
+3. [Ask Your Humans: Using Human Instructions to Improve Generalization in Reinforcement Learning](https://openreview.net/forum?id=Y87Ri-GNHYu)
+   - Valerie Chen, Abhinav Gupta, Kenneth Marino; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sk7a5pdrgov"></a>
+4. [CausalWorld: A Robotic Manipulation Benchmark for Causal Structure and Transfer Learning](https://openreview.net/forum?id=SK7A5pdrgov)
+   - Ossama Ahmed, Frederik Träuble, Anirudh Goyal, Alexander Neitz, Manuel Wuthrich, Yoshua Bengio, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-kdnal-bbb-e"></a>
+5. [DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues](https://openreview.net/forum?id=kDnal_bbb-E)
+   - Rishabh Joshi, Vidhisha Balachandran, Shikhar Vashishth, Alan Black, Yulia Tsvetkov; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-rrfini1cymy"></a>
+6. [End-to-End Egospheric Spatial Memory](https://openreview.net/forum?id=rRFIni1CYmy)
+   - Daniel James Lenton, Stephen James, Ronald Clark, Andrew Davison; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vvdmjgu7pkm"></a>
+7. [Factorizing Declarative and Procedural Knowledge in Structured, Dynamical Environments](https://openreview.net/forum?id=VVdmjgu7pKM)
+   - Anirudh Goyal, Alex Lamb, Phanideep Gampa, Philippe Beaudoin, Charles Blundell, Sergey Levine, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lc28qab4ypz"></a>
+8. [Fast And Slow Learning Of Recurrent Independent Mechanisms](https://openreview.net/forum?id=Lc28QAB4ypz)
+   - Kanika Madan, Nan Rosemary Ke, Anirudh Goyal, Bernhard Schölkopf, Yoshua Bengio; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-45uopa46kh"></a>
+9. [Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule](https://openreview.net/forum?id=45uOPa46Kh)
+   - Shuhei Kurita, Kyunghyun Cho; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-wpswuz-hyqa"></a>
+10. [Grounded Language Learning Fast and Slow](https://openreview.net/forum?id=wpSWuz_hyqA)
+   - Felix Hill, Olivier Tieleman, Tamara von Glehn, Nathaniel Wong, Hamza Merzic, Stephen Clark; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-chpj-i5kmhg"></a>
+11. [Grounding Language to Autonomously-Acquired Skills via Goal Generation](https://openreview.net/forum?id=chPj_I5KMHG)
+   - Ahmed Akakzia, Cédric Colas, Pierre-Yves Oudeyer, Mohamed CHETOUANI, Olivier Sigaud; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9gbzbpn0jx"></a>
+12. [HalentNet: Multimodal Trajectory Forecasting with Hallucinative Intents](https://openreview.net/forum?id=9GBZBPn0Jx)
+   - Deyao Zhu, Mohamed Zahran, Li Erran Li, Mohamed Elhoseiny; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-phxfe1coma"></a>
+13. [HyperDynamics: Meta-Learning Object and Agent Dynamics with Hypernetworks](https://openreview.net/forum?id=pHXfe1cOmA)
+   - Zhou Xian, Shamit Lal, Hsiao-Yu Tung, Emmanouil Antonios Platanios, Katerina Fragkiadaki; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qowatn-b8t"></a>
+14. [Kanerva++: Extending the Kanerva Machine With Differentiable, Locally Block Allocated Latent Memory](https://openreview.net/forum?id=QoWatN-b8T)
+   - Jason Ramapuram, Yan Wu, Alexandros Kalousis; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-qirlze3i6hx"></a>
+15. [Learning Cross-Domain Correspondence for Control with Dynamics Cycle-Consistency](https://openreview.net/forum?id=QIRlze3I6hX)
+   - Qiang Zhang, Tete Xiao, Alexei A Efros, Lerrel Pinto, Xiaolong Wang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-x-4akcd8re"></a>
+16. [Learning Long-term Visual Dynamics with Region Proposal Interaction Networks](https://openreview.net/forum?id=_X_4Akcd8Re)
+   - Haozhi Qi, Xiaolong Wang, Deepak Pathak, Yi Ma, Jitendra Malik; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vcopnwz7bc"></a>
+17. [Learning Task Decomposition with Ordered Memory Policy Network](https://openreview.net/forum?id=vcopnwZ7bC)
+   - Yuchen Lu, Yikang Shen, Siyuan Zhou, Aaron Courville, Joshua B. Tenenbaum, Chuang Gan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cr91faodfme"></a>
+18. [Learning to Set Waypoints for Audio-Visual Navigation](https://openreview.net/forum?id=cR91FAodFMe)
+   - Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh Kumar Ramakrishnan, Kristen Grauman; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-gvhfe3xf5"></a>
+19. [Meta-Learning of Structured Task Distributions in Humans and Machines](https://openreview.net/forum?id=--gvHfE3Xf5)
+   - Sreejan Kumar, Ishita Dasgupta, Jonathan Cohen, Nathaniel Daw, Thomas Griffiths; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-klbhlj8ot12"></a>
+20. [Modelling Hierarchical Structure between Dialogue Policy and Natural Language Generator with Option Framework for Task-oriented Dialogue System](https://openreview.net/forum?id=kLbhLJ8OT12)
+   - Jianhong Wang, Yuan Zhang, Tae-Kyun Kim, Yunjie Gu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-7-g8jysgecm"></a>
+21. [Monte-Carlo Planning and Learning with Language Action Value Estimates](https://openreview.net/forum?id=7_G8JySGecm)
+   - Youngsoo Jang, Seokin Seo, Jongmin Lee, Kee-Eung Kim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n3zudgn5lo"></a>
+22. [My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control](https://openreview.net/forum?id=N3zUDGN5lO)
+   - Vitaly Kurin, Maximilian Igl, Tim Rocktäschel, Wendelin Boehmer, Shimon Whiteson; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-8ln-bq0mzcy"></a>
+23. [On the Critical Role of Conventions in Adaptive Human-AI Collaboration](https://openreview.net/forum?id=8Ln-Bq0mZcy)
+   - Andy Shih, Arjun Sawhney, Jovana Kondic, Stefano Ermon, Dorsa Sadigh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6vs-4kfz0"></a>
+24. [Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning](https://openreview.net/forum?id=-6vS_4Kfz0)
+   - Shauharda Khadka, Estelle Aflalo, Mattias Marder, Avrech Ben-David, Santiago Miret, Shie Mannor, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ptaz-zifbx"></a>
+25. [Prediction and generalisation over directed actions by grid cells](https://openreview.net/forum?id=Ptaz_zIFbX)
+   - Changmin Yu, Timothy Behrens, Neil Burgess; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mlcmdleuxy"></a>
+26. [Recurrent Independent Mechanisms](https://openreview.net/forum?id=mLcmdlEUxy-)
+   - Anirudh Goyal, Alex Lamb, Jordan Hoffmann, Shagun Sodhani, Sergey Levine, Yoshua Bengio, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5l9zj5g7vdy"></a>
+27. [Spatially Structured Recurrent Modules](https://openreview.net/forum?id=5l9zj5G7vDY)
+   - Nasim Rahaman, Anirudh Goyal, Muhammad Waleed Gondal, Manuel Wuthrich, Stefan Bauer, Yash Sharma, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qun8fv4qsby"></a>
+28. [Transient Non-stationarity and Generalisation in Deep Reinforcement Learning](https://openreview.net/forum?id=Qun8fv4qSby)
+   - Maximilian Igl, Gregory Farquhar, Jelena Luketina, Wendelin Boehmer, Shimon Whiteson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-w-7jmpgzrh0"></a>
+29. [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0)
+   - Xavier Puig, Tianmin Shu, Shuang Li, Zilin Wang, Yuan-Hong Liao, Joshua B. Tenenbaum, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lix3eczdphz"></a>
+30. [X2T: Training an X-to-Text Typing Interface with Online Learning from User Feedback](https://openreview.net/forum?id=LiX3ECzDPHZ)
+   - Jensen Gao, Siddharth Reddy, Glen Berseth, Nicholas Hardy, Nikhilesh Natraj, Karunesh Ganguly, et al.; assignment: `hdbscan`; source: `OpenReview`

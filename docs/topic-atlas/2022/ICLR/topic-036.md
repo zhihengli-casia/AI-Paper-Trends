@@ -1,68 +1,62 @@
-# ICLR 2022: 随机优化与收敛理论
+# ICLR 2022: 时间序列预测
 
 - Topic ID: `36`
-- Papers: **16** (1.46%)
-- Macro topic: 理论/优化
-- English keywords: `convex / relu / implicit / learning rate`
-- Keyword pool: convex; relu; implicit; learning rate; gradient; descent; sam; sgd; duality; matrix; deqs; equilibrium
+- Papers: **14** (1.32%)
+- Macro topic: 其他/交叉主题
+- English keywords: `meta-learning / moment / restrictions / meta-features`
+- Keyword pool: meta-learning; moment; restrictions; meta-features; mcmc; multi-label; time-series; forecasting; summary; unlearning; model-agnostic; meta learning
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Demystifying Batch Normalization in ReLU Networks: Equivalent Convex Optimization Models and Implicit Regularization
-- Training invariances and the low-rank phenomenon: beyond linear networks
-- The Hidden Convex Optimization Landscape of Regularized Two-Layer ReLU Networks: an Exact Characterization of Optimal Solutions
-- The Convex Geometry of Backpropagation: Neural Network Gradient Flows Converge to Extreme Points of the Dual Convex Program
-- A global convergence theory for deep ReLU implicit networks via over-parameterization
+- Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate
+- MAML is a Noisy Contrastive Learner in Classification
+- Learning Prototype-oriented Set Representations for Meta-Learning
+- Model Agnostic Interpretability for Multiple Instance Learning
+- Meta-Learning with Fewer Tasks through Task Interpolation
 
 ## Papers
 
-<a id="paper-yx0lrvdpqc"></a>
-1. [A Johnson-Lindenstrauss Framework for Randomly Initialized CNNs](https://openreview.net/forum?id=YX0lrvdPQc)
-   - Ido Nachum, Jan Hazla, Michael Gastpar, Anatoly Khina; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ockmt-36vus"></a>
-2. [A Loss Curvature Perspective on Training Instabilities of Deep Learning Models](https://openreview.net/forum?id=OcKMT-36vUs)
-   - Justin Gilmer, Behrooz Ghorbani, Ankush Garg, Sneha Kudugunta, Behnam Neyshabur, David Cardoze, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-r332s76rjxs"></a>
-3. [A global convergence theory for deep ReLU implicit networks via over-parameterization](https://openreview.net/forum?id=R332S76RjxS)
-   - Tianxiang Gao, Hailiang Liu, Jia Liu, Hridesh Rajan, Hongyang Gao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-q4hatemo-y"></a>
-4. [Declarative nets that are equilibrium models](https://openreview.net/forum?id=q4HaTeMO--y)
-   - Russell Tsuchida, Suk Yee Yong, Mohammad Ali Armin, Lars Petersson, Cheng Soon Ong; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-6xggutacq0b"></a>
-5. [Demystifying Batch Normalization in ReLU Networks: Equivalent Convex Optimization Models and Implicit Regularization](https://openreview.net/forum?id=6XGgutacQ0B)
-   - Tolga Ergen, Arda Sahiner, Batu Ozturkler, John M. Pauly, Morteza Mardani, Mert Pilanci; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ibqtbnfjmi"></a>
-6. [Frequency-aware SGD for Efficient Embedding Learning with Provable Benefits](https://openreview.net/forum?id=ibqTBNfJmi)
-   - Yan Li, Dhruv Choudhary, Xiaohan Wei, Baichuan Yuan, Bhargav Bhushanam, Tuo Zhao, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-e2lle5cij9d"></a>
-7. [Hidden Convexity of Wasserstein GANs: Interpretable Generative Models with Closed-Form Solutions](https://openreview.net/forum?id=e2Lle5cij9D)
-   - Arda Sahiner, Tolga Ergen, Batu Ozturkler, Burak Bartan, John M. Pauly, Morteza Mardani, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-3tbdrs77lj5"></a>
-8. [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://openreview.net/forum?id=3tbDrs77LJ5)
-   - Yuqing Wang, Minshuo Chen, Tuo Zhao, Molei Tao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5i7ljluhtm"></a>
-9. [Learning by Directional Gradient Descent](https://openreview.net/forum?id=5i7lJLuhTm)
-   - David Silver, Anirudh Goyal, Ivo Danihelka, Matteo Hessel, Hado van Hasselt; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6yvik0sakf"></a>
-10. [Multi-Mode Deep Matrix and Tensor Factorization](https://openreview.net/forum?id=6YVIk0sAkF_)
-   - Jicong Fan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-apakox5mp"></a>
-11. [SHINE: SHaring the INverse Estimate from the forward pass for bi-level optimization and implicit models](https://openreview.net/forum?id=-ApAkox5mp)
-   - Zaccharie Ramzi, Florian Mannel, Shaojie Bai, Jean-Luc Starck, Philippe Ciuciu, Thomas Moreau; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-zbeseiub5k"></a>
-12. [Stochastic Training is Not Necessary for Generalization](https://openreview.net/forum?id=ZBESeIUB5k)
-   - Jonas Geiping, Micah Goldblum, Phil Pope, Michael Moeller, Tom Goldstein; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-edonmanhlu"></a>
-13. [Surrogate Gap Minimization Improves Sharpness-Aware Training](https://openreview.net/forum?id=edONMAnhLu-)
-   - Juntang Zhuang, Boqing Gong, Liangzhe Yuan, Yin Cui, Hartwig Adam, Nicha C Dvornek, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-5qhue1qivc6"></a>
-14. [The Convex Geometry of Backpropagation: Neural Network Gradient Flows Converge to Extreme Points of the Dual Convex Program](https://openreview.net/forum?id=5QhUE1qiVC6)
-   - Yifei Wang, Mert Pilanci; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-z7lk2cqeg8a"></a>
-15. [The Hidden Convex Optimization Landscape of Regularized Two-Layer ReLU Networks: an Exact Characterization of Optimal Solutions](https://openreview.net/forum?id=Z7Lk2cQEG8a)
-   - Yifei Wang, Jonathan Lacotte, Mert Pilanci; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xew8cqgarno"></a>
-16. [Training invariances and the low-rank phenomenon: beyond linear networks](https://openreview.net/forum?id=XEW8CQgArno)
-   - Thien Le, Stefanie Jegelka; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dtqoctuoqo"></a>
+1. [Knowledge Removal in Sampling-based Bayesian Inference](https://openreview.net/forum?id=dTqOcTUOQO)
+   - Shaopeng Fu, Fengxiang He, Dacheng Tao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-7twqi5vnc8"></a>
+2. [Learning Causal Models from Conditional Moment Restrictions by Importance Weighting](https://openreview.net/forum?id=7twQI5VnC8)
+   - Masahiro Kato, Masaaki Imaizumi, Kenichiro McAlinn, Shota Yasui, Haruo Kakehi; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-wh6u2svllp4"></a>
+3. [Learning Prototype-oriented Set Representations for Meta-Learning](https://openreview.net/forum?id=WH6u2SvlLp4)
+   - Dan dan Guo, Long Tian, Minghe Zhang, Mingyuan Zhou, Hongyuan Zha; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dtkefj0ygb8"></a>
+4. [Learning meta-features for AutoML](https://openreview.net/forum?id=DTkEfj0Ygb8)
+   - Herilalaina Rakotoarison, Louisot Milijaona, Andry RASOANAIVO, Michele Sebag, Marc Schoenauer; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ldawu17qajz"></a>
+5. [MAML is a Noisy Contrastive Learner in Classification](https://openreview.net/forum?id=LDAwu17QaJz)
+   - Chia Hsiang Kao, Wei-Chen Chiu, Pin-Yu Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ajxwf7bvr8d"></a>
+6. [Meta-Learning with Fewer Tasks through Task Interpolation](https://openreview.net/forum?id=ajXWF7bVR8d)
+   - Huaxiu Yao, Linjun Zhang, Chelsea Finn; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kssff5lmiag"></a>
+7. [Model Agnostic Interpretability for Multiple Instance Learning](https://openreview.net/forum?id=KSSfF5lMIAg)
+   - Joseph Early, Christine Evers, SArvapali Ramchurn; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tyth9koxcvh"></a>
+8. [Modeling Label Space Interactions in Multi-label Classification using Box Embeddings](https://openreview.net/forum?id=tyTH9kOxcvh)
+   - Dhruvesh Patel, Pavitra Dangati, Jay-Yoon Lee, Michael Boratko, Andrew McCallum; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zrw-lvxj2k1"></a>
+9. [On the benefits of maximum likelihood estimation for Regression and Forecasting](https://openreview.net/forum?id=zrW-LVXj2k1)
+   - Pranjal Awasthi, Abhimanyu Das, Rajat Sen, Ananda Theertha Suresh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cgdakqo1c0p"></a>
+10. [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p)
+   - Taesung Kim, Jinhee Kim, Yunwon Tae, Cheonbok Park, Jang-Ho Choi, Jaegul Choo; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-a3hhaedqajl"></a>
+11. [Task Relatedness-Based Generalization Bounds for Meta Learning](https://openreview.net/forum?id=A3HHaEdqAJL)
+   - Jiechao Guan, Zhiwu Lu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-iulemlyh1ur"></a>
+12. [The Efficiency Misnomer](https://openreview.net/forum?id=iulEMLYh1uR)
+   - Mostafa Dehghani, Yi Tay, Anurag Arnab, Lucas Beyer, Ashish Vaswani; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-r79zgjhhv6p"></a>
+13. [Toward Faithful Case-based Reasoning through Learning Prototypes in a Nearest Neighbor-friendly Space.](https://openreview.net/forum?id=R79ZGjHhv6p)
+   - Seyed Omid Davoudi, Majid Komeili; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3rulbvoj8d2"></a>
+14. [Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate](https://openreview.net/forum?id=3rULBvOJ8D2)
+   - Yingtian Zou, Fusheng Liu, Qianxiao Li; assignment: `hdbscan`; source: `OpenReview`

@@ -1,89 +1,86 @@
-# ICLR 2023: offline / 策略优化 / reinforcement / model-based
+# ICLR 2023: 多模态学习与跨模态理解
 
 - Topic ID: `22`
-- Papers: **23** (1.46%)
-- Macro topic: 强化学习/决策
-- English keywords: `offline / policy / reinforcement / model-based`
-- Keyword pool: offline; policy; reinforcement; model-based; value; expansion; actions; behavior; algorithms; learning rl; policies; trajectories
+- Papers: **22** (1.44%)
+- Macro topic: 多模态/VLM
+- English keywords: `language / multimodal / visual / video`
+- Keyword pool: language; multimodal; visual; video; multi-task; vision; prompt; dense; understanding; multi-modal; few-shot; image
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting
-- Efficient Offline Policy Optimization with a Learned Model
-- Offline RL with No OOD Actions: In-Sample Learning via Implicit Value Regularization
-- Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning
-- Offline Q-learning on Diverse Multi-Task Data Both Scales And Generalizes
+- Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning
+- Write and Paint: Generative Vision-Language Models are Unified Modal Learners
+- PaLI: A Jointly-Scaled Multilingual Language-Image Model
+- When and Why Vision-Language Models Behave like Bags-Of-Words, and What to Do About It?
+- Visually-Augmented Language Modeling
 
 ## Papers
 
-<a id="paper-ypchvogrxra"></a>
-1. [Backstepping Temporal Difference Learning](https://openreview.net/forum?id=YPChvOgRXRA)
-   - Han-Dong Lim, Donghwan Lee; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-hq4k9bf4g2b"></a>
-2. [Behavior Prior Representation learning for Offline Reinforcement Learning](https://openreview.net/forum?id=hQ4K9Bf4G2B)
-   - Hongyu Zang, Xin Li, Jie Yu, Chen Liu, Riashat Islam, Remi Tachet des Combes, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-3k5cugdlndd"></a>
-3. [Benchmarking Offline Reinforcement Learning on Real-Robot Hardware](https://openreview.net/forum?id=3k5CUGDLNdd)
-   - Nico Gürtler, Sebastian Blaes, Pavel Kolev, Felix Widmaier, Manuel Wuthrich, Stefan Bauer, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-dnqxzgyjcya"></a>
-4. [Conservative Bayesian Model-Based Value Expansion for Offline Policy Optimization](https://openreview.net/forum?id=dNqxZgyjcYA)
-   - Jihwan Jeong, Xiaoyu Wang, Michael Gimelfarb, Hyunwoo Kim, Baher abdulhai, Scott Sanner; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-degjddv22pi"></a>
-5. [Dichotomy of Control: Separating What You Can Control from What You Cannot](https://openreview.net/forum?id=DEGjDDV22pI)
-   - Sherry Yang, Dale Schuurmans, Pieter Abbeel, Ofir Nachum; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ahvfdpi-fa"></a>
-6. [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://openreview.net/forum?id=AHvFDPi-FA)
-   - Zhendong Wang, Jonathan J Hunt, Mingyuan Zhou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h4ncs5jhtcu"></a>
-7. [Diminishing Return of Value Expansion Methods in Model-Based Reinforcement Learning](https://openreview.net/forum?id=H4Ncs5jhTCu)
-   - Daniel Palenicek, Michael Lutter, Joao Carvalho, Jan Peters; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-14-kr46gvp"></a>
-8. [Efficient Deep Reinforcement Learning Requires Regulating Overfitting](https://openreview.net/forum?id=14-kr46GvP-)
-   - Qiyang Li, Aviral Kumar, Ilya Kostrikov, Sergey Levine; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-yt-ym-jbyfo"></a>
-9. [Efficient Offline Policy Optimization with a Learned Model](https://openreview.net/forum?id=Yt-yM-JbYFO)
-   - Zichen Liu, Siyi Li, Wee Sun Lee, Shuicheng YAN, Zhongwen Xu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ohuablg27z"></a>
-10. [Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting](https://openreview.net/forum?id=OhUAblg27z)
-   - Zhang-Wei Hong, Pulkit Agrawal, Remi Tachet des Combes, Romain Laroche; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yybis80iuuu"></a>
-11. [Hybrid RL: Using both offline and online data can make RL efficient](https://openreview.net/forum?id=yyBis80iUuU)
-   - Yuda Song, Yifei Zhou, Ayush Sekhari, Drew Bagnell, Akshay Krishnamurthy, Wen Sun; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dfdv0wu853r"></a>
-12. [In-sample Actor Critic for Offline Reinforcement Learning](https://openreview.net/forum?id=dfDv0WU853R)
-   - Hongchang Zhang, Yixiu Mao, Boyuan Wang, Shuncheng He, Yi Xu, Xiangyang Ji; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sp1fo2k9dfg"></a>
-13. [Is Conditional Generative Modeling all you need for Decision Making?](https://openreview.net/forum?id=sP1fo2K9DFG)
-   - Anurag Ajay, Yilun Du, Abhi Gupta, Joshua B. Tenenbaum, Tommi S. Jaakkola, Pulkit Agrawal; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-hnyjbk3cwr"></a>
-14. [Is Model Ensemble Necessary? Model-based RL via a Single Model with Lipschitz Regularized Value Function](https://openreview.net/forum?id=hNyJBk3CwR)
-   - Ruijie Zheng, Xiyao Wang, Huazhe Xu, Furong Huang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4-k7kuavaj"></a>
-15. [Offline Q-learning on Diverse Multi-Task Data Both Scales And Generalizes](https://openreview.net/forum?id=4-k7kUavAj)
-   - Aviral Kumar, Rishabh Agarwal, Xinyang Geng, George Tucker, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ueyygo2pssu"></a>
-16. [Offline RL with No OOD Actions: In-Sample Learning via Implicit Value Regularization](https://openreview.net/forum?id=ueYYgo2pSSU)
-   - Haoran Xu, Li Jiang, Jianxiong Li, Zhuoran Yang, Zhaoran Wang, Victor Wai Kin Chan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-42zs3qa2kpy"></a>
-17. [Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling](https://openreview.net/forum?id=42zs3qa2kpy)
-   - Huayu Chen, Cheng Lu, Chengyang Ying, Hang Su, Jun Zhu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-y34l45jr6z"></a>
-18. [Policy Expansion for Bridging Offline-to-Online Reinforcement Learning](https://openreview.net/forum?id=-Y34L45JR6z)
-   - Haichao Zhang, Wei Xu, Haonan Yu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-djeeqoaq7to"></a>
-19. [RLx2: Training a Sparse Deep Reinforcement Learning Model from Scratch](https://openreview.net/forum?id=DJEEqoAq7to)
-   - Yiqin Tan, Pihe Hu, Ling Pan, Jiatai Huang, Longbo Huang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-u-ruvydyqcm"></a>
-20. [The In-Sample Softmax for Offline Reinforcement Learning](https://openreview.net/forum?id=u-RuvyDYqCM)
-   - Chenjun Xiao, Han Wang, Yangchen Pan, Adam White, Martha White; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mttplcwvqtt"></a>
-21. [The Provable Benefit of Unsupervised Data Sharing for Offline Reinforcement Learning](https://openreview.net/forum?id=MTTPLcwvqTt)
-   - Hao Hu, Yiqin Yang, Qianchuan Zhao, Chongjie Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-a4cops0uokg"></a>
-22. [User-Interactive Offline Reinforcement Learning](https://openreview.net/forum?id=a4COps0uokg)
-   - Phillip Swazinna, Steffen Udluft, Thomas Runkler; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3vfqfag3vwi"></a>
-23. [Variational Latent Branching Model for Off-Policy Evaluation](https://openreview.net/forum?id=3VFQfAG3vwi)
-   - Qitong Gao, Ge Gao, Min Chi, Miroslav Pajic; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-n70oyils4g"></a>
+1. [An Extensible Multi-modal Multi-task Object Dataset with Materials](https://openreview.net/forum?id=n70oyIlS4g)
+   - Trevor Scott Standley, Ruohan Gao, Dawn Chen, Jiajun Wu, Silvio Savarese; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-naqvf08tcyg"></a>
+2. [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://openreview.net/forum?id=NAQvF08TcyG)
+   - Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit Haim Bermano, Gal Chechik, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-gmwdko-4cy"></a>
+3. [Composing Ensembles of Pre-trained Models via Iterative Consensus](https://openreview.net/forum?id=gmwDKo-4cY)
+   - Shuang Li, Yilun Du, Joshua B. Tenenbaum, Antonio Torralba, Igor Mordatch; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-me91gkxyipg"></a>
+4. [Compositional Prompt Tuning with Motion Cues for Open-vocabulary Video Relation Detection](https://openreview.net/forum?id=mE91GkXYipg)
+   - Kaifeng Gao, Long Chen, Hanwang Zhang, Jun Xiao, Qianru Sun; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-aw0rrrpuf"></a>
+5. [GLM-130B: An Open Bilingual Pre-trained Model](https://openreview.net/forum?id=-Aw0rrrPUF)
+   - Aohan Zeng, Xiao Liu, Zhengxiao Du, Zihan Wang, Hanyu Lai, Ming Ding, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fksp8vw8rjh"></a>
+6. [Language Modelling with Pixels](https://openreview.net/forum?id=FkSp8VW8RjH)
+   - Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8tyrqb05pvn"></a>
+7. [Linearly Mapping from Image to Text Space](https://openreview.net/forum?id=8tYRqb05pVn)
+   - Jack Merullo, Louis Castricato, Carsten Eickhoff, Ellie Pavlick; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-njfyldvgzlq"></a>
+8. [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://openreview.net/forum?id=nJfylDvgzlq)
+   - Uriel Singer, Adam Polyak, Thomas Hayes, Xi Yin, Jie An, Songyang Zhang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-3owo92cqyxl"></a>
+9. [Meta Learning to Bridge Vision and Language Models for Multimodal Few-Shot Learning](https://openreview.net/forum?id=3oWo92cQyxL)
+   - Ivona Najdenkoska, Xiantong Zhen, Marcel Worring; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mwvobz4w0u"></a>
+10. [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://openreview.net/forum?id=mWVoBz4W0u)
+   - Xi Chen, Xiao Wang, Soravit Changpinyo, AJ Piergiovanni, Piotr Padlewski, Daniel Salz, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-voexs39nof"></a>
+11. [Phenaki: Variable Length Video Generation from Open Domain Textual Descriptions](https://openreview.net/forum?id=vOEXS39nOF)
+   - Ruben Villegas, Mohammad Babaeizadeh, Pieter-Jan Kindermans, Hernan Moraldo, Han Zhang, Mohammad Taghi Saffar, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ebs4c77p-5s"></a>
+12. [SLTUNET: A Simple Unified Model for Sign Language Translation](https://openreview.net/forum?id=EBS4C77p_5S)
+   - Biao Zhang, Mathias Müller, Rico Sennrich; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-idjx97bc38"></a>
+13. [SQA3D: Situated Question Answering in 3D Scenes](https://openreview.net/forum?id=IDJx97BC38)
+   - Xiaojian Ma, Silong Yong, Zilong Zheng, Qing Li, Yitao Liang, Song-Chun Zhu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-g2q2mh3avow"></a>
+14. [Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://openreview.net/forum?id=G2Q2Mh3avow)
+   - Andy Zeng, Maria Attarian, brian ichter, Krzysztof Marcin Choromanski, Adrian Wong, Stefan Welker, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9ye2xej0bh7"></a>
+15. [Spotlight: Mobile UI Understanding using Vision-Language Models with a Focus](https://openreview.net/forum?id=9yE2xEj0BH7)
+   - Gang Li, Yang Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cwpoppjda"></a>
+16. [TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding](https://openreview.net/forum?id=-CwPopPJda)
+   - Hanrong Ye, Dan Xu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-e01k9048soz"></a>
+17. [UNIFIED-IO: A Unified Model for Vision, Language, and Multi-modal Tasks](https://openreview.net/forum?id=E01k9048soZ)
+   - Jiasen Lu, Christopher Clark, Rowan Zellers, Roozbeh Mottaghi, Aniruddha Kembhavi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uga1hx69sf"></a>
+18. [Understanding Embodied Reference with Touch-Line Transformer](https://openreview.net/forum?id=ugA1HX69sf)
+   - Yang Li, Xiaoxue Chen, Hao Zhao, Jiangtao Gong, Guyue Zhou, Federico Rossano, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-88nt0j5jan"></a>
+19. [Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching](https://openreview.net/forum?id=88nT0j5jAn)
+   - Donggyun Kim, Jinwoo Kim, Seongwoong Cho, Chong Luo, Seunghoon Hong; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-8in-qlkl215"></a>
+20. [Visually-Augmented Language Modeling](https://openreview.net/forum?id=8IN-qLkl215)
+   - Weizhi Wang, Li Dong, Hao Cheng, Haoyu Song, Xiaodong Liu, Xifeng Yan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-krluvxh8uax"></a>
+21. [When and Why Vision-Language Models Behave like Bags-Of-Words, and What to Do About It?](https://openreview.net/forum?id=KRLUvxh8uaX)
+   - Mert Yuksekgonul, Federico Bianchi, Pratyusha Kalluri, Dan Jurafsky, James Zou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hgqr0mxq1-a"></a>
+22. [Write and Paint: Generative Vision-Language Models are Unified Modal Learners](https://openreview.net/forum?id=HgQR0mXQ1_a)
+   - Shizhe Diao, Wangchunshu Zhou, Xinsong Zhang, Jiawei Wang; assignment: `hdbscan`; source: `OpenReview`

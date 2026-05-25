@@ -1,59 +1,56 @@
-# ICLR 2021: 语音/音频语言模型
+# ICLR 2021: shape / texture / images / cnns
 
 - Topic ID: `36`
-- Papers: **13** (1.51%)
-- Macro topic: 语音/音频/音乐
-- English keywords: `speech / audio / asr / sound`
-- Keyword pool: speech; audio; asr; sound; synthesis; non-autoregressive; duration; acoustic; style; quality; adaptation; custom
+- Papers: **12** (1.40%)
+- Macro topic: 可信/安全/公平
+- English keywords: `shape / texture / images / cnns`
+- Keyword pool: shape; texture; images; cnns; robustness; bias; backgrounds; object; imagenet; convolutional; visual; natural
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech
-- End-to-end Adversarial Text-to-Speech
-- Unsupervised Audiovisual Synthesis via Exemplar Autoencoders
-- DiffWave: A Versatile Diffusion Model for Audio Synthesis
-- WaveGrad: Estimating Gradients for Waveform Generation
+- Shape or Texture: Understanding Discriminative Features in CNNs
+- Robust and Generalizable Visual Representation Learning via Random Convolutions
+- Contemplating Real-World Object Classification
+- Shape-Texture Debiased Neural Network Training
+- Does enhanced shape bias improve neural network robustness to common corruptions?
 
 ## Papers
 
-<a id="paper-drynvt7gg4l"></a>
-1. [AdaSpeech: Adaptive Text to Speech for Custom Voice](https://openreview.net/forum?id=Drynvt7gg4L)
-   - Mingjian Chen, Xu Tan, Bohan Li, Yanqing Liu, Tao Qin, sheng zhao, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-o3iritjhlfo"></a>
-2. [Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech](https://openreview.net/forum?id=o3iritJHLfO)
-   - Yoonhyung Lee, Joongbo Shin, Kyomin Jung; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-a-xfk8ymz5j"></a>
-3. [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://openreview.net/forum?id=a-xFK8Ymz5J)
-   - Zhifeng Kong, Wei Ping, Jiaji Huang, Kexin Zhao, Bryan Catanzaro; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pz-dcqfckw8"></a>
-4. [Dual-mode ASR: Unify and Improve Streaming ASR with Full-context Modeling](https://openreview.net/forum?id=Pz_dcqfcKW8)
-   - Jiahui Yu, Wei Han, Anmol Gulati, Chung-Cheng Chiu, Bo Li, Tara N Sainath, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rsf1z-jsj87"></a>
-5. [End-to-end Adversarial Text-to-Speech](https://openreview.net/forum?id=rsf1z-JSj87)
-   - Jeff Donahue, Sander Dieleman, Mikolaj Binkowski, Erich Elsen, Karen Simonyan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pilpyqxtwua"></a>
-6. [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://openreview.net/forum?id=piLPYqxtWuA)
-   - Yi Ren, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ig53hphxs4"></a>
-7. [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://openreview.net/forum?id=Ig53hpHxS4)
-   - Rafael Valle, Kevin J. Shih, Ryan Prenger, Bryan Catanzaro; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tgsvwxw22fq"></a>
-8. [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)
-   - Siyang Yuan, Pengyu Cheng, Ruiyi Zhang, Weituo Hao, Zhe Gan, Lawrence Carin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mdsqkfp1aw"></a>
-9. [Into the Wild with AudioScope: Unsupervised Audio-Visual Separation of On-Screen Sounds](https://openreview.net/forum?id=MDsQkFP1Aw)
-   - Efthymios Tzinis, Scott Wisdom, Aren Jansen, Shawn Hershey, Tal Remez, Dan Ellis, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jm76bcb6f9m"></a>
-10. [LEAF: A Learnable Frontend for Audio Classification](https://openreview.net/forum?id=jM76BCb6F9m)
-   - Neil Zeghidour, Olivier Teboul, Félix de Chaumont Quitry, Marco Tagliasacchi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uax8q61evru"></a>
-11. [Neural Synthesis of Binaural Speech From Mono Audio](https://openreview.net/forum?id=uAX8q61EVRu)
-   - Alexander Richard, Dejan Markovic, Israel D. Gebru, Steven Krenn, Gladstone Alexander Butler, Fernando Torre, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-43vkwxg-sqr"></a>
-12. [Unsupervised Audiovisual Synthesis via Exemplar Autoencoders](https://openreview.net/forum?id=43VKWxg_Sqr)
-   - Kangle Deng, Aayush Bansal, Deva Ramanan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nsmljcfao8o"></a>
-13. [WaveGrad: Estimating Gradients for Waveform Generation](https://openreview.net/forum?id=NsMLjcFaO8O)
-   - Nanxin Chen, Yu Zhang, Heiga Zen, Ron J Weiss, Mohammad Norouzi, William Chan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yicbfdntty"></a>
+1. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
+   - Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mqpbmvyauk"></a>
+2. [BREEDS: Benchmarks for Subpopulation Shift](https://openreview.net/forum?id=mQPBmvyAuk)
+   - Shibani Santurkar, Dimitris Tsipras, Aleksander Madry; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q4euywjikqr"></a>
+3. [Contemplating Real-World Object Classification](https://openreview.net/forum?id=Q4EUywJIkqr)
+   - ali borji; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yuxunaj2sl"></a>
+4. [Does enhanced shape bias improve neural network robustness to common corruptions?](https://openreview.net/forum?id=yUxUNaj2Sl)
+   - Chaithanya Kumar Mummadi, Ranjitha Subramaniam, Robin Hutmacher, Julien Vitay, Volker Fischer, Jan Hendrik Metzen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6xhj37mvxxp"></a>
+5. [Domain Generalization with MixStyle](https://openreview.net/forum?id=6xHJ37MVxxp)
+   - Kaiyang Zhou, Yongxin Yang, Yu Qiao, Tao Xiang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-qo9-y8also"></a>
+6. [Exemplary Natural Images Explain CNN Activations Better than State-of-the-Art Feature Visualization](https://openreview.net/forum?id=QO9-y8also-)
+   - Judy Borowski, Roland Simon Zimmermann, Judith Schepers, Robert Geirhos, Thomas S. A. Wallis, Matthias Bethge, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tp7ki90htd"></a>
+7. [Generalization in data-driven models of primary visual cortex](https://openreview.net/forum?id=Tp7kI90Htd)
+   - Konstantin-Klemens Lurz, Mohammad Bashiri, Konstantin Willeke, Akshay Jagadish, Eric Wang, Edgar Y. Walker, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-m1cd7tpubny"></a>
+8. [Mind the Pad -- CNNs Can Develop Blind Spots](https://openreview.net/forum?id=m1CD7tPubNy)
+   - Bilal Alsallakh, Narine Kokhlikyan, Vivek Miglani, Jun Yuan, Orion Reblitz-Richardson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gl3d-xy7wlq"></a>
+9. [Noise or Signal: The Role of Image Backgrounds in Object Recognition](https://openreview.net/forum?id=gl3D-xY7wLq)
+   - Kai Yuanqing Xiao, Logan Engstrom, Andrew Ilyas, Aleksander Madry; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bvsm0x3edk6"></a>
+10. [Robust and Generalizable Visual Representation Learning via Random Convolutions](https://openreview.net/forum?id=BVSM0x3EDK6)
+   - Zhenlin Xu, Deyi Liu, Junlin Yang, Colin Raffel, Marc Niethammer; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ncfezoi-rla"></a>
+11. [Shape or Texture: Understanding Discriminative Features in CNNs](https://openreview.net/forum?id=NcFEZOi-rLa)
+   - Md Amirul Islam, Matthew Kowal, Patrick Esser, Sen Jia, Björn Ommer, Konstantinos G. Derpanis, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-db4yerztykz"></a>
+12. [Shape-Texture Debiased Neural Network Training](https://openreview.net/forum?id=Db4yerZTYkz)
+   - Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, Wei Shen, et al.; assignment: `hdbscan`; source: `OpenReview`

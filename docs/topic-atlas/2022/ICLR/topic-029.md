@@ -1,74 +1,71 @@
-# ICLR 2022: 查询理解与检索优化
+# ICLR 2022: random features / principal / matrix / sparse
 
 - Topic ID: `29`
-- Papers: **18** (1.65%)
-- Macro topic: 可信/安全/公平
-- English keywords: `attacks / adversarial / defense / transferability`
-- Keyword pool: attacks; adversarial; defense; transferability; black-box; online; users; privacy; threat; query; learnability; examples
+- Papers: **17** (1.60%)
+- Macro topic: 生成模型
+- English keywords: `random features / principal / matrix / sparse`
+- Keyword pool: random features; principal; matrix; sparse; subspace; recovery; palm; component; matrices; svd; cca; gaussian
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Beyond ImageNet Attack: Towards Crafting Adversarial Examples for Black-box Domains
-- Transferable Adversarial Attack based on Integrated Gradients
-- Rethinking Adversarial Transferability from a Data Distribution Perspective
-- Online Adversarial Attacks
-- Attacking deep networks with surrogate-based adversarial black-box methods is easy
+- Generative Principal Component Analysis
+- Anisotropic Random Feature Regression in High Dimensions
+- Random matrices in service of ML footprint: ternary random features with no performance loss
+- A generalization of the randomized singular value decomposition
+- Provable Learning-based Algorithm For Sparse Recovery
 
 ## Papers
 
-<a id="paper-zf4zdi4oqpv"></a>
-1. [Attacking deep networks with surrogate-based adversarial black-box methods is easy](https://openreview.net/forum?id=Zf4ZdI4OQPV)
-   - Nicholas A. Lord, Romain Mueller, Luca Bertinetto; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qkrv50tzyp"></a>
-2. [Beyond ImageNet Attack: Towards Crafting Adversarial Examples for Black-box Domains](https://openreview.net/forum?id=QkRV50TZyP)
-   - Qilong Zhang, Xiaodan Li, YueFeng Chen, Jingkuan Song, Lianli Gao, Yuan He, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-b5xahnlmna"></a>
-3. [Data Poisoning Won’t Save You From Facial Recognition](https://openreview.net/forum?id=B5XahNLmna)
-   - Evani Radiya-Dixit, Sanghyun Hong, Nicholas Carlini, Florian Tramer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-l5ashxi8jg5"></a>
-4. [Demystifying Limited Adversarial Transferability in Automatic Speech Recognition Systems](https://openreview.net/forum?id=l5aSHXi8jG5)
-   - Hadi Abdullah, Aditya Karlekar, Vincent Bindschaedler, Patrick Traynor; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hcmvapxgszz"></a>
-5. [Fixed Neural Network Steganography: Train the images, not the network](https://openreview.net/forum?id=hcMvApxGSzZ)
-   - Varsha Kishore, Xiangyu Chen, Yan Wang, Boyi Li, Kilian Q Weinberger; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w9g-imphlqd"></a>
-6. [How to Robustify Black-Box ML Models? A Zeroth-Order Optimization Perspective](https://openreview.net/forum?id=W9G_ImpHlQd)
-   - Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jinfeng Yi, Mingyi Hong, Shiyu Chang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-eay7c1cge1l"></a>
-7. [Increasing the Cost of Model Extraction with Calibrated Proof of Work](https://openreview.net/forum?id=EAy7C1cgE1L)
-   - Adam Dziedzic, Muhammad Ahmad Kaleem, Yu Shen Lu, Nicolas Papernot; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-6vpes27vitq"></a>
-8. [Learnability Lock: Authorized Learnability Control Through Adversarial Invertible Transformations](https://openreview.net/forum?id=6VpeS27viTq)
-   - Weiqi Peng, Jinghui Chen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-tyrrodsnvuy"></a>
-9. [Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization](https://openreview.net/forum?id=tYRrOdSnVUy)
-   - Lixu Wang, Shichao Xu, Ruiqi Xu, Xiao Wang, Qi Zhu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-bygszbcm-i"></a>
-10. [Online Adversarial Attacks](https://openreview.net/forum?id=bYGSzbCM_i)
-   - Andjela Mladenovic, Joey Bose, Hugo Berard, William L. Hamilton, Simon Lacoste-Julien, Pascal Vincent, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-73mehz0anv"></a>
-11. [QUERY EFFICIENT DECISION BASED SPARSE ATTACKS AGAINST BLACK-BOX DEEP LEARNING MODELS](https://openreview.net/forum?id=73MEhZ0anV)
-   - Viet Vo, Ehsan M Abbasnejad, Damith Ranasinghe; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qj1iz-6tinc"></a>
-12. [Real-Time Neural Voice Camouflage](https://openreview.net/forum?id=qj1IZ-6TInc)
-   - Mia Chiquier, Chengzhi Mao, Carl Vondrick; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fedfgwvzyin"></a>
-13. [RelaxLoss: Defending Membership Inference Attacks without Losing Utility](https://openreview.net/forum?id=FEDfGWVZYIn)
-   - Dingfan Chen, Ning Yu, Mario Fritz; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-sok-zs6whb"></a>
-14. [Responsible Disclosure of Generative Models Using Scalable Fingerprinting](https://openreview.net/forum?id=sOK-zS6WHB)
-   - Ning Yu, Vladislav Skripniuk, Dingfan Chen, Larry S. Davis, Mario Fritz; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-gvrhieajg1k"></a>
-15. [Rethinking Adversarial Transferability from a Data Distribution Perspective](https://openreview.net/forum?id=gVRhIEajG1k)
-   - Yao Zhu, Jiacheng Sun, Zhenguo Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bauqqpwqiag"></a>
-16. [Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning](https://openreview.net/forum?id=baUQQPwQiAg)
-   - Shaopeng Fu, Fengxiang He, Yang Liu, Li Shen, Dacheng Tao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5js-8utrx1"></a>
-17. [Towards Evaluating the Robustness of Neural Networks Learned by Transduction](https://openreview.net/forum?id=_5js_8uTrx1)
-   - Jiefeng Chen, Xi Wu, Yang Guo, Yingyu Liang, Somesh Jha; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-desnw4-5ai9"></a>
-18. [Transferable Adversarial Attack based on Integrated Gradients](https://openreview.net/forum?id=DesNW4-5ai9)
-   - Yi Huang, Adams Wai-Kin Kong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nhn-fqxmngx"></a>
+1. [A Comparison of Hamming Errors of Representative Variable Selection Methods](https://openreview.net/forum?id=nhN-fqxmNGx)
+   - Tracy Ke, Longlin Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hgktwsb4s2"></a>
+2. [A generalization of the randomized singular value decomposition](https://openreview.net/forum?id=hgKtwSb4S2)
+   - Nicolas Boulle, Alex Townsend; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jfawawz8bmx"></a>
+3. [Anisotropic Random Feature Regression in High Dimensions](https://openreview.net/forum?id=JfaWawZ8BmX)
+   - Gabriel Mel, Jeffrey Pennington; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9nvd-dmtthy"></a>
+4. [Distributionally Robust Fair Principal Components via Geodesic Descents](https://openreview.net/forum?id=9NVd-DMtThY)
+   - Hieu Vu, Toan Tran, Man-Chung Yue, Viet Anh Nguyen; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-so6yaqnqgmj"></a>
+5. [EigenGame Unloaded: When playing games is better than optimizing](https://openreview.net/forum?id=So6YAqnqgMj)
+   - Ian Gemp, Brian McWilliams, Claire Vernade, Thore Graepel; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-aoei-5vtu8"></a>
+6. [Fast Differentiable Matrix Square Root](https://openreview.net/forum?id=-AOEi-5VTU8)
+   - Yue Song, Nicu Sebe, Wei Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gnp54nxhupj"></a>
+7. [Fast Regression for Structured Inputs](https://openreview.net/forum?id=gNp54NxHUPJ)
+   - Raphael A Meyer, Cameron N Musco, Christopher P Musco, David Woodruff, Samson Zhou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pgir5f7ekal"></a>
+8. [Generative Principal Component Analysis](https://openreview.net/forum?id=pgir5f7ekAL)
+   - Zhaoqiang Liu, Jiulong Liu, Subhroshekhar Ghosh, Jun Han, Jonathan Scarlett; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9kpub2bgnim"></a>
+9. [Huber Additive Models for Non-stationary Time Series Analysis](https://openreview.net/forum?id=9kpuB2bgnim)
+   - Yingjie Wang, Xianrui Zhong, Fengxiang He, Hong Chen, Dacheng Tao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-emigfe6zes"></a>
+10. [Hybrid Random Features](https://openreview.net/forum?id=EMigfE6ZeS)
+   - Krzysztof Marcin Choromanski, Han Lin, Haoxian Chen, Arijit Sehanobish, Yuanzhe Ma, Deepali Jain, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-va7domdgi75"></a>
+11. [Implicit Bias of Projected Subgradient Method Gives Provable Robust Recovery of Subspaces of Unknown Codimension](https://openreview.net/forum?id=vA7doMdgi75)
+   - Paris Giampouras, Benjamin David Haeffele, Rene Vidal; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kntanro6r48"></a>
+12. [L0-Sparse Canonical Correlation Analysis](https://openreview.net/forum?id=KntaNRo6R48)
+   - Ofir Lindenbaum, Moshe Salhov, Amir Averbuch, Yuval Kluger; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ampki9kp8cn"></a>
+13. [Nonlinear ICA Using Volume-Preserving Transformations](https://openreview.net/forum?id=AMpki9kp8Cn)
+   - Xiaojiang Yang, Yi Wang, Jiacheng Sun, Xing Zhang, Shifeng Zhang, Zhenguo Li, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-bwpapxwgyqb"></a>
+14. [Provable Learning-based Algorithm For Sparse Recovery](https://openreview.net/forum?id=BwPaPxwgyQb)
+   - Xinshi Chen, Haoran Sun, Le Song; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qwulhx9zld"></a>
+15. [Random matrices in service of ML footprint: ternary random features with no performance loss](https://openreview.net/forum?id=qwULHx9zld)
+   - Hafiz Tiomoko Ali, Zhenyu Liao, Romain Couillet; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ri0lyggeyaw"></a>
+16. [Understanding approximate and unrolled dictionary learning for pattern recovery](https://openreview.net/forum?id=rI0LYgGeYaw)
+   - Benoît Malézieux, Thomas Moreau, Matthieu Kowalski; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-abvxf5naart"></a>
+17. [Unrolling PALM for Sparse Semi-Blind Source Separation](https://openreview.net/forum?id=aBVxf5NaaRt)
+   - Mohammad Fahes, Christophe Kervazo, Jérôme Bobin, Florence Tupin; assignment: `hdbscan`; source: `OpenReview`

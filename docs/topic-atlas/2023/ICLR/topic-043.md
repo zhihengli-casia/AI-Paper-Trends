@@ -1,74 +1,68 @@
-# ICLR 2023: explanation / interpretability / concept / interpretable
+# ICLR 2023: 隐私保护与安全学习
 
 - Topic ID: `43`
-- Papers: **18** (1.14%)
-- Macro topic: 其他/交叉主题
-- English keywords: `explanation / interpretability / concept / interpretable`
-- Keyword pool: explanation; interpretability; concept; interpretable; attribution; feature; explainer; cbm; bottleneck; interpretation; pursuit; right
+- Papers: **16** (1.05%)
+- Macro topic: 理论/优化
+- English keywords: `privacy / private / differential / clipping`
+- Keyword pool: privacy; private; differential; clipping; federated; personalized; trust; server; window; many-to-many; algorithms; statistical
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- An Additive Instance-Wise Approach to Multi-class Model Interpretation
-- Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 Small
-- CoRTX: Contrastive Framework for Real-time Explanation
-- Interpretability with full complexity by constraining feature information
-- Post-hoc Concept Bottleneck Models
+- Private Federated Learning Without a Trusted Server: Optimal Algorithms for Convex Losses
+- Stochastic Differentially Private and Fair Learning
+- Regression with Label Differential Privacy
+- Share Your Representation Only: Guaranteed Improvement of the Privacy-Utility Tradeoff in Federated Learning
+- Statistical Theory of Differentially Private Marginal-based Data Synthesis Algorithms
 
 ## Papers
 
-<a id="paper-5oygdd-4eeh"></a>
-1. [An Additive Instance-Wise Approach to Multi-class Model Interpretation](https://openreview.net/forum?id=5OygDd-4Eeh)
-   - Vy Vo, Van Nguyen, Trung Le, Quan Hung Tran, Gholamreza Haffari, Seyit Camtepe, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-l2muoup0beo"></a>
-2. [CoRTX: Contrastive Framework for Real-time Explanation](https://openreview.net/forum?id=L2MUOUp0beo)
-   - Yu-Neng Chuang, Guanchu Wang, Fan Yang, Quan Zhou, Pushkar Tripathi, Xuanting Cai, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-01ddd3f78"></a>
-3. [Concept Gradient: Concept-based Interpretation Without Linear Assumption](https://openreview.net/forum?id=_01dDd3f78)
-   - Andrew Bai, Chih-Kuan Yeh, Neil Y.C. Lin, Pradeep Kumar Ravikumar, Cho-Jui Hsieh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oiwxwpdtynk"></a>
-4. [Concept-level Debugging of Part-Prototype Networks](https://openreview.net/forum?id=oiwXWPDTyNk)
-   - Andrea Bontempelli, Stefano Teso, Katya Tentori, Fausto Giunchiglia, Andrea Passerini; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ewkfmbl5to"></a>
-5. [Contrastive Corpus Attribution for Explaining Representations](https://openreview.net/forum?id=eWKfMBL5to)
-   - Chris Lin, Hugh Chen, Chanwoo Kim, Su-In Lee; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-otbrtiy4ys"></a>
-6. [Global Explainability of GNNs via Logic Combination of Learned Concepts](https://openreview.net/forum?id=OTbRTIY4YS)
-   - Steve Azzolin, Antonio Longa, Pietro Barbiero, Pietro Lio, Andrea Passerini; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-npsvsn6o4ul"></a>
-7. [Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 Small](https://openreview.net/forum?id=NpsVSN6o4ul)
-   - Kevin Ro Wang, Alexandre Variengien, Arthur Conmy, Buck Shlegeris, Jacob Steinhardt; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-r-ol5mlhsv"></a>
-8. [Interpretability with full complexity by constraining feature information](https://openreview.net/forum?id=R_OL5mLhsv)
-   - Kieran A Murphy, Danielle Bassett; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-flcg47mnvba"></a>
-9. [Label-free Concept Bottleneck Models](https://openreview.net/forum?id=FlCg47MNvBA)
-   - Tuomas Oikarinen, Subhro Das, Lam M. Nguyen, Tsui-Wei Weng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7tjybmu9icj"></a>
-10. [Neural-based classification rule learning for sequential data](https://openreview.net/forum?id=7tJyBmu9iCj)
-   - Marine Collery, Philippe Bonnard, François Fages, Remy Kusters; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hwt4bbzjvw"></a>
-11. [On the Trade-Off between Actionable Explanations and the Right to be Forgotten](https://openreview.net/forum?id=HWt4BBZjVW)
-   - Martin Pawelczyk, Tobias Leemann, Asia Biega, Gjergji Kasneci; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-na5az8ceyow"></a>
-12. [Post-hoc Concept Bottleneck Models](https://openreview.net/forum?id=nA5AZ8CEyow)
-   - Mert Yuksekgonul, Maggie Wang, James Zou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9xfsbdpmdw"></a>
-13. [Progress measures for grokking via mechanistic interpretability](https://openreview.net/forum?id=9XFSbDPmdW)
-   - Neel Nanda, Lawrence Chan, Tom Lieberum, Jess Smith, Jacob Steinhardt; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-wuwjiv2yxtp"></a>
-14. [Re-calibrating Feature Attributions for Model Interpretation](https://openreview.net/forum?id=WUWJIV2Yxtp)
-   - Peiyu Yang, NAVEED AKHTAR, Zeyi Wen, Mubarak Shah, Ajmal Saeed Mian; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ttllgx3eet"></a>
-15. [Sequential Attention for Feature Selection](https://openreview.net/forum?id=TTLLGx3eet)
-   - Taisuke Yasuda, Mohammadhossein Bateni, Lin Chen, Matthew Fahrbach, Gang Fu, Vahab Mirrokni; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lh-hryxuorr"></a>
-16. [This Looks Like It Rather Than That: ProtoKNN For Similarity-Based Classifiers](https://openreview.net/forum?id=lh-HRYxuoRr)
-   - Yuki Ukai, Tsubasa Hirakawa, Takayoshi Yamashita, Hironobu Fujiyoshi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hwwy-jq0xsn"></a>
-17. [Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes](https://openreview.net/forum?id=hWwY_Jq0xsN)
-   - Eoin M. Kenny, Mycal Tucker, Julie Shah; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-77lswa-tm3z"></a>
-18. [Variational Information Pursuit for Interpretable Predictions](https://openreview.net/forum?id=77lSWa-Tm3Z)
-   - Aditya Chattopadhyay, Kwan Ho Ryan Chan, Benjamin David Haeffele, Donald Geman, Rene Vidal; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fuidmcr-w4o"></a>
+1. [A Statistical Framework for Personalized Federated Learning and Estimation: Theory, Algorithms, and Privacy](https://openreview.net/forum?id=FUiDMCr_W4o)
+   - Kaan Ozkara, Antonious M. Girgis, Deepesh Data, Suhas Diggavi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kf7yyf4o0u"></a>
+2. [CANIFE: Crafting Canaries for Empirical Privacy Measurement in Federated Learning](https://openreview.net/forum?id=Kf7Yyf4O0u)
+   - Samuel Maddock, Alexandre Sablayrolles, Pierre Stock; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3uhoyrglykg"></a>
+3. [Differentially Private $L_2$-Heavy Hitters in the Sliding Window Model](https://openreview.net/forum?id=3UHoYrglYkG)
+   - Jeremiah Blocki, Seunghoon Lee, Tamalika Mukherjee, Samson Zhou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-j1zqgmqqox1"></a>
+4. [Differentially Private Adaptive Optimization with Delayed Preconditioners](https://openreview.net/forum?id=j1zQGmQQOX1)
+   - Tian Li, Manzil Zaheer, Ken Liu, Sashank J. Reddi, Hugh Brendan McMahan, Virginia Smith; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qloaervteqbx"></a>
+5. [Disparate Impact in Differential Privacy from Gradient Misalignment](https://openreview.net/forum?id=qLOaeRvteqbx)
+   - Maria S. Esipova, Atiyeh Ashari Ghomi, Yaqiao Luo, Jesse C Cresswell; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cw8feirkifu"></a>
+6. [Distributed Differential Privacy in Multi-Armed Bandits](https://openreview.net/forum?id=cw8FeirkIfU)
+   - Sayak Ray Chowdhury, Xingyu Zhou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rsucajhlsq"></a>
+7. [Easy Differentially Private Linear Regression](https://openreview.net/forum?id=rSUCajhLsQ)
+   - Kareem Amin, Matthew Joseph, Mónica Ribero, Sergei Vassilvitskii; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oze0clvgpex"></a>
+8. [Exploring the Limits of Differentially Private Deep Learning with Group-wise Clipping](https://openreview.net/forum?id=oze0clVGPeX)
+   - Jiyan He, Xuechen Li, Da Yu, Huishuai Zhang, Janardhan Kulkarni, Yin Tat Lee, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-frlswckpxq5"></a>
+9. [Improved Convergence of Differential Private SGD with Gradient Clipping](https://openreview.net/forum?id=FRLswckPXQ5)
+   - Huang Fang, Xiaoyun Li, Chenglin Fan, Ping Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jmc-tld3v-f"></a>
+10. [Individual Privacy Accounting with Gaussian Differential Privacy](https://openreview.net/forum?id=JmC_Tld3v-f)
+   - Antti Koskela, Marlon Tobaben, Antti Honkela; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tvy6gourrw"></a>
+11. [Private Federated Learning Without a Trusted Server: Optimal Algorithms for Convex Losses](https://openreview.net/forum?id=TVY6GoURrw)
+   - Andrew Lowy, Meisam Razaviyayn; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-h9o0wsml-ct"></a>
+12. [Regression with Label Differential Privacy](https://openreview.net/forum?id=h9O0wsmL-cT)
+   - Badih Ghazi, Pritish Kamath, Ravi Kumar, Ethan Leeman, Pasin Manurangsi, Avinash Varadarajan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ojpvvgxu9i"></a>
+13. [Share Your Representation Only: Guaranteed Improvement of the Privacy-Utility Tradeoff in Federated Learning](https://openreview.net/forum?id=oJpVVGXu9i)
+   - Zebang Shen, Jiayuan Ye, Anmin Kang, Hamed Hassani, Reza Shokri; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hxuwnegxw87"></a>
+14. [Statistical Theory of Differentially Private Marginal-based Data Synthesis Algorithms](https://openreview.net/forum?id=hxUwnEGxW87)
+   - Ximing Li, Chendi Wang, Guang Cheng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3nm5uhplfv6"></a>
+15. [Stochastic Differentially Private and Fair Learning](https://openreview.net/forum?id=3nM5uhPlfv6)
+   - Andrew Lowy, Devansh Gupta, Meisam Razaviyayn; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q120-4cof-k"></a>
+16. [Synthetic Data Generation of Many-to-Many Datasets via Random Graph Generation](https://openreview.net/forum?id=Q120_4COf-K)
+   - Kai Xu, Georgi Ganev, Emile Joubert, Rees Davison, Olivier Van Acker, Luke Robinson; assignment: `hdbscan`; source: `OpenReview`

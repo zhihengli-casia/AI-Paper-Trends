@@ -1,53 +1,56 @@
-# ICLR 2023: 对抗攻击、鲁棒性与安全
+# ICLR 2023: 强化学习算法与理论
 
 - Topic ID: `62`
-- Papers: **11** (0.70%)
-- Macro topic: 生成模型
-- English keywords: `gans / semantic / fr chet / portrait`
-- Keyword pool: gans; semantic; fr chet; portrait; video generation; generative adversarial; synthesis; basis; image; camera; adversarial network; target samples
+- Papers: **12** (0.78%)
+- Macro topic: 强化学习/决策
+- English keywords: `offline / policy / reinforcement learning / latent`
+- Keyword pool: offline; policy; reinforcement learning; latent; actions; model-based; environment; policies; variable; hyperbolic; learning rl; planning
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- 3D generation on ImageNet
-- PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs
-- Few-shot Cross-domain Image Generation via Inference-time Latent-code Learning
-- Towards Smooth Video Composition
-- StyleMorph: Disentangled 3D-Aware Image Synthesis with a 3D Morphable StyleGAN
+- Simplifying Model-based RL: Learning Representations, Latent-space Models, and Policies with One Objective
+- Behavior Prior Representation learning for Offline Reinforcement Learning
+- Latent Variable Representation for Reinforcement Learning
+- Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning
+- Variational Latent Branching Model for Off-Policy Evaluation
 
 ## Papers
 
-<a id="paper-u2wjb9xxz9q"></a>
-1. [3D generation on ImageNet](https://openreview.net/forum?id=U2WjB9xxZ9q)
-   - Ivan Skorokhodov, Aliaksandr Siarohin, Yinghao Xu, Jian Ren, Hsin-Ying Lee, Peter Wonka, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qcjmsp3oe9"></a>
-2. [Edge Guided GANs with Contrastive Learning for Semantic Image Synthesis](https://openreview.net/forum?id=qcJmsP3oE9)
-   - Hao Tang, XIAOJUAN QI, Guolei Sun, Dan Xu, Nicu Sebe, Radu Timofte, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-scyxjr3qjm8"></a>
-3. [Few-shot Cross-domain Image Generation via Inference-time Latent-code Learning](https://openreview.net/forum?id=sCYXJr3QJM8)
-   - Arnab Kumar Mondal, Piyush Tiwary, Parag Singla, Prathosh AP; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9imtniz7byx"></a>
-4. [Finding the Global Semantic Representation in GAN through Fréchet Mean](https://openreview.net/forum?id=9ImtNIZ7bYx)
-   - Jaewoong Choi, Geonho Hwang, Hyunsoo Cho, Myungjoo Kang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7h5kss2pcri"></a>
-5. [Forward Super-Resolution: How Can GANs Learn Hierarchical Generative Models for Real-World Distributions](https://openreview.net/forum?id=7h5KSs2PCRi)
-   - Zeyuan Allen-Zhu, Yuanzhi Li; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-47b-ctc4pj"></a>
-6. [Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance](https://openreview.net/forum?id=47B_ctC4pJ)
-   - Yoonjeon Kim, Hyunsu Kim, Junho Kim, Yunjey Choi, Eunho Yang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-o3yygm3lnzs"></a>
-7. [PV3D: A 3D Generative Model for Portrait Video Generation](https://openreview.net/forum?id=o3yygm3lnzS)
-   - Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, Wenqing Zhang, Song Bai, Jiashi Feng, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iudsb2kk9gy"></a>
-8. [PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs](https://openreview.net/forum?id=iUdSB2kK9GY)
-   - James Oldfield, Christos Tzelepis, Yannis Panagakis, Mihalis Nicolaou, Ioannis Patras; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ojpb1y8jflw"></a>
-9. [StyleMorph: Disentangled 3D-Aware Image Synthesis with a 3D Morphable StyleGAN](https://openreview.net/forum?id=Ojpb1y8jflw)
-   - Eric-Tuan Le, Edward Bartrum, Iasonas Kokkinos; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4oxtq6m-ws8"></a>
-10. [The Role of ImageNet Classes in Fréchet Inception Distance](https://openreview.net/forum?id=4oXTQ6m_ws8)
-   - Tuomas Kynkäänniemi, Tero Karras, Miika Aittala, Timo Aila, Jaakko Lehtinen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-w918ora75q"></a>
-11. [Towards Smooth Video Composition](https://openreview.net/forum?id=W918Ora75q)
-   - Qihang Zhang, Ceyuan Yang, Yujun Shen, Yinghao Xu, Bolei Zhou; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-hq4k9bf4g2b"></a>
+1. [Behavior Prior Representation learning for Offline Reinforcement Learning](https://openreview.net/forum?id=hQ4K9Bf4G2B)
+   - Hongyu Zang, Xin Li, Jie Yu, Chen Liu, Riashat Islam, Remi Tachet des Combes, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-degjddv22pi"></a>
+2. [Dichotomy of Control: Separating What You Can Control from What You Cannot](https://openreview.net/forum?id=DEGjDDV22pI)
+   - Sherry Yang, Dale Schuurmans, Pieter Abbeel, Ofir Nachum; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ahvfdpi-fa"></a>
+3. [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://openreview.net/forum?id=AHvFDPi-FA)
+   - Zhendong Wang, Jonathan J Hunt, Mingyuan Zhou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-myeap-ocqi"></a>
+4. [Does Zero-Shot Reinforcement Learning Exist?](https://openreview.net/forum?id=MYEap_OcQI)
+   - Ahmed Touati, Jérémy Rapin, Yann Ollivier; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ca77nrveuqn"></a>
+5. [Efficient Planning in a Compact Latent Action Space](https://openreview.net/forum?id=cA77NrVEuqn)
+   - zhengyao jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rocktäschel, Edward Grefenstette, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-tfbhflgv77"></a>
+6. [Hyperbolic Deep Reinforcement Learning](https://openreview.net/forum?id=TfBHFLgv77)
+   - Edoardo Cetin, Benjamin Paul Chamberlain, Michael M. Bronstein, Jonathan J Hunt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-b0ukskfctol"></a>
+7. [Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://openreview.net/forum?id=b0UksKFcTOL)
+   - Dinghuai Zhang, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky T. Q. Chen; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mqpmzvzxk1h"></a>
+8. [Latent Variable Representation for Reinforcement Learning](https://openreview.net/forum?id=mQpmZVzXK1h)
+   - Tongzheng Ren, Chenjun Xiao, Tianjun Zhang, Na Li, Zhaoran Wang, sujay sanghavi, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mhufzfsrfvh"></a>
+9. [Optimal Transport for Offline Imitation Learning](https://openreview.net/forum?id=MhuFzFsrfvH)
+   - Yicheng Luo, zhengyao jiang, Samuel Cohen, Edward Grefenstette, Marc Peter Deisenroth; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mqcmfgrxf7a"></a>
+10. [Simplifying Model-based RL: Learning Representations, Latent-space Models, and Policies with One Objective](https://openreview.net/forum?id=MQcmfgRxf7a)
+   - Raj Ghugare, Homanga Bharadhwaj, Benjamin Eysenbach, Sergey Levine, Russ Salakhutdinov; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uyciheny9pf"></a>
+11. [Value Memory Graph: A Graph-Structured World Model for Offline Reinforcement Learning](https://openreview.net/forum?id=UYcIheNY9Pf)
+   - Deyao Zhu, Li Erran Li, Mohamed Elhoseiny; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3vfqfag3vwi"></a>
+12. [Variational Latent Branching Model for Off-Policy Evaluation](https://openreview.net/forum?id=3VFQfAG3vwi)
+   - Qitong Gao, Ge Gao, Min Chi, Miroslav Pajic; assignment: `hdbscan`; source: `OpenReview`

@@ -1,65 +1,56 @@
-# ICLR 2022: 时间序列预测
+# ICLR 2022: 蛋白质建模与 AI4Science
 
 - Topic ID: `38`
-- Papers: **15** (1.37%)
-- Macro topic: 图学习/数据挖掘
-- English keywords: `meta-learning / few-shot classification / meta-features / mcmc`
-- Keyword pool: meta-learning; few-shot classification; meta-features; mcmc; summary; forecasting; time-series; model-agnostic; meta learning; clustering; unlearning; adaptation
+- Papers: **12** (1.13%)
+- Macro topic: 系统/效率/压缩
+- English keywords: `protein / graph / relational / imaging`
+- Keyword pool: protein; graph; relational; imaging; gene; disease; single-cell; causal; multi-task learning; topological; nodes; embeddings
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate
-- MAML is a Noisy Contrastive Learner in Classification
-- How to Train Your MAML to Excel in Few-Shot Classification
-- Learning Prototype-oriented Set Representations for Meta-Learning
-- Model Agnostic Interpretability for Multiple Instance Learning
+- MoReL: Multi-omics Relational Learning
+- A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Imaging Phenotypes of Disease
+- Relational Multi-Task Learning: Modeling Relations between Data and Tasks
+- Topologically Regularized Data Embeddings
+- Efficient Neural Causal Discovery without Acyclicity Constraints
 
 ## Papers
 
-<a id="paper-49h-ikpjtae"></a>
-1. [How to Train Your MAML to Excel in Few-Shot Classification](https://openreview.net/forum?id=49h_IkpJtaE)
-   - Han-Jia Ye, Wei-Lun Chao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dtqoctuoqo"></a>
-2. [Knowledge Removal in Sampling-based Bayesian Inference](https://openreview.net/forum?id=dTqOcTUOQO)
-   - Shaopeng Fu, Fengxiang He, Dacheng Tao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-wh6u2svllp4"></a>
-3. [Learning Prototype-oriented Set Representations for Meta-Learning](https://openreview.net/forum?id=WH6u2SvlLp4)
-   - Dan dan Guo, Long Tian, Minghe Zhang, Mingyuan Zhou, Hongyuan Zha; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dtkefj0ygb8"></a>
-4. [Learning meta-features for AutoML](https://openreview.net/forum?id=DTkEfj0Ygb8)
-   - Herilalaina Rakotoarison, Louisot Milijaona, Andry RASOANAIVO, Michele Sebag, Marc Schoenauer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-x8clthexyyy"></a>
-5. [Learning-Augmented $k$-means Clustering](https://openreview.net/forum?id=X8cLTHexYyY)
-   - Jon C. Ergun, Zhili Feng, Sandeep Silwal, David Woodruff, Samson Zhou; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ldawu17qajz"></a>
-6. [MAML is a Noisy Contrastive Learner in Classification](https://openreview.net/forum?id=LDAwu17QaJz)
-   - Chia Hsiang Kao, Wei-Chen Chiu, Pin-Yu Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ajxwf7bvr8d"></a>
-7. [Meta-Learning with Fewer Tasks through Task Interpolation](https://openreview.net/forum?id=ajXWF7bVR8d)
-   - Huaxiu Yao, Linjun Zhang, Chelsea Finn; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kssff5lmiag"></a>
-8. [Model Agnostic Interpretability for Multiple Instance Learning](https://openreview.net/forum?id=KSSfF5lMIAg)
-   - Joseph Early, Christine Evers, SArvapali Ramchurn; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zrw-lvxj2k1"></a>
-9. [On the benefits of maximum likelihood estimation for Regression and Forecasting](https://openreview.net/forum?id=zrW-LVXj2k1)
-   - Pranjal Awasthi, Abhimanyu Das, Rajat Sen, Ananda Theertha Suresh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cgdakqo1c0p"></a>
-10. [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p)
-   - Taesung Kim, Jinhee Kim, Yunwon Tae, Cheonbok Park, Jang-Ho Choi, Jaegul Choo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-u2gzoiutbt"></a>
-11. [Task Affinity with Maximum Bipartite Matching in Few-Shot Learning](https://openreview.net/forum?id=u2GZOiUTbt)
-   - Cat Phuoc Le, Juncheng Dong, Mohammadreza Soltani, Vahid Tarokh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-a3hhaedqajl"></a>
-12. [Task Relatedness-Based Generalization Bounds for Meta Learning](https://openreview.net/forum?id=A3HHaEdqAJL)
-   - Jiechao Guan, Zhiwu Lu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iulemlyh1ur"></a>
-13. [The Efficiency Misnomer](https://openreview.net/forum?id=iulEMLYh1uR)
-   - Mostafa Dehghani, Yi Tay, Anurag Arnab, Lucas Beyer, Ashish Vaswani; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-r79zgjhhv6p"></a>
-14. [Toward Faithful Case-based Reasoning through Learning Prototypes in a Nearest Neighbor-friendly Space.](https://openreview.net/forum?id=R79ZGjHhv6p)
-   - Seyed Omid Davoudi, Majid Komeili; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3rulbvoj8d2"></a>
-15. [Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate](https://openreview.net/forum?id=3rULBvOJ8D2)
-   - Yingtian Zou, Fusheng Liu, Qianxiao Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lwr8we4mixn"></a>
+1. [A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Imaging Phenotypes of Disease](https://openreview.net/forum?id=Lwr8We4MIxn)
+   - Sayan Ghosal, Qiang Chen, Giulio Pergola, Aaron L Goldman, William Ulrich, Daniel R Weinberger, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fzoz7a31gcw"></a>
+2. [Ancestral protein sequence reconstruction using a tree-structured Ornstein-Uhlenbeck variational autoencoder](https://openreview.net/forum?id=FZoZ7a31GCW)
+   - Lys Sanz Moreta, Ola Rønning, Ahmad Salim Al-Sibahi, Jotun Hein, Douglas Theobald, Thomas Hamelryck; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-eyciprluuhg"></a>
+3. [Efficient Neural Causal Discovery without Acyclicity Constraints](https://openreview.net/forum?id=eYciPrLuUhG)
+   - Phillip Lippe, Taco Cohen, Efstratios Gavves; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-nzouyen6wvy"></a>
+4. [Granger causal inference on DAGs identifies genomic loci regulating transcription](https://openreview.net/forum?id=nZOUYEN6Wvy)
+   - Alexander P Wu, Rohit Singh, Bonnie Berger; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-dng75-kyhjx"></a>
+5. [MoReL: Multi-omics Relational Learning](https://openreview.net/forum?id=DnG75_KyHjX)
+   - Arman Hasanzadeh, Ehsan Hajiramezanali, Nick Duffield, Xiaoning Qian; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hbsjnesj2s"></a>
+6. [Neural Relational Inference with Node-Specific Information](https://openreview.net/forum?id=HBsJNesj2S)
+   - Ershad Banijamali; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yfe1vmyaxa4"></a>
+7. [OntoProtein: Protein Pretraining With Gene Ontology Embedding](https://openreview.net/forum?id=yfe1VMYAXa4)
+   - Ningyu Zhang, Zhen Bi, Xiaozhuan Liang, Siyuan Cheng, Haosen Hong, Shumin Deng, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-az-7gjc6lpr"></a>
+8. [Relational Learning with Variational Bayes](https://openreview.net/forum?id=Az-7gJc6lpr)
+   - Kuang-Hung Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8py-w8lsugy"></a>
+9. [Relational Multi-Task Learning: Modeling Relations between Data and Tasks](https://openreview.net/forum?id=8Py-W8lSUgy)
+   - Kaidi Cao, Jiaxuan You, Jure Leskovec; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k9bx1efhi"></a>
+10. [Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis](https://openreview.net/forum?id=k9bx1EfHI_-)
+   - Siyi Tang, Jared Dunnmon, Khaled Kamal Saab, Xuan Zhang, Qianying Huang, Florian Dubost, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nf3a0wzsxs5"></a>
+11. [Surreal-GAN:Semi-Supervised Representation Learning via GAN for uncovering heterogeneous disease-related imaging patterns](https://openreview.net/forum?id=nf3A0WZsXS5)
+   - Zhijian Yang, Junhao Wen, Christos Davatzikos; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-p1quvhotefp"></a>
+12. [Topologically Regularized Data Embeddings](https://openreview.net/forum?id=P1QUVhOtEFP)
+   - Robin Vandaele, Bo Kang, Jefrey Lijffijt, Tijl De Bie, Yvan Saeys; assignment: `nearest_centroid`; source: `OpenReview`

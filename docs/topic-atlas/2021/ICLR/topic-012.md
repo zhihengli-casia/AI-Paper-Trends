@@ -1,83 +1,89 @@
-# ICLR 2021: 医疗健康与临床 AI
+# ICLR 2021: 强化学习算法与理论
 
 - Topic ID: `12`
-- Papers: **21** (2.44%)
-- Macro topic: 可信/安全/公平
-- English keywords: `adversarial / robustness / certified / perturbation`
-- Keyword pool: adversarial; robustness; certified; perturbation; attacks; threat; examples; perceptual; defense; medical; concentration; transferability
+- Papers: **23** (2.68%)
+- Macro topic: 强化学习/决策
+- English keywords: `policy / reinforcement learning / actor-critic / control`
+- Keyword pool: policy; reinforcement learning; actor-critic; control; poisoning; value; learning rl; trust; agent; deep reinforcement; policies; drl
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Provably robust classification of adversarial examples with detection
-- Perceptual Adversarial Robustness: Defense Against Unseen Threat Models
-- Bag of Tricks for Adversarial Training
-- Self-supervised Adversarial Robustness for the Low-label, High-data Regime
-- Certify or Predict: Boosting Certified Robustness with Compositional Architectures
+- What Matters for On-Policy Deep Actor-Critic Methods? A Large-Scale Study
+- Regularization Matters in Policy Optimization - An Empirical Study on Continuous Control
+- Learning Value Functions in Deep Policy Gradients using Residual Variance
+- Parameter-Based Value Functions
+- Single-Timescale Actor-Critic Provably Finds Globally Optimal Policy
 
 ## Papers
 
-<a id="paper-x76iqnubbjz"></a>
-1. [A Unified Approach to Interpreting and Boosting Adversarial Transferability](https://openreview.net/forum?id=X76iqnUbBjz)
-   - Xin Wang, Jie Ren, Shuyun Lin, Xiangming Zhu, Yisen Wang, Quanshi Zhang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-jocr4h9o3ew"></a>
-2. [ARMOURED: Adversarially Robust MOdels using Unlabeled data by REgularizing Diversity](https://openreview.net/forum?id=JoCR4h9O3Ew)
-   - Kangkang Lu, Cuong Manh Nguyen, Xun Xu, Kiran Krishnamachari, Yu Jing Goh, Chuan-Sheng Foo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xb8xvrtb8ce"></a>
-3. [Bag of Tricks for Adversarial Training](https://openreview.net/forum?id=Xb8xvrtB8Ce)
-   - Tianyu Pang, Xiao Yang, Yinpeng Dong, Hang Su, Jun Zhu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uscnapootw"></a>
-4. [Certify or Predict: Boosting Certified Robustness with Compositional Architectures](https://openreview.net/forum?id=USCNapootw)
-   - Mark Niklas Mueller, Mislav Balunovic, Martin Vechev; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ulqdiuthe3y"></a>
-5. [Collective Robustness Certificates: Exploiting Interdependence in Graph Neural Networks](https://openreview.net/forum?id=ULQdiUTHe3y)
-   - Jan Schuchardt, Aleksandar Bojchevski, Johannes Gasteiger, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kxlwvhoodk"></a>
-6. [Decentralized Attribution of Generative Models](https://openreview.net/forum?id=_kxlwvhOodK)
-   - Changhoon Kim, Yi Ren, Yezhou Yang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-hr-3pmvdpil"></a>
-7. [Efficient Certified Defenses Against Patch Attacks on Image Classifiers](https://openreview.net/forum?id=hr-3PMvDpil)
-   - Jan Hendrik Metzen, Maksym Yatsura; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4dxmpcdgnp7"></a>
-8. [Evaluations and Methods for Explanation through Robustness Analysis](https://openreview.net/forum?id=4dXmpCDGNp7)
-   - Cheng-Yu Hsieh, Chih-Kuan Yeh, Xuanqing Liu, Pradeep Kumar Ravikumar, Seungyeon Kim, Sanjiv Kumar, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iax0l6cz8ub"></a>
-9. [Geometry-aware Instance-reweighted Adversarial Training](https://openreview.net/forum?id=iAX0l6Cz8ub)
-   - Jingfeng Zhang, Jianing Zhu, Gang Niu, Bo Han, Masashi Sugiyama, Mohan Kankanhalli; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-g-wu9tmpodo"></a>
-10. [How Benign is Benign Overfitting ?](https://openreview.net/forum?id=g-wu9TMPODo)
-   - Amartya Sanyal, Puneet K. Dokania, Varun Kanade, Philip Torr; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-bulyhkzjgma"></a>
-11. [Improved Estimation of Concentration Under $\ell_p$-Norm Distance Metrics Using Half Spaces](https://openreview.net/forum?id=BUlyHkzjgmA)
-   - Jack Prescott, Xiao Zhang, David Evans; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zqtezqcctnx"></a>
-12. [Improving Adversarial Robustness via Channel-wise Activation Suppressing](https://openreview.net/forum?id=zQTezqCCtNx)
-   - Yang Bai, Yuyuan Zeng, Yong Jiang, Shu-Tao Xia, Xingjun Ma, Yisen Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-midcka56ad"></a>
-13. [Learning perturbation sets for robust machine learning](https://openreview.net/forum?id=MIDckA56aD)
-   - Eric Wong, J Zico Kolter; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hjmtwoceqzc"></a>
-14. [LowKey: Leveraging Adversarial Attacks to Protect Social Media Users from Facial Recognition](https://openreview.net/forum?id=hJmtwocEqzc)
-   - Valeriia Cherepanova, Micah Goldblum, Harrison Foley, Shiyuan Duan, John P Dickerson, Gavin Taylor, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-i3aspp12ws"></a>
-15. [Online Adversarial Purification based on Self-supervised Learning](https://openreview.net/forum?id=_i3ASPp12WS)
-   - Changhao Shi, Chester Holtz, Gal Mishne; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dfwbosacjkn"></a>
-16. [Perceptual Adversarial Robustness: Defense Against Unseen Threat Models](https://openreview.net/forum?id=dFwBosAcJkN)
-   - Cassidy Laidlaw, Sahil Singla, Soheil Feizi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sra5rlnpmqc"></a>
-17. [Provably robust classification of adversarial examples with detection](https://openreview.net/forum?id=sRA5rLNpmQc)
-   - Fatemeh Sheikholeslami, Ali Lotfi, J Zico Kolter; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qzzy5urzw9"></a>
-18. [Robust Overfitting may be mitigated by properly learned smoothening](https://openreview.net/forum?id=qZzy5urZw9)
-   - Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-bgqek2o63w"></a>
-19. [Self-supervised Adversarial Robustness for the Low-label, High-data Regime](https://openreview.net/forum?id=bgQek2O63w)
-   - Sven Gowal, Po-Sen Huang, Aaron van den Oord, Timothy Mann, Pushmeet Kohli; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qftxqigyudj"></a>
-20. [Stabilized Medical Image Attacks](https://openreview.net/forum?id=QfTXQiGYudJ)
-   - Gege Qi, Lijun GONG, Yibing Song, Kai Ma, Yefeng Zheng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iamzuo0dxc0"></a>
-21. [Unlearnable Examples: Making Personal Data Unexploitable](https://openreview.net/forum?id=iAmZUo0DxC0)
-   - Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, Yisen Wang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mqp5cr-iny"></a>
+1. [Adversarially Guided Actor-Critic](https://openreview.net/forum?id=_mQp5cr_iNy)
+   - Yannis Flet-Berliac, Johan Ferret, Olivier Pietquin, Philippe Preux, Matthieu Geist; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tqt98ya7ump"></a>
+2. [Balancing Constraints and Rewards with Meta-Gradient D4PG](https://openreview.net/forum?id=TQt98Ya7UMP)
+   - Dan A. Calian, Daniel J Mankowitz, Tom Zahavy, Zhongwen Xu, Junhyuk Oh, Nir Levine, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-po-dllbuauz"></a>
+3. [Batch Reinforcement Learning Through Continuation Method](https://openreview.net/forum?id=po-DLlBuAuz)
+   - Yijie Guo, Shengyu Feng, Nicolas Le Roux, Ed Chi, Honglak Lee, Minmin Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-iao86duuki"></a>
+4. [Conservative Safety Critics for Exploration](https://openreview.net/forum?id=iaO86DUuKi)
+   - Homanga Bharadhwaj, Aviral Kumar, Nicholas Rhinehart, Sergey Levine, Florian Shkurti, Animesh Garg; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-v1zhvxj6dss"></a>
+5. [DC3: A learning method for optimization with hard constraints](https://openreview.net/forum?id=V1ZHVxJ6dSS)
+   - Priya L. Donti, David Rolnick, J Zico Kolter; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qyzd-ao1vn"></a>
+6. [Differentiable Trust Region Layers for Deep Reinforcement Learning](https://openreview.net/forum?id=qYZD-AO1Vn)
+   - Fabian Otto, Philipp Becker, Vien Anh Ngo, Hanna Carolin Maria Ziesche, Gerhard Neumann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ohgnfsrn2jv"></a>
+7. [Efficient Wasserstein Natural Gradients for Reinforcement Learning](https://openreview.net/forum?id=OHgnfSrn2jv)
+   - Ted Moskovitz, Michael Arbel, Ferenc Huszar, Arthur Gretton; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-5lhwg3hj2by"></a>
+8. [Enforcing robust control guarantees within neural network policies](https://openreview.net/forum?id=5lhWG3Hj2By)
+   - Priya L. Donti, Melrose Roderick, Mahyar Fazlyab, J Zico Kolter; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tgfo0dbd-pk"></a>
+9. [Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning](https://openreview.net/forum?id=TGFO0DbD_pk)
+   - Enrico Marchesini, Davide Corsi, Alessandro Farinelli; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-bb2drc7dpub"></a>
+10. [Global optimality of softmax policy gradient with single hidden layer neural networks in the mean-field regime](https://openreview.net/forum?id=bB2drc7DPuB)
+   - Andrea Agazzi, Jianfeng Lu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6t-dlshiuyz"></a>
+11. [Greedy-GQ with Variance Reduction: Finite-time Analysis and Improved Complexity](https://openreview.net/forum?id=6t_dLShIUyZ)
+   - Shaocong Ma, Ziyi Chen, Yi Zhou, Shaofeng Zou; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-o9bnihsffxu"></a>
+12. [Implicit Under-Parameterization Inhibits Data-Efficient Deep Reinforcement Learning](https://openreview.net/forum?id=O9bnihsFfXU)
+   - Aviral Kumar, Rishabh Agarwal, Dibya Ghosh, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nx1he-afo-f"></a>
+13. [Learning Value Functions in Deep Policy Gradients using Residual Variance](https://openreview.net/forum?id=NX1He-aFO_F)
+   - Yannis Flet-Berliac, reda ouhamma, odalric-ambrym maillard, Philippe Preux; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tv6obfuyltq"></a>
+14. [Parameter-Based Value Functions](https://openreview.net/forum?id=tV6oBfuyLTQ)
+   - Francesco Faccio, Louis Kirsch, Jürgen Schmidhuber; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yr1mzrh3ic"></a>
+15. [Regularization Matters in Policy Optimization - An Empirical Study on Continuous Control](https://openreview.net/forum?id=yr1mzrH3IC)
+   - Zhuang Liu, Xuanlin Li, Bingyi Kang, Trevor Darrell; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qfynklbjyr"></a>
+16. [Reinforcement Learning with Random Delays](https://openreview.net/forum?id=QFYnKlBJYR)
+   - Yann Bouteiller, Simon Ramstedt, Giovanni Beltrame, Christopher Pal, Jonathan Binas; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tbizh9b5eaz"></a>
+17. [Risk-Averse Offline Reinforcement Learning](https://openreview.net/forum?id=TBIzh9b5eaz)
+   - Núria Armengol Urpí, Sebastian Curi, Andreas Krause; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sczbhbvqqau"></a>
+18. [Robust Reinforcement Learning on State Observations with Learned Optimal Adversary](https://openreview.net/forum?id=sCZbhBvqQaU)
+   - Huan Zhang, Hongge Chen, Duane S Boning, Cho-Jui Hsieh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pqzv-sruvmk"></a>
+19. [Single-Timescale Actor-Critic Provably Finds Globally Optimal Policy](https://openreview.net/forum?id=pqZV_srUVmK)
+   - Zuyue Fu, Zhuoran Yang, Zhaoran Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2al06y9cde"></a>
+20. [Towards Robust Neural Networks via Close-loop Control](https://openreview.net/forum?id=2AL06y9cDE-)
+   - Zhuotong Chen, Qianxiao Li, Zheng Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9r30xcjf5dt"></a>
+21. [Vulnerability-Aware Poisoning Mechanism for Online RL with Unknown Dynamics](https://openreview.net/forum?id=9r30XCjf5Dt)
+   - Yanchao Sun, Da Huo, Furong Huang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-niaxjsnidzg"></a>
+22. [What Matters for On-Policy Deep Actor-Critic Methods? A Large-Scale Study](https://openreview.net/forum?id=nIAxjsniDzg)
+   - Marcin Andrychowicz, Anton Raichuk, Piotr Stańczyk, Manu Orsini, Sertan Girgin, Raphaël Marinier, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lmujqb1cz8"></a>
+23. [Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic](https://openreview.net/forum?id=LmUJqB1Cz8)
+   - Deunsol Yoon, Sunghoon Hong, Byung-Jun Lee, Kee-Eung Kim; assignment: `hdbscan`; source: `OpenReview`

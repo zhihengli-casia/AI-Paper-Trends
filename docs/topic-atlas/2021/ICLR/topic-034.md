@@ -1,59 +1,59 @@
-# ICLR 2021: regression / minimax / correspondence / search
+# ICLR 2021: 语音/音频语言模型
 
 - Topic ID: `34`
 - Papers: **13** (1.51%)
-- Macro topic: 强化学习/决策
-- English keywords: `regression / minimax / correspondence / search`
-- Keyword pool: regression; minimax; correspondence; search; pareto; treatment; instrumental; hyperparameter; routing; surrogate; response; schedules
+- Macro topic: 语音/音频/音乐
+- English keywords: `speech / audio / asr / sound`
+- Keyword pool: speech; audio; asr; sound; synthesis; non-autoregressive; acoustic; duration; quality; style; adaptation; custom
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation
-- Learning A Minimax Optimizer: A Pilot Study
-- Few-Shot Bayesian Optimization with Deep Kernel Surrogates
-- Learning to Make Decisions via Submodular Regularization
-- Sample-Efficient Automated Deep Reinforcement Learning
+- Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech
+- End-to-end Adversarial Text-to-Speech
+- Unsupervised Audiovisual Synthesis via Exemplar Autoencoders
+- DiffWave: A Versatile Diffusion Model for Audio Synthesis
+- WaveGrad: Estimating Gradients for Waveform Generation
 
 ## Papers
 
-<a id="paper-l35sb-rasq"></a>
-1. [A Hypergradient Approach to Robust Regression without Correspondence](https://openreview.net/forum?id=l35SB-_raSQ)
-   - Yujia Xie, Yixiu Mao, Simiao Zuo, Hongteng Xu, Xiaojing Ye, Tuo Zhao, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-slrqm9-lyju"></a>
-2. [AutoLRS: Automatic Learning-Rate Schedule by Bayesian Optimization on the Fly](https://openreview.net/forum?id=SlrqM9_lyju)
-   - Yuchen Jin, Tianyi Zhou, Liangyu Zhao, Yibo Zhu, Chuanxiong Guo, Marco Canini, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vblh04pra3"></a>
-3. [ECONOMIC HYPERPARAMETER OPTIMIZATION WITH BLENDED SEARCH STRATEGY](https://openreview.net/forum?id=VbLH04pRA3)
-   - Chi Wang, Qingyun Wu, Silu Huang, Amin Saied; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bjxgv5c3syc"></a>
-4. [Few-Shot Bayesian Optimization with Deep Kernel Surrogates](https://openreview.net/forum?id=bJxgv5C3sYc)
-   - Martin Wistuba, Josif Grabocka; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nkidwi6oo4"></a>
-5. [Learning A Minimax Optimizer: A Pilot Study](https://openreview.net/forum?id=nkIDwI6oO4_)
-   - Jiayi Shen, Xiaohan Chen, Howard Heaton, Tianlong Chen, Jialin Liu, Wotao Yin, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sy4kg-zqms7"></a>
-6. [Learning Deep Features in Instrumental Variable Regression](https://openreview.net/forum?id=sy4Kg_ZQmS7)
-   - Liyuan Xu, Yutian Chen, Siddarth Srinivasan, Nando de Freitas, Arnaud Doucet, Arthur Gretton; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-90jprvrjbo"></a>
-7. [Learning a Latent Search Space for Routing Problems using Variational Autoencoders](https://openreview.net/forum?id=90JprVrJBO)
-   - André Hottung, Bhanu Bhandari, Kevin Tierney; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-njf772f4zzr"></a>
-8. [Learning the Pareto Front with Hypernetworks](https://openreview.net/forum?id=NjF772F4ZZR)
-   - Aviv Navon, Aviv Shamsian, Ethan Fetaya, Gal Chechik; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ac288vng-7u"></a>
-9. [Learning to Make Decisions via Submodular Regularization](https://openreview.net/forum?id=ac288vnG_7U)
-   - Ayya Alieva, Aiden Aceves, Jialin Song, Stephen Mayo, Yisong Yue, Yuxin Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zdnzzrtqu9n"></a>
-10. [Modeling the Second Player in Distributionally Robust Optimization](https://openreview.net/forum?id=ZDnzZrTqU9N)
-   - Paul Michel, Tatsunori Hashimoto, Graham Neubig; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fmmkso4e8jk"></a>
-11. [Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation](https://openreview.net/forum?id=FmMKSO4e8JK)
-   - Justin Fu, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hsjxq3b7gwq"></a>
-12. [Sample-Efficient Automated Deep Reinforcement Learning](https://openreview.net/forum?id=hSjxQ3B7GWq)
-   - Jörg K.H. Franke, Gregor Koehler, André Biedenkapp, Frank Hutter; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-rmb-88r9dl"></a>
-13. [VCNet and Functional Targeted Regularization For Learning Causal Effects of Continuous Treatments](https://openreview.net/forum?id=RmB-88r9dL)
-   - Lizhen Nie, Mao Ye, qiang liu, Dan Nicolae; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-drynvt7gg4l"></a>
+1. [AdaSpeech: Adaptive Text to Speech for Custom Voice](https://openreview.net/forum?id=Drynvt7gg4L)
+   - Mingjian Chen, Xu Tan, Bohan Li, Yanqing Liu, Tao Qin, sheng zhao, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o3iritjhlfo"></a>
+2. [Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech](https://openreview.net/forum?id=o3iritJHLfO)
+   - Yoonhyung Lee, Joongbo Shin, Kyomin Jung; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-a-xfk8ymz5j"></a>
+3. [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://openreview.net/forum?id=a-xFK8Ymz5J)
+   - Zhifeng Kong, Wei Ping, Jiaji Huang, Kexin Zhao, Bryan Catanzaro; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pz-dcqfckw8"></a>
+4. [Dual-mode ASR: Unify and Improve Streaming ASR with Full-context Modeling](https://openreview.net/forum?id=Pz_dcqfcKW8)
+   - Jiahui Yu, Wei Han, Anmol Gulati, Chung-Cheng Chiu, Bo Li, Tara N Sainath, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rsf1z-jsj87"></a>
+5. [End-to-end Adversarial Text-to-Speech](https://openreview.net/forum?id=rsf1z-JSj87)
+   - Jeff Donahue, Sander Dieleman, Mikolaj Binkowski, Erich Elsen, Karen Simonyan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pilpyqxtwua"></a>
+6. [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://openreview.net/forum?id=piLPYqxtWuA)
+   - Yi Ren, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ig53hphxs4"></a>
+7. [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://openreview.net/forum?id=Ig53hpHxS4)
+   - Rafael Valle, Kevin J. Shih, Ryan Prenger, Bryan Catanzaro; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tgsvwxw22fq"></a>
+8. [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)
+   - Siyang Yuan, Pengyu Cheng, Ruiyi Zhang, Weituo Hao, Zhe Gan, Lawrence Carin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mdsqkfp1aw"></a>
+9. [Into the Wild with AudioScope: Unsupervised Audio-Visual Separation of On-Screen Sounds](https://openreview.net/forum?id=MDsQkFP1Aw)
+   - Efthymios Tzinis, Scott Wisdom, Aren Jansen, Shawn Hershey, Tal Remez, Dan Ellis, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jm76bcb6f9m"></a>
+10. [LEAF: A Learnable Frontend for Audio Classification](https://openreview.net/forum?id=jM76BCb6F9m)
+   - Neil Zeghidour, Olivier Teboul, Félix de Chaumont Quitry, Marco Tagliasacchi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uax8q61evru"></a>
+11. [Neural Synthesis of Binaural Speech From Mono Audio](https://openreview.net/forum?id=uAX8q61EVRu)
+   - Alexander Richard, Dejan Markovic, Israel D. Gebru, Steven Krenn, Gladstone Alexander Butler, Fernando Torre, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-43vkwxg-sqr"></a>
+12. [Unsupervised Audiovisual Synthesis via Exemplar Autoencoders](https://openreview.net/forum?id=43VKWxg_Sqr)
+   - Kangle Deng, Aayush Bansal, Deva Ramanan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nsmljcfao8o"></a>
+13. [WaveGrad: Estimating Gradients for Waveform Generation](https://openreview.net/forum?id=NsMLjcFaO8O)
+   - Nanxin Chen, Yu Zhang, Heiga Zen, Ron J Weiss, Mohammad Norouzi, William Chan; assignment: `hdbscan`; source: `OpenReview`

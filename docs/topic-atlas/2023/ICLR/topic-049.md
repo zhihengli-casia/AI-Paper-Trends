@@ -1,62 +1,65 @@
-# ICLR 2023: convolutional / markov chain / cnn / skip
+# ICLR 2023: 攻击、防御与模型安全
 
 - Topic ID: `49`
-- Papers: **14** (0.89%)
-- Macro topic: 计算机视觉
-- English keywords: `convolutional / markov chain / cnn / skip`
-- Keyword pool: convolutional; markov chain; cnn; skip; dino; filters; convolutions; kernels; inrs; reparameterization; neural representations; image
+- Papers: **15** (0.98%)
+- Macro topic: 理论/优化
+- English keywords: `fairness / bias / long-term / clustering`
+- Keyword pool: fairness; bias; long-term; clustering; group; graph; attack; equalized; attributes; algorithms; augmentations; sensitive
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- NeRN: Learning Neural Representations for Neural Networks
-- Understanding the Covariance Structure of Convolutional Filters
-- Contextual Convolutional Networks
-- A Kernel Perspective of Skip Connections in Convolutional Networks
-- Modelling Long Range Dependencies in $N$D: From Task-Specific to a General Purpose CNN
+- Fairness and Accuracy under Domain Generalization
+- FaiREE: fair classification with finite-sample and distribution-free guarantee
+- FIFA: Making Fairness More Generalizable in Classifiers Trained on Imbalanced Data
+- Equal Improvability: A New Fairness Notion Considering the Long-term Impact
+- FairGBM: Gradient Boosting with Fairness Constraints
 
 ## Papers
 
-<a id="paper-6h-uofcwivh"></a>
-1. [A Kernel Perspective of Skip Connections in Convolutional Networks](https://openreview.net/forum?id=6H_uOfcwiVh)
-   - Daniel Barzilai, Amnon Geifman, Meirav Galun, Ronen Basri; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pldyns56bn"></a>
-2. [Contextual Convolutional Networks](https://openreview.net/forum?id=PldynS56bN)
-   - Shuxian Liang, Xu Shen, Tongliang Liu, Xian-Sheng Hua; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3mrwyg5one"></a>
-3. [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection](https://openreview.net/forum?id=3mRwyG5one)
-   - Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Su, Jun Zhu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-oooiw-3uadi"></a>
-4. [Deep Learning on Implicit Neural Representations of Shapes](https://openreview.net/forum?id=OoOIW-3uadi)
-   - Luca De Luigi, Adriano Cardace, Riccardo Spezialetti, Pierluigi Zama Ramirez, Samuele Salti, Luigi di Stefano; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-q3-1vrh3hoa"></a>
-5. [Dilated convolution with learnable spacings](https://openreview.net/forum?id=Q3-1vRh3HOA)
-   - Ismail Khalfaoui Hassani, Thomas Pellegrini, Timothée Masquelier; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-awnvqzja69"></a>
-6. [Image as Set of Points](https://openreview.net/forum?id=awnvqZja69)
-   - Xu Ma, Yuqian Zhou, Huan Wang, Can Qin, Bin Sun, Chang Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lj1eb1openw"></a>
-7. [Maximizing Spatio-Temporal Entropy of Deep 3D CNNs for Efficient Video Recognition](https://openreview.net/forum?id=lj1Eb1OPeNw)
-   - Junyan Wang, Zhenhong Sun, Yichen Qian, Dong Gong, Xiuyu Sun, Ming Lin, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-zw5ak4ycrqu"></a>
-8. [Modelling Long Range Dependencies in $N$D: From Task-Specific to a General Purpose CNN](https://openreview.net/forum?id=ZW5aK4yCRqU)
-   - David M Knigge, David W. Romero, Albert Gu, Efstratios Gavves, Erik J Bekkers, Jakub Mikolaj Tomczak, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9gfir3fsy3j"></a>
-9. [NeRN: Learning Neural Representations for Neural Networks](https://openreview.net/forum?id=9gfir3fSy3J)
-   - Maor Ashkenazi, Zohar Rimon, Ron Vainshtein, Shir Levi, Elad Richardson, Pinchas Mintz, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kpdewuy7ru6"></a>
-10. [Reparameterization through Spatial Gradient Scaling](https://openreview.net/forum?id=Kpdewuy7RU6)
-   - Alexander Detkov, Mohammad Salameh, Muhammad Fetrat, Jialin Zhang, Robin Luwei, SHANGLING JUI, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-yqdbtffleh6"></a>
-11. [Rethinking skip connection model as a learnable Markov chain](https://openreview.net/forum?id=yQdBtFfleh6)
-   - Dengsheng Chen, Jie Hu, Wenwen Qiang, Xiaoming Wei, Enhua Wu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oc2vlwu0jfy"></a>
-12. [Reversible Column Networks](https://openreview.net/forum?id=Oc2vlWU0jFY)
-   - Yuxuan Cai, Yizhuang Zhou, Qi Han, Jianjian Sun, Xiangwen Kong, Jun Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wgapodqvwrg"></a>
-13. [Understanding the Covariance Structure of Convolutional Filters](https://openreview.net/forum?id=WGApODQvwRg)
-   - Asher Trockman, Devin Willmott, J Zico Kolter; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cskwavjr7a"></a>
-14. [Visual Recognition with Deep Nearest Centroids](https://openreview.net/forum?id=CsKwavjr7A)
-   - Wenguan Wang, Cheng Han, Tianfei Zhou, Dongfang Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-v7cyzdruwdm"></a>
+1. [Bias Propagation in Federated Learning](https://openreview.net/forum?id=V7CYzdruWdm)
+   - Hongyan Chang, Reza Shokri; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wzlwio-wy4"></a>
+2. [Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems](https://openreview.net/forum?id=wzlWiO_WY4)
+   - Yewen Fan, Nian Si, Kun Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-iifdqvyufd"></a>
+3. [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/forum?id=iIfDQVyuFD)
+   - Ali Shahin Shamsabadi, Sierra Calanda Wyllie, Nicholas Franzese, Natalie Dullerud, Sébastien Gambs, Nicolas Papernot, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dhyummy0-eg"></a>
+4. [Equal Improvability: A New Fairness Notion Considering the Long-term Impact](https://openreview.net/forum?id=dhYUMMy0_Eg)
+   - Ozgur Guldogan, Yuchen Zeng, Jy-yong Sohn, Ramtin Pedarsani, Kangwook Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zvrw4oh1lch"></a>
+5. [FIFA: Making Fairness More Generalizable in Classifiers Trained on Imbalanced Data](https://openreview.net/forum?id=zVrw4OH1Lch)
+   - Zhun Deng, Jiayao Zhang, Linjun Zhang, Ting Ye, Yates Coley, Weijie J Su, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-shzu8d6-yar"></a>
+6. [FaiREE: fair classification with finite-sample and distribution-free guarantee](https://openreview.net/forum?id=shzu8d6_YAR)
+   - Puheng Li, James Zou, Linjun Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9vcxcmp9vep"></a>
+7. [Fair Attribute Completion on Graph with Missing Attributes](https://openreview.net/forum?id=9vcXCMp9VEp)
+   - Dongliang Guo, Zhixuan Chu, Sheng Li; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-x-mxzbgcx3a"></a>
+8. [FairGBM: Gradient Boosting with Fairness Constraints](https://openreview.net/forum?id=x-mXzBgCX3a)
+   - André Cruz, Catarina G Belém, João Bravo, Pedro Saleiro, Pedro Bizarro; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jbexnemdnol"></a>
+9. [Fairness and Accuracy under Domain Generalization](https://openreview.net/forum?id=jBEXnEMdNOL)
+   - Thai-Hoang Pham, Xueru Zhang, Ping Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-j4mjjotsauh"></a>
+10. [Fooling SHAP with Stealthily Biased Sampling](https://openreview.net/forum?id=J4mJjotSauh)
+   - gabriel laberge, Ulrich Aïvodji, Satoshi Hara, Mario Marchand, Foutse Khomh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1-ogwcp1s9w"></a>
+11. [Learning Fair Graph Representations via Automated Data Augmentations](https://openreview.net/forum?id=1_OGWcP1s9w)
+   - Hongyi Ling, Zhimeng Jiang, Youzhi Luo, Shuiwang Ji, Na Zou; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-6ve2ckeqe5s"></a>
+12. [MEDFAIR: Benchmarking Fairness for Medical Imaging](https://openreview.net/forum?id=6ve2CkeQe5S)
+   - Yongshuo Zong, Yongxin Yang, Timothy Hospedales; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q-wfhzmig9m"></a>
+13. [Re-weighting Based Group Fairness Regularization via Classwise Robust Optimization](https://openreview.net/forum?id=Q-WfHzmiG9m)
+   - Sangwon Jung, Taeeon Park, Sanghyuk Chun, Taesup Moon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4lmizy7gt7h"></a>
+14. [Robust Fair Clustering: A Novel Fairness Attack and Defense Framework](https://openreview.net/forum?id=4LMIZY7gt7h)
+   - Anshuman Chhabra, Peizhao Li, Prasant Mohapatra, Hongfu Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-szdfz5k7cd1"></a>
+15. [Tier Balancing: Towards Dynamic Fairness over Underlying Causal Factors](https://openreview.net/forum?id=SZdfz5k7cd1)
+   - Zeyu Tang, Yatong Chen, Yang Liu, Kun Zhang; assignment: `hdbscan`; source: `OpenReview`

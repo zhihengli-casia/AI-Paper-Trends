@@ -1,62 +1,62 @@
-# ICLR 2023: 扩散生成模型
+# ICLR 2023: human / similarity / judgments / alignment
 
 - Topic ID: `51`
-- Papers: **14** (0.89%)
-- Macro topic: 生成模型
-- English keywords: `diffusion / discrete / generation / generative`
-- Keyword pool: diffusion; discrete; generation; generative; motion; denoising; bits; dms; image; noise; sample quality; synthesis
+- Papers: **14** (0.92%)
+- Macro topic: 计算机视觉
+- English keywords: `human / similarity / judgments / alignment`
+- Keyword pool: human; similarity; judgments; alignment; language; cortex; behavioral; vision; network representations; oracle; representational; processing
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions
-- Learning Diffusion Bridges on Constrained Domains
-- Diffusion Probabilistic Fields
-- Truncated Diffusion Probabilistic Models and Diffusion-based Adversarial Auto-Encoders
-- Diffusion-GAN: Training GANs with Diffusion
+- Human alignment of neural network representations
+- Words are all you need? Language as an approximation for human similarity judgments
+- A View From Somewhere: Human-Centric Face Representations
+- Aligning Model and Macaque Inferior Temporal Cortex Representations Improves Model-to-Human Behavioral Alignment and Adversarial Robustness
+- Exploring perceptual straightness in learned visual representations
 
 ## Papers
 
-<a id="paper-3itjr9qxfw"></a>
-1. [Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning](https://openreview.net/forum?id=3itjR9QxFw)
-   - Ting Chen, Ruixiang ZHANG, Geoffrey Hinton; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-1roastc9jv"></a>
-2. [ChiroDiff: Modelling chirographic data with Diffusion Models](https://openreview.net/forum?id=1ROAstc9jv)
-   - Ayan Das, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-j6zuzrapy3l"></a>
-3. [DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion](https://openreview.net/forum?id=j6zUzrapY3L)
-   - Qitian Wu, Chenxiao Yang, Wentao Zhao, Yixuan He, David Wipf, Junchi Yan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uaad-nu86wx"></a>
-4. [DiGress: Discrete Denoising diffusion for graph generation](https://openreview.net/forum?id=UaAD-Nu86WX)
-   - Clement Vignac, Igor Krawczuk, Antoine Siraudin, Bohan Wang, Volkan Cevher, Pascal Frossard; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ik91my-2gn"></a>
-5. [Diffusion Probabilistic Fields](https://openreview.net/forum?id=ik91mY-2GN)
-   - Peiye Zhuang, Samira Abnar, Jiatao Gu, Alex Schwing, Joshua M. Susskind, Miguel Ángel Bautista; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hzf7ubpwhua"></a>
-6. [Diffusion-GAN: Training GANs with Diffusion](https://openreview.net/forum?id=HZf7UbpWHuA)
-   - Zhendong Wang, Huangjie Zheng, Pengcheng He, Weizhu Chen, Mingyuan Zhou; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-1-mbdjssz-s"></a>
-7. [Discrete Contrastive Diffusion for Cross-Modal Music and Image Generation](https://openreview.net/forum?id=1-MBdJssZ-S)
-   - Ye Zhu, Yu Wu, Kyle Olszewski, Jian Ren, Sergey Tulyakov, Yan Yan; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-5hlotvvgde"></a>
-8. [Dual Diffusion Implicit Bridges for Image-to-Image Translation](https://openreview.net/forum?id=5HLoTvVGDe)
-   - Xuan Su, Jiaming Song, Chenlin Meng, Stefano Ermon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sj1ksyo2jwu"></a>
-9. [Human Motion Diffusion Model](https://openreview.net/forum?id=SJ1kSyO2jwu)
-   - Guy Tevet, Sigal Raab, Brian Gordon, Yoni Shafir, Daniel Cohen-Or, Amit Haim Bermano; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-uvmdcdspdow"></a>
-10. [Information-Theoretic Diffusion](https://openreview.net/forum?id=UvmDCdSPDOW)
-   - Xianghao Kong, Rob Brekelmans, Greg Ver Steeg; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wh1yca0tbb"></a>
-11. [Learning Diffusion Bridges on Constrained Domains](https://openreview.net/forum?id=WH1yCa0TbB)
-   - Xingchao Liu, Lemeng Wu, Mao Ye, qiang liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hdxgakk956l"></a>
-12. [Truncated Diffusion Probabilistic Models and Diffusion-based Adversarial Auto-Encoders](https://openreview.net/forum?id=HDxgaKk956l)
-   - Huangjie Zheng, Pengcheng He, Weizhu Chen, Mingyuan Zhou; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-osei3izuia"></a>
-13. [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://openreview.net/forum?id=osei3IzUia)
-   - Raghav Singhal, Mark Goldstein, Rajesh Ranganath; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ibdwkisg4m"></a>
-14. [f-DM: A Multi-stage Diffusion Model via Progressive Signal Transformation](https://openreview.net/forum?id=iBdwKIsg4m)
-   - Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Miguel Ángel Bautista, Joshua M. Susskind; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mmainr0r0c"></a>
+1. [A View From Somewhere: Human-Centric Face Representations](https://openreview.net/forum?id=mMaInr0r0c)
+   - Jerone Theodore Alexander Andrews, Przemyslaw Joniak, Alice Xiang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-smydcxjjh1q"></a>
+2. [Aligning Model and Macaque Inferior Temporal Cortex Representations Improves Model-to-Human Behavioral Alignment and Adversarial Robustness](https://openreview.net/forum?id=SMYdcXjJh1q)
+   - Joel Dapello, Kohitij Kar, Martin Schrimpf, Robert Baldwin Geary, Michael Ferguson, David Daniel Cox, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mcmerktcg2s"></a>
+3. [Brain-like representational straightening of natural movies in robust feedforward neural networks](https://openreview.net/forum?id=mCmerkTCG2S)
+   - Tahereh Toosi, Elias Issa; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ponhudsvzr"></a>
+4. [Everybody Needs Good Neighbours: An Unsupervised Locality-based Method for Bias Mitigation](https://openreview.net/forum?id=pOnhudsvzR)
+   - Xudong Han, Timothy Baldwin, Trevor Cohn; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4cofd2ql6t"></a>
+5. [Exploring perceptual straightness in learned visual representations](https://openreview.net/forum?id=4cOfD2qL6T)
+   - Anne Harrington, Vasha DuTell, Ayush Tewari, Mark Hamilton, Simon Stent, Ruth Rosenholtz, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-redq1ouqr0x"></a>
+6. [Human alignment of neural network representations](https://openreview.net/forum?id=ReDQ1OUQR0X)
+   - Lukas Muttenthaler, Jonas Dippel, Lorenz Linhardt, Robert A. Vandermeulen, Simon Kornblith; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n-g8tt9cy7f"></a>
+7. [Human-Guided Fair Classification for Natural Language Processing](https://openreview.net/forum?id=N_g8TT9Cy7f)
+   - Florian E. Dorner, Momchil Peychev, Nikola Konstantinov, Naman Goel, Elliott Ash, Martin Vechev; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-x5zmzryqujb"></a>
+8. [Humanly Certifying Superhuman Classifiers](https://openreview.net/forum?id=X5ZMzRYqUjB)
+   - Qiongkai Xu, Christian Walder, Chenchen Xu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tkq1sxd9p4"></a>
+9. [Interpretable Debiasing of Vectorized Language Representations with Iterative Orthogonalization](https://openreview.net/forum?id=TkQ1sxd9P4)
+   - Prince Osei Aboagye, Yan Zheng, Jack Shunn, Chin-Chia Michael Yeh, Junpeng Wang, Zhongfang Zhuang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-r0xte-t40i"></a>
+10. [Learning Human-Compatible Representations for Case-Based Decision Support](https://openreview.net/forum?id=r0xte-t40I)
+   - Han Liu, Yizhou Tian, Chacha Chen, Shi Feng, Yuxin Chen, Chenhao Tan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4olk1-k71tz"></a>
+11. [Mid-Vision Feedback](https://openreview.net/forum?id=4oLK1_k71Tz)
+   - Michael Maynord, Eadom T Dessalene, Cornelia Fermuller, Yiannis Aloimonos; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-8hrvyxc606"></a>
+12. [Reliability of CKA as a Similarity Measure in Deep Learning](https://openreview.net/forum?id=8HRvyxc606)
+   - MohammadReza Davari, Stefan Horoi, Amine Natik, Guillaume Lajoie, Guy Wolf, Eugene Belilovsky; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-kzklae49h9b"></a>
+13. [Training language models to summarize narratives improves brain alignment](https://openreview.net/forum?id=KzkLAE49H9b)
+   - Khai Loong Aw, Mariya Toneva; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-o-g91-4cmdv"></a>
+14. [Words are all you need? Language as an approximation for human similarity judgments](https://openreview.net/forum?id=O-G91-4cMdv)
+   - Raja Marjieh, Pol Van Rijn, Ilia Sucholutsky, Theodore Sumers, Harin Lee, Thomas L. Griffiths, et al.; assignment: `hdbscan`; source: `OpenReview`

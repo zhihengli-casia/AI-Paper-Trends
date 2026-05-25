@@ -1,80 +1,77 @@
-# ICLR 2022: 视觉理解 / 检索 / image / 推理
+# ICLR 2022: 强化学习策略与奖励建模
 
 - Topic ID: `23`
-- Papers: **20** (1.83%)
-- Macro topic: 计算机视觉
-- English keywords: `visual / retrieval / image / reasoning`
-- Keyword pool: visual; retrieval; image; reasoning; attention; neurons; concepts; systematic generalization; clip; object-centric; brain; transformer
+- Papers: **19** (1.79%)
+- Macro topic: 强化学习/决策
+- English keywords: `bandits / exploration / mdps / experience replay`
+- Keyword pool: bandits; exploration; mdps; experience replay; reinforcement; contextual; q-learning; policy; reward; sim-to-real; regret; conservative
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations
-- Compositional Attention: Disentangling Search and Retrieval
-- RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning
-- Natural Language Descriptions of Deep Visual Features
-- Prototype memory and attention mechanisms for few shot image generation
+- Online Target Q-learning with Reverse Experience Replay: Efficiently finding the Optimal Policy for Linear MDPs
+- Near-Optimal Reward-Free Exploration for Linear Mixture MDPs with Plug-in Solver
+- A Reduction-Based Framework for Conservative Bandits and Reinforcement Learning
+- Representation Learning for Online and Offline RL in Low-rank MDPs
+- Model-augmented Prioritized Experience Replay
 
 ## Papers
 
-<a id="paper-cvflvqq9glo"></a>
-1. [ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity](https://openreview.net/forum?id=CVfLvQq9gLo)
-   - Ginger Delmas, Rafael S. Rezende, Gabriela Csurka, Diane Larlus; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kaa9eds0rdo"></a>
-2. [Attention-based Interpretability with Concept Transformers](https://openreview.net/forum?id=kAa9eDS0RdO)
-   - Mattia Rigotti, Christoph Miksovic, Ioana Giurgiu, Thomas Gschwind, Paolo Scotton; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iwjpj2mbcia"></a>
-3. [Compositional Attention: Disentangling Search and Retrieval](https://openreview.net/forum?id=IwJPj2MBcIa)
-   - Sarthak Mittal, Sharath Chandra Raparthy, Irina Rish, Yoshua Bengio, Guillaume Lajoie; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xztthjgpdst"></a>
-4. [Coordination Among Neural Modules Through a Shared Global Workspace](https://openreview.net/forum?id=XzTtHjgPDsT)
-   - Anirudh Goyal, Aniket Rajiv Didolkar, Alex Lamb, Kartikeya Badola, Nan Rosemary Ke, Nasim Rahaman, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-omi9pjob9jl"></a>
-5. [DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR](https://openreview.net/forum?id=oMI9PjOb9Jl)
-   - Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-htwilvdcy8"></a>
-6. [FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations](https://openreview.net/forum?id=htWIlvDcY8)
-   - Lingjie Mei, Jiayuan Mao, Ziqi Wang, Chuang Gan, Joshua B. Tenenbaum; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-htp-6ylggx"></a>
-7. [Hot-Refresh Model Upgrades with Regression-Free Compatible Training in Image Retrieval](https://openreview.net/forum?id=HTp-6yLGGX)
-   - Binjie Zhang, Yixiao Ge, Yantao Shen, Yu Li, Chun Yuan, XUYUAN XU, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zf-ll3hzwgy"></a>
-8. [How Much Can CLIP Benefit Vision-and-Language Tasks?](https://openreview.net/forum?id=zf_Ll3HZWgy)
-   - Sheng Shen, Liunian Harold Li, Hao Tan, Mohit Bansal, Anna Rohrbach, Kai-Wei Chang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-h0oyv0we3oh"></a>
-9. [Illiterate DALL-E Learns to Compose](https://openreview.net/forum?id=h0OYV0We3oh)
-   - Gautam Singh, Fei Deng, Sungjin Ahn; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-xno7oeicjc6"></a>
-10. [Language-biased image classification: evaluation based on semantic representations](https://openreview.net/forum?id=xNO7OEIcJc6)
-   - Yoann Lemesle, Masataka Sawayama, Guillermo Valle-Perez, Maxime Adolphe, Hélène Sauzéon, Pierre-Yves Oudeyer; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-wogsfphwfty"></a>
-11. [Learning Super-Features for Image Retrieval](https://openreview.net/forum?id=wogsFPHwftY)
-   - Philippe Weinzaepfel, Thomas Lucas, Diane Larlus, Yannis Kalantidis; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-utgtos4cyu"></a>
-12. [Measuring CLEVRness: Black-box Testing of Visual Reasoning Models](https://openreview.net/forum?id=UtGtoS4CYU)
-   - Spyridon Mouselinos, Henryk Michalewski, Mateusz Malinowski; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nudbmy-tzdr"></a>
-13. [Natural Language Descriptions of Deep Visual Features](https://openreview.net/forum?id=NudBMY-tzDr)
-   - Evan Hernandez, Sarah Schwettmann, David Bau, Teona Bagashvili, Antonio Torralba, Jacob Andreas; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8uz0ewpqimu"></a>
-14. [On the Pitfalls of Analyzing Individual Neurons in Language Models](https://openreview.net/forum?id=8uz0EWPQIMu)
-   - Omer Antverg, Yonatan Belinkov; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-filj7wpi-g"></a>
-15. [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://openreview.net/forum?id=fILj7WpI-g)
-   - Andrew Jaegle, Sebastian Borgeaud, Jean-Baptiste Alayrac, Carl Doersch, Catalin Ionescu, David Ding, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ly0-7bj0vfz"></a>
-16. [Prototype memory and attention mechanisms for few shot image generation](https://openreview.net/forum?id=lY0-7bj0Vfz)
-   - Tianqin Li, Zijie Li, Andrew Luo, Harold Rockwell, Amir Barati Farimani, Tai Sing Lee; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-afov8w3-iyp"></a>
-17. [RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning](https://openreview.net/forum?id=afoV8W3-IYp)
-   - Xiaojian Ma, Weili Nie, Zhiding Yu, Huaizu Jiang, Chaowei Xiao, Yuke Zhu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-b8dvo9b1ye0"></a>
-18. [Relating transformers to models and neural representations of the hippocampal formation](https://openreview.net/forum?id=B8DVo9B1YE0)
-   - James C. R. Whittington, Joseph Warren, Tim E.J. Behrens; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-kbqp4a-j1k"></a>
-19. [The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization](https://openreview.net/forum?id=KBQP4A_J1K)
-   - Róbert Csordás, Kazuki Irie, Jürgen Schmidhuber; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-g1szirlqxmm"></a>
-20. [Wiring Up Vision: Minimizing Supervised Synaptic Updates Needed to Produce a Primate Ventral Stream](https://openreview.net/forum?id=g1SzIRLQXMM)
-   - Franziska Geiger, Martin Schrimpf, Tiago Marques, James J. DiCarlo; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-acrlgz9bked"></a>
+1. [A Reduction-Based Framework for Conservative Bandits and Reinforcement Learning](https://openreview.net/forum?id=AcrlgZ9BKed)
+   - Yunchang Yang, Tianhao Wu, Han Zhong, Evrard Garcelon, Matteo Pirotta, Alessandro Lazaric, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rxq-fpbqyvn"></a>
+2. [Anti-Concentrated Confidence Bonuses For Scalable Exploration](https://openreview.net/forum?id=RXQ-FPbQYVn)
+   - Jordan T. Ash, Cyril Zhang, Surbhi Goel, Akshay Krishnamurthy, Sham M. Kakade; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-q83vflie-pr"></a>
+3. [Bandit Learning with Joint Effect of Incentivized Sampling, Delayed Sampling Feedback, and Self-Reinforcing User Preferences](https://openreview.net/forum?id=Q83vFlie_Pr)
+   - Tianchen Zhou, Jia Liu, Chaosheng Dong, Yi Sun; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-f5em8ascosv"></a>
+4. [Causal Contextual Bandits with Targeted Interventions](https://openreview.net/forum?id=F5Em8ASCosV)
+   - Chandrasekar Subramanian, Balaraman Ravindran; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-x-ch3vrnsrg"></a>
+5. [EE-Net: Exploitation-Exploration Neural Networks in Contextual Bandits](https://openreview.net/forum?id=X_ch3VrNSRg)
+   - Yikun Ban, Yuchen Yan, Arindam Banerjee, Jingrui He; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-6nepxzwfae"></a>
+6. [Goal-Directed Planning via Hindsight Experience Replay](https://openreview.net/forum?id=6NePxZwfae)
+   - Lorenzo Moro, Amarildo Likmeta, Enrico Prati, Marcello Restelli; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-x0nrkaxu7g"></a>
+7. [HyperDQN: A Randomized Exploration Method for Deep Reinforcement Learning](https://openreview.net/forum?id=X0nrKAXu7g-)
+   - Ziniu Li, Yingru Li, Yushun Zhang, Tong Zhang, Zhi-Quan Luo; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-7incj3mhxt3"></a>
+8. [Learning Neural Contextual Bandits through Perturbed Rewards](https://openreview.net/forum?id=7inCJ3MhXt3)
+   - Yiling Jia, Weitong ZHANG, Dongruo Zhou, Quanquan Gu, Hongning Wang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ptsad3caaa2"></a>
+9. [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://openreview.net/forum?id=PtSAD3caaA2)
+   - Benjamin Eysenbach, Sergey Levine; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-wueiafqdy9h"></a>
+10. [Model-augmented Prioritized Experience Replay](https://openreview.net/forum?id=WuEiafqdy9H)
+   - Youngmin Oh, Jinwoo Shin, Eunho Yang, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sidzxab9k30"></a>
+11. [Near-Optimal Reward-Free Exploration for Linear Mixture MDPs with Plug-in Solver](https://openreview.net/forum?id=SidzxAb9k30)
+   - Xiaoyu Chen, Jiachen Hu, Lin Yang, Liwei Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xnyacqquagv"></a>
+12. [Neural Contextual Bandits with Deep Representation and Shallow Exploration](https://openreview.net/forum?id=xnYACQquaGV)
+   - Pan Xu, Zheng Wen, Handong Zhao, Quanquan Gu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-jznb0ea2-m4"></a>
+13. [On the Convergence of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning](https://openreview.net/forum?id=JzNB0eA2-M4)
+   - Che Wang, Shuhan Yuan, Kai Shao, Keith W. Ross; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hmjdxzbwkh"></a>
+14. [Online Target Q-learning with Reverse Experience Replay: Efficiently finding the Optimal Policy for Linear MDPs](https://openreview.net/forum?id=HMJdXzbWKH)
+   - Naman Agarwal, Syomantak Chaudhuri, Prateek Jain, Dheeraj Mysore Nagaraj, Praneeth Netrapalli; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hsojdpfhbj"></a>
+15. [PER-ETD: A Polynomially Efficient Emphatic Temporal Difference Learning Method](https://openreview.net/forum?id=-HSOjDPfhBJ)
+   - Ziwei Guan, Tengyu Xu, Yingbin Liang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-j4isir9fhy0"></a>
+16. [Representation Learning for Online and Offline RL in Low-rank MDPs](https://openreview.net/forum?id=J4iSIR9fhY0)
+   - Masatoshi Uehara, Xuezhou Zhang, Wen Sun; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oxrzemmoi7a"></a>
+17. [Topological Experience Replay](https://openreview.net/forum?id=OXRZeMmOI7a)
+   - Zhang-Wei Hong, Tao Chen, Yen-Chen Lin, Joni Pajarinen, Pulkit Agrawal; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ccwapgl9hq"></a>
+18. [Towards Deployment-Efficient Reinforcement Learning: Lower Bound and Optimality](https://openreview.net/forum?id=ccWaPGl9Hq)
+   - Jiawei Huang, Jinglin Chen, Li Zhao, Tao Qin, Nan Jiang, Tie-Yan Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-t8vzhirtry"></a>
+19. [Understanding Domain Randomization for Sim-to-real Transfer](https://openreview.net/forum?id=T8vZHIRTrY)
+   - Xiaoyu Chen, Jiachen Hu, Chi Jin, Lihong Li, Liwei Wang; assignment: `nearest_centroid`; source: `OpenReview`

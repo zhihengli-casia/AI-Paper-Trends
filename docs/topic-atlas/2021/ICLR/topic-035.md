@@ -1,59 +1,59 @@
-# ICLR 2021: 多语言建模与跨语言迁移
+# ICLR 2021: continual / forgetting / lifelong / catastrophic
 
 - Topic ID: `35`
 - Papers: **13** (1.51%)
-- Macro topic: 其他/交叉主题
-- English keywords: `multi-task / multilingual / auxiliary / aggregation`
-- Keyword pool: multi-task; multilingual; auxiliary; aggregation; transfer; multitask; hypernetwork; language; common representation; traveling; seemingly unrelated; fine-tuning
+- Macro topic: 系统/效率/压缩
+- English keywords: `continual / forgetting / lifelong / catastrophic`
+- Keyword pool: continual; forgetting; lifelong; catastrophic; tickets; memory; online; minima; pruning; multitask; explanations; past
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Deciphering and Optimizing Multi-Task Learning: a Random Matrix Approach
-- One Network Fits All? Modular versus Monolithic Task Formulations in Neural Networks
-- Towards Impartial Multi-task Learning
-- Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data
-- The Traveling Observer Model: Multi-task Learning Through Spatial Variable Embeddings
+- Efficient Continual Learning with Modular Networks and Task-Driven Priors
+- Linear Mode Connectivity in Multitask and Continual Learning
+- Gradient Projection Memory for Continual Learning
+- Contextual Transformation Networks for Online Continual Learning
+- Graph-Based Continual Learning
 
 ## Papers
 
-<a id="paper-1gtma8hwlyp"></a>
-1. [AUXILIARY TASK UPDATE DECOMPOSITION: THE GOOD, THE BAD AND THE NEUTRAL](https://openreview.net/forum?id=1GTma8HwlYp)
-   - Lucio M. Dery, Yann Dauphin, David Grangier; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n7wifypdvet"></a>
-2. [Auxiliary Learning by Implicit Differentiation](https://openreview.net/forum?id=n7wIfYPdVet)
-   - Aviv Navon, Idan Achituve, Haggai Maron, Gal Chechik, Ethan Fetaya; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ufzn2-aehfa"></a>
-3. [Bayesian Context Aggregation for Neural Processes](https://openreview.net/forum?id=ufZN2-aehFa)
-   - Michael Volpp, Fabian Flürenbrock, Lukas Grossberger, Christian Daniel, Gerhard Neumann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-de11dbhzamf"></a>
-4. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF)
-   - Jonathan Pilault, Amine El hattami, Christopher Pal; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cri3xz59ga"></a>
-5. [Deciphering and Optimizing Multi-Task Learning: a Random Matrix Approach](https://openreview.net/forum?id=Cri3xz59ga)
-   - Malik Tiomoko, Hafiz Tiomoko Ali, Romain Couillet; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pw2q2xlwimd"></a>
-6. [Few-Shot Learning via Learning the Representation, Provably](https://openreview.net/forum?id=pW2Q2xLwIMD)
-   - Simon Shaolei Du, Wei Hu, Sham M. Kakade, Jason D. Lee, Qi Lei; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-f1vejwk-lh"></a>
-7. [Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models](https://openreview.net/forum?id=F1vEjWK-lH_)
-   - Zirui Wang, Yulia Tsvetkov, Orhan Firat, Yuan Cao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hiq1rho8pnt"></a>
-8. [HyperGrid Transformers: Towards A Single Model for Multiple Tasks](https://openreview.net/forum?id=hiq1rHO8pNT)
-   - Yi Tay, Zhe Zhao, Dara Bahri, Donald Metzler, Da-Cheng Juan; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-d7kbjmi3gmq"></a>
-9. [Measuring Massive Multitask Language Understanding](https://openreview.net/forum?id=d7KBjmI3GmQ)
-   - Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uz5uw6gm0m"></a>
-10. [One Network Fits All? Modular versus Monolithic Task Formulations in Neural Networks](https://openreview.net/forum?id=uz5uw6gM0m)
-   - Atish Agarwala, Abhimanyu Das, Brendan Juba, Rina Panigrahy, Vatsal Sharan, Xin Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-23zjugpjcc"></a>
-11. [Scalable Transfer Learning with Expert Models](https://openreview.net/forum?id=23ZjUGpjcc)
-   - Joan Puigcerver, Carlos Riquelme Ruiz, Basil Mustafa, Cedric Renggli, André Susano Pinto, Sylvain Gelly, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-qyda4olec1"></a>
-12. [The Traveling Observer Model: Multi-task Learning Through Spatial Variable Embeddings](https://openreview.net/forum?id=qYda4oLEc1)
-   - Elliot Meyerson, Risto Miikkulainen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-impnrxewpvr"></a>
-13. [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr)
-   - Liyang Liu, Yi Li, Zhanghui Kuang, Jing-Hao Xue, Yimin Chen, Wenming Yang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lhy8qdugsuw"></a>
+1. [Anatomy of Catastrophic Forgetting: Hidden Representations and Task Semantics](https://openreview.net/forum?id=LhY8QdUGSuw)
+   - Vinay Venkatesh Ramasesh, Ethan Dyer, Maithra Raghu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-f2v4aqel6ze"></a>
+2. [CPR: Classifier-Projection Regularization for Continual Learning](https://openreview.net/forum?id=F2v4aqEL6ze)
+   - Sungmin Cha, Hsiang Hsu, Taebaek Hwang, Flavio Calmon, Taesup Moon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zx-ux-bo7ch"></a>
+3. [Contextual Transformation Networks for Online Continual Learning](https://openreview.net/forum?id=zx_uX-BO7CH)
+   - Quang Pham, Chenghao Liu, Doyen Sahoo, Steven HOI; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lwaz5a9lcfu"></a>
+4. [EEC: Learning to Encode and Regenerate Images for Continual Learning](https://openreview.net/forum?id=lWaz5a9lcFU)
+   - Ali Ayub, Alan Wagner; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ekv158tsfwv"></a>
+5. [Efficient Continual Learning with Modular Networks and Task-Driven Priors](https://openreview.net/forum?id=EKV158tSfwv)
+   - Tom Veniat, Ludovic Denoyer, MarcAurelio Ranzato; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-im-affhna9"></a>
+6. [Generalized Variational Continual Learning](https://openreview.net/forum?id=_IM-AfFhna9)
+   - Noel Loo, Siddharth Swaroop, Richard E Turner; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3aoj0rcnc2"></a>
+7. [Gradient Projection Memory for Continual Learning](https://openreview.net/forum?id=3AOj0RCNC2)
+   - Gobinda Saha, Isha Garg, Kaushik Roy; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hhsekonpvao"></a>
+8. [Graph-Based Continual Learning](https://openreview.net/forum?id=HHSEKOnPvaO)
+   - Binh Tang, David S. Matteson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-adwd4tjo13g"></a>
+9. [Lifelong Learning of Compositional Structures](https://openreview.net/forum?id=ADWd4TJO13G)
+   - Jorge A Mendez, ERIC EATON; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fmg-fqyuejf"></a>
+10. [Linear Mode Connectivity in Multitask and Continual Learning](https://openreview.net/forum?id=Fmg_fQYUejf)
+   - Seyed Iman Mirzadeh, Mehrdad Farajtabar, Dilan Gorur, Razvan Pascanu, Hassan Ghasemzadeh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lxmsvpmsm0g"></a>
+11. [Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning](https://openreview.net/forum?id=LXMSvPmsm0g)
+   - Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-thgjomfy6ni"></a>
+12. [Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting](https://openreview.net/forum?id=tHgJoMfy6nI)
+   - Sayna Ebrahimi, Suzanne Petryk, Akash Gokul, William Gan, Joseph E. Gonzalez, Marcus Rohrbach, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ozivhv04xgc"></a>
+13. [Wandering within a world: Online contextualized few-shot learning](https://openreview.net/forum?id=oZIvHV04XgC)
+   - Mengye Ren, Michael Louis Iuzzolino, Michael Curtis Mozer, Richard Zemel; assignment: `hdbscan`; source: `OpenReview`

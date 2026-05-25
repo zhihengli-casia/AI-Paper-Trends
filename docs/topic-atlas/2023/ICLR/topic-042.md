@@ -1,74 +1,68 @@
-# ICLR 2023: 强化学习策略与奖励建模
+# ICLR 2023: 扩散生成模型
 
 - Topic ID: `42`
-- Papers: **18** (1.14%)
-- Macro topic: 强化学习/决策
-- English keywords: `reward / imitation / expert / reinforcement learning`
-- Keyword pool: reward; imitation; expert; reinforcement learning; demonstrations; inverse; offline; policy; human; preferences; behavior; rgm
+- Papers: **16** (1.05%)
+- Macro topic: 可信/安全/公平
+- English keywords: `certified / smoothing / adversarial / randomized`
+- Keyword pool: certified; smoothing; adversarial; randomized; steganography; certify; robust; perturbations; certifiably; image; diffusion; attack
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- BC-IRL: Learning Generalizable Reward Functions from Demonstrations
-- Understanding and Adopting Rational Behavior by Bellman Score Estimation
-- Causal Imitation Learning via Inverse Reinforcement Learning
-- LS-IQ: Implicit Reward Regularization for Inverse Reinforcement Learning
-- On the Sensitivity of Reward Inference to Misspecified Human Models
+- Provable Robustness against Wasserstein Distribution Shifts via Input Randomization
+- Certified Training: Small Boxes are All You Need
+- Localized Randomized Smoothing for Collective Robustness Certification
+- On Explaining Neural Network Robustness with Activation Path
+- Robust Explanation Constraints for Neural Networks
 
 ## Papers
 
-<a id="paper-bhfp5gldtge"></a>
-1. [Adversarial Imitation Learning with Preferences](https://openreview.net/forum?id=bhfp5GlDtGe)
-   - Aleksandar Taranovic, Andras Gabor Kupcsik, Niklas Freymuth, Gerhard Neumann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ovnwe-sdqw"></a>
-2. [BC-IRL: Learning Generalizable Reward Functions from Demonstrations](https://openreview.net/forum?id=Ovnwe_sDQW)
-   - Andrew Szot, Amy Zhang, Dhruv Batra, Zsolt Kira, Franziska Meier; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vinj-hv9szl"></a>
-3. [Benchmarking Constraint Inference in Inverse Reinforcement Learning](https://openreview.net/forum?id=vINj_Hv9szL)
-   - Guiliang Liu, Yudong Luo, Ashish Gaurav, Kasra Rezaee, Pascal Poupart; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5at4ganod98"></a>
-4. [CLARE: Conservative Model-Based Reward Learning for Offline Inverse Reinforcement Learning](https://openreview.net/forum?id=5aT4ganOd98)
-   - Sheng Yue, Guanbo Wang, Wei Shao, Zhaofeng Zhang, Sen Lin, Ju Ren, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-r0xxvr-x3za"></a>
-5. [Causal Confusion and Reward Misidentification in Preference-Based Reward Learning](https://openreview.net/forum?id=R0Xxvr_X3ZA)
-   - Jeremy Tien, Jerry Zhi-Yang He, Zackory Erickson, Anca Dragan, Daniel S. Brown; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-b-z41mbl-th"></a>
-6. [Causal Imitation Learning via Inverse Reinforcement Learning](https://openreview.net/forum?id=B-z41MBL_tH)
-   - Kangrui Ruan, Junzhe Zhang, Xuan Di, Elias Bareinboim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pv1gpqzrrc8"></a>
-7. [Imitating Human Behaviour with Diffusion Models](https://openreview.net/forum?id=Pv1GPQzRrC8)
-   - Tim Pearce, Tabish Rashid, Anssi Kanervisto, Dave Bignell, Mingfei Sun, Raluca Georgescu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-scia-xgyofb"></a>
-8. [Impossibly Good Experts and How to Follow Them](https://openreview.net/forum?id=sciA_xgYofB)
-   - Aaron Walsman, Muru Zhang, Sanjiban Choudhury, Dieter Fox, Ali Farhadi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-o3q4m8jg4br"></a>
-9. [LS-IQ: Implicit Reward Regularization for Inverse Reinforcement Learning](https://openreview.net/forum?id=o3Q4m8jg4BR)
-   - Firas Al-Hafez, Davide Tateo, Oleg Arenz, Guoping Zhao, Jan Peters; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8ssnd78nqtn"></a>
-10. [Learning Soft Constraints From Constrained Expert Demonstrations](https://openreview.net/forum?id=8sSnD78NqTN)
-   - Ashish Gaurav, Kasra Rezaee, Guiliang Liu, Pascal Poupart; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wumysvcmvv6"></a>
-11. [Mind the Gap: Offline Policy Optimization for Imperfect Rewards](https://openreview.net/forum?id=WumysvcMvV6)
-   - Jianxiong Li, Xiao Hu, Haoran Xu, Jingjing Liu, Xianyuan Zhan, Qing-Shan Jia, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hjqgbupdgv"></a>
-12. [On the Sensitivity of Reward Inference to Misspecified Human Models](https://openreview.net/forum?id=hJqGbUpDGV)
-   - Joey Hong, Kush Bhatia, Anca Dragan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mhufzfsrfvh"></a>
-13. [Optimal Transport for Offline Imitation Learning](https://openreview.net/forum?id=MhuFzFsrfvH)
-   - Yicheng Luo, zhengyao jiang, Samuel Cohen, Edward Grefenstette, Marc Peter Deisenroth; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-cpiy9twfybg"></a>
-14. [Proactive Multi-Camera Collaboration for 3D Human Pose Estimation](https://openreview.net/forum?id=CPIy9TWFYBG)
-   - Hai Ci, Mickel Liu, Xuehai Pan, fangwei zhong, Yizhou Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3ulaihxn9u7"></a>
-15. [Seeing Differently, Acting Similarly: Heterogeneously Observable Imitation Learning](https://openreview.net/forum?id=3ULaIHxn9u7)
-   - Xin-Qiang Cai, Yao-Xiang Ding, Zixuan Chen, Yuan Jiang, Masashi Sugiyama, Zhi-Hua Zhou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wzgdbqcbicl"></a>
-16. [Understanding and Adopting Rational Behavior by Bellman Score Estimation](https://openreview.net/forum?id=WzGdBqcBicl)
-   - Kuno Kim, Stefano Ermon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yj7o2wetj2"></a>
-17. [VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training](https://openreview.net/forum?id=YJ7o2wetJ2)
-   - Yecheng Jason Ma, Shagun Sodhani, Dinesh Jayaraman, Osbert Bastani, Vikash Kumar, Amy Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-onm3r47kiiu"></a>
-18. [Visual Imitation Learning with Patch Rewards](https://openreview.net/forum?id=OnM3R47KIiU)
-   - Minghuan Liu, Tairan He, Weinan Zhang, Shuicheng YAN, Zhongwen Xu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jlg5ahhv7j"></a>
+1. [(Certified!!) Adversarial Robustness for Free!](https://openreview.net/forum?id=JLg5aHHv7j)
+   - Nicholas Carlini, Florian Tramer, Krishnamurthy Dj Dvijotham, Leslie Rice, Mingjie Sun, J Zico Kolter; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-b0jxqc7jlwh"></a>
+2. [Certified Defences Against Adversarial Patch Attacks on Semantic Segmentation](https://openreview.net/forum?id=b0JxQC7JLWh)
+   - Maksym Yatsura, Kaspar Sakmann, N. Grace Hua, Matthias Hein, Jan Hendrik Metzen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7ofuxtjtumh"></a>
+3. [Certified Training: Small Boxes are All You Need](https://openreview.net/forum?id=7oFuxtJtUMH)
+   - Mark Niklas Mueller, Franziska Eckert, Marc Fischer, Martin Vechev; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-p7hvoj6gq0i"></a>
+4. [DensePure: Understanding Diffusion Models for Adversarial Robustness](https://openreview.net/forum?id=p7hvOJ6Gq0i)
+   - Chaowei Xiao, Zhongzhu Chen, Kun Jin, Jiongxiao Wang, Weili Nie, Mingyan Liu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-gpml0d4vjn4"></a>
+5. [Fundamental limits on the robustness of image classifiers](https://openreview.net/forum?id=gpmL0D4VjN4)
+   - Zheng Dai, David Gifford; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k7lvk0gpbl"></a>
+6. [Localized Randomized Smoothing for Collective Robustness Certification](https://openreview.net/forum?id=-k7Lvk0GpBl)
+   - Jan Schuchardt, Tom Wollschläger, Aleksandar Bojchevski, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-p8coelqisdw"></a>
+7. [Neural Architecture Design and Robustness: A Dataset](https://openreview.net/forum?id=p8coElqiSDw)
+   - Steffen Jung, Jovita Lukasik, Margret Keuper; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-piisx-g3gux"></a>
+8. [On Explaining Neural Network Robustness with Activation Path](https://openreview.net/forum?id=piIsx-G3Gux)
+   - Ziping Jiang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tqg-o3seipt"></a>
+9. [On the Perils of Cascading Robust Classifiers](https://openreview.net/forum?id=tQG-o3SeipT)
+   - Ravi Mangal, Zifan Wang, Chi Zhang, Klas Leino, Corina Pasareanu, Matt Fredrikson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hq67mj5rjdr"></a>
+10. [Perfectly Secure Steganography Using Minimum Entropy Coupling](https://openreview.net/forum?id=HQ67mj5rJdR)
+   - Christian Schroeder de Witt, Samuel Sokota, J Zico Kolter, Jakob Nicolaus Foerster, Martin Strohmeier; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-thxqbsri-cy"></a>
+11. [Provable Defense Against Geometric Transformations](https://openreview.net/forum?id=ThXqBsRI-cY)
+   - Rem Yang, Jacob Laurel, Sasa Misailovic, Gagandeep Singh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hjfvrpcage"></a>
+12. [Provable Robustness against Wasserstein Distribution Shifts via Input Randomization](https://openreview.net/forum?id=HJFVrpCaGE)
+   - Aounon Kumar, Alexander Levine, Tom Goldstein, Soheil Feizi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dlpcotqdty"></a>
+13. [Provably Auditing Ordinary Least Squares in Low Dimensions](https://openreview.net/forum?id=DlpCotqdTy)
+   - Ankur Moitra, Dhruv Rohatgi; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-hhyaku0jcj"></a>
+14. [Robust Explanation Constraints for Neural Networks](https://openreview.net/forum?id=_hHYaKu0jcj)
+   - Matthew Robert Wicker, Juyeon Heo, Luca Costabello, Adrian Weller; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hahcogcpv9"></a>
+15. [Sound Randomized Smoothing in Floating-Point Arithmetic](https://openreview.net/forum?id=HaHCoGcpV9)
+   - Vaclav Voracek, Matthias Hein; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7gevpkxjtt"></a>
+16. [Towards Robustness Certification Against Universal Perturbations](https://openreview.net/forum?id=7GEvPKxjtt)
+   - Yi Zeng, Zhouxing Shi, Ming Jin, Feiyang Kang, Lingjuan Lyu, Cho-Jui Hsieh, et al.; assignment: `hdbscan`; source: `OpenReview`

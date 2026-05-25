@@ -1,137 +1,119 @@
-# ICLR 2023: domain / adaptation / test-time / label
+# ICLR 2023: PDE 神经求解器与科学计算
 
 - Topic ID: `3`
-- Papers: **39** (2.48%)
-- Macro topic: 计算机视觉
-- English keywords: `domain / adaptation / test-time / label`
-- Keyword pool: domain; adaptation; test-time; label; source; shifts; unsupervised; image; batch; patient; normalization; transfer
+- Papers: **33** (2.16%)
+- Macro topic: 图学习/数据挖掘
+- English keywords: `pde / equations / differential / dynamics`
+- Keyword pool: pde; equations; differential; dynamics; physical; ode; operator; physics; partial; dynamical; nonlinear; flow
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Energy-Based Test Sample Adaptation for Domain Generalization
-- Deja Vu: Continual Model Generalization for Unseen Domains
-- Information-Theoretic Analysis of Unsupervised Domain Adaptation
-- SIMPLE: Specialized Model-Sample Matching for Domain Generalization
-- Divide to Adapt: Mitigating Confirmation Bias for Domain Adaptation of Black-Box Predictors
+- A Stable and Scalable Method for Solving Initial Value PDEs with Neural Networks
+- Learning differentiable solvers for systems with hard constraints
+- Enhancing the Inductive Biases of Graph Neural ODE for Modeling Physical Systems
+- Evolve Smoothly, Fit Consistently: Learning Smooth Latent Dynamics For Advection-Dominated Systems
+- Anamnesic Neural Differential Equations with Orthogonal Polynomial Projections
 
 ## Papers
 
-<a id="paper-m95odwjxayg"></a>
-1. [Addressing Parameter Choice Issues in Unsupervised Domain Adaptation by Aggregation](https://openreview.net/forum?id=M95oDwJXayG)
-   - Marius-Constantin Dinu, Markus Holzleitner, Maximilian Beck, Hoan Duc Nguyen, Andrea Huber, Hamid Eghbal-zadeh, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yylvxybjv1b"></a>
-2. [AnyDA: Anytime Domain Adaptation](https://openreview.net/forum?id=yyLvxYBJV1B)
-   - Omprakash Chakraborty, Aadarsh Sahoo, Rameswar Panda, Abir Das; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-f91srovvj-6"></a>
-3. [Causal Balancing for Domain Generalization](https://openreview.net/forum?id=F91SROvVJ_6)
-   - Xinyi Wang, Michael Saxon, Jiachen Li, Hongyang Zhang, Kun Zhang, William Yang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xpkjyrsqgm"></a>
-4. [Contrastive Learning for Unsupervised Domain Adaptation of Time Series](https://openreview.net/forum?id=xPkJYRsQGM)
-   - Yilmazcan Ozyurt, Stefan Feuerriegel, Ce Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wc98x1qpdba"></a>
-5. [Cycle-consistent Masked AutoEncoder for Unsupervised Domain Generalization](https://openreview.net/forum?id=wC98X1qpDBA)
-   - Haiyang Yang, Xiaotong Li, SHIXIANG TANG, Feng Zhu, Yizhou Wang, Meilin Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-egm22rqg93"></a>
-6. [DELTA: DEGRADATION-FREE FULLY TEST-TIME ADAPTATION](https://openreview.net/forum?id=eGm22rqG93)
-   - Bowen Zhao, Chen Chen, Shu-Tao Xia; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-l8izdgekmi6"></a>
-7. [Deja Vu: Continual Model Generalization for Unseen Domains](https://openreview.net/forum?id=L8iZdgeKmI6)
-   - Chenxi Liu, Lixu Wang, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4wm4cy42b81"></a>
-8. [Dirichlet-based Uncertainty Calibration for Active Domain Adaptation](https://openreview.net/forum?id=4WM4cy42B81)
-   - Mixue Xie, Shuang Li, Rui Zhang, Chi Harold Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vk-j5pqy3gv"></a>
-9. [Discovering Informative and Robust Positives for Video Domain Adaptation](https://openreview.net/forum?id=vk-j5pQY3Gv)
-   - Chang Liu, Kunpeng Li, Michael Stopa, Jun Amano, Yun Fu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hvrxups3lfa"></a>
-10. [Divide to Adapt: Mitigating Confirmation Bias for Domain Adaptation of Black-Box Predictors](https://openreview.net/forum?id=hVrXUps3LFA)
-   - Jianfei Yang, Xiangyu Peng, Kai Wang, Zheng Zhu, Jiashi Feng, Lihua Xie, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7ig0wstnd7w"></a>
-11. [Domain Generalisation via Domain Adaptation: An Adversarial Fourier Amplitude Approach](https://openreview.net/forum?id=7IG0wsTND7w)
-   - Minyoung Kim, Da Li, Timothy Hospedales; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fk7rbgibe1"></a>
-12. [Domain Generalization via Heckman-type Selection Models](https://openreview.net/forum?id=fk7RbGibe1)
-   - Hyungu Kahng, Hyungrok Do, Judy Zhong; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pxstyaf2oj5"></a>
-13. [Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation](https://openreview.net/forum?id=pxStyaf2oJ5)
-   - Zihao Xu, Guang-Yuan Hao, Hao He, Hao Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3dnrkbevatv"></a>
-14. [Energy-Based Test Sample Adaptation for Domain Generalization](https://openreview.net/forum?id=3dnrKbeVatv)
-   - Zehao Xiao, Xiantong Zhen, Shengcai Liao, Cees G. M. Snoek; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4f1gvdudel"></a>
-15. [Few-Shot Domain Adaptation For End-to-End Communication](https://openreview.net/forum?id=4F1gvduDeL)
-   - Jayaram Raghuram, Yijing Zeng, Dolores Garcia, Rafael Ruiz, Somesh Jha, Joerg Widmer, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gptjna57h-3"></a>
-16. [Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://openreview.net/forum?id=GPTjnA57h_3)
-   - YiFan Zhang, xue wang, Jian Liang, Zhang Zhang, Liang Wang, Rong Jin, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oysflgrk8mk"></a>
-17. [Graph Domain Adaptation via Theory-Grounded Spectral Regularization](https://openreview.net/forum?id=OysfLgrk8mk)
-   - Yuning You, Tianlong Chen, Zhangyang Wang, Yang Shen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-tl8omiibp99"></a>
-18. [Improving Differentiable Neural Architecture Search by Encouraging Transferability](https://openreview.net/forum?id=Tl8OmiibP99)
-   - Parth Sheth, Pengtao Xie; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-c5tbxwxu9-y"></a>
-19. [Information-Theoretic Analysis of Unsupervised Domain Adaptation](https://openreview.net/forum?id=c5tbxWXU9-y)
-   - Ziqiao Wang, Yongyi Mao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ytntjusjv6"></a>
-20. [Interpretations of Domain Adaptations via Layer Variational Analysis](https://openreview.net/forum?id=YtntjusJV6)
-   - Huan-Hsin Tseng, Hsin-Yi Lin, Kuo-Hsuan Hung, Yu Tsao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hhjzlrpgb"></a>
-21. [Learning Domain-Agnostic Representation for Disease Diagnosis](https://openreview.net/forum?id=-HHJZlRpGb)
-   - Churan Wang, Jing Li, Xinwei Sun, Fandong Zhang, Yizhou Yu, Yizhou Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n92hjsf5nnh"></a>
-22. [MECTA: Memory-Economic Continual Test-Time Model Adaptation](https://openreview.net/forum?id=N92hjSf5NNh)
-   - Junyuan Hong, Lingjuan Lyu, Jiayu Zhou, Michael Spranger; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lcsfirnflpw"></a>
-23. [ManyDG: Many-domain Generalization for Healthcare Applications](https://openreview.net/forum?id=lcSfirnflpW)
-   - Chaoqi Yang, M Brandon Westover, Jimeng Sun; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uyqks-lilzx"></a>
-24. [Modeling the Data-Generating Process is Necessary for Out-of-Distribution Generalization](https://openreview.net/forum?id=uyqks-LILZX)
-   - Jivat Neet Kaur, Emre Kiciman, Amit Sharma; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-u2g8ogona-v"></a>
-25. [Multi-domain image generation and translation with identifiability guarantees](https://openreview.net/forum?id=U2g8OGONA_V)
-   - Shaoan Xie, Lingjing Kong, Mingming Gong, Kun Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cgcmwcfgedh"></a>
-26. [PGrad: Learning Principal Gradients For Domain Generalization](https://openreview.net/forum?id=CgCmwcfgEdH)
-   - Zhe Wang, Jake Grigsby, Yanjun Qi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jpq0qhggw3t"></a>
-27. [Partial Label Unsupervised Domain Adaptation with Class-Prototype Alignment](https://openreview.net/forum?id=jpq0qHggw3t)
-   - Yan Yan, Yuhong Guo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h7m-5k5qkjv"></a>
-28. [Progressive Mix-Up for Few-Shot Supervised Multi-Source Domain Transfer](https://openreview.net/forum?id=H7M_5K5qKJV)
-   - Ronghang Zhu, Ronghang Zhu, Xiang Yu, Sheng Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1ubnwqc89a"></a>
-29. [RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection](https://openreview.net/forum?id=1UbNwQC89a)
-   - Shancong Mou, Xiaoyi Gu, Meng Cao, Haoping Bai, Ping Huang, Jiulong Shan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bqrpez-e5p"></a>
-30. [SIMPLE: Specialized Model-Sample Matching for Domain Generalization](https://openreview.net/forum?id=BqrPeZ_e5P)
-   - Ziyue Li, Kan Ren, XINYANG JIANG, Yifei Shen, Haipeng Zhang, Dongsheng Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-recz9nb9q4"></a>
-31. [Sparse Mixture-of-Experts are Domain Generalizable Learners](https://openreview.net/forum?id=RecZ9nB9Q4)
-   - Bo Li, Yifei Shen, Jingkang Yang, Yezhen Wang, Jiawei Ren, Tong Che, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-eqfeudmwlq"></a>
-32. [TTN: A Domain-Shift Aware Batch Normalization in Test-Time Adaptation](https://openreview.net/forum?id=EQfeudmWLQ)
-   - Hyesu Lim, Byeonggeun Kim, Jaegul Choo, Sungha Choi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-t4d61w4zvq"></a>
-33. [Temporal Coherent Test Time Optimization for Robust Video Classification](https://openreview.net/forum?id=-t4D61w4zvQ)
-   - Chenyu Yi, SIYUAN YANG, Yufei Wang, Haoliang Li, Yap-peng Tan, Alex Kot; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ezltb4m1sbm"></a>
-34. [Test-Time Adaptation via Self-Training with Nearest Neighbor Information](https://openreview.net/forum?id=EzLtB4M1SbM)
-   - Minguk Jang, Sae-Young Chung, Hye Won Chung; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vqsyt8d3ny"></a>
-35. [Towards Robust Object Detection Invariant to Real-World Domain Shifts](https://openreview.net/forum?id=vqSyt8D3ny)
-   - Qi Fan, Mattia Segu, Yu-Wing Tai, Fisher Yu, Chi-Keung Tang, Bernt Schiele, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-g2yraf75tj"></a>
-36. [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj)
-   - Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Zhiquan Wen, Yaofo Chen, Peilin Zhao, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fjxf1fxn8c"></a>
-37. [Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation](https://openreview.net/forum?id=FJXf1FXN8C)
-   - Jun-Kun Wang, Andre Wibisono; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-er2dg8yjnq"></a>
-38. [Using Language to Extend to Unseen Domains](https://openreview.net/forum?id=eR2dG8yjnQ)
-   - Lisa Dunlap, Clara Mohri, Devin Guillory, Han Zhang, Trevor Darrell, Joseph E. Gonzalez, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-u2pd6x794i"></a>
-39. [When Source-Free Domain Adaptation Meets Learning with Noisy Labels](https://openreview.net/forum?id=u2Pd6x794I)
-   - Li Yi, Gezheng Xu, Pengcheng Xu, Jiaqi Li, Ruizhi Pu, Charles Ling, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vsmyhuq-c1c"></a>
+1. [A Stable and Scalable Method for Solving Initial Value PDEs with Neural Networks](https://openreview.net/forum?id=vsMyHUq_C1c)
+   - Marc Anton Finzi, Andres Potapczynski, Matthew Choptuik, Andrew Gordon Wilson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4fzc-79lrqs"></a>
+2. [ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks](https://openreview.net/forum?id=4fZc_79Lrqs)
+   - Yuelin Wang, Kai Yi, Xinliang Liu, Yu Guang Wang, Shi Jin; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xywqsjbcgml"></a>
+3. [Anamnesic Neural Differential Equations with Orthogonal Polynomial Projections](https://openreview.net/forum?id=xYWqSjBcGMl)
+   - Edward De Brouwer, Rahul G Krishnan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kkpl4zuxtiw"></a>
+4. [Bi-level Physics-Informed Neural Networks for PDE Constrained Optimization using Broyden's Hypergradients](https://openreview.net/forum?id=kkpL4zUXtiw)
+   - Zhongkai Hao, Chengyang Ying, Hang Su, Jun Zhu, Jian Song, Ze Cheng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fuorz1tg8og"></a>
+5. [CROM: Continuous Reduced-Order Modeling of PDEs Using Implicit Neural Representations](https://openreview.net/forum?id=FUORz1tG8Og)
+   - Peter Yichen Chen, Jinxu Xiang, Dong Heon Cho, Yue Chang, G A Pershing, Henrique Teles Maia, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-loifc8whevk"></a>
+6. [Characteristic Neural Ordinary Differential Equation](https://openreview.net/forum?id=loIfC8WHevK)
+   - Xingzi Xu, Ali Hasan, Khalil Elkhalil, Jie Ding, Vahid Tarokh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-okwxl-c4x84"></a>
+7. [Clifford Neural Layers for PDE Modeling](https://openreview.net/forum?id=okwxL_c4x84)
+   - Johannes Brandstetter, Rianne van den Berg, Max Welling, Jayesh K Gupta; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-z9sij-im7tn"></a>
+8. [Competitive Physics Informed Networks](https://openreview.net/forum?id=z9SIj-IM7tn)
+   - Qi Zeng, Yash Kothari, Spencer H Bryngelson, Florian Tobias Schaefer; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-b73ninjbps"></a>
+9. [Continuous PDE Dynamics Forecasting with Implicit Neural Representations](https://openreview.net/forum?id=B73niNjbPs)
+   - Yuan Yin, Matthieu Kirchmeyer, Jean-Yves Franceschi, Alain Rakotomamonjy, patrick gallinari; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kio-c6qmmom"></a>
+10. [Coupled Multiwavelet Operator Learning for Coupled Differential Equations](https://openreview.net/forum?id=kIo_C6QmMOM)
+   - Xiongye Xiao, Defu Cao, Ruochen Yang, Gaurav Gupta, Gengshuo Liu, Chenzhong Yin, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mfix4qpsarj"></a>
+11. [EAGLE: Large-scale Learning of Turbulent Fluid Dynamics with Mesh Transformers](https://openreview.net/forum?id=mfIX4QpsARJ)
+   - Steeven JANNY, Aurélien Bénéteau, Madiha Nadri, Julie Digne, Nicolas THOME, Christian Wolf; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kyovpyvwwnk"></a>
+12. [Efficient Certified Training and Robustness Verification of Neural ODEs](https://openreview.net/forum?id=KyoVpYvWWnK)
+   - Mustafa Zeqiri, Mark Niklas Mueller, Marc Fischer, Martin Vechev; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-atlel-izd87"></a>
+13. [Enhancing the Inductive Biases of Graph Neural ODE for Modeling Physical Systems](https://openreview.net/forum?id=ATLEl_izD87)
+   - Suresh Bishnoi, Ravinder Bhattoo, Jayadeva Jayadeva, Sayan Ranu, N M Anoop Krishnan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-z4s73sjyqm"></a>
+14. [Evolve Smoothly, Fit Consistently: Learning Smooth Latent Dynamics For Advection-Dominated Systems](https://openreview.net/forum?id=Z4s73sJYQM)
+   - Zhong Yi Wan, Leonardo Zepeda-Nunez, Anudhyan Boral, Fei Sha; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tlsckvhccr"></a>
+15. [FINDE: Neural Differential Equations for Finding and Preserving Invariant Quantities](https://openreview.net/forum?id=tLScKVhcCR)
+   - Takashi Matsubara, Takaharu Yaguchi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tmiimpl4ipa"></a>
+16. [Factorized Fourier Neural Operators](https://openreview.net/forum?id=tmIiMPl4IPa)
+   - Alasdair Tran, Alexander Mathews, Lexing Xie, Cheng Soon Ong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gfwnitgoes6"></a>
+17. [Guiding continuous operator learning through Physics-based boundary constraints](https://openreview.net/forum?id=gfWNItGOES6)
+   - Nadim Saad, Gaurav Gupta, Shima Alizadeh, Danielle C. Maddix; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oaw6v3zahsd"></a>
+18. [HyperDeepONet: learning operator with complex target function space using the limited resources via hypernetwork](https://openreview.net/forum?id=OAw6V3ZAhSd)
+   - Jae Yong Lee, SungWoong CHO, Hyung Ju Hwang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-zqkfja6r1-r"></a>
+19. [Improved Training of Physics-Informed Neural Networks Using Energy-Based Priors: a Study on Electrical Impedance Tomography](https://openreview.net/forum?id=zqkfJA6R1-r)
+   - Akarsh Pokkunuru, Pedram Rooshenas, Thilo Strauss, Anuj Abhishek, Taufiquar Khan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-moilfzfj-1b"></a>
+20. [Latent Neural ODEs with Sparse Bayesian Multiple Shooting](https://openreview.net/forum?id=moIlFZfj_1b)
+   - Valerii Iakovlev, Cagatay Yildiz, Markus Heinonen, Harri Lähdesmäki; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pbfgkz2hdbe"></a>
+21. [Learning Controllable Adaptive Simulation for Multi-resolution Physics](https://openreview.net/forum?id=PbfgkZ2HdbE)
+   - Tailin Wu, Takashi Maruyama, Qingqing Zhao, Gordon Wetzstein, Jure Leskovec; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-f2wn4v-2-w"></a>
+22. [Learning Symbolic Models for Graph-structured Physical Mechanism](https://openreview.net/forum?id=f2wN4v_2__W)
+   - Hongzhi Shi, Jingtao Ding, Yufan Cao, quanming yao, Li Liu, Yong Li; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-nywqxuwfc3x"></a>
+23. [Learning Vortex Dynamics for Fluid Inference and Prediction](https://openreview.net/forum?id=nYWqxUwFc3x)
+   - Yitong Deng, Hong-Xing Yu, Jiajun Wu, Bo Zhu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vdv6cmgksr0"></a>
+24. [Learning differentiable solvers for systems with hard constraints](https://openreview.net/forum?id=vdv6CmGksr0)
+   - Geoffrey Négiar, Michael W. Mahoney, Aditi Krishnapriyan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-apf0dmi1-9k"></a>
+25. [NTFields: Neural Time Fields for Physics-Informed Robot Motion Planning](https://openreview.net/forum?id=ApF0dmi1_9K)
+   - Ruiqi Ni, Ahmed H Qureshi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-d3qnwd-pcfv"></a>
+26. [Neural Lagrangian Schr\"{o}dinger Bridge: Diffusion Modeling for Population Dynamics](https://openreview.net/forum?id=d3QNWD_pcFv)
+   - Takeshi Koshizuka, Issei Sato; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-crfhzasjdsz"></a>
+27. [Nonlinear Reconstruction for Operator Learning of PDEs with Discontinuities](https://openreview.net/forum?id=CrfhZAsJDsZ)
+   - Samuel Lanthaler, Roberto Molinaro, Patrik Hadorn, Siddhartha Mishra; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-z9c5dgip90"></a>
+28. [Phase2vec: dynamical systems embedding with a physics-informed convolutional network](https://openreview.net/forum?id=z9C5dGip90)
+   - Matt Ricci, Noa Moriel, Zoe Piran, Mor Nitzan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8ms2ne-hxn"></a>
+29. [SYNC: SAFETY-AWARE NEURAL CONTROL FOR STABILIZING STOCHASTIC DELAY-DIFFERENTIAL EQUATIONS](https://openreview.net/forum?id=_8mS2NE-HXN)
+   - Jingdong Zhang, Qunxi Zhu, Wei Yang, Wei Lin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yvqc6gcnf4d"></a>
+30. [Simple initialization and parametrization of sinusoidal networks via their kernel bandwidth](https://openreview.net/forum?id=yVqC6gCNf4d)
+   - Filipe de Avila Belbute-Peres, J Zico Kolter; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ztk3sefe8-z"></a>
+31. [Symbolic Physics Learner: Discovering governing equations via Monte Carlo tree search](https://openreview.net/forum?id=ZTK3SefE8_Z)
+   - Fangzheng Sun, Yang Liu, Jian-Xun Wang, Hao Sun; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-hnlczatopvr"></a>
+32. [Transformer Meets Boundary Value Inverse Problems](https://openreview.net/forum?id=HnlCZATopvr)
+   - Ruchi Guo, Shuhao Cao, Long Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jscuk9tbun"></a>
+33. [Uniform-in-time propagation of chaos for the mean-field gradient Langevin dynamics](https://openreview.net/forum?id=_JScUk9TBUn)
+   - Taiji Suzuki, Atsushi Nitanda, Denny Wu; assignment: `hdbscan`; source: `OpenReview`

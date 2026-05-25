@@ -1,50 +1,53 @@
-# ICLR 2023: 分子表示学习与药物发现
+# ICLR 2023: 在线学习与 regret 理论
 
 - Topic ID: `67`
-- Papers: **10** (0.64%)
-- Macro topic: AI4Science/医疗
-- English keywords: `molecules / drug / chemical / molecular`
-- Keyword pool: molecules; drug; chemical; molecular; docking; binding; motif; discovery; generation; protein; equivariant; compounds
+- Papers: **11** (0.72%)
+- Macro topic: 推荐/检索/排序
+- English keywords: `bandits / regret / communication / switching`
+- Keyword pool: bandits; regret; communication; switching; reward; contextual; multi-armed; variance-aware; federated; bound; kernelized; adversarial
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Molecule Generation For Target Protein Binding with Structural Motifs
-- Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design
-- Retrieval-based Controllable Molecule Generation
-- 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction
-- De Novo Molecular Generation via Connection-aware Motif Mining
+- Asymptotic Instance-Optimal Algorithms for Interactive Decision Making
+- Replicable Bandits
+- Learning Kernelized Contextual Bandits in a Distributed and Asynchronous Environment
+- Adversarial Attacks on Adversarial Bandits
+- Contextual bandits with concave rewards, and an application to fair ranking
 
 ## Papers
 
-<a id="paper-kjqxepxmse0"></a>
-1. [3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction](https://openreview.net/forum?id=kJqXEPXMsE0)
-   - Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xrmwuueevr"></a>
-2. [Context-enriched molecule representations improve few-shot drug discovery](https://openreview.net/forum?id=XrMWUuEevr)
-   - Johannes Schimunek, Philipp Seidl, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-q-jexl8-qdi"></a>
-3. [De Novo Molecular Generation via Connection-aware Motif Mining](https://openreview.net/forum?id=Q_Jexl8-qDi)
-   - Zijie Geng, Shufang Xie, Yingce Xia, Lijun Wu, Tao Qin, Jie Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kkf8-k-mbbs"></a>
-4. [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://openreview.net/forum?id=kKF8_K-mBbS)
-   - Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi S. Jaakkola; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-so1qiaftqfv"></a>
-5. [E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking](https://openreview.net/forum?id=sO1QiAftQFv)
-   - Yangtian Zhang, Huiyu Cai, Chence Shi, Jian Tang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4mbgnp4ipq"></a>
-6. [Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design](https://openreview.net/forum?id=4MbGnp4iPQ)
-   - Keir Adams, Connor W. Coley; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yo06f8kfma1"></a>
-7. [How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules](https://openreview.net/forum?id=Yo06F8kfMa1)
-   - Yutong Xie, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-q9vherqjd8"></a>
-8. [Matching receptor to odorant with protein language and graph neural networks](https://openreview.net/forum?id=q9VherQJd8_)
-   - Matej Hladiš, Maxence Lalis, Sebastien Fiorucci, Jérémie Topin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rq13idf0f73"></a>
-9. [Molecule Generation For Target Protein Binding with Structural Motifs](https://openreview.net/forum?id=Rq13idF0F73)
-   - ZAIXI ZHANG, Yaosen Min, Shuxin Zheng, Qi Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vdfa1tpulvk"></a>
-10. [Retrieval-based Controllable Molecule Generation](https://openreview.net/forum?id=vDFA1tpuLvk)
-   - Zichao Wang, Weili Nie, Zhuoran Qiao, Chaowei Xiao, Richard Baraniuk, Anima Anandkumar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qtxktxjkih"></a>
+1. [Achieving Near-Optimal Individual Regret & Low Communications in Multi-Agent Bandits](https://openreview.net/forum?id=QTXKTXJKIh)
+   - Xuchuang Wang, Lin Yang, Yu-Zhen Janice Chen, Xutong Liu, Mohammad Hajiesmaili, Don Towsley, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-bbpt6dejerg"></a>
+2. [Adversarial Attacks on Adversarial Bandits](https://openreview.net/forum?id=bBpT6dEjeRG)
+   - Yuzhe Ma, Zhijin Zhou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ogvu9spzajj"></a>
+3. [Asymptotic Instance-Optimal Algorithms for Interactive Decision Making](https://openreview.net/forum?id=oGVu9spZaJJ)
+   - Kefan Dong, Tengyu Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hlbej6jobdd"></a>
+4. [Collaborative Pure Exploration in Kernel Bandit](https://openreview.net/forum?id=hLbeJ6jObDD)
+   - Yihan Du, Wei Chen, Yuko Kuroki, Longbo Huang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ut-svoyd1h"></a>
+5. [Contextual bandits with concave rewards, and an application to fair ranking](https://openreview.net/forum?id=UT-_SVOyD1H)
+   - Virginie Do, Elvis Dohmatob, Matteo Pirotta, Alessandro Lazaric, Nicolas Usunier; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-38m4h8hcnrl"></a>
+6. [Federated Neural Bandits](https://openreview.net/forum?id=38m4h8HcNRL)
+   - Zhongxiang Dai, Yao Shu, Arun Verma, Flint Xiaofeng Fan, Bryan Kian Hsiang Low, Patrick Jaillet; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-g1kjtfsss"></a>
+7. [Learning Kernelized Contextual Bandits in a Distributed and Asynchronous Environment](https://openreview.net/forum?id=-G1kjTFsSs)
+   - Chuanhao Li, Huazheng Wang, Mengdi Wang, Hongning Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-i9oggqhybky"></a>
+8. [Near-Optimal Adversarial Reinforcement Learning with Switching Costs](https://openreview.net/forum?id=i9ogGQHYbkY)
+   - Ming Shi, Yingbin Liang, Ness Shroff; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gcd2utcgmc2"></a>
+9. [Replicable Bandits](https://openreview.net/forum?id=gcD2UtCGMc2)
+   - Hossein Esfandiari, Alkis Kalavasis, Amin Karbasi, Andreas Krause, Vahab Mirrokni, Grigoris Velegkas; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tkwp32nseq"></a>
+10. [Variance-Aware Sparse Linear Bandits](https://openreview.net/forum?id=tkwP32nsEq)
+   - Yan Dai, Ruosong Wang, Simon Shaolei Du; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q8vghfpdoqp"></a>
+11. [When to Make and Break Commitments?](https://openreview.net/forum?id=q8vgHfPdoQP)
+   - Alihan Hüyük, Zhaozhi Qian, Mihaela van der Schaar; assignment: `hdbscan`; source: `OpenReview`

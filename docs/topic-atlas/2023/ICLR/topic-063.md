@@ -1,53 +1,56 @@
-# ICLR 2023: neuroscience / population / coding / simplicial
+# ICLR 2023: continual / forgetting / replay / forward transfer
 
 - Topic ID: `63`
-- Papers: **11** (0.70%)
+- Papers: **12** (0.78%)
 - Macro topic: 系统/效率/压缩
-- English keywords: `neuroscience / population / coding / simplicial`
-- Keyword pool: neuroscience; population; coding; simplicial; latent; variability; hopfield; biologically; hebbian; brain; activity; manifolds
+- English keywords: `continual / forgetting / replay / forward transfer`
+- Keyword pool: continual; forgetting; replay; forward transfer; memory; catastrophic; stability; online; cta; lifelong learning; brain; experience
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models: Unifying Predictive Coding, Equilibrium Propagation, and Contrastive Hebbian Learning
-- Efficient approximation of neural population structure and correlations with probabilistic circuits
-- A Theoretical Framework for Inference and Learning in Predictive Coding Networks
-- Understanding Neural Coding on Latent Manifolds by Sharing Features and Dividing Ensembles
-- Bayesian Oracle for bounding information gain in neural encoding models
+- Continual evaluation for lifelong learning: Identifying the stability gap
+- Online Boundary-Free Continual Learning by Scheduled Data Prior
+- Online Bias Correction for Task-Free Continual Learning
+- Is Forgetting Less a Good Inductive Bias for Forward Transfer?
+- Sparse Distributed Memory is a Continual Learner
 
 ## Papers
 
-<a id="paper-zctvsf-uvm4"></a>
-1. [A Theoretical Framework for Inference and Learning in Predictive Coding Networks](https://openreview.net/forum?id=ZCTvSF_uVM4)
-   - Beren Millidge, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kt-dcbqcsa"></a>
-2. [A probabilistic framework for task-aligned intra- and inter-area neural manifold estimation](https://openreview.net/forum?id=kt-dcBQcSA)
-   - Edoardo Balzani, Jean-Paul G Noel, Pedro Herrero-Vidal, Dora E Angelaki, Cristina Savin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xfqde72zh41"></a>
-3. [Actionable Neural Representations: Grid Cells from Minimal Constraints](https://openreview.net/forum?id=xfqDe72zh41)
-   - Will Dorrell, Peter E. Latham, Timothy E. J. Behrens, James C. R. Whittington; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nimifqu2eo"></a>
-4. [Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models: Unifying Predictive Coding, Equilibrium Propagation, and Contrastive Hebbian Learning](https://openreview.net/forum?id=nIMifqu2EO)
-   - Beren Millidge, Yuhang Song, Tommaso Salvatori, Thomas Lukasiewicz, Rafal Bogacz; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iyc5homqug"></a>
-5. [Bayesian Oracle for bounding information gain in neural encoding models](https://openreview.net/forum?id=iYC5hOMqUg)
-   - Konstantin-Klemens Lurz, Mohammad Bashiri, Edgar Y. Walker, Fabian H. Sinz; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-8jsap7j1cl0"></a>
-6. [Correlative Information Maximization Based Biologically Plausible Neural Networks for Correlated Source Separation](https://openreview.net/forum?id=8JsaP7j1cL0)
-   - Bariscan Bozkurt, Ateş İsfendiyaroğlu, Cengiz Pehlevan, Alper Tunga Erdogan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xc-ygi-0j9"></a>
-7. [Efficient approximation of neural population structure and correlations with probabilistic circuits](https://openreview.net/forum?id=XC_yGI-0j9)
-   - Koosha Khalvati, Samantha Johnson, Stefan Mihalas, Michael A Buice; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8gd4m-rj1"></a>
-8. [Hebbian Deep Learning Without Feedback](https://openreview.net/forum?id=8gd4M-_Rj1)
-   - Adrien Journé, Hector Garcia Rodriguez, Qinghai Guo, Timoleon Moraitis; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-m-mvkwgqst"></a>
-9. [Real-time variational method for learning neural trajectory and its dynamics](https://openreview.net/forum?id=M_MvkWgQSt)
-   - Matthew Dowling, Yuan Zhao, Il Memming Park; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-qlsh8gatwx"></a>
-10. [Simplicial Hopfield networks](https://openreview.net/forum?id=_QLsH8gatwx)
-   - Thomas F Burns, Tomoki Fukai; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1ucaqyude-o"></a>
-11. [Understanding Neural Coding on Latent Manifolds by Sharing Features and Dividing Ensembles](https://openreview.net/forum?id=1UCaQYUdE_o)
-   - Martin Bjerke, Lukas Schott, Kristopher T Jensen, Claudia Battistin, David A. Klindt, Benjamin Adric Dunn; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-crxywkitan"></a>
+1. [Better Generative Replay for Continual Federated Learning](https://openreview.net/forum?id=cRxYWKiTan)
+   - Daiqing Qi, Handong Zhao, Sheng Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zy350crstc6"></a>
+2. [Continual evaluation for lifelong learning: Identifying the stability gap](https://openreview.net/forum?id=Zy350cRstc6)
+   - Matthias De Lange, Gido M van de Ven, Tinne Tuytelaars; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zlbci7019z3"></a>
+3. [Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning](https://openreview.net/forum?id=zlbci7019Z3)
+   - Fahad Sarfraz, Elahe Arani, Bahram Zonooz; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dl35lx-mtes"></a>
+4. [Is Forgetting Less a Good Inductive Bias for Forward Transfer?](https://openreview.net/forum?id=dL35lx-mTEs)
+   - Jiefeng Chen, Timothy Nguyen, Dilan Gorur, Arslan Chaudhry; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gfpuokhsw"></a>
+5. [Learning without Prejudices: Continual Unbiased Learning via Benign and Malignant Forgetting](https://openreview.net/forum?id=gfPUokHsW-)
+   - Myeongho Jeon, Hyoje Lee, Yedarm Seong, Myungjoo Kang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n92hjsf5nnh"></a>
+6. [MECTA: Memory-Economic Continual Test-Time Model Adaptation](https://openreview.net/forum?id=N92hjSf5NNh)
+   - Junyuan Hong, Lingjuan Lyu, Jiayu Zhou, Michael Spranger; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fxc7kjywa-a"></a>
+7. [New Insights for the Stability-Plasticity Dilemma in Online Continual Learning](https://openreview.net/forum?id=fxC7kJYwA_a)
+   - Dahuin Jung, Dongjin Lee, Sunwon Hong, Hyemi Jang, Ho Bae, Sungroh Yoon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-18xzeuyzh"></a>
+8. [Online Bias Correction for Task-Free Continual Learning](https://openreview.net/forum?id=18XzeuYZh_)
+   - Aristotelis Chrysakis, Marie-Francine Moens; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qco4ekz2epm"></a>
+9. [Online Boundary-Free Continual Learning by Scheduled Data Prior](https://openreview.net/forum?id=qco4ekz2Epm)
+   - Hyunseo Koh, Minhyuk Seo, Jihwan Bang, Hwanjun Song, Deokki Hong, Seulki Park, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vf6wcudny7c"></a>
+10. [Optimizing Spca-based Continual Learning: A Theoretical Approach](https://openreview.net/forum?id=Vf6WcUDnY7c)
+   - Chunchun Yang, Malik Tiomoko, Zengfu Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jkngeelzjphp"></a>
+11. [Sparse Distributed Memory is a Continual Learner](https://openreview.net/forum?id=JknGeelZJpHP)
+   - Trenton Bricken, Xander Davies, Deepak Singh, Dmitry Krotov, Gabriel Kreiman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-m0tnnywft5"></a>
+12. [Task-Aware Information Routing from Common Representation Space in Lifelong Learning](https://openreview.net/forum?id=-M0TNnyWFT5)
+   - Prashant Shivaram Bhat, Bahram Zonooz, Elahe Arani; assignment: `hdbscan`; source: `OpenReview`

@@ -1,83 +1,83 @@
-# ICLR 2023: LLM Agent 与工具使用
+# ICLR 2023: 视觉语言模型与多模态理解
 
 - Topic ID: `29`
-- Papers: **21** (1.34%)
-- Macro topic: 强化学习/决策
-- English keywords: `reinforcement / agents / environment / skills`
-- Keyword pool: reinforcement; agents; environment; skills; model-based; action; multi-task; policy; sample efficiency; navigation; exploration; demonstrations
+- Papers: **21** (1.37%)
+- Macro topic: 多模态/VLM
+- English keywords: `modality / vision-language / video / multimodal`
+- Keyword pool: modality; vision-language; video; multimodal; clip; vision language; multi-modal; recognition; visual; prompts; captioning; zero-shot
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Investigating Multi-task Pretraining and Generalization in Reinforcement Learning
-- Simple Emergent Action Representations from Multi-Task Policy Training
-- Proto-Value Networks: Scaling Representation Learning with Auxiliary Tasks
-- On the Feasibility of Cross-Task Transfer with Model-Based Reinforcement Learning
-- MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations
+- Visual Classification via Description from Large Language Models
+- Contrastive Alignment of Vision to Language Through Parameter-Efficient Transfer Learning
+- Diagnosing and Rectifying Vision Models using Language
+- Masked Vision and Language Modeling for Multi-modal Representation Learning
+- MEDICAL IMAGE UNDERSTANDING WITH PRETRAINED VISION LANGUAGE MODELS: A COMPREHENSIVE STUDY
 
 ## Papers
 
-<a id="paper-hcuf-qwzefh"></a>
-1. [A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation](https://openreview.net/forum?id=HcUf-QwZeFh)
-   - Hiroki Furuta, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-sy-o2n0hf4f"></a>
-2. [Become a Proficient Player with Limited Data through Watching Pure Videos](https://openreview.net/forum?id=Sy-o2N0hF4f)
-   - Weirui Ye, Yunsheng Zhang, Pieter Abbeel, Yang Gao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-phkwyijgi5b"></a>
-3. [Choreographer: Learning and Adapting Skills in Imagination](https://openreview.net/forum?id=PhkWyijGi5b)
-   - Pietro Mazzaglia, Tim Verbelen, Bart Dhoedt, Alexandre Lacoste, Sai Rajeswar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-drtsx1z40ib"></a>
-4. [Composing Task Knowledge With Modular Successor Feature Approximators](https://openreview.net/forum?id=DrtSx1z40Ib)
-   - Wilka Torrico Carvalho, Angelos Filos, Richard Lewis, Honglak Lee, Satinder Singh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-c-xa-d3otj6"></a>
-5. [DEP-RL: Embodied Exploration for Reinforcement Learning in Overactuated and Musculoskeletal Systems](https://openreview.net/forum?id=C-xa_D3oTj6)
-   - Pierre Schumacher, Daniel Haeufle, Dieter Büchler, Syn Schmitt, Georg Martius; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-myeap-ocqi"></a>
-6. [Does Zero-Shot Reinforcement Learning Exist?](https://openreview.net/forum?id=MYEap_OcQI)
-   - Ahmed Touati, Jérémy Rapin, Yann Ollivier; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ltt4kjhssyl"></a>
-7. [Emergence of Maps in the Memories of Blind Navigation Agents](https://openreview.net/forum?id=lTt4KjHSsyl)
-   - Erik Wijmans, Manolis Savva, Irfan Essa, Stefan Lee, Ari S. Morcos, Dhruv Batra; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-sst9froszro"></a>
-8. [Investigating Multi-task Pretraining and Generalization in Reinforcement Learning](https://openreview.net/forum?id=sSt9fROSZRO)
-   - Adrien Ali Taiga, Rishabh Agarwal, Jesse Farebrother, Aaron Courville, Marc G Bellemare; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jdtnc9gjvfj"></a>
-9. [MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations](https://openreview.net/forum?id=JdTnc9gjVfJ)
-   - Nicklas Hansen, Yixin Lin, Hao Su, Xiaolong Wang, Vikash Kumar, Aravind Rajeswaran; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vmjctnuswi"></a>
-10. [Moving Forward by Moving Backward: Embedding Action Impact over Action Semantics](https://openreview.net/forum?id=vmjctNUSWI)
-   - Kuo-Hao Zeng, Luca Weihs, Roozbeh Mottaghi, Ali Farhadi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-6bhlzgypozy"></a>
-11. [Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery](https://openreview.net/forum?id=6BHlZgyPOZY)
-   - Felix Chalumeau, Raphael Boige, Bryan Lim, Valentin Macé, Maxime Allard, Arthur Flajolet, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nm-rhxi5ga"></a>
-12. [On the Data-Efficiency with Contrastive Image Transformation in Reinforcement Learning](https://openreview.net/forum?id=-nm-rHXi5ga)
-   - Sicong Liu, Xi Sheryl Zhang, Yushuo Li, Yifan Zhang, Jian Cheng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kb1sc5pnkfv"></a>
-13. [On the Feasibility of Cross-Task Transfer with Model-Based Reinforcement Learning](https://openreview.net/forum?id=KB1sc5pNKFv)
-   - Yifan Xu, Nicklas Hansen, Zirui Wang, Yung-Chieh Chan, Hao Su, Zhuowen Tu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-awzgxgmsba"></a>
-14. [Powderworld: A Platform for Understanding Generalization via Rich Task Distributions](https://openreview.net/forum?id=AWZgXGmsbA)
-   - Kevin Frans, Phillip Isola; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0v4vkcskhnm"></a>
-15. [Priors, Hierarchy, and Information Asymmetry for Skill Transfer in Reinforcement Learning](https://openreview.net/forum?id=0v4VkCSkHNm)
-   - Sasha Salter, Kristian Hartikainen, Walter Goodwin, Ingmar Posner; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ogdkst9jrzi"></a>
-16. [Proto-Value Networks: Scaling Representation Learning with Auxiliary Tasks](https://openreview.net/forum?id=oGDKSt9JrZi)
-   - Jesse Farebrother, Joshua Greaves, Rishabh Agarwal, Charline Le Lan, Ross Goroshin, Pablo Samuel Castro, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-opc-9abbvje"></a>
-17. [Sample-Efficient Reinforcement Learning by Breaking the Replay Ratio Barrier](https://openreview.net/forum?id=OpC-9aBBVJe)
-   - Pierluca D'Oro, Max Schwarzer, Evgenii Nikishin, Pierre-Luc Bacon, Marc G Bellemare, Aaron Courville; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nul0ylt7sm"></a>
-18. [Simple Emergent Action Representations from Multi-Task Policy Training](https://openreview.net/forum?id=NUl0ylt7SM)
-   - Pu Hua, Yubei Chen, Huazhe Xu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-mg5clxzgvlj"></a>
-19. [SpeedyZero: Mastering Atari with Limited Data and Time](https://openreview.net/forum?id=Mg5CLXZgvLJ)
-   - Yixuan Mei, Jiaxuan Gao, Weirui Ye, Shaohuai Liu, Yang Gao, Yi Wu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-spgp6aisltd"></a>
-20. [Temporal Disentanglement of Representations for Improved Generalisation in Reinforcement Learning](https://openreview.net/forum?id=sPgP6aISLTD)
-   - Mhairi Dunion, Trevor McInroe, Kevin Sebastian Luck, Josiah P. Hanna, Stefano V Albrecht; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4u42kcqxcn8"></a>
-21. [Using Both Demonstrations and Language Instructions to Efficiently Learn Robotic Tasks](https://openreview.net/forum?id=4u42KCQxCn8)
-   - Albert Yu, Ray Mooney; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ipwiwwhc1v"></a>
+1. [CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks](https://openreview.net/forum?id=iPWiwWHc1V)
+   - Tuomas Oikarinen, Tsui-Wei Weng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gnjzmagawq"></a>
+2. [CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Alignment](https://openreview.net/forum?id=GNjzMAgawq)
+   - Hongwei Xue, Yuchong Sun, Bei Liu, Jianlong Fu, Ruihua Song, Houqiang Li, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-x0bpr9ixc1"></a>
+3. [Contrastive Alignment of Vision to Language Through Parameter-Efficient Transfer Learning](https://openreview.net/forum?id=x0BPR9iXc1)
+   - Zaid Khan, Yun Fu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lt8bmlhiwx2"></a>
+4. [DeCap: Decoding CLIP Latents for Zero-Shot Captioning via Text-Only Training](https://openreview.net/forum?id=Lt8bMlhiwx2)
+   - Wei Li, Linchao Zhu, Longyin Wen, Yi Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-d-zfuk7br6c"></a>
+5. [Diagnosing and Rectifying Vision Models using Language](https://openreview.net/forum?id=D-zfUK7BR6c)
+   - Yuhui Zhang, Jeff Z. HaoChen, Shih-Cheng Huang, Kuan-Chieh Wang, James Zou, Serena Yeung; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fxjzkodw9wb"></a>
+6. [Exploring Temporally Dynamic Data Augmentation for Video Recognition](https://openreview.net/forum?id=fxjzKOdw9wb)
+   - Taeoh Kim, Jinhyung Kim, Minho Shim, Sangdoo Yun, Myunggu Kang, Dongyoon Wee, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-0ettkoooqkv"></a>
+7. [HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention](https://openreview.net/forum?id=0eTTKOOOQkV)
+   - Shijie Geng, Jianbo Yuan, Yu Tian, Yuxiao Chen, Yongfeng Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-numccz5rkf"></a>
+8. [IS SYNTHETIC DATA FROM GENERATIVE MODELS READY FOR IMAGE RECOGNITION?](https://openreview.net/forum?id=nUmCcZ5RKF)
+   - Ruifei He, Shuyang Sun, Xin Yu, Chuhui Xue, Wenqing Zhang, Philip Torr, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-p44wpn1-ajv"></a>
+9. [LMSeg: Language-guided Multi-dataset Segmentation](https://openreview.net/forum?id=P44WPn1_aJV)
+   - Qiang Zhou, Yuang Liu, Chaohui Yu, Jingliang Li, Zhibin Wang, Fan Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6srdbbvu8s"></a>
+10. [Learning Multimodal Data Augmentation in Feature Space](https://openreview.net/forum?id=6SRDbbvU8s)
+   - Zichang Liu, Zhiqiang Tang, Xingjian Shi, Aston Zhang, Mu Li, Anshumali Shrivastava, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wtcud6hrozr"></a>
+11. [Learning to Decompose Visual Features with Latent Textual Prompts](https://openreview.net/forum?id=wtcud6HroZr)
+   - Feng Wang, Manling Li, Xudong Lin, Hairong Lv, Alex Schwing, Heng Ji; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-txlwziuce5w"></a>
+12. [MEDICAL IMAGE UNDERSTANDING WITH PRETRAINED VISION LANGUAGE MODELS: A COMPREHENSIVE STUDY](https://openreview.net/forum?id=txlWziuCE5W)
+   - Ziyuan Qin, Huahui Yi, Qicheng Lao, Kang Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zhuxkssjywn"></a>
+13. [Masked Vision and Language Modeling for Multi-modal Representation Learning](https://openreview.net/forum?id=ZhuXksSJYWn)
+   - Gukyeong Kwon, Zhaowei Cai, Avinash Ravichandran, Erhan Bas, Rahul Bhotika, Stefano Soatto; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-i2-tvofmeml"></a>
+14. [MultiViz: Towards Visualizing and Understanding Multimodal Models](https://openreview.net/forum?id=i2_TvOFmEml)
+   - Paul Pu Liang, Yiwei Lyu, Gunjan Chhablani, Nihal Jain, Zihao Deng, Xingbo Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hnk1wrmayqg"></a>
+15. [Multimodal Federated Learning via Contrastive Representation Ensemble](https://openreview.net/forum?id=Hnk1WRMAYqg)
+   - Qiying Yu, Yang Liu, Yimu Wang, Ke Xu, Jingjing Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mimwy4kh9lf"></a>
+16. [Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://openreview.net/forum?id=MIMwy4kh9lf)
+   - Weicheng Kuo, Yin Cui, Xiuye Gu, AJ Piergiovanni, Anelia Angelova; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zqwryboxynh"></a>
+17. [PLOT: Prompt Learning with Optimal Transport for Vision-Language Models](https://openreview.net/forum?id=zqwryBoXYnh)
+   - Guangyi Chen, Weiran Yao, Xiangchen Song, Xinyue Li, Yongming Rao, Kun Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cifosnhzvon"></a>
+18. [TempCLR: Temporal Alignment Representation with Contrastive Learning](https://openreview.net/forum?id=CIFOsnhZvON)
+   - Yuncong Yang, Jiawei Ma, Shiyuan Huang, Long Chen, Xudong Lin, Guangxing Han, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-w0qxrz3n-s"></a>
+19. [The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation](https://openreview.net/forum?id=w0QXrZ3N-s)
+   - Zihui Xue, Zhengqi Gao, Sucheng Ren, Hang Zhao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pqolkgsbsik"></a>
+20. [Universal Vision-Language Dense Retrieval: Learning A Unified Representation Space for Multi-Modal Retrieval](https://openreview.net/forum?id=PQOlkgsBsik)
+   - Zhenghao Liu, Chenyan Xiong, Yuanhuiyi Lv, Zhiyuan Liu, Ge Yu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-jlajnl8z5cs"></a>
+21. [Visual Classification via Description from Large Language Models](https://openreview.net/forum?id=jlAjNL8z5cs)
+   - Sachit Menon, Carl Vondrick; assignment: `hdbscan`; source: `OpenReview`

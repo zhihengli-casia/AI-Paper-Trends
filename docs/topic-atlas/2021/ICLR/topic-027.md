@@ -1,62 +1,65 @@
-# ICLR 2021: search / neural architecture / supernet / proxies
+# ICLR 2021: 对抗攻击、鲁棒性与安全
 
 - Topic ID: `27`
-- Papers: **14** (1.63%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `search / neural architecture / supernet / proxies`
-- Keyword pool: search; neural architecture; supernet; proxies; width; asr; architectures; design space; hardware; lista; automl; imagenet
+- Papers: **15** (1.75%)
+- Macro topic: 可信/安全/公平
+- English keywords: `augmentation / mixup / ood / detection`
+- Keyword pool: augmentation; mixup; ood; detection; in-distribution; out-of-distribution; dropout; auxiliary; anomaly; adversarial; diversity; batch
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective
-- Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets
-- Geometry-Aware Gradient Algorithms for Neural Architecture Search
-- Rethinking Architecture Selection in Differentiable NAS
-- DrNAS: Dirichlet Neural Architecture Search
+- Removing Undesirable Feature Contributions Using Out-of-Distribution Data
+- Negative Data Augmentation
+- How Does Mixup Help With Robustness and Generalization?
+- Tradeoffs in Data Augmentation: An Empirical Study
+- Reweighting Augmented Samples by Minimizing the Maximal Expected Loss
 
 ## Papers
 
-<a id="paper-gmghyuprxa"></a>
-1. [A Design Space Study for LISTA and Beyond](https://openreview.net/forum?id=GMgHyUPrXa)
-   - Tianjian Meng, Xiaohan Chen, Yifan Jiang, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-igik8rrt-z"></a>
-2. [CompOFA – Compound Once-For-All Networks for Faster Multi-Platform Deployment](https://openreview.net/forum?id=IgIk8RRT-Z)
-   - Manas Sahni, Shreya Varshini, Alind Khare, Alexey Tumanov; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-klh36elmwib"></a>
-3. [DARTS-: Robustly Stepping out of Performance Collapse Without Indicators](https://openreview.net/forum?id=KLH36ELmwIB)
-   - Xiangxiang Chu, Xiaoxing Wang, Bo Zhang, Shun Lu, Xiaolin Wei, Junchi Yan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9fwas6ybmb3"></a>
-4. [DrNAS: Dirichlet Neural Architecture Search](https://openreview.net/forum?id=9FWas6YbmB3)
-   - Xiangning Chen, Ruochen Wang, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-musykd1hxrp"></a>
-5. [Geometry-Aware Gradient Algorithms for Neural Architecture Search](https://openreview.net/forum?id=MuSYkd1hxRP)
-   - Liam Li, Mikhail Khodak, Nina Balcan, Ameet Talwalkar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0kadkv3dvf"></a>
-6. [HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark](https://openreview.net/forum?id=_0kaDkv3dVf)
-   - Chaojian Li, Zhongzhi Yu, Yonggan Fu, Yongan Zhang, Yang Zhao, Haoran You, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-j9rv7qdxjd"></a>
-7. [Interpretable Neural Architecture Search via Bayesian Optimisation with Weisfeiler-Lehman Kernels](https://openreview.net/forum?id=j9Rv7qdXjd)
-   - Binxin Ru, Xingchen Wan, Xiaowen Dong, Michael Osborne; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-s0udquanr9k"></a>
-8. [Locally Free Weight Sharing for Network Width Search](https://openreview.net/forum?id=S0UdquAnr9k)
-   - Xiu Su, Shan You, Tao Huang, Fei Wang, Chen Qian, Changshui Zhang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cu0apx9lmal"></a>
-9. [NAS-Bench-ASR: Reproducible Neural Architecture Search for Speech Recognition](https://openreview.net/forum?id=CU0APx9LMaL)
-   - Abhinav Mehrotra, Alberto Gil C. P. Ramos, Sourav Bhattacharya, Łukasz Dudziak, Ravichander Vipperla, Thomas Chau, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cnon5ezmhtu"></a>
-10. [Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective](https://openreview.net/forum?id=Cnon5ezMHtu)
-   - Wuyang Chen, Xinyu Gong, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rkqufumuog3"></a>
-11. [Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets](https://openreview.net/forum?id=rkQuFUmUOg3)
-   - Hayeon Lee, Eunyoung Hyung, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pkubaejkw3"></a>
-12. [Rethinking Architecture Selection in Differentiable NAS](https://openreview.net/forum?id=PKubaeJkw3)
-   - Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xlfdzwnkzch"></a>
-13. [SEDONA: Search for Decoupled Neural Networks toward Greedy Block-wise Learning](https://openreview.net/forum?id=XLfdzwNKzch)
-   - Myeongjang Pyeon, Jihwan Moon, Taeyoung Hahn, Gunhee Kim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0cmmmy8j5q"></a>
-14. [Zero-Cost Proxies for Lightweight NAS](https://openreview.net/forum?id=0cmMMy8J5q)
-   - Mohamed S Abdelfattah, Abhinav Mehrotra, Łukasz Dudziak, Nicholas Donald Lane; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ijjzbomcjim"></a>
+1. [Adversarially-Trained Deep Nets Transfer Better: Illustration on Image Classification](https://openreview.net/forum?id=ijJZbomCJIm)
+   - Francisco Utrera, Evan Kravitz, N. Benjamin Erichson, Rajiv Khanna, Michael W. Mahoney; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gvxjzw8kw4b"></a>
+2. [Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity](https://openreview.net/forum?id=gvxJzw8kW4b)
+   - JangHyun Kim, Wonho Choo, Hosan Jeong, Hyun Oh Song; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-r2zltvpx0gk"></a>
+3. [DICE: Diversity in Deep Ensembles via Conditional Redundancy Adversarial Estimation](https://openreview.net/forum?id=R2ZlTVPx0Gk)
+   - Alexandre Rame, Matthieu Cord; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-a5vv3uyiqz"></a>
+4. [Explainable Deep One-Class Classification](https://openreview.net/forum?id=A5VV3UyIQz)
+   - Philipp Liznerski, Lukas Ruff, Robert A. Vandermeulen, Billy Joe Franks, Marius Kloft, Klaus Robert Muller; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8ykeo06dkno"></a>
+5. [How Does Mixup Help With Robustness and Generalization?](https://openreview.net/forum?id=8yKEo06dKNo)
+   - Linjun Zhang, Zhun Deng, Kenji Kawaguchi, Amirata Ghorbani, James Zou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jznizqvr15j"></a>
+6. [In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness](https://openreview.net/forum?id=jznizqvr15J)
+   - Sang Michael Xie, Ananya Kumar, Robbie Jones, Fereshte Khani, Tengyu Ma, Percy Liang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jacdvfjicf7"></a>
+7. [Interpreting and Boosting Dropout from a Game-Theoretic View](https://openreview.net/forum?id=Jacdvfjicf7)
+   - Hao Zhang, Sen Li, YinChao Ma, Mingjie Li, Yichen Xie, Quanshi Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9z-dnsc4b5t"></a>
+8. [MetaNorm: Learning to Normalize Few-Shot Batches Across Domains](https://openreview.net/forum?id=9z_dNsC4B5t)
+   - Yingjun Du, Xiantong Zhen, Ling Shao, Cees G. M. Snoek; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xohdgbqjohv"></a>
+9. [Multiscale Score Matching for Out-of-Distribution Detection](https://openreview.net/forum?id=xoHdgbQJohv)
+   - Ahsan Mahmood, Junier Oliva, Martin Andreas Styner; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ovp8dvb8ibh"></a>
+10. [Negative Data Augmentation](https://openreview.net/forum?id=Ovp8dvB8IBH)
+   - Abhishek Sinha, Kumar Ayush, Jiaming Song, Burak Uzkent, Hongxia Jin, Stefano Ermon; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-eihyl6fpbka"></a>
+11. [Removing Undesirable Feature Contributions Using Out-of-Distribution Data](https://openreview.net/forum?id=eIHYL6fpbkA)
+   - Saehyung Lee, Changhwa Park, Hyungyu Lee, Jihun Yi, Jonghyun Lee, Sungroh Yoon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9g5mic-goqb"></a>
+12. [Reweighting Augmented Samples by Minimizing the Maximal Expected Loss](https://openreview.net/forum?id=9G5MIc-goqB)
+   - Mingyang Yi, Lu Hou, Lifeng Shang, Xin Jiang, Qun Liu, Zhi-Ming Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-v5gjxpmr8j"></a>
+13. [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://openreview.net/forum?id=v5gjXpmR8J)
+   - Vikash Sehwag, Mung Chiang, Prateek Mittal; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-m0qkvbgttq"></a>
+14. [SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization](https://openreview.net/forum?id=-M0QkvBGTTq)
+   - A F M Shahab Uddin, Mst. Sirazam Monira, Wheemyung Shin, TaeChoong Chung, Sung-Ho Bae; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zckpwuhg6wy"></a>
+15. [Tradeoffs in Data Augmentation: An Empirical Study](https://openreview.net/forum?id=ZcKPWuhG6wy)
+   - Raphael Gontijo-Lopes, Sylvia Smullin, Ekin Dogus Cubuk, Ethan Dyer; assignment: `hdbscan`; source: `OpenReview`

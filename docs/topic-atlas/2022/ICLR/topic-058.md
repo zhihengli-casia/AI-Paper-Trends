@@ -1,47 +1,44 @@
-# ICLR 2022: language / continual / entity / lms
+# ICLR 2022: 隐私保护与安全学习
 
 - Topic ID: `58`
-- Papers: **9** (0.82%)
+- Papers: **8** (0.75%)
 - Macro topic: LLM/语言模型
-- English keywords: `language / continual / entity / lms`
-- Keyword pool: language; continual; entity; lms; mention; passages; linking; forgetting; memory; prompts; generation; question answering
+- English keywords: `privacy / private / differentially / leakage`
+- Keyword pool: privacy; private; differentially; leakage; shuffle; fine-tuning; split; attacks; shuffling; language; hyperparameters; protection
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Towards Continual Knowledge Learning of Language Models
-- Pretrained Language Model in Continual Learning: A Comparative Study
-- Mention Memory: incorporating textual knowledge into Transformers through entity mention attention
-- Knowledge Infused Decoding
-- Memorizing Transformers
+- Hyperparameter Tuning with Renyi Differential Privacy
+- Differentially Private Fine-tuning of Language Models
+- Large Language Models Can Be Strong Differentially Private Learners
+- Privacy Implications of Shuffling
+- PEARL: Data Synthesis via Private Embeddings and Adversarial Reconstruction Learning
 
 ## Papers
 
-<a id="paper-us2rtp5nm"></a>
-1. [EntQA: Entity Linking as Question Answering](https://openreview.net/forum?id=US2rTP5nm_)
-   - Wenzheng Zhang, Wenyue Hua, Karl Stratos; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vr-btpw3wz"></a>
-2. [Hindsight: Posterior-guided training of retrievers for improved open-ended generation](https://openreview.net/forum?id=Vr_BTpw3wz)
-   - Ashwin Paranjape, Omar Khattab, Christopher Potts, Matei Zaharia, Christopher D Manning; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-upndj7itech"></a>
-3. [Knowledge Infused Decoding](https://openreview.net/forum?id=upnDJ7itech)
-   - Ruibo Liu, Guoqing Zheng, Shashank Gupta, Radhika Gaonkar, Chongyang Gao, Soroush Vosoughi, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hcrvf71pmf"></a>
-4. [LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5](https://openreview.net/forum?id=HCRVf71PMF)
-   - Chengwei Qin, Shafiq Joty; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-trjbxzrcnf"></a>
-5. [Memorizing Transformers](https://openreview.net/forum?id=TrjbxzRcnf-)
-   - Yuhuai Wu, Markus Norman Rabe, DeLesley Hutchins, Christian Szegedy; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-oy1a8ejqgex"></a>
-6. [Mention Memory: incorporating textual knowledge into Transformers through entity mention attention](https://openreview.net/forum?id=OY1A8ejQgEX)
-   - Michiel de Jong, Yury Zemlyanskiy, Nicholas FitzGerald, Fei Sha, William W. Cohen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dhziu48oczh"></a>
-7. [P-Adapters: Robustly Extracting Factual Information from Language Models with Diverse Prompts](https://openreview.net/forum?id=DhzIU48OcZh)
-   - Benjamin Newman, Prafulla Kumar Choubey, Nazneen Rajani; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-figzpgmrdd"></a>
-8. [Pretrained Language Model in Continual Learning: A Comparative Study](https://openreview.net/forum?id=figzpGMrdD)
-   - Tongtong Wu, Massimo Caccia, Zhuang Li, Yuan-Fang Li, Guilin Qi, Gholamreza Haffari; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vfsrb5mimo9"></a>
-9. [Towards Continual Knowledge Learning of Language Models](https://openreview.net/forum?id=vfsRB5MImo9)
-   - Joel Jang, Seonghyeon Ye, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun KIM, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q42f0dfjeco"></a>
+1. [Differentially Private Fine-tuning of Language Models](https://openreview.net/forum?id=Q42f0dfjECO)
+   - Da Yu, Saurabh Naik, Arturs Backurs, Sivakanth Gopi, Huseyin A Inan, Gautam Kamath, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7i8lpkcx8v"></a>
+2. [Differentially Private Fractional Frequency Moments Estimation with Polylogarithmic Space](https://openreview.net/forum?id=7I8LPkcx8V)
+   - Lun Wang, Iosif Pinelis, Dawn Song; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-70l8lpp9df"></a>
+3. [Hyperparameter Tuning with Renyi Differential Privacy](https://openreview.net/forum?id=-70L8lpp9DF)
+   - Nicolas Papernot, Thomas Steinke; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cotbrgsf2fo"></a>
+4. [Label Leakage and Protection in Two-party Split Learning](https://openreview.net/forum?id=cOtBRgsf2fO)
+   - Oscar Li, Jiankai Sun, Xin Yang, Weihao Gao, Hongyi Zhang, Junyuan Xie, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bvup3ltatmz"></a>
+5. [Large Language Models Can Be Strong Differentially Private Learners](https://openreview.net/forum?id=bVuP3ltATMz)
+   - Xuechen Li, Florian Tramer, Percy Liang, Tatsunori Hashimoto; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-m6m8bemd6dq"></a>
+6. [PEARL: Data Synthesis via Private Embeddings and Adversarial Reconstruction Learning](https://openreview.net/forum?id=M6M8BEmd6dq)
+   - Seng Pei Liew, Tsubasa Takahashi, Michihiko Ueno; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5i2f-ar6b8h"></a>
+7. [Privacy Implications of Shuffling](https://openreview.net/forum?id=5i2f-aR6B8H)
+   - Casey Meehan, Amrita Roy Chowdhury, Kamalika Chaudhuri, Somesh Jha; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-drzxutgg2a"></a>
+8. [Shuffle Private Stochastic Convex Optimization](https://openreview.net/forum?id=DrZXuTGg2A-)
+   - Albert Cheu, Matthew Joseph, Jieming Mao, Binghui Peng; assignment: `hdbscan`; source: `OpenReview`

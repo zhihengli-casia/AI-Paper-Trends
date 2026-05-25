@@ -1,71 +1,65 @@
-# ICLR 2022: 强化学习算法与理论
+# ICLR 2022: 检索 / 推理 / 视觉理解 / concepts
 
 - Topic ID: `33`
-- Papers: **17** (1.55%)
-- Macro topic: 强化学习/决策
-- English keywords: `games / multi-agent / policy / markov`
-- Keyword pool: games; multi-agent; policy; markov; zero-sum; mean field; agents; nash; marl; reinforcement learning; trust-region; belief
+- Papers: **15** (1.41%)
+- Macro topic: 计算机视觉
+- English keywords: `retrieval / reasoning / visual / concepts`
+- Keyword pool: retrieval; reasoning; visual; concepts; image; systematic generalization; compositional; search; retriever; negative; explanations; pairs
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games
-- Communication-Efficient Actor-Critic Methods for Homogeneous Markov Games
-- Towards General Function Approximation in Zero-Sum Markov Games
-- Finite-Time Convergence and Sample Complexity of Multi-Agent Actor-Critic Reinforcement Learning with Average Reward
-- Sample Efficient Stochastic Policy Extragradient Algorithm for Zero-Sum Markov Game
+- FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations
+- RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning
+- Compositional Attention: Disentangling Search and Retrieval
+- ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity
+- Axiomatic Explanations for Visual Search, Retrieval, and Similarity Learning
 
 ## Papers
 
-<a id="paper-ckzy7dga7fq"></a>
-1. [A Fine-Tuning Approach to Belief State Modeling](https://openreview.net/forum?id=ckZY7DGa7FQ)
-   - Samuel Sokota, Hengyuan Hu, David J Wu, J Zico Kolter, Jakob Nicolaus Foerster, Noam Brown; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xy-2w3j3kh"></a>
-2. [Communication-Efficient Actor-Critic Methods for Homogeneous Markov Games](https://openreview.net/forum?id=xy_2w3J3kH)
-   - Dingyang Chen, Yile Li, Qi Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xhuxf5arb3s"></a>
-3. [Dealing with Non-Stationarity in MARL via Trust-Region Decomposition](https://openreview.net/forum?id=XHUxf5aRB3s)
-   - Wenhao Li, Xiangfeng Wang, Bo Jin, Junjie Sheng, Hongyuan Zha; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oj2yn1q4ett"></a>
-4. [Decentralized Learning for Overparameterized Problems: A Multi-Agent Kernel Approximation Approach](https://openreview.net/forum?id=oj2yn1Q4Ett)
-   - Prashant Khanduri, Haibo Yang, Mingyi Hong, Jia Liu, Hoi To Wai, Sijia Liu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-xlfagcroimw"></a>
-5. [Energy-Based Learning for Cooperative Games, with Applications to Valuation Problems in Machine Learning](https://openreview.net/forum?id=xLfAgCroImw)
-   - Yatao Bian, Yu Rong, Tingyang Xu, Jiaxiang Wu, Andreas Krause, Junzhou Huang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-04pgug0-pdz"></a>
-6. [Finite-Time Convergence and Sample Complexity of Multi-Agent Actor-Critic Reinforcement Learning with Average Reward](https://openreview.net/forum?id=04pGUg0-pdZ)
-   - FNU Hairi, Jia Liu, Songtao Lu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bsycpmi00r1"></a>
-7. [Generalized Natural Gradient Flows in Hidden Convex-Concave Games and GANs](https://openreview.net/forum?id=bsycpMi00R1)
-   - Andjela Mladenovic, Iosif Sakos, Gauthier Gidel, Georgios Piliouras; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-gfwon7ram4"></a>
-8. [Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games](https://openreview.net/forum?id=gfwON7rAm4)
-   - Stefanos Leonardos, Will Overman, Ioannis Panageas, Georgios Piliouras; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0sgntlpkdoz"></a>
-9. [Learning Graphon Mean Field Games and Approximate Nash Equilibria](https://openreview.net/forum?id=0sgntlpKDOz)
-   - Kai Cui, Heinz Koeppl; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h7hdg-djf0"></a>
-10. [Multi-Agent MDP Homomorphic Networks](https://openreview.net/forum?id=H7HDG--DJF0)
-   - Elise van der Pol, Herke van Hoof, Frans A Oliehoek, Max Welling; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mp904tihqj"></a>
-11. [Provably convergent quasistatic dynamics for mean-field two-player zero-sum games](https://openreview.net/forum?id=MP904TiHqJ-)
-   - Chao Ma, Lexing Ying; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ivepfxyrdg"></a>
-12. [Sample Efficient Stochastic Policy Extragradient Algorithm for Zero-Sum Markov Game](https://openreview.net/forum?id=IvepFxYRDG)
-   - Ziyi Chen, Shaocong Ma, Yi Zhou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fza94y8vs4a"></a>
-13. [The Evolution of Uncertainty of Learning in Games](https://openreview.net/forum?id=Fza94Y8VS4a)
-   - Yun Kuen Cheung, Georgios Piliouras, Yixin Tao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-a05i5ivrdl"></a>
-14. [The Geometry of Memoryless Stochastic Policy Optimization in Infinite-Horizon POMDPs](https://openreview.net/forum?id=A05I5IvrdL-)
-   - Johannes Müller, Guido Montufar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sa4qiu3zv6v"></a>
-15. [Towards General Function Approximation in Zero-Sum Markov Games](https://openreview.net/forum?id=sA4qIu3zv6v)
-   - Baihe Huang, Jason D. Lee, Zhaoran Wang, Zhuoran Yang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ecggfkntxdj"></a>
-16. [Trust Region Policy Optimisation in Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=EcGGFkNTxdJ)
-   - Jakub Grudzien Kuba, Ruiqing Chen, Muning Wen, Ying Wen, Fanglei Sun, Jun Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6mmis0hujhr"></a>
-17. [When Can We Learn General-Sum Markov Games with a Large Number of Players Sample-Efficiently?](https://openreview.net/forum?id=6MmiS0HUJHR)
-   - Ziang Song, Song Mei, Yu Bai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cvflvqq9glo"></a>
+1. [ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity](https://openreview.net/forum?id=CVfLvQq9gLo)
+   - Ginger Delmas, Rafael S. Rezende, Gabriela Csurka, Diane Larlus; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mr7xubkufb"></a>
+2. [Adversarial Retriever-Ranker for Dense Text Retrieval](https://openreview.net/forum?id=MR7XubKUFB)
+   - Hang Zhang, Yeyun Gong, Yelong Shen, Jiancheng Lv, Nan Duan, Weizhu Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kaa9eds0rdo"></a>
+3. [Attention-based Interpretability with Concept Transformers](https://openreview.net/forum?id=kAa9eDS0RdO)
+   - Mattia Rigotti, Christoph Miksovic, Ioana Giurgiu, Thomas Gschwind, Paolo Scotton; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tqnsv1tucx9"></a>
+4. [Axiomatic Explanations for Visual Search, Retrieval, and Similarity Learning](https://openreview.net/forum?id=TqNsv1TuCX9)
+   - Mark Hamilton, Scott Lundberg, Stephanie Fu, Lei Zhang, William T. Freeman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pgneyaic81q"></a>
+5. [ComPhy: Compositional Physical Reasoning of Objects and Events from Videos](https://openreview.net/forum?id=PgNEYaIc81Q)
+   - Zhenfang Chen, Kexin Yi, Yunzhu Li, Mingyu Ding, Antonio Torralba, Joshua B. Tenenbaum, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-iwjpj2mbcia"></a>
+6. [Compositional Attention: Disentangling Search and Retrieval](https://openreview.net/forum?id=IwJPj2MBcIa)
+   - Sarthak Mittal, Sharath Chandra Raparthy, Irina Rish, Yoshua Bengio, Guillaume Lajoie; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-htwilvdcy8"></a>
+7. [FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations](https://openreview.net/forum?id=htWIlvDcY8)
+   - Lingjie Mei, Jiayuan Mao, Ziqi Wang, Chuang Gan, Joshua B. Tenenbaum; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-htp-6ylggx"></a>
+8. [Hot-Refresh Model Upgrades with Regression-Free Compatible Training in Image Retrieval](https://openreview.net/forum?id=HTp-6yLGGX)
+   - Binjie Zhang, Yixiao Ge, Yantao Shen, Yu Li, Chun Yuan, XUYUAN XU, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-h0oyv0we3oh"></a>
+9. [Illiterate DALL-E Learns to Compose](https://openreview.net/forum?id=h0OYV0We3oh)
+   - Gautam Singh, Fei Deng, Sungjin Ahn; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-wogsfphwfty"></a>
+10. [Learning Super-Features for Image Retrieval](https://openreview.net/forum?id=wogsFPHwftY)
+   - Philippe Weinzaepfel, Thomas Lucas, Diane Larlus, Yannis Kalantidis; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-utgtos4cyu"></a>
+11. [Measuring CLEVRness: Black-box Testing of Visual Reasoning Models](https://openreview.net/forum?id=UtGtoS4CYU)
+   - Spyridon Mouselinos, Henryk Michalewski, Mateusz Malinowski; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-filj7wpi-g"></a>
+12. [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://openreview.net/forum?id=fILj7WpI-g)
+   - Andrew Jaegle, Sebastian Borgeaud, Jean-Baptiste Alayrac, Carl Doersch, Catalin Ionescu, David Ding, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-afov8w3-iyp"></a>
+13. [RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning](https://openreview.net/forum?id=afoV8W3-IYp)
+   - Xiaojian Ma, Weili Nie, Zhiding Yu, Huaizu Jiang, Chaowei Xiao, Yuke Zhu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dzpgfwataxv"></a>
+14. [Relational Surrogate Loss Learning](https://openreview.net/forum?id=dZPgfwaTaXv)
+   - Tao Huang, Zekang Li, Hua Lu, Yong Shan, Shusheng Yang, Yang Feng, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-kbqp4a-j1k"></a>
+15. [The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization](https://openreview.net/forum?id=KBQP4A_J1K)
+   - Róbert Csordás, Kazuki Irie, Jürgen Schmidhuber; assignment: `hdbscan`; source: `OpenReview`

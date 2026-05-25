@@ -1,56 +1,56 @@
-# ICLR 2023: 代码生成与程序理解
+# ICLR 2023: 多模态学习与跨模态理解
 
 - Topic ID: `59`
-- Papers: **12** (0.76%)
-- Macro topic: LLM/语言模型
-- English keywords: `code generation / program / language / translation`
-- Keyword pool: code generation; program; language; translation; synthesis; test cases; execution; python; codex; multi-lingual; source code; api
+- Papers: **12** (0.78%)
+- Macro topic: 多模态/VLM
+- English keywords: `reasoning / visual / symbol / concepts`
+- Keyword pool: reasoning; visual; symbol; concepts; laws; abstract; scene; multimodal; grounding; schema; logical; semantics
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis
-- Multi-lingual Evaluation of Code Generation Models
-- InCoder: A Generative Model for Code Infilling and Synthesis
-- CodeT: Code Generation with Generated Tests
-- Code Translation with Compiler Representations
+- GAMR: A Guided Attention Model for (visual) Reasoning
+- A Minimalist Dataset for Systematic Generalization of Perception, Syntax, and Semantics
+- Learning to reason over visual objects
+- Learning where and when to reason in neuro-symbolic inference
+- Analogy-Forming Transformers for Few-Shot 3D Parsing
 
 ## Papers
 
-<a id="paper-lh1pv42cbf"></a>
-1. [Binding Language Models in Symbolic Languages](https://openreview.net/forum?id=lH1PV42cbF)
-   - Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xomeu3enesq"></a>
-2. [Code Translation with Compiler Representations](https://openreview.net/forum?id=XomEU3eNeSQ)
-   - Marc Szafraniec, Baptiste Roziere, Hugh James Leather, Patrick Labatut, Francois Charton, Gabriel Synnaeve; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-htl4uz344nf"></a>
-3. [CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code](https://openreview.net/forum?id=htL4UZ344nF)
-   - Nadezhda Chirkova, Sergey Troshin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iaycjkpy2b"></a>
-4. [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://openreview.net/forum?id=iaYcJKpY2B_)
-   - Erik Nijkamp, Bo Pang, Hiroaki Hayashi, Lifu Tu, Huan Wang, Yingbo Zhou, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ktrw68cmu9c"></a>
-5. [CodeT: Code Generation with Generated Tests](https://openreview.net/forum?id=ktrw68Cmu9c)
-   - Bei Chen, Fengji Zhang, Anh Nguyen, Daoguang Zan, Zeqi Lin, Jian-Guang Lou, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ztcxt2t2ru"></a>
-6. [DocPrompting: Generating Code by Retrieving the Docs](https://openreview.net/forum?id=ZTCxT2t2Ru)
-   - Shuyan Zhou, Uri Alon, Frank F. Xu, Zhengbao Jiang, Graham Neubig; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hqwb-lbm6el"></a>
-7. [InCoder: A Generative Model for Code Infilling and Synthesis](https://openreview.net/forum?id=hQwb-lbM6EL)
-   - Daniel Fried, Armen Aghajanyan, Jessy Lin, Sida Wang, Eric Wallace, Freda Shi, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sarj2ka1xz3"></a>
-8. [Language Models Can Teach Themselves to Program Better](https://openreview.net/forum?id=SaRj2ka1XZ3)
-   - Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bo7eexm6an8"></a>
-9. [Multi-lingual Evaluation of Code Generation Models](https://openreview.net/forum?id=Bo7eeXm6An8)
-   - Ben Athiwaratkun, Sanjay Krishna Gouda, Zijian Wang, Xiaopeng Li, Yuchen Tian, Ming Tan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lr8cootybfl"></a>
-10. [Planning with Large Language Models for Code Generation](https://openreview.net/forum?id=Lr8cOOtYbfL)
-   - Shun Zhang, Zhenfang Chen, Yikang Shen, Mingyu Ding, Joshua B. Tenenbaum, Chuang Gan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-llp-c5ntdjg"></a>
-11. [Static Prediction of Runtime Errors by Learning to Execute Programs with External Resource Descriptions](https://openreview.net/forum?id=lLp-C5nTdJG)
-   - David Bieber, Rishab Goel, Dan Zheng, Hugo Larochelle, Daniel Tarlow; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4tynehi2gdn"></a>
-12. [TypeT5: Seq2seq Type Inference using Static Analysis](https://openreview.net/forum?id=4TyNEhI2GdN)
-   - Jiayi Wei, Greg Durrett, Isil Dillig; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kipytuezuak"></a>
+1. [A Minimalist Dataset for Systematic Generalization of Perception, Syntax, and Semantics](https://openreview.net/forum?id=kIPyTuEZuAK)
+   - Qing Li, Siyuan Huang, Yining Hong, Yixin Zhu, Ying Nian Wu, Song-Chun Zhu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sriqzth0ik"></a>
+2. [Analogy-Forming Transformers for Few-Shot 3D Parsing](https://openreview.net/forum?id=SRIQZTh0IK)
+   - Nikolaos Gkanatsios, Mayank Singh, Zhaoyuan Fang, Shubham Tulsiani, Katerina Fragkiadaki; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hvojcrlbyvk"></a>
+3. [Can Neural Networks Learn Implicit Logic from Physical Reasoning?](https://openreview.net/forum?id=HVoJCRLByVk)
+   - Aaron Traylor, Roman Feiman, Ellie Pavlick; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-peuxuximlla"></a>
+4. [Compositional Law Parsing with Latent Random Functions](https://openreview.net/forum?id=PEuxUXIMLlA)
+   - Fan Shi, Bin Li, Xiangyang Xue; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ilmgk2ignyv"></a>
+5. [GAMR: A Guided Attention Model for (visual) Reasoning](https://openreview.net/forum?id=iLMgk2IGNyv)
+   - Mohit Vaishnav, Thomas Serre; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ur6x8be7o-m"></a>
+6. [Learning to reason over visual objects](https://openreview.net/forum?id=uR6x8Be7o_M)
+   - Shanka Subhra Mondal, Taylor Whittington Webb, Jonathan Cohen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-en9v5f8pr"></a>
+7. [Learning where and when to reason in neuro-symbolic inference](https://openreview.net/forum?id=en9V5F8PR-)
+   - Cristina Cornelio, Jan Stuehmer, Shell Xu Hu, Timothy Hospedales; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4rxmruojlai"></a>
+8. [Mind's Eye: Grounded Language Model Reasoning through Simulation](https://openreview.net/forum?id=4rXMRuoJlai)
+   - Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-nrhajbzg8y0p"></a>
+9. [Multimodal Analogical Reasoning over Knowledge Graphs](https://openreview.net/forum?id=NRHajbzg8y0P)
+   - Ningyu Zhang, Lei Li, Xiang Chen, Xiaozhuan Liang, Shumin Deng, Huajun Chen; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-rz-wyly5vi"></a>
+10. [Programmatically Grounded, Compositionally Generalizable Robotic Manipulation](https://openreview.net/forum?id=rZ-wylY5VI)
+   - Renhao Wang, Jiayuan Mao, Joy Hsu, Hang Zhao, Jiajun Wu, Yang Gao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vgi9dsmtgpf"></a>
+11. [Schema Inference for Interpretable Image Classification](https://openreview.net/forum?id=VGI9dSmTgPF)
+   - Haofei Zhang, Mengqi Xue, Xiaokang Liu, Kaixuan Chen, Jie Song, Mingli Song; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-htje5krui0g"></a>
+12. [Softened Symbol Grounding for Neuro-symbolic Systems](https://openreview.net/forum?id=HTJE5Krui0g)
+   - Zenan Li, Yuan Yao, Taolue Chen, Jingwei Xu, Chun Cao, Xiaoxing Ma, et al.; assignment: `nearest_centroid`; source: `OpenReview`

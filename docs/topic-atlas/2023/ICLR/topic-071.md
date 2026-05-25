@@ -1,50 +1,50 @@
-# ICLR 2023: quantum / quantization / activations / integer
+# ICLR 2023: 图像复原与超分辨率
 
 - Topic ID: `71`
-- Papers: **10** (0.64%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `quantum / quantization / activations / integer`
-- Keyword pool: quantum; quantization; activations; integer; non-uniform; compression; weight; quantized; bit; dot-product; gpt; arithmetic
+- Papers: **10** (0.65%)
+- Macro topic: 计算机视觉
+- English keywords: `image / restoration / degradation / super-resolution`
+- Keyword pool: image; restoration; degradation; super-resolution; frequency; devices; mobile; ing; inverse problems; enhancement; noise; convolution
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- PowerQuant: Automorphism Search for Non-Uniform Quantization
-- Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats
-- Bit-Pruning: A Sparse Multiplication-Less Dot-Product
-- Block and Subword-Scaling Floating-Point (BSFP) : An Efficient Non-Uniform Quantization For Low Precision Inference
-- OPTQ: Accurate Quantization for Generative Pre-trained Transformers
+- Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model
+- Knowledge Distillation based Degradation Estimation for Blind Super-Resolution
+- Scaling Laws For Deep Learning Based Image Reconstruction
+- NERDS: A General Framework to Train Camera Denoisers from Raw-RGB Noisy Image Pairs
+- Basic Binary Convolution Unit for Binarized Image Restoration Network
 
 ## Papers
 
-<a id="paper-ytbnyycopd"></a>
-1. [Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats](https://openreview.net/forum?id=yTbNYYcopd)
-   - Brian Chmiel, Ron Banner, Elad Hoffer, Hilla Ben-Yaacov, Daniel Soudry; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yudizczti8"></a>
-2. [Bit-Pruning: A Sparse Multiplication-Less Dot-Product](https://openreview.net/forum?id=YUDiZcZTI8)
-   - Yusuke Sekikawa, Shingo Yashima; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vwm4o4l3v9e"></a>
-3. [Block and Subword-Scaling Floating-Point (BSFP) : An Efficient Non-Uniform Quantization For Low Precision Inference](https://openreview.net/forum?id=VWm4o4l3V9e)
-   - Yun-Chen Lo, Tse-Kuang Lee, Ren-Shuo Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ymfhzxw70uz"></a>
-4. [Classically Approximating Variational Quantum Machine Learning with Random Fourier Features](https://openreview.net/forum?id=ymFhZxw70uz)
-   - Jonas Landman, Slimane Thabet, Constantin Dalyac, Hela Mhiri, Elham Kashefi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pdg4-y3abon"></a>
-5. [FIT: A Metric for Model Sensitivity](https://openreview.net/forum?id=PDG4-Y3aboN)
-   - Ben Zandonati, Adrian Alan Pol, Maurizio Pierini, Olya Sirkin, Tal Kopetz; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-tcbbpnfwxs"></a>
-6. [OPTQ: Accurate Quantization for Generative Pre-trained Transformers](https://openreview.net/forum?id=tcbBPnfwxS)
-   - Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-s1kljjpaukm"></a>
-7. [PowerQuant: Automorphism Search for Non-Uniform Quantization](https://openreview.net/forum?id=s1KljJpAukm)
-   - Edouard YVINEC, Arnaud Dapogny, Matthieu Cord, Kevin Bailly; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-isiq5kixbjj"></a>
-8. [QuAnt: Quantum Annealing with Learnt Couplings](https://openreview.net/forum?id=isiQ5KIXbjj)
-   - Marcel Seelbach Benkner, Maximilian Krahn, Edith Tretschk, Zorah Lähner, Michael Moeller, Vladislav Golyanik; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-k96aogldt2k"></a>
-9. [Symmetric Pruning in Quantum Neural Networks](https://openreview.net/forum?id=K96AogLDT2K)
-   - Xinbiao Wang, Junyu Liu, Tongliang Liu, Yong Luo, Yuxuan Du, Dacheng Tao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-z92lby1ehji"></a>
-10. [Winning Both the Accuracy of Floating Point Activation and the Simplicity of Integer Arithmetic](https://openreview.net/forum?id=z92lBy1ehjI)
-   - Yulhwa Kim, Jaeyong Jang, Jehun Lee, Jihoon Park, Jeonghoon Kim, Byeongwook Kim, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-h8t5dzwtz-z"></a>
+1. [Basic Binary Convolution Unit for Binarized Image Restoration Network](https://openreview.net/forum?id=h8T5dZWTZ-Z)
+   - Bin Xia, Yulun Zhang, Yitong Wang, Yapeng Tian, Wenming Yang, Radu Timofte, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pgtn4l6ekjv"></a>
+2. [DySR: Adaptive Super-Resolution via Algorithm and System Co-design](https://openreview.net/forum?id=Pgtn4l6eKjv)
+   - Syed Zawad, Cheng Li, Zhewei Yao, Elton Zheng, Yuxiong He, Feng Yan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5n0wtjz89r9"></a>
+3. [Embedding Fourier for Ultra-High-Definition Low-Light Image Enhancement](https://openreview.net/forum?id=5N0wtJZ89r9)
+   - Chongyi Li, Chun-Le Guo, man zhou, Zhexin Liang, Shangchen Zhou, Ruicheng Feng, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fg3myw8owg"></a>
+4. [Knowledge Distillation based Degradation Estimation for Blind Super-Resolution](https://openreview.net/forum?id=Fg3mYW8owg)
+   - Bin Xia, Yulun Zhang, Yitong Wang, Yapeng Tian, Wenming Yang, Radu Timofte, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-txpn6mtdse4"></a>
+5. [Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization](https://openreview.net/forum?id=TXPN6MtdSE4)
+   - Stamatios Lefkimmiatis, Iaroslav Sergeevich Koshelev; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-no0thzteqdi"></a>
+6. [NERDS: A General Framework to Train Camera Denoisers from Raw-RGB Noisy Image Pairs](https://openreview.net/forum?id=NO0ThzteQdI)
+   - Heewon Kim, Kyoung Mu Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pmp-sf3jkrh"></a>
+7. [Real-Time Image Demoir$\acute{e}$ing on Mobile Devices](https://openreview.net/forum?id=PmP_sf3JkrH)
+   - Yuxin Zhang, Mingbao Lin, Xunchao Li, Han Liu, Guozhi Wang, Fei Chao, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-op-cegueqc4"></a>
+8. [Scaling Laws For Deep Learning Based Image Reconstruction](https://openreview.net/forum?id=op-ceGueqc4)
+   - Tobit Klug, Reinhard Heckel; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tyz1chgziko"></a>
+9. [Selective Frequency Network for Image Restoration](https://openreview.net/forum?id=tyZ1ChGZIKO)
+   - Yuning Cui, Yi Tao, Zhenshan Bing, Wenqi Ren, Xinwei Gao, Xiaochun Cao, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mrieqgmtntq"></a>
+10. [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://openreview.net/forum?id=mRieQgMtNTQ)
+   - Yinhuai Wang, Jiwen Yu, Jian Zhang; assignment: `nearest_centroid`; source: `OpenReview`

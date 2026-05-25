@@ -1,74 +1,80 @@
-# ICLR 2021: language / fine-tuning / generation / contrastive
+# ICLR 2021: 语音/音频语言模型
 
 - Topic ID: `17`
-- Papers: **18** (2.09%)
-- Macro topic: 可信/安全/公平
-- English keywords: `language / fine-tuning / generation / contrastive`
-- Keyword pool: language; fine-tuning; generation; contrastive; bert; pretrained; natural; nlp; fine-tuned; dialogue; encoders; robustness
+- Papers: **20** (2.33%)
+- Macro topic: 3D/具身/机器人
+- English keywords: `video / compression / autoregressive / temporal`
+- Keyword pool: video; compression; autoregressive; temporal; convolution; action; point cloud; channel; time series; audio-visual; frames; counting
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning
-- Better Fine-Tuning by Reducing Representational Collapse
-- Variational Information Bottleneck for Effective Low-Resource Fine-Tuning
-- Contrastive Learning with Adversarial Perturbations for Conditional Text Generation
-- Learning from others' mistakes: Avoiding dataset biases without modeling them
+- Self-Supervised Learning of Compressed Video Representations
+- Hierarchical Autoregressive Modeling for Neural Video Compression
+- Support-set bottlenecks for video-text representation learning
+- Revisiting Hierarchical Approach for Persistent Long-Term Video Prediction
+- VA-RED$^2$: Video Adaptive Redundancy Reduction
 
 ## Papers
 
-<a id="paper-jwkw45-9abl"></a>
-1. [A Distributional Approach to Controlled Text Generation](https://openreview.net/forum?id=jWkw45-9AbL)
-   - Muhammad Khalifa, Hady Elsahar, Marc Dymetman; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oq08sn70m1v"></a>
-2. [Better Fine-Tuning by Reducing Representational Collapse](https://openreview.net/forum?id=OQ08SN70M1V)
-   - Armen Aghajanyan, Akshat Shrivastava, Anchit Gupta, Naman Goyal, Luke Zettlemoyer, Sonal Gupta; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-eom0iurf-f"></a>
-3. [CoCo: Controllable Counterfactuals for Evaluating Dialogue State Trackers](https://openreview.net/forum?id=eom0IUrF__F)
-   - SHIYANG LI, Semih Yavuz, Kazuma Hashimoto, Jia Li, Tong Niu, Nazneen Rajani, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-vd-ozqvby4w"></a>
-4. [CoCon: A Self-Supervised Approach for Controlled Text Generation](https://openreview.net/forum?id=VD_ozqvBy4W)
-   - Alvin Chan, Yew-Soon Ong, Bill Pung, Aston Zhang, Jie Fu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ozk9mrx1hva"></a>
-5. [CoDA: Contrast-enhanced and Diversity-promoting Data Augmentation for Natural Language Understanding](https://openreview.net/forum?id=Ozk9MrX1hvA)
-   - Yanru Qu, Dinghan Shen, Yelong Shen, Sandra Sajeev, Weizhu Chen, Jiawei Han; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wga-hrca3p3"></a>
-6. [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://openreview.net/forum?id=Wga_hrCa3P3)
-   - Seanie Lee, Dong Bok Lee, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n6jecd-pi5w"></a>
-7. [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)
-   - Pengyu Cheng, Weituo Hao, Siyang Yuan, Shijing Si, Lawrence Carin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hph98mk5puk"></a>
-8. [InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective](https://openreview.net/forum?id=hpH98mK5Puk)
-   - Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hf3qxoinkr"></a>
-9. [Learning from others' mistakes: Avoiding dataset biases without modeling them](https://openreview.net/forum?id=Hf3qXoiNkR)
-   - Victor Sanh, Thomas Wolf, Yonatan Belinkov, Alexander M Rush; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1octoshamqb"></a>
-10. [On the Dynamics of Training Attention Models](https://openreview.net/forum?id=1OCTOShAmqB)
-   - Haoye Lu, Yongyi Mao, Amiya Nayak; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nzplwnvayah"></a>
-11. [On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong Baselines](https://openreview.net/forum?id=nzpLWnVAyah)
-   - Marius Mosbach, Maksym Andriushchenko, Dietrich Klakow; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mntmhadkar"></a>
-12. [Predicting Inductive Biases of Pre-Trained Models](https://openreview.net/forum?id=mNtmhaDkAr)
-   - Charles Lovering, Rohan Jha, Tal Linzen, Ellie Pavlick; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-co1ih43yuf"></a>
-13. [Revisiting Few-sample BERT Fine-tuning](https://openreview.net/forum?id=cO1IH43yUF)
-   - Tianyi Zhang, Felix Wu, Arzoo Katiyar, Kilian Q Weinberger, Yoav Artzi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ov-smnau-pf"></a>
-14. [Semantic Re-tuning with Contrastive Tension](https://openreview.net/forum?id=Ov_sMNau-PF)
-   - Fredrik Carlsson, Amaru Cuba Gyllensten, Evangelia Gogoulou, Erik Ylipää Hellqvist, Magnus Sahlgren; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cu7iuiohujh"></a>
-15. [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://openreview.net/forum?id=cu7IUiOhujH)
-   - Beliz Gunel, Jingfei Du, Alexis Conneau, Veselin Stoyanov; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rovx-uq1hua"></a>
-16. [Text Generation by Learning from Demonstrations](https://openreview.net/forum?id=RovX-uQ1Hua)
-   - Richard Yuanzhe Pang, He He; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ks5nebunvn"></a>
-17. [Towards Robustness Against Natural Language Word Substitutions](https://openreview.net/forum?id=ks5nebunVn_)
-   - Xinshuai Dong, Anh Tuan Luu, Rongrong Ji, Hong Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kvhzkz-dmf"></a>
-18. [Variational Information Bottleneck for Effective Low-Resource Fine-Tuning](https://openreview.net/forum?id=kvhzKz-_DMF)
-   - Rabeeh Karimi mahabadi, Yonatan Belinkov, James Henderson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-omizhuea-hb"></a>
+1. [Active Contrastive Learning of Audio-Visual Video Representations](https://openreview.net/forum?id=OMizHuea_HB)
+   - Shuang Ma, Zhaoyang Zeng, Daniel McDuff, Yale Song; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bm3l3i-853"></a>
+2. [AdaFuse: Adaptive Temporal Fusion Network for Efficient Action Recognition](https://openreview.net/forum?id=bM3L3I_853)
+   - Yue Meng, Rameswar Panda, Chung-Ching Lin, Prasanna Sattigeri, Leonid Karlinsky, Kate Saenko, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tsrtzjnuebs"></a>
+3. [Anytime Sampling for Autoregressive Models via Ordered Autoencoding](https://openreview.net/forum?id=TSRTzJnuEBS)
+   - Yilun Xu, Yang Song, Sahaj Garg, Linyuan Gong, Rui Shu, Aditya Grover, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uoaquqremos"></a>
+4. [CT-Net: Channel Tensorization Network for Video Classification](https://openreview.net/forum?id=UoaQUQREMOs)
+   - Kunchang Li, Xianhang Li, Yali Wang, Jun Wang, Yu Qiao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-hwr3e3r-oh5"></a>
+5. [Cross-Attentional Audio-Visual Fusion for Weakly-Supervised Action Localization](https://openreview.net/forum?id=hWr3e3r-oH5)
+   - Jun-Tae Lee, Mihir Jain, Hyoungwoo Park, Sungrack Yun; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gz9hcdwe6ke"></a>
+6. [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://openreview.net/forum?id=gZ9hCDWe6ke)
+   - Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-tk-6nnb-c7q"></a>
+7. [Hierarchical Autoregressive Modeling for Neural Video Compression](https://openreview.net/forum?id=TK_6nNb_C7q)
+   - Ruihan Yang, Yibo Yang, Joseph Marino, Stephan Mandt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mazfq7bjif7"></a>
+8. [Hopper: Multi-hop Transformer for Spatiotemporal Reasoning](https://openreview.net/forum?id=MaZFq7bJif7)
+   - Honglu Zhou, Asim Kadav, Farley Lai, Alexandru Niculescu-Mizil, Martin Renqiang Min, Mubbasir Kapadia, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rja5pz7lhkb"></a>
+9. [Improved Autoregressive Modeling with Distribution Smoothing](https://openreview.net/forum?id=rJA5Pz7lHKb)
+   - Chenlin Meng, Jiaming Song, Yang Song, Shengjia Zhao, Stefano Ermon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ctbijyruvwj"></a>
+10. [Learning Accurate Entropy Model with Global Reference for Image Compression](https://openreview.net/forum?id=cTbIjyrUVwJ)
+   - Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8e6brwu6ajq"></a>
+11. [MoVie: Revisiting Modulated Convolutions for Visual Counting and Beyond](https://openreview.net/forum?id=8e6BrwU6AjQ)
+   - Duy Kien Nguyen, Vedanuj Goswami, Xinlei Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ofp8mx-v5fl"></a>
+12. [Overfitting for Fun and Profit: Instance-Adaptive Data Compression](https://openreview.net/forum?id=oFp8Mx_V5FL)
+   - Ties van Rozendaal, Iris AM Huijben, Taco Cohen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o3bqkf-puys"></a>
+13. [PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences](https://openreview.net/forum?id=O3bqkf_Puys)
+   - Hehe Fan, Xin Yu, Yuhang Ding, Yi Yang, Mohan Kankanhalli; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6udqlhqjyfd"></a>
+14. [Parameter Efficient Multimodal Transformers for Video Representation Learning](https://openreview.net/forum?id=6UdQLhqJyFD)
+   - Sangho Lee, Youngjae Yu, Gunhee Kim, Thomas Breuel, Jan Kautz, Yale Song; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3rln4epmdyd"></a>
+15. [Revisiting Hierarchical Approach for Persistent Long-Term Video Prediction](https://openreview.net/forum?id=3RLN4EPMdYd)
+   - Wonkwang Lee, Whie Jung, Han Zhang, Ting Chen, Jing Yu Koh, Thomas Huang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jmpcekjpdd"></a>
+16. [Self-Supervised Learning of Compressed Video Representations](https://openreview.net/forum?id=jMPcEkJpdD)
+   - Youngjae Yu, Sangho Lee, Gunhee Kim, Yale Song; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dx4b7lm8jmm"></a>
+17. [Seq2Tens: An Efficient Representation of Sequences by Low-Rank Tensor Projections](https://openreview.net/forum?id=dx4b7lm8jMM)
+   - Csaba Toth, Patric Bonnier, Harald Oberhauser; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-eqoxe2zmhrh"></a>
+18. [Support-set bottlenecks for video-text representation learning](https://openreview.net/forum?id=EqoXe2zmhrh)
+   - Mandela Patrick, Po-Yao Huang, Yuki Asano, Florian Metze, Alexander G Hauptmann, Joao F. Henriques, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8qdwejcucn"></a>
+19. [Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding](https://openreview.net/forum?id=8qDwejCuCN)
+   - Sana Tonekaboni, Danny Eytan, Anna Goldenberg; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-g21u6nlbpzn"></a>
+20. [VA-RED$^2$: Video Adaptive Redundancy Reduction](https://openreview.net/forum?id=g21u6nlbPzn)
+   - Bowen Pan, Rameswar Panda, Camilo Luciano Fosco, Chung-Ching Lin, Alex J Andonian, Yue Meng, et al.; assignment: `hdbscan`; source: `OpenReview`

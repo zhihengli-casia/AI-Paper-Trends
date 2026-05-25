@@ -1,50 +1,47 @@
-# ICLR 2022: topological / multiview / manifold / mechanisms
+# ICLR 2022: 对抗攻击、鲁棒性与安全
 
 - Topic ID: `51`
-- Papers: **10** (0.91%)
-- Macro topic: 生成模型
-- English keywords: `topological / multiview / manifold / mechanisms`
-- Keyword pool: topological; multiview; manifold; mechanisms; nonlinear; latent; identifiable; sources; variables; autoencoders; representation learning; identifiability
+- Papers: **9** (0.85%)
+- Macro topic: 可信/安全/公平
+- English keywords: `attacks / clean / triggers / poisoning`
+- Keyword pool: attacks; clean; triggers; poisoning; nlp; detection; adversarial; poisoned; defense; dnns; consistency; black-box
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Properties from mechanisms: an equivariance perspective on identifiable representation learning
-- Delaunay Component Analysis for Evaluation of Data Representations
-- Regularized Autoencoders for Isometric Representation Learning
-- Bundle Networks: Fiber Bundles, Local Trivializations, and a Generative Approach to Exploring Many-to-one Maps
-- Topologically Regularized Data Embeddings
+- Backdoor Defense via Decoupling the Training Process
+- Adversarial Unlearning of Backdoors via Implicit Hypergradient
+- AEVA: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis
+- Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios
+- How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data
 
 ## Papers
 
-<a id="paper-abxzcppoux"></a>
-1. [Bundle Networks: Fiber Bundles, Local Trivializations, and a Generative Approach to Exploring Many-to-one Maps](https://openreview.net/forum?id=aBXzcPPOuX)
-   - Nico Courts, Henry Kvinge; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-htvch9ampa"></a>
-2. [Delaunay Component Analysis for Evaluation of Data Representations](https://openreview.net/forum?id=HTVch9AMPa)
-   - Petra Poklukar, Vladislav Polianskii, Anastasiia Varava, Florian T. Pokorny, Danica Kragic Jensfelt; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0kpl3xo4r5"></a>
-3. [Fast topological clustering with Wasserstein distance](https://openreview.net/forum?id=0kPL3xO4R5)
-   - Tananun Songdechakraiwut, Bryan M Krause, Matthew I Banks, Kirill V Nourski, Barry D Van Veen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-6kcivaoqdx9"></a>
-4. [Few-shot Learning via Dirichlet Tessellation Ensemble](https://openreview.net/forum?id=6kCiVaoQdx9)
-   - Chunwei Ma, Ziyun Huang, Mingchen Gao, Jinhui Xu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kntanro6r48"></a>
-5. [L0-Sparse Canonical Correlation Analysis](https://openreview.net/forum?id=KntaNRo6R48)
-   - Ofir Lindenbaum, Moshe Salhov, Amir Averbuch, Yuval Kluger; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ampki9kp8cn"></a>
-6. [Nonlinear ICA Using Volume-Preserving Transformations](https://openreview.net/forum?id=AMpki9kp8Cn)
-   - Xiaojiang Yang, Yi Wang, Jiacheng Sun, Xing Zhang, Shifeng Zhang, Zhenguo Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-g5ynw-jmq4m"></a>
-7. [Properties from mechanisms: an equivariance perspective on identifiable representation learning](https://openreview.net/forum?id=g5ynW-jMq4M)
-   - Kartik Ahuja, Jason Hartford, Yoshua Bengio; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mqxt8l7jl04"></a>
-8. [Regularized Autoencoders for Isometric Representation Learning](https://openreview.net/forum?id=mQxt8l7JL04)
-   - Yonghyeon Lee, Sangwoong Yoon, MinJun Son, Frank C. Park; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p1quvhotefp"></a>
-9. [Topologically Regularized Data Embeddings](https://openreview.net/forum?id=P1QUVhOtEFP)
-   - Robin Vandaele, Bo Kang, Jefrey Lijffijt, Tijl De Bie, Yvan Saeys; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5fuq05qrc5b"></a>
-10. [Understanding Latent Correlation-Based Multiview Learning and Self-Supervision: An Identifiability Perspective](https://openreview.net/forum?id=5FUq05QRc5b)
-   - Qi Lyu, Xiao Fu, Weiran Wang, Songtao Lu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-om-lyihxicl"></a>
+1. [AEVA: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis](https://openreview.net/forum?id=OM_lYiHXiCL)
+   - Junfeng Guo, Ang Li, Cong Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-meeqkfyvbzw"></a>
+2. [Adversarial Unlearning of Backdoors via Implicit Hypergradient](https://openreview.net/forum?id=MeeQkFYVbzW)
+   - Yi Zeng, Si Chen, Won Park, Zhuoqing Mao, Ming Jin, Ruoxi Jia; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tysnj-0rdki"></a>
+3. [Backdoor Defense via Decoupling the Training Process](https://openreview.net/forum?id=TySnJ-0RdKI)
+   - Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, Kui Ren; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mng8cq9ebw"></a>
+4. [BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models](https://openreview.net/forum?id=Mng8CQ9eBW)
+   - Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qsv5cusak-a"></a>
+5. [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/forum?id=qSV5CuSaK_a)
+   - Yiming Li, Haoxiang Zhong, Xingjun Ma, Yong Jiang, Shu-Tao Xia; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bn09tndngn"></a>
+6. [How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data](https://openreview.net/forum?id=Bn09TnDngN)
+   - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ic4uhbq01mp"></a>
+7. [Poisoning and Backdooring Contrastive Learning](https://openreview.net/forum?id=iC4UHbQ01Mp)
+   - Nicholas Carlini, Andreas Terzis; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-msgb8d4hy51"></a>
+8. [Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios](https://openreview.net/forum?id=MSgB8D4Hy51)
+   - Zhen Xiang, David Miller, George Kesidis; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-txsju8baibt"></a>
+9. [Trigger Hunting with a Topological Prior for Trojan Detection](https://openreview.net/forum?id=TXsjU8BaibT)
+   - Xiaoling Hu, Xiao Lin, Michael Cogswell, Yi Yao, Susmit Jha, Chao Chen; assignment: `hdbscan`; source: `OpenReview`

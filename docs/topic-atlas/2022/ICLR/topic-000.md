@@ -1,134 +1,182 @@
-# ICLR 2022: augmentation / differentiable / sorting / optimizers
+# ICLR 2022: contrastive / self-supervised / ssl / label
 
 - Topic ID: `0`
-- Papers: **38** (3.47%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `augmentation / differentiable / sorting / optimizers`
-- Keyword pool: augmentation; differentiable; sorting; optimizers; dag; auc; hyperparameter; pareto; combinatorial optimization; tensor; augmented; tiny
+- Papers: **54** (5.09%)
+- Macro topic: 理论/优化
+- English keywords: `contrastive / self-supervised / ssl / label`
+- Keyword pool: contrastive; self-supervised; ssl; label; classes; pre-training; noise; collapse; samples; distillation; negative; semi-supervised
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Memory Augmented Optimizers for Deep Learning
-- Optimizer Amalgamation
-- Scalable One-Pass Optimisation of High-Dimensional Weight-Update Hyperparameters by Implicit Differentiation
-- $\pi$BO: Augmenting Acquisition Functions with User Beliefs for Bayesian Optimization
-- Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach
+- Self-supervised Learning is More Robust to Dataset Imbalance
+- Self-Joint Supervised Learning
+- The Close Relationship Between Contrastive Learning and Meta-Learning
+- How unlabeled data improve generalization in self-training? A one-hidden-layer theoretical analysis
+- Zero-CL: Instance and Feature decorrelation for negative-free symmetric contrastive learning
 
 ## Papers
 
-<a id="paper-mmaecxia89"></a>
-1. [$\pi$BO: Augmenting Acquisition Functions with User Beliefs for Bayesian Optimization](https://openreview.net/forum?id=MMAeCXIa89)
-   - Carl Hvarfner, Danny Stoll, Artur Souza, Marius Lindauer, Frank Hutter, Luigi Nardi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zzk231ms1ih"></a>
-2. [A Theory of Tournament Representations](https://openreview.net/forum?id=zzk231Ms1Ih)
-   - Arun Rajkumar, Vishnu Veerathu, Abdul Bakey Mir; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rwxffogxrjn"></a>
-3. [AdaAug: Learning Class- and Instance-adaptive Data Augmentation Policies](https://openreview.net/forum?id=rWXfFogxRJN)
-   - Tsz-Him Cheung, Dit-Yan Yeung; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-imqtlyfwnoo"></a>
-4. [Augmented Sliced Wasserstein Distances](https://openreview.net/forum?id=iMqTLyfwnOO)
-   - Xiongjie Chen, Yongxin Yang, Yunpeng Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hsktdu-h94"></a>
-5. [Automatic Loss Function Search for Predict-Then-Optimize Problems with Strong Ranking Property](https://openreview.net/forum?id=hSktDu-h94)
-   - Boshi Wang, Jialin Yi, Hang Dong, Bo Qiao, Chuan Luo, Qingwei Lin; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-evvadrfrgl7"></a>
-6. [Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How](https://openreview.net/forum?id=EVVadRFRgL7)
-   - Yuning You, Yue Cao, Tianlong Chen, Zhangyang Wang, Yang Shen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6iyp-35l-xj"></a>
-7. [CADDA: Class-wise Automatic Differentiable Data Augmentation for EEG Signals](https://openreview.net/forum?id=6IYp-35L-xJ)
-   - Cédric Rommel, Thomas Moreau, Joseph Paillard, Alexandre Gramfort; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-y1pxylgrxz"></a>
-8. [Certified Robustness for Deep Equilibrium Models via Interval Bound Propagation](https://openreview.net/forum?id=y1PXylgrXZ)
-   - Colin Wei, J Zico Kolter; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-l-amhf1oak"></a>
-9. [Complete Verification via Multi-Neuron Relaxation Guided Branch-and-Bound](https://openreview.net/forum?id=l_amHf1oaK)
-   - Claudio Ferrari, Mark Niklas Mueller, Nikola Jovanović, Martin Vechev; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-gpvb4pdu-z"></a>
-10. [Compositional Training for End-to-End Deep AUC Maximization](https://openreview.net/forum?id=gPvB4pdu_Z)
-   - Zhuoning Yuan, Zhishuai Guo, Nitesh Chawla, Tianbao Yang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-bvvmotlmiw"></a>
-11. [DIVA: Dataset Derivative of a Learning Task](https://openreview.net/forum?id=bVvMOtLMiw)
-   - Yonatan Dukler, Alessandro Achille, Giovanni Paolini, Avinash Ravichandran, Marzia Polito, Stefano Soatto; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-st-53j9zarf"></a>
-12. [Deep AutoAugment](https://openreview.net/forum?id=St-53J9ZARf)
-   - Yu Zheng, Zhi Zhang, Shen Yan, Mi Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9woqogne-w"></a>
-13. [Differentiable DAG Sampling](https://openreview.net/forum?id=9wOQOgNe-w)
-   - Bertrand Charpentier, Simon Kibler, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n0oetdnrg0q"></a>
-14. [Efficient Sharpness-aware Minimization for Improved Training of Neural Networks](https://openreview.net/forum?id=n0OeTdNRG0Q)
-   - Jiawei Du, Hanshu Yan, Jiashi Feng, Joey Tianyi Zhou, Liangli Zhen, Rick Siow Mong Goh, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-oapksvm2bcj"></a>
-15. [Einops: Clear and Reliable Tensor Manipulations with Einstein-like Notation](https://openreview.net/forum?id=oapKSVM2bcj)
-   - Alex Rogozhnikov; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zq2g-vtv53t"></a>
-16. [FastSHAP: Real-Time Shapley Value Estimation](https://openreview.net/forum?id=Zq2G_VTV53T)
-   - Neil Jethani, Mukund Sudarshan, Ian Connick Covert, Su-In Lee, Rajesh Ranganath; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ypsxqy-re84"></a>
-17. [How Low Can We Go: Trading Memory for Error in Low-Precision Training](https://openreview.net/forum?id=YpSxqy_RE84)
-   - Chengrun Yang, Ziyang Wu, Jerry Chee, Christopher De Sa, Madeleine Udell; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-to-r742x7se"></a>
-18. [Learning Distributionally Robust Models at Scale via Composite Optimization](https://openreview.net/forum?id=To-R742x7se)
-   - Farzin Haddadpour, Mohammad Mahdi Kamani, Mehrdad Mahdavi, amin karbasi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-v8olxjgn23s"></a>
-19. [Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach](https://openreview.net/forum?id=v8OlxjGn23S)
-   - Rafid Mahmood, Sanja Fidler, Marc T Law; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nrx9qz6yqt"></a>
-20. [Memory Augmented Optimizers for Deep Learning](https://openreview.net/forum?id=NRX9QZ6yqt)
-   - Paul-Aymeric Martin McRae, Prasanna Parthasarathi, Mido Assran, Sarath Chandar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-icuwshptd7d"></a>
-21. [Monotonic Differentiable Sorting Networks](https://openreview.net/forum?id=IcUWShptD7d)
-   - Felix Petersen, Christian Borgelt, Hilde Kuehne, Oliver Deussen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-flwzvjfmryn"></a>
-22. [Multi-objective Optimization by Learning Space Partition](https://openreview.net/forum?id=FlwzVjfMryn)
-   - Yiyang Zhao, Linnan Wang, Kevin Yang, Tianjun Zhang, Tian Guo, Yuandong Tian; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tyw3-olrrm"></a>
-23. [Network Augmentation for Tiny Deep Learning](https://openreview.net/forum?id=TYw3-OlrRm-)
-   - Han Cai, Chuang Gan, Ji Lin, Song Han; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sspctey6ycl"></a>
-24. [On the Uncomputability of Partition Functions in Energy-Based Sequence Models](https://openreview.net/forum?id=SsPCtEY6yCl)
-   - Chu-Cheng Lin, Arya D. McCarthy; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dsqhjibtgkr"></a>
-25. [Online Facility Location with Predictions](https://openreview.net/forum?id=DSQHjibtgKR)
-   - Shaofeng H.-C. Jiang, Erzhi Liu, You Lyu, Zhihao Gavin Tang, Yubo Zhang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-01amrlen9wj"></a>
-26. [Online Hyperparameter Meta-Learning with Hypergradient Distillation](https://openreview.net/forum?id=01AMRlen9wJ)
-   - Hae Beom Lee, Hayeon Lee, JaeWoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nbc8ittxirk"></a>
-27. [Optimization inspired Multi-Branch Equilibrium Models](https://openreview.net/forum?id=nbC8iTTXIrk)
-   - Mingjie Li, Yisen Wang, Xingyu Xie, Zhouchen Lin; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-vqzxza9hjax"></a>
-28. [Optimizer Amalgamation](https://openreview.net/forum?id=VqzXzA9hjaX)
-   - Tianshu Huang, Tianlong Chen, Sijia Liu, Shiyu Chang, Lisa Amini, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-j-2xnmvcy4"></a>
-29. [Optimizing Neural Networks with Gradient Lexicase Selection](https://openreview.net/forum?id=J_2xNmVcY4)
-   - Li Ding, Lee Spector; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-quobt9btwo"></a>
-30. [Pareto Set Learning for Neural Multi-Objective Combinatorial Optimization](https://openreview.net/forum?id=QuObT9BTWo)
-   - Xi Lin, Zhiyuan Yang, Qingfu Zhang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-dzpgfwataxv"></a>
-31. [Relational Surrogate Loss Learning](https://openreview.net/forum?id=dZPgfwaTaXv)
-   - Tao Huang, Zekang Li, Hua Lu, Yong Shan, Shusheng Yang, Yang Feng, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nybmjn4myz"></a>
-32. [Safe Neurosymbolic Learning with Differentiable Symbolic Execution](https://openreview.net/forum?id=NYBmJN4MyZ)
-   - Chenxi Yang, Swarat Chaudhuri; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hfu7ka5cfrc"></a>
-33. [Scalable One-Pass Optimisation of High-Dimensional Weight-Update Hyperparameters by Implicit Differentiation](https://openreview.net/forum?id=hfU7Ka5cfrC)
-   - Ross M Clarke, Elre Talea Oldewage, José Miguel Hernández-Lobato; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ef0ninzhkic"></a>
-34. [Symbolic Learning to Optimize: Towards Interpretability and Scalability](https://openreview.net/forum?id=ef0nInZHKIC)
-   - Wenqing Zheng, Tianlong Chen, Ting-Kuei Hu, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1hxto6ctkz"></a>
-35. [Unifying Likelihood-free Inference with Black-box Optimization and Beyond](https://openreview.net/forum?id=1HxTO6CTkz)
-   - Dinghuai Zhang, Jie Fu, Yoshua Bengio, Aaron Courville; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ucx3dqbc9gh"></a>
-36. [What Makes Better Augmentation Strategies? Augment Difficult but Not too Different](https://openreview.net/forum?id=Ucx3DQbC9GH)
-   - Jaehyung Kim, Dongyeop Kang, Sungsoo Ahn, Jinwoo Shin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mk0hzdqy7i1"></a>
-37. [What’s Wrong with Deep Learning in Tree Search for Combinatorial Optimization](https://openreview.net/forum?id=mk0HzdqY7i1)
-   - Maximilian Böther, Otto Kißig, Martin Taraz, Sarel Cohen, Karen Seidel, Tobias Friedrich; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-9zpegfuftfv"></a>
-38. [miniF2F: a cross-system benchmark for formal Olympiad-level mathematics](https://openreview.net/forum?id=9ZPegFuFTFv)
-   - Kunhao Zheng, Jesse Michael Han, Stanislas Polu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ech2fkaarup"></a>
+1. [An Information Fusion Approach to Learning with Instance-Dependent Label Noise](https://openreview.net/forum?id=ecH2FKaARUp)
+   - Zhimeng Jiang, Kaixiong Zhou, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ebs-3yiail"></a>
+2. [Analyzing and Improving the Optimization Landscape of Noise-Contrastive Estimation](https://openreview.net/forum?id=eBS-3YiaIL-)
+   - Bingbin Liu, Elan Rosenfeld, Pradeep Kumar Ravikumar, Andrej Risteski; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hszzbt46bt"></a>
+3. [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT)
+   - Tom Shenkar, Lior Wolf; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-avgclfz221l"></a>
+4. [Asymmetry Learning for Counterfactually-invariant Classification in OOD Tasks](https://openreview.net/forum?id=avgclFZ221l)
+   - S Chandra Mouli, Bruno Ribeiro; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n0ujgwdw21d"></a>
+5. [Bag of Instances Aggregation Boosts Self-supervised Distillation](https://openreview.net/forum?id=N0uJGWDw21d)
+   - Haohang Xu, Jiemin Fang, XIAOPENG ZHANG, Lingxi Xie, Xinggang Wang, Wenrui Dai, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-iog0djadbhj"></a>
+6. [Better Supervisory Signals by Observing Learning Paths](https://openreview.net/forum?id=Iog0djAdbHj)
+   - Yi Ren, Shangmin Guo, Danica J. Sutherland; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ecvgmyvyeuz"></a>
+7. [Chaos is a Ladder: A New Theoretical Understanding of Contrastive Learning via Augmentation Overlap](https://openreview.net/forum?id=ECvgmYVyeUz)
+   - Yifei Wang, Qi Zhang, Yisen Wang, Jiansheng Yang, Zhouchen Lin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hbtfcx2plq0"></a>
+8. [Churn Reduction via Distillation](https://openreview.net/forum?id=HbtFCX2PLq0)
+   - Heinrich Jiang, Harikrishna Narasimhan, Dara Bahri, Andrew Cotter, Afshin Rostamizadeh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-aajlbogt0xm"></a>
+9. [Conditional Contrastive Learning with Kernel](https://openreview.net/forum?id=AAJLBoGt0XM)
+   - Yao-Hung Hubert Tsai, Tianqin Li, Martin Q. Ma, Han Zhao, Kun Zhang, Louis-Philippe Morency, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dijcrlsu6z"></a>
+10. [Controlling Directions Orthogonal to a Classifier](https://openreview.net/forum?id=DIjCrlsu6Z)
+   - Yilun Xu, Hao He, Tianxiao Shen, Tommi S. Jaakkola; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-m8ujvvgwrci"></a>
+11. [Creating Training Sets via Weak Indirect Supervision](https://openreview.net/forum?id=m8uJvVgwRci)
+   - Jieyu Zhang, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mxdfbmht4c"></a>
+12. [Differentiable Expectation-Maximization for Set Representation Learning](https://openreview.net/forum?id=MXdFBmHT4C)
+   - Minyoung Kim; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-kj0-45y4r9i"></a>
+13. [Discriminative Similarity for Data Clustering](https://openreview.net/forum?id=kj0_45Y4r9i)
+   - Yingzhen Yang, Ping Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fn7i-r5rr0q"></a>
+14. [Do deep networks transfer invariances across classes?](https://openreview.net/forum?id=Fn7i_r5rR0q)
+   - Allan Zhou, Fahim Tajwar, Alexander Robey, Tom Knowles, George J. Pappas, Hamed Hassani, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gklaafiyti"></a>
+15. [Equivariant Self-Supervised Learning: Encouraging Equivariance in Representations](https://openreview.net/forum?id=gKLAAfiytI)
+   - Rumen Dangovski, Li Jing, Charlotte Loh, Seungwook Han, Akash Srivastava, Brian Cheung, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qqdxhugec9h"></a>
+16. [Exploiting Class Activation Value for Partial-Label Learning](https://openreview.net/forum?id=qqdXHUGec9h)
+   - Fei Zhang, Lei Feng, Bo Han, Tongliang Liu, Gang Niu, Tao Qin, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tbiqevapzk5"></a>
+17. [Feature Kernel Distillation](https://openreview.net/forum?id=tBIQEvApZK5)
+   - Bobby He, Mete Ozay; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bwq6o4cwdl"></a>
+18. [How Does SimSiam Avoid Collapse Without Negative Samples? A Unified Understanding with Self-supervised Contrastive Learning](https://openreview.net/forum?id=bwq6O4Cwdl)
+   - Chaoning Zhang, Kang Zhang, Chenshuang Zhang, Trung X. Pham, Chang D. Yoo, In So Kweon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ewqex5ipbou"></a>
+19. [How Well Does Self-Supervised Pre-Training Perform with Streaming Data?](https://openreview.net/forum?id=EwqEx5ipbOu)
+   - Dapeng Hu, Shipeng Yan, Qizhengqiu Lu, Lanqing HONG, Hailin Hu, Yifan Zhang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-qimxbif4nfb"></a>
+20. [How unlabeled data improve generalization in self-training? A one-hidden-layer theoretical analysis](https://openreview.net/forum?id=qiMXBIf4NfB)
+   - Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-j-phjw4gvxj"></a>
+21. [Improving the Accuracy of Learning Example Weights for Imbalance Classification](https://openreview.net/forum?id=J_PHjw4gvXJ)
+   - Yuqi Liu, Bin Cao, Jing Fan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ddjskka5tp1"></a>
+22. [Incremental False Negative Detection for Contrastive Learning](https://openreview.net/forum?id=dDjSKKA5TP1)
+   - Tsai-Shien Chen, Wei-Chih Hung, Hung-Yu Tseng, Shao-Yi Chien, Ming-Hsuan Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-e4exdwxnsn"></a>
+23. [Invariant Causal Representation Learning for Out-of-Distribution Generalization](https://openreview.net/forum?id=-e4EXDWXnSn)
+   - Chaochao Lu, Yuhuai Wu, José Miguel Hernández-Lobato, Bernhard Schölkopf; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hqkhcfhoekd"></a>
+24. [Learning Towards The Largest Margins](https://openreview.net/forum?id=hqkhcFHOeKD)
+   - Xiong Zhou, Xianming Liu, Deming Zhai, Junjun Jiang, Xin Gao, Xiangyang Ji; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mswefaztwke"></a>
+25. [Learning Weakly-supervised Contrastive Representations](https://openreview.net/forum?id=MSwEFaztwkE)
+   - Yao-Hung Hubert Tsai, Tianqin Li, Weixin Liu, Peiyuan Liao, Ruslan Salakhutdinov, Louis-Philippe Morency; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tbwa6pljzqm"></a>
+26. [Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations](https://openreview.net/forum?id=TBWA6PLJZQm)
+   - Jiaheng Wei, Zhaowei Zhu, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-x8clthexyyy"></a>
+27. [Learning-Augmented $k$-means Clustering](https://openreview.net/forum?id=X8cLTHexYyY)
+   - Jon C. Ergun, Zhili Feng, Sandeep Silwal, David Woodruff, Samson Zhou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mepkglsy8f"></a>
+28. [Meta Discovery: Learning to Discover Novel Classes given Very Limited Data](https://openreview.net/forum?id=MEpKGLsY8f)
+   - Haoang Chi, Feng Liu, Wenjing Yang, Long Lan, Tongliang Liu, Bo Han, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6yvvwr9h9oj"></a>
+29. [On Non-Random Missing Labels in Semi-Supervised Learning](https://openreview.net/forum?id=6yVvwR9H9Oj)
+   - Xinting Hu, Yulei Niu, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o-r8lor-cca"></a>
+30. [Open-World Semi-Supervised Learning](https://openreview.net/forum?id=O-r8LOR-CCA)
+   - Kaidi Cao, Maria Brbic, Jure Leskovec; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-t98k9epqqpn"></a>
+31. [Optimal Transport for Long-Tailed Recognition with Learnable Cost Matrix](https://openreview.net/forum?id=t98k9ePQQpn)
+   - Hanyu Peng, Mingming Sun, Ping Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-12ror2o32t"></a>
+32. [Out-of-distribution Generalization in the Presence of Nuisance-Induced Spurious Correlations](https://openreview.net/forum?id=12RoR2o32T)
+   - Aahlad Manas Puli, Lily H Zhang, Eric Karl Oermann, Rajesh Ranganath; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ehyjzy6e1gj"></a>
+33. [PiCO: Contrastive Label Disambiguation for Partial Label Learning](https://openreview.net/forum?id=EhYjZy6e1gJ)
+   - Haobo Wang, Ruixuan Xiao, Yixuan Li, Lei Feng, Gang Niu, Gang Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8la28hzowug"></a>
+34. [Prototypical Contrastive Predictive Coding](https://openreview.net/forum?id=8la28hZOwug)
+   - Kyungmin Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6q52pz-th7n"></a>
+35. [Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization](https://openreview.net/forum?id=6Q52pZ-Th7N)
+   - Can Wang, Sheng Jin, Yingda Guan, Wentao Liu, Chen Qian, Ping Luo, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-eskfh0bwnvn"></a>
+36. [Resolving Training Biases via Influence-based Data Relabeling](https://openreview.net/forum?id=EskfH0bwNVn)
+   - Shuming Kong, Yanyan Shen, Linpeng Huang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ayaa-xhkyk"></a>
+37. [Rethinking Class-Prior Estimation for Positive-Unlabeled Learning](https://openreview.net/forum?id=aYAA-XHKyk)
+   - Yu Yao, Tongliang Liu, Bo Han, Mingming Gong, Gang Niu, Masashi Sugiyama, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jjcv9mtqhcq"></a>
+38. [Rethinking Supervised Pre-Training for Better Downstream Transferring](https://openreview.net/forum?id=Jjcv9MTqhcq)
+   - Yutong Feng, Jianwen Jiang, Mingqian Tang, Rong Jin, Yue Gao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-tbpg4pnxhyh"></a>
+39. [SPIRAL: Self-supervised Perturbation-Invariant Representation Learning for Speech Pre-Training](https://openreview.net/forum?id=TBpg4PnXhYH)
+   - Wenyong Huang, Zhenhe Zhang, Yu Ting Yeung, Xin Jiang, Qun Liu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xenf4qul4lw"></a>
+40. [Sample Selection with Uncertainty of Losses for Learning with Noisy Labels](https://openreview.net/forum?id=xENf4QUL4LW)
+   - Xiaobo Xia, Tongliang Liu, Bo Han, Mingming Gong, Jun Yu, Gang Niu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-cuv-qykmkb3"></a>
+41. [Scarf: Self-Supervised Contrastive Learning using Random Feature Corruption](https://openreview.net/forum?id=CuV_qYkmKb3)
+   - Dara Bahri, Heinrich Jiang, Yi Tay, Donald Metzler; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zuqcmnvk4c2"></a>
+42. [Self-Joint Supervised Learning](https://openreview.net/forum?id=zuqcmNVK4c2)
+   - Navid Kardan, Mubarak Shah, Mitch Hill; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-odfvtxzpox"></a>
+43. [Self-Supervision Enhanced Feature Selection with Correlated Gates](https://openreview.net/forum?id=oDFvtxzPOx)
+   - Changhee Lee, Fergus Imrie, Mihaela van der Schaar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4azz9osqrar"></a>
+44. [Self-supervised Learning is More Robust to Dataset Imbalance](https://openreview.net/forum?id=4AZz9osqrar)
+   - Hong Liu, Jeff Z. HaoChen, Adrien Gaidon, Tengyu Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gicys3itsmj"></a>
+45. [The Close Relationship Between Contrastive Learning and Meta-Learning](https://openreview.net/forum?id=gICys3ITSmj)
+   - Renkun Ni, Manli Shu, Hossein Souri, Micah Goldblum, Tom Goldstein; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dxpftn5kjqk"></a>
+46. [The Rich Get Richer: Disparate Impact of Semi-Supervised Learning](https://openreview.net/forum?id=DXPftn5kjQK)
+   - Zhaowei Zhu, Tianyi Luo, Yang Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wqobaaphs"></a>
+47. [Top-label calibration and multiclass-to-binary reductions](https://openreview.net/forum?id=WqoBaaPHS-)
+   - Chirag Gupta, Aaditya Ramdas; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-yevsq05den7"></a>
+48. [Understanding Dimensional Collapse in Contrastive Self-supervised Learning](https://openreview.net/forum?id=YevsQ05DEN7)
+   - Li Jing, Pascal Vincent, Yann LeCun, Yuandong Tian; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5fuq05qrc5b"></a>
+49. [Understanding Latent Correlation-Based Multiview Learning and Self-Supervision: An Identifiability Perspective](https://openreview.net/forum?id=5FUq05QRc5b)
+   - Qi Lyu, Xiao Fu, Weiran Wang, Songtao Lu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-yppinigtzmt"></a>
+50. [Universalizing Weak Supervision](https://openreview.net/forum?id=YpPiNigTzMT)
+   - Changho Shin, Winfred Li, Harit Vishwakarma, Nicholas Carl Roberts, Frederic Sala; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xm6yd62d1ub"></a>
+51. [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://openreview.net/forum?id=xm6YD62D1Ub)
+   - Adrien Bardes, Jean Ponce, Yann LeCun; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nh29920yemj"></a>
+52. [Who Is Your Right Mixup Partner in Positive and Unlabeled Learning](https://openreview.net/forum?id=NH29920YEmj)
+   - Changchun Li, Ximing Li, Lei Feng, Jihong Ouyang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-raw9tcdvxlj"></a>
+53. [Zero-CL: Instance and Feature decorrelation for negative-free symmetric contrastive learning](https://openreview.net/forum?id=RAW9tCdVxLj)
+   - Shaofeng Zhang, Feng Zhu, Junchi Yan, Rui Zhao, Xiaokang Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mshnjpabuze"></a>
+54. [iFlood: A Stable and Effective Regularizer](https://openreview.net/forum?id=MsHnJPaBUZE)
+   - Yuexiang Xie, Zhen WANG, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding; assignment: `nearest_centroid`; source: `OpenReview`

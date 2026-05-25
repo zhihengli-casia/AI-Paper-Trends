@@ -1,62 +1,56 @@
-# ICLR 2022: 对抗攻击、鲁棒性与安全
+# ICLR 2022: 图神经网络与图表示学习
 
 - Topic ID: `39`
-- Papers: **14** (1.28%)
-- Macro topic: 计算机视觉
-- English keywords: `vits / vision / tokens / transformers`
-- Keyword pool: vits; vision; tokens; transformers; image; adversarial; pre-training; compression; cnns; self-attention; architecture; scaling
+- Papers: **12** (1.13%)
+- Macro topic: 图学习/数据挖掘
+- English keywords: `graph / reasoning / queries / logical`
+- Keyword pool: graph; reasoning; queries; logical; programs; language; relational; answering; kgs; gnn; rules; pre-training
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations
-- On Improving Adversarial Transferability of Vision Transformers
-- Discrete Representations Strengthen Vision Transformer Robustness
-- Auto-scaling Vision Transformers without Training
-- Anti-Oversmoothing in Deep Vision Transformers via the Fourier Domain Analysis: From Theory to Practice
+- Neural Methods for Logical Reasoning over Knowledge Graphs
+- Query Embedding on Hyper-Relational Knowledge Graphs
+- CodeTrek: Flexible Modeling of Code using an Extensible Relational Representation
+- NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs
+- Explainable GNN-Based Models over Knowledge Graphs
 
 ## Papers
 
-<a id="paper-o476owminnp"></a>
-1. [Anti-Oversmoothing in Deep Vision Transformers via the Fourier Domain Analysis: From Theory to Practice](https://openreview.net/forum?id=O476oWmiNNp)
-   - Peihao Wang, Wenqing Zheng, Tianlong Chen, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h94a1-pyr-6"></a>
-2. [Auto-scaling Vision Transformers without Training](https://openreview.net/forum?id=H94a1_Pyr-6)
-   - Wuyang Chen, Wei Huang, Xianzhi Du, Xiaodan Song, Zhangyang Wang, Denny Zhou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p-bhzsz59o4"></a>
-3. [BEiT: BERT Pre-Training of Image Transformers](https://openreview.net/forum?id=p-BhZSz59o4)
-   - Hangbo Bao, Li Dong, Songhao Piao, Furu Wei; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8hws60azcwk"></a>
-4. [Discrete Representations Strengthen Vision Transformer Robustness](https://openreview.net/forum?id=8hWs60AZcWk)
-   - Chengzhi Mao, Lu Jiang, Mostafa Dehghani, Carl Vondrick, Rahul Sukthankar, Irfan Essa; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-f9mhpaguymn"></a>
-5. [Dynamic Token Normalization improves Vision Transformers](https://openreview.net/forum?id=f9MHpAGUyMn)
-   - Wenqi Shao, Yixiao Ge, Zhaoyang Zhang, XUYUAN XU, Xiaogang Wang, Ying Shan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-v3c8p78sda"></a>
-6. [Exploring the Limits of Large Scale Pre-training](https://openreview.net/forum?id=V3C8p78sDa)
-   - Samira Abnar, Mostafa Dehghani, Behnam Neyshabur, Hanie Sedghi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-qaw16njk6l"></a>
-7. [NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training](https://openreview.net/forum?id=Qaw16njk6L)
-   - Chengyue Gong, Dilin Wang, Meng Li, Xinlei Chen, Zhicheng Yan, Yuandong Tian, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-d6nh3719vzy"></a>
-8. [On Improving Adversarial Transferability of Vision Transformers](https://openreview.net/forum?id=D6nH3719vZy)
-   - Muzammal Naseer, Kanchana Ranasinghe, Salman Khan, Fahad Khan, Fatih Porikli; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-28ib9tf6zhr"></a>
-9. [Patch-Fool: Are Vision Transformers Always Robust Against Adversarial Perturbations?](https://openreview.net/forum?id=28ib9tf6zhr)
-   - Yonggan Fu, Shunyao Zhang, Shang Wu, Cheng Wan, Yingyan Lin; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-idwn6xjhnk8"></a>
-10. [Transformer-based Transform Coding](https://openreview.net/forum?id=IDwN6xjHnK8)
-   - Yinhao Zhu, Yang Yang, Taco Cohen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-9jsziugkczp"></a>
-11. [Unified Visual Transformer Compression](https://openreview.net/forum?id=9jsZiUgkCZP)
-   - Shixing Yu, Tianlong Chen, Jiayi Shen, Huan Yuan, Jianchao Tan, Sen Yang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pfnyexj7z2"></a>
-12. [Vector-quantized Image Modeling with Improved VQGAN](https://openreview.net/forum?id=pfNyExj7z2)
-   - Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dwg5rxg1ws"></a>
-13. [ViTGAN: Training GANs with Vision Transformers](https://openreview.net/forum?id=dwg5rXg1WS_)
-   - Kwonjoon Lee, Huiwen Chang, Lu Jiang, Han Zhang, Zhuowen Tu, Ce Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ltkcmggoelt"></a>
-14. [When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations](https://openreview.net/forum?id=LtKcMgGOeLt)
-   - Xiangning Chen, Cho-Jui Hsieh, Boqing Gong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wqc075jmbmf"></a>
+1. [CodeTrek: Flexible Modeling of Code using an Extensible Relational Representation](https://openreview.net/forum?id=WQc075jmBmf)
+   - Pardis Pashakhanloo, Aaditya Naik, Yuepeng Wang, Hanjun Dai, Petros Maniatis, Mayur Naik; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-crcvgnhairz"></a>
+2. [Explainable GNN-Based Models over Knowledge Graphs](https://openreview.net/forum?id=CrCvGNHAIrz)
+   - David Jaime Tena Cucala, Bernardo Cuenca Grau, Egor V. Kostylev, Boris Motik; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hzmq4wonsb"></a>
+3. [GNN is a Counter? Revisiting GNN for Question Answering](https://openreview.net/forum?id=hzmQ4wOnSb)
+   - Kuan Wang, Yuyu Zhang, Diyi Yang, Le Song, Tao Qin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ptro58zpt3p"></a>
+4. [Inductive Relation Prediction Using Analogy Subgraph Embeddings](https://openreview.net/forum?id=PTRo58zPt3P)
+   - Jiarui Jin, Yangkun Wang, Kounianhua Du, Weinan Zhang, Zheng Zhang, David Wipf, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q79umsc6zbt"></a>
+5. [Learning to Complete Code with Sketches](https://openreview.net/forum?id=q79uMSC6ZBT)
+   - Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cmt-6ktr4c4"></a>
+6. [Leveraging Automated Unit Tests for Unsupervised Code Translation](https://openreview.net/forum?id=cmt-6KtR4c4)
+   - Baptiste Roziere, Jie Zhang, Francois Charton, Mark Harman, Gabriel Synnaeve, Guillaume Lample; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tgcaouvhrib"></a>
+7. [Neural Methods for Logical Reasoning over Knowledge Graphs](https://openreview.net/forum?id=tgcAoUVHRIB)
+   - Alfonso Amayuelas, Shuai Zhang, Xi Susie Rao, Ce Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xmjwukjnfsw"></a>
+8. [NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs](https://openreview.net/forum?id=xMJWUKJnFSw)
+   - Mikhail Galkin, Etienne Denis, Jiapeng Wu, William L. Hamilton; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4rlw09tgrw9"></a>
+9. [Query Embedding on Hyper-Relational Knowledge Graphs](https://openreview.net/forum?id=4rLw09TgRw9)
+   - Dimitrios Alivanistos, Max Berrendorf, Michael Cochez, Mikhail Galkin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2exhnphew6e"></a>
+10. [R5: Rule Discovery with Reinforced and Recurrent Relational Reasoning](https://openreview.net/forum?id=2eXhNpHeW6E)
+   - Shengyao Lu, Bang Liu, Keith G. Mills, SHANGLING JUI, Di Niu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kmtvd97j43e"></a>
+11. [Synchromesh: Reliable Code Generation from Pre-trained Language Models](https://openreview.net/forum?id=KmtVD97J43e)
+   - Gabriel Poesia, Alex Polozov, Vu Le, Ashish Tiwari, Gustavo Soares, Christopher Meek, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o50443ascp"></a>
+12. [TAPEX: Table Pre-training via Learning a Neural SQL Executor](https://openreview.net/forum?id=O50443AsCP)
+   - Qian Liu, Bei Chen, Jiaqi Guo, Morteza Ziyadi, Zeqi Lin, Weizhu Chen, et al.; assignment: `hdbscan`; source: `OpenReview`

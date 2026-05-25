@@ -1,53 +1,56 @@
-# ICLR 2023: 扩散生成模型
+# ICLR 2023: 图像复原与超分辨率
 
 - Topic ID: `65`
-- Papers: **11** (0.70%)
-- Macro topic: 计算机视觉
-- English keywords: `image / restoration / super-resolution / degradation`
-- Keyword pool: image; restoration; super-resolution; degradation; frequency; devices; mobile; ing; inverse problems; enhancement; diffusion; convolution
+- Papers: **12** (0.78%)
+- Macro topic: LLM/语言模型
+- English keywords: `backdoor / attack / federated / inversion`
+- Keyword pool: backdoor; attack; federated; inversion; privacy; trigger; private; relu; extraction; restoration; label; user
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model
-- Scaling Laws For Deep Learning Based Image Reconstruction
-- Knowledge Distillation based Degradation Estimation for Blind Super-Resolution
-- NERDS: A General Framework to Train Camera Denoisers from Raw-RGB Noisy Image Pairs
-- Learning multi-scale local conditional probability models of images
+- Effective passive membership inference attacks in federated learning against overparameterized models
+- Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models
+- FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning
+- Panning for Gold in Federated Learning: Targeted Text Extraction under Arbitrarily Large-Scale Aggregation
+- Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference
 
 ## Papers
 
-<a id="paper-h8t5dzwtz-z"></a>
-1. [Basic Binary Convolution Unit for Binarized Image Restoration Network](https://openreview.net/forum?id=h8T5dZWTZ-Z)
-   - Bin Xia, Yulun Zhang, Yitong Wang, Yapeng Tian, Wenming Yang, Radu Timofte, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pgtn4l6ekjv"></a>
-2. [DySR: Adaptive Super-Resolution via Algorithm and System Co-design](https://openreview.net/forum?id=Pgtn4l6eKjv)
-   - Syed Zawad, Cheng Li, Zhewei Yao, Elton Zheng, Yuxiong He, Feng Yan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5n0wtjz89r9"></a>
-3. [Embedding Fourier for Ultra-High-Definition Low-Light Image Enhancement](https://openreview.net/forum?id=5N0wtJZ89r9)
-   - Chongyi Li, Chun-Le Guo, man zhou, Zhexin Liang, Shangchen Zhou, Ruicheng Feng, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fg3myw8owg"></a>
-4. [Knowledge Distillation based Degradation Estimation for Blind Super-Resolution](https://openreview.net/forum?id=Fg3mYW8owg)
-   - Bin Xia, Yulun Zhang, Yitong Wang, Yapeng Tian, Wenming Yang, Radu Timofte, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-txpn6mtdse4"></a>
-5. [Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization](https://openreview.net/forum?id=TXPN6MtdSE4)
-   - Stamatios Lefkimmiatis, Iaroslav Sergeevich Koshelev; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-vzx2i-vvjkh"></a>
-6. [Learning multi-scale local conditional probability models of images](https://openreview.net/forum?id=VZX2I_VVJKH)
-   - Zahra Kadkhodaie, Florentin Guth, Stéphane Mallat, Eero P Simoncelli; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-no0thzteqdi"></a>
-7. [NERDS: A General Framework to Train Camera Denoisers from Raw-RGB Noisy Image Pairs](https://openreview.net/forum?id=NO0ThzteQdI)
-   - Heewon Kim, Kyoung Mu Lee; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pmp-sf3jkrh"></a>
-8. [Real-Time Image Demoir$\acute{e}$ing on Mobile Devices](https://openreview.net/forum?id=PmP_sf3JkrH)
-   - Yuxin Zhang, Mingbao Lin, Xunchao Li, Han Liu, Guozhi Wang, Fei Chao, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-op-cegueqc4"></a>
-9. [Scaling Laws For Deep Learning Based Image Reconstruction](https://openreview.net/forum?id=op-ceGueqc4)
-   - Tobit Klug, Reinhard Heckel; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tyz1chgziko"></a>
-10. [Selective Frequency Network for Image Restoration](https://openreview.net/forum?id=tyZ1ChGZIKO)
-   - Yuning Cui, Yi Tao, Zhenshan Bing, Wenqi Ren, Xinwei Gao, Xiaochun Cao, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mrieqgmtntq"></a>
-11. [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://openreview.net/forum?id=mRieQgMtNTQ)
-   - Yinhuai Wang, Jiwen Yu, Jian Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-rfqfjdc9mt"></a>
+1. [Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://openreview.net/forum?id=rFQfjDC9Mt)
+   - Kangjie Chen, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-r0bry4biexo"></a>
+2. [Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models](https://openreview.net/forum?id=r0BrY4BiEXO)
+   - Liam H Fowl, Jonas Geiping, Steven Reich, Yuxin Wen, Wojciech Czaja, Micah Goldblum, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qscslpp55ku"></a>
+3. [Effective passive membership inference attacks in federated learning against overparameterized models](https://openreview.net/forum?id=QsCSLPP55Ku)
+   - Jiacheng Li, Ninghui Li, Bruno Ribeiro; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cmajkyftnwx"></a>
+4. [Extracting Robust Models with Uncertain Examples](https://openreview.net/forum?id=cMAjKYftNwx)
+   - Guanlin Li, Guowen Xu, Shangwei Guo, Han Qiu, Jiwei Li, Tianwei Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xo2e217-m4n"></a>
+5. [FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning](https://openreview.net/forum?id=Xo2E217_M4n)
+   - Kaiyuan Zhang, Guanhong Tao, Qiuling Xu, Siyuan Cheng, Shengwei An, Yingqi Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-r1u5g2spbld"></a>
+6. [Federated Nearest Neighbor Machine Translation](https://openreview.net/forum?id=R1U5G2spbLd)
+   - Yichao Du, Zhirui Zhang, Bingzhe Wu, Lemao Liu, Tong Xu, Enhong Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-firqfnsootr"></a>
+7. [Instance-wise Batch Label Restoration via Gradients in Federated Learning](https://openreview.net/forum?id=FIrQfNSOoTr)
+   - Kailang Ma, Yu Sun, Jian Cui, Dawei Li, Zhenyu Guan, Jianwei Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bgf9iedfmlh"></a>
+8. [Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference](https://openreview.net/forum?id=BGF9IeDfmlH)
+   - Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Tiffany Liu, Peter Anthony Beerel; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cwmvjoehgh"></a>
+9. [MPCFORMER: FAST, PERFORMANT AND PRIVATE TRANSFORMER INFERENCE WITH MPC](https://openreview.net/forum?id=CWmvjOEhgH-)
+   - Dacheng Li, Hongyi Wang, Rulin Shao, Han Guo, Eric Xing, Hao Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-a9wqaxysfx"></a>
+10. [Panning for Gold in Federated Learning: Targeted Text Extraction under Arbitrarily Large-Scale Aggregation](https://openreview.net/forum?id=A9WQaxYsfx)
+   - Hong-Min Chu, Jonas Geiping, Liam H Fowl, Micah Goldblum, Tom Goldstein; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bszulldgxe"></a>
+11. [The Dark Side of AutoML: Towards Architectural Backdoor Search](https://openreview.net/forum?id=bsZULlDGXe)
+   - Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, Ting Wang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mj7k4lglgyj"></a>
+12. [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://openreview.net/forum?id=Mj7K4lglGyj)
+   - Zhenting Wang, Kai Mei, Juan Zhai, Shiqing Ma; assignment: `nearest_centroid`; source: `OpenReview`

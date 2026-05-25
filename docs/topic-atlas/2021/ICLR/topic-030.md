@@ -1,62 +1,62 @@
-# ICLR 2021: rules / symbolic / 推理 / systematic generalization
+# ICLR 2021: search / neural architecture / proxies / supernet
 
 - Topic ID: `30`
 - Papers: **14** (1.63%)
-- Macro topic: 生成模型
-- English keywords: `rules / symbolic / reasoning / systematic generalization`
-- Keyword pool: rules; symbolic; reasoning; systematic generalization; theorem; mathematical; proving; iterated; solutions; compositionality; abstract; module
+- Macro topic: 系统/效率/压缩
+- English keywords: `search / neural architecture / proxies / supernet`
+- Keyword pool: search; neural architecture; proxies; supernet; width; asr; design space; hardware; lista; automl; proxy; imagenet
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- IsarStep: a Benchmark for High-level Mathematical Reasoning
-- Neural Learning of One-of-Many Solutions for Combinatorial Problems in Structured Output Spaces
-- Effective Abstract Reasoning with Dual-Contrast Network
-- Learning Task-General Representations with Generative Neuro-Symbolic Modeling
-- Teaching Temporal Logics to Neural Networks
+- Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective
+- Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets
+- Geometry-Aware Gradient Algorithms for Neural Architecture Search
+- Rethinking Architecture Selection in Differentiable NAS
+- DrNAS: Dirichlet Neural Architecture Search
 
 ## Papers
 
-<a id="paper-7uvcpu-gmd"></a>
-1. [Are Neural Nets Modular? Inspecting Functional Modularity Through Differentiable Weight Masks](https://openreview.net/forum?id=7uVcpu-gMD)
-   - Róbert Csordás, Sjoerd van Steenkiste, Jürgen Schmidhuber; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-m5qsh0kbqg"></a>
-2. [Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients](https://openreview.net/forum?id=m5Qsh0kBQG)
-   - Brenden K Petersen, Mikel Landajuela Larma, Terrell N. Mundhenk, Claudio Prata Santiago, Soo Kyung Kim, Joanne Taery Kim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ldxlzgywdmw"></a>
-3. [Effective Abstract Reasoning with Dual-Contrast Network](https://openreview.net/forum?id=ldxlzGYWDmW)
-   - Tao Zhuo, Mohan Kankanhalli; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lsfceb3gyu7"></a>
-4. [Emergent Symbols through Binding in External Memory](https://openreview.net/forum?id=LSFCEb3GYU7)
-   - Taylor Whittington Webb, Ishan Sinha, Jonathan Cohen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-o6lpudownqm"></a>
-5. [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)
-   - Yuhuai Wu, Albert Jiang, Jimmy Ba, Roger Baker Grosse; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pzj6fzu6wkj"></a>
-6. [IsarStep: a Benchmark for High-level Mathematical Reasoning](https://openreview.net/forum?id=Pzj6fzU6wkj)
-   - Wenda Li, Lei Yu, Yuhuai Wu, Lawrence C. Paulson; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pd-omxh8ilf"></a>
-7. [Iterated learning for emergent systematicity in VQA](https://openreview.net/forum?id=Pd_oMxH8IlF)
-   - Ankit Vani, Max Schwarzer, Yuchen Lu, Eeshan Dhekane, Aaron Courville; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qzbuizq5xr2"></a>
-8. [Learning Task-General Representations with Generative Neuro-Symbolic Modeling](https://openreview.net/forum?id=qzBUIzq5XR2)
-   - Reuben Feinman, Brenden M. Lake; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-b7g3-zmhnt0"></a>
-9. [Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation](https://openreview.net/forum?id=b7g3_ZMHnT0)
-   - Mrigank Raman, Aaron Chan, Siddhant Agarwal, PeiFeng Wang, Hansen Wang, Sungchul Kim, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ymqany0cmey"></a>
-10. [Mathematical Reasoning via Self-supervised Skip-tree Training](https://openreview.net/forum?id=YmqAnY0CMEy)
-   - Markus Norman Rabe, Dennis Lee, Kshitij Bansal, Christian Szegedy; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-atp1nw2fuzl"></a>
-11. [Neural Learning of One-of-Many Solutions for Combinatorial Problems in Structured Output Spaces](https://openreview.net/forum?id=ATp1nW2FuZL)
-   - Yatin Nandwani, Deepanshu Jindal, Mausam ., Parag Singla; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tgzu6dlbrev"></a>
-12. [RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs](https://openreview.net/forum?id=tGZu6DlbreV)
-   - Meng Qu, Junkun Chen, Louis-Pascal Xhonneux, Yoshua Bengio, Jian Tang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-v5j-jdoddp"></a>
-13. [Scaling Symbolic Methods using Gradients for Neural Model Explanation](https://openreview.net/forum?id=V5j-jdoDDP)
-   - Subham Sekhar Sahoo, Subhashini Venugopalan, Li Li, Rishabh Singh, Patrick Riley; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-docqk-f4byz"></a>
-14. [Teaching Temporal Logics to Neural Networks](https://openreview.net/forum?id=dOcQK-f4byz)
-   - Christopher Hahn, Frederik Schmitt, Jens U. Kreber, Markus Norman Rabe, Bernd Finkbeiner; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gmghyuprxa"></a>
+1. [A Design Space Study for LISTA and Beyond](https://openreview.net/forum?id=GMgHyUPrXa)
+   - Tianjian Meng, Xiaohan Chen, Yifan Jiang, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-igik8rrt-z"></a>
+2. [CompOFA – Compound Once-For-All Networks for Faster Multi-Platform Deployment](https://openreview.net/forum?id=IgIk8RRT-Z)
+   - Manas Sahni, Shreya Varshini, Alind Khare, Alexey Tumanov; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-klh36elmwib"></a>
+3. [DARTS-: Robustly Stepping out of Performance Collapse Without Indicators](https://openreview.net/forum?id=KLH36ELmwIB)
+   - Xiangxiang Chu, Xiaoxing Wang, Bo Zhang, Shun Lu, Xiaolin Wei, Junchi Yan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9fwas6ybmb3"></a>
+4. [DrNAS: Dirichlet Neural Architecture Search](https://openreview.net/forum?id=9FWas6YbmB3)
+   - Xiangning Chen, Ruochen Wang, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-musykd1hxrp"></a>
+5. [Geometry-Aware Gradient Algorithms for Neural Architecture Search](https://openreview.net/forum?id=MuSYkd1hxRP)
+   - Liam Li, Mikhail Khodak, Nina Balcan, Ameet Talwalkar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0kadkv3dvf"></a>
+6. [HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark](https://openreview.net/forum?id=_0kaDkv3dVf)
+   - Chaojian Li, Zhongzhi Yu, Yonggan Fu, Yongan Zhang, Yang Zhao, Haoran You, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-j9rv7qdxjd"></a>
+7. [Interpretable Neural Architecture Search via Bayesian Optimisation with Weisfeiler-Lehman Kernels](https://openreview.net/forum?id=j9Rv7qdXjd)
+   - Binxin Ru, Xingchen Wan, Xiaowen Dong, Michael Osborne; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-s0udquanr9k"></a>
+8. [Locally Free Weight Sharing for Network Width Search](https://openreview.net/forum?id=S0UdquAnr9k)
+   - Xiu Su, Shan You, Tao Huang, Fei Wang, Chen Qian, Changshui Zhang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cu0apx9lmal"></a>
+9. [NAS-Bench-ASR: Reproducible Neural Architecture Search for Speech Recognition](https://openreview.net/forum?id=CU0APx9LMaL)
+   - Abhinav Mehrotra, Alberto Gil C. P. Ramos, Sourav Bhattacharya, Łukasz Dudziak, Ravichander Vipperla, Thomas Chau, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cnon5ezmhtu"></a>
+10. [Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective](https://openreview.net/forum?id=Cnon5ezMHtu)
+   - Wuyang Chen, Xinyu Gong, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rkqufumuog3"></a>
+11. [Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets](https://openreview.net/forum?id=rkQuFUmUOg3)
+   - Hayeon Lee, Eunyoung Hyung, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pkubaejkw3"></a>
+12. [Rethinking Architecture Selection in Differentiable NAS](https://openreview.net/forum?id=PKubaeJkw3)
+   - Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xlfdzwnkzch"></a>
+13. [SEDONA: Search for Decoupled Neural Networks toward Greedy Block-wise Learning](https://openreview.net/forum?id=XLfdzwNKzch)
+   - Myeongjang Pyeon, Jihwan Moon, Taeyoung Hahn, Gunhee Kim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0cmmmy8j5q"></a>
+14. [Zero-Cost Proxies for Lightweight NAS](https://openreview.net/forum?id=0cmMMy8J5q)
+   - Mohamed S Abdelfattah, Abhinav Mehrotra, Łukasz Dudziak, Nicholas Donald Lane; assignment: `hdbscan`; source: `OpenReview`

@@ -1,104 +1,110 @@
-# ICLR 2022: 强化学习与 MDP 理论
+# ICLR 2022: 强化学习算法与理论
 
 - Topic ID: `5`
-- Papers: **28** (2.56%)
-- Macro topic: 强化学习/决策
-- English keywords: `policy / reinforcement / offline / model-based`
-- Keyword pool: policy; reinforcement; offline; model-based; pessimistic; control; uncertainty; planning; mdps; environment; learning rl; search
+- Papers: **30** (2.83%)
+- Macro topic: 理论/优化
+- English keywords: `policy / games / multi-agent / reinforcement learning`
+- Keyword pool: policy; games; multi-agent; reinforcement learning; markov; policies; actor-critic; nash; zero-sum; cooperative; coordination; mean field
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Revisiting Design Choices in Offline Model Based Reinforcement Learning
-- An Experimental Design Perspective on Model-Based Reinforcement Learning
-- On-Policy Model Errors in Reinforcement Learning
-- Near-Optimal Reward-Free Exploration for Linear Mixture MDPs with Plug-in Solver
-- Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage
+- Communication-Efficient Actor-Critic Methods for Homogeneous Markov Games
+- Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games
+- Finite-Time Convergence and Sample Complexity of Multi-Agent Actor-Critic Reinforcement Learning with Average Reward
+- Actor-Critic Policy Optimization in a Large-Scale Imperfect-Information Game
+- Towards General Function Approximation in Zero-Sum Markov Games
 
 ## Papers
 
-<a id="paper-acrlgz9bked"></a>
-1. [A Reduction-Based Framework for Conservative Bandits and Reinforcement Learning](https://openreview.net/forum?id=AcrlgZ9BKed)
-   - Yunchang Yang, Tianhao Wu, Han Zhong, Evrard Garcelon, Matteo Pirotta, Alessandro Lazaric, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-0no8motr-zo"></a>
-2. [An Experimental Design Perspective on Model-Based Reinforcement Learning](https://openreview.net/forum?id=0no8Motr-zO)
-   - Viraj Mehta, Biswajit Paria, Jeff Schneider, Stefano Ermon, Willie Neiswanger; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fla55mbee6q"></a>
-3. [COptiDICE: Offline Constrained Reinforcement Learning via Stationary Distribution Correction Estimation](https://openreview.net/forum?id=FLA55mBee6Q)
-   - Jongmin Lee, Cosmin Paduraru, Daniel J Mankowitz, Nicolas Heess, Doina Precup, Kee-Eung Kim, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-przosmcinhf"></a>
-4. [Constrained Policy Optimization via Bayesian World Models](https://openreview.net/forum?id=PRZoSmCinhf)
-   - Yarden As, Ilnura Usmanova, Sebastian Curi, Andreas Krause; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hnilrd-xca"></a>
-5. [DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator](https://openreview.net/forum?id=hniLRD_XCA)
-   - Minghao Han, Jacob Euler-Rolle, Robert K. Katzschmann; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-no5cazwfwyu"></a>
-6. [Efficient Active Search for Combinatorial Optimization Problems](https://openreview.net/forum?id=nO5caZwFwYu)
-   - André Hottung, Yeong-Dae Kwon, Kevin Tierney; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ss8f6tfx3"></a>
-7. [Evaluating Model-Based Planning and Planner Amortization for Continuous Control](https://openreview.net/forum?id=SS8F6tFX3-)
-   - Arunkumar Byravan, Leonard Hasenclever, Piotr Trochim, Mehdi Mirza, Alessandro Davide Ialongo, Yuval Tassa, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6nepxzwfae"></a>
-8. [Goal-Directed Planning via Hindsight Experience Replay](https://openreview.net/forum?id=6NePxZwfae)
-   - Lorenzo Moro, Amarildo Likmeta, Enrico Prati, Marcello Restelli; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rzvoqrnclo0"></a>
-9. [Gradient Information Matters in Policy Optimization by Back-propagating through Model](https://openreview.net/forum?id=rzvOQrnclO0)
-   - Chongchong Li, Yue Wang, Wei Chen, Yuting Liu, Zhi-Ming Ma, Tie-Yan Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9xhgmsnvhu"></a>
-10. [Is High Variance Unavoidable in RL? A Case Study in Continuous Control](https://openreview.net/forum?id=9xhgmsNVHu)
-   - Johan Bjorck, Carla P Gomes, Kilian Q Weinberger; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bfugjlcwaq"></a>
-11. [Learning Efficient Online 3D Bin Packing on Packing Configuration Trees](https://openreview.net/forum?id=bfuGjlCwAq)
-   - Hang Zhao, Yang Yu, Kai Xu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ptsad3caaa2"></a>
-12. [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://openreview.net/forum?id=PtSAD3caaA2)
-   - Benjamin Eysenbach, Sergey Levine; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ebn0uinjzwh"></a>
-13. [Model-Based Offline Meta-Reinforcement Learning with Regularization](https://openreview.net/forum?id=EBn0uInJZWh)
-   - Sen Lin, Jialin Wan, Tengyu Xu, Yingbin Liang, Junshan Zhang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-sidzxab9k30"></a>
-14. [Near-Optimal Reward-Free Exploration for Linear Mixture MDPs with Plug-in Solver](https://openreview.net/forum?id=SidzxAb9k30)
-   - Xiaoyu Chen, Jiachen Hu, Lin Yang, Liwei Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kladxlazzft"></a>
-15. [Near-optimal Offline Reinforcement Learning with Linear Representation: Leveraging Variance Information with Pessimism](https://openreview.net/forum?id=KLaDXLAzzFT)
-   - Ming Yin, Yaqi Duan, Mengdi Wang, Yu-Xiang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-81e1aeot-sd"></a>
-16. [On-Policy Model Errors in Reinforcement Learning](https://openreview.net/forum?id=81e1aeOt-sd)
-   - Lukas Froehlich, Maksym Lefarov, Melanie Zeilinger, Felix Berkenkamp; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oqczu8jiizs"></a>
-17. [Pareto Policy Pool for Model-based Offline Reinforcement Learning](https://openreview.net/forum?id=OqcZu8JIIzS)
-   - Yijun Yang, Jing Jiang, Tianyi Zhou, Jie Ma, Yuhui Shi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-y4cs1z3hnql"></a>
-18. [Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning](https://openreview.net/forum?id=Y4cs1Z3HnqL)
-   - Chenjia Bai, Lingxiao Wang, Zhuoran Yang, Zhi-Hong Deng, Animesh Garg, Peng Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tyrjsbkae6"></a>
-19. [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://openreview.net/forum?id=tyrJsbKAe6)
-   - Masatoshi Uehara, Wen Sun; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-x6d9bahhbq1"></a>
-20. [Planning in Stochastic Environments with a Learned Model](https://openreview.net/forum?id=X6D9bAHhBQ1)
-   - Ioannis Antonoglou, Julian Schrittwieser, Sherjil Ozair, Thomas K Hubert, David Silver; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dtxzqtnv5nw"></a>
+1. [Actor-Critic Policy Optimization in a Large-Scale Imperfect-Information Game](https://openreview.net/forum?id=DTXZqTNV5nW)
+   - Haobo Fu, Weiming Liu, Shuang Wu, Yijia Wang, Tao Yang, Kai Li, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vezytbrpp6o"></a>
+2. [Actor-critic is implicitly biased towards high entropy optimal policies](https://openreview.net/forum?id=vEZyTBRPP6o)
+   - Yuzheng Hu, Ziwei Ji, Matus Telgarsky; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nkwje4qf1hb"></a>
+3. [AlphaZero-based Proof Cost Network to Aid Game Solving](https://openreview.net/forum?id=nKWjE4QF1hB)
+   - Ti-Rong Wu, Chung-Chin Shih, Ting Han Wei, Meng-Yu Tsai, Wei-Yuan Hsu, I-Chen Wu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zu-zfntum1n"></a>
+4. [Bregman Gradient Policy Optimization](https://openreview.net/forum?id=ZU-zFnTum1N)
+   - Feihu Huang, Shangqian Gao, Heng Huang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-psh0oemsbif"></a>
+5. [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks](https://openreview.net/forum?id=psh0oeMSBiF)
+   - Fan Wu, Linyi Li, Huan Zhang, Bhavya Kailkhura, Krishnaram Kenthapadi, Ding Zhao, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xy-2w3j3kh"></a>
+6. [Communication-Efficient Actor-Critic Methods for Homogeneous Markov Games](https://openreview.net/forum?id=xy_2w3J3kH)
+   - Dingyang Chen, Yile Li, Qi Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wqfgfb8vktn"></a>
+7. [Context-Aware Sparse Deep Coordination Graphs](https://openreview.net/forum?id=wQfgfb8VKTn)
+   - Tonghan Wang, Liang Zeng, Weijun Dong, Qianlan Yang, Yang Yu, Chongjie Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ojm3hzuj4r7"></a>
+8. [Convergent and Efficient Deep Q Learning Algorithm](https://openreview.net/forum?id=OJm3HZuj4r7)
+   - Zhikang T. Wang, Masahito Ueda; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xhuxf5arb3s"></a>
+9. [Dealing with Non-Stationarity in MARL via Trust-Region Decomposition](https://openreview.net/forum?id=XHUxf5aRB3s)
+   - Wenhao Li, Xiangfeng Wang, Bo Jin, Junjie Sheng, Hongyuan Zha; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xlfagcroimw"></a>
+10. [Energy-Based Learning for Cooperative Games, with Applications to Valuation Problems in Machine Learning](https://openreview.net/forum?id=xLfAgCroImw)
+   - Yatao Bian, Yu Rong, Tingyang Xu, Jiaxiang Wu, Andreas Krause, Junzhou Huang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-04pgug0-pdz"></a>
+11. [Finite-Time Convergence and Sample Complexity of Multi-Agent Actor-Critic Reinforcement Learning with Average Reward](https://openreview.net/forum?id=04pGUg0-pdZ)
+   - FNU Hairi, Jia Liu, Songtao Lu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gfwon7ram4"></a>
+12. [Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games](https://openreview.net/forum?id=gfwON7rAm4)
+   - Stefanos Leonardos, Will Overman, Ioannis Panageas, Georgios Piliouras; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vcumuvqcloe"></a>
+13. [Joint Shapley values: a measure of joint feature importance](https://openreview.net/forum?id=vcUmUvQCloe)
+   - Chris Harris, Richard Pymar, Colin Rowat; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-0sgntlpkdoz"></a>
+14. [Learning Graphon Mean Field Games and Approximate Nash Equilibria](https://openreview.net/forum?id=0sgntlpKDOz)
+   - Kai Cui, Heinz Koeppl; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-abo5svgst1"></a>
+15. [Mirror Descent Policy Optimization](https://openreview.net/forum?id=aBO5SvgSt1)
+   - Manan Tomar, Lior Shani, Yonathan Efroni, Mohammad Ghavamzadeh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-h7hdg-djf0"></a>
+16. [Multi-Agent MDP Homomorphic Networks](https://openreview.net/forum?id=H7HDG--DJF0)
+   - Elise van der Pol, Herke van Hoof, Frans A Oliehoek, Max Welling; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mix3fjkl-1"></a>
+17. [NeuPL: Neural Population Learning](https://openreview.net/forum?id=MIX3fJkl_1)
+   - Siqi Liu, Luke Marris, Daniel Hennes, Josh Merel, Nicolas Heess, Thore Graepel; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-18ys0-pzypi"></a>
+18. [Online Ad Hoc Teamwork under Partial Observability](https://openreview.net/forum?id=18Ys0-PzyPI)
+   - Pengjie Gu, Mengchen Zhao, Jianye Hao, Bo An; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-wfzgut6e09"></a>
+19. [Pareto Policy Adaptation](https://openreview.net/forum?id=wfZGut6e09)
+   - Panagiotis Kyriakis, Jyotirmoy Deshmukh, Paul Bogdan; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-berandoegno"></a>
-21. [Policy improvement by planning with Gumbel](https://openreview.net/forum?id=bERaNdoegnO)
-   - Ivo Danihelka, Arthur Guez, Julian Schrittwieser, David Silver; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cmsfc7u054s"></a>
-22. [Reinforcement Learning in Presence of Discrete Markovian Context Evolution](https://openreview.net/forum?id=CmsfC7u054S)
-   - Hang Ren, Aivar Sootla, Taher Jafferjee, Junxiao Shen, Jun Wang, Haitham Bou Ammar; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-j4isir9fhy0"></a>
-23. [Representation Learning for Online and Offline RL in Low-rank MDPs](https://openreview.net/forum?id=J4iSIR9fhY0)
-   - Masatoshi Uehara, Xuezhou Zhang, Wen Sun; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zz9hxvhf40"></a>
-24. [Revisiting Design Choices in Offline Model Based Reinforcement Learning](https://openreview.net/forum?id=zz9hXVhf40)
-   - Cong Lu, Philip Ball, Jack Parker-Holder, Michael Osborne, Stephen J. Roberts; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vrw3tvdfojq"></a>
-25. [Sample Efficient Deep Reinforcement Learning via Uncertainty Estimation](https://openreview.net/forum?id=vrW3tvDfOJQ)
-   - Vincent Mai, Kaustubh Mani, Liam Paull; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ccwapgl9hq"></a>
-26. [Towards Deployment-Efficient Reinforcement Learning: Lower Bound and Optimality](https://openreview.net/forum?id=ccWaPGl9Hq)
-   - Jiawei Huang, Jinglin Chen, Li Zhao, Tao Qin, Nan Jiang, Tie-Yan Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-t8vzhirtry"></a>
-27. [Understanding Domain Randomization for Sim-to-real Transfer](https://openreview.net/forum?id=T8vZHIRTrY)
-   - Xiaoyu Chen, Jiachen Hu, Chi Jin, Lihong Li, Liwei Wang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-4-d6czkrxxi"></a>
-28. [Value Gradient weighted Model-Based Reinforcement Learning](https://openreview.net/forum?id=4-D6CZkRXxI)
-   - Claas A Voelcker, Victor Liao, Animesh Garg, Amir-massoud Farahmand; assignment: `hdbscan`; source: `OpenReview`
+20. [Policy improvement by planning with Gumbel](https://openreview.net/forum?id=bERaNdoegnO)
+   - Ivo Danihelka, Arthur Guez, Julian Schrittwieser, David Silver; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mp904tihqj"></a>
+21. [Provably convergent quasistatic dynamics for mean-field two-player zero-sum games](https://openreview.net/forum?id=MP904TiHqJ-)
+   - Chao Ma, Lexing Ying; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pldonfovm4"></a>
+22. [Reinforcement Learning under a Multi-agent Predictive State Representation Model: Method and Theory](https://openreview.net/forum?id=PLDOnFoVm4)
+   - Zhi Zhang, Zhuoran Yang, Han Liu, Pratap Tokekar, Furong Huang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ivepfxyrdg"></a>
+23. [Sample Efficient Stochastic Policy Extragradient Algorithm for Zero-Sum Markov Game](https://openreview.net/forum?id=IvepFxYRDG)
+   - Ziyi Chen, Shaocong Ma, Yi Zhou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fza94y8vs4a"></a>
+24. [The Evolution of Uncertainty of Learning in Games](https://openreview.net/forum?id=Fza94Y8VS4a)
+   - Yun Kuen Cheung, Georgios Piliouras, Yixin Tao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-a05i5ivrdl"></a>
+25. [The Geometry of Memoryless Stochastic Policy Optimization in Infinite-Horizon POMDPs](https://openreview.net/forum?id=A05I5IvrdL-)
+   - Johannes Müller, Guido Montufar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sa4qiu3zv6v"></a>
+26. [Towards General Function Approximation in Zero-Sum Markov Games](https://openreview.net/forum?id=sA4qIu3zv6v)
+   - Baihe Huang, Jason D. Lee, Zhaoran Wang, Zhuoran Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ecggfkntxdj"></a>
+27. [Trust Region Policy Optimisation in Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=EcGGFkNTxdJ)
+   - Jakub Grudzien Kuba, Ruiqing Chen, Muning Wen, Ying Wen, Fanglei Sun, Jun Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pjqqxepwomy"></a>
+28. [Variational oracle guiding for reinforcement learning](https://openreview.net/forum?id=pjqqxepwoMy)
+   - Dongqi Han, Tadashi Kozuno, Xufang Luo, Zhao-Yun Chen, Kenji Doya, Yuqing Yang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6mmis0hujhr"></a>
+29. [When Can We Learn General-Sum Markov Games with a Large Number of Players Sample-Efficiently?](https://openreview.net/forum?id=6MmiS0HUJHR)
+   - Ziang Song, Song Mei, Yu Bai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jm2kfbjvvi"></a>
+30. [Who Is the Strongest Enemy? Towards Optimal and Efficient Evasion Attacks in Deep RL](https://openreview.net/forum?id=JM2kFbJvvI)
+   - Yanchao Sun, Ruijie Zheng, Yongyuan Liang, Furong Huang; assignment: `nearest_centroid`; source: `OpenReview`

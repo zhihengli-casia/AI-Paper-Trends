@@ -1,77 +1,74 @@
-# ICLR 2022: 隐私保护与安全学习
+# ICLR 2022: LLM Agent 与工具使用
 
 - Topic ID: `26`
-- Papers: **19** (1.74%)
-- Macro topic: 计算机视觉
-- English keywords: `federated / clients / server / communication`
-- Keyword pool: federated; clients; server; communication; heterogeneity; local; privacy; distributed; heterogeneous; personalized; personalization; class imbalance
+- Papers: **18** (1.70%)
+- Macro topic: 强化学习/决策
+- English keywords: `skill / reinforcement / goal-conditioned / agents`
+- Keyword pool: skill; reinforcement; goal-conditioned; agents; exploration; curriculum; goals; reward; environment; offline; discovery; relabeling
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Acceleration of Federated Learning with Alleviated Forgetting in Local Training
-- An Agnostic Approach to Federated Learning with Class Imbalance
-- Efficient Split-Mix Federated Learning for On-Demand and In-Situ Customization
-- FedChain: Chained Algorithms for Near-optimal Communication Cost in Federated Learning
-- On Bridging Generic and Personalized Federated Learning for Image Classification
+- Direct then Diffuse: Incremental Unsupervised Skill Discovery for State Covering and Goal Reaching
+- The Information Geometry of Unsupervised Reinforcement Learning
+- Skill-based Meta-Reinforcement Learning
+- Learning more skills through optimistic exploration
+- One After Another: Learning Incremental Skills for a Changing World
 
 ## Papers
 
-<a id="paper-541pxiekn3f"></a>
-1. [Acceleration of Federated Learning with Alleviated Forgetting in Local Training](https://openreview.net/forum?id=541PxiEKN3F)
-   - Chencheng Xu, Zhiwei Hong, Minlie Huang, Tao Jiang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xo0lbdt975"></a>
-2. [An Agnostic Approach to Federated Learning with Class Imbalance](https://openreview.net/forum?id=Xo0lbDt975)
-   - Zebang Shen, Juan Cervino, Hamed Hassani, Alejandro Ribeiro; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jxkkdei5vjt"></a>
-3. [Byzantine-Robust Learning on Heterogeneous Datasets via Bucketing](https://openreview.net/forum?id=jXKKDEi5vJt)
-   - Sai Praneeth Karimireddy, Lie He, Martin Jaggi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-e4ee-ohfgz"></a>
-4. [Diurnal or Nocturnal? Federated Learning of Multi-branch Networks from Periodically Shifting Distributions](https://openreview.net/forum?id=E4EE_ohFGz)
-   - Chen Zhu, Zheng Xu, Mingqing Chen, Jakub Konečný, Andrew Hard, Tom Goldstein; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ove1z8nlne"></a>
-5. [Divergence-aware Federated Self-Supervised Learning](https://openreview.net/forum?id=oVE1z8NlNe)
-   - Weiming Zhuang, Yonggang Wen, Shuai Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nwkxyfvaum"></a>
-6. [Diverse Client Selection for Federated Learning via Submodular Maximization](https://openreview.net/forum?id=nwKXyFvaUm)
-   - Ravikumar Balakrishnan, Tian Li, Tianyi Zhou, Nageen Himayat, Virginia Smith, Jeff Bilmes; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qlmakitkg"></a>
-7. [Efficient Split-Mix Federated Learning for On-Demand and In-Situ Customization](https://openreview.net/forum?id=_QLmakITKg)
-   - Junyuan Hong, Haotao Wang, Zhangyang Wang, Jiayu Zhou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-huayqfggn5u"></a>
-8. [FedBABU: Toward Enhanced Representation for Federated Image Classification](https://openreview.net/forum?id=HuaYQfggn5u)
-   - Jaehoon Oh, SangMook Kim, Se-Young Yun; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zavvvlcdan"></a>
-9. [FedChain: Chained Algorithms for Near-optimal Communication Cost in Federated Learning](https://openreview.net/forum?id=ZaVVVlcdaN)
-   - Charlie Hou, Kiran Koshy Thekumparampil, Giulia Fanti, Sewoong Oh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-d71n4ftocby"></a>
-10. [FedPara: Low-rank Hadamard Product for Communication-Efficient Federated Learning](https://openreview.net/forum?id=d71n4ftoCBy)
-   - Nam Hyeon-Woo, Moon Ye-Bin, Tae-Hyun Oh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wha8009laxu"></a>
-11. [Federated Learning from Only Unlabeled Data with Class-conditional-sharing Clients](https://openreview.net/forum?id=WHA8009laxu)
-   - Nan Lu, Zhao Wang, Xiaoxiao Li, Gang Niu, Qi Dou, Masashi Sugiyama; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h0oawl6tha"></a>
-12. [Hybrid Local SGD for Federated Learning with Heterogeneous Communications](https://openreview.net/forum?id=H0oaWl6THa)
-   - Yuanxiong Guo, Ying Sun, Rui Hu, Yanmin Gong; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7l1ijzvdddw"></a>
-13. [Improving Federated Learning Face Recognition via Privacy-Agnostic Clusters](https://openreview.net/forum?id=7l1IjZVddDW)
-   - Qiang Meng, Feng Zhou, Hainan Ren, Tianshu Feng, Guochao Liu, Yuanqing Lin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-i1hqbx10kxn"></a>
-14. [On Bridging Generic and Personalized Federated Learning for Image Classification](https://openreview.net/forum?id=I1hQbx10Kxn)
-   - Hong-You Chen, Wei-Lun Chao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-b7zbqnldn"></a>
-15. [Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?](https://openreview.net/forum?id=B7ZbqNLDn-_)
-   - Sheikh Shams Azam, Seyyedali Hosseinalipour, Qiang Qiu, Christopher Brinton; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fwzugo0fm9v"></a>
-16. [Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models](https://openreview.net/forum?id=fwzUgo0FM9v)
-   - Liam H Fowl, Jonas Geiping, Wojciech Czaja, Micah Goldblum, Tom Goldstein; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lqi-mzjvbxj"></a>
-17. [Towards Model Agnostic Federated Learning Using Knowledge Distillation](https://openreview.net/forum?id=lQI_mZjvBxj)
-   - Andrei Afonin, Sai Praneeth Karimireddy; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vimqqq-i-q"></a>
-18. [What Do We Mean by Generalization in Federated Learning?](https://openreview.net/forum?id=VimqQq-i_Q)
-   - Honglin Yuan, Warren Richard Morningstar, Lin Ning, Karan Singhal; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-2sdqwc-hmnm"></a>
-19. [ZeroFL: Efficient On-Device Training for Federated Learning with Local Sparsity](https://openreview.net/forum?id=2sDQwC_hmnM)
-   - Xinchi Qiu, Javier Fernandez-Marques, Pedro PB Gusmao, Yan Gao, Titouan Parcollet, Nicholas Donald Lane; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nkaba3nd7b5"></a>
+1. [Autonomous Reinforcement Learning: Formalism and Benchmarking](https://openreview.net/forum?id=nkaba3ND7B5)
+   - Archit Sharma, Kelvin Xu, Nikhil Sardana, Abhishek Gupta, Karol Hausman, Sergey Levine, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1w0z96mfeoh"></a>
+2. [Benchmarking the Spectrum of Agent Capabilities](https://openreview.net/forum?id=1W0z96MFEoH)
+   - Danijar Hafner; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-anbbflx1tj1"></a>
+3. [Boosted Curriculum Reinforcement Learning](https://openreview.net/forum?id=anbBFlX1tJ1)
+   - Pascal Klink, Carlo D'Eramo, Jan Peters, Joni Pajarinen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k2jfsnlbd9"></a>
+4. [C-Planning: An Automatic Curriculum for Learning Goal-Reaching Tasks](https://openreview.net/forum?id=K2JfSnLBD9)
+   - Tianjun Zhang, Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine, Joseph E. Gonzalez; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-25kzahub1lz"></a>
+5. [Direct then Diffuse: Incremental Unsupervised Skill Discovery for State Covering and Goal Reaching](https://openreview.net/forum?id=25kzAhUB1lz)
+   - Pierre-Alexandre Kamienny, Jean Tarbouriech, sylvain lamprier, Alessandro Lazaric, Ludovic Denoyer; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-74x5bxs4bwd"></a>
+6. [Evolutionary Diversity Optimization with Clustering-based Selection for Reinforcement Learning](https://openreview.net/forum?id=74x5BXs4bWD)
+   - Yutong Wang, Ke Xue, Chao Qian; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-yzhes8wide"></a>
+7. [Generative Planning for Temporally Coordinated Exploration in Reinforcement Learning](https://openreview.net/forum?id=YZHES8wIdE)
+   - Haichao Zhang, Wei Xu, Haonan Yu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-p7ovkheohoz"></a>
+8. [Hindsight Foresight Relabeling for Meta-Reinforcement Learning](https://openreview.net/forum?id=P7OVkHEoHOZ)
+   - Michael Wan, Jian Peng, Tanmay Gangwani; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-q4tzr1y-uis"></a>
+9. [It Takes Four to Tango: Multiagent Self Play for Automatic Curriculum Generation](https://openreview.net/forum?id=q4tZR1Y-UIs)
+   - Yuqing Du, Pieter Abbeel, Aditya Grover; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cptur2ecuw"></a>
+10. [LIGS: Learnable Intrinsic-Reward Generation Selection for Multi-Agent Learning](https://openreview.net/forum?id=CpTuR2ECuW)
+   - David Henry Mguni, Taher Jafferjee, Jianhong Wang, Nicolas Perez-Nieves, Oliver Slumbers, Feifei Tong, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-kxbhdyiphe"></a>
+11. [Learning Altruistic Behaviours in Reinforcement Learning without External Rewards](https://openreview.net/forum?id=KxbhdyiPHE)
+   - Tim Franzmeyer, Mateusz Malinowski, Joao F. Henriques; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-cu8rknuhxc"></a>
+12. [Learning more skills through optimistic exploration](https://openreview.net/forum?id=cU8rknuhxc)
+   - DJ Strouse, Kate Baumli, David Warde-Farley, Volodymyr Mnih, Steven Stenberg Hansen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bgvt0ghnga"></a>
+13. [Lipschitz-constrained Unsupervised Skill Discovery](https://openreview.net/forum?id=BGvt0ghNgA)
+   - Seohong Park, Jongwook Choi, Jaekyeom Kim, Honglak Lee, Gunhee Kim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dg79mosrqio"></a>
+14. [One After Another: Learning Incremental Skills for a Changing World](https://openreview.net/forum?id=dg79moSRqIo)
+   - Nur Muhammad Mahi Shafiullah, Lerrel Pinto; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kjztlfgpdww"></a>
+15. [Rethinking Goal-Conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW)
+   - Rui Yang, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jelw-fh9bv"></a>
+16. [Skill-based Meta-Reinforcement Learning](https://openreview.net/forum?id=jeLW-Fh9bV)
+   - Taewook Nam, Shao-Hua Sun, Karl Pertsch, Sung Ju Hwang, Joseph J Lim; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-3wu2ux0voe"></a>
+17. [The Information Geometry of Unsupervised Reinforcement Learning](https://openreview.net/forum?id=3wU2UX0voE)
+   - Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fkp8-piro3y"></a>
+18. [Wish you were here: Hindsight Goal Selection for long-horizon dexterous manipulation](https://openreview.net/forum?id=FKp8-pIRo3y)
+   - Todor Davchev, Oleg Olegovich Sushkov, Jean-Baptiste Regli, Stefan Schaal, Yusuf Aytar, Markus Wulfmeier, et al.; assignment: `nearest_centroid`; source: `OpenReview`

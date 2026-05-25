@@ -1,59 +1,62 @@
-# ICLR 2023: LiDAR 点云与 3D 感知
+# ICLR 2023: 图神经网络与图表示学习
 
 - Topic ID: `54`
-- Papers: **13** (0.83%)
-- Macro topic: 3D/具身/机器人
-- English keywords: `object / detection / driving / cloud`
-- Keyword pool: object; detection; driving; cloud; multi-view; point; map; oriented; autonomous; lidar; horizontal; cues
+- Papers: **14** (0.92%)
+- Macro topic: 图学习/数据挖掘
+- English keywords: `graph / node / spectral / gnns`
+- Keyword pool: graph; node; spectral; gnns; non-contrastive; transformer; augmentation; link prediction; edge; automl; architectures; contrastive learning
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving
-- Exploring Active 3D Object Detection from a Generalization Perspective
-- DBQ-SSD: Dynamic Ball Query for Efficient 3D Object Detection
-- BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection
-- Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding
+- Link Prediction with Non-Contrastive Learning
+- Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization
+- Spectral Augmentation for Self-Supervised Learning on Graphs
+- AutoTransfer: AutoML with Knowledge Transfer - An Application to Graph Neural Networks
+- Graph Domain Adaptation via Theory-Grounded Spectral Regularization
 
 ## Papers
 
-<a id="paper-4dzebj83oxk"></a>
-1. [3D Segmenter: 3D Transformer based Semantic Segmentation via 2D Panoramic Distillation](https://openreview.net/forum?id=4dZeBJ83oxk)
-   - ZHENNAN WU, YANG LI, Yifei Huang, Lin Gu, Tatsuya Harada, Hiroyuki Sato; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-2zfgns917"></a>
-2. [BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection](https://openreview.net/forum?id=-2zfgNS917)
-   - Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Zhao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-quadoidgo0"></a>
-3. [CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving](https://openreview.net/forum?id=QUaDoIdgo0)
-   - Runjian Chen, Yao Mu, Runsen Xu, Wenqi Shao, Chenhan Jiang, Hang Xu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zqwqv2tzdv"></a>
-4. [CircNet: Meshing 3D Point Clouds with Circumcenter Detection](https://openreview.net/forum?id=zQWqV2tzDv)
-   - Huan Lei, Ruitao Leng, Liang Zheng, Hongdong Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zccflu-yk65"></a>
-5. [DBQ-SSD: Dynamic Ball Query for Efficient 3D Object Detection](https://openreview.net/forum?id=ZccFLU-Yk65)
-   - Jinrong Yang, Lin Song, Songtao Liu, Weixin Mao, Zeming Li, Xiaoping Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-quk1exlbba"></a>
-6. [DENSE RGB SLAM WITH NEURAL IMPLICIT MAPS](https://openreview.net/forum?id=QUK1ExlbbA)
-   - Heng Li, Xiaodong Gu, Weihao Yuan, luwei yang, Zilong Dong, Ping Tan; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-2rwxvje1rah"></a>
-7. [Exploring Active 3D Object Detection from a Generalization Perspective](https://openreview.net/forum?id=2RwXVje1rAh)
-   - Yadan Luo, Zhuoxiao Chen, Zijian Wang, Xin Yu, Zi Huang, Mahsa Baktashmotlagh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w-nzdqyuy8d"></a>
-8. [GOOD: Exploring geometric cues for detecting objects in an open world](https://openreview.net/forum?id=W-nZDQyuy8D)
-   - Haiwen Huang, Andreas Geiger, Dan Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-npfdkt9ouj3"></a>
-9. [H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection](https://openreview.net/forum?id=NPfDKT9OUJ3)
-   - Xue Yang, Gefan Zhang, Wentong Li, Yue Zhou, Xuehui Wang, Junchi Yan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-k7p-yao7ye"></a>
-10. [MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction](https://openreview.net/forum?id=k7p_YAO7yE)
-   - Bencheng Liao, Shaoyu Chen, Xinggang Wang, Tianheng Cheng, Qian Zhang, Wenyu Liu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-x5sur7g2vvw"></a>
-11. [Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling](https://openreview.net/forum?id=X5SUR7g2vVw)
-   - Penghao Wu, Li Chen, Hongyang Li, Xiaosong Jia, Junchi Yan, Yu Qiao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h3hceja2um"></a>
-12. [Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection](https://openreview.net/forum?id=H3HcEJA2Um)
-   - Jinhyung Park, Chenfeng Xu, Shijia Yang, Kurt Keutzer, Kris M. Kitani, Masayoshi Tomizuka, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ipggfpmuchj"></a>
-13. [Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding](https://openreview.net/forum?id=IpGgfpMucHj)
-   - Abdullah Hamdi, Silvio Giancola, Bernard Ghanem; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gcm7qfl5zy"></a>
+1. [AutoGT: Automated Graph Transformer Architecture Search](https://openreview.net/forum?id=GcM7qfl5zY)
+   - Zizhao Zhang, Xin Wang, Chaoyu Guan, Ziwei Zhang, Haoyang Li, Wenwu Zhu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-y81ppnf-vg"></a>
+2. [AutoTransfer: AutoML with Knowledge Transfer - An Application to Graph Neural Networks](https://openreview.net/forum?id=y81ppNf_vg)
+   - Kaidi Cao, Jiaxuan You, Jiaju Liu, Jure Leskovec; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vtb1ji0gps"></a>
+3. [Automated Data Augmentations for Graph Classification](https://openreview.net/forum?id=vTb1JI0Gps_)
+   - Youzhi Luo, Michael Curtis McThrow, Wing Yee Au, Tao Komikado, Kanji Uchino, Koji Maruhashi, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2yqrqe4rnv"></a>
+4. [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/forum?id=2YQrqe4RNv)
+   - Bowen Jin, Yu Zhang, Yu Meng, Jiawei Han; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-pluxnnxudr4"></a>
+5. [Graph Contrastive Learning for Skeleton-based Action Recognition](https://openreview.net/forum?id=PLUXnnxUdr4)
+   - Xiaohu Huang, Hao Zhou, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-oysflgrk8mk"></a>
+6. [Graph Domain Adaptation via Theory-Grounded Spectral Regularization](https://openreview.net/forum?id=OysfLgrk8mk)
+   - Yuning You, Tianlong Chen, Zhangyang Wang, Yang Shen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0f-0i6rfach"></a>
+7. [Improving Out-of-distribution Generalization with Indirection Representations](https://openreview.net/forum?id=0f-0I6RFAch)
+   - Kha Pham, Hung Le, Man Ngo, Truyen Tran; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q0nmyciuuzn"></a>
+8. [Learning on Large-scale Text-attributed Graphs via Variational Inference](https://openreview.net/forum?id=q0nmYciuuZN)
+   - Jianan Zhao, Meng Qu, Chaozhuo Li, Hao Yan, Qian Liu, Rui Li, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fkxvk9dymm"></a>
+9. [LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation](https://openreview.net/forum?id=FKXVK9dyMM)
+   - Xuheng Cai, Chao Huang, Lianghao Xia, Xubin Ren; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9jaz4aphtwd"></a>
+10. [Link Prediction with Non-Contrastive Learning](https://openreview.net/forum?id=9Jaz4APHtWD)
+   - William Shiao, Zhichun Guo, Tong Zhao, Evangelos E. Papalexakis, Yozen Liu, Neil Shah; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1thazrqftm"></a>
+11. [Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization](https://openreview.net/forum?id=1tHAZRqftM)
+   - Mingxuan Ju, Tong Zhao, Qianlong Wen, Wenhao Yu, Neil Shah, Yanfang Ye, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8kyeilt3ow"></a>
+12. [NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs](https://openreview.net/forum?id=8KYeilT3Ow)
+   - Jinsong Chen, Kaiyuan Gao, Gaichao Li, Kun He; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-0pdst3oyja1"></a>
+13. [Specformer: Spectral Graph Neural Networks Meet Transformers](https://openreview.net/forum?id=0pdSt3oyJa1)
+   - Deyu Bo, Chuan Shi, Lele Wang, Renjie Liao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-djzbcrmbj-p"></a>
+14. [Spectral Augmentation for Self-Supervised Learning on Graphs](https://openreview.net/forum?id=DjzBCrMBJ_p)
+   - Lu Lin, Jinghui Chen, Hongning Wang; assignment: `hdbscan`; source: `OpenReview`

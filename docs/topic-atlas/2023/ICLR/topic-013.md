@@ -1,107 +1,92 @@
-# ICLR 2023: 多智能体协作与规划
+# ICLR 2023: reinforcement / 策略优化 / model-based / world
 
 - Topic ID: `13`
-- Papers: **29** (1.84%)
+- Papers: **24** (1.57%)
 - Macro topic: 强化学习/决策
-- English keywords: `agents / multi-agent / reinforcement / policy`
-- Keyword pool: agents; multi-agent; reinforcement; policy; marl; games; policies; communication; coordination; environment; diversity; cooperative
+- English keywords: `reinforcement / policy / model-based / world`
+- Keyword pool: reinforcement; policy; model-based; world; control; offline; behavior; pretraining; learning rl; human; transformers; environment
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- RPM: Generalizable Multi-Agent Policies for Multi-Agent Reinforcement Learning
-- MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning
-- Discovering Generalizable Multi-agent Coordination Skills from Multi-task Offline Data
-- Revisiting Populations in multi-agent Communication
-- Learning Zero-Shot Cooperation with Humans, Assuming Humans Are Biased
+- Decision S4: Efficient Sequence-Based RL via State Spaces Layers
+- From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data
+- Transformers are Sample-Efficient World Models
+- Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling
+- Is Conditional Generative Modeling all you need for Decision Making?
 
 ## Papers
 
-<a id="paper-ule3wf3-h-5"></a>
-1. [Adversarial Diversity in Hanabi](https://openreview.net/forum?id=uLE3WF3-H_5)
-   - Brandon Cui, Andrei Lupu, Samuel Sokota, Hengyuan Hu, David J Wu, Jakob Nicolaus Foerster; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oxnqxyzk-k8"></a>
-2. [Boosting Multiagent Reinforcement Learning via Permutation Invariant and Permutation Equivariant Networks](https://openreview.net/forum?id=OxNQXyZK-K8)
-   - Jianye HAO, Xiaotian Hao, Hangyu Mao, Weixun Wang, Yaodong Yang, Dong Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ipflrgaf7ry"></a>
-3. [Can Agents Run Relay Race with Strangers? Generalization of RL to Out-of-Distribution Trajectories](https://openreview.net/forum?id=ipflrGaf7ry)
-   - Li-Cheng Lan, Huan Zhang, Cho-Jui Hsieh; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-dcol0ingl3e"></a>
-4. [Certifiably Robust Policy Learning against Adversarial Multi-Agent Communication](https://openreview.net/forum?id=dCOL0inGl3e)
-   - Yanchao Sun, Ruijie Zheng, Parisa Hassanzadeh, Yongyuan Liang, Soheil Feizi, Sumitra Ganesh, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cddbel1hwad"></a>
-5. [Cheap Talk Discovery and Utilization in Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=cddbeL1HWaD)
-   - Yat Long Lo, Christian Schroeder de Witt, Samuel Sokota, Jakob Nicolaus Foerster, Shimon Whiteson; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-c2ulri4duis"></a>
-6. [Computational Language Acquisition with Theory of Mind](https://openreview.net/forum?id=C2ulri4duIs)
-   - Andy Liu, Hao Zhu, Emmy Liu, Yonatan Bisk, Graham Neubig; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-53fyuadp7d"></a>
-7. [Discovering Generalizable Multi-agent Coordination Skills from Multi-task Offline Data](https://openreview.net/forum?id=53FyUAdP7d)
-   - Fuxiang Zhang, Chengxing Jia, Yi-Chen Li, Lei Yuan, Yang Yu, Zongzhang Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kjkdzbw3b8p"></a>
-8. [Discovering Policies with DOMiNO: Diversity Optimization Maintaining Near Optimality](https://openreview.net/forum?id=kjkdzBW3b8p)
-   - Tom Zahavy, Yannick Schroecker, Feryal Behbahani, Kate Baumli, Sebastian Flennerhag, Shaobo Hou, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fyzchett6h0"></a>
-9. [ERL-Re$^2$: Efficient Evolutionary Reinforcement Learning with Shared State Representation and Individual Policy Representation](https://openreview.net/forum?id=FYZCHEtt6H0)
-   - Jianye HAO, Pengyi Li, Hongyao Tang, YAN ZHENG, Xian Fu, Zhaopeng Meng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cbfyfflqwqb"></a>
-10. [Evolving Populations of Diverse RL Agents with MAP-Elites](https://openreview.net/forum?id=CBfYffLqWqb)
-   - Thomas PIERROT, Arthur Flajolet; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uku05goh7-6"></a>
-11. [Generating Diverse Cooperative Agents by Learning Incompatible Policies](https://openreview.net/forum?id=UkU05GOH7_6)
-   - Rujikorn Charakorn, Poramate Manoonpong, Nat Dilokthanakul; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nnozt-cr26z"></a>
-12. [GoBigger: A Scalable Platform for Cooperative-Competitive Multi-Agent Interactive Simulation](https://openreview.net/forum?id=NnOZT_CR26Z)
-   - Ming Zhang, Shenghan Zhang, Zhenjie Yang, Lekai Chen, Jinliang Zheng, Chao Yang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jtc6yohrojj"></a>
-13. [Human-level Atari 200x faster](https://openreview.net/forum?id=JtC6yOHRoJJ)
-   - Steven Kapturowski, Víctor Campos, Ray Jiang, Nemanja Rakicevic, Hado van Hasselt, Charles Blundell, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-trwe8l9ajzs"></a>
-14. [Learning Zero-Shot Cooperation with Humans, Assuming Humans Are Biased](https://openreview.net/forum?id=TrwE8l9aJzs)
-   - Chao Yu, Jiaxuan Gao, Weilin Liu, Botian Xu, Hao Tang, Jiaqi Yang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cdlhz78-xzi"></a>
-15. [MACTA: A Multi-agent Reinforcement Learning Approach for Cache Timing Attacks and Detection](https://openreview.net/forum?id=CDlHZ78-Xzi)
-   - Jiaxun Cui, Xiaomeng Yang, Mulong Luo, Geunbae Lee, Peter Stone, Hsien-Hsin S. Lee, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-skwlrdzpfd7"></a>
-16. [MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=sKWlRDzPfd7)
-   - Mikayel Samvelyan, Akbir Khan, Michael D Dennis, Minqi Jiang, Jack Parker-Holder, Jakob Nicolaus Foerster, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-f61fwjtzhb"></a>
-17. [Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning](https://openreview.net/forum?id=F61FwJTZhb)
-   - Anton Bakhtin, David J Wu, Adam Lerer, Jonathan Gray, Athul Paul Jacob, Gabriele Farina, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-znllsgn-4s0"></a>
-18. [More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization](https://openreview.net/forum?id=znLlSgN-4S0)
-   - Jiangxing Wang, Deheng Ye, Zongqing Lu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gulfhqfgw0g"></a>
-19. [Neural Agents Struggle to Take Turns in Bidirectional Emergent Communication](https://openreview.net/forum?id=GULFHQfgw0g)
-   - Valentin Taillandier, Dieuwke Hupkes, Benoît Sagot, Emmanuel Dupoux, Paul Michel; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-b4t9-xast6g"></a>
-20. [On the Word Boundaries of Emergent Languages Based on Harris's Articulation Scheme](https://openreview.net/forum?id=b4t9_XASt6G)
-   - Ryo Ueda, Taiga Ishii, Yusuke Miyao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fb4v-2qvcem"></a>
-21. [Population-size-Aware Policy Optimization for Mean-Field Games](https://openreview.net/forum?id=fB4V-2QvCEm)
-   - Pengdeng Li, Xinrun Wang, Shuxin Li, Hau Chan, Bo An; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-blmsmxbqxr"></a>
-22. [Quality-Similar Diversity via Population Based Reinforcement Learning](https://openreview.net/forum?id=bLmSMXbqXr)
-   - Shuang Wu, Jian Yao, Haobo Fu, Ye Tian, Chao Qian, Yaodong Yang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hnsceszlfry"></a>
-23. [RPM: Generalizable Multi-Agent Policies for Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=HnSceSzlfrY)
-   - Wei Qiu, Xiao Ma, Bo An, Svetlana Obraztsova, Shuicheng YAN, Zhongwen Xu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n-uhridpju"></a>
-24. [Revisiting Populations in multi-agent Communication](https://openreview.net/forum?id=n-UHRIdPju)
-   - Paul Michel, Mathieu Rita, Kory Wallace Mathewson, Olivier Tieleman, Angeliki Lazaridou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zrebzl9eq3w"></a>
-25. [Scaling Laws for a Multi-Agent Reinforcement Learning Model](https://openreview.net/forum?id=ZrEbzL9eQ3W)
-   - Oren Neumann, Claudius Gros; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-b4mazqllw0"></a>
-26. [Stateful Active Facilitator: Coordination and Environmental Heterogeneity in Cooperative Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=B4maZQLLW0_)
-   - Dianbo Liu, Vedant Shah, Oussama Boussif, Cristian Meo, Anirudh Goyal, Tianmin Shu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cts2rs-ayk"></a>
-27. [Stay Moral and Explore: Learn to Behave Morally in Text-based Games](https://openreview.net/forum?id=CtS2Rs_aYk)
-   - Zijing Shi, Meng Fang, Yunqiu Xu, Ling Chen, Yali Du; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-q3f0ubaruo"></a>
-28. [Towards Effective and Interpretable Human-Agent Collaboration in MOBA Games: A Communication Perspective](https://openreview.net/forum?id=q3F0UBAruO)
-   - Yiming Gao, Feiyu Liu, Liang Wang, Zhenjie Lian, Weixuan Wang, Siqin Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wvrb98rwbv9"></a>
-29. [Truthful Self-Play](https://openreview.net/forum?id=WVRb98rwbv9)
-   - Shohei Ohsawa; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rimcq1oifer"></a>
+1. [A Control-Centric Benchmark for Video Prediction](https://openreview.net/forum?id=rimcq1oIFeR)
+   - Stephen Tian, Chelsea Finn, Jiajun Wu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-hcuf-qwzefh"></a>
+2. [A System for Morphology-Task Generalization via Unified Representation and Behavior Distillation](https://openreview.net/forum?id=HcUf-QwZeFh)
+   - Hiroki Furuta, Yusuke Iwasawa, Yutaka Matsuo, Shixiang Shane Gu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-sy-o2n0hf4f"></a>
+3. [Become a Proficient Player with Limited Data through Watching Pure Videos](https://openreview.net/forum?id=Sy-o2N0hF4f)
+   - Weirui Ye, Yunsheng Zhang, Pieter Abbeel, Yang Gao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ukr0mwzm6fl"></a>
+4. [Building a Subspace of Policies for Scalable Continual Learning](https://openreview.net/forum?id=UKr0MwZM6fL)
+   - Jean-Baptiste Gaya, Thang Doan, Lucas Caccia, Laure Soulier, Ludovic Denoyer, Roberta Raileanu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kqhkcvs7wbj"></a>
+5. [Decision S4: Efficient Sequence-Based RL via State Spaces Layers](https://openreview.net/forum?id=kqHkCVS7wbj)
+   - Shmuel Bar David, Itamar Zimerman, Eliya Nachmani, Lior Wolf; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xqajsr64ptc"></a>
+6. [EUCLID: Towards Efficient Unsupervised Reinforcement Learning with Multi-choice Dynamics Model](https://openreview.net/forum?id=xQAjSr64PTc)
+   - Yifu Yuan, Jianye HAO, Fei Ni, Yao Mu, YAN ZHENG, Yujing Hu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5egggz1q575"></a>
+7. [Explaining RL Decisions with Trajectories](https://openreview.net/forum?id=5Egggz1q575)
+   - Shripad Vilasrao Deshmukh, Arpan Dasgupta, Balaji Krishnamurthy, Nan Jiang, Chirag Agarwal, Georgios Theocharous, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-c7rm7f7jqjn"></a>
+8. [From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data](https://openreview.net/forum?id=c7rM7F7jQjN)
+   - Zichen Jeff Cui, Yibin Wang, Nur Muhammad Mahi Shafiullah, Lerrel Pinto; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-aatuevc-wjv"></a>
+9. [Hyper-Decision Transformer for Efficient Online Policy Adaptation](https://openreview.net/forum?id=AatUEvC-Wjv)
+   - Mengdi Xu, Yuchen Lu, Yikang Shen, Shun Zhang, Ding Zhao, Chuang Gan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hy0a5mmpuv"></a>
+10. [In-context Reinforcement Learning with Algorithm Distillation](https://openreview.net/forum?id=hy0a5MMPUv)
+   - Michael Laskin, Luyu Wang, Junhyuk Oh, Emilio Parisotto, Stephen Spencer, Richie Steigerwald, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sp1fo2k9dfg"></a>
+11. [Is Conditional Generative Modeling all you need for Decision Making?](https://openreview.net/forum?id=sP1fo2K9DFG)
+   - Anurag Ajay, Yilun Du, Abhi Gupta, Joshua B. Tenenbaum, Tommi S. Jaakkola, Pulkit Agrawal; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fewvd0l-a4"></a>
+12. [Learnable Behavior Control: Breaking Atari Human World Records via Sample-Efficient Behavior Selection](https://openreview.net/forum?id=FeWvD0L_a4)
+   - Jiajun Fan, Yuzheng Zhuang, Yuecheng Liu, Jianye HAO, Bin Wang, Jiangcheng Zhu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jdtnc9gjvfj"></a>
+13. [MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations](https://openreview.net/forum?id=JdTnc9gjVfJ)
+   - Nicklas Hansen, Yixin Lin, Hao Su, Xiaolong Wang, Vikash Kumar, Aravind Rajeswaran; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-c2fssj3zgiu"></a>
+14. [Neural Episodic Control with State Abstraction](https://openreview.net/forum?id=C2fsSj3ZGiU)
+   - Zhuo Li, Derui Zhu, Yujing Hu, Xiaofei Xie, Lei Ma, YAN ZHENG, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-42zs3qa2kpy"></a>
+15. [Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling](https://openreview.net/forum?id=42zs3qa2kpy)
+   - Huayu Chen, Cheng Lu, Chengyang Ying, Hang Su, Jun Zhu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nm-rhxi5ga"></a>
+16. [On the Data-Efficiency with Contrastive Image Transformation in Reinforcement Learning](https://openreview.net/forum?id=-nm-rHXi5ga)
+   - Sicong Liu, Xi Sheryl Zhang, Yushuo Li, Yifan Zhang, Jian Cheng; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-kb1sc5pnkfv"></a>
+17. [On the Feasibility of Cross-Task Transfer with Model-Based Reinforcement Learning](https://openreview.net/forum?id=KB1sc5pNKFv)
+   - Yifan Xu, Nicklas Hansen, Zirui Wang, Yung-Chieh Chan, Hao Su, Zhuowen Tu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cvfd6qe8gny"></a>
+18. [Planning with Sequence Models through Iterative Energy Minimization](https://openreview.net/forum?id=cVFD6qE8gnY)
+   - Hongyi Chen, Yilun Du, Yiye Chen, Joshua B. Tenenbaum, Patricio A. Vela; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-awzgxgmsba"></a>
+19. [Powderworld: A Platform for Understanding Generalization via Rich Task Distributions](https://openreview.net/forum?id=AWZgXGmsbA)
+   - Kevin Frans, Phillip Isola; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-peot1sfdx0"></a>
+20. [Preference Transformer: Modeling Human Preferences using Transformers for RL](https://openreview.net/forum?id=Peot1SFDX0)
+   - Changyeon Kim, Jongjin Park, Jinwoo Shin, Honglak Lee, Pieter Abbeel, Kimin Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9pih3hg8qef"></a>
+21. [SMART: Self-supervised Multi-task pretrAining with contRol Transformers](https://openreview.net/forum?id=9piH3Hg8QEf)
+   - Yanchao Sun, Shuang Ma, Ratnesh Madaan, Rogerio Bonatti, Furong Huang, Ashish Kapoor; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-spgp6aisltd"></a>
+22. [Temporal Disentanglement of Representations for Improved Generalisation in Reinforcement Learning](https://openreview.net/forum?id=sPgP6aISLTD)
+   - Mhairi Dunion, Trevor McInroe, Kevin Sebastian Luck, Josiah P. Hanna, Stefano V Albrecht; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-tdbadgcpjly"></a>
+23. [Transformer-based World Models Are Happy With 100k Interactions](https://openreview.net/forum?id=TdBaDGCpjly)
+   - Jan Robine, Marc Höftmann, Tobias Uelwer, Stefan Harmeling; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vhfu1acb0xb"></a>
+24. [Transformers are Sample-Efficient World Models](https://openreview.net/forum?id=vhFu1Acb0xb)
+   - Vincent Micheli, Eloi Alonso, François Fleuret; assignment: `hdbscan`; source: `OpenReview`

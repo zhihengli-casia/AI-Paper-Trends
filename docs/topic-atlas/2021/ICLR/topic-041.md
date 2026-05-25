@@ -1,53 +1,47 @@
-# ICLR 2021: games / convergence / gradient / timescale
+# ICLR 2021: 分子表示学习与药物发现
 
 - Topic ID: `41`
-- Papers: **11** (1.28%)
-- Macro topic: 理论/优化
-- English keywords: `games / convergence / gradient / timescale`
-- Keyword pool: games; convergence; gradient; timescale; rates; minimax; optimistic; equilibrium; smooth; lyapunov; chaos; momentum
+- Papers: **9** (1.05%)
+- Macro topic: AI4Science/医疗
+- English keywords: `molecular / molecules / protein / drug`
+- Keyword pool: molecular; molecules; protein; drug; mcts; graph; structures; hamiltonian; discovery; search; atoms; parallel
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Linear Last-iterate Convergence in Constrained Saddle-point Optimization
-- On the Impossibility of Global Convergence in Multi-Loss Optimization
-- Local Convergence Analysis of Gradient Descent Ascent with Finite Timescale Separation
-- Adaptive Extra-Gradient Methods for Min-Max Optimization and Games
-- Average-case Acceleration for Bilinear Games and Normal Matrices
+- Learning Neural Generative Dynamics for Molecular Conformation Generation
+- Conformation-Guided Molecular Representation with Hamiltonian Neural Networks
+- Molecule Optimization by Explainable Evolution
+- MARS: Markov Molecular Sampling for Multi-objective Drug Discovery
+- Symmetry-Aware Actor-Critic for 3D Molecular Design
 
 ## Papers
 
-<a id="paper-r0a0kfi3djx"></a>
-1. [Adaptive Extra-Gradient Methods for Min-Max Optimization and Games](https://openreview.net/forum?id=R0a0kFI3dJx)
-   - Kimon Antonakopoulos, Veronica Belmega, Panayotis Mertikopoulos; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h0syooy3ash"></a>
-2. [Average-case Acceleration for Bilinear Games and Normal Matrices](https://openreview.net/forum?id=H0syOoy3Ash)
-   - Carles Domingo-Enrich, Fabian Pedregosa, Damien Scieur; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-a3wkpzpgtcf"></a>
-3. [Chaos of Learning Beyond Zero-sum and Coordination via Game Decompositions](https://openreview.net/forum?id=a3wKPZpGtCF)
-   - Yun Kuen Cheung, Yixin Tao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nztu59sybnq"></a>
-4. [EigenGame: PCA as a Nash Equilibrium](https://openreview.net/forum?id=NzTU59SYbNq)
-   - Ian Gemp, Brian McWilliams, Claire Vernade, Thore Graepel; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w2myg3d0eot"></a>
-5. [Fast convergence of stochastic subgradient method under interpolation](https://openreview.net/forum?id=w2mYg3d0eot)
-   - Huang Fang, Zhenan Fan, Michael Friedlander; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dx11-7vm5-r"></a>
-6. [Linear Last-iterate Convergence in Constrained Saddle-point Optimization](https://openreview.net/forum?id=dx11_7vm5_r)
-   - Chen-Yu Wei, Chung-Wei Lee, Mengxiao Zhang, Haipeng Luo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-awosz-mmapx"></a>
-7. [Local Convergence Analysis of Gradient Descent Ascent with Finite Timescale Separation](https://openreview.net/forum?id=AWOSz_mMAPx)
-   - Tanner Fiez, Lillian J Ratliff; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nqbnpjpyag6"></a>
-8. [On the Impossibility of Global Convergence in Multi-Loss Optimization](https://openreview.net/forum?id=NQbnPjPYaG6)
-   - Alistair Letcher; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lvotkzmyydi"></a>
-9. [Proximal Gradient Descent-Ascent: Variable Convergence under KŁ Geometry](https://openreview.net/forum?id=LVotkZmYyDi)
-   - Ziyi Chen, Yi Zhou, Tengyu Xu, Yingbin Liang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3udsdyicbda"></a>
-10. [RMSprop converges with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA)
-   - Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-l7wd8zdscq5"></a>
-11. [The Role of Momentum Parameters in the Optimal Convergence of Adaptive Polyak's Heavy-ball Methods](https://openreview.net/forum?id=L7WD8ZdscQ5)
-   - Wei Tao, Sheng Long, Gaowei Wu, Qing Tao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q-cnwaaouth"></a>
+1. [Conformation-Guided Molecular Representation with Hamiltonian Neural Networks](https://openreview.net/forum?id=q-cnWaaoUTH)
+   - Ziyao Li, Shuwen Yang, Guojie Song, Lingsheng Cai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-l0msuropwy"></a>
+2. [Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures](https://openreview.net/forum?id=l0mSUROpwY)
+   - Pedro Hermosilla, Marco Schäfer, Matej Lang, Gloria Fackelmann, Pere-Pau Vázquez, Barbora Kozlikova, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-pabm1qfhegk"></a>
+3. [Learning Neural Generative Dynamics for Molecular Conformation Generation](https://openreview.net/forum?id=pAbm1qfheGk)
+   - Minkai Xu, Shitong Luo, Yoshua Bengio, Jian Peng, Jian Tang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1yljdvsx6j4"></a>
+4. [Learning from Protein Structure with Geometric Vector Perceptrons](https://openreview.net/forum?id=1YLJDvSx6J4)
+   - Bowen Jing, Stephan Eismann, Patricia Suriana, Raphael John Lamarre Townshend, Ron Dror; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-khsu4ebxfxy"></a>
+5. [MARS: Markov Molecular Sampling for Multi-objective Drug Discovery](https://openreview.net/forum?id=kHSu4ebxFXY)
+   - Yutong Xie, Chence Shi, Hao Zhou, Yuwei Yang, Weinan Zhang, Yong Yu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jhefdgsorp5"></a>
+6. [Molecule Optimization by Explainable Evolution](https://openreview.net/forum?id=jHefDGsorp5)
+   - Binghong Chen, Tianzhe Wang, Chengtao Li, Hanjun Dai, Le Song; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-snogicyzgj7"></a>
+7. [Neural representation and generation for RNA secondary structures](https://openreview.net/forum?id=snOgiCYZgJ7)
+   - Zichao Yan, William L. Hamilton, Mathieu Blanchette; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6k7vdojaik"></a>
+8. [Practical Massively Parallel Monte-Carlo Tree Search Applied to Molecular Design](https://openreview.net/forum?id=6k7VdojAIK)
+   - Xiufeng Yang, Tanuj Aasawat, Kazuki Yoshizoe; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jeykjpe1xyn"></a>
+9. [Symmetry-Aware Actor-Critic for 3D Molecular Design](https://openreview.net/forum?id=jEYKjPE1xYN)
+   - Gregor N. C. Simm, Robert Pinsler, Gábor Csányi, José Miguel Hernández-Lobato; assignment: `hdbscan`; source: `OpenReview`

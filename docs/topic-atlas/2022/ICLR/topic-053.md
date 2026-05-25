@@ -1,50 +1,47 @@
-# ICLR 2022: 随机优化与收敛理论
+# ICLR 2022: 图神经网络与节点表示学习
 
 - Topic ID: `53`
-- Papers: **10** (0.91%)
-- Macro topic: 理论/优化
-- English keywords: `kernel / sgd / tangent / spectral`
-- Keyword pool: kernel; sgd; tangent; spectral; bias; regime; regression; learning rate; dynamics; gradient; manifold; decay
+- Papers: **9** (0.85%)
+- Macro topic: 图学习/数据挖掘
+- English keywords: `graph / hyperbolic / metrics / topological`
+- Keyword pool: graph; hyperbolic; metrics; topological; clustering; wasserstein; nns; generative; distance; hierarchies; neighbor search; node
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Implicit Bias of MSE Gradient Optimization in Underparameterized Neural Networks
-- The Spectral Bias of Polynomial Neural Networks
-- Neural Networks as Kernel Learners: The Silent Alignment Effect
-- The Three Stages of Learning Dynamics in High-dimensional Kernel Methods
-- What Happens after SGD Reaches Zero Loss? --A Mathematical Framework
+- Graphon based Clustering and Testing of Networks: Algorithms and Theory
+- Evaluation Metrics for Graph Generative Models: Problems, Pitfalls, and Practical Solutions
+- Graph Auto-Encoder via Neighborhood Wasserstein Reconstruction
+- End-to-End Learning of Probabilistic Hierarchies on Graphs
+- On Evaluation Metrics for Graph Generative Models
 
 ## Papers
 
-<a id="paper-rtaclwh46tb"></a>
-1. [Eigencurve: Optimal Learning Rate Schedule for SGD on Quadratic Objectives with Skewed Hessian Spectrums](https://openreview.net/forum?id=rTAclwH46Tb)
-   - Rui Pan, Haishan Ye, Tong Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vlgmhqdvbv"></a>
-2. [Implicit Bias of MSE Gradient Optimization in Underparameterized Neural Networks](https://openreview.net/forum?id=VLgmhQDVBV)
-   - Benjamin Bowman, Guido Montufar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kei9e-gsob"></a>
-3. [Learning Curves for Gaussian Process Regression with Power-Law Priors and Targets](https://openreview.net/forum?id=KeI9E-gsoB)
-   - Hui Jin, Pradeep Kr. Banerjee, Guido Montufar; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-wpi2vbkal3q"></a>
-4. [Learning Curves for SGD on Structured Features](https://openreview.net/forum?id=WPI2vbkAl3Q)
-   - Blake Bordelon, Cengiz Pehlevan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1nvflqadoom"></a>
-5. [Neural Networks as Kernel Learners: The Silent Alignment Effect](https://openreview.net/forum?id=1NvflqAdoom)
-   - Alexander Atanasov, Blake Bordelon, Cengiz Pehlevan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vic-xlfum6"></a>
-6. [Overcoming The Spectral Bias of Neural Value Approximation](https://openreview.net/forum?id=vIC-xLFuM6)
-   - Ge Yang, Anurag Ajay, Pulkit Agrawal; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p7flfmltsex"></a>
-7. [The Spectral Bias of Polynomial Neural Networks](https://openreview.net/forum?id=P7FLfMLTSEX)
-   - Moulik Choraria, Leello Tadesse Dadi, Grigorios Chrysos, Julien Mairal, Volkan Cevher; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-eqmap4f859"></a>
-8. [The Three Stages of Learning Dynamics in High-dimensional Kernel Methods](https://openreview.net/forum?id=EQmAP4F859)
-   - Nikhil Ghosh, Song Mei, Bin Yu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mduyt5qv0o"></a>
-9. [Training Structured Neural Networks Through Manifold Identification and Variance Reduction](https://openreview.net/forum?id=mdUYT5QV0O)
-   - Zih-Syuan Huang, Ching-pei Lee; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sict4xzn5ve"></a>
-10. [What Happens after SGD Reaches Zero Loss? --A Mathematical Framework](https://openreview.net/forum?id=siCt4xZn5Ve)
-   - Zhiyuan Li, Tianhao Wang, Sanjeev Arora; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-htvch9ampa"></a>
+1. [Delaunay Component Analysis for Evaluation of Data Representations](https://openreview.net/forum?id=HTVch9AMPa)
+   - Petra Poklukar, Vladislav Polianskii, Anastasiia Varava, Florian T. Pokorny, Danica Kragic Jensfelt; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-g2lcqwg7of"></a>
+2. [End-to-End Learning of Probabilistic Hierarchies on Graphs](https://openreview.net/forum?id=g2LCQwG7Of)
+   - Daniel Zügner, Bertrand Charpentier, Morgane Ayle, Sascha Geringer, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tbtozykd9n"></a>
+3. [Evaluation Metrics for Graph Generative Models: Problems, Pitfalls, and Practical Solutions](https://openreview.net/forum?id=tBtoZYKd9n)
+   - Leslie O'Bray, Max Horn, Bastian Rieck, Karsten Borgwardt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0kpl3xo4r5"></a>
+4. [Fast topological clustering with Wasserstein distance](https://openreview.net/forum?id=0kPL3xO4R5)
+   - Tananun Songdechakraiwut, Bryan M Krause, Matthew I Banks, Kirill V Nourski, Barry D Van Veen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-atuh28lnsuw"></a>
+5. [Graph Auto-Encoder via Neighborhood Wasserstein Reconstruction](https://openreview.net/forum?id=ATUh28lnSuW)
+   - Mingyue Tang, Pan Li, Carl Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-usigiy6tnde"></a>
+6. [Graph-based Nearest Neighbor Search in Hyperbolic Spaces](https://openreview.net/forum?id=USIgIY6TNDe)
+   - Liudmila Prokhorenkova, Dmitry Baranchuk, Nikolay Bogachev, Yury Demidovich, Alexander Kolpakov; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-stnhcrikdqc"></a>
+7. [Graphon based Clustering and Testing of Networks: Algorithms and Theory](https://openreview.net/forum?id=sTNHCrIKDQc)
+   - Mahalakshmi Sabanayagam, Leena Chennuru Vankadara, Debarghya Ghoshdastidar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-enwczixjsh"></a>
+8. [On Evaluation Metrics for Graph Generative Models](https://openreview.net/forum?id=EnwCZixjSh)
+   - Rylee Thompson, Boris Knyazev, Elahe Ghalebi, Jungtaek Kim, Graham W. Taylor; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rshamexjc-x"></a>
+9. [Semi-relaxed Gromov-Wasserstein divergence and applications on graphs](https://openreview.net/forum?id=RShaMexjc-x)
+   - Cédric Vincent-Cuaz, Rémi Flamary, Marco Corneli, Titouan Vayer, Nicolas Courty; assignment: `hdbscan`; source: `OpenReview`

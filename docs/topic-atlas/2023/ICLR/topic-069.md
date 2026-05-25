@@ -1,50 +1,53 @@
-# ICLR 2023: 目标检测与图像分割
+# ICLR 2023: 蛋白质建模与 AI4Science
 
 - Topic ID: `69`
-- Papers: **10** (0.64%)
-- Macro topic: 计算机视觉
-- English keywords: `active learning / uncertainty / segmentation / label`
-- Keyword pool: active learning; uncertainty; segmentation; label; sgg; ccem; acquisition; annotations; entropy; evidential; uncertainties; object detection
+- Papers: **11** (0.72%)
+- Macro topic: 生成模型
+- English keywords: `protein / amino / structure / equivariant`
+- Keyword pool: protein; amino; structure; equivariant; sequence; scaffolds; acids; mutations; co-design; pre-training; binding; geometric
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Active Learning for Object Detection with Evidential Deep Learning and Hierarchical Uncertainty Aggregation
-- A Simple Yet Powerful Deep Active Learning With Snapshots Ensembles
-- Evidential Uncertainty and Diversity Guided Active Learning for Scene Graph Generation
-- That Label's got Style: Handling Label Style Bias for Uncertain Image Segmentation
-- Modeling Multimodal Aleatoric Uncertainty in Segmentation with Mixture of Stochastic Experts
+- Protein Representation Learning by Geometric Structure Pretraining
+- Protein Sequence and Structure Co-Design with Equivariant Translation
+- Continuous-Discrete Convolution for Geometry-Sequence Modeling in Proteins
+- Multi-level Protein Structure Pre-training via Prompt Learning
+- Diffusion Probabilistic Modeling of Protein Backbones in 3D for the motif-scaffolding problem
 
 ## Papers
 
-<a id="paper-afzaxrimwe"></a>
-1. [A Holistic View of Label Noise Transition Matrix in Deep Learning and Beyond](https://openreview.net/forum?id=aFzaXRImWE)
-   - LIN Yong, Renjie Pi, WEIZHONG ZHANG, Xiaobo Xia, Jiahui Gao, Xiao Zhou, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ivesh65r0ar"></a>
-2. [A Simple Yet Powerful Deep Active Learning With Snapshots Ensembles](https://openreview.net/forum?id=IVESH65r0Ar)
-   - Seohyeon Jung, Sanghyun Kim, Juho Lee; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mnejsw-vj-x"></a>
-3. [Active Learning for Object Detection with Evidential Deep Learning and Hierarchical Uncertainty Aggregation](https://openreview.net/forum?id=MnEjsw-vj-X)
-   - Younghyun Park, Wonjeong Choi, Soyeong Kim, Dong-Jun Han, Jaekyun Moon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ztmuz68b1g"></a>
-4. [Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle](https://openreview.net/forum?id=ZTMuZ68B1g)
-   - Jae Oh Woo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qvhswywb9"></a>
-5. [Deep Learning From Crowdsourced Labels: Coupled Cross-Entropy Minimization, Identifiability, and Regularization](https://openreview.net/forum?id=_qVhsWyWB9)
-   - Shahana Ibrahim, Tri Nguyen, Xiao Fu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xi1zttvotlz"></a>
-6. [Evidential Uncertainty and Diversity Guided Active Learning for Scene Graph Generation](https://openreview.net/forum?id=xI1ZTtVOtlz)
-   - Shuzhou Sun, Shuaifeng Zhi, Janne Heikkilä, Li Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qc-oopmebnc"></a>
-7. [Learning to Segment from Noisy Annotations: A Spatial Correction Approach](https://openreview.net/forum?id=Qc_OopMEBnC)
-   - Jiachen Yao, Yikai Zhang, Songzhu Zheng, Mayank Goswami, Prateek Prasanna, Chao Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ke-wjd2rk4"></a>
-8. [Modeling Multimodal Aleatoric Uncertainty in Segmentation with Mixture of Stochastic Experts](https://openreview.net/forum?id=KE_wJD2RK4)
-   - Zhitong Gao, Yucong Chen, Chuyu Zhang, Xuming He; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-grztigjljly"></a>
-9. [Scalable Batch-Mode Deep Bayesian Active Learning via Equivalence Class Annealing](https://openreview.net/forum?id=GRZtigJljLY)
-   - Renyu Zhang, Aly A Khan, Robert L. Grossman, Yuxin Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wz2svhotzbx"></a>
-10. [That Label's got Style: Handling Label Style Bias for Uncertain Image Segmentation](https://openreview.net/forum?id=wZ2SVhOTzBX)
-   - Kilian Zepf, Eike Petersen, Jes Frellsen, Aasa Feragen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lfhfqbjxiip"></a>
+1. [Conditional Antibody Design as 3D Equivariant Graph Translation](https://openreview.net/forum?id=LFHFQbjxIiP)
+   - Xiangzhe Kong, Wenbing Huang, Yang Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-p5z-zl9xj7"></a>
+2. [Continuous-Discrete Convolution for Geometry-Sequence Modeling in Proteins](https://openreview.net/forum?id=P5Z-Zl9XJ7)
+   - Hehe Fan, Zhangyang Wang, Yi Yang, Mohan Kankanhalli; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6txbxqnme1y"></a>
+3. [Diffusion Probabilistic Modeling of Protein Backbones in 3D for the motif-scaffolding problem](https://openreview.net/forum?id=6TxBxqNME1Y)
+   - Brian L. Trippe, Jason Yim, Doug Tischer, David Baker, Tamara Broderick, Regina Barzilay, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ydjrfwbmnby"></a>
+4. [HotProtein: A Novel Framework for Protein Thermostability Prediction and Editing](https://openreview.net/forum?id=YDJRFWBMNby)
+   - Tianlong Chen, Chengyue Gong, Daniel Jesus Diaz, Xuxi Chen, Jordan Tyler Wells, qiang liu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xgagtij8xc"></a>
+5. [Multi-level Protein Structure Pre-training via Prompt Learning](https://openreview.net/forum?id=XGagtiJ8XC)
+   - Zeyuan Wang, Qiang Zhang, Shuang-Wei HU, Haoran Yu, Xurui Jin, Zhichen Gong, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zaq4lv55xhl"></a>
+6. [On Pre-training Language Model for Antibody](https://openreview.net/forum?id=zaq4LV55xHl)
+   - Danqing Wang, Fei YE, Hao Zhou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-omsn9tywj0j"></a>
+7. [PiFold: Toward effective and efficient protein inverse folding](https://openreview.net/forum?id=oMsN9TYwJ0j)
+   - Zhangyang Gao, Cheng Tan, Stan Z. Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-to3qcb3toh9"></a>
+8. [Protein Representation Learning by Geometric Structure Pretraining](https://openreview.net/forum?id=to3qCB3tOh9)
+   - Zuobai Zhang, Minghao Xu, Arian Rokkum Jamasb, Vijil Chenthamarakshan, Aurelie Lozano, Payel Das, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vbcmhg7mrmj"></a>
+9. [Protein Representation Learning via Knowledge Enhanced Primary Structure Reasoning](https://openreview.net/forum?id=VbCMhg7MRmj)
+   - Hong-Yu Zhou, Yunxiang Fu, Zhicheng Zhang, Bian Cheng, Yizhou Yu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-prcmxcfdihq"></a>
+10. [Protein Sequence and Structure Co-Design with Equivariant Translation](https://openreview.net/forum?id=pRCMXcfdihq)
+   - Chence Shi, Chuanrui Wang, Jiarui Lu, Bozitao Zhong, Jian Tang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-x9yl1k2md"></a>
+11. [Rotamer Density Estimator is an Unsupervised Learner of the Effect of Mutations on Protein-Protein Interaction](https://openreview.net/forum?id=_X9Yl1K2mD)
+   - Shitong Luo, Yufeng Su, Zuofan Wu, Chenpeng Su, Jian Peng, Jianzhu Ma; assignment: `hdbscan`; source: `OpenReview`

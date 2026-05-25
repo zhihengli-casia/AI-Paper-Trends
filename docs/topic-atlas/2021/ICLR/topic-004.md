@@ -1,107 +1,119 @@
-# ICLR 2021: 图神经网络与图表示学习
+# ICLR 2021: 多语言建模与跨语言迁移
 
 - Topic ID: `4`
-- Papers: **29** (3.37%)
-- Macro topic: 图学习/数据挖掘
-- English keywords: `graph / gnns / node / spectral`
-- Keyword pool: graph; gnns; node; spectral; spatio-temporal; forecasting; pooling; time series; convolutional; expressive power; edit; prediction
+- Papers: **33** (3.84%)
+- Macro topic: LLM/语言模型
+- English keywords: `language / translation / transformer / multilingual`
+- Keyword pool: language; translation; transformer; multilingual; embeddings; words; pre-training; bert; natural; protein; sequence; layer
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Combining Label Propagation and Simple Models out-performs Graph Neural Networks
-- On Graph Neural Networks versus Graph-Augmented MLPs
-- Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective
-- Expressive Power of Invariant and Equivariant Graph Neural Networks
-- Accurate Learning of Graph Representations with Graph Multiset Pooling
+- Rethinking Embedding Coupling in Pre-trained Language Models
+- Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation
+- Random Feature Attention
+- Rethinking Positional Encoding in Language Pre-training
+- MixKD: Towards Efficient Distillation of Large-scale Language Models
 
 ## Papers
 
-<a id="paper-tr-nj6nfx42"></a>
-1. [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)
-   - Renjie Liao, Raquel Urtasun, Richard Zemel; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jhcqxgaqign"></a>
-2. [Accurate Learning of Graph Representations with Graph Multiset Pooling](https://openreview.net/forum?id=JHcqXGaqiGn)
-   - Jinheon Baek, Minki Kang, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qkrbdiiejm"></a>
-3. [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://openreview.net/forum?id=QkRbdiiEjM)
-   - Ke Sun, Zhanxing Zhu, Zhouchen Lin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n6jl7flxrp"></a>
-4. [Adaptive Universal Generalized PageRank Graph Neural Network](https://openreview.net/forum?id=n6jl7fLxrP)
-   - Eli Chien, Jianhao Peng, Pan Li, Olgica Milenkovic; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qh0m9xwxnv"></a>
-5. [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
-   - Muhammet Balcilar, Guillaume Renton, Pierre Héroux, Benoit Gaüzère, Sébastien Adam, Paul Honeine; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ebs5nufomkl"></a>
-6. [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://openreview.net/forum?id=ebS5NUfoMKL)
-   - Sergei Ivanov, Liudmila Prokhorenkova; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8e1-f3vhx1o"></a>
-7. [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
-   - Qian Huang, Horace He, Abhay Singh, Ser-Nam Lim, Austin Benson; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xi-oj5yyse"></a>
-8. [CopulaGNN: Towards Integrating Representational and Correlational Roles of Graphs in Graph Neural Networks](https://openreview.net/forum?id=XI-OJ5yyse)
-   - Jiaqi Ma, Bo Chang, Xuefei Zhang, Qiaozhu Mei; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nsbrfgjahg"></a>
-9. [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://openreview.net/forum?id=NSBrFgJAHg)
-   - Shyam Anil Tailor, Javier Fernandez-Marques, Nicholas Donald Lane; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jbuyf437wb6"></a>
-10. [Directed Acyclic Graph Neural Networks](https://openreview.net/forum?id=JbuYF437WB6)
-   - Veronika Thost, Jie Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wehslh5mok"></a>
-11. [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/forum?id=WEHSlH5mOk)
-   - Chao Shang, Jie Chen, Jinbo Bi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pgihq1m7pu"></a>
-12. [Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/forum?id=pGIHq1m7PU)
-   - Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-lxhgxyn4bwl"></a>
-13. [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)
-   - Waiss Azizian, marc lelarge; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uxpzitpeooj"></a>
-14. [Graph Coarsening with Neural Networks](https://openreview.net/forum?id=uxpzitPEooJ)
-   - Chen Cai, Dingkang Wang, Yusu Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9ohfhefeb86"></a>
-15. [Graph Convolution with Low-rank Learnable Local Filters](https://openreview.net/forum?id=9OHFhefeB86)
-   - Xiuyuan Cheng, Zichen Miao, Qiang Qiu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dlejsyhgeal"></a>
-16. [Graph Edit Networks](https://openreview.net/forum?id=dlEJsyHGeaL)
-   - Benjamin Paassen, Daniele Grattarola, Daniele Zambon, Cesare Alippi, Barbara Hammer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bm4iqfg8m2k"></a>
-17. [Graph Information Bottleneck for Subgraph Recognition](https://openreview.net/forum?id=bM4Iqfg8M2k)
-   - Junchi Yu, Tingyang Xu, Yu Rong, Yatao Bian, Junzhou Huang, Ran He; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6doz8xnnfgn"></a>
-18. [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://openreview.net/forum?id=6DOZ8XNNfGN)
-   - Elan Sopher Markowitz, Keshav Balasubramanian, Mehrnoosh Mirtaheri, Sami Abu-El-Haija, Bryan Perozzi, Greg Ver Steeg, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uh-cmocljc"></a>
-19. [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
-   - Keyulu Xu, Mozhi Zhang, Jingling Li, Simon Shaolei Du, Ken-Ichi Kawarabayashi, Stefanie Jegelka; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wi5kunlqwty"></a>
-20. [How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision](https://openreview.net/forum?id=Wi5KUNlqWty)
-   - Dongkwan Kim, Alice Oh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kypz4yscpj"></a>
-21. [Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks](https://openreview.net/forum?id=KYPz4YsCPj)
-   - Yanbang Wang, Yen-Yu Chang, Yunyu Liu, Jure Leskovec, Pan Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wznmqa42zax"></a>
-22. [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://openreview.net/forum?id=WznmQa42ZAx)
-   - Michael Sejr Schlichtkrull, Nicola De Cao, Ivan Titov; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0olrlvrshwq"></a>
-23. [Learning Parametrised Graph Shift Operators](https://openreview.net/forum?id=0OlrLvrsHwQ)
-   - George Dasoulas, Johannes F. Lutzeyer, Michalis Vazirgiannis; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oxnp2q-pgl4"></a>
-24. [Lossless Compression of Structured Convolutional Models via Lifting](https://openreview.net/forum?id=oxnp2q-PGL4)
-   - Gustav Sourek, Filip Zelezny, Ondrej Kuzelka; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tiqi7w64jg2"></a>
-25. [On Graph Neural Networks versus Graph-Augmented MLPs](https://openreview.net/forum?id=tiqI7w64JG2)
-   - Lei Chen, Zhengdao Chen, Joan Bruna; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-i80ophocvh2"></a>
-26. [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://openreview.net/forum?id=i80OPhOCVH2)
-   - Uri Alon, Eran Yahav; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cyo5t-yjwzv"></a>
-27. [Simple Spectral Graph Convolution](https://openreview.net/forum?id=CYO5T-YjWZV)
-   - Hao Zhu, Piotr Koniusz; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cf-ziusmxrz"></a>
-28. [Spatio-Temporal Graph Scattering Transform](https://openreview.net/forum?id=CF-ZIuSMXRz)
-   - Chao Pan, Siheng Chen, Antonio Ortega; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-aaes-3w-2z"></a>
-29. [Wasserstein Embedding for Graph Learning](https://openreview.net/forum?id=AAes_3W-2z)
-   - Soheil Kolouri, Navid Naderializadeh, Gustavo K. Rohde, Heiko Hoffmann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ywtlzvlmud7"></a>
+1. [BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://openreview.net/forum?id=YWtLZvLmud7)
+   - Jesse Vig, Ali Madani, Lav R. Varshney, Caiming Xiong, richard socher, Nazneen Rajani; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xpziaotutsd"></a>
+2. [DEBERTA: DECODING-ENHANCED BERT WITH DISENTANGLED ATTENTION](https://openreview.net/forum?id=XPZIaotutsD)
+   - Pengcheng He, Xiaodong Liu, Jianfeng Gao, Weizhu Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ujmgfuxslro"></a>
+3. [DeLighT: Deep and Light-weight Transformer](https://openreview.net/forum?id=ujmgfuxSLrO)
+   - Sachin Mehta, Marjan Ghazvininejad, Srinivasan Iyer, Luke Zettlemoyer, Hannaneh Hajishirzi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kpfastalupq"></a>
+4. [Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation](https://openreview.net/forum?id=KpfasTaLUpq)
+   - Jungo Kasai, Nikolaos Pappas, Hao Peng, James Cross, Noah Smith; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jp1vth3inc"></a>
+5. [Discovering Non-monotonic Autoregressive Orderings with Variational Inference](https://openreview.net/forum?id=jP1vTH3inC)
+   - Xuanlin Li, Brandon Trabucco, Dong Huk Park, Michael Luo, Sheng Shen, Trevor Darrell, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-a2gnouoxe7"></a>
+6. [Filtered Inner Product Projection for Crosslingual Embedding Alignment](https://openreview.net/forum?id=A2gNouoXE7)
+   - Vin Sachidananda, Ziyi Yang, Chenguang Zhu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qrwe7xhtmyb"></a>
+7. [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://openreview.net/forum?id=qrwe7XHTmYb)
+   - Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hiq1rho8pnt"></a>
+8. [HyperGrid Transformers: Towards A Single Model for Multiple Tasks](https://openreview.net/forum?id=hiq1rHO8pNT)
+   - Yi Tay, Zhe Zhao, Dara Bahri, Donald Metzler, Da-Cheng Juan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ipupfyxwzvm"></a>
+9. [IOT: Instance-wise Layer Reordering for Transformer Structures](https://openreview.net/forum?id=ipUPfYxWZvM)
+   - Jinhua Zhu, Lijun Wu, Yingce Xia, Shufang Xie, Tao Qin, Wengang Zhou, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xygno86owdh"></a>
+10. [Isotropy in the Contextual Embedding Space: Clusters and Manifolds](https://openreview.net/forum?id=xYGNO86OWDH)
+   - Xingyu Cai, Jiaji Huang, Yuchen Bian, Kenneth Church; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-qvyew-grc2k"></a>
+11. [Long Range Arena : A Benchmark for Efficient Transformers](https://openreview.net/forum?id=qVyeW-grC2k)
+   - Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-w1g1jzeiy5"></a>
+12. [MIROSTAT: A NEURAL TEXT DECODING ALGORITHM THAT DIRECTLY CONTROLS PERPLEXITY](https://openreview.net/forum?id=W1G1JZEIy5_)
+   - Sourya Basu, Govardana Sachitanandam Ramachandran, Nitish Shirish Keskar, Lav R. Varshney; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-d7kbjmi3gmq"></a>
+13. [Measuring Massive Multitask Language Understanding](https://openreview.net/forum?id=d7KBjmI3GmQ)
+   - Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-3jjmdp7hha"></a>
+14. [Meta Back-Translation](https://openreview.net/forum?id=3jjmdp7Hha)
+   - Hieu Pham, Xinyi Wang, Yiming Yang, Graham Neubig; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ufgeeljklu5"></a>
+15. [MixKD: Towards Efficient Distillation of Large-scale Language Models](https://openreview.net/forum?id=UFGEelJkLu5)
+   - Kevin J Liang, Weituo Hao, Dinghan Shen, Yufan Zhou, Weizhu Chen, Changyou Chen, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9itxitraot"></a>
+16. [Multi-timescale Representation Learning in LSTM Language Models](https://openreview.net/forum?id=9ITXiTrAoT)
+   - Shivangi Mahto, Vy Ai Vo, Javier S. Turek, Alexander Huth; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-7wcbofj8hjm"></a>
+17. [Nearest Neighbor Machine Translation](https://openreview.net/forum?id=7wCBOfJ8hJM)
+   - Urvashi Khandelwal, Angela Fan, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uu1nw-eetxj"></a>
+18. [On Learning Universal Representations Across Languages](https://openreview.net/forum?id=Uu1Nw-eeTxJ)
+   - Xiangpeng Wei, Rongxiang Weng, Yue Hu, Luxi Xing, Heng Yu, Weihua Luo; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-onxova9fxmw"></a>
+19. [On Position Embeddings in BERT](https://openreview.net/forum?id=onxoVA9FxMw)
+   - Benyou Wang, Lifeng Shang, Christina Lioma, Xin Jiang, Hao Yang, Qun Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1octoshamqb"></a>
+20. [On the Dynamics of Training Attention Models](https://openreview.net/forum?id=1OCTOShAmqB)
+   - Haoye Lu, Yongyi Mao, Amiya Nayak; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-3aoft6nwfej"></a>
+21. [PMI-Masking: Principled masking of correlated spans](https://openreview.net/forum?id=3Aoft6NWFej)
+   - Yoav Levine, Barak Lenz, Opher Lieber, Omri Abend, Kevin Leyton-Brown, Moshe Tennenholtz, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qttktdvrfbb"></a>
+22. [Random Feature Attention](https://openreview.net/forum?id=QtTKTdVrFBB)
+   - Hao Peng, Nikolaos Pappas, Dani Yogatama, Roy Schwartz, Noah Smith, Lingpeng Kong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-naqw7ehifrv"></a>
+23. [Representation Learning for Sequence Data with Deep Autoencoding Predictive Components](https://openreview.net/forum?id=Naqw7EHIfrv)
+   - Junwen Bai, Weiran Wang, Yingbo Zhou, Caiming Xiong; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ua6zuk0wrh"></a>
+24. [Rethinking Attention with Performers](https://openreview.net/forum?id=Ua6zuk0WRH)
+   - Krzysztof Marcin Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xpffi-ntgpw"></a>
+25. [Rethinking Embedding Coupling in Pre-trained Language Models](https://openreview.net/forum?id=xpFFI_NtgpW)
+   - Hyung Won Chung, Thibault Fevry, Henry Tsai, Melvin Johnson, Sebastian Ruder; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-09-528y2fgf"></a>
+26. [Rethinking Positional Encoding in Language Pre-training](https://openreview.net/forum?id=09-528y2Fgf)
+   - Guolin Ke, Di He, Tie-Yan Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oyzxhri2rie"></a>
+27. [SCoRe: Pre-Training for Context Representation in Conversational Semantic Parsing](https://openreview.net/forum?id=oyZxhRI2RiE)
+   - Tao Yu, Rui Zhang, Alex Polozov, Christopher Meek, Ahmed Hassan Awadallah; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-wj4odo0uycf"></a>
+28. [Share or Not? Learning to Schedule Language-Specific Capacity for Multilingual Translation](https://openreview.net/forum?id=Wj4ODo0uyCF)
+   - Biao Zhang, Ankur Bapna, Rico Sennrich, Orhan Firat; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-us-tp-xnxi"></a>
+29. [Structured Prediction as Translation between Augmented Natural Languages](https://openreview.net/forum?id=US-TP-xnXI)
+   - Giovanni Paolini, Ben Athiwaratkun, Jason Krone, Jie Ma, Alessandro Achille, RISHITA ANUBHAI, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-lu5rs-wcwen"></a>
+30. [Taking Notes on the Fly Helps Language Pre-Training](https://openreview.net/forum?id=lU5Rs_wCweN)
+   - Qiyu Wu, Chen Xing, Yatao Li, Guolin Ke, Di He, Tie-Yan Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fylcleqgvgd"></a>
+31. [Transformer protein language models are unsupervised structure learners](https://openreview.net/forum?id=fylclEqgvgd)
+   - Roshan Rao, Joshua Meier, Tom Sercu, Sergey Ovchinnikov, Alexander Rives; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-n1hd8m6wgn"></a>
+32. [Understanding and Improving Encoder Layer Fusion in Sequence-to-Sequence Learning](https://openreview.net/forum?id=n1HD8M6WGn)
+   - Xuebo Liu, Longyue Wang, Derek F. Wong, Liang Ding, Lidia S. Chao, Zhaopeng Tu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ztfesbix9c"></a>
+33. [Understanding and Improving Lexical Choice in Non-Autoregressive Translation](https://openreview.net/forum?id=ZTFeSBIX9C)
+   - Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao, Zhaopeng Tu; assignment: `hdbscan`; source: `OpenReview`

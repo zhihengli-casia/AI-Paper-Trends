@@ -1,104 +1,107 @@
-# ICLR 2022: 对抗攻击、鲁棒性与安全
+# ICLR 2022: 强化学习策略与奖励建模
 
 - Topic ID: `6`
-- Papers: **28** (2.56%)
-- Macro topic: 可信/安全/公平
-- English keywords: `adversarial / robustness / certified / attacks`
-- Keyword pool: adversarial; robustness; certified; attacks; perturbations; examples; smoothing; ensemble; red; norm; batch size; randomized
+- Papers: **29** (2.73%)
+- Macro topic: 强化学习/决策
+- English keywords: `offline / reward / reinforcement learning / policy`
+- Keyword pool: offline; reward; reinforcement learning; policy; value; demonstrations; imitation; q-learning; environments; learning rl; agents; expert
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Provably Robust Adversarial Examples
-- A Unified Wasserstein Distributional Robustness Framework for Adversarial Training
-- Robust Learning Meets Generative Models: Can Proxy Distributions Improve Adversarial Robustness?
-- Implicit Bias of Adversarial Training for Deep Neural Networks
-- Reducing Excessive Margin to Achieve a Better Accuracy vs. Robustness Trade-off
+- Learning Value Functions from Undirected State-only Experience
+- DARA: Dynamics-Aware Reward Augmentation in Offline Reinforcement Learning
+- Offline Reinforcement Learning with Implicit Q-Learning
+- Reinforcement Learning with Sparse Rewards using Guidance from Offline Demonstration
+- Orchestrated Value Mapping for Reinforcement Learning
 
 ## Papers
 
-<a id="paper-dzpe9c1mpiv"></a>
-1. [A Unified Wasserstein Distributional Robustness Framework for Adversarial Training](https://openreview.net/forum?id=Dzpe9C1mpiv)
-   - Anh Tuan Bui, Trung Le, Quan Hung Tran, He Zhao, Dinh Phung; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-czai1ywpixq"></a>
-2. [Adversarial Robustness Through the Lens of Causality](https://openreview.net/forum?id=cZAi1yWpiXQ)
-   - Yonggang Zhang, Mingming Gong, Tongliang Liu, Gang Niu, Xinmei Tian, Bo Han, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9l1bsi4wp1h"></a>
-3. [Adversarially Robust Conformal Prediction](https://openreview.net/forum?id=9L1BsI4wP1H)
-   - Asaf Gendler, Tsui-Wei Weng, Luca Daniel, Yaniv Romano; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-gjlexy3yspu"></a>
-4. [Almost Tight L0-norm Certified Robustness of Top-k Predictions against Adversarial Perturbations](https://openreview.net/forum?id=gJLEXy3ySpu)
-   - Jinyuan Jia, Binghui Wang, Xiaoyu Cao, Hongbin Liu, Neil Zhenqiang Gong; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mhu2vids-b"></a>
-5. [Boosting Randomized Smoothing with Variance Reduced Classifiers](https://openreview.net/forum?id=mHu2vIds_-b)
-   - Miklós Z. Horváth, Mark Niklas Mueller, Marc Fischer, Martin Vechev; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-q76y7wkiji"></a>
-6. [Boosting the Certified Robustness of L-infinity Distance Nets](https://openreview.net/forum?id=Q76Y7wkiji)
-   - Bohang Zhang, Du Jiang, Di He, Liwei Wang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-rw1mzl-ss3l"></a>
-7. [Concurrent Adversarial Learning for Large-Batch Training](https://openreview.net/forum?id=rw1mZl_ss3L)
-   - Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jjojjizhy3h"></a>
-8. [Defending Against Image Corruptions Through Adversarial Augmentations](https://openreview.net/forum?id=jJOjjiZHy3h)
-   - Dan Andrei Calian, Florian Stimberg, Olivia Wiles, Sylvestre-Alvise Rebuffi, András György, Timothy A Mann, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-af1eudduvz"></a>
-9. [Evading Adversarial Example Detection Defenses with Orthogonal Projected Gradient Descent](https://openreview.net/forum?id=af1eUDdUVz)
-   - Oliver Bryniarski, Nabeel Hingun, Pedro Pachuca, Vincent Wang, Nicholas Carlini; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7ge9v9gbzai"></a>
-10. [Exploring Memorization in Adversarial Training](https://openreview.net/forum?id=7gE9V9GBZaI)
-   - Yinpeng Dong, Ke Xu, Xiao Yang, Tianyu Pang, Zhijie Deng, Hang Su, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-brfikuxrze"></a>
-11. [Fair Normalizing Flows](https://openreview.net/forum?id=BrFIKuxrZE)
-   - Mislav Balunovic, Anian Ruoss, Martin Vechev; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-hcoswsdhnaw"></a>
-12. [Fast AdvProp](https://openreview.net/forum?id=hcoswsDHNAW)
-   - Jieru Mei, Yucheng Han, Yutong Bai, Yixiao Zhang, Yingwei Li, Xianhang Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vjz7dpijip3"></a>
-13. [Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness](https://openreview.net/forum?id=vJZ7dPIjip3)
-   - Simon Geisler, Johanna Sommer, Jan Schuchardt, Aleksandar Bojchevski, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-l8it-0le5e7"></a>
-14. [Implicit Bias of Adversarial Training for Deep Neural Networks](https://openreview.net/forum?id=l8It-0lE5e7)
-   - Bochen Lv, Zhanxing Zhu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-td7ectaskr"></a>
-15. [Improved deterministic l2 robustness on CIFAR-10 and CIFAR-100](https://openreview.net/forum?id=tD7eCtaSkR)
-   - Sahil Singla, Surbhi Singla, Soheil Feizi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nc0etaieux"></a>
-16. [Minimax Optimality (Probably) Doesn't Imply Distribution Learning for GANs](https://openreview.net/forum?id=nc0ETaieux)
-   - Sitan Chen, Jerry Li, Yuanzhi Li, Raghu Meka; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-tua4rejgjtf"></a>
-17. [On the Certified Robustness for Ensemble Models and Beyond](https://openreview.net/forum?id=tUa4REjGjTf)
-   - Zhuolin Yang, Linyi Li, Xiaojun Xu, Bhavya Kailkhura, Tao Xie, Bo Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yeshu5mlflt"></a>
-18. [On the Convergence of Certified Robust Training with Interval Bound Propagation](https://openreview.net/forum?id=YeShU5mLfLt)
-   - Yihan Wang, Zhouxing Shi, Quanquan Gu, Cho-Jui Hsieh; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-3eirli0twq"></a>
-19. [On the Importance of Difficulty Calibration in Membership Inference Attacks](https://openreview.net/forum?id=3eIrli0TwQ)
-   - Lauren Watson, Chuan Guo, Graham Cormode, Alexandre Sablayrolles; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-mwdfai8nbrj"></a>
-20. [Policy Smoothing for Provably Robust Reinforcement Learning](https://openreview.net/forum?id=mwdfai8NBrJ)
-   - Aounon Kumar, Alexander Levine, Soheil Feizi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-umfhomtiap5"></a>
-21. [Provably Robust Adversarial Examples](https://openreview.net/forum?id=UMfhoMtIaP5)
-   - Dimitar Iliev Dimitrov, Gagandeep Singh, Timon Gehr, Martin Vechev; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-azh9qbq4tr7"></a>
-22. [Reducing Excessive Margin to Achieve a Better Accuracy vs. Robustness Trade-off](https://openreview.net/forum?id=Azh9QBQ4tR7)
-   - Rahul Rade, Seyed-Mohsen Moosavi-Dezfooli; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-u6trgdzhfip"></a>
-23. [Reliable Adversarial Distillation with Unreliable Teachers](https://openreview.net/forum?id=u6TRGdzhfip)
-   - Jianing Zhu, Jiangchao Yao, Bo Han, Jingfeng Zhang, Tongliang Liu, Gang Niu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gpp7cf0xdfn"></a>
-24. [Reverse Engineering of Imperceptible Adversarial Image Perturbations](https://openreview.net/forum?id=gpp7cf0xdfN)
-   - Yifan Gong, Yuguang Yao, Yize Li, Yimeng Zhang, Xiaoming Liu, Xue Lin, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wvx0nnvbbkv"></a>
-25. [Robust Learning Meets Generative Models: Can Proxy Distributions Improve Adversarial Robustness?](https://openreview.net/forum?id=WVX0NNVBBkV)
-   - Vikash Sehwag, Saeed Mahloujifar, Tinashe Handina, Sihui Dai, Chong Xiang, Mung Chiang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ou3atsmerqv"></a>
-26. [Self-ensemble Adversarial Training for Improved Robustness](https://openreview.net/forum?id=oU3aTsmeRQV)
-   - Hongjun Wang, Yisen Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bmjv7kyamg"></a>
-27. [Towards Understanding the Robustness Against Evasion Attack on Categorical Data](https://openreview.net/forum?id=BmJV7kyAmg)
-   - Hongyan Bao, Yufei Han, Yujun Zhou, Yun Shen, Xiangliang Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6et9szlgnx"></a>
-28. [Understanding Intrinsic Robustness Using Label Uncertainty](https://openreview.net/forum?id=6ET9SzlgNX)
-   - Xiao Zhang, David Evans; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-8h5bpvwvt5"></a>
+1. [AdaRL: What, Where, and How to Adapt in Transfer Reinforcement Learning](https://openreview.net/forum?id=8H5bpVwvt5)
+   - Biwei Huang, Fan Feng, Chaochao Lu, Sara Magliacane, Kun Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ledobtlmcjs"></a>
+2. [Bi-linear Value Networks for Multi-goal Reinforcement Learning](https://openreview.net/forum?id=LedObtLmCjS)
+   - Zhang-Wei Hong, Ge Yang, Pulkit Agrawal; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qytbxtztipq"></a>
+3. [CrowdPlay: Crowdsourcing Human Demonstrations for Offline Learning](https://openreview.net/forum?id=qyTBxTztIpQ)
+   - Matthias Gerstgrasser, Rakshit Trivedi, David C. Parkes; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9sdqb3b68k"></a>
+4. [DARA: Dynamics-Aware Reward Augmentation in Offline Reinforcement Learning](https://openreview.net/forum?id=9SDQB3b68K)
+   - Jinxin Liu, Zhang Hongyin, Donglin Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-povmvli91f"></a>
+5. [DR3: Value-Based Deep Reinforcement Learning Requires Explicit Regularization](https://openreview.net/forum?id=POvMvLi91f)
+   - Aviral Kumar, Rishabh Agarwal, Tengyu Ma, Aaron Courville, George Tucker, Sergey Levine; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-brpdx1bdzkq"></a>
+6. [DemoDICE: Offline Imitation Learning with Supplementary Imperfect Demonstrations](https://openreview.net/forum?id=BrPdX1bDZkQ)
+   - Geon-Hyeong Kim, Seokin Seo, Jongmin Lee, Wonseok Jeon, HyeongJoo Hwang, Hongseok Yang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-c8ltz08ptbp"></a>
+7. [Distributional Reinforcement Learning with Monotonic Splines](https://openreview.net/forum?id=C8Ltz08PtBp)
+   - Yudong Luo, Guiliang Liu, Haonan Duan, Oliver Schulte, Pascal Poupart; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xcvjmspv3rt"></a>
+8. [Dropout Q-Functions for Doubly Efficient Reinforcement Learning](https://openreview.net/forum?id=xCVJMsPv3RT)
+   - Takuya Hiraoka, Takahisa Imagawa, Taisei Hashimoto, Takashi Onishi, Yoshimasa Tsuruoka; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-calfykvs87"></a>
+9. [Dynamics-Aware Comparison of Learned Reward Functions](https://openreview.net/forum?id=CALFyKVs87)
+   - Blake Wulfe, Logan Michael Ellis, Jean Mercat, Rowan Thomas McAllister, Adrien Gaidon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0cgu-bzp2ky"></a>
+10. [Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization](https://openreview.net/forum?id=0cgU-BZp2ky)
+   - Quanyi Li, Zhenghao Peng, Bolei Zhou; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-cajxvodl-v"></a>
+11. [Generalized Decision Transformer for Offline Hindsight Information Matching](https://openreview.net/forum?id=CAjxVodl_v)
+   - Hiroki Furuta, Yutaka Matsuo, Shixiang Shane Gu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-1zwleytepyx"></a>
+12. [Imitation Learning by Reinforcement Learning](https://openreview.net/forum?id=1zwleytEpYx)
+   - Kamil Ciosek; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9xhgmsnvhu"></a>
+13. [Is High Variance Unavoidable in RL? A Case Study in Continuous Control](https://openreview.net/forum?id=9xhgmsNVHu)
+   - Johan Bjorck, Carla P Gomes, Kilian Q Weinberger; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-lpkgn3k2ydd"></a>
+14. [Learning Long-Term Reward Redistribution via Randomized Return Decomposition](https://openreview.net/forum?id=lpkGn3k2YdD)
+   - Zhizhou Ren, Ruihan Guo, Yuan Zhou, Jian Peng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-c1-eshn6avn"></a>
+15. [Learning Synthetic Environments and Reward Networks for Reinforcement Learning](https://openreview.net/forum?id=C1_esHN6AVn)
+   - Fabio Ferreira, Thomas Nierhoff, Andreas Sälinger, Frank Hutter; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6pe99juo9gd"></a>
+16. [Learning Value Functions from Undirected State-only Experience](https://openreview.net/forum?id=6Pe99Juo9gd)
+   - Matthew Chang, Arjun Gupta, Saurabh Gupta; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sj-yyes8"></a>
+17. [Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning](https://openreview.net/forum?id=_SJ-_yyes8)
+   - Denis Yarats, Rob Fergus, Alessandro Lazaric, Lerrel Pinto; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-spifuuca3f"></a>
+18. [Offline Neural Contextual Bandits: Pessimism, Optimization and Generalization](https://openreview.net/forum?id=sPIFuucA3F)
+   - Thanh Nguyen-Tang, Sunil Gupta, A. Tuan Nguyen, Svetha Venkatesh; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-68n2s9zjwf8"></a>
+19. [Offline Reinforcement Learning with Implicit Q-Learning](https://openreview.net/forum?id=68n2s9ZJWF8)
+   - Ilya Kostrikov, Ashvin Nair, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rczqv9nxlz"></a>
+20. [Offline Reinforcement Learning with Value-based Episodic Memory](https://openreview.net/forum?id=RCZqv9NXlZ)
+   - Xiaoteng Ma, Yiqin Yang, Hao Hu, Jun Yang, Chongjie Zhang, Qianchuan Zhao, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-c87d0ts4yx"></a>
+21. [Orchestrated Value Mapping for Reinforcement Learning](https://openreview.net/forum?id=c87d0TS4yX)
+   - Mehdi Fatemi, Arash Tavakoli; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ehautlm2ehg"></a>
+22. [Policy Gradients Incorporating the Future](https://openreview.net/forum?id=EHaUTlm2eHg)
+   - David Venuto, Elaine Lau, Doina Precup, Ofir Nachum; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yj1wzgmvsmt"></a>
+23. [Reinforcement Learning with Sparse Rewards using Guidance from Offline Demonstration](https://openreview.net/forum?id=YJ1WzgMVsMt)
+   - Desik Rengarajan, Gargi Vaidya, Akshay Sarvesh, Dileep Kalathil, Srinivas Shakkottai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-s874xaipkr"></a>
+24. [RvS: What is Essential for Offline RL via Supervised Learning?](https://openreview.net/forum?id=S874XAIpkR-)
+   - Scott Emmons, Benjamin Eysenbach, Ilya Kostrikov, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tfhfzlq2ejo"></a>
+25. [SURF: Semi-supervised Reward Learning with Data Augmentation for Feedback-efficient Preference-based Reinforcement Learning](https://openreview.net/forum?id=TfhfZLQ2EJO)
+   - Jongjin Park, Younggyo Seo, Jinwoo Shin, Honglak Lee, Pieter Abbeel, Kimin Lee; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ap1mkt37rj"></a>
+26. [Should I Run Offline Reinforcement Learning or Behavioral Cloning?](https://openreview.net/forum?id=AP1MKT37rJ)
+   - Aviral Kumar, Joey Hong, Anikait Singh, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jytwgwil7ye"></a>
+27. [The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://openreview.net/forum?id=JYtwGwIL7ye)
+   - Alexander Pan, Kush Bhatia, Jacob Steinhardt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-shbagesk3qm"></a>
+28. [Understanding and Leveraging Overparameterization in Recursive Value Estimation](https://openreview.net/forum?id=shbAgEsk3qM)
+   - Chenjun Xiao, Bo Dai, Jincheng Mei, Oscar A Ramirez, Ramki Gummadi, Chris Harris, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-zkc8wkolbq7"></a>
+29. [Understanding and Preventing Capacity Loss in Reinforcement Learning](https://openreview.net/forum?id=ZkC8wKoLbQ7)
+   - Clare Lyle, Mark Rowland, Will Dabney; assignment: `nearest_centroid`; source: `OpenReview`

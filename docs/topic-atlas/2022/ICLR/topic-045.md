@@ -1,53 +1,53 @@
-# ICLR 2022: 机器人操作与具身智能
+# ICLR 2022: 机器翻译与跨语言对齐
 
 - Topic ID: `45`
-- Papers: **11** (1.01%)
-- Macro topic: 强化学习/决策
-- English keywords: `reinforcement / robot / long-horizon / meta-learning`
-- Keyword pool: reinforcement; robot; long-horizon; meta-learning; demonstrations; continual; meta-rl; agent; lifelong; relabeling; experience; composition
+- Papers: **11** (1.04%)
+- Macro topic: LLM/语言模型
+- English keywords: `language / translation / locality / document`
+- Keyword pool: language; translation; locality; document; masked; beam search; tokens; autoregressive; sequence; crfs; generation; topic
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Skill-based Meta-Reinforcement Learning
-- CoMPS: Continual Meta Policy Search
-- Autonomous Reinforcement Learning: Formalism and Benchmarking
-- Generalisation in Lifelong Reinforcement Learning through Logical Composition
-- Bootstrapped Meta-Learning
+- Evaluating Distributional Distortion in Neural Language Modeling
+- Exposing the Implicit Energy Networks behind Masked Language Models via Metropolis--Hastings
+- Constraining Linear-chain CRFs to Regular Languages
+- Language modeling via stochastic processes
+- Step-unrolled Denoising Autoencoders for Text Generation
 
 ## Papers
 
-<a id="paper-nkaba3nd7b5"></a>
-1. [Autonomous Reinforcement Learning: Formalism and Benchmarking](https://openreview.net/forum?id=nkaba3ND7B5)
-   - Archit Sharma, Kelvin Xu, Nikhil Sardana, Abhishek Gupta, Karol Hausman, Sergey Levine, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-b-ny3x071e5"></a>
-2. [Bootstrapped Meta-Learning](https://openreview.net/forum?id=b-ny3x071E5)
-   - Sebastian Flennerhag, Yannick Schroecker, Tom Zahavy, Hado van Hasselt, David Silver, Satinder Singh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pvj6j87gohz"></a>
-3. [CoMPS: Continual Meta Policy Search](https://openreview.net/forum?id=PVJ6j87gOHz)
-   - Glen Berseth, Zhiwei Zhang, Grace Zhang, Chelsea Finn, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zocx-eybqol"></a>
-4. [Generalisation in Lifelong Reinforcement Learning through Logical Composition](https://openreview.net/forum?id=ZOcX-eybqoL)
-   - Geraud Nangue Tasse, Steven James, Benjamin Rosman; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p7ovkheohoz"></a>
-5. [Hindsight Foresight Relabeling for Meta-Reinforcement Learning](https://openreview.net/forum?id=P7OVkHEoHOZ)
-   - Michael Wan, Jian Peng, Tanmay Gangwani; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ktpuisx4pmo"></a>
-6. [Meta-Imitation Learning by Watching Video Demonstrations](https://openreview.net/forum?id=KTPuIsx4pmo)
-   - Jiayi Li, Tao Lu, Xiaoge Cao, Yinghao Cai, Shuo Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-opmqtk-gvyl"></a>
-7. [MetaMorph: Learning Universal Controllers with Transformers](https://openreview.net/forum?id=Opmqtk_GvYL)
-   - Agrim Gupta, Linxi Fan, Surya Ganguli, Li Fei-Fei; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-5xmlzdslfnn"></a>
-8. [Modular Lifelong Reinforcement Learning via Neural Composition](https://openreview.net/forum?id=5XmLzdslFNN)
-   - Jorge A Mendez, Harm van Seijen, ERIC EATON; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6tk2nobdvxt"></a>
-9. [Programmatic Reinforcement Learning without Oracles](https://openreview.net/forum?id=6Tk2noBdvxt)
-   - Wenjie Qiu, He Zhu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jelw-fh9bv"></a>
-10. [Skill-based Meta-Reinforcement Learning](https://openreview.net/forum?id=jeLW-Fh9bV)
-   - Taewook Nam, Shao-Hua Sun, Karl Pertsch, Sung Ju Hwang, Joseph J Lim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fkp8-piro3y"></a>
-11. [Wish you were here: Hindsight Goal Selection for long-horizon dexterous manipulation](https://openreview.net/forum?id=FKp8-pIRo3y)
-   - Todor Davchev, Oleg Olegovich Sushkov, Jean-Baptiste Regli, Stefan Schaal, Yusuf Aytar, Markus Wulfmeier, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nnu3iumjmn"></a>
+1. [Capturing Structural Locality in Non-parametric Language Models](https://openreview.net/forum?id=nnU3IUMJmN)
+   - Frank F. Xu, Junxian He, Graham Neubig, Vincent Josua Hellendoorn; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jbrgwbv8nd"></a>
+2. [Constraining Linear-chain CRFs to Regular Languages](https://openreview.net/forum?id=jbrgwbv8nD)
+   - Sean Papay, Roman Klinger, Sebastian Pado; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rhoius8kqm9"></a>
+3. [Enabling Arbitrary Translation Objectives with Adaptive Tree Search](https://openreview.net/forum?id=rhOiUS8KQM9)
+   - Wang Ling, Wojciech Stokowiec, Domenic Donato, Chris Dyer, Lei Yu, Laurent Sartran, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bttefbu99ye"></a>
+4. [Evaluating Distributional Distortion in Neural Language Modeling](https://openreview.net/forum?id=bTteFbU99ye)
+   - Benjamin LeBrun, Alessandro Sordoni, Timothy J. O'Donnell; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6pvwo1kevlt"></a>
+5. [Exposing the Implicit Energy Networks behind Masked Language Models via Metropolis--Hastings](https://openreview.net/forum?id=6PvWo1kEvlT)
+   - Kartik Goyal, Chris Dyer, Taylor Berg-Kirkpatrick; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-i2hw58khp8o"></a>
+6. [Improving Non-Autoregressive Translation Models Without Distillation](https://openreview.net/forum?id=I2Hw58KHp8O)
+   - Xiao Shi Huang, Felipe Perez, Maksims Volkovs; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pmqwkl1yctf"></a>
+7. [Language modeling via stochastic processes](https://openreview.net/forum?id=pMQwKL1yctf)
+   - Rose E Wang, Esin Durmus, Noah Goodman, Tatsunori Hashimoto; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ebcmoocuejf"></a>
+8. [On Robust Prefix-Tuning for Text Classification](https://openreview.net/forum?id=eBCmOocUejf)
+   - Zonghan Yang, Yang Liu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-iymutbgzjfu"></a>
+9. [Representing Mixtures of Word Embeddings with Mixtures of Topic Embeddings](https://openreview.net/forum?id=IYMuTbGzjFU)
+   - dongsheng wang, Dan dan Guo, He Zhao, Huangjie Zheng, Korawat Tanwisuth, Bo Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-t0gpzbq1fg6"></a>
+10. [Step-unrolled Denoising Autoencoders for Text Generation](https://openreview.net/forum?id=T0GpzBQ1Fg6)
+   - Nikolay Savinov, Junyoung Chung, Mikolaj Binkowski, Erich Elsen, Aaron van den Oord; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pz1euxohm4h"></a>
+11. [Target-Side Input Augmentation for Sequence to Sequence Generation](https://openreview.net/forum?id=pz1euXohm4H)
+   - Shufang Xie, Ang Lv, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, et al.; assignment: `hdbscan`; source: `OpenReview`

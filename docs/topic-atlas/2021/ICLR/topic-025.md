@@ -1,65 +1,65 @@
-# ICLR 2021: continual / forgetting / lifelong / memory
+# ICLR 2021: regression / correspondence / minimax / search
 
 - Topic ID: `25`
-- Papers: **15** (1.74%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `continual / forgetting / lifelong / memory`
-- Keyword pool: continual; forgetting; lifelong; memory; catastrophic; tickets; online; rnns; pruning; minima; multitask; explanations
+- Papers: **15** (1.75%)
+- Macro topic: 强化学习/决策
+- English keywords: `regression / correspondence / minimax / search`
+- Keyword pool: regression; correspondence; minimax; search; pareto; maml; treatment; learning rate; instrumental; hyperparameter; uncertainty; routing
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Efficient Continual Learning with Modular Networks and Task-Driven Priors
-- Linear Mode Connectivity in Multitask and Continual Learning
-- Gradient Projection Memory for Continual Learning
-- Continual learning in recurrent neural networks
-- Contextual Transformation Networks for Online Continual Learning
+- Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation
+- Learning A Minimax Optimizer: A Pilot Study
+- Few-Shot Bayesian Optimization with Deep Kernel Surrogates
+- Learning to Make Decisions via Submodular Regularization
+- Sample-Efficient Automated Deep Reinforcement Learning
 
 ## Papers
 
-<a id="paper-lhy8qdugsuw"></a>
-1. [Anatomy of Catastrophic Forgetting: Hidden Representations and Task Semantics](https://openreview.net/forum?id=LhY8QdUGSuw)
-   - Vinay Venkatesh Ramasesh, Ethan Dyer, Maithra Raghu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-f2v4aqel6ze"></a>
-2. [CPR: Classifier-Projection Regularization for Continual Learning](https://openreview.net/forum?id=F2v4aqEL6ze)
-   - Sungmin Cha, Hsiang Hsu, Taebaek Hwang, Flavio Calmon, Taesup Moon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zx-ux-bo7ch"></a>
-3. [Contextual Transformation Networks for Online Continual Learning](https://openreview.net/forum?id=zx_uX-BO7CH)
-   - Quang Pham, Chenghao Liu, Doyen Sahoo, Steven HOI; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8xebugd8u9"></a>
-4. [Continual learning in recurrent neural networks](https://openreview.net/forum?id=8xeBUgD8u9)
-   - Benjamin Ehret, Christian Henning, Maria Cervera, Alexander Meulemans, Johannes von Oswald, Benjamin F Grewe; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lwaz5a9lcfu"></a>
-5. [EEC: Learning to Encode and Regenerate Images for Continual Learning](https://openreview.net/forum?id=lWaz5a9lcFU)
-   - Ali Ayub, Alan Wagner; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ekv158tsfwv"></a>
-6. [Efficient Continual Learning with Modular Networks and Task-Driven Priors](https://openreview.net/forum?id=EKV158tSfwv)
-   - Tom Veniat, Ludovic Denoyer, MarcAurelio Ranzato; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-im-affhna9"></a>
-7. [Generalized Variational Continual Learning](https://openreview.net/forum?id=_IM-AfFhna9)
-   - Noel Loo, Siddharth Swaroop, Richard E Turner; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3aoj0rcnc2"></a>
-8. [Gradient Projection Memory for Continual Learning](https://openreview.net/forum?id=3AOj0RCNC2)
-   - Gobinda Saha, Isha Garg, Kaushik Roy; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hhsekonpvao"></a>
-9. [Graph-Based Continual Learning](https://openreview.net/forum?id=HHSEKOnPvaO)
-   - Binh Tang, David S. Matteson; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qowatn-b8t"></a>
-10. [Kanerva++: Extending the Kanerva Machine With Differentiable, Locally Block Allocated Latent Memory](https://openreview.net/forum?id=QoWatN-b8T)
-   - Jason Ramapuram, Yan Wu, Alexandros Kalousis; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-adwd4tjo13g"></a>
-11. [Lifelong Learning of Compositional Structures](https://openreview.net/forum?id=ADWd4TJO13G)
-   - Jorge A Mendez, ERIC EATON; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fmg-fqyuejf"></a>
-12. [Linear Mode Connectivity in Multitask and Continual Learning](https://openreview.net/forum?id=Fmg_fQYUejf)
-   - Seyed Iman Mirzadeh, Mehrdad Farajtabar, Dilan Gorur, Razvan Pascanu, Hassan Ghasemzadeh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lxmsvpmsm0g"></a>
-13. [Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning](https://openreview.net/forum?id=LXMSvPmsm0g)
-   - Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-thgjomfy6ni"></a>
-14. [Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting](https://openreview.net/forum?id=tHgJoMfy6nI)
-   - Sayna Ebrahimi, Suzanne Petryk, Akash Gokul, William Gan, Joseph E. Gonzalez, Marcus Rohrbach, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ozivhv04xgc"></a>
-15. [Wandering within a world: Online contextualized few-shot learning](https://openreview.net/forum?id=oZIvHV04XgC)
-   - Mengye Ren, Michael Louis Iuzzolino, Michael Curtis Mozer, Richard Zemel; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-l35sb-rasq"></a>
+1. [A Hypergradient Approach to Robust Regression without Correspondence](https://openreview.net/forum?id=l35SB-_raSQ)
+   - Yujia Xie, Yixiu Mao, Simiao Zuo, Hongteng Xu, Xiaojing Ye, Tuo Zhao, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-slrqm9-lyju"></a>
+2. [AutoLRS: Automatic Learning-Rate Schedule by Bayesian Optimization on the Fly](https://openreview.net/forum?id=SlrqM9_lyju)
+   - Yuchen Jin, Tianyi Zhou, Liangyu Zhao, Yibo Zhu, Chuanxiong Guo, Marco Canini, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vblh04pra3"></a>
+3. [ECONOMIC HYPERPARAMETER OPTIMIZATION WITH BLENDED SEARCH STRATEGY](https://openreview.net/forum?id=VbLH04pRA3)
+   - Chi Wang, Qingyun Wu, Silu Huang, Amin Saied; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bjxgv5c3syc"></a>
+4. [Few-Shot Bayesian Optimization with Deep Kernel Surrogates](https://openreview.net/forum?id=bJxgv5C3sYc)
+   - Martin Wistuba, Josif Grabocka; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nkidwi6oo4"></a>
+5. [Learning A Minimax Optimizer: A Pilot Study](https://openreview.net/forum?id=nkIDwI6oO4_)
+   - Jiayi Shen, Xiaohan Chen, Howard Heaton, Tianlong Chen, Jialin Liu, Wotao Yin, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sy4kg-zqms7"></a>
+6. [Learning Deep Features in Instrumental Variable Regression](https://openreview.net/forum?id=sy4Kg_ZQmS7)
+   - Liyuan Xu, Yutian Chen, Siddarth Srinivasan, Nando de Freitas, Arnaud Doucet, Arthur Gretton; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-90jprvrjbo"></a>
+7. [Learning a Latent Search Space for Routing Problems using Variational Autoencoders](https://openreview.net/forum?id=90JprVrJBO)
+   - André Hottung, Bhanu Bhandari, Kevin Tierney; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-njf772f4zzr"></a>
+8. [Learning the Pareto Front with Hypernetworks](https://openreview.net/forum?id=NjF772F4ZZR)
+   - Aviv Navon, Aviv Shamsian, Ethan Fetaya, Gal Chechik; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ac288vng-7u"></a>
+9. [Learning to Make Decisions via Submodular Regularization](https://openreview.net/forum?id=ac288vnG_7U)
+   - Ayya Alieva, Aiden Aceves, Jialin Song, Stephen Mayo, Yisong Yue, Yuxin Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-60j5lygnmd"></a>
+10. [Meta-learning with negative learning rates](https://openreview.net/forum?id=60j5LygnmD)
+   - Alberto Bernacchia; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-zdnzzrtqu9n"></a>
+11. [Modeling the Second Player in Distributionally Robust Optimization](https://openreview.net/forum?id=ZDnzZrTqU9N)
+   - Paul Michel, Tatsunori Hashimoto, Graham Neubig; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fmmkso4e8jk"></a>
+12. [Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation](https://openreview.net/forum?id=FmMKSO4e8JK)
+   - Justin Fu, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qklmtphg5-h"></a>
+13. [Repurposing Pretrained Models for Robust Out-of-domain Few-Shot Learning](https://openreview.net/forum?id=qkLMTphG5-h)
+   - Namyeong Kwon, Hwidong Na, Gabriel Huang, Simon Lacoste-Julien; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-hsjxq3b7gwq"></a>
+14. [Sample-Efficient Automated Deep Reinforcement Learning](https://openreview.net/forum?id=hSjxQ3B7GWq)
+   - Jörg K.H. Franke, Gregor Koehler, André Biedenkapp, Frank Hutter; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-rmb-88r9dl"></a>
+15. [VCNet and Functional Targeted Regularization For Learning Causal Effects of Continuous Treatments](https://openreview.net/forum?id=RmB-88r9dL)
+   - Lizhen Nie, Mao Ye, qiang liu, Dan Nicolae; assignment: `hdbscan`; source: `OpenReview`

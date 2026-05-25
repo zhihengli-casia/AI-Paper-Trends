@@ -1,77 +1,77 @@
-# ICLR 2023: overfitting / benign / overparameterized / extrapolation
+# ICLR 2023: 扩散生成模型
 
 - Topic ID: `37`
-- Papers: **19** (1.21%)
-- Macro topic: 理论/优化
-- English keywords: `overfitting / benign / overparameterized / extrapolation`
-- Keyword pool: overfitting; benign; overparameterized; extrapolation; pre-trained feature; overparameterization; bias; calibration; invariance; extractor; flatness; certain
+- Papers: **19** (1.24%)
+- Macro topic: 生成模型
+- English keywords: `diffusion / denoising / inverse / generative`
+- Keyword pool: diffusion; denoising; inverse; generative; sampling; score; vessel; blurring; heat; images; segmentation; conditional
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Strong inductive biases provably prevent harmless interpolation
-- Malign Overfitting: Interpolation and Invariance are Fundamentally at Odds
-- Theoretical Characterization of the Generalization Performance of Overfitted Meta-Learning
-- Max-Margin Works while Large Margin Fails: Generalization without Uniform Convergence
-- Generalization and Estimation Error Bounds for Model-based Neural Networks
+- Denoising Diffusion Samplers
+- gDDIM: Generalized denoising diffusion implicit models
+- Generative Modelling with Inverse Heat Dissipation
+- Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions
+- Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions
 
 ## Papers
 
-<a id="paper-urewjebcxk"></a>
-1. [Benign Overfitting in Classification: Provably Counter Label Noise with Larger Models](https://openreview.net/forum?id=UrEwJebCxk)
-   - Kaiyue Wen, Jiaye Teng, Jingzhao Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-m9u-ctqfulg"></a>
-2. [Deep Generative Modeling on Limited Data with Regularization by Nontransferable Pre-trained Models](https://openreview.net/forum?id=M9u_ctqFUlg)
-   - Yong Zhong, Hongtao Liu, Xiaodong Liu, Fan Bao, Weiran Shen, Chongxuan Li; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-bhw9njoson"></a>
-3. [ESD: Expected Squared Difference as a Tuning-Free Trainable Calibration Measure](https://openreview.net/forum?id=bHW9njOSON)
-   - Hee Suk Yoon, Joshua Tian Jin Tee, Eunseop Yoon, Sunjae Yoon, Gwangsu Kim, Yingzhen Li, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-zh9gcz3zgxu"></a>
-4. [Feature Reconstruction From Outputs Can Mitigate Simplicity Bias in Neural Networks](https://openreview.net/forum?id=zH9GcZ3ZGXu)
-   - Sravanti Addepalli, Anshul Nasery, Venkatesh Babu Radhakrishnan, Praneeth Netrapalli, Prateek Jain; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-7wrq3vhcmm"></a>
-5. [First Steps Toward Understanding the Extrapolation of Nonlinear Models to Unseen Domains](https://openreview.net/forum?id=7wrq3vHcMM)
-   - Kefan Dong, Tengyu Ma; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9f-xlc7sk9"></a>
-6. [Generalization and Estimation Error Bounds for Model-based Neural Networks](https://openreview.net/forum?id=9F_xlC7sk9)
-   - Avner Shultzman, Eyar Azar, Miguel R. D. Rodrigues, Yonina C. Eldar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3aqs3mcsexd"></a>
-7. [How Much Data Are Augmentations Worth? An Investigation into Scaling Laws, Invariance, and Implicit Regularization](https://openreview.net/forum?id=3aQs3MCSexD)
-   - Jonas Geiping, Micah Goldblum, Gowthami Somepalli, Ravid Shwartz-Ziv, Tom Goldstein, Andrew Gordon Wilson; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-k9cf4h3mud"></a>
-8. [Learning Low Dimensional State Spaces with Overparameterized Recurrent Neural Nets](https://openreview.net/forum?id=k9CF4h3muD)
-   - Edo Cohen-Karlik, Itamar Menuhin-Gruman, Raja Giryes, Nadav Cohen, Amir Globerson; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-lid14uklpd4"></a>
-9. [Learning to Extrapolate: A Transductive Approach](https://openreview.net/forum?id=lid14UkLPd4)
-   - Aviv Netanyahu, Abhishek Gupta, Max Simchowitz, Kaiqing Zhang, Pulkit Agrawal; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dqnl7zsta3"></a>
-10. [Malign Overfitting: Interpolation and Invariance are Fundamentally at Odds](https://openreview.net/forum?id=dQNL7Zsta3)
-   - Yoav Wald, Gal Yona, Uri Shalit, Yair Carmon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n-hkhmzbgy"></a>
-11. [Max-Margin Works while Large Margin Fails: Generalization without Uniform Convergence](https://openreview.net/forum?id=n-hKHMzBgy)
-   - Margalit Glasgow, Colin Wei, Mary Wootters, Tengyu Ma; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cwmtucsyc3v"></a>
-12. [Mind the Pool: Convolutional Neural Networks Can Overfit Input Size](https://openreview.net/forum?id=cWmtUcsYC3V)
-   - Bilal Alsallakh, David Yan, Narine Kokhlikyan, Vivek Miglani, Orion Reblitz-Richardson, Pamela Bhattacharya; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tfvr-kyws-y"></a>
-13. [On the Saturation Effect of Kernel Ridge Regression](https://openreview.net/forum?id=tFvr-kYWs_Y)
-   - Yicheng Li, Haobo Zhang, Qian Lin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jmkjrlve-dg"></a>
-14. [Over-Training with Mixup May Hurt Generalization](https://openreview.net/forum?id=JmkjrlVE-DG)
-   - Zixuan Liu, Ziqiao Wang, Hongyu Guo, Yongyi Mao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-abipzvmds56"></a>
-15. [Over-parameterized Model Optimization with Polyak-{\L}ojasiewicz Condition](https://openreview.net/forum?id=aBIpZvMdS56)
-   - Yixuan Chen, Yubin Shi, Mingzhi Dong, Xiaochen Yang, Dongsheng Li, Yujiang Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-txc-rixhmx"></a>
-16. [Revisit Finetuning strategy for Few-Shot Learning to Transfer the Emdeddings](https://openreview.net/forum?id=tXc-riXhmx)
-   - Heng Wang, Tan Yue, Xiang Ye, Zihang He, Bohan Li, Yong Li; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-vz5eati6dqa"></a>
-17. [Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel](https://openreview.net/forum?id=VZ5EaTI6dqa)
-   - SungYub Kim, Sihwan Park, Kyung-Su Kim, Eunho Yang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-7i6oza7oij"></a>
-18. [Strong inductive biases provably prevent harmless interpolation](https://openreview.net/forum?id=7i6OZa7oij)
-   - Michael Aerni, Marco Milanta, Konstantin Donhauser, Fanny Yang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jifob4dsh99"></a>
-19. [Theoretical Characterization of the Generalization Performance of Overfitted Meta-Learning](https://openreview.net/forum?id=Jifob4dSh99)
-   - Peizhong Ju, Yingbin Liang, Ness Shroff; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-f0ktk2plqzo"></a>
+1. [Accelerating Guided Diffusion Sampling with Splitting Numerical Methods](https://openreview.net/forum?id=F0KTk2plQzO)
+   - Suttisak Wizadwongsa, Supasorn Suwajanakorn; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ojdkc57x5sz"></a>
+2. [Blurring Diffusion Models](https://openreview.net/forum?id=OjDkC57x5sz)
+   - Emiel Hoogeboom, Tim Salimans; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0vqjc50hfcc"></a>
+3. [DDM$^2$: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models](https://openreview.net/forum?id=0vqjc50HfcC)
+   - Tiange Xiang, Mahmut Yurt, Ali B Syed, Kawin Setsompop, Akshay Chaudhari; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-8pvnftabu1f"></a>
+4. [Denoising Diffusion Samplers](https://openreview.net/forum?id=8pvnfTAbu1f)
+   - Francisco Vargas, Will Sussman Grathwohl, Arnaud Doucet; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oxp9ns0gniq"></a>
+5. [Differentiable Gaussianization Layers for Inverse Problems Regularized by Deep Generative Models](https://openreview.net/forum?id=OXP9Ns0gnIq)
+   - Dongzhuo Li; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-h0gdpxswkpb"></a>
+6. [Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation](https://openreview.net/forum?id=H0gdPxSwkPb)
+   - Boah Kim, Yujin Oh, Jong Chul Ye; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ond9zgagt0k"></a>
+7. [Diffusion Posterior Sampling for General Noisy Inverse Problems](https://openreview.net/forum?id=OnD9zGAGT0k)
+   - Hyungjin Chung, Jeongsol Kim, Michael Thompson Mccann, Marc Louis Klasky, Jong Chul Ye; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-loek7hfb46p"></a>
+8. [Fast Sampling of Diffusion Models with Exponential Integrator](https://openreview.net/forum?id=Loek7hfb46P)
+   - Qinsheng Zhang, Yongxin Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4pjubt9f2ol"></a>
+9. [Generative Modelling with Inverse Heat Dissipation](https://openreview.net/forum?id=4PJUBT9f2Ol)
+   - Severi Rissanen, Markus Heinonen, Arno Solin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vzx2i-vvjkh"></a>
+10. [Learning multi-scale local conditional probability models of images](https://openreview.net/forum?id=VZX2I_VVJKH)
+   - Zahra Kadkhodaie, Florentin Guth, Stéphane Mallat, Eero P Simoncelli; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9-gsma8mrkq"></a>
+11. [Pseudoinverse-Guided Diffusion Models for Inverse Problems](https://openreview.net/forum?id=9_gsMA8MRKQ)
+   - Jiaming Song, Arash Vahdat, Morteza Mardani, Jan Kautz; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oowlrfai-v"></a>
+12. [Quantized Compressed Sensing with Score-Based Generative Models](https://openreview.net/forum?id=OOWLRfAI_V_)
+   - Xiangming Meng, Yoshiyuki Kabashima; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zylvmgsz0u"></a>
+13. [Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions](https://openreview.net/forum?id=zyLVMgsZ0U_)
+   - Sitan Chen, Sinho Chewi, Jerry Li, Yuanzhi Li, Adil Salim, Anru Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bywwwsy2g5s"></a>
+14. [Score-based Continuous-time Discrete Diffusion Models](https://openreview.net/forum?id=BYWWwSY2G5s)
+   - Haoran Sun, Lijun Yu, Bo Dai, Dale Schuurmans, Hanjun Dai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wmiwytd0ytf"></a>
+15. [Stable Target Field for Reduced Variance Score Estimation in Diffusion Models](https://openreview.net/forum?id=WmIwYTd0YTF)
+   - Yilun Xu, Shangyuan Tong, Tommi S. Jaakkola; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6pirhax1j4i"></a>
+16. [Understanding DDPM Latent Codes Through Optimal Transport](https://openreview.net/forum?id=6PIrhAx1j4i)
+   - Valentin Khrulkov, Gleb Ryzhakov, Andrei Chertkov, Ivan Oseledets; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-osei3izuia"></a>
+17. [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://openreview.net/forum?id=osei3IzUia)
+   - Raghav Singhal, Mark Goldstein, Rajesh Ranganath; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ibdwkisg4m"></a>
+18. [f-DM: A Multi-stage Diffusion Model via Progressive Signal Transformation](https://openreview.net/forum?id=iBdwKIsg4m)
+   - Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Miguel Ángel Bautista, Joshua M. Susskind; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1hke9qjvz"></a>
+19. [gDDIM: Generalized denoising diffusion implicit models](https://openreview.net/forum?id=1hKE9qjvz-)
+   - Qinsheng Zhang, Molei Tao, Yongxin Chen; assignment: `hdbscan`; source: `OpenReview`

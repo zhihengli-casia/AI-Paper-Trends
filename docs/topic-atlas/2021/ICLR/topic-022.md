@@ -1,71 +1,71 @@
-# ICLR 2021: 目标检测与图像分割
+# ICLR 2021: 对抗攻击、鲁棒性与安全
 
 - Topic ID: `22`
 - Papers: **17** (1.98%)
-- Macro topic: 计算机视觉
-- English keywords: `segmentation / semi-supervised / keypoint / pseudo-labeling`
-- Keyword pool: segmentation; semi-supervised; keypoint; pseudo-labeling; one-class; object; ssl; clustering; detection; weak; labeled; loss functions
+- Macro topic: 可信/安全/公平
+- English keywords: `attack / poisoning / adversarial / defense`
+- Keyword pool: attack; poisoning; adversarial; defense; program; threat; examples; dnns; channels; network inference; privacy; adversary
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- PseudoSeg: Designing Pseudo Labels for Semantic Segmentation
-- Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data
-- Universal Weakly Supervised Segmentation by Pixel-to-Segment Contrastive Learning
-- Cut out the annotator, keep the cutout: better segmentation with weak supervision
-- Unbiased Teacher for Semi-Supervised Object Detection
+- Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching
+- Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits
+- Deep Neural Network Fingerprinting by Conferrable Adversarial Examples
+- Protecting DNNs from Theft using an Ensemble of Diverse Models
+- Fooling a Complete Neural Network Verifier
 
 ## Papers
 
-<a id="paper-mjaqnac2vo1"></a>
-1. [Auto Seg-Loss: Searching Metric Surrogates for Semantic Segmentation](https://openreview.net/forum?id=MJAqnaC2vO1)
-   - Hao Li, Chenxin Tao, Xizhou Zhu, Xiaogang Wang, Gao Huang, Jifeng Dai; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-e12ndm7wkey"></a>
-2. [Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation](https://openreview.net/forum?id=e12NDM7wkEY)
-   - Yaling Tao, Kentaro Takagi, Kouta Nakata; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bjkx6kzb5h"></a>
-3. [Cut out the annotator, keep the cutout: better segmentation with weak supervision](https://openreview.net/forum?id=bjkX6Kzb5H)
-   - Sarah Hooper, Michael Wornow, Ying Hang Seah, Peter Kellman, Hui Xue, Frederic Sala, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yz-xtk5rbxb"></a>
-4. [Deep Repulsive Clustering of Ordered Data Based on Order-Identity Decomposition](https://openreview.net/forum?id=Yz-XtK5RBxB)
-   - Seon-Ho Lee, Chang-Su Kim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4t489t4yav"></a>
-5. [Differentiable Segmentation of Sequences](https://openreview.net/forum?id=4T489T4yav)
-   - Erik Scharwächter, Jonathan Lennartz, Emmanuel Müller; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-odn6sbiuu"></a>
-6. [In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning](https://openreview.net/forum?id=-ODN6SbiUU)
-   - Mamshad Nayeem Rizve, Kevin Duarte, Yogesh S Rawat, Mubarak Shah; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-idfqi9oy6k"></a>
-7. [Interactive Weak Supervision: Learning Useful Heuristics for Data Labeling](https://openreview.net/forum?id=IDFQI9OY6K)
-   - Benedikt Boecking, Willie Neiswanger, Eric Xing, Artur Dubrawski; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hcsgypufedj"></a>
-8. [Learning and Evaluating Representations for Deep One-Class Classification](https://openreview.net/forum?id=HCSgyPUfeDj)
-   - Kihyuk Sohn, Chun-Liang Li, Jinsung Yoon, Minho Jin, Tomas Pfister; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5jzlphvvrk"></a>
-9. [Loss Function Discovery for Object Detection via Convergence-Simulation Driven Search](https://openreview.net/forum?id=5jzlpHvvRk)
-   - Peidong Liu, Gengwei Zhang, Bochao Wang, Hang Xu, Xiaodan Liang, Yong Jiang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7fnqrcptiet"></a>
-10. [On Data-Augmentation and Consistency-Based Semi-Supervised Learning](https://openreview.net/forum?id=7FNqrcPtieT)
-   - Atin Ghosh, Alexandre H. Thiery; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tyxs-y84xrj"></a>
-11. [PolarNet: Learning to Optimize Polar Keypoints for Keypoint Based Object Detection](https://openreview.net/forum?id=TYXs_y84xRj)
-   - Wu Xiongwei, Doyen Sahoo, Steven HOI; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-two99rbvru"></a>
-12. [PseudoSeg: Designing Pseudo Labels for Semantic Segmentation](https://openreview.net/forum?id=-TwO99rbVRu)
-   - Yuliang Zou, Zizhao Zhang, Han Zhang, Chun-Liang Li, Xiao Bian, Jia-Bin Huang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yfj67ztei2"></a>
-13. [Semi-supervised Keypoint Localization](https://openreview.net/forum?id=yFJ67zTeI2)
-   - Olga Moskvyak, Frederic Maire, Feras Dayoub, Mahsa Baktashmotlagh; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-uxl3bzlkr3c"></a>
-14. [Tent: Fully Test-Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c)
-   - Dequan Wang, Evan Shelhamer, Shaoteng Liu, Bruno Olshausen, Trevor Darrell; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rc8sj4i6kah"></a>
-15. [Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data](https://openreview.net/forum?id=rC8sJ4i6kaH)
-   - Colin Wei, Kendrick Shen, Yining Chen, Tengyu Ma; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mjive1zgr"></a>
-16. [Unbiased Teacher for Semi-Supervised Object Detection](https://openreview.net/forum?id=MJIve1zgR_)
-   - Yen-Cheng Liu, Chih-Yao Ma, Zijian He, Chia-Wen Kuo, Kan Chen, Peizhao Zhang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n33d7wjgzde"></a>
-17. [Universal Weakly Supervised Segmentation by Pixel-to-Segment Contrastive Learning](https://openreview.net/forum?id=N33d7wjgzde)
-   - Tsung-Wei Ke, Jyh-Jing Hwang, Stella Yu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9xc2twewbd"></a>
+1. [A Panda? No, It's a Sloth: Slowdown Attacks on Adaptive Multi-Exit Neural Network Inference](https://openreview.net/forum?id=9xC2tWEwBD)
+   - Sanghyun Hong, Yigitcan Kaya, Ionuț-Vlad Modoranu, Tudor Dumitras; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hvdkkv2yt7t"></a>
+2. [Dataset Inference: Ownership Resolution in Machine Learning](https://openreview.net/forum?id=hvdKKV2yt7T)
+   - Pratyush Maini, Mohammad Yaghini, Nicolas Papernot; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vqzvhqxkjh1"></a>
+3. [Deep Neural Network Fingerprinting by Conferrable Adversarial Examples](https://openreview.net/forum?id=VqzVhqxkjH1)
+   - Nils Lukas, Yuxuan Zhang, Florian Kerschbaum; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-yugg2tfupm"></a>
+4. [Deep Partition Aggregation: Provable Defenses against General Poisoning Attacks](https://openreview.net/forum?id=YUGG2tFuPM)
+   - Alexander Levine, Soheil Feizi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-33rtz4sjwjn"></a>
+5. [Effective and Efficient Vote Attack on Capsule Networks](https://openreview.net/forum?id=33rtZ4Sjwjn)
+   - Jindong Gu, Baoyuan Wu, Volker Tresp; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4iwiefs44l"></a>
+6. [Fooling a Complete Neural Network Verifier](https://openreview.net/forum?id=4IwieFS44l)
+   - Dániel Zombori, Balázs Bánhelyi, Tibor Csendes, István Megyeri, Márk Jelasity; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ph5ph9zo-4"></a>
+7. [Generating Adversarial Computer Programs using Optimized Obfuscations](https://openreview.net/forum?id=PH5PH9ZO_4)
+   - Shashank Srikant, Sijia Liu, Tamara Mitrovska, Shiyu Chang, Quanfu Fan, Gaoyuan Zhang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-dyairud1zxg"></a>
+8. [Information Laundering for Model Privacy](https://openreview.net/forum?id=dyaIRud1zXg)
+   - Xinran Wang, Yu Xiang, Jun Gao, Jie Ding; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9l0k4om-oxe"></a>
+9. [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://openreview.net/forum?id=9l0K4OM-oXE)
+   - Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, Xingjun Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pzpytjk3xb2"></a>
+10. [Policy-Driven Attack: Learning to Query for Hard-label Black-box Adversarial Examples](https://openreview.net/forum?id=pzpytjk3Xb2)
+   - Ziang Yan, Yiwen Guo, Jian Liang, Changshui Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-y06voylcqxa"></a>
+11. [Private Image Reconstruction from System Side Channels Using Generative Models](https://openreview.net/forum?id=y06VOYLcQXa)
+   - Yuanyuan Yuan, Shuai Wang, Junping Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-lucjxysujce"></a>
+12. [Protecting DNNs from Theft using an Ensemble of Diverse Models](https://openreview.net/forum?id=LucJxySuJcE)
+   - Sanjay Kariyappa, Atul Prakash, Moinuddin K Qureshi; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-cz3dbfm5u"></a>
+13. [SAFENet: A Secure, Accurate and Fast Neural Network Inference](https://openreview.net/forum?id=Cz3dbFm5u-)
+   - Qian Lou, Yilin Shen, Hongxia Jin, Lei Jiang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ikqak8a2km0"></a>
+14. [Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits](https://openreview.net/forum?id=iKQAk8a2kM0)
+   - Jiawang Bai, Baoyuan Wu, Yong Zhang, Yiming Li, Zhifeng Li, Shu-Tao Xia; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0zvfm-nzqqs"></a>
+15. [Undistillable: Making A Nasty Teacher That CANNOT teach students](https://openreview.net/forum?id=0zvfm-nZqQs)
+   - Haoyu Ma, Tianlong Chen, Ting-Kuei Hu, Chenyu You, Xiaohui Xie, Zhangyang Wang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-een8kttjox"></a>
+16. [WaNet - Imperceptible Warping-based Backdoor Attack](https://openreview.net/forum?id=eEn8KTtJOx)
+   - Tuan Anh Nguyen, Anh Tuan Tran; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-01olnflibd"></a>
+17. [Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching](https://openreview.net/forum?id=01olnfLIbD)
+   - Jonas Geiping, Liam H Fowl, W. Ronny Huang, Wojciech Czaja, Gavin Taylor, Michael Moeller, et al.; assignment: `hdbscan`; source: `OpenReview`

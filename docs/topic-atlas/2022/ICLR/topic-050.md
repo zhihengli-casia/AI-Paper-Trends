@@ -1,50 +1,50 @@
-# ICLR 2022: 推荐系统与用户建模
+# ICLR 2022: processes / bayesian / stochastic / priors
 
 - Topic ID: `50`
-- Papers: **10** (0.91%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `causal / marketing / temporal / recommendation`
-- Keyword pool: causal; marketing; temporal; recommendation; restrictions; moment; rules; processes; logic; discovery; single-cell; latent
+- Papers: **10** (0.94%)
+- Macro topic: 可信/安全/公平
+- English keywords: `processes / bayesian / stochastic / priors`
+- Keyword pool: processes; bayesian; stochastic; priors; gaussian; point process; uncertainty; context; conditional neural; heavy-tailed; scale; posterior
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Efficient Neural Causal Discovery without Acyclicity Constraints
-- Learning Temporally Causal Latent Processes from General Temporal Data
-- Optimal Transport for Causal Discovery
-- Learning Causal Models from Conditional Moment Restrictions by Importance Weighting
-- Causal Contextual Bandits with Targeted Interventions
+- Practical Conditional Neural Process Via Tractable Dependent Predictions
+- Scale Mixtures of Neural Network Gaussian Processes
+- Transformers Can Do Bayesian Inference
+- Multi-Task Processes
+- Neural Processes with Stochastic Attention: Paying more attention to the context dataset
 
 ## Papers
 
-<a id="paper-tzearech2nf"></a>
-1. [Bridging Recommendation and Marketing via Recurrent Intensity Modeling](https://openreview.net/forum?id=TZeArecH2Nf)
-   - Yifei Ma, Ge Liu, Anoop Deoras; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-f5em8ascosv"></a>
-2. [Causal Contextual Bandits with Targeted Interventions](https://openreview.net/forum?id=F5Em8ASCosV)
-   - Chandrasekar Subramanian, Balaraman Ravindran; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-eyciprluuhg"></a>
-3. [Efficient Neural Causal Discovery without Acyclicity Constraints](https://openreview.net/forum?id=eYciPrLuUhG)
-   - Phillip Lippe, Taco Cohen, Efstratios Gavves; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p07dq7isagr"></a>
-4. [Explaining Point Processes by Learning Interpretable Temporal Logic Rules](https://openreview.net/forum?id=P07dq7iSAGr)
-   - Shuang Li, Mingquan Feng, Lu Wang, Abdelmajid Essofi, Yufeng Cao, Junchi Yan, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-jt1ewxu-4hj"></a>
-5. [From Intervention to Domain Transportation: A Novel Perspective to Optimize Recommendation](https://openreview.net/forum?id=jT1EwXu-4hj)
-   - Da Xu, Yuting Ye, Chuanwei Ruan, Evren Korpeoglu, Sushant Kumar, Kannan Achan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nzouyen6wvy"></a>
-6. [Granger causal inference on DAGs identifies genomic loci regulating transcription](https://openreview.net/forum?id=nZOUYEN6Wvy)
-   - Alexander P Wu, Rohit Singh, Bonnie Berger; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7twqi5vnc8"></a>
-7. [Learning Causal Models from Conditional Moment Restrictions by Importance Weighting](https://openreview.net/forum?id=7twQI5VnC8)
-   - Masahiro Kato, Masaaki Imaizumi, Kenichiro McAlinn, Shota Yasui, Haruo Kakehi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rdllmjljxdq"></a>
-8. [Learning Temporally Causal Latent Processes from General Temporal Data](https://openreview.net/forum?id=RDlLMjLJXdq)
-   - Weiran Yao, Yuewen Sun, Alex Ho, Changyin Sun, Kun Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qwbk94cp1y"></a>
-9. [Optimal Transport for Causal Discovery](https://openreview.net/forum?id=qwBK94cP1y)
-   - Ruibo Tu, Kun Zhang, Hedvig Kjellstrom, Cheng Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jxfgjbz-wft"></a>
-10. [Variational Predictive Routing with Nested Subjective Timescales](https://openreview.net/forum?id=JxFgJbZ-wft)
-   - Alexey Zakharov, Qinghai Guo, Zafeirios Fountas; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xkjqjyqrjy"></a>
+1. [Bayesian Neural Network Priors Revisited](https://openreview.net/forum?id=xkjqJYqRJy)
+   - Vincent Fortuin, Adrià Garriga-Alonso, Sebastian W. Ober, Florian Wenzel, Gunnar Ratsch, Richard E Turner, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-d-2lcdh0y9c"></a>
+2. [DriPP: Driven Point Processes to Model Stimuli Induced Patterns in M/EEG Signals](https://openreview.net/forum?id=d_2lcDh0Y9c)
+   - Cédric Allain, Alexandre Gramfort, Thomas Moreau; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-84nmxthye"></a>
+3. [Evidential Turing Processes](https://openreview.net/forum?id=84NMXTHYe-)
+   - Melih Kandemir, Abdullah Akgül, Manuel Haussmann, Gozde Unal; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9otkvlgrpzg"></a>
+4. [Multi-Task Processes](https://openreview.net/forum?id=9otKVlgrpZG)
+   - Donggyun Kim, Seongwoong Cho, Wonkwang Lee, Seunghoon Hong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tv3n0dwmxcg"></a>
+5. [Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://openreview.net/forum?id=tV3N0DWMxCg)
+   - Bertrand Charpentier, Oliver Borchert, Daniel Zügner, Simon Geisler, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jpkqwedyn8"></a>
+6. [Neural Processes with Stochastic Attention: Paying more attention to the context dataset](https://openreview.net/forum?id=JPkQwEdYn8)
+   - Mingyu Kim, Kyeong Ryeol Go, Se-Young Yun; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0rcboaobxbg"></a>
+7. [Neural Spectral Marked Point Processes](https://openreview.net/forum?id=0rcbOaoBXbg)
+   - Shixiang Zhu, Haoyun Wang, Zheng Dong, Xiuyuan Cheng, Yao Xie; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3pugbnqoh5m"></a>
+8. [Practical Conditional Neural Process Via Tractable Dependent Predictions](https://openreview.net/forum?id=3pugbNqOh5m)
+   - Stratis Markou, James Requeima, Wessel Bruinsma, Anna Vaughan, Richard E Turner; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yvpbh4k78iz"></a>
+9. [Scale Mixtures of Neural Network Gaussian Processes](https://openreview.net/forum?id=YVPBh4k78iZ)
+   - Hyungi Lee, Eunggu Yun, Hongseok Yang, Juho Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ksugkcbnf9"></a>
+10. [Transformers Can Do Bayesian Inference](https://openreview.net/forum?id=KSugKcbNf9)
+   - Samuel Müller, Noah Hollmann, Sebastian Pineda Arango, Josif Grabocka, Frank Hutter; assignment: `hdbscan`; source: `OpenReview`

@@ -1,62 +1,56 @@
-# ICLR 2022: processes / bayesian / dropout / priors
+# ICLR 2022: emergent / recurrent / rnns / languages
 
 - Topic ID: `40`
-- Papers: **14** (1.28%)
+- Papers: **12** (1.13%)
 - Macro topic: 系统/效率/压缩
-- English keywords: `processes / bayesian / dropout / priors`
-- Keyword pool: processes; bayesian; dropout; priors; gaussian; hierarchical; stochastic; memory; posterior; variational; uncertainty; point process
+- English keywords: `emergent / recurrent / rnns / languages`
+- Keyword pool: emergent; recurrent; rnns; languages; curricula; communication; neuroscience; encoder-decoder; transformers; architectures; sequence; modeling
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Practical Conditional Neural Process Via Tractable Dependent Predictions
-- Scale Mixtures of Neural Network Gaussian Processes
-- Transformers Can Do Bayesian Inference
-- Neural Processes with Stochastic Attention: Paying more attention to the context dataset
-- Multi-Task Processes
+- Learning Hierarchical Structures with Differentiable Nondeterministic Stacks
+- On the approximation properties of recurrent encoder-decoder architectures
+- Long Expressive Memory for Sequence Modeling
+- Emergent Communication at Scale
+- The Uncanny Similarity of Recurrence and Depth
 
 ## Papers
 
-<a id="paper-xkjqjyqrjy"></a>
-1. [Bayesian Neural Network Priors Revisited](https://openreview.net/forum?id=xkjqJYqRJy)
-   - Vincent Fortuin, Adrià Garriga-Alonso, Sebastian W. Ober, Florian Wenzel, Gunnar Ratsch, Richard E Turner, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-d-2lcdh0y9c"></a>
-2. [DriPP: Driven Point Processes to Model Stimuli Induced Patterns in M/EEG Signals](https://openreview.net/forum?id=d_2lcDh0Y9c)
-   - Cédric Allain, Alexandre Gramfort, Thomas Moreau; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-84nmxthye"></a>
-3. [Evidential Turing Processes](https://openreview.net/forum?id=84NMXTHYe-)
-   - Melih Kandemir, Abdullah Akgül, Manuel Haussmann, Gozde Unal; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-harn4-ezbw"></a>
-4. [Generative Pseudo-Inverse Memory](https://openreview.net/forum?id=Harn4_EZBw)
-   - Kha Pham, Hung Le, Man Ngo, Truyen Tran, Bao Ho, Svetha Venkatesh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-i3ri65sr7n"></a>
-5. [Hierarchical Variational Memory for Few-shot Learning Across Domains](https://openreview.net/forum?id=i3RI65sR7N)
-   - Yingjun Du, Xiantong Zhen, Ling Shao, Cees G. M. Snoek; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-auopcdacoy"></a>
-6. [Hybrid Memoised Wake-Sleep: Approximate Inference at the Discrete-Continuous Interface](https://openreview.net/forum?id=auOPcdAcoy)
-   - Tuan Anh Le, Katherine M. Collins, Luke Hewitt, Kevin Ellis, Siddharth N, Samuel Gershman, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9otkvlgrpzg"></a>
-7. [Multi-Task Processes](https://openreview.net/forum?id=9otKVlgrpZG)
-   - Donggyun Kim, Seongwoong Cho, Wonkwang Lee, Seunghoon Hong; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tv3n0dwmxcg"></a>
-8. [Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://openreview.net/forum?id=tV3N0DWMxCg)
-   - Bertrand Charpentier, Oliver Borchert, Daniel Zügner, Simon Geisler, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jpkqwedyn8"></a>
-9. [Neural Processes with Stochastic Attention: Paying more attention to the context dataset](https://openreview.net/forum?id=JPkQwEdYn8)
-   - Mingyu Kim, Kyeong Ryeol Go, Se-Young Yun; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0rcboaobxbg"></a>
-10. [Neural Spectral Marked Point Processes](https://openreview.net/forum?id=0rcbOaoBXbg)
-   - Shixiang Zhu, Haoyun Wang, Zheng Dong, Xiuyuan Cheng, Yao Xie; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lylvzukxi08"></a>
-11. [Neural Variational Dropout Processes](https://openreview.net/forum?id=lyLVzukXi08)
-   - Insu Jeon, Youngjin Park, Gunhee Kim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3pugbnqoh5m"></a>
-12. [Practical Conditional Neural Process Via Tractable Dependent Predictions](https://openreview.net/forum?id=3pugbNqOh5m)
-   - Stratis Markou, James Requeima, Wessel Bruinsma, Anna Vaughan, Richard E Turner; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yvpbh4k78iz"></a>
-13. [Scale Mixtures of Neural Network Gaussian Processes](https://openreview.net/forum?id=YVPBh4k78iZ)
-   - Hyungi Lee, Eunggu Yun, Hongseok Yang, Juho Lee; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ksugkcbnf9"></a>
-14. [Transformers Can Do Bayesian Inference](https://openreview.net/forum?id=KSugKcbNf9)
-   - Samuel Müller, Noah Hollmann, Sebastian Pineda Arango, Josif Grabocka, Frank Hutter; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xztthjgpdst"></a>
+1. [Coordination Among Neural Modules Through a Shared Global Workspace](https://openreview.net/forum?id=XzTtHjgPDsT)
+   - Anirudh Goyal, Aniket Rajiv Didolkar, Alex Lamb, Kartikeya Badola, Nan Rosemary Ke, Nasim Rahaman, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-tpjmvo0-pu"></a>
+2. [Curriculum learning as a tool to uncover learning principles in the brain](https://openreview.net/forum?id=TpJMvo0_pu-)
+   - Daniel R. Kepple, Rainer Engelken, Kanaka Rajan; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-uylfoz1vlac"></a>
+3. [Efficiently Modeling Long Sequences with Structured State Spaces](https://openreview.net/forum?id=uYLFoz1vlAC)
+   - Albert Gu, Karan Goel, Christopher Re; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-augbfdiv9rl"></a>
+4. [Emergent Communication at Scale](https://openreview.net/forum?id=AUGBfDIV9rL)
+   - Rahma Chaabouni, Florian Strub, Florent Altché, Eugene Tarassov, Corentin Tallec, Elnaz Davoodi, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wxue-jwxjkw"></a>
+5. [Expressivity of Emergent Languages is a Trade-off between Contextual Complexity and Unpredictability](https://openreview.net/forum?id=WxuE_JWxjkW)
+   - Shangmin Guo, Yi Ren, Kory Wallace Mathewson, Simon Kirby, Stefano V Albrecht, Kenny Smith; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5lxw-qplbif"></a>
+6. [Learning Hierarchical Structures with Differentiable Nondeterministic Stacks](https://openreview.net/forum?id=5LXw_QplBiF)
+   - Brian DuSell, David Chiang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vwj6aueocyf"></a>
+7. [Long Expressive Memory for Sequence Modeling](https://openreview.net/forum?id=vwj6aUeocyf)
+   - T. Konstantin Rusch, Siddhartha Mishra, N. Benjamin Erichson, Michael W. Mahoney; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xdiviqq3dxd"></a>
+8. [On the approximation properties of recurrent encoder-decoder architectures](https://openreview.net/forum?id=xDIvIqQ3DXD)
+   - Zhong Li, Haotian Jiang, Qianxiao Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5qkd7-bzfi"></a>
+9. [On the role of population heterogeneity in emergent communication](https://openreview.net/forum?id=5Qkd7-bZfI)
+   - Mathieu Rita, Florian Strub, Jean-Bastien Grill, Olivier Pietquin, Emmanuel Dupoux; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-b8dvo9b1ye0"></a>
+10. [Relating transformers to models and neural representations of the hippocampal formation](https://openreview.net/forum?id=B8DVo9B1YE0)
+   - James C. R. Whittington, Joseph Warren, Tim E.J. Behrens; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-3wncr5nq56"></a>
+11. [The Uncanny Similarity of Recurrence and Depth](https://openreview.net/forum?id=3wNcr5nq56)
+   - Avi Schwarzschild, Arjun Gupta, Amin Ghiasi, Micah Goldblum, Tom Goldstein; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rty5g9imm7h"></a>
+12. [Transformer Embeddings of Irregularly Spaced Events and Their Participants](https://openreview.net/forum?id=Rty5g9imm7H)
+   - Hongyuan Mei, Chenghao Yang, Jason Eisner; assignment: `hdbscan`; source: `OpenReview`

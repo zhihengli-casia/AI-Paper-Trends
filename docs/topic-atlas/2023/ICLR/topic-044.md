@@ -1,71 +1,68 @@
-# ICLR 2023: 图神经网络与图表示学习
+# ICLR 2023: 时间序列建模与预测
 
 - Topic ID: `44`
-- Papers: **17** (1.08%)
-- Macro topic: 图学习/数据挖掘
-- English keywords: `graph / gnns / oversmoothing / node`
-- Keyword pool: graph; gnns; oversmoothing; node; adversarial; edges; gcns; attack; influence; classification; passing; heterophily
+- Papers: **16** (1.05%)
+- Macro topic: 其他/交叉主题
+- English keywords: `time series / forecasting / temporal / multivariate`
+- Keyword pool: time series; forecasting; temporal; multivariate; time-series; dynamics; series classification; long-term; koopman; imputation; dependency; transformer
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Revisiting Robustness in Graph Machine Learning
-- Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency
-- Empowering Graph Representation Learning with Test-Time Graph Transformation
-- Effects of Graph Convolutions in Multi-layer Networks
-- Chasing All-Round Graph Representation Robustness: Model, Training, and Optimization
+- Effectively Modeling Time Series with Simple Discrete State Spaces
+- Sequential Latent Variable Models for Few-Shot High-Dimensional Time-Series Forecasting
+- A Time Series is Worth 64 Words: Long-term Forecasting with Transformers
+- TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis
+- MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting
 
 ## Papers
 
-<a id="paper-cjd-btnwtxq"></a>
-1. [A Non-Asymptotic Analysis of Oversmoothing in Graph Neural Networks](https://openreview.net/forum?id=CJd-BtnwtXq)
-   - Xinyi Wu, Zhengdao Chen, William Wei Wang, Ali Jadbabaie; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vtb1ji0gps"></a>
-2. [Automated Data Augmentations for Graph Classification](https://openreview.net/forum?id=vTb1JI0Gps_)
-   - Youzhi Luo, Michael Curtis McThrow, Wing Yee Au, Tao Komikado, Kanji Uchino, Koji Maruhashi, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-51gxyzokop"></a>
-3. [Characterizing the Influence of Graph Elements](https://openreview.net/forum?id=51GXyzOKOp)
-   - Zizhang Chen, Peizhao Li, Hongfu Liu, Pengyu Hong; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7jk5gwjc18m"></a>
-4. [Chasing All-Round Graph Representation Robustness: Model, Training, and Optimization](https://openreview.net/forum?id=7jk5gWjC18M)
-   - Chunhui Zhang, Yijun Tian, Mingxuan Ju, Zheyuan Liu, Yanfang Ye, Nitesh Chawla, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sm7xkjouwhm"></a>
-5. [ContraNorm: A Contrastive Learning Perspective on Oversmoothing and Beyond](https://openreview.net/forum?id=SM7XkJouWHm)
-   - Xiaojun Guo, Yifei Wang, Tianqi Du, Yisen Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-2yqrqe4rnv"></a>
-6. [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/forum?id=2YQrqe4RNv)
-   - Bowen Jin, Yu Zhang, Yu Meng, Jiawei Han; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-p-73jpgrs0r"></a>
-7. [Effects of Graph Convolutions in Multi-layer Networks](https://openreview.net/forum?id=P-73JPgRs0R)
-   - Aseem Baranwal, Kimon Fountoulakis, Aukosh Jagannath; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lnxl5pr018"></a>
-8. [Empowering Graph Representation Learning with Test-Time Graph Transformation](https://openreview.net/forum?id=Lnxl5pr018)
-   - Wei Jin, Tong Zhao, Jiayuan Ding, Yozen Liu, Jiliang Tang, Neil Shah; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3yjqfcldrzz"></a>
-9. [FoSR: First-order spectral rewiring for addressing oversquashing in GNNs](https://openreview.net/forum?id=3YjQfCLdrzz)
-   - Kedar Karhadkar, Pradeep Kr. Banerjee, Guido Montufar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jprextbl1"></a>
-10. [Gradient Gating for Deep Multi-Rate Learning on Graphs](https://openreview.net/forum?id=JpRExTbl1-)
-   - T. Konstantin Rusch, Benjamin Paul Chamberlain, Michael W. Mahoney, Michael M. Bronstein, Siddhartha Mishra; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wsumehpo-2"></a>
-11. [Learnable Graph Convolutional Attention Networks](https://openreview.net/forum?id=WsUMeHPo-2)
-   - Adrián Javaloy, Pablo Sanchez Martin, Amit Levi, Isabel Valera; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cs3r5kldoj"></a>
-12. [Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency](https://openreview.net/forum?id=Cs3r5KLdoj)
-   - Yijun Tian, Chuxu Zhang, Zhichun Guo, Xiangliang Zhang, Nitesh Chawla; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fkxvk9dymm"></a>
-13. [LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation](https://openreview.net/forum?id=FKXVK9dyMM)
-   - Xuheng Cai, Chao Huang, Lianghao Xia, Xubin Ren; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-wkpmpbhsnt6"></a>
-14. [Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing](https://openreview.net/forum?id=wKPmPBHSnT6)
-   - Yunchong Song, Chenghu Zhou, Xinbing Wang, Zhouhan Lin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dsyopjm5j-w"></a>
-15. [Revisiting Graph Adversarial Attack and Defense From a Data Distribution Perspective](https://openreview.net/forum?id=dSYoPjM5J_W)
-   - Kuan Li, Yang Liu, Xiang Ao, Qing He; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h1o7ry9zctm"></a>
-16. [Revisiting Robustness in Graph Machine Learning](https://openreview.net/forum?id=h1o7Ry9Zctm)
-   - Lukas Gosch, Daniel Sturm, Simon Geisler, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tuhkvojsar"></a>
-17. [Strategic Classification with Graph Neural Networks](https://openreview.net/forum?id=TuHkVOjSAR)
-   - Itay Eilat, Ben Finkelshtein, Chaim Baskin, Nir Rosenfeld; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jbdc0vtocol"></a>
+1. [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://openreview.net/forum?id=Jbdc0vTOcol)
+   - Yuqi Nie, Nam H Nguyen, Phanwadee Sinthong, Jayant Kalagnanam; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zxdkjtgk-dl"></a>
+2. [BSTT: A Bayesian Spatial-Temporal Transformer for Sleep Staging](https://openreview.net/forum?id=ZxdkjTgK_Dl)
+   - Yuchen Liu, Ziyu Jia; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vsvlm2j9eie"></a>
+3. [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting](https://openreview.net/forum?id=vSVLM2j9eie)
+   - Yunhao Zhang, Junchi Yan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2epjkjzdcaa"></a>
+4. [Effectively Modeling Time Series with Simple Discrete State Spaces](https://openreview.net/forum?id=2EpjkjzdCAa)
+   - Michael Zhang, Khaled Kamal Saab, Michael Poli, Tri Dao, Karan Goel, Christopher Re; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kumdmhxk5n"></a>
+5. [Koopman Neural Operator Forecaster for Time-series with Temporal Distributional Shifts](https://openreview.net/forum?id=kUmdmHxK5N)
+   - Rui Wang, Yihe Dong, Sercan O Arik, Rose Yu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q-pbphd3eok"></a>
+6. [Learning Fast and Slow for Online Time Series Forecasting](https://openreview.net/forum?id=q-PbpHD3EOk)
+   - Quang Pham, Chenghao Liu, Doyen Sahoo, Steven Hoi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zt53idur1u"></a>
+7. [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://openreview.net/forum?id=zt53IDUR1U)
+   - Huiqiang Wang, Jian Peng, Feihu Huang, Jince Wang, Junhui Chen, Yifei Xiao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rdjecnus6tg"></a>
+8. [Multivariate Time-series Imputation with Disentangled Temporal Representations](https://openreview.net/forum?id=rdjeCNUS6TG)
+   - SHUAI LIU, Xiucheng Li, Gao Cong, Yile Chen, YUE JIANG; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-guzwoe42l6q"></a>
+9. [Out-of-distribution Representation Learning for Time Series Classification](https://openreview.net/forum?id=gUZWOE42l6Q)
+   - Wang Lu, Jindong Wang, Xinwei Sun, Yiqiang Chen, Xing Xie; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5lgd4vu-l24s"></a>
+10. [Recursive Time Series Data Augmentation](https://openreview.net/forum?id=5lgD4vU-l24s)
+   - Amine Mohamed Aboussalah, Minjae Kwon, Raj G Patel, Cheng Chi, Chi-Guhn Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ctmlbs8lita"></a>
+11. [Robust Multivariate Time-Series Forecasting: Adversarial Attacks and Defense Mechanisms](https://openreview.net/forum?id=ctmLBs8lITa)
+   - Linbo Liu, Youngsuk Park, Trong Nghia Hoang, Hilaf Hasson, Jun Huan; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-scrnllctjoe"></a>
+12. [Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://openreview.net/forum?id=sCrnllCtjoE)
+   - Mohammad Amin Shabani, Amir H. Abdi, Lili Meng, Tristan Sylvain; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7c9arx2nbf2"></a>
+13. [Sequential Latent Variable Models for Few-Shot High-Dimensional Time-Series Forecasting](https://openreview.net/forum?id=7C9aRX2nBf2)
+   - Xiajun Jiang, Ryan Missel, Zhiyuan Li, Linwei Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-c0q9obc3n4"></a>
+14. [Temporal Dependencies in Feature Importance for Time Series Prediction](https://openreview.net/forum?id=C0q9oBc3n4)
+   - Kin Kwan Leung, Clayton Rooke, Jonathan Smith, Saba Zuberi, Maksims Volkovs; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-swosrj4nt1n"></a>
+15. [Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks](https://openreview.net/forum?id=sWOsRj4nT1n)
+   - Guangji Bai, Chen Ling, Liang Zhao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ju-uqw384oq"></a>
+16. [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://openreview.net/forum?id=ju_Uqw384Oq)
+   - Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, Mingsheng Long; assignment: `hdbscan`; source: `OpenReview`

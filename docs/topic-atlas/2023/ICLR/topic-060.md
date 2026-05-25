@@ -1,56 +1,56 @@
-# ICLR 2023: 攻击、防御与模型安全
+# ICLR 2023: 神经网络理论与优化行为
 
 - Topic ID: `60`
-- Papers: **12** (0.76%)
-- Macro topic: 计算机视觉
-- English keywords: `backdoor / poisoning / attacks / trigger`
-- Keyword pool: backdoor; poisoning; attacks; trigger; poisoned; defenses; attack success rate; clean; vulnerability; inversion; malicious; examples
+- Papers: **12** (0.78%)
+- Macro topic: 理论/优化
+- English keywords: `relu / gradient / implicit / descent`
+- Keyword pool: relu; gradient; implicit; descent; neural collapse; rank; bias; flow; layers; homogeneous; shallow; lipschitz
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Revisiting the Assumption of Latent Separability for Backdoor Defenses
-- Incompatibility Clustering as a Defense Against Backdoor Poisoning Attacks
-- Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only
-- Few-shot Backdoor Attacks via Neural Tangent Kernels
-- Distilling Cognitive Backdoor Patterns within an Image
+- The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks
+- Implicit Bias in Leaky ReLU Networks Trained on High-Dimensional Data
+- Implicit Bias of Large Depth Networks: a Notion of Rank for Nonlinear Functions
+- The Asymmetric Maximum Margin Bias of Quasi-Homogeneous Neural Networks
+- Feature selection and low test error in shallow low-rotation ReLU networks
 
 ## Papers
 
-<a id="paper-rfqfjdc9mt"></a>
-1. [Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://openreview.net/forum?id=rFQfjDC9Mt)
-   - Kangjie Chen, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-s3d9nlzjnq5"></a>
-2. [Distilling Cognitive Backdoor Patterns within an Image](https://openreview.net/forum?id=S3D9NLzjnQ5)
-   - Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-a70lgj-rwy"></a>
-3. [Few-shot Backdoor Attacks via Neural Tangent Kernels](https://openreview.net/forum?id=a70lGJ-rwy)
-   - Jonathan Hayase, Sewoong Oh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mkjm5uy4hrq"></a>
-4. [Incompatibility Clustering as a Defense Against Backdoor Poisoning Attacks](https://openreview.net/forum?id=mkJm5Uy4HrQ)
-   - Charles Jin, Melinda Sun, Martin Rinard; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-f0a-dweyg-td"></a>
-5. [Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning](https://openreview.net/forum?id=f0a_dWEYg-Td)
-   - Hao He, Kaiwen Zha, Dina Katabi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zkvm1etdoq"></a>
-6. [Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?](https://openreview.net/forum?id=zKvm1ETDOq)
-   - Rui Wen, Zhengyu Zhao, Zhuoran Liu, Michael Backes, Tianhao Wang, Yang Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wshsgrvali"></a>
-7. [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://openreview.net/forum?id=_wSHsgrVali)
-   - Xiangyu Qi, Tinghao Xie, Yiming Li, Saeed Mahloujifar, Prateek Mittal; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-o0lfpcofknr"></a>
-8. [SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://openreview.net/forum?id=o0LFPcoFKnr)
-   - Junfeng Guo, Yiming Li, Xun Chen, Hanqing Guo, Lichao Sun, Cong Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9mo7bjoafia"></a>
-9. [Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors](https://openreview.net/forum?id=9MO7bjoAfIA)
-   - Sizhe Chen, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bszulldgxe"></a>
-10. [The Dark Side of AutoML: Towards Architectural Backdoor Search](https://openreview.net/forum?id=bsZULlDGXe)
-   - Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, Ting Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ja4lpp5mqc2"></a>
-11. [TrojText: Test-time Invisible Textual Trojan Insertion](https://openreview.net/forum?id=ja4Lpp5mqc2)
-   - Qian Lou, Yepeng Liu, Bo Feng; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-mj7k4lglgyj"></a>
-12. [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://openreview.net/forum?id=Mj7K4lglGyj)
-   - Zhenting Wang, Kai Mei, Juan Zhai, Shiqing Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k71iglc8cfc"></a>
+1. [A Unified Algebraic Perspective on Lipschitz Neural Networks](https://openreview.net/forum?id=k71IGLC8cfc)
+   - Alexandre Araujo, Aaron J Havens, Blaise Delattre, Alexandre Allauzen, Bin Hu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-enry5torbq"></a>
+2. [Agnostic Learning of General ReLU Activation Using Gradient Descent](https://openreview.net/forum?id=EnrY5TOrbQ)
+   - Pranjal Awasthi, Alex Tang, Aravindan Vijayaraghavan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uzfqpkezoo"></a>
+3. [Depth Separation with Multilayer Mean-Field Networks](https://openreview.net/forum?id=uzFQpkEzOo)
+   - Yunwei Ren, Mo Zhou, Rong Ge; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sweskiem99"></a>
+4. [Feature selection and low test error in shallow low-rotation ReLU networks](https://openreview.net/forum?id=swEskiem99)
+   - Matus Telgarsky; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-inu2quhgdnu"></a>
+5. [Generalizing and Decoupling Neural Collapse via Hyperspherical Uniformity Gap](https://openreview.net/forum?id=inU2quhGdNU)
+   - Weiyang Liu, Longhui Yu, Adrian Weller, Bernhard Schölkopf; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-jpblyei5eww"></a>
+6. [Implicit Bias in Leaky ReLU Networks Trained on High-Dimensional Data](https://openreview.net/forum?id=JpbLyEI5EwW)
+   - Spencer Frei, Gal Vardi, Peter Bartlett, Nathan Srebro, Wei Hu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6idhce-0b-a"></a>
+7. [Implicit Bias of Large Depth Networks: a Notion of Rank for Nonlinear Functions](https://openreview.net/forum?id=6iDHce-0B-a)
+   - Arthur Jacot; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-d7q0vvfj0wo"></a>
+8. [Implicit Regularization for Group Sparsity](https://openreview.net/forum?id=d7Q0vVfJ0wO)
+   - Jiangyuan Li, Thanh V Nguyen, Chinmay Hegde, Raymond K. W. Wong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-z289siqoqna"></a>
+9. [Plateau in Monotonic Linear Interpolation --- A "Biased" View of Loss Landscape for Deep Networks](https://openreview.net/forum?id=z289SIQOQna)
+   - Xiang Wang, Annie N. Wang, Mo Zhou, Rong Ge; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-im4xp7kgi5v"></a>
+10. [The Asymmetric Maximum Margin Bias of Quasi-Homogeneous Neural Networks](https://openreview.net/forum?id=IM4xp7kGI5V)
+   - Daniel Kunin, Atsushi Yamamura, Chao Ma, Surya Ganguli; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xtbog7cfsr"></a>
+11. [The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks](https://openreview.net/forum?id=xtbog7cfsr)
+   - Mor Shpigel Nacson, Rotem Mulayoff, Greg Ongie, Tomer Michaeli, Daniel Soudry; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wlmdf1jqf86"></a>
+12. [Which Layer is Learning Faster? A Systematic Exploration of Layer-wise Convergence Rate for Deep Neural Networks](https://openreview.net/forum?id=wlMDF1jQF86)
+   - Yixiong Chen, Alan Yuille, Zongwei Zhou; assignment: `hdbscan`; source: `OpenReview`

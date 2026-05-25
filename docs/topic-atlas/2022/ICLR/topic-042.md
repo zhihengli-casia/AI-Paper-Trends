@@ -1,56 +1,53 @@
-# ICLR 2022: equivariant / equivariance / spherical / invariant
+# ICLR 2022: shifts / distribution shift / fine-tuning / wilds
 
 - Topic ID: `42`
-- Papers: **12** (1.10%)
-- Macro topic: 强化学习/决策
-- English keywords: `equivariant / equivariance / spherical / invariant`
-- Keyword pool: equivariant; equivariance; spherical; invariant; cnns; symmetries; graph; group; averaging; convolutions; euclidean; message
+- Papers: **11** (1.04%)
+- Macro topic: 计算机视觉
+- English keywords: `shifts / distribution shift / fine-tuning / wilds`
+- Keyword pool: shifts; distribution shift; fine-tuning; wilds; importance; covariate; linear probing; unlabeled; distributions; api; deployed; ood
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- A Program to Build E(N)-Equivariant Steerable CNNs
-- Frame Averaging for Invariant and Equivariant Network Design
-- Steerable Partial Differential Operators for Equivariant Neural Networks
-- Geometric and Physical Quantities improve E(3) Equivariant Message Passing
-- $\mathrm{SO}(2)$-Equivariant Reinforcement Learning
+- A Fine-Grained Analysis on Distribution Shift
+- Tracking the risk of a deployed model and detecting harmful distribution shifts
+- MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts
+- Leveraging unlabeled data to predict out-of-distribution performance
+- Is Importance Weighting Incompatible with Interpolating Classifiers?
 
 ## Papers
 
-<a id="paper-7f9cohdvfk"></a>
-1. [$\mathrm{SO}(2)$-Equivariant Reinforcement Learning](https://openreview.net/forum?id=7F9cOhdvfk_)
-   - Dian Wang, Robin Walters, Robert Platt; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-we4qe9xlnqw"></a>
-2. [A Program to Build E(N)-Equivariant Steerable CNNs](https://openreview.net/forum?id=WE4qe9xlnQw)
-   - Gabriele Cesa, Leon Lang, Maurice Weiler; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4gfbtouwq"></a>
-3. [Capacity of Group-invariant Linear Readouts from Equivariant Representations: How Many Objects can be Linearly Classified Under All Possible Views?](https://openreview.net/forum?id=_4GFbtOuWq-)
-   - Matthew Farrell, Blake Bordelon, Shubhendu Trivedi, Cengiz Pehlevan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-shbhhhfephp"></a>
-4. [Equivariant Graph Mechanics Networks with Constraints](https://openreview.net/forum?id=SHbhHHfePhP)
-   - Wenbing Huang, Jiaqi Han, Yu Rong, Tingyang Xu, Fuchun Sun, Junzhou Huang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ziuyj55nxr"></a>
-5. [Frame Averaging for Invariant and Equivariant Network Design](https://openreview.net/forum?id=zIUyj55nXR)
-   - Omri Puny, Matan Atzmon, Edward J. Smith, Ishan Misra, Aditya Grover, Heli Ben-Hamu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xwr8gobev1"></a>
-6. [Geometric and Physical Quantities improve E(3) Equivariant Message Passing](https://openreview.net/forum?id=_xwr8gOBeV1)
-   - Johannes Brandstetter, Rob Hesselink, Elise van der Pol, Erik J Bekkers, Max Welling; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-u6s8dsporo8"></a>
-7. [Group equivariant neural posterior estimation](https://openreview.net/forum?id=u6s8dSporO8)
-   - Maximilian Dax, Stephen R Green, Jonathan Gair, Michael Deistler, Bernhard Schölkopf, Jakob H. Macke; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5k7rrqzejos"></a>
-8. [Multiset-Equivariant Set Prediction with Approximate Implicit Differentiation](https://openreview.net/forum?id=5K7RRqZEjoS)
-   - Yan Zhang, David W Zhang, Simon Lacoste-Julien, Gertjan J. Burghouts, Cees G. M. Snoek; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-y0vvig25yk"></a>
-9. [On the Learning and Learnability of Quasimetrics](https://openreview.net/forum?id=y0VvIg25yk)
-   - Tongzhou Wang, Phillip Isola; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bjy5zb2fo2"></a>
-10. [Scattering Networks on the Sphere for Scalable and Rotationally Equivariant Spherical CNNs](https://openreview.net/forum?id=bjy5Zb2fo2)
-   - Jason McEwen, Christopher Wallis, Augustine N. Mavor-Parker; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n9w24a4zu"></a>
-11. [Steerable Partial Differential Operators for Equivariant Neural Networks](https://openreview.net/forum?id=N9W24a4zU)
-   - Erik Jenner, Maurice Weiler; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gk-ipjwvk"></a>
-12. [Top-N: Equivariant Set and Graph Generation without Exchangeability](https://openreview.net/forum?id=-Gk_IPJWvk)
-   - Clement Vignac, Pascal Frossard; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dl4letuldyk"></a>
+1. [A Fine-Grained Analysis on Distribution Shift](https://openreview.net/forum?id=Dl4LetuLdyK)
+   - Olivia Wiles, Sven Gowal, Florian Stimberg, Sylvestre-Alvise Rebuffi, Ira Ktena, Krishnamurthy Dj Dvijotham, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kb5ononjiau"></a>
+2. [Comparing Distributions by Measuring Differences that Affect Decision Making](https://openreview.net/forum?id=KB5onONJIAU)
+   - Shengjia Zhao, Abhishek Sinha, Yutong He, Aidan Perreault, Jiaming Song, Stefano Ermon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-a34grnayecs"></a>
+3. [Distributionally Robust Models with Parametric Likelihood Ratios](https://openreview.net/forum?id=a34GrNaYEcS)
+   - Paul Michel, Tatsunori Hashimoto, Graham Neubig; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-z7p2v6kroov"></a>
+4. [Extending the WILDS Benchmark for Unsupervised Adaptation](https://openreview.net/forum?id=z7p2V6KROOV)
+   - Shiori Sagawa, Pang Wei Koh, Tony Lee, Irena Gao, Sang Michael Xie, Kendrick Shen, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uynefzxsjwh"></a>
+5. [Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution](https://openreview.net/forum?id=UYneFzXSJWh)
+   - Ananya Kumar, Aditi Raghunathan, Robbie Matthew Jones, Tengyu Ma, Percy Liang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gfdfkc4ghl4"></a>
+6. [How Did the Model Change? Efficiently Assessing Machine Learning API Shifts](https://openreview.net/forum?id=gFDFKC4gHL4)
+   - Lingjiao Chen, Matei Zaharia, James Zou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uqbone3luky"></a>
+7. [Is Importance Weighting Incompatible with Interpolating Classifiers?](https://openreview.net/forum?id=uqBOne3LUKy)
+   - Ke Alexander Wang, Niladri Shekhar Chatterji, Saminul Haque, Tatsunori Hashimoto; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-o-hsimpyh-x"></a>
+8. [Leveraging unlabeled data to predict out-of-distribution performance](https://openreview.net/forum?id=o_HsiMPYh_x)
+   - Saurabh Garg, Sivaraman Balakrishnan, Zachary Chase Lipton, Behnam Neyshabur, Hanie Sedghi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mtex8qkavos"></a>
+9. [MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts](https://openreview.net/forum?id=MTex8qKavoS)
+   - Weixin Liang, James Zou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dhp9l8viylc"></a>
+10. [PAC Prediction Sets Under Covariate Shift](https://openreview.net/forum?id=DhP9L8vIyLc)
+   - Sangdon Park, Edgar Dobriban, Insup Lee, Osbert Bastani; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ro-zajzppv"></a>
+11. [Tracking the risk of a deployed model and detecting harmful distribution shifts](https://openreview.net/forum?id=Ro_zAjZppv)
+   - Aleksandr Podkopaev, Aaditya Ramdas; assignment: `hdbscan`; source: `OpenReview`

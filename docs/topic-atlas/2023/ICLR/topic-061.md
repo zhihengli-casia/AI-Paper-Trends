@@ -1,56 +1,56 @@
-# ICLR 2023: manipulation / deformable / differentiable physics / fluid
+# ICLR 2023: offline / function approximation / reinforcement / value functions
 
 - Topic ID: `61`
-- Papers: **12** (0.76%)
-- Macro topic: 3D/具身/机器人
-- English keywords: `manipulation / deformable / differentiable physics / fluid`
-- Keyword pool: manipulation; deformable; differentiable physics; fluid; co-design; mechanical; simulators; morphology; skill; simulation; robots; graph network
+- Papers: **12** (0.78%)
+- Macro topic: 强化学习/决策
+- English keywords: `offline / function approximation / reinforcement / value functions`
+- Keyword pool: offline; function approximation; reinforcement; value functions; algorithms; coverage; conservative; temporal difference; linear function; confidence; policy; online
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics
-- SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments
-- FluidLab: A Differentiable Environment for Benchmarking Complex Fluid Manipulation
-- DaxBench: Benchmarking Deformable Object Manipulation with Differentiable Physics
-- Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots
+- Offline Reinforcement Learning with Differentiable Function Approximation is Provably Efficient
+- Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian
+- Confidence-Conditioned Value Functions for Offline Reinforcement Learning
+- Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game
+- VIPeR: Provably Efficient Algorithm for Offline RL with Neural Function Approximation
 
 ## Papers
 
-<a id="paper-r9fx833csun"></a>
-1. [Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots](https://openreview.net/forum?id=r9fX833CsuN)
-   - Yuxing Wang, Shuang Wu, Haobo Fu, QIANG FU, Tiantian Zhang, Yongzhe Chang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1nazmofmnwl"></a>
-2. [DaxBench: Benchmarking Deformable Object Manipulation with Differentiable Physics](https://openreview.net/forum?id=1NAzMofMnWl)
-   - Siwei Chen, Yiqing Xu, Cunjun Yu, Linfeng Li, Xiao Ma, Zhongwen Xu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-liv7-7pypl"></a>
-3. [DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics](https://openreview.net/forum?id=LIV7-_7pYPl)
-   - Sizhe Li, Zhiao Huang, Tao Chen, Tao Du, Hao Su, Joshua B. Tenenbaum, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-06mk-epswz"></a>
-4. [DiffMimic: Efficient Motion Mimicking with Differentiable Physics](https://openreview.net/forum?id=06mk-epSwZ)
-   - Jiawei Ren, Cunjun Yu, Siwei Chen, Xiao Ma, Liang Pan, Ziwei Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-i-yzanaz5x"></a>
-5. [DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Manipulation](https://openreview.net/forum?id=I_YZANaz5X)
-   - Yan Zhao, Ruihai Wu, Zhehuan Chen, Yourong Zhang, Qingnan Fan, Kaichun Mo, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-cp-io-bofae"></a>
-6. [FluidLab: A Differentiable Environment for Benchmarking Complex Fluid Manipulation](https://openreview.net/forum?id=Cp-io_BoFaE)
-   - Zhou Xian, Bo Zhu, Zhenjia Xu, Hsiao-Yu Tung, Antonio Torralba, Katerina Fragkiadaki, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jszsed8vey"></a>
-7. [Grounding Graph Network Simulators using Physical Sensor Observations](https://openreview.net/forum?id=jsZsEd8VEY)
-   - Jonas Linkerhägner, Niklas Freymuth, Paul Maria Scheikl, Franziska Mathis-Ullrich, Gerhard Neumann; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-j7uh781a05p"></a>
-8. [Learning rigid dynamics with face interaction graph networks](https://openreview.net/forum?id=J7Uh781A05p)
-   - Kelsey R Allen, Yulia Rubanova, Tatiana Lopez-Guevara, William F Whitney, Alvaro Sanchez-Gonzalez, Peter Battaglia, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-b-cqdy9vrd1"></a>
-9. [ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills](https://openreview.net/forum?id=b_CQDy9vrD1)
-   - Jiayuan Gu, Fanbo Xiang, Xuanlin Li, Zhan Ling, Xiqiang Liu, Tongzhou Mu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-z3iclm-bzvp"></a>
-10. [Multi-skill Mobile Manipulation for Object Rearrangement](https://openreview.net/forum?id=Z3IClM_bzvP)
-   - Jiayuan Gu, Devendra Singh Chaplot, Hao Su, Jitendra Malik; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qubsmjt-a0"></a>
-11. [Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity](https://openreview.net/forum?id=QubsmJT_A0)
-   - Deniz Oktay, Mehran Mirramezani, Eder Medina, Ryan P Adams; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xyme9p1rpzw"></a>
-12. [SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments](https://openreview.net/forum?id=Xyme9p1rpZw)
-   - Tsun-Hsuan Wang, Pingchuan Ma, Andrew Everett Spielberg, Zhou Xian, Hao Zhang, Joshua B. Tenenbaum, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ypchvogrxra"></a>
+1. [Backstepping Temporal Difference Learning](https://openreview.net/forum?id=YPChvOgRXRA)
+   - Han-Dong Lim, Donghwan Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zeb5mtuqt5"></a>
+2. [Confidence-Conditioned Value Functions for Offline Reinforcement Learning](https://openreview.net/forum?id=Zeb5mTuqT5)
+   - Joey Hong, Aviral Kumar, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sj0lde3trl"></a>
+3. [Extreme Q-Learning: MaxEnt RL without Entropy](https://openreview.net/forum?id=SJ0Lde3tRL)
+   - Divyansh Garg, Joey Hejna, Matthieu Geist, Stefano Ermon; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rmomvptxk7m"></a>
+4. [Gray-Box Gaussian Processes for Automated Reinforcement Learning](https://openreview.net/forum?id=rmoMvptXK7M)
+   - Gresa Shala, André Biedenkapp, Frank Hutter, Josif Grabocka; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-up-ghhpw7rp"></a>
+5. [Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game](https://openreview.net/forum?id=UP_GHHPw7rP)
+   - Wei Xiong, Han Zhong, Chengshuai Shi, Cong Shen, Liwei Wang, Tong Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-6jfbowzwtce"></a>
+6. [Offline Reinforcement Learning with Differentiable Function Approximation is Provably Efficient](https://openreview.net/forum?id=6jfbOWzWTcE)
+   - Ming Yin, Mengdi Wang, Yu-Xiang Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6jmxlwx68kj"></a>
+7. [On the Performance of Temporal Difference Learning With Neural Networks](https://openreview.net/forum?id=6JMXLWX68Kj)
+   - HAOXING TIAN, Ioannis Paschalidis, Alex Olshevsky; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zsvwb6mjnmv"></a>
+8. [Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian](https://openreview.net/forum?id=ZsvWb6mJnMv)
+   - Paria Rashidinejad, Hanlin Zhu, Kunhe Yang, Stuart Russell, Jiantao Jiao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pbkbdq5-ubv"></a>
+9. [Pessimism in the Face of Confounders: Provably Efficient Offline Reinforcement Learning in Partially Observable Markov Decision Processes](https://openreview.net/forum?id=PbkBDQ5_UbV)
+   - Miao Lu, Yifei Min, Zhaoran Wang, Zhuoran Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9x3co0zu9lr"></a>
+10. [Sample Complexity of Nonparametric Off-Policy Evaluation on Low-Dimensional Manifolds using Deep Networks](https://openreview.net/forum?id=9x3CO0ZU9LR)
+   - Xiang Ji, Minshuo Chen, Mengdi Wang, Tuo Zhao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lqijzpddt3q"></a>
+11. [The Role of Coverage in Online Reinforcement Learning](https://openreview.net/forum?id=LQIjzPdDt3q)
+   - Tengyang Xie, Dylan J Foster, Yu Bai, Nan Jiang, Sham M. Kakade; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-woquztlcbo1"></a>
+12. [VIPeR: Provably Efficient Algorithm for Offline RL with Neural Function Approximation](https://openreview.net/forum?id=WOquZTLCBO1)
+   - Thanh Nguyen-Tang, Raman Arora; assignment: `hdbscan`; source: `OpenReview`

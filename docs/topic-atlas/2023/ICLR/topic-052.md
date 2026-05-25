@@ -1,62 +1,62 @@
-# ICLR 2023: language / masked / image / vision
+# ICLR 2023: domain / image / adaptation / target
 
 - Topic ID: `52`
-- Papers: **14** (0.89%)
-- Macro topic: 多模态/VLM
-- English keywords: `language / masked / image / vision`
-- Keyword pool: language; masked; image; vision; multi-task; visual; dense; multi-modal; dialogue; pre-training; pixel; prompts
+- Papers: **14** (0.92%)
+- Macro topic: 计算机视觉
+- English keywords: `domain / image / adaptation / target`
+- Keyword pool: domain; image; adaptation; target; detection; positives; source; anomaly; style; normal; robust; channel
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- PaLI: A Jointly-Scaled Multilingual Language-Image Model
-- Write and Paint: Generative Vision-Language Models are Unified Modal Learners
-- Masked Vision and Language Modeling for Multi-modal Representation Learning
-- Linearly Mapping from Image to Text Space
-- Visually-Augmented Language Modeling
+- Cycle-consistent Masked AutoEncoder for Unsupervised Domain Generalization
+- Domain Generalisation via Domain Adaptation: An Adversarial Fourier Amplitude Approach
+- Multi-domain image generation and translation with identifiability guarantees
+- Few-shot Cross-domain Image Generation via Inference-time Latent-code Learning
+- Towards Robust Object Detection Invariant to Real-World Domain Shifts
 
 ## Papers
 
-<a id="paper-aw0rrrpuf"></a>
-1. [GLM-130B: An Open Bilingual Pre-trained Model](https://openreview.net/forum?id=-Aw0rrrPUF)
-   - Aohan Zeng, Xiao Liu, Zhengxiao Du, Zihan Wang, Hanyu Lai, Ming Ding, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-fksp8vw8rjh"></a>
-2. [Language Modelling with Pixels](https://openreview.net/forum?id=FkSp8VW8RjH)
-   - Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dps6bgo2qt0"></a>
-3. [Learning Locality and Isotropy in Dialogue Modeling](https://openreview.net/forum?id=dPs6BGO2QT0)
-   - Han Wu, Haochen Tan, Mingjie Zhan, Gangming Zhao, Shaoqing Lu, Ding Liang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-8tyrqb05pvn"></a>
-4. [Linearly Mapping from Image to Text Space](https://openreview.net/forum?id=8tYRqb05pVn)
-   - Jack Merullo, Louis Castricato, Carsten Eickhoff, Ellie Pavlick; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zhuxkssjywn"></a>
-5. [Masked Vision and Language Modeling for Multi-modal Representation Learning](https://openreview.net/forum?id=ZhuXksSJYWn)
-   - Gukyeong Kwon, Zhaowei Cai, Avinash Ravichandran, Erhan Bas, Rahul Bhotika, Stefano Soatto; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mwvobz4w0u"></a>
-6. [PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://openreview.net/forum?id=mWVoBz4W0u)
-   - Xi Chen, Xiao Wang, Soravit Changpinyo, AJ Piergiovanni, Piotr Padlewski, Daniel Salz, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ebs4c77p-5s"></a>
-7. [SLTUNET: A Simple Unified Model for Sign Language Translation](https://openreview.net/forum?id=EBS4C77p_5S)
-   - Biao Zhang, Mathias Müller, Rico Sennrich; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9ye2xej0bh7"></a>
-8. [Spotlight: Mobile UI Understanding using Vision-Language Models with a Focus](https://openreview.net/forum?id=9yE2xEj0BH7)
-   - Gang Li, Yang Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-he-75xy5ljh"></a>
-9. [StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training](https://openreview.net/forum?id=HE_75XY5Ljh)
-   - Yuechen Yu, Yulin Li, Chengquan Zhang, Xiaoqiang Zhang, Zengyuan Guo, Xiameng Qin, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-cwpoppjda"></a>
-10. [TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding](https://openreview.net/forum?id=-CwPopPJda)
-   - Hanrong Ye, Dan Xu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-e01k9048soz"></a>
-11. [UNIFIED-IO: A Unified Model for Vision, Language, and Multi-modal Tasks](https://openreview.net/forum?id=E01k9048soZ)
-   - Jiasen Lu, Christopher Clark, Rowan Zellers, Roozbeh Mottaghi, Aniruddha Kembhavi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-88nt0j5jan"></a>
-12. [Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching](https://openreview.net/forum?id=88nT0j5jAn)
-   - Donggyun Kim, Jinwoo Kim, Seongwoong Cho, Chong Luo, Seunghoon Hong; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8in-qlkl215"></a>
-13. [Visually-Augmented Language Modeling](https://openreview.net/forum?id=8IN-qLkl215)
-   - Weizhi Wang, Li Dong, Hao Cheng, Haoyu Song, Xiaodong Liu, Xifeng Yan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hgqr0mxq1-a"></a>
-14. [Write and Paint: Generative Vision-Language Models are Unified Modal Learners](https://openreview.net/forum?id=HgQR0mXQ1_a)
-   - Shizhe Diao, Wangchunshu Zhou, Xinsong Zhang, Jiawei Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9omcr1q54z"></a>
+1. [AE-FLOW: Autoencoders with Normalizing Flows for Medical Images Anomaly Detection](https://openreview.net/forum?id=9OmCr1q54Z)
+   - Yuzhong Zhao, Qiaoqiao Ding, Xiaoqun Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wc98x1qpdba"></a>
+2. [Cycle-consistent Masked AutoEncoder for Unsupervised Domain Generalization](https://openreview.net/forum?id=wC98X1qpDBA)
+   - Haiyang Yang, Xiaotong Li, SHIXIANG TANG, Feng Zhu, Yizhou Wang, Meilin Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vk-j5pqy3gv"></a>
+3. [Discovering Informative and Robust Positives for Video Domain Adaptation](https://openreview.net/forum?id=vk-j5pQY3Gv)
+   - Chang Liu, Kunpeng Li, Michael Stopa, Jun Amano, Yun Fu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7ig0wstnd7w"></a>
+4. [Domain Generalisation via Domain Adaptation: An Adversarial Fourier Amplitude Approach](https://openreview.net/forum?id=7IG0wsTND7w)
+   - Minyoung Kim, Da Li, Timothy Hospedales; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qwqm0zwzdrs"></a>
+5. [Fake It Until You Make It : Towards Accurate Near-Distribution Novelty Detection](https://openreview.net/forum?id=QWQM0ZwZdRS)
+   - Hossein Mirzaei, Mohammadreza Salehi, Sajjad Shahabi, Efstratios Gavves, Cees G. M. Snoek, Mohammad Sabokrou, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4f1gvdudel"></a>
+6. [Few-Shot Domain Adaptation For End-to-End Communication](https://openreview.net/forum?id=4F1gvduDeL)
+   - Jayaram Raghuram, Yijing Zeng, Dolores Garcia, Rafael Ruiz, Somesh Jha, Joerg Widmer, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-scyxjr3qjm8"></a>
+7. [Few-shot Cross-domain Image Generation via Inference-time Latent-code Learning](https://openreview.net/forum?id=sCYXJr3QJM8)
+   - Arnab Kumar Mondal, Piyush Tiwary, Parag Singla, Prathosh AP; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-hhjzlrpgb"></a>
+8. [Learning Domain-Agnostic Representation for Disease Diagnosis](https://openreview.net/forum?id=-HHJZlRpGb)
+   - Churan Wang, Jing Li, Xinwei Sun, Fandong Zhang, Yizhou Yu, Yizhou Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-u2g8ogona-v"></a>
+9. [Multi-domain image generation and translation with identifiability guarantees](https://openreview.net/forum?id=U2g8OGONA_V)
+   - Shaoan Xie, Lingjing Kong, Mingming Gong, Kun Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1ubnwqc89a"></a>
+10. [RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection](https://openreview.net/forum?id=1UbNwQC89a)
+   - Shancong Mou, Xiaoyi Gu, Meng Cao, Haoping Bai, Ping Huang, Jiulong Shan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jtgimap-f"></a>
+11. [Rarity Score : A New Metric to Evaluate the Uncommonness of Synthesized Images](https://openreview.net/forum?id=JTGimap_-F)
+   - Jiyeon Han, Hwanil Choi, Yunjey Choi, Junho Kim, Jung-Woo Ha, Jaesik Choi; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-recz9nb9q4"></a>
+12. [Sparse Mixture-of-Experts are Domain Generalizable Learners](https://openreview.net/forum?id=RecZ9nB9Q4)
+   - Bo Li, Yifei Shen, Jingkang Yang, Yezhen Wang, Jiawei Ren, Tong Che, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vqsyt8d3ny"></a>
+13. [Towards Robust Object Detection Invariant to Real-World Domain Shifts](https://openreview.net/forum?id=vqSyt8D3ny)
+   - Qi Fan, Mattia Segu, Yu-Wing Tai, Fisher Yu, Chi-Keung Tang, Bernt Schiele, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-er2dg8yjnq"></a>
+14. [Using Language to Extend to Unseen Domains](https://openreview.net/forum?id=eR2dG8yjnQ)
+   - Lisa Dunlap, Clara Mohri, Devin Guillory, Han Zhang, Trevor Darrell, Joseph E. Gonzalez, et al.; assignment: `hdbscan`; source: `OpenReview`

@@ -1,83 +1,80 @@
-# ICLR 2022: 目标检测与图像分割
+# ICLR 2022: variational / latent / flows / hierarchical
 
 - Topic ID: `19`
-- Papers: **21** (1.92%)
-- Macro topic: 计算机视觉
-- English keywords: `generative / gans / image / latent space`
-- Keyword pool: generative; gans; image; latent space; segmentation; domain; disentangled; generator; adversarial; fine-grained; unsupervised; synthesis
+- Papers: **20** (1.89%)
+- Macro topic: 系统/效率/压缩
+- English keywords: `variational / latent / flows / hierarchical`
+- Keyword pool: variational; latent; flows; hierarchical; generative; posterior; prototype; memory; simulation-based inference; dropout; probabilistic; variables
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Generative Models as a Data Source for Multiview Representation Learning
-- When, Why, and Which Pretrained GANs Are Useful?
-- Stein Latent Optimization for Generative Adversarial Networks
-- Collapse by Conditioning: Training Class-conditional GANs with Limited Data
-- InfinityGAN: Towards Infinite-Pixel Image Synthesis
+- Deep Attentive Variational Inference
+- ADAVI: Automatic Dual Amortized Variational Inference Applied To Pyramidal Bayesian Models
+- Hierarchical Variational Memory for Few-shot Learning Across Domains
+- Variational methods for simulation-based inference
+- Hybrid Memoised Wake-Sleep: Approximate Inference at the Discrete-Continuous Interface
 
 ## Papers
 
-<a id="paper-xhf2vomrhs"></a>
-1. [A Unified Contrastive Energy-based Model for Understanding the Generative Ability of Adversarial Training](https://openreview.net/forum?id=XhF2VOMRHS)
-   - Yifei Wang, Yisen Wang, Jiansheng Yang, Zhouchen Lin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-eznob-unpjk"></a>
-2. [ClimateGAN: Raising Climate Change Awareness by Generating Images of Floods](https://openreview.net/forum?id=EZNOb_uNpJk)
-   - Victor Schmidt, Alexandra Luccioni, Mélisande Teng, Tianyu Zhang, Alexia Reynaud, Sunand Raghupathi, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ljxwpdbl4v"></a>
-3. [Closed-form Sample Probing for Learning Generative Models in Zero-shot Learning](https://openreview.net/forum?id=ljxWpdBl4V)
-   - Samet Cetin, Orhun Buğra Baran, Ramazan Gokberk Cinbis; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7tzecsnoub"></a>
-4. [Collapse by Conditioning: Training Class-conditional GANs with Limited Data](https://openreview.net/forum?id=7TZeCsNOUB_)
-   - Mohamad Shahbazi, Martin Danelljan, Danda Pani Paudel, Luc Van Gool; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xwode7zln8f"></a>
-5. [Contrastive Fine-grained Class Clustering via Generative Adversarial Networks](https://openreview.net/forum?id=XWODe7ZLn8f)
-   - Yunji Kim, Jung-Woo Ha; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qjoqkpzkbnk"></a>
-6. [Distilling GANs with Style-Mixed Triplets for X2I Translation with Limited Data](https://openreview.net/forum?id=QjOQkpzKbNk)
-   - Yaxing Wang, Joost van de weijer, Lu Yu, SHANGLING JUI; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-atzmi4yv-ro"></a>
-7. [Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs](https://openreview.net/forum?id=aTzMi4yV_RO)
-   - Jaewoong Choi, Junho Lee, Changyeon Yoon, Jung Ho Park, Geonho Hwang, Myungjoo Kang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ug-bgjgslkv"></a>
-8. [Finding an Unsupervised Image Segmenter in each of your Deep Generative Models](https://openreview.net/forum?id=Ug-bgjgSlKV)
-   - Luke Melas-Kyriazi, Christian Rupprecht, Iro Laina, Andrea Vedaldi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-zirlu3y2pn"></a>
-9. [Generalized rectifier wavelet covariance models for texture synthesis](https://openreview.net/forum?id=ziRLU3Y2PN_)
-   - Antoine Brochard, Sixin Zhang, Stéphane Mallat; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qhaezjs7dcl"></a>
-10. [Generative Models as a Data Source for Multiview Representation Learning](https://openreview.net/forum?id=qhAeZjs7dCL)
-   - Ali Jahanian, Xavier Puig, Yonglong Tian, Phillip Isola; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ufgmqim0a4b"></a>
-11. [InfinityGAN: Towards Infinite-Pixel Image Synthesis](https://openreview.net/forum?id=ufGMqIM0a4b)
-   - Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-j-63fsnco5a"></a>
-12. [Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View](https://openreview.net/forum?id=j-63FSNcO5a)
-   - Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-hndgqudnb91"></a>
-13. [Learning to Downsample for Segmentation of Ultra-High Resolution Images](https://openreview.net/forum?id=HndgQudNb91)
-   - Chen Jin, Ryutaro Tanno, Thomy Mertzanidou, Eleftheria Panagiotaki, Daniel C. Alexander; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-r5qumliywf9"></a>
-14. [MaGNET: Uniform Sampling from Deep Generative Network Manifolds Without Retraining](https://openreview.net/forum?id=r5qumLiYwf9)
-   - Ahmed Imtiaz Humayun, Randall Balestriero, Richard Baraniuk; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vqgi8kp0wm"></a>
-15. [Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks](https://openreview.net/forum?id=vqGi8Kp0wM)
-   - Peihao Zhu, Rameen Abdal, John Femiani, Peter Wonka; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ew5r4cek6y6"></a>
-16. [On Predicting Generalization using GANs](https://openreview.net/forum?id=eW5R4Cek6y6)
-   - Yi Zhang, Arushi Gupta, Nikunj Saunshi, Sanjeev Arora; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-2-mkius9jx7"></a>
-17. [Stein Latent Optimization for Generative Adversarial Networks](https://openreview.net/forum?id=2-mkiUs9Jx7)
-   - Uiwon Hwang, Heeseung Kim, Dahuin Jung, Hyemi Jang, Hyungyu Lee, Sungroh Yoon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qg2vi4zbhm9"></a>
-18. [StyleAlign: Analysis and Applications of Aligned StyleGAN Models](https://openreview.net/forum?id=Qg2vi4ZbHM9)
-   - Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iuuzztmuw9k"></a>
-19. [StyleNeRF: A Style-based 3D Aware Generator for High-resolution Image Synthesis](https://openreview.net/forum?id=iUuzzTMUw9K)
-   - Jiatao Gu, Lingjie Liu, Peng Wang, Christian Theobalt; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vds4snoooe"></a>
-20. [Superclass-Conditional Gaussian Mixture Model For Learning Fine-Grained Embeddings](https://openreview.net/forum?id=vds4SNooOe)
-   - Jingchao Ni, Wei Cheng, Zhengzhang Chen, Takayoshi Asakura, Tomoya Soma, Sho Kato, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4ycr8oecoih"></a>
-21. [When, Why, and Which Pretrained GANs Are Useful?](https://openreview.net/forum?id=4Ycr8oeCoIh)
-   - Timofey Grigoryev, Andrey Voynov, Artem Babenko; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cgiectmcxx1"></a>
+1. [ADAVI: Automatic Dual Amortized Variational Inference Applied To Pyramidal Bayesian Models](https://openreview.net/forum?id=CgIEctmcXx1)
+   - Louis Rouillard, Demian Wassermann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-z1-i6rokv1s"></a>
+2. [Autoregressive Quantile Flows for Predictive Uncertainty Estimation](https://openreview.net/forum?id=z1-I6rOKv1S)
+   - Phillip Si, Allan Bishop, Volodymyr Kuleshov; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cjzi3drlje"></a>
+3. [Connectome-constrained Latent Variable Model of Whole-Brain Neural Activity](https://openreview.net/forum?id=CJzi3dRlJE-)
+   - Lu Mi, Richard Xu, Sridhama Prakhya, Albert Lin, Nir Shavit, Aravinthan Samuel, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-t4-65dnldij"></a>
+4. [Deep Attentive Variational Inference](https://openreview.net/forum?id=T4-65DNlDij)
+   - Ifigeneia Apostolopoulou, Ian Char, Elan Rosenfeld, Artur Dubrawski; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9pejsvfdbba"></a>
+5. [Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling](https://openreview.net/forum?id=9pEJSVfDbba)
+   - Gianluigi Silvestri, Emily Fertig, Dave Moore, Luca Ambrogioni; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kr1hc6j48tp"></a>
+6. [GATSBI: Generative Adversarial Training for Simulation-Based Inference](https://openreview.net/forum?id=kR1hC6j48Tp)
+   - Poornima Ramesh, Jan-Matthis Lueckmann, Jan Boelts, Álvaro Tejero-Cantero, David S. Greenberg, Pedro J. Goncalves, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-harn4-ezbw"></a>
+7. [Generative Pseudo-Inverse Memory](https://openreview.net/forum?id=Harn4_EZBw)
+   - Kha Pham, Hung Le, Man Ngo, Truyen Tran, Bao Ho, Svetha Venkatesh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-az7opqbqe-3"></a>
+8. [Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series](https://openreview.net/forum?id=Az7opqbQE-3)
+   - Satya Narayan Shukla, Benjamin Marlin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-i3ri65sr7n"></a>
+9. [Hierarchical Variational Memory for Few-shot Learning Across Domains](https://openreview.net/forum?id=i3RI65sR7N)
+   - Yingjun Du, Xiantong Zhen, Ling Shao, Cees G. M. Snoek; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-auopcdacoy"></a>
+10. [Hybrid Memoised Wake-Sleep: Approximate Inference at the Discrete-Continuous Interface](https://openreview.net/forum?id=auOPcdAcoy)
+   - Tuan Anh Le, Katherine M. Collins, Luke Hewitt, Kevin Ellis, Siddharth N, Samuel Gershman, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rdllmjljxdq"></a>
+11. [Learning Temporally Causal Latent Processes from General Temporal Data](https://openreview.net/forum?id=RDlLMjLJXdq)
+   - Weiran Yao, Yuewen Sun, Alex Ho, Changyin Sun, Kun Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fexcskddo"></a>
+12. [Learning to Dequantise with Truncated Flows](https://openreview.net/forum?id=fExcSKdDo_)
+   - Shawn Tan, Chin-Wei Huang, Alessandro Sordoni, Aaron Courville; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4c93qvn-tz"></a>
+13. [MCMC Should Mix: Learning Energy-Based Model with Neural Transport Latent Space MCMC](https://openreview.net/forum?id=4C93Qvn-tz)
+   - Erik Nijkamp, Ruiqi Gao, Pavel Sountsov, Srinivas Vasudevan, Bo Pang, Song-Chun Zhu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-lylvzukxi08"></a>
+14. [Neural Variational Dropout Processes](https://openreview.net/forum?id=lyLVzukXi08)
+   - Insu Jeon, Youngjin Park, Gunhee Kim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ly0-7bj0vfz"></a>
+15. [Prototype memory and attention mechanisms for few shot image generation](https://openreview.net/forum?id=lY0-7bj0Vfz)
+   - Tianqin Li, Zijie Li, Andrew Luo, Harold Rockwell, Amir Barati Farimani, Tai Sing Lee; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-csfcoznpdy"></a>
+16. [Recursive Disentanglement Network](https://openreview.net/forum?id=CSfcOznpDY)
+   - Yixuan Chen, Yubin Shi, Dongsheng Li, Yujiang Wang, Mingzhi Dong, Yingying Zhao, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-7ffo4cmbx-9"></a>
+17. [Variational Neural Cellular Automata](https://openreview.net/forum?id=7fFO4cMBx_9)
+   - Rasmus Berg Palm, Miguel González Duque, Shyam Sudhakaran, Sebastian Risi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jxfgjbz-wft"></a>
+18. [Variational Predictive Routing with Nested Subjective Timescales](https://openreview.net/forum?id=JxFgJbZ-wft)
+   - Alexey Zakharov, Qinghai Guo, Zafeirios Fountas; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kz0uydhqkny"></a>
+19. [Variational methods for simulation-based inference](https://openreview.net/forum?id=kZ0UYdhqkNY)
+   - Manuel Glöckler, Michael Deistler, Jakob H. Macke; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wrodldhaaiw"></a>
+20. [iLQR-VAE : control-based learning of input-driven dynamics with applications to neural data](https://openreview.net/forum?id=wRODLDHaAiW)
+   - Marine Schimel, Ta-Chu Kao, Kristopher T Jensen, Guillaume Hennequin; assignment: `hdbscan`; source: `OpenReview`

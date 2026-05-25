@@ -1,47 +1,50 @@
-# ICLR 2023: 强化学习算法与理论
+# ICLR 2023: label / weak supervision / pll / weakly supervised
 
 - Topic ID: `74`
-- Papers: **9** (0.57%)
-- Macro topic: 强化学习/决策
-- English keywords: `reward / language / dialogue / reinforcement learning`
-- Keyword pool: reward; language; dialogue; reinforcement learning; users; utterances; agents; preferences; planning; feedback; learning rl; behavior
+- Papers: **10** (0.65%)
+- Macro topic: 生成模型
+- English keywords: `label / weak supervision / pll / weakly supervised`
+- Keyword pool: label; weak supervision; pll; weakly supervised; candidate; generation process; predicate; encodings; regression; weakly-supervised; hyper; pseudo
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization
-- Offline RL for Natural Language Generation with Implicit Language Q Learning
-- Reward Design with Language Models
-- Fantastic Rewards and How to Tame Them: A Case Study on Reward Learning for Task-oriented Dialogue Systems
-- A Mixture-of-Expert Approach to RL-based Dialogue Management
+- Label Propagation with Weak Supervision
+- Learning Hyper Label Model for Programmatic Weak Supervision
+- Decompositional Generation Process for Instance-Dependent Partial Label Learning
+- Mutual Partial Label Learning with Competitive Label Noise
+- Generative Modeling Helps Weak Supervision (and Vice Versa)
 
 ## Papers
 
-<a id="paper-4fbuihxz5nm"></a>
-1. [A Mixture-of-Expert Approach to RL-based Dialogue Management](https://openreview.net/forum?id=4FBUihxz5nm)
-   - Yinlam Chow, Azamat Tulepbergenov, Ofir Nachum, Dhawal Gupta, Moonkyung Ryu, Mohammad Ghavamzadeh, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-086pmararis"></a>
-2. [Fantastic Rewards and How to Tame Them: A Case Study on Reward Learning for Task-oriented Dialogue Systems](https://openreview.net/forum?id=086pmarAris)
-   - Yihao Feng, Shentao Yang, Shujian Zhang, Jianguo Zhang, Caiming Xiong, Mingyuan Zhou, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8ahzds2uuyb"></a>
-3. [Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization](https://openreview.net/forum?id=8aHzds2uUyB)
-   - Rajkumar Ramamurthy, Prithviraj Ammanabrolu, Kianté Brantley, Jack Hessel, Rafet Sifa, Christian Bauckhage, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pwvasryoyfw"></a>
-4. [Learning Uncertainty for Unknown Domains with Zero-Target-Assumption](https://openreview.net/forum?id=pWVASryOyFw)
-   - Yu Yu, Hassan Sajjad, Jia Xu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-abh-dydevoh"></a>
-5. [Offline RL for Natural Language Generation with Implicit Language Q Learning](https://openreview.net/forum?id=aBH_DydEvoH)
-   - Charlie Victor Snell, Ilya Kostrikov, Yi Su, Sherry Yang, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wgvzqwfyub"></a>
-6. [Personalized Reward Learning with Interaction-Grounded Learning (IGL)](https://openreview.net/forum?id=wGvzQWFyUB)
-   - Jessica Maghakian, Paul Mineiro, Kishan Panaganti, Mark Rucker, Akanksha Saran, Cheng Tan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cvfd6qe8gny"></a>
-7. [Planning with Sequence Models through Iterative Energy Minimization](https://openreview.net/forum?id=cVFD6qE8gnY)
-   - Hongyi Chen, Yilun Du, Yiye Chen, Joshua B. Tenenbaum, Patricio A. Vela; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lgz9u1ubuxe"></a>
-8. [Relative Behavioral Attributes: Filling the Gap between Symbolic Goal Specification and Reward Learning from Human Preferences](https://openreview.net/forum?id=lGz9u1ubUXE)
-   - Lin Guan, Karthik Valmeekam, Subbarao Kambhampati; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-10unugi5kl"></a>
-9. [Reward Design with Language Models](https://openreview.net/forum?id=10uNUgI5Kl)
-   - Minae Kwon, Sang Michael Xie, Kalesha Bullard, Dorsa Sadigh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lkofilxucgb"></a>
+1. [Decompositional Generation Process for Instance-Dependent Partial Label Learning](https://openreview.net/forum?id=lKOfilXucGB)
+   - Congyu Qiao, Ning Xu, Xin Geng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3oabbatwsvp"></a>
+2. [Generative Modeling Helps Weak Supervision (and Vice Versa)](https://openreview.net/forum?id=3OaBBATwsvP)
+   - Benedikt Boecking, Nicholas Roberts, Willie Neiswanger, Stefano Ermon, Frederic Sala, Artur Dubrawski; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-acufa-rrqti"></a>
+3. [Label Propagation with Weak Supervision](https://openreview.net/forum?id=aCuFa-RRqtI)
+   - Rattana Pukdee, Dylan Sam, Pradeep Kumar Ravikumar, Nina Balcan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-acqt-brksjc"></a>
+4. [Learning Hyper Label Model for Programmatic Weak Supervision](https://openreview.net/forum?id=aCQt_BrkSjC)
+   - Renzhi Wu, Shen-En Chen, Jieyu Zhang, Xu Chu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k60xe-b0ix6"></a>
+5. [Learning Label Encodings for Deep Regression](https://openreview.net/forum?id=k60XE_b0Ix6)
+   - Deval Shah, Tor M. Aamodt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1fxrpkrh8bw"></a>
+6. [MCAL: Minimum Cost Human-Machine Active Labeling](https://openreview.net/forum?id=1FxRPKrH8bw)
+   - Hang Qiu, Krishna Chintalapudi, Ramesh Govindan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-eurxg8ibcrc"></a>
+7. [Mutual Partial Label Learning with Competitive Label Noise](https://openreview.net/forum?id=EUrxG8IBCrC)
+   - Yan Yan, Yuhong Guo; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-klrglnoxzb4"></a>
+8. [Video Scene Graph Generation from Single-Frame Weak Supervision](https://openreview.net/forum?id=KLrGlNoxzb4)
+   - Siqi Chen, Jun Xiao, Long Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4yqxdcbzs98"></a>
+9. [Weakly Supervised Knowledge Transfer with Probabilistic Logical Reasoning for Object Detection](https://openreview.net/forum?id=4yqxDCbzS98)
+   - Martijn Oldenhof, Adam Arany, Yves Moreau, Edward De Brouwer; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-resapvncqsb"></a>
+10. [Weakly-supervised HOI Detection via Prior-guided Bi-level Representation Learning](https://openreview.net/forum?id=resApVNcqSB)
+   - Bo Wan, Yongfei Liu, Desen Zhou, Tinne Tuytelaars, Xuming He; assignment: `hdbscan`; source: `OpenReview`

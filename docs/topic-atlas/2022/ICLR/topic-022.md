@@ -1,83 +1,77 @@
-# ICLR 2022: 多语言建模与跨语言迁移
+# ICLR 2022: 多模态学习与跨模态理解
 
 - Topic ID: `22`
-- Papers: **21** (1.92%)
-- Macro topic: LLM/语言模型
-- English keywords: `language / sequence / translation / recurrent`
-- Keyword pool: language; sequence; translation; recurrent; alignment; emergent; locality; non-autoregressive; multilingual; temporal; masked; beam search
+- Papers: **19** (1.79%)
+- Macro topic: 多模态/VLM
+- English keywords: `variational / vaes / generative / disentanglement`
+- Keyword pool: variational; vaes; generative; disentanglement; autoencoders; survival; latent; missing; multimodal; vae-based; auto-encoders; debugging
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Learning Hierarchical Structures with Differentiable Nondeterministic Stacks
-- Evaluating Distributional Distortion in Neural Language Modeling
-- Efficiently Modeling Long Sequences with Structured State Spaces
-- Exposing the Implicit Energy Networks behind Masked Language Models via Metropolis--Hastings
-- Long Expressive Memory for Sequence Modeling
+- On Incorporating Inductive Biases into VAEs
+- VAE Approximation Error: ELBO and Exponential Families
+- On the Limitations of Multimodal VAEs
+- Variational Inference for Discriminative Learning with Generative Modeling of Feature Incompletion
+- Variational autoencoders in the presence of low-dimensional data: landscape and implicit bias
 
 ## Papers
 
-<a id="paper-8fhxbtxsl0"></a>
-1. [CKConv: Continuous Kernel Convolution For Sequential Data](https://openreview.net/forum?id=8FhxBtXSl0)
-   - David W. Romero, Anna Kuzina, Erik J Bekkers, Jakub Mikolaj Tomczak, Mark Hoogendoorn; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nnu3iumjmn"></a>
-2. [Capturing Structural Locality in Non-parametric Language Models](https://openreview.net/forum?id=nnU3IUMJmN)
-   - Frank F. Xu, Junxian He, Graham Neubig, Vincent Josua Hellendoorn; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jbrgwbv8nd"></a>
-3. [Constraining Linear-chain CRFs to Regular Languages](https://openreview.net/forum?id=jbrgwbv8nD)
-   - Sean Papay, Roman Klinger, Sebastian Pado; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uylfoz1vlac"></a>
-4. [Efficiently Modeling Long Sequences with Structured State Spaces](https://openreview.net/forum?id=uYLFoz1vlAC)
-   - Albert Gu, Karan Goel, Christopher Re; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rhoius8kqm9"></a>
-5. [Enabling Arbitrary Translation Objectives with Adaptive Tree Search](https://openreview.net/forum?id=rhOiUS8KQM9)
-   - Wang Ling, Wojciech Stokowiec, Domenic Donato, Chris Dyer, Lei Yu, Laurent Sartran, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bttefbu99ye"></a>
-6. [Evaluating Distributional Distortion in Neural Language Modeling](https://openreview.net/forum?id=bTteFbU99ye)
-   - Benjamin LeBrun, Alessandro Sordoni, Timothy J. O'Donnell; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6pvwo1kevlt"></a>
-7. [Exposing the Implicit Energy Networks behind Masked Language Models via Metropolis--Hastings](https://openreview.net/forum?id=6PvWo1kEvlT)
-   - Kartik Goyal, Chris Dyer, Taylor Berg-Kirkpatrick; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wxue-jwxjkw"></a>
-8. [Expressivity of Emergent Languages is a Trade-off between Contextual Complexity and Unpredictability](https://openreview.net/forum?id=WxuE_JWxjkW)
-   - Shangmin Guo, Yi Ren, Kory Wallace Mathewson, Simon Kirby, Stefano V Albrecht, Kenny Smith; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-i2hw58khp8o"></a>
-9. [Improving Non-Autoregressive Translation Models Without Distillation](https://openreview.net/forum?id=I2Hw58KHp8O)
-   - Xiao Shi Huang, Felipe Perez, Maksims Volkovs; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5lxw-qplbif"></a>
-10. [Learning Hierarchical Structures with Differentiable Nondeterministic Stacks](https://openreview.net/forum?id=5LXw_QplBiF)
-   - Brian DuSell, David Chiang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vwj6aueocyf"></a>
-11. [Long Expressive Memory for Sequence Modeling](https://openreview.net/forum?id=vwj6aUeocyf)
-   - T. Konstantin Rusch, Siddhartha Mishra, N. Benjamin Erichson, Michael W. Mahoney; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xdiviqq3dxd"></a>
-12. [On the approximation properties of recurrent encoder-decoder architectures](https://openreview.net/forum?id=xDIvIqQ3DXD)
-   - Zhong Li, Haotian Jiang, Qianxiao Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5qkd7-bzfi"></a>
-13. [On the role of population heterogeneity in emergent communication](https://openreview.net/forum?id=5Qkd7-bZfI)
-   - Mathieu Rita, Florian Strub, Jean-Bastien Grill, Olivier Pietquin, Emmanuel Dupoux; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-iymutbgzjfu"></a>
-14. [Representing Mixtures of Word Embeddings with Mixtures of Topic Embeddings](https://openreview.net/forum?id=IYMuTbGzjFU)
-   - dongsheng wang, Dan dan Guo, He Zhao, Huangjie Zheng, Korawat Tanwisuth, Bo Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-t0gpzbq1fg6"></a>
-15. [Step-unrolled Denoising Autoencoders for Text Generation](https://openreview.net/forum?id=T0GpzBQ1Fg6)
-   - Nikolay Savinov, Junyoung Chung, Mikolaj Binkowski, Erich Elsen, Aaron van den Oord; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pz1euxohm4h"></a>
-16. [Target-Side Input Augmentation for Sequence to Sequence Generation](https://openreview.net/forum?id=pz1euXohm4H)
-   - Shufang Xie, Ang Lv, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p3dkpq7uaai"></a>
-17. [Temporal Alignment Prediction for Supervised Representation Learning and Few-Shot Sequence Classification](https://openreview.net/forum?id=p3DKPQ7uaAi)
-   - Bing Su, Ji-Rong Wen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-3wncr5nq56"></a>
-18. [The Uncanny Similarity of Recurrence and Depth](https://openreview.net/forum?id=3wNcr5nq56)
-   - Avi Schwarzschild, Arjun Gupta, Amin Ghiasi, Micah Goldblum, Tom Goldstein; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rty5g9imm7h"></a>
-19. [Transformer Embeddings of Irregularly Spaced Events and Their Participants](https://openreview.net/forum?id=Rty5g9imm7H)
-   - Hongyuan Mei, Chenghao Yang, Jason Eisner; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0rqdp8fcw5z"></a>
-20. [W-CTC: a Connectionist Temporal Classification Loss with Wild Cards](https://openreview.net/forum?id=0RqDp8FCW5Z)
-   - Xingyu Cai, Jiahong Yuan, Yuchen Bian, Guangxu Xun, Jiaji Huang, Kenneth Church; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-5hvpvyd68b"></a>
-21. [switch-GLAT: Multilingual Parallel Machine Translation Via Code-Switch Decoder](https://openreview.net/forum?id=5HvpvYd68b)
-   - Zhenqiao Song, Hao Zhou, Lihua Qian, Jingjing Xu, Shanbo Cheng, Mingxuan Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q7n2rngwom"></a>
+1. [$\beta$-Intact-VAE: Identifying and Estimating Causal Effects under Limited Overlap](https://openreview.net/forum?id=q7n2RngwOM)
+   - Pengzhou Abel Wu, Kenji Fukumizu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rq428zptqfu"></a>
+2. [A Deep Variational Approach to Clustering Survival Data](https://openreview.net/forum?id=RQ428ZptQfU)
+   - Laura Manduchi, Ričards Marcinkevičs, Michela C. Massi, Thomas Weikert, Alexander Sauter, Verena Gotta, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7mv6ulzochw"></a>
+3. [Conditional Image Generation by Conditioning Variational Auto-Encoders](https://openreview.net/forum?id=7MV6uLzOChW)
+   - William Harvey, Saeid Naderiparizi, Frank Wood; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pety-hvvgtt"></a>
+4. [Disentanglement Analysis with Partial Information Decomposition](https://openreview.net/forum?id=pETy-HVvGtt)
+   - Seiya Tokui, Issei Sato; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fxhl76no2az"></a>
+5. [Gradient Importance Learning for Incomplete Observations](https://openreview.net/forum?id=fXHl76nO2AZ)
+   - Qitong Gao, Dong Wang, Joshua David Amason, Siyang Yuan, Chenyang Tao, Ricardo Henao, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-j7b4bctdm4"></a>
+6. [How to deal with missing data in supervised deep learning?](https://openreview.net/forum?id=J7b4BCtDm4)
+   - Niels Bruun Ipsen, Pierre-Alexandre Mattei, Jes Frellsen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jjcjv4dabyl"></a>
+7. [Learning Discrete Structured Variational Auto-Encoder using Natural Evolution Strategies](https://openreview.net/forum?id=JJCjv4dAbyL)
+   - Alon Berliner, Guy Rotman, Yossi Adi, Roi Reichart, Tamir Hazan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1xxvprashao"></a>
+8. [Learning Multimodal VAEs through Mutual Supervision](https://openreview.net/forum?id=1xXvPrAshao)
+   - Tom Joy, Yuge Shi, Philip Torr, Tom Rainforth, Sebastian M Schmon, Siddharth N; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-06wy2btxxrz"></a>
+9. [Learning Scenario Representation for Solving Two-stage Stochastic Integer Programs](https://openreview.net/forum?id=06Wy2BtxXrz)
+   - Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-te5ytkqsnl"></a>
+10. [Missingness Bias in Model Debugging](https://openreview.net/forum?id=Te5ytkqsnl)
+   - Saachi Jain, Hadi Salman, Eric Wong, Pengchuan Zhang, Vibhav Vineet, Sai Vemprala, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nzvbbd-3j-g"></a>
+11. [On Incorporating Inductive Biases into VAEs](https://openreview.net/forum?id=nzvbBD_3J-g)
+   - Ning Miao, Emile Mathieu, Siddharth N, Yee Whye Teh, Tom Rainforth; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-w-cpuxxraj"></a>
+12. [On the Limitations of Multimodal VAEs](https://openreview.net/forum?id=w-CPUXXrAj)
+   - Imant Daunhawer, Thomas M. Sutter, Kieran Chin-Cheong, Emanuele Palumbo, Julia E Vogt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-g5ynw-jmq4m"></a>
+13. [Properties from mechanisms: an equivariance perspective on identifiable representation learning](https://openreview.net/forum?id=g5ynW-jMq4M)
+   - Kartik Ahuja, Jason Hartford, Yoshua Bengio; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-7-jr7wpwkv1"></a>
+14. [The Effects of Invertibility on the Representational Complexity of Encoders in Variational Autoencoders](https://openreview.net/forum?id=7_JR7WpwKV1)
+   - Divyansh Pareek, Andrej Risteski; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ygpqnctmyd"></a>
+15. [Towards Building A Group-based Unsupervised Representation Disentanglement Framework](https://openreview.net/forum?id=YgPqNctmyd)
+   - Tao Yang, Xuanchi Ren, Yuwang Wang, Wenjun Zeng, Nanning Zheng; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-nequ3hwdge"></a>
+16. [Unsupervised Disentanglement with Tensor Product Representations on the Torus](https://openreview.net/forum?id=neqU3HWDgE)
+   - Michael Rotman, Amit Dekel, Shir Gur, Yaron Oz, Lior Wolf; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ois3sxu5ynl"></a>
+17. [VAE Approximation Error: ELBO and Exponential Families](https://openreview.net/forum?id=OIs3SxU5Ynl)
+   - Alexander Shekhovtsov, Dmitrij Schlesinger, Boris Flach; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qnqn4yr6fjz"></a>
+18. [Variational Inference for Discriminative Learning with Generative Modeling of Feature Incompletion](https://openreview.net/forum?id=qnQN4yr6FJz)
+   - Kohei Miyaguchi, Takayuki Katsuki, Akira Koseki, Toshiya Iwamori; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-y-op4lllawl"></a>
+19. [Variational autoencoders in the presence of low-dimensional data: landscape and implicit bias](https://openreview.net/forum?id=y_op4lLLaWL)
+   - Frederic Koehler, Viraj Mehta, Chenghui Zhou, Andrej Risteski; assignment: `hdbscan`; source: `OpenReview`

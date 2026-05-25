@@ -1,59 +1,53 @@
-# ICLR 2022: 视觉语言模型与多模态理解
+# ICLR 2022: equivariant / equivariance / spherical / invariant
 
 - Topic ID: `41`
-- Papers: **13** (1.19%)
-- Macro topic: 计算机视觉
-- English keywords: `segmentation / semantic / object / detection`
-- Keyword pool: segmentation; semantic; object; detection; anytime; image; dense; categories; vision-language; pretraining; open-world; recognition
+- Papers: **11** (1.04%)
+- Macro topic: 图学习/数据挖掘
+- English keywords: `equivariant / equivariance / spherical / invariant`
+- Keyword pool: equivariant; equivariance; spherical; invariant; cnns; graph; symmetries; group; convolutions; averaging; message; euclidean
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Pix2seq: A Language Modeling Framework for Object Detection
-- Open-vocabulary Object Detection via Vision and Language Knowledge Distillation
-- Unsupervised Semantic Segmentation by Distilling Feature Correspondences
-- Language-driven Semantic Segmentation
-- GiraffeDet: A Heavy-Neck Paradigm for Object Detection
+- A Program to Build E(N)-Equivariant Steerable CNNs
+- Frame Averaging for Invariant and Equivariant Network Design
+- Steerable Partial Differential Operators for Equivariant Neural Networks
+- Geometric and Physical Quantities improve E(3) Equivariant Message Passing
+- Capacity of Group-invariant Linear Readouts from Equivariant Representations: How Many Objects can be Linearly Classified Under All Possible Views?
 
 ## Papers
 
-<a id="paper-knkfoxleuc"></a>
-1. [Anytime Dense Prediction with Confidence Adaptivity](https://openreview.net/forum?id=kNKFOXleuC)
-   - Zhuang Liu, Zhiqiu Xu, Hung-Ju Wang, Trevor Darrell, Evan Shelhamer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6u6n8wwwysm"></a>
-2. [Bootstrapping Semantic Segmentation with Regional Contrast](https://openreview.net/forum?id=6u6N8WWwYSM)
-   - Shikun Liu, Shuaifeng Zhi, Edward Johns, Andrew Davison; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nmeceg4v69y"></a>
-3. [CycleMLP: A MLP-like Architecture for Dense Prediction](https://openreview.net/forum?id=NMEceG4v69Y)
-   - Shoufa Chen, Enze Xie, Chongjian GE, Runjian Chen, Ding Liang, Ping Luo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cpdhcsedc2"></a>
-4. [FILIP: Fine-grained Interactive Language-Image Pre-Training](https://openreview.net/forum?id=cpDhcsEDC2)
-   - Lewei Yao, Runhui Huang, Lu Hou, Guansong Lu, Minzhe Niu, Hang Xu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-cbu4eljfnev"></a>
-5. [GiraffeDet: A Heavy-Neck Paradigm for Object Detection](https://openreview.net/forum?id=cBu4ElJfneV)
-   - yiqi jiang, Zhiyu Tan, Junyan Wang, Xiuyu Sun, Ming Lin, Hao Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rridjddcln"></a>
-6. [Language-driven Semantic Segmentation](https://openreview.net/forum?id=RriDjddCLN)
-   - Boyi Li, Kilian Q Weinberger, Serge Belongie, Vladlen Koltun, Rene Ranftl; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-znr43c03lry"></a>
-7. [Learning to Annotate Part Segmentation with Gradient Matching](https://openreview.net/forum?id=zNR43c03lRy)
-   - Yu Yang, Xiaotian Cheng, Hakan Bilen, Xiangyang Ji; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-d5scuj5t1k"></a>
-8. [Objects in Semantic Topology](https://openreview.net/forum?id=d5SCUJ5t1k)
-   - Shuo Yang, Peize Sun, Yi Jiang, Xiaobo Xia, Ruiheng Zhang, Zehuan Yuan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5hlp5jy9s2d"></a>
-9. [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](https://openreview.net/forum?id=5hLP5JY9S2d)
-   - Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ll3lnmbr4wu"></a>
-10. [Open-vocabulary Object Detection via Vision and Language Knowledge Distillation](https://openreview.net/forum?id=lL3lnMbR4WU)
-   - Xiuye Gu, Tsung-Yi Lin, Weicheng Kuo, Yin Cui; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-e42kbiw6wb"></a>
-11. [Pix2seq: A Language Modeling Framework for Object Detection](https://openreview.net/forum?id=e42KbIw6Wb)
-   - Ting Chen, Saurabh Saxena, Lala Li, David J. Fleet, Geoffrey Hinton; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gurhftuf-3"></a>
-12. [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://openreview.net/forum?id=GUrhfTuf_3)
-   - Zirui Wang, Jiahui Yu, Adams Wei Yu, Zihang Dai, Yulia Tsvetkov, Yuan Cao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-sako6z6hl0c"></a>
-13. [Unsupervised Semantic Segmentation by Distilling Feature Correspondences](https://openreview.net/forum?id=SaKO6z6Hl0c)
-   - Mark Hamilton, Zhoutong Zhang, Bharath Hariharan, Noah Snavely, William T. Freeman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7f9cohdvfk"></a>
+1. [$\mathrm{SO}(2)$-Equivariant Reinforcement Learning](https://openreview.net/forum?id=7F9cOhdvfk_)
+   - Dian Wang, Robin Walters, Robert Platt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-we4qe9xlnqw"></a>
+2. [A Program to Build E(N)-Equivariant Steerable CNNs](https://openreview.net/forum?id=WE4qe9xlnQw)
+   - Gabriele Cesa, Leon Lang, Maurice Weiler; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4gfbtouwq"></a>
+3. [Capacity of Group-invariant Linear Readouts from Equivariant Representations: How Many Objects can be Linearly Classified Under All Possible Views?](https://openreview.net/forum?id=_4GFbtOuWq-)
+   - Matthew Farrell, Blake Bordelon, Shubhendu Trivedi, Cengiz Pehlevan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-shbhhhfephp"></a>
+4. [Equivariant Graph Mechanics Networks with Constraints](https://openreview.net/forum?id=SHbhHHfePhP)
+   - Wenbing Huang, Jiaqi Han, Yu Rong, Tingyang Xu, Fuchun Sun, Junzhou Huang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ziuyj55nxr"></a>
+5. [Frame Averaging for Invariant and Equivariant Network Design](https://openreview.net/forum?id=zIUyj55nXR)
+   - Omri Puny, Matan Atzmon, Edward J. Smith, Ishan Misra, Aditya Grover, Heli Ben-Hamu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xwr8gobev1"></a>
+6. [Geometric and Physical Quantities improve E(3) Equivariant Message Passing](https://openreview.net/forum?id=_xwr8gOBeV1)
+   - Johannes Brandstetter, Rob Hesselink, Elise van der Pol, Erik J Bekkers, Max Welling; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-u6s8dsporo8"></a>
+7. [Group equivariant neural posterior estimation](https://openreview.net/forum?id=u6s8dSporO8)
+   - Maximilian Dax, Stephen R Green, Jonathan Gair, Michael Deistler, Bernhard Schölkopf, Jakob H. Macke; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5k7rrqzejos"></a>
+8. [Multiset-Equivariant Set Prediction with Approximate Implicit Differentiation](https://openreview.net/forum?id=5K7RRqZEjoS)
+   - Yan Zhang, David W Zhang, Simon Lacoste-Julien, Gertjan J. Burghouts, Cees G. M. Snoek; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bjy5zb2fo2"></a>
+9. [Scattering Networks on the Sphere for Scalable and Rotationally Equivariant Spherical CNNs](https://openreview.net/forum?id=bjy5Zb2fo2)
+   - Jason McEwen, Christopher Wallis, Augustine N. Mavor-Parker; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n9w24a4zu"></a>
+10. [Steerable Partial Differential Operators for Equivariant Neural Networks](https://openreview.net/forum?id=N9W24a4zU)
+   - Erik Jenner, Maurice Weiler; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gk-ipjwvk"></a>
+11. [Top-N: Equivariant Set and Graph Generation without Exchangeability](https://openreview.net/forum?id=-Gk_IPJWvk)
+   - Clement Vignac, Pascal Frossard; assignment: `hdbscan`; source: `OpenReview`

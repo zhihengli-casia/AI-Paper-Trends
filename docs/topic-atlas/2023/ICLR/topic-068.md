@@ -1,50 +1,53 @@
-# ICLR 2023: 医疗健康与临床 AI
+# ICLR 2023: divergences / subset / logistic / sampling
 
 - Topic ID: `68`
-- Papers: **10** (0.64%)
-- Macro topic: 计算机视觉
-- English keywords: `image / feature / retrieval / class weights`
-- Keyword pool: image; feature; retrieval; class weights; multiple instance learning; medical; low-rank; compatible; segmentation; copy; heterogeneity; patches
+- Papers: **11** (0.72%)
+- Macro topic: 理论/优化
+- English keywords: `divergences / subset / logistic / sampling`
+- Keyword pool: divergences; subset; logistic; sampling; sketching; nyi; balanced; proposal; regression; score matching; importance; discrete
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Unicom: Universal and Compact Representation Learning for Image Retrieval
-- Exploring Low-Rank Property in Multiple Instance Learning for Whole Slide Image Classification
-- FastFill: Efficient Compatible Model Update
-- Bayes-MIL: A New Probabilistic Perspective on Attention-based Multiple Instance Learning for Whole Slide Images
-- A General Rank Preserving Framework for Asymmetric Image Retrieval
+- SIMPLE: A Gradient Estimator for k-Subset Sampling
+- Scalable Subset Sampling with Neural Conditional Poisson Networks
+- Learning Group Importance using the Differentiable Hypergeometric Distribution
+- Leveraging Importance Weights in Subset Selection
+- Learning Sparse Group Models Through Boolean Relaxation
 
 ## Papers
 
-<a id="paper-dyhyxz3ugdq"></a>
-1. [A General Rank Preserving Framework for Asymmetric Image Retrieval](https://openreview.net/forum?id=dYHYXZ3uGdQ)
-   - Hui Wu, Min Wang, Wengang Zhou, Houqiang Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9omcr1q54z"></a>
-2. [AE-FLOW: Autoencoders with Normalizing Flows for Medical Images Anomaly Detection](https://openreview.net/forum?id=9OmCr1q54Z)
-   - Yuzhong Zhao, Qiaoqiao Ding, Xiaoqun Zhang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-k9rhxppjn2"></a>
-3. [Active Image Indexing](https://openreview.net/forum?id=K9RHxPpjn2)
-   - Pierre Fernandez, Matthijs Douze, Herve Jegou, Teddy Furon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w-x7u26gm7j"></a>
-4. [Advancing Radiograph Representation Learning with Masked Record Modeling](https://openreview.net/forum?id=w-x7U26GM7j)
-   - Hong-Yu Zhou, Chenyu Lian, Liansheng Wang, Yizhou Yu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-geiwioyuhz"></a>
-5. [Bayes-MIL: A New Probabilistic Perspective on Attention-based Multiple Instance Learning for Whole Slide Images](https://openreview.net/forum?id=_geIwiOyUhZ)
-   - Yufei CUI, Ziquan Liu, Xiangyu Liu, Xue Liu, Cong Wang, Tei-Wei Kuo, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-g1gnnci1orc"></a>
-6. [E-CRF: Embedded Conditional Random Field for Boundary-caused Class Weights Confusion in Semantic Segmentation](https://openreview.net/forum?id=g1GnnCI1OrC)
-   - Jie Zhu, Huabin Huang, Banghuai Li, Leye Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-01kmhbsepfo"></a>
-7. [Exploring Low-Rank Property in Multiple Instance Learning for Whole Slide Image Classification](https://openreview.net/forum?id=01KmhBsEPFO)
-   - Jinxi Xiang, Jun Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rnriihw8vy"></a>
-8. [FastFill: Efficient Compatible Model Update](https://openreview.net/forum?id=rnRiiHw8Vy)
-   - Florian Jaeckle, Fartash Faghri, Ali Farhadi, Oncel Tuzel, Hadi Pouransari; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cguvk3u09lh"></a>
-9. [Suppressing the Heterogeneity: A Strong Feature Extractor for Few-shot Segmentation](https://openreview.net/forum?id=CGuvK3U09LH)
-   - Zhengdong Hu, Yifan Sun, Yi Yang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-3yfdssrsxb"></a>
-10. [Unicom: Universal and Compact Representation Learning for Image Retrieval](https://openreview.net/forum?id=3YFDsSRSxB-)
-   - Xiang An, Jiankang Deng, Kaicheng Yang, Jaiwei Li, Ziyong Feng, Jia Guo, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gu-sc0dpkvw"></a>
+1. [Almost Linear Constant-Factor Sketching for $\ell_1$ and Logistic Regression](https://openreview.net/forum?id=gu-SC0dpkvw)
+   - Alexander Munteanu, Simon Omlor, David Woodruff; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-lekl0jdsb7b"></a>
+2. [Any-scale Balanced Samplers for Discrete Space](https://openreview.net/forum?id=lEkl0jdSb7B)
+   - Haoran Sun, Bo Dai, Charles Sutton, Dale Schuurmans, Hanjun Dai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-89gt-s49mgd"></a>
+3. [Function-space regularized Rényi divergences](https://openreview.net/forum?id=89GT-S49mGd)
+   - Jeremiah Birrell, Yannis Pantazis, Paul Dupuis, Luc Rey-Bellet, Markos Katsoulakis; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9dzkk85z4za"></a>
+4. [Gradient-Guided Importance Sampling for Learning Binary Energy-Based Models](https://openreview.net/forum?id=9DZKk85Z4zA)
+   - Meng Liu, Haoran Liu, Shuiwang Ji; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-75o7s-l4oy"></a>
+5. [Learning Group Importance using the Differentiable Hypergeometric Distribution](https://openreview.net/forum?id=75O7S_L4oY)
+   - Thomas M. Sutter, Laura Manduchi, Alain Ryser, Julia E Vogt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-do9molwwhu0"></a>
+6. [Learning Sparse Group Models Through Boolean Relaxation](https://openreview.net/forum?id=Do9MOlwWHu0)
+   - Yijie Wang, Yuan Zhou, Xiaoqing Huang, Kun Huang, Jie Zhang, Jianzhu Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9nj-gndvqyf"></a>
+7. [Leveraging Importance Weights in Subset Selection](https://openreview.net/forum?id=9Nj_gNdvqYf)
+   - Gui Citovsky, Giulia DeSalvo, Sanjiv Kumar, Srikumar Ramalingam, Afshin Rostamizadeh, Yunjuan Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nj3vx78nf7p"></a>
+8. [Neural Bregman Divergences for Distance Learning](https://openreview.net/forum?id=nJ3Vx78Nf7p)
+   - Fred Lu, Edward Raff, Francis Ferraro; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gpjvuyx4p-h"></a>
+9. [SIMPLE: A Gradient Estimator for k-Subset Sampling](https://openreview.net/forum?id=GPJVuyX4p_h)
+   - Kareem Ahmed, Zhe Zeng, Mathias Niepert, Guy Van den Broeck; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-p8hmbcptvju"></a>
+10. [Scalable Subset Sampling with Neural Conditional Poisson Networks](https://openreview.net/forum?id=p8hMBcPtvju)
+   - Adeel Pervez, Phillip Lippe, Efstratios Gavves; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-td7anqjnzr6"></a>
+11. [Statistical Efficiency of Score Matching: The View from Isoperimetry](https://openreview.net/forum?id=TD7AnQjNzR6)
+   - Frederic Koehler, Alexander Heckett, Andrej Risteski; assignment: `nearest_centroid`; source: `OpenReview`

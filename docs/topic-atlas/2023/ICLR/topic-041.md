@@ -1,74 +1,71 @@
-# ICLR 2023: 深度估计与立体匹配
+# ICLR 2023: 扩散生成模型
 
 - Topic ID: `41`
-- Papers: **18** (1.14%)
-- Macro topic: 其他/交叉主题
-- English keywords: `relu / kernel / ntk / neural tangent`
-- Keyword pool: relu; kernel; ntk; neural tangent; width; approximation; functions; sobolev; depth; scaling; tree; functional
+- Papers: **17** (1.11%)
+- Macro topic: 生成模型
+- English keywords: `diffusion / image / editing / generation`
+- Keyword pool: diffusion; image; editing; generation; harmonization; synthesis; semantic; generative; manipulation; entities; guidance; motion
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Approximation and non-parametric estimation of functions over high-dimensional spheres via deep ReLU networks
-- The Onset of Variance-Limited Behavior for Networks in the Lazy and Rich Regimes
-- Learning ReLU networks to high uniform accuracy is intractable
-- Deep Learning meets Nonparametric Regression: Are Weight-Decayed DNNs Locally Adaptive?
-- Characterizing the spectrum of the NTK via a power series expansion
+- Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis
+- DreamFusion: Text-to-3D using 2D Diffusion
+- Prompt-to-Prompt Image Editing with Cross-Attention Control
+- Novel View Synthesis with Diffusion Models
+- DiffEdit: Diffusion-based semantic image editing with mask guidance
 
 ## Papers
 
-<a id="paper-hfuj4shydeu"></a>
-1. [Achieve the Minimum Width of Neural Networks for Universal Approximation](https://openreview.net/forum?id=hfUJ4ShyDEU)
-   - Yongqiang Cai; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-conlohets"></a>
-2. [An Exact Poly-Time Membership-Queries Algorithm for Extracting a Three-Layer ReLU Network](https://openreview.net/forum?id=-CoNloheTs)
-   - Amit Daniely, Elad Granot; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-v-06qv-kzx"></a>
-3. [Analyzing Tree Architectures in Ensembles via Neural Tangent Kernel](https://openreview.net/forum?id=V_06QV-kZX)
-   - Ryuichi Kanoh, Mahito Sugiyama; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-r90kycub7js"></a>
-4. [Approximation and non-parametric estimation of functions over high-dimensional spheres via deep ReLU networks](https://openreview.net/forum?id=r90KYcuB7JS)
-   - Namjoon Suh, Tian-Yi Zhou, Xiaoming Huo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sckjveqlcz"></a>
-5. [Broken Neural Scaling Laws](https://openreview.net/forum?id=sckjveqlCZ)
-   - Ethan Caballero, Kshitij Gupta, Irina Rish, David Krueger; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-tvms8xrzhyr"></a>
-6. [Characterizing the spectrum of the NTK via a power series expansion](https://openreview.net/forum?id=Tvms8xrZHyR)
-   - Michael Murray, Hui Jin, Benjamin Bowman, Guido Montufar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0q9h-pgx132"></a>
-7. [Deep Learning meets Nonparametric Regression: Are Weight-Decayed DNNs Locally Adaptive?](https://openreview.net/forum?id=0Q9H_Pgx132)
-   - Kaiqi Zhang, Yu-Xiang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6doxhqwmayf"></a>
-8. [Excess Risk of Two-Layer ReLU Neural Networks in Teacher-Student Settings and its Superiority to Kernel Methods](https://openreview.net/forum?id=6doXHqwMayf)
-   - Shunta Akiyama, Taiji Suzuki; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nchvkfvnex0"></a>
-9. [Learning ReLU networks to high uniform accuracy is intractable](https://openreview.net/forum?id=nchvKfvNeX0)
-   - Julius Berner, Philipp Grohs, Felix Voigtlaender; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-2mvaloawaxy"></a>
-10. [Lower Bounds on the Depth of Integral ReLU Neural Networks via Lattice Polytopes](https://openreview.net/forum?id=2mvALOAWaxY)
-   - Christian Alexander Haase, Christoph Hertrich, Georg Loho; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zen1bhanysc"></a>
-11. [Minimax Optimal Kernel Operator Learning via Multilevel Training](https://openreview.net/forum?id=zEn1BhaNYsC)
-   - Jikai Jin, Yiping Lu, Jose Blanchet, Lexing Ying; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-6jmxlwx68kj"></a>
-12. [On the Performance of Temporal Difference Learning With Neural Networks](https://openreview.net/forum?id=6JMXLWX68Kj)
-   - HAOXING TIAN, Ioannis Paschalidis, Alex Olshevsky; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ltwade-cpk"></a>
-13. [Optimal Activation Functions for the Random Features Regression Model](https://openreview.net/forum?id=ltWade-cpK)
-   - Jianxin Wang, José Bento; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yvqc6gcnf4d"></a>
-14. [Simple initialization and parametrization of sinusoidal networks via their kernel bandwidth](https://openreview.net/forum?id=yVqC6gCNf4d)
-   - Filipe de Avila Belbute-Peres, J Zico Kolter; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nz2ntpolc5"></a>
-15. [The Influence of Learning Rule on Representation Dynamics in Wide Neural Networks](https://openreview.net/forum?id=nZ2NtpolC5-)
-   - Blake Bordelon, Cengiz Pehlevan; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-jlinxpovth7"></a>
-16. [The Onset of Variance-Limited Behavior for Networks in the Lazy and Rich Regimes](https://openreview.net/forum?id=JLINxPOVTh7)
-   - Alexander Atanasov, Blake Bordelon, Sabarish Sainathan, Cengiz Pehlevan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oliz2jgtiv"></a>
-17. [Tuning Frequency Bias in Neural Network Training with Nonuniform Data](https://openreview.net/forum?id=oLIZ2jGTiv)
-   - Annan Yu, Yunan Yang, Alex Townsend; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cxceosf99f"></a>
-18. [Understanding Influence Functions and Datamodels via Harmonic Analysis](https://openreview.net/forum?id=cxCEOSF99f)
-   - Nikunj Saunshi, Arushi Gupta, Mark Braverman, Sanjeev Arora; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3lge0p5o-m"></a>
+1. [DiffEdit: Diffusion-based semantic image editing with mask guidance](https://openreview.net/forum?id=3lge0p5o-M-)
+   - Guillaume Couairon, Jakob Verbeek, Holger Schwenk, Matthieu Cord; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ng9rf9z1yy3"></a>
+2. [DiffusER: Diffusion via Edit-based Reconstruction](https://openreview.net/forum?id=nG9RF9z1yy3)
+   - Machel Reid, Vincent Josua Hellendoorn, Graham Neubig; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pd1p2eubvfq"></a>
+3. [Diffusion Models Already Have A Semantic Latent Space](https://openreview.net/forum?id=pd1P2eUBVfq)
+   - Mingi Kwon, Jaeseok Jeong, Youngjung Uh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nayau9fwxu"></a>
+4. [Diffusion-based Image Translation using disentangled style and content representation](https://openreview.net/forum?id=Nayau9fwXU)
+   - Gihyun Kwon, Jong Chul Ye; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fjnys5c7vyy"></a>
+5. [DreamFusion: Text-to-3D using 2D Diffusion](https://openreview.net/forum?id=FjNys5c7VyY)
+   - Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sj1ksyo2jwu"></a>
+6. [Human Motion Diffusion Model](https://openreview.net/forum?id=SJ1kSyO2jwu)
+   - Guy Tevet, Sigal Raab, Brian Gordon, Yoni Shafir, Daniel Cohen-Or, Amit Haim Bermano; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-gmrodz8olvr"></a>
+7. [ISS: Image as Stepping Stone for Text-Guided 3D Shape Generation](https://openreview.net/forum?id=GMRodZ8OlVr)
+   - Zhengzhe Liu, Peng Dai, Ruihui Li, XIAOJUAN QI, Chi-Wing Fu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ap0izoaras"></a>
+8. [Interactive Portrait Harmonization](https://openreview.net/forum?id=AP0iZoaRaS)
+   - Jeya Maria Jose Valanarasu, HE Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Jose Echevarria, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-47b-ctc4pj"></a>
+9. [Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance](https://openreview.net/forum?id=47B_ctC4pJ)
+   - Yoonjeon Kim, Hyunsu Kim, Junho Kim, Yunjey Choi, Eunho Yang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-0cpm2apf9p6"></a>
+10. [MeshDiffusion: Score-based Generative 3D Mesh Modeling](https://openreview.net/forum?id=0cpM2ApF9p6)
+   - Zhen Liu, Yao Feng, Michael J. Black, Derek Nowrouzezahrai, Liam Paull, Weiyang Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-htoa0ot30jc"></a>
+11. [Novel View Synthesis with Diffusion Models](https://openreview.net/forum?id=HtoA0oT30jC)
+   - Daniel Watson, William Chan, Ricardo Martin Brualla, Jonathan Ho, Andrea Tagliasacchi, Mohammad Norouzi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cdixzkzeyb"></a>
+12. [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://openreview.net/forum?id=_CDixzkzeyb)
+   - Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xsebx0isjfq"></a>
+13. [Re-Imagen: Retrieval-Augmented Text-to-Image Generator](https://openreview.net/forum?id=XSEBx0iSjFQ)
+   - Wenhu Chen, Hexiang Hu, Chitwan Saharia, William W. Cohen; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-4ej43en2g6l"></a>
+14. [SketchKnitter: Vectorized Sketch Generation with Diffusion Models](https://openreview.net/forum?id=4eJ43EN2g6l)
+   - Qiang Wang, Haoge Deng, Yonggang Qi, Da Li, Yi-Zhe Song; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-puiqjt4rzq7"></a>
+15. [Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis](https://openreview.net/forum?id=PUIqjT4rzq7)
+   - Weixi Feng, Xuehai He, Tsu-Jui Fu, Varun Jampani, Arjun Reddy Akula, Pradyumna Narayana, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8jqinxa-2a"></a>
+16. [Unified Discrete Diffusion for Simultaneous Vision-Language Generation](https://openreview.net/forum?id=8JqINxA-2a)
+   - Minghui Hu, Chuanxia Zheng, Zuopeng Yang, Tat-Jen Cham, Heliang Zheng, Chaoyue Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-x5mtjd2ovc"></a>
+17. [kNN-Diffusion: Image Generation via Large-Scale Retrieval](https://openreview.net/forum?id=x5mtJD2ovc)
+   - Shelly Sheynin, Oron Ashual, Adam Polyak, Uriel Singer, Oran Gafni, Eliya Nachmani, et al.; assignment: `nearest_centroid`; source: `OpenReview`

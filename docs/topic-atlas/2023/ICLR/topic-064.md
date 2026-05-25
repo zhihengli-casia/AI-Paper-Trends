@@ -1,53 +1,56 @@
-# ICLR 2023: 在线学习与 regret 理论
+# ICLR 2023: 代码生成与程序理解
 
 - Topic ID: `64`
-- Papers: **11** (0.70%)
-- Macro topic: 推荐/检索/排序
-- English keywords: `bandits / regret / communication / switching`
-- Keyword pool: bandits; regret; communication; switching; reward; contextual; multi-armed; variance-aware; federated; adversarial; bound; kernelized
+- Papers: **12** (0.78%)
+- Macro topic: LLM/语言模型
+- English keywords: `program / code generation / language / translation`
+- Keyword pool: program; code generation; language; translation; synthesis; source code; execution; python; test cases; multi-lingual; codex; api
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Asymptotic Instance-Optimal Algorithms for Interactive Decision Making
-- Replicable Bandits
-- Learning Kernelized Contextual Bandits in a Distributed and Asynchronous Environment
-- Adversarial Attacks on Adversarial Bandits
-- Contextual bandits with concave rewards, and an application to fair ranking
+- CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis
+- Multi-lingual Evaluation of Code Generation Models
+- InCoder: A Generative Model for Code Infilling and Synthesis
+- CodeT: Code Generation with Generated Tests
+- DocPrompting: Generating Code by Retrieving the Docs
 
 ## Papers
 
-<a id="paper-qtxktxjkih"></a>
-1. [Achieving Near-Optimal Individual Regret & Low Communications in Multi-Agent Bandits](https://openreview.net/forum?id=QTXKTXJKIh)
-   - Xuchuang Wang, Lin Yang, Yu-Zhen Janice Chen, Xutong Liu, Mohammad Hajiesmaili, Don Towsley, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bbpt6dejerg"></a>
-2. [Adversarial Attacks on Adversarial Bandits](https://openreview.net/forum?id=bBpT6dEjeRG)
-   - Yuzhe Ma, Zhijin Zhou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ogvu9spzajj"></a>
-3. [Asymptotic Instance-Optimal Algorithms for Interactive Decision Making](https://openreview.net/forum?id=oGVu9spZaJJ)
-   - Kefan Dong, Tengyu Ma; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hlbej6jobdd"></a>
-4. [Collaborative Pure Exploration in Kernel Bandit](https://openreview.net/forum?id=hLbeJ6jObDD)
-   - Yihan Du, Wei Chen, Yuko Kuroki, Longbo Huang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ut-svoyd1h"></a>
-5. [Contextual bandits with concave rewards, and an application to fair ranking](https://openreview.net/forum?id=UT-_SVOyD1H)
-   - Virginie Do, Elvis Dohmatob, Matteo Pirotta, Alessandro Lazaric, Nicolas Usunier; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-38m4h8hcnrl"></a>
-6. [Federated Neural Bandits](https://openreview.net/forum?id=38m4h8HcNRL)
-   - Zhongxiang Dai, Yao Shu, Arun Verma, Flint Xiaofeng Fan, Bryan Kian Hsiang Low, Patrick Jaillet; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-g1kjtfsss"></a>
-7. [Learning Kernelized Contextual Bandits in a Distributed and Asynchronous Environment](https://openreview.net/forum?id=-G1kjTFsSs)
-   - Chuanhao Li, Huazheng Wang, Mengdi Wang, Hongning Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-i9oggqhybky"></a>
-8. [Near-Optimal Adversarial Reinforcement Learning with Switching Costs](https://openreview.net/forum?id=i9ogGQHYbkY)
-   - Ming Shi, Yingbin Liang, Ness Shroff; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gcd2utcgmc2"></a>
-9. [Replicable Bandits](https://openreview.net/forum?id=gcD2UtCGMc2)
-   - Hossein Esfandiari, Alkis Kalavasis, Amin Karbasi, Andreas Krause, Vahab Mirrokni, Grigoris Velegkas; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tkwp32nseq"></a>
-10. [Variance-Aware Sparse Linear Bandits](https://openreview.net/forum?id=tkwP32nsEq)
-   - Yan Dai, Ruosong Wang, Simon Shaolei Du; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-q8vghfpdoqp"></a>
-11. [When to Make and Break Commitments?](https://openreview.net/forum?id=q8vgHfPdoQP)
-   - Alihan Hüyük, Zhaozhi Qian, Mihaela van der Schaar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lh1pv42cbf"></a>
+1. [Binding Language Models in Symbolic Languages](https://openreview.net/forum?id=lH1PV42cbF)
+   - Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xomeu3enesq"></a>
+2. [Code Translation with Compiler Representations](https://openreview.net/forum?id=XomEU3eNeSQ)
+   - Marc Szafraniec, Baptiste Roziere, Hugh James Leather, Patrick Labatut, Francois Charton, Gabriel Synnaeve; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-htl4uz344nf"></a>
+3. [CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code](https://openreview.net/forum?id=htL4UZ344nF)
+   - Nadezhda Chirkova, Sergey Troshin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-iaycjkpy2b"></a>
+4. [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://openreview.net/forum?id=iaYcJKpY2B_)
+   - Erik Nijkamp, Bo Pang, Hiroaki Hayashi, Lifu Tu, Huan Wang, Yingbo Zhou, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ktrw68cmu9c"></a>
+5. [CodeT: Code Generation with Generated Tests](https://openreview.net/forum?id=ktrw68Cmu9c)
+   - Bei Chen, Fengji Zhang, Anh Nguyen, Daoguang Zan, Zeqi Lin, Jian-Guang Lou, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ztcxt2t2ru"></a>
+6. [DocPrompting: Generating Code by Retrieving the Docs](https://openreview.net/forum?id=ZTCxT2t2Ru)
+   - Shuyan Zhou, Uri Alon, Frank F. Xu, Zhengbao Jiang, Graham Neubig; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hqwb-lbm6el"></a>
+7. [InCoder: A Generative Model for Code Infilling and Synthesis](https://openreview.net/forum?id=hQwb-lbM6EL)
+   - Daniel Fried, Armen Aghajanyan, Jessy Lin, Sida Wang, Eric Wallace, Freda Shi, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sarj2ka1xz3"></a>
+8. [Language Models Can Teach Themselves to Program Better](https://openreview.net/forum?id=SaRj2ka1XZ3)
+   - Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bo7eexm6an8"></a>
+9. [Multi-lingual Evaluation of Code Generation Models](https://openreview.net/forum?id=Bo7eeXm6An8)
+   - Ben Athiwaratkun, Sanjay Krishna Gouda, Zijian Wang, Xiaopeng Li, Yuchen Tian, Ming Tan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-llp-c5ntdjg"></a>
+10. [Static Prediction of Runtime Errors by Learning to Execute Programs with External Resource Descriptions](https://openreview.net/forum?id=lLp-C5nTdJG)
+   - David Bieber, Rishab Goel, Dan Zheng, Hugo Larochelle, Daniel Tarlow; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ja4lpp5mqc2"></a>
+11. [TrojText: Test-time Invisible Textual Trojan Insertion](https://openreview.net/forum?id=ja4Lpp5mqc2)
+   - Qian Lou, Yepeng Liu, Bo Feng; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-4tynehi2gdn"></a>
+12. [TypeT5: Seq2seq Type Inference using Static Analysis](https://openreview.net/forum?id=4TyNEhI2GdN)
+   - Jiayi Wei, Greg Durrett, Isil Dillig; assignment: `hdbscan`; source: `OpenReview`

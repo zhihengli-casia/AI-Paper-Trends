@@ -1,74 +1,71 @@
-# ICLR 2023: 扩散生成模型
+# ICLR 2023: equivariant / equivariance / symmetries / symmetry
 
 - Topic ID: `40`
-- Papers: **18** (1.14%)
-- Macro topic: 生成模型
-- English keywords: `diffusion / denoising / inverse / sampling`
-- Keyword pool: diffusion; denoising; inverse; sampling; generative; vessel; score; dms; heat; blurring; samplers; discrete
+- Papers: **17** (1.11%)
+- Macro topic: 计算机视觉
+- English keywords: `equivariant / equivariance / symmetries / symmetry`
+- Keyword pool: equivariant; equivariance; symmetries; symmetry; rotation; spherical; manipulation; group; lie; conserved; graph; eigenvectors
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Denoising Diffusion Samplers
-- gDDIM: Generalized denoising diffusion implicit models
-- Generative Modelling with Inverse Heat Dissipation
-- Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions
-- Blurring Diffusion Models
+- The Lie Derivative for Measuring Learned Equivariance
+- Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning
+- Empowering Networks With Scale and Rotation Equivariance Using A Similarity Convolution
+- The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry
+- Image to Sphere: Learning Equivariant Features for Efficient Pose Prediction
 
 ## Papers
 
-<a id="paper-f0ktk2plqzo"></a>
-1. [Accelerating Guided Diffusion Sampling with Splitting Numerical Methods](https://openreview.net/forum?id=F0KTk2plQzO)
-   - Suttisak Wizadwongsa, Supasorn Suwajanakorn; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ojdkc57x5sz"></a>
-2. [Blurring Diffusion Models](https://openreview.net/forum?id=OjDkC57x5sz)
-   - Emiel Hoogeboom, Tim Salimans; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0vqjc50hfcc"></a>
-3. [DDM$^2$: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models](https://openreview.net/forum?id=0vqjc50HfcC)
-   - Tiange Xiang, Mahmut Yurt, Ali B Syed, Kawin Setsompop, Akshay Chaudhari; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-rlwc0-mg-4w"></a>
-4. [Denoising Diffusion Error Correction Codes](https://openreview.net/forum?id=rLwC0_MG-4w)
-   - Yoni Choukroun, Lior Wolf; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-8pvnftabu1f"></a>
-5. [Denoising Diffusion Samplers](https://openreview.net/forum?id=8pvnfTAbu1f)
-   - Francisco Vargas, Will Sussman Grathwohl, Arnaud Doucet; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oxp9ns0gniq"></a>
-6. [Differentiable Gaussianization Layers for Inverse Problems Regularized by Deep Generative Models](https://openreview.net/forum?id=OXP9Ns0gnIq)
-   - Dongzhuo Li; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-h0gdpxswkpb"></a>
-7. [Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation](https://openreview.net/forum?id=H0gdPxSwkPb)
-   - Boah Kim, Yujin Oh, Jong Chul Ye; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ond9zgagt0k"></a>
-8. [Diffusion Posterior Sampling for General Noisy Inverse Problems](https://openreview.net/forum?id=OnD9zGAGT0k)
-   - Hyungjin Chung, Jeongsol Kim, Michael Thompson Mccann, Marc Louis Klasky, Jong Chul Ye; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vm8batvbwvg"></a>
-9. [Discrete Predictor-Corrector Diffusion Models for Image Synthesis](https://openreview.net/forum?id=VM8batVBWvg)
-   - Jose Lezama, Tim Salimans, Lu Jiang, Huiwen Chang, Jonathan Ho, Irfan Essa; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-loek7hfb46p"></a>
-10. [Fast Sampling of Diffusion Models with Exponential Integrator](https://openreview.net/forum?id=Loek7hfb46P)
-   - Qinsheng Zhang, Yongxin Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4pjubt9f2ol"></a>
-11. [Generative Modelling with Inverse Heat Dissipation](https://openreview.net/forum?id=4PJUBT9f2Ol)
-   - Severi Rissanen, Markus Heinonen, Arno Solin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9-gsma8mrkq"></a>
-12. [Pseudoinverse-Guided Diffusion Models for Inverse Problems](https://openreview.net/forum?id=9_gsMA8MRKQ)
-   - Jiaming Song, Arash Vahdat, Morteza Mardani, Jan Kautz; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oowlrfai-v"></a>
-13. [Quantized Compressed Sensing with Score-Based Generative Models](https://openreview.net/forum?id=OOWLRfAI_V_)
-   - Xiangming Meng, Yoshiyuki Kabashima; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zylvmgsz0u"></a>
-14. [Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions](https://openreview.net/forum?id=zyLVMgsZ0U_)
-   - Sitan Chen, Sinho Chewi, Jerry Li, Yuanzhi Li, Adil Salim, Anru Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bywwwsy2g5s"></a>
-15. [Score-based Continuous-time Discrete Diffusion Models](https://openreview.net/forum?id=BYWWwSY2G5s)
-   - Haoran Sun, Lijun Yu, Bo Dai, Dale Schuurmans, Hanjun Dai; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wmiwytd0ytf"></a>
-16. [Stable Target Field for Reduced Variance Score Estimation in Diffusion Models](https://openreview.net/forum?id=WmIwYTd0YTF)
-   - Yilun Xu, Shangyuan Tong, Tommi S. Jaakkola; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6pirhax1j4i"></a>
-17. [Understanding DDPM Latent Codes Through Optimal Transport](https://openreview.net/forum?id=6PIrhAx1j4i)
-   - Valentin Khrulkov, Gleb Ryzhakov, Andrei Chertkov, Ivan Oseledets; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1hke9qjvz"></a>
-18. [gDDIM: Generalized denoising diffusion implicit models](https://openreview.net/forum?id=1hKE9qjvz-)
-   - Qinsheng Zhang, Molei Tao, Yongxin Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rdy3ibvjmqt"></a>
+1. [$\mathrm{SE}(3)$-Equivariant Attention Networks for Shape Reconstruction in Function Space](https://openreview.net/forum?id=RDy3IbvjMqT)
+   - Evangelos Chatzipantazis, Stefanos Pertigkiozoglou, Edgar Dobriban, Kostas Daniilidis; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mvetq8do05o"></a>
+2. [A Laplace-inspired Distribution on SO(3) for Probabilistic Rotation Estimation](https://openreview.net/forum?id=Mvetq8DO05O)
+   - Yingda Yin, Yang Wang, He Wang, Baoquan Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xnsg4pfkb7"></a>
+3. [Bispectral Neural Networks](https://openreview.net/forum?id=xnsg4pfKb7)
+   - Sophia Sanborn, Christian A Shewmake, Bruno Olshausen, Christopher J. Hillar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-njensj37sq"></a>
+4. [Empowering Networks With Scale and Rotation Equivariance Using A Similarity Convolution](https://openreview.net/forum?id=NJENsJ37sQ)
+   - Zikai Sun, Thierry Blu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kwmpfargotd"></a>
+5. [Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs](https://openreview.net/forum?id=KwmPfARgOTD)
+   - Yi-Lun Liao, Tess Smidt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-a6rcdfabjxg"></a>
+6. [Equivariance-aware Architectural Optimization of Neural Networks](https://openreview.net/forum?id=a6rCdfABJXg)
+   - Kaitlin Maile, Dennis George Wilson, Patrick Forré; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dnjzspgmy5o"></a>
+7. [Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning](https://openreview.net/forum?id=dnjZSPGmY5O)
+   - Hyunwoo Ryu, Hong-in Lee, Jeong-Hoon Lee, Jongeun Choi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2bdpatr7pi"></a>
+8. [Image to Sphere: Learning Equivariant Features for Efficient Pose Prediction](https://openreview.net/forum?id=_2bDpAtr7PI)
+   - David Klee, Ondrej Biza, Robert Platt, Robin Walters; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n7cpzmpkql"></a>
+9. [Integrating Symmetry into Differentiable Planning with Steerable Convolutions](https://openreview.net/forum?id=n7CPzMPKQl)
+   - Linfeng Zhao, Xupeng Zhu, Lingzhi Kong, Robin Walters, Lawson L.S. Wong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-d1iqfm7wtkk"></a>
+10. [Neural ePDOs: Spatially Adaptive Equivariant Partial Differential Operator Based Networks](https://openreview.net/forum?id=D1Iqfm7WTkk)
+   - Lingshen He, Yuxuan Chen, Zhengyang Shen, Yibo Yang, Zhouchen Lin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-eb-cpjzz3gh"></a>
+11. [Scalable and Equivariant Spherical CNNs by Discrete-Continuous (DISCO) Convolutions](https://openreview.net/forum?id=eb_cpjZZ3GH)
+   - Jeremy Ocampo, Matthew Alexander Price, Jason McEwen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q-uhqmorzil"></a>
+12. [Sign and Basis Invariant Networks for Spectral Graph Representation Learning](https://openreview.net/forum?id=Q-UHqMorzil)
+   - Derek Lim, Joshua David Robinson, Lingxiao Zhao, Tess Smidt, Suvrit Sra, Haggai Maron, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-3dipif3wqmc"></a>
+13. [Spatial Attention Kinetic Networks with E(n)-Equivariance](https://openreview.net/forum?id=3DIpIf3wQMC)
+   - Yuanqing Wang, John Chodera; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9zpcicounfb"></a>
+14. [Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow](https://openreview.net/forum?id=9ZpciCOunFb)
+   - Bo Zhao, Iordan Ganev, Robin Walters, Rose Yu, Nima Dehmamy; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qukscztwlkq"></a>
+15. [The KFIoU Loss for Rotated Object Detection](https://openreview.net/forum?id=qUKsCztWlKq)
+   - Xue Yang, Yue Zhou, Gefan Zhang, Jirui Yang, Wentao Wang, Junchi Yan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jl7va5vy15j"></a>
+16. [The Lie Derivative for Measuring Learned Equivariance](https://openreview.net/forum?id=JL7Va5Vy15J)
+   - Nate Gruver, Marc Anton Finzi, Micah Goldblum, Andrew Gordon Wilson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-p4mugrm4acu"></a>
+17. [The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry](https://openreview.net/forum?id=P4MUGRM4Acu)
+   - Dian Wang, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters, Robert Platt; assignment: `hdbscan`; source: `OpenReview`

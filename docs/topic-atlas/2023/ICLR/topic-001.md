@@ -1,155 +1,161 @@
-# ICLR 2023: 图神经网络与图表示学习
+# ICLR 2023: language / prompt / 大语言模型 / zero-shot
 
 - Topic ID: `1`
-- Papers: **45** (2.86%)
-- Macro topic: 图学习/数据挖掘
-- English keywords: `graph / gnns / node / link prediction`
-- Keyword pool: graph; gnns; node; link prediction; unlearning; message; temporal; lottery; passing; neighborhood; circuit; transformer
+- Papers: **47** (3.07%)
+- Macro topic: LLM/语言模型
+- English keywords: `language / prompt / llms / zero-shot`
+- Keyword pool: language; prompt; llms; zero-shot; few-shot; nlp; compositional; natural; in-context; pre-trained; question answering; retrieval
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Graph Neural Networks are Inherently Good Generalizers: Insights by Bridging GNNs and MLPs
-- Graph Neural Networks for Link Prediction with Subgraph Sketching
-- Agent-based Graph Neural Networks
-- $\mathscr{N}$-WL: A New Hierarchy of Expressivity for Graph Neural Networks
-- Link Prediction with Non-Contrastive Learning
+- Ask Me Anything: A simple strategy for prompting language models
+- Selective Annotation Makes Language Models Better Few-Shot Learners
+- UL2: Unifying Language Learning Paradigms
+- Compositional Semantic Parsing with Large Language Models
+- Bidirectional Language Models Are Also Few-shot Learners
 
 ## Papers
 
-<a id="paper-5cai0qxxyv"></a>
-1. [$\mathscr{N}$-WL: A New Hierarchy of Expressivity for Graph Neural Networks](https://openreview.net/forum?id=5cAI0qXxyv)
-   - Qing Wang, Dillon Ze Chen, Asiri Wijesinghe, Shouheng Li, Muhammad Farhan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7l2mgi0tnep"></a>
-2. [$\rm A^2Q$: Aggregation-Aware Quantization for Graph Neural Networks](https://openreview.net/forum?id=7L2mgi0TNEP)
-   - Zeyu Zhu, Fanrong Li, Zitao Mo, Qinghao Hu, Gang Li, Zejian Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lrdhvzmpvyv"></a>
-3. [A Differential Geometric View and Explainability of GNN on Evolving Graphs](https://openreview.net/forum?id=lRdhvzMpVYV)
-   - Yazheng Liu, Xi Zhang, Sihong Xie; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-tjbbqfw-5wv"></a>
-4. [A critical look at the evaluation of GNNs under heterophily: Are we really making progress?](https://openreview.net/forum?id=tJbbQfw-5wv)
-   - Oleg Platonov, Denis Kuznedelev, Michael Diskin, Artem Babenko, Liudmila Prokhorenkova; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4fzc-79lrqs"></a>
-5. [ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks](https://openreview.net/forum?id=4fZc_79Lrqs)
-   - Yuelin Wang, Kai Yi, Xinliang Liu, Yu Guang Wang, Shi Jin; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-8wtah0tj2jc"></a>
-6. [Agent-based Graph Neural Networks](https://openreview.net/forum?id=8WTAh0tj2jC)
-   - Karolis Martinkus, Pál András Papp, Benedikt Schesch, Roger Wattenhofer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-j3y7cgzoos"></a>
-7. [Anti-Symmetric DGN: a stable architecture for Deep Graph Networks](https://openreview.net/forum?id=J3Y7cgZOOS)
-   - Alessio Gravina, Davide Bacciu, Claudio Gallicchio; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uagc-x9xmi8"></a>
-8. [Are More Layers Beneficial to Graph Transformers?](https://openreview.net/forum?id=uagC-X9XMi8)
-   - Haiteng Zhao, Shuming Ma, Dongdong Zhang, Zhi-Hong Deng, Furu Wei; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-gcm7qfl5zy"></a>
-9. [AutoGT: Automated Graph Transformer Architecture Search](https://openreview.net/forum?id=GcM7qfl5zY)
-   - Zizhao Zhang, Xin Wang, Chaoyu Guan, Ziwei Zhang, Haoyang Li, Wenwu Zhu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-y81ppnf-vg"></a>
-10. [AutoTransfer: AutoML with Knowledge Transfer - An Application to Graph Neural Networks](https://openreview.net/forum?id=y81ppNf_vg)
-   - Kaidi Cao, Jiaxuan You, Jiaju Liu, Jure Leskovec; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-kdsmxospsxq"></a>
-11. [Boosting the Cycle Counting Power of Graph Neural Networks with I$^2$-GNNs](https://openreview.net/forum?id=kDSmxOspsXQ)
-   - Yinan Huang, Xingang Peng, Jianzhu Ma, Muhan Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ne2911kq1sp"></a>
-12. [CktGNN: Circuit Graph Neural Network for Electronic Design Automation](https://openreview.net/forum?id=NE2911Kq1sp)
-   - Zehao Dong, Weidong Cao, Muhan Zhang, Dacheng Tao, Yixin Chen, Xuan Zhang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ypkbiily-kt"></a>
-13. [Confidence-Based Feature Imputation for Graphs with Partially Known Features](https://openreview.net/forum?id=YPKBIILy-Kt)
-   - Daeho Um, Jiwoong Park, Seulki Park, Jin young Choi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-7d-g8kozkie"></a>
-14. [Cycle to Clique (Cy2C) Graph Neural Network: A Sight to See beyond Neighborhood Aggregation](https://openreview.net/forum?id=7d-g8KozkiE)
-   - Yun Young Choi, Sun Woo Park, Youngho Woo, U Jin Choi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jgmurzm-sb6"></a>
-15. [DAG Matters! GFlowNets Enhanced Explainer for Graph Neural Networks](https://openreview.net/forum?id=jgmuRzM-sb6)
-   - Wenqian Li, Yinchuan Li, Zhigang Li, Jianye HAO, Yan Pang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-hzftxqgj4re"></a>
-16. [Deep Ensembles for Graphs with Higher-order Dependencies](https://openreview.net/forum?id=hZftxQGJ4Re)
-   - Steven Krieg, William Burgis, Patrick Soga, Nitesh Chawla; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qamz7q-ta1k"></a>
-17. [Direct Embedding of Temporal Network Edges via Time-Decayed Line Graphs](https://openreview.net/forum?id=Qamz7Q_Ta1k)
-   - Sudhanshu Chanpuriya, Ryan A. Rossi, Sungchul Kim, Tong Yu, Jane Hoffswell, Nedim Lipka, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ayppc0sylv1"></a>
-18. [Do We Really Need Complicated Model Architectures For Temporal Networks?](https://openreview.net/forum?id=ayPPc0SyLv1)
-   - Weilin Cong, Si Zhang, Jian Kang, Baichuan Yuan, Hao Wu, Xin Zhou, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-fhcu4fblcil"></a>
-19. [Efficient Model Updates for Approximate Unlearning of Graph-Structured Data](https://openreview.net/forum?id=fhcu4FBLciL)
-   - Eli Chien, Chao Pan, Olgica Milenkovic; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ritjkoscnnd"></a>
-20. [Equivariant Hypergraph Diffusion Neural Operators](https://openreview.net/forum?id=RiTjKoscnNd)
-   - Peihao Wang, Shenghao Yang, Yunyu Liu, Zhangyang Wang, Pan Li; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-br-zhvcybgj"></a>
-21. [Explaining Temporal Graph Models through an Explorer-Navigator Framework](https://openreview.net/forum?id=BR_ZhvcYbGJ)
-   - Wenwen Xia, Mincai Lai, Caihua Shan, Yao Zhang, Xinnan Dai, Xiang Li, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-wlbg820mrh"></a>
-22. [Fundamental Limits in Formal Verification of Message-Passing Neural Networks](https://openreview.net/forum?id=WlbG820mRH-)
-   - Marco Sälzer, Martin Lange; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-x9yckmt5qrl"></a>
-23. [GNNDelete: A General Strategy for Unlearning in Graph Neural Networks](https://openreview.net/forum?id=X9yCkmT5Qrl)
-   - Jiali Cheng, George Dasoulas, Huan He, Chirag Agarwal, Marinka Zitnik; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rqq6dh8t4d"></a>
-24. [GNNInterpreter: A Probabilistic Generative Model-Level Explanation for Graph Neural Networks](https://openreview.net/forum?id=rqq6Dh8t4d)
-   - Xiaoqi Wang, Han Wei Shen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-8dut3mi-5n"></a>
-25. [GReTo: Remedying dynamic graph topology-task discordance via target homophily](https://openreview.net/forum?id=8duT3mi_5n)
-   - Zhengyang Zhou, Qihe Huang, Gengyu Lin, Kuo Yang, LEI BAI, Yang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pluxnnxudr4"></a>
-26. [Graph Contrastive Learning for Skeleton-based Action Recognition](https://openreview.net/forum?id=PLUXnnxUdr4)
-   - Xiaohu Huang, Hao Zhou, Jian Wang, Haocheng Feng, Junyu Han, Errui Ding, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-flap0bo6tk"></a>
-27. [Graph Neural Network-Inspired Kernels for Gaussian Processes in Semi-Supervised Learning](https://openreview.net/forum?id=flap0Bo6TK_)
-   - Zehao Niu, Mihai Anitescu, Jie Chen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-dqnnw2omzl6"></a>
-28. [Graph Neural Networks are Inherently Good Generalizers: Insights by Bridging GNNs and MLPs](https://openreview.net/forum?id=dqnNW2omZL6)
-   - Chenxiao Yang, Qitian Wu, Jiahua Wang, Junchi Yan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-m1oqeoaozqu"></a>
-29. [Graph Neural Networks for Link Prediction with Subgraph Sketching](https://openreview.net/forum?id=m1oqEOAozQU)
-   - Benjamin Paul Chamberlain, Sergey Shirobokov, Emanuele Rossi, Fabrizio Frasca, Thomas Markovich, Nils Yannick Hammerla, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4uldftz-cvf"></a>
-30. [Joint Edge-Model Sparse Learning is Provably Efficient for Graph Neural Networks](https://openreview.net/forum?id=4UldFtZ_CVF)
-   - Shuai Zhang, Meng Wang, Pin-Yu Chen, Sijia Liu, Songtao Lu, Miao Liu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-5vbba91n6n"></a>
-31. [LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence](https://openreview.net/forum?id=5VBBA91N6n)
-   - Zhihao Shi, Xize Liang, Jie Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-q0nmyciuuzn"></a>
-32. [Learning on Large-scale Text-attributed Graphs via Variational Inference](https://openreview.net/forum?id=q0nmYciuuZN)
-   - Jianan Zhao, Meng Qu, Chaozhuo Li, Hao Yan, Qian Liu, Rui Li, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-xqcqhvur2h0"></a>
-33. [Limitless Stability for Graph Convolutional Networks](https://openreview.net/forum?id=XqcQhVUr2h0)
-   - Christian Koke; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9jaz4aphtwd"></a>
-34. [Link Prediction with Non-Contrastive Learning](https://openreview.net/forum?id=9Jaz4APHtWD)
-   - William Shiao, Zhichun Guo, Tong Zhao, Evangelos E. Papalexakis, Yozen Liu, Neil Shah; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-p8yiphwnego"></a>
-35. [MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization](https://openreview.net/forum?id=P8YIphWNEGO)
-   - Xiaotian Han, Tong Zhao, Yozen Liu, Xia Hu, Neil Shah; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-c1ns08q9jz"></a>
-36. [MetaGL: Evaluation-Free Selection of Graph Learning Models via Meta-Learning](https://openreview.net/forum?id=C1ns08q9jZ)
-   - Namyong Park, Ryan A. Rossi, Nesreen Ahmed, Christos Faloutsos; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1thazrqftm"></a>
-37. [Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization](https://openreview.net/forum?id=1tHAZRqftM)
-   - Mingxuan Ju, Tong Zhao, Qianlong Wen, Wenhao Yu, Neil Shah, Yanfang Ye, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8kyeilt3ow"></a>
-38. [NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs](https://openreview.net/forum?id=8KYeilT3Ow)
-   - Jinsong Chen, Kaiyuan Gao, Gaichao Li, Kun He; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-fjh7ugqgob"></a>
-39. [Rethinking Graph Lottery Tickets: Graph Sparsity Matters](https://openreview.net/forum?id=fjh7UGQgOB)
-   - Bo Hui, Da Yan, Xiaolong Ma, Wei-Shinn Ku; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-r9hnv76kot3"></a>
-40. [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)
-   - Bohang Zhang, Shengjie Luo, Liwei Wang, Di He; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dvs-a3aympe"></a>
-41. [Searching Lottery Tickets in Graph Neural Networks: A Dual Perspective](https://openreview.net/forum?id=Dvs-a3aymPe)
-   - Kun Wang, Yuxuan Liang, Pengkun Wang, Xu Wang, Pengfei Gu, Junfeng Fang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-t-qvta3paxg"></a>
-42. [Serving Graph Compression for Graph Neural Networks](https://openreview.net/forum?id=T-qVtA3pAxG)
-   - Si Si, Felix Yu, Ankit Singh Rawat, Cho-Jui Hsieh, Sanjiv Kumar; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-0pdst3oyja1"></a>
-43. [Specformer: Spectral Graph Neural Networks Meet Transformers](https://openreview.net/forum?id=0pdSt3oyJa1)
-   - Deyu Bo, Chuan Shi, Lele Wang, Renjie Liao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-n9pk5isczan"></a>
-44. [Towards Open Temporal Graph Neural Networks](https://openreview.net/forum?id=N9Pk5iSCzAn)
-   - Kaituo Feng, Changsheng Li, Xiaolu Zhang, JUN ZHOU; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-j3cuwimsfbn"></a>
-45. [Unbiased Stochastic Proximal Solver for Graph Neural Networks with Equilibrium States](https://openreview.net/forum?id=j3cUWIMsFBN)
-   - Mingjie Li, Yifei Wang, Yisen Wang, Zhouchen Lin; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fe2s7736sns"></a>
+1. [$k$NN Prompting: Beyond-Context Learning with Calibration-Free Nearest Neighbor Inference](https://openreview.net/forum?id=fe2S7736sNS)
+   - Benfeng Xu, Quan Wang, Zhendong Mao, Yajuan Lyu, Qiaoqiao She, Yongdong Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vtvdi3w-bll"></a>
+2. [AANG : Automating Auxiliary Learning](https://openreview.net/forum?id=vtVDI3w_BLL)
+   - Lucio M. Dery, Paul Michel, Mikhail Khodak, Graham Neubig, Ameet Talwalkar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lq62uwrjjiy"></a>
+3. [Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning](https://openreview.net/forum?id=lq62uWRJjiY)
+   - Qingru Zhang, Minshuo Chen, Alexander Bukharin, Pengcheng He, Yu Cheng, Weizhu Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bhupjns2g0x"></a>
+4. [Ask Me Anything: A simple strategy for prompting language models](https://openreview.net/forum?id=bhUPJnS2g0X)
+   - Simran Arora, Avanika Narayan, Mayee F Chen, Laurel Orr, Neel Guha, Kush Bhatia, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wcfb37bzud4"></a>
+5. [Bidirectional Language Models Are Also Few-shot Learners](https://openreview.net/forum?id=wCFB37bzud4)
+   - Ajay Patel, Bryan Li, Mohammad Sadegh Rasooli, Noah Constant, Colin Raffel, Chris Callison-Burch; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sbwvtxq8-ze"></a>
+6. [Can discrete information extraction prompts generalize across language models?](https://openreview.net/forum?id=sbWVtxq8-zE)
+   - Nathanaël Carraz Rakotonirina, Roberto Dessi, Fabio Petroni, Sebastian Riedel, Marco Baroni; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gjw8hsgbys8"></a>
+7. [Compositional Semantic Parsing with Large Language Models](https://openreview.net/forum?id=gJW8hSGBys8)
+   - Andrew Drozdov, Nathanael Schärli, Ekin Akyürek, Nathan Scales, Xinying Song, Xinyun Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6aximja7me3"></a>
+8. [Compositional Task Representations for Large Language Models](https://openreview.net/forum?id=6axIMJA7ME3)
+   - NAN SHAO, Zefan Cai, Hanwei xu, Chonghua Liao, Yanan Zheng, Zhilin Yang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-m-gdiitai3o"></a>
+9. [Continual Pre-training of Language Models](https://openreview.net/forum?id=m_GDIItaI3o)
+   - Zixuan Ke, Yijia Shao, Haowei Lin, Tatsuya Konishi, Gyuhak Kim, Bing Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fcnohur6anm"></a>
+10. [Dataless Knowledge Fusion by Merging Weights of Language Models](https://openreview.net/forum?id=FCnohuR6AnM)
+   - Xisen Jin, Xiang Ren, Daniel Preotiuc-Pietro, Pengxiang Cheng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-se7-xhlxha"></a>
+11. [DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing](https://openreview.net/forum?id=sE7-XhLxHA)
+   - Pengcheng He, Jianfeng Gao, Weizhu Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-etkguby0hcs"></a>
+12. [Discovering Latent Knowledge in Language Models Without Supervision](https://openreview.net/forum?id=ETKGuby0hcs)
+   - Collin Burns, Haotian Ye, Dan Klein, Jacob Steinhardt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fb0hru9gzus"></a>
+13. [Generate rather than Retrieve: Large Language Models are Strong Context Generators](https://openreview.net/forum?id=fB0hRu9GZUS)
+   - Wenhao Yu, Dan Iter, Shuohang Wang, Yichong Xu, Mingxuan Ju, Soumya Sanyal, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ftoxgke-zg2"></a>
+14. [Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-Shot Learners](https://openreview.net/forum?id=FtOxgKe_Zg2)
+   - Seonghyeon Ye, Doyoung Kim, Joel Jang, Joongbo Shin, Minjoon Seo; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kuf4bcwxgjr"></a>
+15. [HypeR: Multitask Hyper-Prompted Training Enables Large-Scale Retrieval Generalization](https://openreview.net/forum?id=kUf4BcWXGJr)
+   - ZeFeng Cai, Chongyang Tao, Tao Shen, Can Xu, Xiubo Geng, Xin Alex Lin, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2nocge1m0a"></a>
+16. [KnowDA: All-in-One Knowledge Mixture Model for Data Augmentation in Low-Resource NLP](https://openreview.net/forum?id=2nocgE1m0A)
+   - Yufei Wang, Jiayi Zheng, Can Xu, Xiubo Geng, Tao Shen, Chongyang Tao, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-a2jndqe2102"></a>
+17. [Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models](https://openreview.net/forum?id=a2jNdqE2102)
+   - Xiaoman Pan, Wenlin Yao, Hongming Zhang, Dian Yu, Dong Yu, Jianshu Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-92gvk82de"></a>
+18. [Large Language Models are Human-Level Prompt Engineers](https://openreview.net/forum?id=92gvk82DE-)
+   - Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dps6bgo2qt0"></a>
+19. [Learning Locality and Isotropy in Dialogue Modeling](https://openreview.net/forum?id=dPs6BGO2QT0)
+   - Han Wu, Haochen Tan, Mingjie Zhan, Gangming Zhao, Shaoqing Lu, Ding Liang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-pwvasryoyfw"></a>
+20. [Learning Uncertainty for Unknown Domains with Zero-Target-Assumption](https://openreview.net/forum?id=pWVASryOyFw)
+   - Yu Yu, Hassan Sajjad, Jia Xu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-s8-a2fxnih"></a>
+21. [Learning to Compose Soft Prompts for Compositional Zero-Shot Learning](https://openreview.net/forum?id=S8-A2FXnIh)
+   - Nihal V. Nayak, Peilin Yu, Stephen Bach; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ykbprarjc5b"></a>
+22. [Leveraging Large Language Models for Multiple Choice Question Answering](https://openreview.net/forum?id=yKbprarjc5B)
+   - Joshua Robinson, David Wingate; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mkbcahiygys"></a>
+23. [Mass-Editing Memory in a Transformer](https://openreview.net/forum?id=MkbcAHIYgyS)
+   - Kevin Meng, Arnab Sen Sharma, Alex J Andonian, Yonatan Belinkov, David Bau; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-p0yrsrbn5bu"></a>
+24. [Model ensemble instead of prompt fusion: a sample-specific knowledge transfer method for few-shot prompt tuning](https://openreview.net/forum?id=p0yrSRbN5Bu)
+   - XIANGYU PENG, Chen Xing, Prafulla Kumar Choubey, Chien-Sheng Wu, Caiming Xiong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nk2pdtuhtq"></a>
+25. [Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning](https://openreview.net/forum?id=Nk2pDtuhTq)
+   - Zhen Wang, Rameswar Panda, Leonid Karlinsky, Rogerio Feris, Huan Sun, Yoon Kim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kgv-gbh8fb"></a>
+26. [Not All Tasks Are Born Equal: Understanding Zero-Shot Generalization](https://openreview.net/forum?id=KGV-GBh8fb)
+   - Jing Zhou, Zongyu Lin, Yanan Zheng, Jian Li, Zhilin Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rjclocajpa6"></a>
+27. [On Compositional Uncertainty Quantification for Seq2seq Graph Parsing](https://openreview.net/forum?id=rJcLocAJpA6)
+   - Zi Lin, Du Phan, Panupong Pasupat, Jeremiah Zhe Liu, Jingbo Shang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kbyevcljnc"></a>
+28. [PEER: A Collaborative Language Model](https://openreview.net/forum?id=KbYevcLjnc)
+   - Timo Schick, Jane A. Yu, Zhengbao Jiang, Fabio Petroni, Patrick Lewis, Gautier Izacard, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ni7stowhjpt"></a>
+29. [Preserving Pre-trained Features Helps Calibrate Fine-tuned Language Models](https://openreview.net/forum?id=NI7StoWHJPT)
+   - Guande He, Jianfei Chen, Jun Zhu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ujtgqbc91"></a>
+30. [Progressive Prompts: Continual Learning for Language Models](https://openreview.net/forum?id=UJTgQBc91_)
+   - Anastasia Razdaibiedina, Yuning Mao, Rui Hou, Madian Khabsa, Mike Lewis, Amjad Almahairi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gml46ympu2j"></a>
+31. [Promptagator: Few-shot Dense Retrieval From 8 Examples](https://openreview.net/forum?id=gmL46YMpu2J)
+   - Zhuyun Dai, Vincent Y Zhao, Ji Ma, Yi Luan, Jianmo Ni, Jing Lu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-98p5x51l5af"></a>
+32. [Prompting GPT-3 To Be Reliable](https://openreview.net/forum?id=98p5x51L5af)
+   - Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Lee Boyd-Graber, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nusp9lfaduf"></a>
+33. [Prototypical Calibration for Few-shot Learning of Language Models](https://openreview.net/forum?id=nUsP9lFADUF)
+   - Zhixiong Han, Yaru Hao, Li Dong, Yutao Sun, Furu Wei; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gni4-85cyve"></a>
+34. [QAID: Question Answering Inspired Few-shot Intent Detection](https://openreview.net/forum?id=gNI4_85Cyve)
+   - Asaf Yehudai, Matan Vetzler, Yosi Mass, Koren Lazar, Doron Cohen, Boaz Carmeli; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cqvvvb-nki"></a>
+35. [Recitation-Augmented Language Models](https://openreview.net/forum?id=-cqvvvb-NkI)
+   - Zhiqing Sun, Xuezhi Wang, Yi Tay, Yiming Yang, Denny Zhou; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qy1hlv7gwg"></a>
+36. [Selective Annotation Makes Language Models Better Few-Shot Learners](https://openreview.net/forum?id=qY1hlv7gwg)
+   - Hongjin SU, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-h5opjgd-lo6"></a>
+37. [Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning](https://openreview.net/forum?id=h5OpjGd_lo6)
+   - Jiahui Gao, Renjie Pi, LIN Yong, Hang Xu, Jiacheng Ye, Zhiyong Wu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vd-aytp0dve"></a>
+38. [Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation](https://openreview.net/forum?id=VD-AYtP0dve)
+   - Lorenz Kuhn, Yarin Gal, Sebastian Farquhar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-brjatvzdweh"></a>
+39. [Sub-Task Decomposition Enables Learning in Sequence to Sequence Tasks](https://openreview.net/forum?id=BrJATVZDWEH)
+   - Noam Wies, Yoav Levine, Amnon Shashua; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k8-yvw3wqln"></a>
+40. [Systematic Rectification of Language Models via Dead-end Analysis](https://openreview.net/forum?id=k8_yVW3Wqln)
+   - Meng Cao, Mehdi Fatemi, Jackie CK Cheung, Samira Shabanian; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gshyqbijpfo"></a>
+41. [TEMPERA: Test-Time Prompt Editing via Reinforcement Learning](https://openreview.net/forum?id=gSHyqBijPFO)
+   - Tianjun Zhang, Xuezhi Wang, Denny Zhou, Dale Schuurmans, Joseph E. Gonzalez; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qrnde-9zfd8"></a>
+42. [Task Ambiguity in Humans and Language Models](https://openreview.net/forum?id=QrnDe_9ZFd8)
+   - Alex Tamkin, Kunal Handa, Avash Shrestha, Noah Goodman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hehqobsr0s"></a>
+43. [Text Summarization with Oracle Expectation](https://openreview.net/forum?id=HehQobsr0S)
+   - Yumo Xu, Mirella Lapata; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xzd10ghcvm"></a>
+44. [Toward Adversarial Training on Contextualized Language Representation](https://openreview.net/forum?id=xZD10GhCvM)
+   - Hongqiu Wu, Yongxiang Liu, Hanwen Shi, hai zhao, Min Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-4oyugegbpm"></a>
+45. [Transformer-Patcher: One Mistake Worth One Neuron](https://openreview.net/forum?id=4oYUGeGBPm)
+   - Zeyu Huang, Yikang Shen, Xiaofeng Zhang, Jie Zhou, Wenge Rong, Zhang Xiong; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-6ruvlb727mc"></a>
+46. [UL2: Unifying Language Learning Paradigms](https://openreview.net/forum?id=6ruVLB727MC)
+   - Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Xavier Garcia, Jason Wei, Xuezhi Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kxwdl1cwoai"></a>
+47. [UniMax: Fairer and More Effective Language Sampling for Large-Scale Multilingual Pretraining](https://openreview.net/forum?id=kXwdL1cWOAi)
+   - Hyung Won Chung, Xavier Garcia, Adam Roberts, Yi Tay, Orhan Firat, Sharan Narang, et al.; assignment: `nearest_centroid`; source: `OpenReview`

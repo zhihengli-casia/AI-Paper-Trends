@@ -1,62 +1,62 @@
-# ICLR 2021: 强化学习策略与奖励建模
+# ICLR 2021: pruning / sparsity / pruned / sparse
 
 - Topic ID: `31`
 - Papers: **14** (1.63%)
-- Macro topic: 强化学习/决策
-- English keywords: `imitation / reinforcement / reward / agent`
-- Keyword pool: imitation; reinforcement; reward; agent; environment; expert; policy; domain; demonstrations; physics; experience; behavior
+- Macro topic: 系统/效率/压缩
+- English keywords: `pruning / sparsity / pruned / sparse`
+- Keyword pool: pruning; sparsity; pruned; sparse; initialization; learning rate; magnitude-based; parallelism; structured; et al; fine-grained; growing
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Behavioral Cloning from Noisy Demonstrations
-- Learning What To Do by Simulating the Past
-- Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers
-- Parrot: Data-Driven Behavioral Priors for Reinforcement Learning
-- Primal Wasserstein Imitation Learning
+- Growing Efficient Deep Networks by Structured Continuous Sparsification
+- Robust Pruning at Initialization
+- Progressive Skeletonization: Trimming more fat from a network at initialization
+- Neural Pruning via Growing Regularization
+- A Gradient Flow Framework For Analyzing Network Pruning
 
 ## Papers
 
-<a id="paper-zrt3hcswsat"></a>
-1. [Behavioral Cloning from Noisy Demonstrations](https://openreview.net/forum?id=zrT3HcsWSAt)
-   - Fumihiro Sasaki, Ryota Yamashina; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sk7a5pdrgov"></a>
-2. [CausalWorld: A Robotic Manipulation Benchmark for Causal Structure and Transfer Learning](https://openreview.net/forum?id=SK7A5pdrgov)
-   - Ossama Ahmed, Frederik Träuble, Anirudh Goyal, Alexander Neitz, Manuel Wuthrich, Yoshua Bengio, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-qubpwyfdnry"></a>
-3. [Domain-Robust Visual Imitation Learning with Mutual Information Constraints](https://openreview.net/forum?id=QubpWYfdNry)
-   - Edoardo Cetin, Oya Celiktutan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uni5ucw-jk"></a>
-4. [Explaining by Imitating: Understanding Decisions by Interpretable Policy Learning](https://openreview.net/forum?id=unI5ucw_Jk)
-   - Alihan Hüyük, Daniel Jarrett, Cem Tekin, Mihaela van der Schaar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h0de3qwtgg"></a>
-5. [Learning "What-if" Explanations for Sequential Decision-Making](https://openreview.net/forum?id=h0de3QWtGG)
-   - Ioana Bica, Daniel Jarrett, Alihan Hüyük, Mihaela van der Schaar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qirlze3i6hx"></a>
-6. [Learning Cross-Domain Correspondence for Control with Dynamics Cycle-Consistency](https://openreview.net/forum?id=QIRlze3I6hX)
-   - Qiang Zhang, Tete Xiao, Alexei A Efros, Lerrel Pinto, Xiaolong Wang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-kbvj2ntiy"></a>
-7. [Learning What To Do by Simulating the Past](https://openreview.net/forum?id=kBVJ2NtiY-)
-   - David Lindner, Rohin Shah, Pieter Abbeel, Anca Dragan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gjylaql8i8"></a>
-8. [Learning to Sample with Local and Global Contexts in Experience Replay Buffer](https://openreview.net/forum?id=gJYlaqL8i8)
-   - Youngmin Oh, Kimin Lee, Jinwoo Shin, Eunho Yang, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-eqbwg3aciak"></a>
-9. [Off-Dynamics Reinforcement Learning: Training for Transfer with Domain Classifiers](https://openreview.net/forum?id=eqBwg3AcIAK)
-   - Benjamin Eysenbach, Shreyas Chaudhari, Swapnil Asawa, Sergey Levine, Ruslan Salakhutdinov; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ysuv-wofekr"></a>
-10. [Parrot: Data-Driven Behavioral Priors for Reinforcement Learning](https://openreview.net/forum?id=Ysuv-WOFeKR)
-   - Avi Singh, Huihan Liu, Gaoyue Zhou, Albert Yu, Nicholas Rhinehart, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xccdbrqedw"></a>
-11. [PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics](https://openreview.net/forum?id=xCcdBRQEDW)
-   - Zhiao Huang, Yuanming Hu, Tao Du, Siyuan Zhou, Hao Su, Joshua B. Tenenbaum, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ttysu29zgr"></a>
-12. [Primal Wasserstein Imitation Learning](https://openreview.net/forum?id=TtYSU29zgR)
-   - Robert Dadashi, Leonard Hussenot, Matthieu Geist, Olivier Pietquin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4qr3coinaiv"></a>
-13. [Scalable Bayesian Inverse Reinforcement Learning](https://openreview.net/forum?id=4qR3coiNaIv)
-   - Alex James Chan, Mihaela van der Schaar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-o-v-mjyygv"></a>
-14. [Self-Supervised Policy Adaptation during Deployment](https://openreview.net/forum?id=o_V-MjyyGV_)
-   - Nicklas Hansen, Rishabh Jangir, Yu Sun, Guillem Alenyà, Pieter Abbeel, Alexei A Efros, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rumv7qmluue"></a>
+1. [A Gradient Flow Framework For Analyzing Network Pruning](https://openreview.net/forum?id=rumv7QmLUue)
+   - Ekdeep Singh Lubana, Robert P. Dick; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xcxxwtzx4l1"></a>
+2. [ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations](https://openreview.net/forum?id=xCxXwTzx4L1)
+   - Rishabh Tiwari, Udbhav Bamba, Arnav Chavan, Deepak Gupta; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-msakhlylssl"></a>
+3. [Dataset Condensation with Gradient Matching](https://openreview.net/forum?id=mSAKhLYLSsl)
+   - Bo Zhao, Konda Reddy Mopuri, Hakan Bilen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zelset1klrp"></a>
+4. [Fuzzy Tiling Activations: A Simple Approach to Learning Sparse Representations Online](https://openreview.net/forum?id=zElset1Klrp)
+   - Yangchen Pan, Kirby Banman, Martha White; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wb3wxcobbrt"></a>
+5. [Growing Efficient Deep Networks by Structured Continuous Sparsification](https://openreview.net/forum?id=wb3wxCObbRT)
+   - Xin Yuan, Pedro Henrique Pamplona Savarese, Michael Maire; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-h6atjj0tkdf"></a>
+6. [Layer-adaptive Sparsity for the Magnitude-based Pruning](https://openreview.net/forum?id=H6ATjJ0TKdf)
+   - Jaeho Lee, Sejun Park, Sangwoo Mo, Sungsoo Ahn, Jinwoo Shin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k9bw7vqp-s"></a>
+7. [Learning N:M Fine-grained Structured Sparse Neural Networks From Scratch](https://openreview.net/forum?id=K9bw7vqp_s)
+   - Aojun Zhou, Yukun Ma, Junnan Zhu, Jianbo Liu, Zhijie Zhang, Kun Yuan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cb54amqhqfp"></a>
+8. [Network Pruning That Matters: A Case Study on Retraining Variants](https://openreview.net/forum?id=Cb54AMqHQFP)
+   - Duong Hoang Le, Binh-Son Hua; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o966-is-npa"></a>
+9. [Neural Pruning via Growing Regularization](https://openreview.net/forum?id=o966_Is_nPA)
+   - Huan Wang, Can Qin, Yulun Zhang, Yun Fu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q-s44klq-aa"></a>
+10. [Neurally Augmented ALISTA](https://openreview.net/forum?id=q_S44KLQ_Aa)
+   - Freya Behrens, Jonathan Sauder, Peter Jung; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9gsfouyupi"></a>
+11. [Progressive Skeletonization: Trimming more fat from a network at initialization](https://openreview.net/forum?id=9GsFOUyUPi)
+   - Pau de Jorge, Amartya Sanyal, Harkirat Behl, Philip Torr, Grégory Rogez, Puneet K. Dokania; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ig-vyqc-mlk"></a>
+12. [Pruning Neural Networks at Initialization: Why Are We Missing the Mark?](https://openreview.net/forum?id=Ig-VyQc-MLK)
+   - Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vxj-uczq4ha"></a>
+13. [Robust Pruning at Initialization](https://openreview.net/forum?id=vXj_ucZQ4hA)
+   - Soufiane Hayou, Jean-Francois Ton, Arnaud Doucet, Yee Whye Teh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rsogjanys4z"></a>
+14. [Understanding the effects of data parallelism and sparsity on neural network training](https://openreview.net/forum?id=rsogjAnYs4z)
+   - Namhoon Lee, Thalaiyasingam Ajanthan, Philip Torr, Martin Jaggi; assignment: `hdbscan`; source: `OpenReview`

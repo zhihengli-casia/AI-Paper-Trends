@@ -1,47 +1,44 @@
-# ICLR 2022: 隐私保护与安全学习
+# ICLR 2022: pruning / sparse / pruned / sparsity
 
 - Topic ID: `56`
-- Papers: **9** (0.82%)
-- Macro topic: LLM/语言模型
-- English keywords: `privacy / private / leakage / differentially`
-- Keyword pool: privacy; private; leakage; differentially; shuffle; attacks; fine-tuning; split; adversary; shuffling; language; hyperparameters
+- Papers: **8** (0.75%)
+- Macro topic: 系统/效率/压缩
+- English keywords: `pruning / sparse / pruned / sparsity`
+- Keyword pool: pruning; sparse; pruned; sparsity; compression; dense; dnn; matrices; sparsification; resnet-50; ratios; filters
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Hyperparameter Tuning with Renyi Differential Privacy
-- Differentially Private Fine-tuning of Language Models
-- Large Language Models Can Be Strong Differentially Private Learners
-- Privacy Implications of Shuffling
-- PEARL: Data Synthesis via Private Embeddings and Adversarial Reconstruction Learning
+- The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training
+- Effective Model Sparsification by Scheduled Grow-and-Prune Methods
+- Learning Pruning-Friendly Networks via Frank-Wolfe: One-Shot, Any-Sparsity, And No Retraining
+- Encoding Weights of Irregular Sparsity for Fixed-to-Fixed Model Compression
+- An Operator Theoretic View On Pruning Deep Neural Networks
 
 ## Papers
 
-<a id="paper-f2lribgx3x7"></a>
-1. [Bayesian Framework for Gradient Leakage](https://openreview.net/forum?id=f2lrIbGx3x7)
-   - Mislav Balunovic, Dimitar Iliev Dimitrov, Robin Staab, Martin Vechev; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-q42f0dfjeco"></a>
-2. [Differentially Private Fine-tuning of Language Models](https://openreview.net/forum?id=Q42f0dfjECO)
-   - Da Yu, Saurabh Naik, Arturs Backurs, Sivakanth Gopi, Huseyin A Inan, Gautam Kamath, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7i8lpkcx8v"></a>
-3. [Differentially Private Fractional Frequency Moments Estimation with Polylogarithmic Space](https://openreview.net/forum?id=7I8LPkcx8V)
-   - Lun Wang, Iosif Pinelis, Dawn Song; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-70l8lpp9df"></a>
-4. [Hyperparameter Tuning with Renyi Differential Privacy](https://openreview.net/forum?id=-70L8lpp9DF)
-   - Nicolas Papernot, Thomas Steinke; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cotbrgsf2fo"></a>
-5. [Label Leakage and Protection in Two-party Split Learning](https://openreview.net/forum?id=cOtBRgsf2fO)
-   - Oscar Li, Jiankai Sun, Xin Yang, Weihao Gao, Hongyi Zhang, Junyuan Xie, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bvup3ltatmz"></a>
-6. [Large Language Models Can Be Strong Differentially Private Learners](https://openreview.net/forum?id=bVuP3ltATMz)
-   - Xuechen Li, Florian Tramer, Percy Liang, Tatsunori Hashimoto; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-m6m8bemd6dq"></a>
-7. [PEARL: Data Synthesis via Private Embeddings and Adversarial Reconstruction Learning](https://openreview.net/forum?id=M6M8BEmd6dq)
-   - Seng Pei Liew, Tsubasa Takahashi, Michihiko Ueno; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5i2f-ar6b8h"></a>
-8. [Privacy Implications of Shuffling](https://openreview.net/forum?id=5i2f-aR6B8H)
-   - Casey Meehan, Amrita Roy Chowdhury, Kamalika Chaudhuri, Somesh Jha; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-drzxutgg2a"></a>
-9. [Shuffle Private Stochastic Convex Optimization](https://openreview.net/forum?id=DrZXuTGg2A-)
-   - Albert Cheu, Matthew Joseph, Jieming Mao, Binghui Peng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pwbnogdeurp"></a>
+1. [An Operator Theoretic View On Pruning Deep Neural Networks](https://openreview.net/forum?id=pWBNOgdeURp)
+   - William T Redman, MARIA FONOBEROVA, Ryan Mohr, Yannis Kevrekidis, Igor Mezic; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xa6otuddp2w"></a>
+2. [Effective Model Sparsification by Scheduled Grow-and-Prune Methods](https://openreview.net/forum?id=xa6otUDdP2W)
+   - Xiaolong Ma, Minghai Qin, Fei Sun, Zejiang Hou, Kun Yuan, Yi Xu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vs5nk44ap9p"></a>
+3. [Encoding Weights of Irregular Sparsity for Fixed-to-Fixed Model Compression](https://openreview.net/forum?id=Vs5NK44aP9P)
+   - Bae Seong Park, Se Jung Kwon, Daehwan Oh, Byeongwook Kim, Dongsoo Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ajgc97aofee"></a>
+4. [Learning Efficient Image Super-Resolution Networks via Structure-Regularized Pruning](https://openreview.net/forum?id=AjGC97Aofee)
+   - Yulun Zhang, Huan Wang, Can Qin, Yun Fu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o1detitim"></a>
+5. [Learning Pruning-Friendly Networks via Frank-Wolfe: One-Shot, Any-Sparsity, And No Retraining](https://openreview.net/forum?id=O1DEtITim__)
+   - Miao Lu, Xiaolong Luo, Tianlong Chen, Wuyang Chen, Dong Liu, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nfl-ixa-y7r"></a>
+6. [Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models](https://openreview.net/forum?id=Nfl-iXa-y7R)
+   - Beidi Chen, Tri Dao, Kaizhao Liang, Jiaming Yang, Zhao Song, Atri Rudra, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-t5emxz3zlr"></a>
+7. [SOSP: Efficiently Capturing Global Correlations by Second-Order Structured Pruning](https://openreview.net/forum?id=t5EmXZ3ZLR)
+   - Manuel Nonnenmacher, Thomas Pfeil, Ingo Steinwart, David Reeb; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vbzj-3tz-t"></a>
+8. [The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training](https://openreview.net/forum?id=VBZJ_3tz-t)
+   - Shiwei Liu, Tianlong Chen, Xiaohan Chen, Li Shen, Decebal Constantin Mocanu, Zhangyang Wang, et al.; assignment: `hdbscan`; source: `OpenReview`

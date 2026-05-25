@@ -1,80 +1,77 @@
-# ICLR 2023: 语音/音频语言模型
+# ICLR 2023: spurious / group / shift / ood
 
 - Topic ID: `35`
-- Papers: **20** (1.27%)
-- Macro topic: 语音/音频/音乐
-- English keywords: `speech / audio / separation / asr`
-- Keyword pool: speech; audio; separation; asr; voice; music; sound; recognition; top-down; synthesis; text-only; latency
+- Papers: **19** (1.24%)
+- Macro topic: 可信/安全/公平
+- English keywords: `spurious / group / shift / ood`
+- Keyword pool: spurious; group; shift; ood; correlations; dro; tta; robust; doubly; erm; distributionally; test
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- AudioGen: Textually Guided Audio Generation
-- In-Situ Text-Only Adaptation of Speech Models with Low-Overhead Speech Imputations
-- TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation
-- Jointly Learning Visual and Auditory Speech Representations from Raw Data
-- wav2tok: Deep Sequence Tokenizer for Audio Retrieval
+- Understanding Why Generalized Reweighting Does Not Improve Over ERM
+- How robust is unsupervised representation learning to distribution shift?
+- Avoiding spurious correlations via logit correction
+- Breaking Correlation Shift via Conditional Invariant Regularizer
+- AGRO: Adversarial discovery of error-prone Groups for Robust Optimization
 
 ## Papers
 
-<a id="paper-fzberkywksi"></a>
-1. [An efficient encoder-decoder architecture with top-down attention for speech separation](https://openreview.net/forum?id=fzberKYWKsI)
-   - Kai Li, Runxuan Yang, Xiaolin Hu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cyk7rfcozq4"></a>
-2. [AudioGen: Textually Guided Audio Generation](https://openreview.net/forum?id=CYK7RfcOzQ4)
-   - Felix Kreuk, Gabriel Synnaeve, Adam Polyak, Uriel Singer, Alexandre Défossez, Jade Copet, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sbr9mptubn"></a>
-3. [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn)
-   - Yi Ren, Chen Zhang, Shuicheng YAN; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ittgcmdezs"></a>
-4. [BigVGAN: A Universal Neural Vocoder with Large-Scale Training](https://openreview.net/forum?id=iTtGCMDEzS_)
-   - Sang-gil Lee, Wei Ping, Boris Ginsburg, Bryan Catanzaro, Sungroh Yoon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xmcyx-reun6"></a>
-5. [BrainBERT: Self-supervised representation learning for intracranial recordings](https://openreview.net/forum?id=xmcYx_reUn6)
-   - Christopher Wang, Vighnesh Subramaniam, Adam Uri Yaari, Gabriel Kreiman, Boris Katz, Ignacio Cases, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-h-t3f0dmbyj"></a>
-6. [CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos](https://openreview.net/forum?id=H-T3F0dMbyj)
-   - Hao-Wen Dong, Naoya Takahashi, Yuki Mitsufuji, Julian McAuley, Taylor Berg-Kirkpatrick; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-m3twgt2baug"></a>
-7. [Continuous pseudo-labeling from the start](https://openreview.net/forum?id=m3twGT2bAug)
-   - Dan Berrebbi, Ronan Collobert, Samy Bengio, Navdeep Jaitly, Tatiana Likhomanenko; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5fvxh49wk2"></a>
-8. [D4AM: A General Denoising Framework for Downstream Acoustic Models](https://openreview.net/forum?id=5fvXH49wk2)
-   - Chi-Chang Lee, Yu Tsao, Hsin-Min Wang, Chu-Song Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uclbpxizqny"></a>
-9. [Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths](https://openreview.net/forum?id=UClBPxIZqnY)
-   - Ming Xu, Sourav Garg, Michael Milford, Stephen Gould; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5-df3tljit7"></a>
-10. [Defending against Adversarial Audio via Diffusion Model](https://openreview.net/forum?id=5-Df3tljit7)
-   - Shutong Wu, Jiongxiao Wang, Wei Ping, Weili Nie, Chaowei Xiao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nyr8ozfhw6i"></a>
-11. [FIGARO: Controllable Music Generation using Learned and Expert Features](https://openreview.net/forum?id=NyR8OZFHw6i)
-   - Dimitri von Rütte, Luca Biggio, Yannic Kilcher, Thomas Hofmann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fib2rjmgwq6"></a>
-12. [Filter-Recovery Network for Multi-Speaker Audio-Visual Speech Separation](https://openreview.net/forum?id=fiB2RjmgwQ6)
-   - Haoyue Cheng, Zhaoyang Liu, Wayne Wu, Limin Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9y0hfvaayd6"></a>
-13. [Hidden Markov Transformer for Simultaneous Machine Translation](https://openreview.net/forum?id=9y0HFvaAYD6)
-   - Shaolei Zhang, Yang Feng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-t2ncx-pn2k"></a>
-14. [In-Situ Text-Only Adaptation of Speech Models with Low-Overhead Speech Imputations](https://openreview.net/forum?id=T2Ncx_PN2K)
-   - Ashish Mittal, Sunita Sarawagi, Preethi Jyothi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bpwigvf5iq"></a>
-15. [Jointly Learning Visual and Auditory Speech Representations from Raw Data](https://openreview.net/forum?id=BPwIgvf5iQ)
-   - Alexandros Haliassos, Pingchuan Ma, Rodrigo Mira, Stavros Petridis, Maja Pantic; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-eldee8lyw7"></a>
-16. [NANSY++: Unified Voice Synthesis with Neural Analysis and Synthesis](https://openreview.net/forum?id=elDEe8LYW7-)
-   - Hyeong-Seok Choi, Jinhyeok Yang, Juheon Lee, Hyeongju Kim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-snglnzfqeid"></a>
-17. [Revisiting the Entropy Semiring for Neural Speech Recognition](https://openreview.net/forum?id=SNgLnzFQeiD)
-   - Oscar Chang, Dongseong Hwang, Olivier Siohan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-4du-hcijfjp"></a>
-18. [Short-Term Memory Convolutions](https://openreview.net/forum?id=4DU_HCijfJp)
-   - Grzegorz Stefański, Krzysztof Arendt, Paweł Daniluk, Bartłomiej Jasik, Artur Szumaczuk; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uvamfatc5ye"></a>
-19. [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye)
-   - Rongjie Huang, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-v8mi8ku6056"></a>
-20. [wav2tok: Deep Sequence Tokenizer for Audio Retrieval](https://openreview.net/forum?id=v8Mi8KU6056)
-   - Adhiraj Banerjee, Vipul Arora; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rdfgqiwz7lz"></a>
+1. [A Learning Based Hypothesis Test for Harmful Covariate Shift](https://openreview.net/forum?id=rdfgqiwz7lZ)
+   - Tom Ginsberg, Zhongyuan Liang, Rahul G Krishnan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-irzkt99fdjh"></a>
+2. [AGRO: Adversarial discovery of error-prone Groups for Robust Optimization](https://openreview.net/forum?id=IrzkT99fDJH)
+   - Bhargavi Paranjape, Pradeep Dasigi, Vivek Srikumar, Luke Zettlemoyer, Hannaneh Hajishirzi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k7cbyqbyyhy"></a>
+3. [Agree to Disagree: Diversity through Disagreement for Better Transferability](https://openreview.net/forum?id=K7CbYQbyYhY)
+   - Matteo Pagliardini, Martin Jaggi, François Fleuret, Sai Praneeth Karimireddy; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5baqcfvh5ql"></a>
+4. [Avoiding spurious correlations via logit correction](https://openreview.net/forum?id=5BaqCFVh5qL)
+   - Sheng Liu, Xu Zhang, Nitesh Sekhar, Yue Wu, Prateek Singhal, Carlos Fernandez-Granda; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2qznuarhn4z"></a>
+5. [Bitrate-Constrained DRO: Beyond Worst Case Robustness To Unknown Group Shifts](https://openreview.net/forum?id=2QzNuaRHn4Z)
+   - Amrith Setlur, Don Dennis, Benjamin Eysenbach, Aditi Raghunathan, Chelsea Finn, Virginia Smith, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jtaz3cmk72"></a>
+6. [Breaking Correlation Shift via Conditional Invariant Regularizer](https://openreview.net/forum?id=-jTaz3CMk72)
+   - Mingyang Yi, Ruoyu Wang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9ian4fkvsr1"></a>
+7. [Deconstructing Distributions: A Pointwise Framework of Learning](https://openreview.net/forum?id=9IaN4FkVSR1)
+   - Gal Kaplun, Nikhil Ghosh, Saurabh Garg, Boaz Barak, Preetum Nakkiran; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rvtop3mwt3n"></a>
+8. [Diversify and Disambiguate: Out-of-Distribution Robustness via Disagreement](https://openreview.net/forum?id=RVTOp3MwT3n)
+   - Yoonho Lee, Huaxiu Yao, Chelsea Finn; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lixdw7cf94j"></a>
+9. [How robust is unsupervised representation learning to distribution shift?](https://openreview.net/forum?id=LiXDW7CF94J)
+   - Yuge Shi, Imant Daunhawer, Julia E Vogt, Philip Torr, Amartya Sanyal; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zb6c8a-fghk"></a>
+10. [Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations](https://openreview.net/forum?id=Zb6c8A-Fghk)
+   - Polina Kirichenko, Pavel Izmailov, Andrew Gordon Wilson; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-moft9kef0kw"></a>
+11. [Pushing the Accuracy-Group Robustness Frontier with Introspective Self-play](https://openreview.net/forum?id=MofT9KEF0kw)
+   - Jeremiah Zhe Liu, Krishnamurthy Dj Dvijotham, Jihyeon Lee, Quan Yuan, Balaji Lakshminarayanan, Deepak Ramachandran; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kui41my8bhl"></a>
+12. [Robustness to corruption in pre-trained Bayesian neural networks](https://openreview.net/forum?id=kUI41mY8bHl)
+   - Xi Wang, Laurence Aitchison; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-3vo1y5n7k1h"></a>
+13. [StableDR: Stabilized Doubly Robust Learning for Recommendation on Data Missing Not at Random](https://openreview.net/forum?id=3VO1y5N7K1H)
+   - Haoxuan Li, Chunyuan Zheng, Peng Wu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-eiglnnx-lc"></a>
+14. [TDR-CL: Targeted Doubly Robust Collaborative Learning for Debiased Recommendations](https://openreview.net/forum?id=EIgLnNx_lC)
+   - Haoxuan Li, Yan Lyu, Chunyuan Zheng, Peng Wu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ylmq8mbnap"></a>
+15. [Topology-aware Robust Optimization for Out-of-Distribution Generalization](https://openreview.net/forum?id=ylMq8MBnAp)
+   - Fengchun Qiao, Xi Peng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-g2yraf75tj"></a>
+16. [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj)
+   - Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Zhiquan Wen, Yaofo Chen, Peilin Zhao, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ashpce-w8f"></a>
+17. [Understanding Why Generalized Reweighting Does Not Improve Over ERM](https://openreview.net/forum?id=ashPce_W8F-)
+   - Runtian Zhai, Chen Dan, J Zico Kolter, Pradeep Kumar Ravikumar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dbmtteeolbw"></a>
+18. [Understanding new tasks through the lens of training data via exponential tilting](https://openreview.net/forum?id=DBMttEEoLbw)
+   - Subha Maity, Mikhail Yurochkin, Moulinath Banerjee, Yuekai Sun; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mjsdetcdey"></a>
+19. [What Is Missing in IRM Training and Evaluation? Challenges and Solutions](https://openreview.net/forum?id=MjsDeTcDEy)
+   - Yihua Zhang, Pranay Sharma, Parikshit Ram, Mingyi Hong, Kush R. Varshney, Sijia Liu; assignment: `hdbscan`; source: `OpenReview`

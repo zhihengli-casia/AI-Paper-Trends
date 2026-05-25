@@ -1,68 +1,59 @@
-# ICLR 2022: 时间序列建模与预测
+# ICLR 2022: LLM Agent 与工具使用
 
 - Topic ID: `37`
-- Papers: **16** (1.46%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `time series / forecasting / anomaly / graph`
-- Keyword pool: time series; forecasting; anomaly; graph; traffic; multivariate; association; time-series; dependencies; sensors; imputation; spatio-temporal
+- Papers: **13** (1.23%)
+- Macro topic: 强化学习/决策
+- English keywords: `reinforcement / model-based / agents / representation learning`
+- Keyword pool: reinforcement; model-based; agents; representation learning; dynamics; observation space; procedural; distractors; observations; visual; environments; learning rl
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting
-- Graph-Guided Network for Irregularly Sampled Multivariate Time Series
-- Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks
-- PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series
-- Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting
+- Learning Generalizable Representations for Reinforcement Learning via Adaptive Meta-learner of Behavioral Similarities
+- Task-Induced Representation Learning
+- Cross-Trajectory Representation Learning for Zero-Shot Generalization in RL
+- Transfer RL across Observation Feature Spaces via Model-Based Regularization
+- Learning State Representations via Retracing in Reinforcement Learning
 
 ## Papers
 
-<a id="paper-lzqq89u1qm"></a>
-1. [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_)
-   - Jiehui Xu, Haixu Wu, Jianmin Wang, Mingsheng Long; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-l01nn-vj9i"></a>
-2. [Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future](https://openreview.net/forum?id=L01Nn_VJ9i)
-   - Harshavardhan Kamarthi, Alexander Rodríguez, B. Aditya Prakash; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pilzy3omxv2"></a>
-3. [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://openreview.net/forum?id=PilZY3omXV2)
-   - Gerald Woo, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gjnch0hj0lm"></a>
-4. [Coherence-based Label Propagation over Time Series for Accelerated Active Learning](https://openreview.net/forum?id=gjNcH0hj0LM)
-   - Yooju Shin, Susik Yoon, Sundong Kim, Hwanjun Song, Jae-Gil Lee, Byung Suk Lee; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ajar-jgnw"></a>
-5. [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://openreview.net/forum?id=AJAR-JgNw__)
-   - Wei Fan, Shun Zheng, Xiaohan Yi, Wei Cao, Yanjie Fu, Jiang Bian, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kou3-s3wj7"></a>
-6. [Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks](https://openreview.net/forum?id=kOu3-S3wJ7)
-   - Andrea Cini, Ivan Marisca, Cesare Alippi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-45l-dgp48vd"></a>
-7. [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd)
-   - Enyan Dai, Jie Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kwm8i7du-l5"></a>
-8. [Graph-Guided Network for Irregularly Sampled Multivariate Time Series](https://openreview.net/forum?id=Kwm8I7dU-l5)
-   - Xiang Zhang, Marko Zeman, Theodoros Tsiligkaridis, Marinka Zitnik; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fcg75wd39ze"></a>
-9. [LORD: Lower-Dimensional Embedding of Log-Signature in Neural Rough Differential Equations](https://openreview.net/forum?id=fCG75wd39ze)
-   - JAEHOON LEE, Jinsung Jeon, Sheo yon Jhin, Jihyeon Hyeong, Jayoung Kim, Minju Jo, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wwdg3bbybiq"></a>
-10. [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq)
-   - Hyunwook Lee, Seungmin Jin, Hyeshin Chu, Hongkyu Lim, Sungahn Ko; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pdys7z2xfgv"></a>
-11. [Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification](https://openreview.net/forum?id=PDYs7Z2XFGv)
-   - Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Michael Blumenstein, Jing Jiang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ix-mh42xq5w"></a>
-12. [PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series](https://openreview.net/forum?id=Ix_mh42xq5w)
-   - Paul Jeha, Michael Bohlke-Schneider, Pedro Mercado, Shubham Kapoor, Rajbir Singh Nirwan, Valentin Flunkert, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0exmfzun5i"></a>
-13. [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/forum?id=0EXmFzUn5I)
-   - Shizhan Liu, Hang Yu, Cong Liao, Jianguo Li, Weiyao Lin, Alex X. Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xjiajt89omg"></a>
-14. [Space-Time Graph Neural Networks](https://openreview.net/forum?id=XJiajt89Omg)
-   - Samar Hadou, Charilaos I Kanatsoulis, Alejandro Ribeiro; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-u4ufalyg7pv"></a>
-15. [T-WaveNet: A Tree-Structured Wavelet Neural Network for Time Series Signal Analysis](https://openreview.net/forum?id=U4uFaLyg7PV)
-   - Minhao LIU, Ailing Zeng, Qiuxia LAI, Ruiyuan Gao, Min Li, Jing Qin, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wv6g8fwlx2q"></a>
-16. [TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting](https://openreview.net/forum?id=wv6g8fWLX2q)
-   - Yuzhou Chen, Ignacio Segovia-Dominguez, Baris Coskunuzer, Yulia Gel; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yrq0zunzkoz"></a>
+1. [A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning](https://openreview.net/forum?id=YRq0ZUnzKoZ)
+   - Jiaxian Guo, Mingming Gong, Dacheng Tao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-srz3ghmegs"></a>
+2. [CoBERL: Contrastive BERT for Reinforcement Learning](https://openreview.net/forum?id=sRZ3GhmegS)
+   - Andrea Banino, Adria Puigdomenech Badia, Jacob C Walker, Tim Scholtes, Jovana Mitrovic, Charles Blundell; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xoh5x-vxsrv"></a>
+3. [Cross-Trajectory Representation Learning for Zero-Shot Generalization in RL](https://openreview.net/forum?id=XOh5x-vxsrV)
+   - Bogdan Mazoure, Ahmed M Ahmed, R Devon Hjelm, Andrey Kolobov, Patrick MacAlpine; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dfujyyrw90"></a>
+4. [Information Prioritization through Empowerment in Visual Model-based RL](https://openreview.net/forum?id=DfUjyyRW90)
+   - Homanga Bharadhwaj, Mohammad Babaeizadeh, Dumitru Erhan, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zboi9lfpesk"></a>
+5. [Learning Generalizable Representations for Reinforcement Learning via Adaptive Meta-learner of Behavioral Similarities](https://openreview.net/forum?id=zBOI9LFpESK)
+   - Jianda Chen, Sinno Pan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-clpxpxqqbv"></a>
+6. [Learning State Representations via Retracing in Reinforcement Learning](https://openreview.net/forum?id=CLpxpXqqBV)
+   - Changmin Yu, Dong Li, Jianye HAO, Jun Wang, Neil Burgess; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-sq0-tgdyhe4"></a>
+7. [Local Feature Swapping for Generalization in Reinforcement Learning](https://openreview.net/forum?id=Sq0-tgDyHe4)
+   - David Bertoin, Emmanuel Rachelson; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fmbegxjtoy"></a>
+8. [Procedural generalization by planning with self-supervised world models](https://openreview.net/forum?id=FmBegXJToY)
+   - Ankesh Anand, Jacob C Walker, Yazhe Li, Eszter Vértes, Julian Schrittwieser, Sherjil Ozair, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rqllzmcefqu"></a>
+9. [Provably Filtering Exogenous Distractors using Multistep Inverse Dynamics](https://openreview.net/forum?id=RQLLzMCefQu)
+   - Yonathan Efroni, Dipendra Misra, Akshay Krishnamurthy, Alekh Agarwal, John Langford; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ozyxtizazfv"></a>
+10. [Task-Induced Representation Learning](https://openreview.net/forum?id=OzyXtIZAzFv)
+   - Jun Yamada, Karl Pertsch, Anisha Gunjal, Joseph J Lim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8eb12uqyxrg"></a>
+11. [The Role of Pretrained Representations for the OOD Generalization of RL Agents](https://openreview.net/forum?id=8eb12UQYxrG)
+   - Frederik Träuble, Andrea Dittadi, Manuel Wuthrich, Felix Widmaier, Peter Vincent Gehler, Ole Winther, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7kdaoosi81c"></a>
+12. [Transfer RL across Observation Feature Spaces via Model-Based Regularization](https://openreview.net/forum?id=7KdAoOsI81C)
+   - Yanchao Sun, Ruijie Zheng, Xiyao Wang, Andrew E Cohen, Furong Huang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rjkahkp7knz"></a>
+13. [Vision-Based Manipulators Need to Also See from Their Hands](https://openreview.net/forum?id=RJkAHKp7kNZ)
+   - Kyle Hsu, Moo Jin Kim, Rafael Rafailov, Jiajun Wu, Chelsea Finn; assignment: `hdbscan`; source: `OpenReview`

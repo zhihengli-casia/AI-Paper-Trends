@@ -1,65 +1,68 @@
-# ICLR 2023: 凸/非凸优化理论
+# ICLR 2023: 规划搜索与决策推理
 
 - Topic ID: `46`
-- Papers: **15** (0.95%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `transport / wasserstein / optimal / distance`
-- Keyword pool: transport; wasserstein; optimal; distance; convex; integration time; conjugate; projections; mass; transform; probability measures; hmc
+- Papers: **16** (1.05%)
+- Macro topic: 强化学习/决策
+- English keywords: `planning / reinforcement / policy / actions`
+- Keyword pool: planning; reinforcement; policy; actions; recourse; exploration; goal-conditioned; control; noise; planner; actor-critic; agent
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Efficient Discrete Multi Marginal Optimal Transport Regularization
-- Sparsity-Constrained Optimal Transport
-- On amortizing convex conjugates for optimal transport
-- Neural Optimal Transport
-- Riemannian Metric Learning via Optimal Transport
+- Making Better Decision by Directly Planning in Continuous Control
+- Solving Continuous Control via Q-learning
+- Imitating Graph-Based Planning with Goal-Conditioned Policies
+- Timing is Everything: Learning to Act Selectively with Costly Actions and Budgetary Constraints
+- Critic Sequential Monte Carlo
 
 ## Papers
 
-<a id="paper-amxd8gqsiic"></a>
-1. [A Higher Precision Algorithm for Computing the $1$-Wasserstein Distance](https://openreview.net/forum?id=aMXD8gqsIiC)
-   - Pankaj K Agarwal, Sharath Raghvendra, Pouyan Shirzadian, Rachita Sowle; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fbry1xvfwk"></a>
-2. [Accelerating Hamiltonian Monte Carlo via Chebyshev Integration Time](https://openreview.net/forum?id=FbRY1XVfwK)
-   - Jun-Kun Wang, Andre Wibisono; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-gwcqajoxnf"></a>
-3. [Computing all Optimal Partial Transports](https://openreview.net/forum?id=gwcQajoXNF)
-   - Abhijeet Phatak, Sharath Raghvendra, CHITTARANJAN TRIPATHY, Kaiyi Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-r98zfmt-je"></a>
-4. [Efficient Discrete Multi Marginal Optimal Transport Regularization](https://openreview.net/forum?id=R98ZfMt-jE)
-   - Ronak Mehta, Jeffery Kline, Vishnu Suresh Lokhande, Glenn Fung, Vikas Singh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cuoavn6myej"></a>
-5. [Hierarchical Sliced Wasserstein Distance](https://openreview.net/forum?id=CUOaVn6mYEj)
-   - Khai Nguyen, Tongzheng Ren, Huy Nguyen, Litu Rout, Tan Minh Nguyen, Nhat Ho; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zuc-mhtuma4"></a>
-6. [Kernel Neural Optimal Transport](https://openreview.net/forum?id=Zuc_MHtUma4)
-   - Alexander Korotin, Daniil Selikhanovych, Evgeny Burnaev; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p3pjokaqgw"></a>
-7. [Learning with Stochastic Orders](https://openreview.net/forum?id=P3PJokAqGW)
-   - Carles Domingo-Enrich, Yair Schiff, Youssef Mroueh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vcj9-ri-6xu"></a>
-8. [Momentum Stiefel Optimizer, with Applications to Suitably-Orthogonal Attention, and Optimal Transport](https://openreview.net/forum?id=vCJ9-Ri-6xU)
-   - Lingkai Kong, Yuqing Wang, Molei Tao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-d8cbrlwnkqh"></a>
-9. [Neural Optimal Transport](https://openreview.net/forum?id=d8CBRlWNkqH)
-   - Alexander Korotin, Daniil Selikhanovych, Evgeny Burnaev; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tq5wuws-4ai"></a>
-10. [On amortizing convex conjugates for optimal transport](https://openreview.net/forum?id=TQ5WUwS_4ai)
-   - Brandon Amos; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-v3y68gz-wez"></a>
-11. [Riemannian Metric Learning via Optimal Transport](https://openreview.net/forum?id=v3y68gz-WEz)
-   - Christopher Scarvelis, Justin Solomon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yhy9nbqj5bp"></a>
-12. [Sparsity-Constrained Optimal Transport](https://openreview.net/forum?id=yHY9NbQJ5BP)
-   - Tianlin Liu, Joan Puigcerver, Mathieu Blondel; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jxq0ipgmdu"></a>
-13. [Spherical Sliced-Wasserstein](https://openreview.net/forum?id=jXQ0ipgMdU)
-   - Clément Bonet, Paul Berg, Nicolas Courty, François Septier, Lucas Drumetz, Minh Tan Pham; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lupjsrkitz4"></a>
-14. [Unsupervised Manifold Alignment with Joint Multidimensional Scaling](https://openreview.net/forum?id=lUpjsrKItz4)
-   - Dexiong Chen, Bowen Fan, Carlos Oliver, Karsten Borgwardt; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-evrz7um-zdm"></a>
-15. [Volumetric Optimal Transportation by Fast Fourier Transform](https://openreview.net/forum?id=EVrz7UM-ZDm)
-   - Na Lei, DONGSHENG An, Min Zhang, Xiaoyin Xu, David Gu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-obtgcykmwna"></a>
+1. [Critic Sequential Monte Carlo](https://openreview.net/forum?id=ObtGcyKmwna)
+   - Vasileios Lioutas, Jonathan Wilder Lavington, Justice Sefas, Matthew Niedoba, Yunpeng Liu, Berend Zwartsenberg, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lgkmuaubul"></a>
+2. [Distributional Meta-Gradient Reinforcement Learning](https://openreview.net/forum?id=LGkmUauBUL)
+   - Haiyan Yin, Shuicheng YAN, Zhongwen Xu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-e3ip6qblf7"></a>
+3. [Distributionally Robust Recourse Action](https://openreview.net/forum?id=E3ip6qBLF7)
+   - Duy Nguyen, Ngoc Bui, Viet Anh Nguyen; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-7jsgyvje88d"></a>
+4. [Fast and Precise: Adjusting Planning Horizon with Adaptive Subgoal Search](https://openreview.net/forum?id=7JsGYvjE88d)
+   - Michał Zawalski, Michał Tyrolski, Konrad Czechowski, Tomasz Odrzygóźdź, Damian Stachura, Piotr Piękos, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-esqh8rg8oa"></a>
+5. [Greedy Actor-Critic: A New Conditional Cross-Entropy Method for Policy Improvement](https://openreview.net/forum?id=eSQh8rG8Oa)
+   - Samuel Neumann, Sungsu Lim, Ajin George Joseph, Yangchen Pan, Adam White, Martha White; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o5rkg7irqio"></a>
+6. [Guarded Policy Optimization with Imperfect Online Demonstrations](https://openreview.net/forum?id=O5rKg7IRQIO)
+   - Zhenghai Xue, Zhenghao Peng, Quanyi Li, Zhihan Liu, Bolei Zhou; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-zzqboifoq1"></a>
+7. [Guiding Safe Exploration with Weakest Preconditions](https://openreview.net/forum?id=zzqBoIFOQ1)
+   - Greg Anderson, Swarat Chaudhuri, Isil Dillig; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-6luey1j5r7p"></a>
+8. [Imitating Graph-Based Planning with Goal-Conditioned Policies](https://openreview.net/forum?id=6lUEy1J5R7p)
+   - Junsu Kim, Younggyo Seo, Sungsoo Ahn, Kyunghwan Son, Jinwoo Shin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-r8mu7idxyf"></a>
+9. [Making Better Decision by Directly Planning in Continuous Control](https://openreview.net/forum?id=r8Mu7idxyF)
+   - Jinhua Zhu, Yue Wang, Lijun Wu, Tao Qin, Wengang Zhou, Tie-Yan Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-v69itrhleu"></a>
+10. [Outcome-directed Reinforcement Learning by Uncertainty \& Temporal Distance-Aware Curriculum Goal Generation](https://openreview.net/forum?id=v69itrHLEu)
+   - Daesol Cho, Seungjae Lee, H. Jin Kim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hq9v5qn27es"></a>
+11. [Pink Noise Is All You Need: Colored Noise Exploration in Deep Reinforcement Learning](https://openreview.net/forum?id=hQ9V5QN27eS)
+   - Onno Eberhard, Jakob Hollenstein, Cristina Pinneri, Georg Martius; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6qebuzso7pr"></a>
+12. [Planning Goals for Exploration](https://openreview.net/forum?id=6qeBuZSo7Pr)
+   - Edward S. Hu, Richard Chang, Oleh Rybkin, Dinesh Jayaraman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-smufndn90g"></a>
+13. [Policy-Based Self-Competition for Planning Problems](https://openreview.net/forum?id=SmufNDN90G)
+   - Jonathan Pirnay, Quirin Göttl, Jakob Burger, Dominik Gerhard Grimm; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pybe4mohf32"></a>
+14. [Scaling up and Stabilizing Differentiable Planning with Implicit Differentiation](https://openreview.net/forum?id=PYbe4MoHf32)
+   - Linfeng Zhao, Huazhe Xu, Lawson L.S. Wong; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-u5xogxagccs"></a>
+15. [Solving Continuous Control via Q-learning](https://openreview.net/forum?id=U5XOGxAgccS)
+   - Tim Seyde, Peter Werner, Wilko Schwarting, Igor Gilitschenski, Martin Riedmiller, Daniela Rus, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-boped4tyww"></a>
+16. [Timing is Everything: Learning to Act Selectively with Costly Actions and Budgetary Constraints](https://openreview.net/forum?id=_BoPed4tYww)
+   - David Henry Mguni, Aivar Sootla, Juliusz Krzysztof Ziomek, Oliver Slumbers, Zipeng Dai, Kun Shao, et al.; assignment: `nearest_centroid`; source: `OpenReview`

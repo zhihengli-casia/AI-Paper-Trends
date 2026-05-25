@@ -1,104 +1,113 @@
-# ICLR 2022: shifts / ood / uncertainty / distribution shift
+# ICLR 2022: 随机优化与收敛理论
 
 - Topic ID: `4`
-- Papers: **28** (2.56%)
-- Macro topic: 计算机视觉
-- English keywords: `shifts / ood / uncertainty / distribution shift`
-- Keyword pool: shifts; ood; uncertainty; distribution shift; out-of-distribution; confidence; detection; demographic; fine-tuning; counterfactual; wilds; covariate
+- Papers: **31** (2.92%)
+- Macro topic: 理论/优化
+- English keywords: `sgd / convex / learning rate / kernel`
+- Keyword pool: sgd; convex; learning rate; kernel; gradient; relu; descent; minima; regularization; implicit; bias; matrix
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- A Fine-Grained Analysis on Distribution Shift
-- Leveraging unlabeled data to predict out-of-distribution performance
-- A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks
-- Tracking the risk of a deployed model and detecting harmful distribution shifts
-- Uncertainty Modeling for Out-of-Distribution Generalization
+- On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications
+- Training invariances and the low-rank phenomenon: beyond linear networks
+- Implicit Bias of MSE Gradient Optimization in Underparameterized Neural Networks
+- Learning Curves for SGD on Structured Features
+- The Hidden Convex Optimization Landscape of Regularized Two-Layer ReLU Networks: an Exact Characterization of Optimal Solutions
 
 ## Papers
 
-<a id="paper-dl4letuldyk"></a>
-1. [A Fine-Grained Analysis on Distribution Shift](https://openreview.net/forum?id=Dl4LetuLdyK)
-   - Olivia Wiles, Sven Gowal, Florian Stimberg, Sylvestre-Alvise Rebuffi, Ira Ktena, Krishnamurthy Dj Dvijotham, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oy9weuzd51"></a>
-2. [A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks](https://openreview.net/forum?id=Oy9WeuZD51)
-   - Matan Haroush, Tzviel Frostig, Ruth Heller, Daniel Soudry; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kb5ononjiau"></a>
-3. [Comparing Distributions by Measuring Differences that Affect Decision Making](https://openreview.net/forum?id=KB5onONJIAU)
-   - Shengjia Zhao, Abhishek Sinha, Yutong He, Aidan Perreault, Jiaming Song, Stefano Ermon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-noag7srpvk0"></a>
-4. [Counterfactual Plans under Distributional Ambiguity](https://openreview.net/forum?id=noaG7SrPVK0)
-   - Ngoc Bui, Duy Nguyen, Viet Anh Nguyen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-a34grnayecs"></a>
-5. [Distributionally Robust Models with Parametric Likelihood Ratios](https://openreview.net/forum?id=a34GrNaYEcS)
-   - Paul Michel, Tatsunori Hashimoto, Graham Neubig; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-fpcmqji0jxn"></a>
-6. [Domino: Discovering Systematic Errors with Cross-Modal Embeddings](https://openreview.net/forum?id=FPCMqjI0jXN)
-   - Sabri Eyuboglu, Maya Varma, Khaled Kamal Saab, Jean-Benoit Delbrouck, Christopher Lee-Messer, Jared Dunnmon, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-z7p2v6kroov"></a>
-7. [Extending the WILDS Benchmark for Unsupervised Adaptation](https://openreview.net/forum?id=z7p2V6KROOV)
-   - Shiori Sagawa, Pang Wei Koh, Tony Lee, Irena Gao, Sang Michael Xie, Kendrick Shen, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wbpoblm6uea"></a>
-8. [Fairness Guarantees under Demographic Shift](https://openreview.net/forum?id=wbPObLm6ueA)
-   - Stephen Giguere, Blossom Metevier, Bruno Castro da Silva, Yuriy Brun, Philip S. Thomas, Scott Niekum; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-uynefzxsjwh"></a>
-9. [Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution](https://openreview.net/forum?id=UYneFzXSJWh)
-   - Ananya Kumar, Aditi Raghunathan, Robbie Matthew Jones, Tengyu Ma, Percy Liang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-irarv-2vfs4"></a>
-10. [Focus on the Common Good: Group Distributional Robustness Follows](https://openreview.net/forum?id=irARV_2VFs4)
-   - Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-yigklmjwjye"></a>
-11. [Generalized Demographic Parity for Group Fairness](https://openreview.net/forum?id=YigKlMJwjye)
-   - Zhimeng Jiang, Xiaotian Han, Chao Fan, Fan Yang, Ali Mostafavi, Xia Hu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-fqoc5u-1egi"></a>
-12. [Handling Distribution Shifts on Graphs: An Invariance Perspective](https://openreview.net/forum?id=FQOC5u-1egI)
-   - Qitian Wu, Hengrui Zhang, Junchi Yan, David Wipf; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gfdfkc4ghl4"></a>
-13. [How Did the Model Change? Efficiently Assessing Machine Learning API Shifts](https://openreview.net/forum?id=gFDFKC4gHL4)
-   - Lingjiao Chen, Matei Zaharia, James Zou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mfwdy3u-9ea"></a>
-14. [Igeood: An Information Geometry Approach to Out-of-Distribution Detection](https://openreview.net/forum?id=mfwdY3U_9ea)
-   - Eduardo Dadalto Camara Gomes, Florence Alberge, Pierre Duhamel, Pablo Piantanida; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-uqbone3luky"></a>
-15. [Is Importance Weighting Incompatible with Interpolating Classifiers?](https://openreview.net/forum?id=uqBOne3LUKy)
-   - Ke Alexander Wang, Niladri Shekhar Chatterji, Saminul Haque, Tatsunori Hashimoto; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-t8o-4lkfvx"></a>
-16. [Learning Optimal Conformal Classifiers](https://openreview.net/forum?id=t8O-4LKFVx)
-   - David Stutz, Krishnamurthy Dj Dvijotham, Ali Taylan Cemgil, Arnaud Doucet; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-o-hsimpyh-x"></a>
-17. [Leveraging unlabeled data to predict out-of-distribution performance](https://openreview.net/forum?id=o_HsiMPYh_x)
-   - Saurabh Garg, Sivaraman Balakrishnan, Zachary Chase Lipton, Behnam Neyshabur, Hanie Sedghi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gqd7mxspua"></a>
-18. [Meta Learning Low Rank Covariance Factors for Energy Based Deterministic Uncertainty](https://openreview.net/forum?id=GQd7mXSPua)
-   - Jeffrey Ryan Willette, Hae Beom Lee, Juho Lee, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mtex8qkavos"></a>
-19. [MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts](https://openreview.net/forum?id=MTex8qKavoS)
-   - Weixin Liang, James Zou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-apopxlnv1t"></a>
-20. [On the Pitfalls of Heteroscedastic Uncertainty Estimation with Probabilistic Neural Networks](https://openreview.net/forum?id=aPOpXlnV1T)
-   - Maximilian Seitzer, Arash Tavakoli, Dimitrije Antic, Georg Martius; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rf58lpcwjj0"></a>
-21. [Optimal Representations for Covariate Shift](https://openreview.net/forum?id=Rf58LPCwJj0)
-   - Yangjun Ruan, Yann Dubois, Chris J. Maddison; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dhp9l8viylc"></a>
-22. [PAC Prediction Sets Under Covariate Shift](https://openreview.net/forum?id=DhP9L8vIyLc)
-   - Sangdon Park, Edgar Dobriban, Insup Lee, Osbert Bastani; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nob8ygruofu"></a>
-23. [PI3NN: Out-of-distribution-aware Prediction Intervals from Three Neural Networks](https://openreview.net/forum?id=NoB8YgRuoFU)
-   - Siyan Liu, Pei Zhang, Dan Lu, Guannan Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6y2kbh-0fd9"></a>
-24. [Revisiting flow generative models for Out-of-distribution detection](https://openreview.net/forum?id=6y2KBh-0Fd9)
-   - Dihong Jiang, Sun Sun, Yaoliang Yu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xenf4qul4lw"></a>
-25. [Sample Selection with Uncertainty of Losses for Learning with Noisy Labels](https://openreview.net/forum?id=xENf4QUL4LW)
-   - Xiaobo Xia, Tongliang Liu, Bo Han, Mingming Gong, Jun Yu, Gang Niu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ro-zajzppv"></a>
-26. [Tracking the risk of a deployed model and detecting harmful distribution shifts](https://openreview.net/forum?id=Ro_zAjZppv)
-   - Aleksandr Podkopaev, Aaditya Ramdas; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6hn7lhyzggc"></a>
-27. [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/forum?id=6HN7LHyzGgC)
-   - Xiaotong Li, Yongxing Dai, Yixiao Ge, Jun Liu, Ying Shan, LINGYU DUAN; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tw7d65uyu5m"></a>
-28. [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://openreview.net/forum?id=TW7d65uYu5M)
-   - Xuefeng Du, Zhaoning Wang, Mu Cai, Yixuan Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-14f3fi6mgxx"></a>
+1. [A Generalized Weighted Optimization Method for Computational Learning and Inversion](https://openreview.net/forum?id=14F3fI6MGxX)
+   - Kui Ren, Yunan Yang, Björn Engquist; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yx0lrvdpqc"></a>
+2. [A Johnson-Lindenstrauss Framework for Randomly Initialized CNNs](https://openreview.net/forum?id=YX0lrvdPQc)
+   - Ido Nachum, Jan Hazla, Michael Gastpar, Anatoly Khina; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wvogceaqhxl"></a>
+3. [Assessing Generalization of SGD via Disagreement](https://openreview.net/forum?id=WvOGCEAQhxl)
+   - Yiding Jiang, Vaishnavh Nagarajan, Christina Baek, J Zico Kolter; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-2f1z55gvqn"></a>
+4. [Critical Points in Quantum Generative Models](https://openreview.net/forum?id=2f1z55GVQN)
+   - Eric Ricardo Anschuetz; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6xggutacq0b"></a>
+5. [Demystifying Batch Normalization in ReLU Networks: Equivalent Convex Optimization Models and Implicit Regularization](https://openreview.net/forum?id=6XGgutacQ0B)
+   - Tolga Ergen, Arda Sahiner, Batu Ozturkler, John M. Pauly, Morteza Mardani, Mert Pilanci; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n0oetdnrg0q"></a>
+6. [Efficient Sharpness-aware Minimization for Improved Training of Neural Networks](https://openreview.net/forum?id=n0OeTdNRG0Q)
+   - Jiawei Du, Hanshu Yan, Jiashi Feng, Joey Tianyi Zhou, Liangli Zhen, Rick Siow Mong Goh, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-rtaclwh46tb"></a>
+7. [Eigencurve: Optimal Learning Rate Schedule for SGD on Quadratic Objectives with Skewed Hessian Spectrums](https://openreview.net/forum?id=rTAclwH46Tb)
+   - Rui Pan, Haishan Ye, Tong Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-b3nde6lvab"></a>
+8. [Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noise](https://openreview.net/forum?id=B3Nde6lvab)
+   - Xingyu Wang, Sewoong Oh, Chang-Han Rhee; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ibqtbnfjmi"></a>
+9. [Frequency-aware SGD for Efficient Embedding Learning with Provable Benefits](https://openreview.net/forum?id=ibqTBNfJmi)
+   - Yan Li, Dhruv Choudhary, Xiaohan Wei, Baichuan Yuan, Bhargav Bhushanam, Tuo Zhao, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9-rfew334n"></a>
+10. [Givens Coordinate Descent Methods for Rotation Matrix Learning in Trainable Embedding Indexes](https://openreview.net/forum?id=9-Rfew334N)
+   - Yunjiang Jiang, Han Zhang, Yiming Qiu, Yun Xiao, Bo Long, Wen-Yun Yang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-chmltgrjfcu"></a>
+11. [How many degrees of freedom do we need to train deep networks: a loss landscape perspective](https://openreview.net/forum?id=ChMLTGRjFcU)
+   - Brett W Larsen, Stanislav Fort, Nic Becker, Surya Ganguli; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vlgmhqdvbv"></a>
+12. [Implicit Bias of MSE Gradient Optimization in Underparameterized Neural Networks](https://openreview.net/forum?id=VLgmhQDVBV)
+   - Benjamin Bowman, Guido Montufar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3tbdrs77lj5"></a>
+13. [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://openreview.net/forum?id=3tbDrs77LJ5)
+   - Yuqing Wang, Minshuo Chen, Tuo Zhao, Molei Tao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kei9e-gsob"></a>
+14. [Learning Curves for Gaussian Process Regression with Power-Law Priors and Targets](https://openreview.net/forum?id=KeI9E-gsoB)
+   - Hui Jin, Pradeep Kr. Banerjee, Guido Montufar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wpi2vbkal3q"></a>
+15. [Learning Curves for SGD on Structured Features](https://openreview.net/forum?id=WPI2vbkAl3Q)
+   - Blake Bordelon, Cengiz Pehlevan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5i7ljluhtm"></a>
+16. [Learning by Directional Gradient Descent](https://openreview.net/forum?id=5i7lJLuhTm)
+   - David Silver, Anirudh Goyal, Ivo Danihelka, Matteo Hessel, Hado van Hasselt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6yvik0sakf"></a>
+17. [Multi-Mode Deep Matrix and Tensor Factorization](https://openreview.net/forum?id=6YVIk0sAkF_)
+   - Jicong Fan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1nvflqadoom"></a>
+18. [Neural Networks as Kernel Learners: The Silent Alignment Effect](https://openreview.net/forum?id=1NvflqAdoom)
+   - Alexander Atanasov, Blake Bordelon, Cengiz Pehlevan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-owzsq8o5ea"></a>
+19. [On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications](https://openreview.net/forum?id=oWZsQ8o5EA)
+   - Ziqiao Wang, Yongyi Mao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-6tmjoym9lr6"></a>
+20. [Stability Regularization for Discrete Representation Learning](https://openreview.net/forum?id=6tmjoym9LR6)
+   - Adeel Pervez, Efstratios Gavves; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-zbeseiub5k"></a>
+21. [Stochastic Training is Not Necessary for Generalization](https://openreview.net/forum?id=ZBESeIUB5k)
+   - Jonas Geiping, Micah Goldblum, Phil Pope, Michael Moeller, Tom Goldstein; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-edonmanhlu"></a>
+22. [Surrogate Gap Minimization Improves Sharpness-Aware Training](https://openreview.net/forum?id=edONMAnhLu-)
+   - Juntang Zhuang, Boqing Gong, Liangzhe Yuan, Yin Cui, Hartwig Adam, Nicha C Dvornek, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-5qhue1qivc6"></a>
+23. [The Convex Geometry of Backpropagation: Neural Network Gradient Flows Converge to Extreme Points of the Dual Convex Program](https://openreview.net/forum?id=5QhUE1qiVC6)
+   - Yifei Wang, Mert Pilanci; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-z7lk2cqeg8a"></a>
+24. [The Hidden Convex Optimization Landscape of Regularized Two-Layer ReLU Networks: an Exact Characterization of Optimal Solutions](https://openreview.net/forum?id=Z7Lk2cQEG8a)
+   - Yifei Wang, Jonathan Lacotte, Mert Pilanci; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dnigytemkl"></a>
+25. [The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks](https://openreview.net/forum?id=dNigytemkL)
+   - Rahim Entezari, Hanie Sedghi, Olga Saukh, Behnam Neyshabur; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-p7flfmltsex"></a>
+26. [The Spectral Bias of Polynomial Neural Networks](https://openreview.net/forum?id=P7FLfMLTSEX)
+   - Moulik Choraria, Leello Tadesse Dadi, Grigorios Chrysos, Julien Mairal, Volkan Cevher; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-eqmap4f859"></a>
+27. [The Three Stages of Learning Dynamics in High-dimensional Kernel Methods](https://openreview.net/forum?id=EQmAP4F859)
+   - Nikhil Ghosh, Song Mei, Bin Yu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rs9-7aupkwk"></a>
+28. [Towards Understanding Generalization via Decomposing Excess Risk Dynamics](https://openreview.net/forum?id=rS9-7AuPKWK)
+   - Jiaye Teng, Jianhao Ma, Yang Yuan; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mduyt5qv0o"></a>
+29. [Training Structured Neural Networks Through Manifold Identification and Variance Reduction](https://openreview.net/forum?id=mdUYT5QV0O)
+   - Zih-Syuan Huang, Ching-pei Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xew8cqgarno"></a>
+30. [Training invariances and the low-rank phenomenon: beyond linear networks](https://openreview.net/forum?id=XEW8CQgArno)
+   - Thien Le, Stefanie Jegelka; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sict4xzn5ve"></a>
+31. [What Happens after SGD Reaches Zero Loss? --A Mathematical Framework](https://openreview.net/forum?id=siCt4xZn5Ve)
+   - Zhiyuan Li, Tianhao Wang, Sanjeev Arora; assignment: `hdbscan`; source: `OpenReview`

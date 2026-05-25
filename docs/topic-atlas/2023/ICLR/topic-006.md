@@ -1,122 +1,101 @@
-# ICLR 2023: flow / variational / neural processes / bayesian
+# ICLR 2023: 对抗攻击、鲁棒性与安全
 
 - Topic ID: `6`
-- Papers: **34** (2.16%)
-- Macro topic: 生成模型
-- English keywords: `flow / variational / neural processes / bayesian`
-- Keyword pool: flow; variational; neural processes; bayesian; normalizing; meta-learning; paths; point process; continuous; posterior; generative; symbolic regression
+- Papers: **27** (1.76%)
+- Macro topic: 可信/安全/公平
+- English keywords: `adversarial / attack / examples / transferability`
+- Keyword pool: adversarial; attack; examples; transferability; backdoor; defense; noise; decision boundary; robust; augmentation; poisoning; perturbations
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Deep Variational Implicit Processes
-- Accurate Bayesian Meta-Learning by Accurate Task Posterior Inference
-- Building Normalizing Flows with Stochastic Interpolants
-- Versatile Neural Processes for Learning Implicit Neural Representations
-- Learning in temporally structured environments
+- Inequality phenomenon in $l_{\infty}$-adversarial training, and its unrealized threats
+- Why adversarial training can hurt robust accuracy
+- Making Substitute Models More Bayesian Can Enhance Transferability of Adversarial Examples
+- Rethinking the Effect of Data Augmentation in Adversarial Contrastive Learning
+- On Achieving Optimal Adversarial Test Error
 
 ## Papers
 
-<a id="paper-sb-iks8dqw2"></a>
-1. [Accurate Bayesian Meta-Learning by Accurate Task Posterior Inference](https://openreview.net/forum?id=sb-IkS8DQw2)
-   - Michael Volpp, Philipp Dahlinger, Philipp Becker, Christian Daniel, Gerhard Neumann; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-a2-aoqmeym4"></a>
-2. [Approximate Bayesian Inference with Stein Functional Variational Gradient Descent](https://openreview.net/forum?id=a2-aoqmeYM4)
-   - Tobias Pielok, Bernd Bischl, David Rügamer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oasxfpbftbh"></a>
-3. [Autoregressive Conditional Neural Processes](https://openreview.net/forum?id=OAsXFPBfTBh)
-   - Wessel Bruinsma, Stratis Markou, James Requeima, Andrew Y. K. Foong, Tom Andersson, Anna Vaughan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-a7v2dqljzdq"></a>
-4. [Bridge the Inference Gaps of Neural Processes via Expectation Maximization](https://openreview.net/forum?id=A7v2DqLjZdq)
-   - Qi Wang, Marco Federici, Herke van Hoof; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-li7qebbcr1t"></a>
-5. [Building Normalizing Flows with Stochastic Interpolants](https://openreview.net/forum?id=li7qeBbCR1t)
-   - Michael Samuel Albergo, Eric Vanden-Eijnden; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5o2uzdusen5"></a>
-6. [DFlow: Learning to Synthesize Better Optical Flow Datasets via a Differentiable Pipeline](https://openreview.net/forum?id=5O2uzDusEN5)
-   - Kwon Byung-Ki, Nam Hyeon-Woo, Ji-Yun Kim, Tae-Hyun Oh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-o7koeema1br"></a>
-7. [Deep Generative Symbolic Regression](https://openreview.net/forum?id=o7koEEMA1bR)
-   - Samuel Holt, Zhaozhi Qian, Mihaela van der Schaar; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-8aesjnbmbqq"></a>
-8. [Deep Variational Implicit Processes](https://openreview.net/forum?id=8aeSJNbmbQq)
-   - Luis A. Ortega, Simon Rodriguez Santana, Daniel Hernández-Lobato; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dzrqr7or11"></a>
-9. [Federated Learning as Variational Inference: A Scalable Expectation Propagation Approach](https://openreview.net/forum?id=dZrQR7OR11)
-   - Han Guo, Philip Greengard, Hongyi Wang, Andrew Gelman, Yoon Kim, Eric Xing; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xctvfjws9lj"></a>
-10. [Flow Annealed Importance Sampling Bootstrap](https://openreview.net/forum?id=XCTVFJwS9LJ)
-   - Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, Bernhard Schölkopf, José Miguel Hernández-Lobato; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pqvmrdcjt9t"></a>
-11. [Flow Matching for Generative Modeling](https://openreview.net/forum?id=PqvMRDCJT9t)
-   - Yaron Lipman, Ricky T. Q. Chen, Heli Ben-Hamu, Maximilian Nickel, Matthew Le; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xvjtt1nw5z"></a>
-12. [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://openreview.net/forum?id=XVjTT1nw5z)
-   - Xingchao Liu, Chengyue Gong, qiang liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-89gt-s49mgd"></a>
-13. [Function-space regularized Rényi divergences](https://openreview.net/forum?id=89GT-S49mGd)
-   - Jeremiah Birrell, Yannis Pantazis, Paul Dupuis, Luc Rey-Bellet, Markos Katsoulakis; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-bt4n-v7clrk"></a>
-14. [FunkNN: Neural Interpolation for Functional Generation](https://openreview.net/forum?id=BT4N_v7CLrk)
-   - AmirEhsan Khorashadizadeh, Anadi Chaman, Valentin Debarnot, Ivan Dokmanić; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ukie0vilua"></a>
-15. [GFlowNets and variational inference](https://openreview.net/forum?id=uKiE0VIluA-)
-   - Nikolay Malkin, Salem Lahlou, Tristan Deleu, Xu Ji, Edward J Hu, Katie E Everett, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yixtevizea"></a>
-16. [Latent Bottlenecked Attentive Neural Processes](https://openreview.net/forum?id=yIxtevizEA)
-   - Leo Feng, Hossein Hajimirsadeghi, Yoshua Bengio, Mohamed Osama Ahmed; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6ieotr-jeb7"></a>
-17. [Learning Continuous Normalizing Flows For Faster Convergence To Target Distribution via Ascent Regularizations](https://openreview.net/forum?id=6iEoTr-jeB7)
-   - Shuangshuang Chen, Sihao Ding, Yiannis Karayiannidis, Mårten Björkman; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qu6nicpasi"></a>
-18. [Learning Heterogeneous Interaction Strengths by Trajectory Prediction with Graph Neural Network](https://openreview.net/forum?id=qU6NIcpaSi-)
-   - Seungwoong Ha, Hawoong Jeong; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-z0-v5o9cmnw"></a>
-19. [Learning in temporally structured environments](https://openreview.net/forum?id=z0_V5O9cmNw)
-   - Matt Jones, Tyler R. Scott, Mengye Ren, Gamaleldin Fathy Elsayed, Katherine Hermann, David Mayo, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-2vmgv5wpdbz"></a>
-20. [Learning to Estimate Single-View Volumetric Flow Motions without 3D Supervision](https://openreview.net/forum?id=2vmGv5wPDBZ)
-   - Aleksandra Franz, Barbara Solenthaler, Nils Thuerey; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cgbctp2m6la"></a>
-21. [Leveraging Future Relationship Reasoning for Vehicle Trajectory Prediction](https://openreview.net/forum?id=CGBCTp2M6lA)
-   - Daehee Park, Hobin Ryu, Yunseo Yang, Jegyeong Cho, Jiwon Kim, Kuk-Jin Yoon; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-wagxmt8berj"></a>
-22. [MARS: Meta-learning as Score Matching in the Function Space](https://openreview.net/forum?id=WAgXmT8BeRj)
-   - Krunoslav Lehman Pavasovic, Jonas Rothfuss, Andreas Krause; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9pvqz-ir"></a>
-23. [Martingale Posterior Neural Processes](https://openreview.net/forum?id=-9PVqZ-IR_)
-   - Hyungi Lee, Eunggu Yun, Giung Nam, Edwin Fong, Juho Lee; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qzfddptx1um"></a>
-24. [Meta Temporal Point Processes](https://openreview.net/forum?id=QZfdDpTX1uM)
-   - Wonho Bae, Mohamed Osama Ahmed, Frederick Tung, Gabriel L. Oliveira; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6ophwwae3cs"></a>
-25. [Particle-based Variational Inference with Preconditioned Functional Gradient Flow](https://openreview.net/forum?id=6OphWWAE3cS)
-   - Hanze Dong, Xi Wang, LIN Yong, Tong Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zwy7dqocel"></a>
-26. [Sampling with Mollified Interaction Energy Descent](https://openreview.net/forum?id=zWy7dqOcel)
-   - Lingxiao Li, qiang liu, Anna Korba, Mikhail Yurochkin, Justin Solomon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-aodyx6vsqsd"></a>
-27. [Sampling-based inference for large linear models, with application to linearised Laplace](https://openreview.net/forum?id=aoDyX6vSqsd)
-   - Javier Antoran, Shreyas Padhy, Riccardo Barbano, Eric Nalisnick, David Janz, José Miguel Hernández-Lobato; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-067cgykizts"></a>
-28. [Scaling Up Probabilistic Circuits by Latent Variable Distillation](https://openreview.net/forum?id=067CGykiZTS)
-   - Anji Liu, Honghua Zhang, Guy Van den Broeck; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sd90a2ytrt"></a>
-29. [Semi-Implicit Variational Inference via Score Matching](https://openreview.net/forum?id=sd90a2ytrt)
-   - Longlin Yu, Cheng Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fe99-fdrwd5"></a>
-30. [Semi-Parametric Inducing Point Networks and Neural Processes](https://openreview.net/forum?id=FE99-fDrWd5)
-   - Richa Rastogi, Yair Schiff, Alon Hacohen, Zhaozhi Li, Ian Lee, Yuntian Deng, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-psik0ko3hkd"></a>
-31. [Spatio-temporal point processes with deep non-stationary kernels](https://openreview.net/forum?id=PsIk0kO3hKd)
-   - Zheng Dong, Xiuyuan Cheng, Yao Xie; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pagvsrl4ntr"></a>
-32. [Transfer NAS with Meta-learned Bayesian Surrogates](https://openreview.net/forum?id=paGvsrl4Ntr)
-   - Gresa Shala, Thomas Elsken, Frank Hutter, Josif Grabocka; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-2nleoofajk"></a>
-33. [Versatile Neural Processes for Learning Implicit Neural Representations](https://openreview.net/forum?id=2nLeOOfAjK)
-   - Zongyu Guo, Cuiling Lan, Zhizheng Zhang, Yan Lu, Zhibo Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yfuicnzmwk7"></a>
-34. [Weighted Clock Logic Point Process](https://openreview.net/forum?id=YfUICnZMwk7)
-   - Ruixuan Yan, Yunshi Wen, Debarun Bhattacharjya, Ronny Luss, Tengfei Ma, Achille Fokoue, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0-txfpasei"></a>
+1. [A law of adversarial risk, interpolation, and label noise](https://openreview.net/forum?id=0_TxFpAsEI)
+   - Daniel Paleka, Amartya Sanyal; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lfdeuhjr5gv"></a>
+2. [Adversarial Training of Self-supervised Monocular Depth Estimation against Physical-World Attacks](https://openreview.net/forum?id=LfdEuhjR5GV)
+   - Zhiyuan Cheng, James Chenhao Liang, Guanhong Tao, Dongfang Liu, Xiangyu Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-szynfvlgd5"></a>
+3. [Boosting Adversarial Transferability using Dynamic Cues](https://openreview.net/forum?id=SZynfVLGd5)
+   - Muzammal Naseer, Ahmad Mahmood, Salman Khan, Fahad Khan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-b7sbtebfnc"></a>
+4. [Canary in a Coalmine: Better Membership Inference with Ensembled Adversarial Queries](https://openreview.net/forum?id=b7SBTEBFnC)
+   - Yuxin Wen, Arpit Bansal, Hamid Kazemi, Eitan Borgnia, Micah Goldblum, Jonas Geiping, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-y4uc4nttwaq"></a>
+5. [Data augmentation alone can improve adversarial training](https://openreview.net/forum?id=y4uc4NtTWaq)
+   - Lin Li, Michael W. Spratling; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ve1s3e5xria"></a>
+6. [Dual Student Networks for Data-Free Model Stealing](https://openreview.net/forum?id=VE1s3e5xriA)
+   - James Beetham, Navid Kardan, Ajmal Saeed Mian, Mubarak Shah; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-artkusckbyj"></a>
+7. [Exploring and Exploiting Decision Boundary Dynamics for Adversarial Robustness](https://openreview.net/forum?id=aRTKuscKByJ)
+   - Yuancheng Xu, Yanchao Sun, Micah Goldblum, Tom Goldstein, Furong Huang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-a70lgj-rwy"></a>
+8. [Few-shot Backdoor Attacks via Neural Tangent Kernels](https://openreview.net/forum?id=a70lGJ-rwy)
+   - Jonathan Hayase, Sewoong Oh; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-i3hce7ro78h"></a>
+9. [Finding Actual Descent Directions for Adversarial Training](https://openreview.net/forum?id=I3HCE7Ro78H)
+   - Fabian Latorre, Igor Krawczuk, Leello Tadesse Dadi, Thomas Pethick, Volkan Cevher; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7h5kss2pcri"></a>
+10. [Forward Super-Resolution: How Can GANs Learn Hierarchical Generative Models for Real-World Distributions](https://openreview.net/forum?id=7h5KSs2PCRi)
+   - Zeyuan Allen-Zhu, Yuanzhi Li; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-om7doljqboq"></a>
+11. [ILA-DA: Improving Transferability of Intermediate Level Attack with Data Augmentation](https://openreview.net/forum?id=OM7doLjQbOQ)
+   - Chiu Wai Yan, Tsz-Him Cheung, Dit-Yan Yeung; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4t9q35bxgr"></a>
+12. [Inequality phenomenon in $l_{\infty}$-adversarial training, and its unrealized threats](https://openreview.net/forum?id=4t9q35BxGr)
+   - Ranjie Duan, YueFeng Chen, Yao Zhu, Xiaojun Jia, Rong Zhang, Hui Xue'; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zkvm1etdoq"></a>
+13. [Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?](https://openreview.net/forum?id=zKvm1ETDOq)
+   - Rui Wen, Zhengyu Zhao, Zhuoran Liu, Michael Backes, Tianhao Wang, Yang Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-bjppypblre"></a>
+14. [Making Substitute Models More Bayesian Can Enhance Transferability of Adversarial Examples](https://openreview.net/forum?id=bjPPypbLre)
+   - Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gmsz-gpny6"></a>
+15. [Noise Injection Node Regularization for Robust Learning](https://openreview.net/forum?id=gmSZ-GPNY6)
+   - Noam Itzhak Levi, Itay Mimouni Bloch, Marat Freytsis, Tomer Volansky; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fvm3nzmzs9"></a>
+16. [On Achieving Optimal Adversarial Test Error](https://openreview.net/forum?id=fVm3nZMZs9)
+   - Justin D. Li, Matus Telgarsky; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-p7g8t5fvn2h"></a>
+17. [One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks](https://openreview.net/forum?id=p7G8t5FVn2h)
+   - Shutong Wu, Sizhe Chen, Cihang Xie, Xiaolin Huang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-bamtaeqluh4"></a>
+18. [Part-Based Models Improve Adversarial Robustness](https://openreview.net/forum?id=bAMTaeqluh4)
+   - Chawin Sitawarin, Kornrapat Pongmala, Yizheng Chen, Nicholas Carlini, David Wagner; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-0qmwfnjyxcl"></a>
+19. [Rethinking the Effect of Data Augmentation in Adversarial Contrastive Learning](https://openreview.net/forum?id=0qmwFNJyxCL)
+   - Rundong Luo, Yifei Wang, Yisen Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hpdxc1thu8t"></a>
+20. [Revisiting adapters with adversarial training](https://openreview.net/forum?id=HPdxC1THU8T)
+   - Sylvestre-Alvise Rebuffi, Francesco Croce, Sven Gowal; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o0lfpcofknr"></a>
+21. [SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://openreview.net/forum?id=o0LFPcoFKnr)
+   - Junfeng Guo, Yiming Li, Xun Chen, Hanqing Guo, Lichao Sun, Cong Liu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9mo7bjoafia"></a>
+22. [Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors](https://openreview.net/forum?id=9MO7bjoAfIA)
+   - Sizhe Chen, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-z-tmyu060kr"></a>
+23. [Squeeze Training for Adversarial Robustness](https://openreview.net/forum?id=Z_tmYu060Kr)
+   - Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5tkxuzil3x"></a>
+24. [TextGrad: Advancing Robustness Evaluation in NLP by Gradient-Driven Optimization](https://openreview.net/forum?id=5tKXUZil3X)
+   - Bairu Hou, Jinghan Jia, Yihua Zhang, Guanhua Zhang, Yang Zhang, Sijia Liu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xiwfwvkm7aq"></a>
+25. [TextShield: Beyond Successfully Detecting Adversarial Sentences in text classification](https://openreview.net/forum?id=xIWfWvKM7aQ)
+   - Lingfeng Shen, Ze Zhang, Haiyun Jiang, Ying Chen; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-p4bxcawri5j"></a>
+26. [Understanding Zero-shot Adversarial Robustness for Large-Scale Models](https://openreview.net/forum?id=P4bXCawRi5J)
+   - Chengzhi Mao, Scott Geng, Junfeng Yang, Xin Wang, Carl Vondrick; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ca8yfkpc7o"></a>
+27. [Why adversarial training can hurt robust accuracy](https://openreview.net/forum?id=-CA8yFkPc7O)
+   - Jacob Clarysse, Julia Hörrmann, Fanny Yang; assignment: `hdbscan`; source: `OpenReview`

@@ -1,71 +1,74 @@
-# ICLR 2021: 凸/非凸优化理论
+# ICLR 2021: 具身智能与物理交互
 
 - Topic ID: `20`
-- Papers: **17** (1.98%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `flows / binary / normalizing / optimal transport`
-- Keyword pool: flows; binary; normalizing; optimal transport; generative; convex; subnetworks; compression; discrepancy; integer; invertible; categorical
+- Papers: **18** (2.10%)
+- Macro topic: 强化学习/决策
+- English keywords: `reinforcement / agent / navigation / action`
+- Keyword pool: reinforcement; agent; navigation; action; representation learning; visual; atari; embodied; world; environments; bandit; imitation
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks
-- Convex Potential Flows: Universal Probability Distributions with Optimal Transport and Convex Optimization
-- Wasserstein-2 Generative Networks
-- Distributional Sliced-Wasserstein and Applications to Generative Modeling
-- IDF++: Analyzing and Improving Integer Discrete Flows for Lossless Compression
+- Learning Invariant Representations for Reinforcement Learning without Reconstruction
+- Data-Efficient Reinforcement Learning with Self-Predictive Representations
+- Return-Based Contrastive Representation Learning for Reinforcement Learning
+- Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning
+- Self-supervised Visual Reinforcement Learning with Object-centric Representations
 
 ## Papers
 
-<a id="paper-zk6vtvb84s"></a>
-1. [A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention](https://openreview.net/forum?id=ZK6vTvb84s)
-   - Grégoire Mialon, Dexiong Chen, Alexandre d'Aspremont, Julien Mairal; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-9qlrcvysdlo"></a>
-2. [BiPointNet: Binary Neural Network for Point Clouds](https://openreview.net/forum?id=9QLRCVysdlO)
-   - Haotong Qin, Zhongang Cai, Mingyuan Zhang, Yifu Ding, Haiyu Zhao, Shuai Yi, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-glnzevduik"></a>
-3. [Categorical Normalizing Flows via Continuous Transformations](https://openreview.net/forum?id=-GLNZeVDuik)
-   - Phillip Lippe, Efstratios Gavves; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-l0v53bernib"></a>
-4. [Combining Physics and Machine Learning for Network Flow Estimation](https://openreview.net/forum?id=l0V53bErniB)
-   - Arlei Lopes da Silva, Furkan Kocayusufoglu, Saber Jafarpour, Francesco Bullo, Ananthram Swami, Ambuj Singh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3tfas5e-pe"></a>
-5. [Continuous Wasserstein-2 Barycenter Estimation without Minimax Optimization](https://openreview.net/forum?id=3tFAs5E-Pe)
-   - Alexander Korotin, Lingxiao Li, Justin Solomon, Evgeny Burnaev; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-te7pvh1spxj"></a>
-6. [Convex Potential Flows: Universal Probability Distributions with Optimal Transport and Convex Optimization](https://openreview.net/forum?id=te7PVH1sPxJ)
-   - Chin-Wei Huang, Ricky T. Q. Chen, Christos Tsirigotis, Aaron Courville; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qyjo70acdk"></a>
-7. [Distributional Sliced-Wasserstein and Applications to Generative Modeling](https://openreview.net/forum?id=QYjO70ACDK)
-   - Khai Nguyen, Nhat Ho, Tung Pham, Hung Bui; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1aomhc-9jer"></a>
-8. [GANs Can Play Lottery Tickets Too](https://openreview.net/forum?id=1AoMhc_9jER)
-   - Xuxi Chen, Zhenyu Zhang, Yongduo Sui, Tianlong Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mxay4fzota"></a>
-9. [High-Capacity Expert Binary Networks](https://openreview.net/forum?id=MxaY4FzOTa)
-   - Adrian Bulat, Brais Martinez, Georgios Tzimiropoulos; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mboyinnythd"></a>
-10. [IDF++: Analyzing and Improving Integer Discrete Flows for Lossless Compression](https://openreview.net/forum?id=MBOyiNnYthd)
-   - Rianne van den Berg, Alexey A. Gritsenko, Mostafa Dehghani, Casper Kaae Sønderby, Tim Salimans; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8ps8m9oytny"></a>
-11. [Implicit Normalizing Flows](https://openreview.net/forum?id=8PS8m9oYtNy)
-   - Cheng Lu, Jianfei Chen, Chongxuan Li, Qiuhao Wang, Jun Zhu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-diqd7fwl233"></a>
-12. [Improving Relational Regularized Autoencoders with Spherical Sliced Fused Gromov Wasserstein](https://openreview.net/forum?id=DiQD7FWL233)
-   - Khai Nguyen, Son Nguyen, Nhat Ho, Tung Pham, Hung Bui; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ke3vd639urw"></a>
-13. [LiftPool: Bidirectional ConvNet Pooling](https://openreview.net/forum?id=kE3vd639uRW)
-   - Jiaojiao Zhao, Cees G. M. Snoek; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-u-mat0b9iv"></a>
-14. [Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network](https://openreview.net/forum?id=U_mat0b9iv)
-   - James Diffenderfer, Bhavya Kailkhura; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-steojib4ur"></a>
-15. [Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks](https://openreview.net/forum?id=sTeoJiB4uR)
-   - Thomas Bird, Friso Kingma, David Barber; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-t0takv0gx6z"></a>
-16. [Sliced Kernelized Stein Discrepancy](https://openreview.net/forum?id=t0TaKv0Gx6Z)
-   - Wenbo Gong, Yingzhen Li, José Miguel Hernández-Lobato; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-beoxzw-exsa"></a>
-17. [Wasserstein-2 Generative Networks](https://openreview.net/forum?id=bEoxzW_EXsa)
-   - Alexander Korotin, Vage Egiazarian, Arip Asadulaev, Alexander Safin, Evgeny Burnaev; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qda7-svg84"></a>
+1. [Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning](https://openreview.net/forum?id=qda7-sVg84)
+   - Rishabh Agarwal, Marlos C. Machado, Pablo Samuel Castro, Marc G Bellemare; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ud3dsz72nyr"></a>
+2. [Contrastive Explanations for Reinforcement Learning via Embedded Self Predictions](https://openreview.net/forum?id=Ud3DSz72nYR)
+   - Zhengxian Lin, Kin-Ho Lam, Alan Fern; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dgd4ejqsbw5"></a>
+3. [Control-Aware Representations for Model-based Reinforcement Learning](https://openreview.net/forum?id=dgd4EJqsbW5)
+   - Brandon Cui, Yinlam Chow, Mohammad Ghavamzadeh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ucqfpzwrauu"></a>
+4. [Data-Efficient Reinforcement Learning with Self-Predictive Representations](https://openreview.net/forum?id=uCQfPZwRaUu)
+   - Max Schwarzer, Ankesh Anand, Rishab Goel, R Devon Hjelm, Aaron Courville, Philip Bachman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qubpwyfdnry"></a>
+5. [Domain-Robust Visual Imitation Learning with Mutual Information Constraints](https://openreview.net/forum?id=QubpWYfdNry)
+   - Edoardo Cetin, Oya Celiktutan; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-1rxhobjeduw"></a>
+6. [Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration](https://openreview.net/forum?id=1rxHOBjeDUW)
+   - Jaekyeom Kim, Minjung Kim, Dongyeon Woo, Gunhee Kim; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ur9lao-qxf"></a>
+7. [Efficient Transformers in Reinforcement Learning using Actor-Learner Distillation](https://openreview.net/forum?id=uR9LaO_QxF)
+   - Emilio Parisotto, Russ Salakhutdinov; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gy6-6stvgaf"></a>
+8. [Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://openreview.net/forum?id=GY6-6sTvGaf)
+   - Denis Yarats, Ilya Kostrikov, Rob Fergus; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-edj-hipawca"></a>
+9. [Impact of Representation Learning in Linear Bandits](https://openreview.net/forum?id=edJ_HipawCa)
+   - Jiaqi Yang, Wei Hu, Jason D. Lee, Simon Shaolei Du; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cp5icoakfka"></a>
+10. [Large Batch Simulation for Deep Reinforcement Learning](https://openreview.net/forum?id=cP5IcoAkfKa)
+   - Brennan Shacklett, Erik Wijmans, Aleksei Petrenko, Manolis Savva, Dhruv Batra, Vladlen Koltun, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uuchyl8wszo"></a>
+11. [Learning Generalizable Visual Representations via Interactive Gameplay](https://openreview.net/forum?id=UuchYL8wSZo)
+   - Luca Weihs, Aniruddha Kembhavi, Kiana Ehsani, Sarah M Pratt, Winson Han, Alvaro Herrasti, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-2fcwdkrreu"></a>
+12. [Learning Invariant Representations for Reinforcement Learning without Reconstruction](https://openreview.net/forum?id=-2FCwDKRREu)
+   - Amy Zhang, Rowan Thomas McAllister, Roberto Calandra, Yarin Gal, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xv-s64fixtv"></a>
+13. [Learning to Represent Action Values as a Hypergraph on the Action Vertices](https://openreview.net/forum?id=Xv_s64FiXTv)
+   - Arash Tavakoli, Mehdi Fatemi, Petar Kormushev; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0oabwyzbou"></a>
+14. [Mastering Atari with Discrete World Models](https://openreview.net/forum?id=0oabwyZbOu)
+   - Danijar Hafner, Timothy P Lillicrap, Mohammad Norouzi, Jimmy Ba; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tkatozkcunm"></a>
+15. [Neural Thompson Sampling](https://openreview.net/forum?id=tkAtoZkcUnm)
+   - Weitong ZHANG, Dongruo Zhou, Lihong Li, Quanquan Gu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tm6rt7txke"></a>
+16. [Return-Based Contrastive Representation Learning for Reinforcement Learning](https://openreview.net/forum?id=_TM6rT7tXke)
+   - Guoqing Liu, Chuheng Zhang, Li Zhao, Tao Qin, Jinhua Zhu, Li Jian, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xpplmxcbow1"></a>
+17. [Self-supervised Visual Reinforcement Learning with Object-centric Representations](https://openreview.net/forum?id=xppLmXCbOw1)
+   - Andrii Zadaianchuk, Maximilian Seitzer, Georg Martius; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dilxqp08o3b"></a>
+18. [VTNet: Visual Transformer Network for Object Goal Navigation](https://openreview.net/forum?id=DILxQP08O3B)
+   - Heming Du, Xin Yu, Liang Zheng; assignment: `nearest_centroid`; source: `OpenReview`

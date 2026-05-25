@@ -1,137 +1,119 @@
-# ICLR 2023: 随机优化与收敛理论
+# ICLR 2023: pruning / compression / lottery / sparse
 
 - Topic ID: `2`
-- Papers: **39** (2.48%)
-- Macro topic: 理论/优化
-- English keywords: `sgd / gradient / descent / sharpness`
-- Keyword pool: sgd; gradient; descent; sharpness; sam; implicit regularization; relu; stability; implicit bias; convex; convergence; algorithms
+- Papers: **33** (2.16%)
+- Macro topic: 系统/效率/压缩
+- English keywords: `pruning / compression / lottery / sparse`
+- Keyword pool: pruning; compression; lottery; sparse; quantization; sparsity; graph; ticket; dense; trainability; prune; filters
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks
-- Restricted Strong Convexity of Deep Learning Models with Smooth Activations
-- Implicit Bias in Leaky ReLU Networks Trained on High-Dimensional Data
-- Disentangling the Mechanisms Behind Implicit Regularization in SGD
-- Neural Networks Efficiently Learn Low-Dimensional Representations with SGD
+- Minimum Variance Unbiased N:M Sparsity for the Neural Gradients
+- Pruning Deep Neural Networks from a Sparsity Perspective
+- Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!
+- LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification
+- CrAM: A Compression-Aware Minimizer
 
 ## Papers
 
-<a id="paper-k71iglc8cfc"></a>
-1. [A Unified Algebraic Perspective on Lipschitz Neural Networks](https://openreview.net/forum?id=k71IGLC8cfc)
-   - Alexandre Araujo, Aaron J Havens, Blaise Delattre, Alexandre Allauzen, Bin Hu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bh-kcy6ldkg"></a>
-2. [A new characterization of the edge of stability based on a sharpness measure aware of batch gradient distribution](https://openreview.net/forum?id=bH-kCY6LdKg)
-   - Sungyoon Lee, Cheongjae Jang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bzapgellsje"></a>
-3. [A view of mini-batch SGD via generating functions: conditions of convergence, phase transitions, benefit from negative momenta.](https://openreview.net/forum?id=bzaPGEllsjE)
-   - Maksim Velikanov, Denis Kuznedelev, Dmitry Yarotsky; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zgvdqw9zues"></a>
-4. [Adaptive Optimization in the $\infty$-Width Limit](https://openreview.net/forum?id=zgVDqw9ZUES)
-   - Etai Littwin, Greg Yang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-enry5torbq"></a>
-5. [Agnostic Learning of General ReLU Activation Using Gradient Descent](https://openreview.net/forum?id=EnrY5TOrbQ)
-   - Pranjal Awasthi, Alex Tang, Aravindan Vijayaraghavan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6wl7-m2bc"></a>
-6. [An Adaptive Policy to Employ Sharpness-Aware Minimization](https://openreview.net/forum?id=6Wl7-M2BC-)
-   - Weisen Jiang, Hansi Yang, Yu Zhang, James Kwok; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tpiwkitusu"></a>
-7. [Behind the Scenes of Gradient Descent: A Trajectory Analysis via Basis Function Decomposition](https://openreview.net/forum?id=TPiwkItUSu)
-   - Jianhao Ma, Lingjun Guo, Salar Fattahi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-poyi9kqe56b"></a>
-8. [Beyond Lipschitz: Sharp Generalization and Excess Risk Bounds for Full-Batch GD](https://openreview.net/forum?id=pOyi9KqE56b)
-   - Konstantinos Nikolakakis, Farzin Haddadpour, Amin Karbasi, Dionysios Kalogerias; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-uzfqpkezoo"></a>
-9. [Depth Separation with Multilayer Mean-Field Networks](https://openreview.net/forum?id=uzFQpkEzOo)
-   - Yunwei Ren, Mo Zhou, Rong Ge; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-le5lxbgjb4v"></a>
-10. [Disentangling the Mechanisms Behind Implicit Regularization in SGD](https://openreview.net/forum?id=LE5LxBgjB4V)
-   - Zachary Novack, Simran Kaur, Tanya Marwah, Saurabh Garg, Zachary Chase Lipton; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-1-jtwjhsskr"></a>
-11. [Exponential Generalization Bounds with Near-Optimal Rates for $L_q$-Stable Algorithms](https://openreview.net/forum?id=1_jtWjhSSkr)
-   - Xiaotong Yuan, Ping Li; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-sweskiem99"></a>
-12. [Feature selection and low test error in shallow low-rotation ReLU networks](https://openreview.net/forum?id=swEskiem99)
-   - Matus Telgarsky; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cqsmmymlp5t"></a>
-13. [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://openreview.net/forum?id=CQsmMYmlP5T)
-   - Samuel Ainsworth, Jonathan Hayase, Siddhartha Srinivasa; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-9k5ktgyht"></a>
-14. [Globally Optimal Training of Neural Networks with Threshold Activation Functions](https://openreview.net/forum?id=_9k5kTgyHT)
-   - Tolga Ergen, Halil Ibrahim Gulluk, Jonathan Lacotte, Mert Pilanci; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-5spdgwmpy6x"></a>
-15. [How Sharpness-Aware Minimization Minimizes Sharpness?](https://openreview.net/forum?id=5spDgWmpY6x)
-   - Kaiyue Wen, Tengyu Ma, Zhiyuan Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jpblyei5eww"></a>
-16. [Implicit Bias in Leaky ReLU Networks Trained on High-Dimensional Data](https://openreview.net/forum?id=JpbLyEI5EwW)
-   - Spencer Frei, Gal Vardi, Peter Bartlett, Nathan Srebro, Wei Hu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6idhce-0b-a"></a>
-17. [Implicit Bias of Large Depth Networks: a Notion of Rank for Nonlinear Functions](https://openreview.net/forum?id=6iDHce-0B-a)
-   - Arthur Jacot; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-d7q0vvfj0wo"></a>
-18. [Implicit Regularization for Group Sparsity](https://openreview.net/forum?id=d7Q0vVfJ0wO)
-   - Jiangyuan Li, Thanh V Nguyen, Chinmay Hegde, Raymond K. W. Wong; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zzdbhteh9yb"></a>
-19. [Implicit regularization in Heavy-ball momentum accelerated stochastic gradient descent](https://openreview.net/forum?id=ZzdBhtEH9yB)
-   - Avrajit Ghosh, He Lyu, Xitong Zhang, Rongrong Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qc10rmrbzy9"></a>
-20. [Loss Landscapes are All You Need: Neural Network Generalization Can Be Explained Without the Implicit Bias of Gradient Descent](https://openreview.net/forum?id=QC10RmRbZy9)
-   - Ping-yeh Chiang, Renkun Ni, David Yu Miller, Arpit Bansal, Jonas Geiping, Micah Goldblum, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vvjztlzb9d"></a>
+1. [A General Framework For Proving The Equivariant Strong Lottery Ticket Hypothesis](https://openreview.net/forum?id=vVJZtlZB9D)
+   - Damien Ferbach, Christos Tsirigotis, Gauthier Gidel, Joey Bose; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ytbnyycopd"></a>
+2. [Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats](https://openreview.net/forum?id=yTbNYYcopd)
+   - Brian Chmiel, Ron Banner, Elad Hoffer, Hilla Ben-Yaacov, Daniel Soudry; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-v-06qv-kzx"></a>
+3. [Analyzing Tree Architectures in Ensembles via Neural Tangent Kernel](https://openreview.net/forum?id=V_06QV-kZX)
+   - Ryuichi Kanoh, Mahito Sugiyama; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-yudizczti8"></a>
+4. [Bit-Pruning: A Sparse Multiplication-Less Dot-Product](https://openreview.net/forum?id=YUDiZcZTI8)
+   - Yusuke Sekikawa, Shingo Yashima; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vwm4o4l3v9e"></a>
+5. [Block and Subword-Scaling Floating-Point (BSFP) : An Efficient Non-Uniform Quantization For Low Precision Inference](https://openreview.net/forum?id=VWm4o4l3V9e)
+   - Yun-Chen Lo, Tse-Kuang Lee, Ren-Shuo Liu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-kdwngerdt6"></a>
+6. [Calibrating the Rigged Lottery: Making All Tickets Reliable](https://openreview.net/forum?id=KdwnGErdT6)
+   - Bowen Lei, Ruqi Zhang, Dongkuan Xu, Bani Mallick; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-y5see3dfnij"></a>
+7. [Compressing multidimensional weather and climate data into neural networks](https://openreview.net/forum?id=Y5SEe3dfniJ)
+   - Langwen Huang, Torsten Hoefler; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-etzbs-yedr"></a>
+8. [CrAM: A Compression-Aware Minimizer](https://openreview.net/forum?id=_eTZBs-yedr)
+   - Alexandra Peste, Adrian Vladu, Eldar Kurtic, Christoph H Lampert, Dan Alistarh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mhnhqrqcjyu"></a>
+9. [DFPC: Data flow driven pruning of coupled channels without data.](https://openreview.net/forum?id=mhnHqRqcjYU)
+   - Tanay Narshana, Chaitanya Murti, Chiranjib Bhattacharyya; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kn6i2bzw69w"></a>
+10. [DropIT: Dropping Intermediate Tensors for Memory-Efficient DNN Training](https://openreview.net/forum?id=Kn6i2BZW69w)
+   - Joya Chen, Kai Xu, Yuhui Wang, Yifei Cheng, Angela Yao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sajdi9ld06l"></a>
+11. [Holistic Adversarially Robust Pruning](https://openreview.net/forum?id=sAJDi9lD06L)
+   - Qi Zhao, Christian Wressnegger; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nf5imfkqi"></a>
+12. [How I Learned to Stop Worrying and Love Retraining](https://openreview.net/forum?id=_nF5imFKQI)
+   - Max Zimmer, Christoph Spiegel, Sebastian Pokutta; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-skhqgfoafxi"></a>
+13. [How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression?](https://openreview.net/forum?id=sKHqgFOaFXI)
+   - Jetze Schuurmans, kim batselier, Julian Kooij; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nvzvalzclg"></a>
+14. [LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification](https://openreview.net/forum?id=NVZvalzCLg)
+   - Sharath Girish, Kamal Gupta, Saurabh Singh, Abhinav Shrivastava; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-cefy2eoupj"></a>
-21. [Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam](https://openreview.net/forum?id=-CefY2EOupj)
-   - Yucheng Lu, Conglong Li, Minjia Zhang, Christopher De Sa, Yuxiong He; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-6taykzqcpd"></a>
-22. [Neural Networks Efficiently Learn Low-Dimensional Representations with SGD](https://openreview.net/forum?id=6taykzqcPD)
-   - Alireza Mousavi-Hosseini, Sejun Park, Manuela Girotti, Ioannis Mitliagkas, Murat A Erdogdu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-a65yk0cqh8g"></a>
-23. [Noise Is Not the Main Factor Behind the Gap Between Sgd and Adam on Transformers, But Sign Descent Might Be](https://openreview.net/forum?id=a65YK0cqH8g)
-   - Frederik Kunstner, Jacques Chen, Jonathan Wilder Lavington, Mark Schmidt; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6zror-rdhjs"></a>
-24. [Parallel Deep Neural Networks Have Zero Duality Gap](https://openreview.net/forum?id=6zrOr_Rdhjs)
-   - Yifei Wang, Tolga Ergen, Mert Pilanci; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-z289siqoqna"></a>
-25. [Plateau in Monotonic Linear Interpolation --- A "Biased" View of Loss Landscape for Deep Networks](https://openreview.net/forum?id=z289SIQOQna)
-   - Xiang Wang, Annie N. Wang, Mo Zhou, Rong Ge; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-pinrbk7h01"></a>
-26. [Restricted Strong Convexity of Deep Learning Models with Smooth Activations](https://openreview.net/forum?id=PINRbk7h01)
-   - Arindam Banerjee, Pedro Cisneros-Velarde, Libin Zhu, Misha Belkin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-k4fevfqsqcx"></a>
-27. [SAM as an Optimal Relaxation of Bayes](https://openreview.net/forum?id=k4fevFqSQcX)
-   - Thomas Möllenhoff, Mohammad Emtiyaz Khan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nhkha59gxz"></a>
-28. [Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of Stability](https://openreview.net/forum?id=nhKHA59gXz)
-   - Alex Damian, Eshaan Nichani, Jason D. Lee; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8e5yazboyh"></a>
-29. [Sharper Bounds for Uniformly Stable Algorithms with Stationary Mixing Process](https://openreview.net/forum?id=8E5Yazboyh)
-   - Shi Fu, Yunwen Lei, Qiong Cao, Xinmei Tian, Dacheng Tao; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-im4xp7kgi5v"></a>
-30. [The Asymmetric Maximum Margin Bias of Quasi-Homogeneous Neural Networks](https://openreview.net/forum?id=IM4xp7kGI5V)
-   - Daniel Kunin, Atsushi Yamamura, Chao Ma, Surya Ganguli; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xtbog7cfsr"></a>
-31. [The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks](https://openreview.net/forum?id=xtbog7cfsr)
-   - Mor Shpigel Nacson, Rotem Mulayoff, Greg Ongie, Tomer Michaeli, Daniel Soudry; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8wbnpojy-f"></a>
-32. [Trainable Weight Averaging: Efficient Training by Optimizing Historical Solutions](https://openreview.net/forum?id=8wbnpOJY-f)
-   - Tao Li, Zhehao Huang, Qinghua Tao, Yingwen Wu, Xiaolin Huang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p7eagbsmaeo"></a>
-33. [Understanding Edge-of-Stability Training Dynamics with a Minimalist Example](https://openreview.net/forum?id=p7EagBsMAEO)
-   - Xingyu Zhu, Zixuan Wang, Xiang Wang, Mo Zhou, Rong Ge; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iuypn14qjtf"></a>
-34. [Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization](https://openreview.net/forum?id=iUYpN14qjTF)
-   - Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ubkboix9nxa"></a>
-35. [Understanding weight-magnitude hyperparameters in training binary networks](https://openreview.net/forum?id=uBKBoix9NXa)
-   - Joris Quist, Yunqiang Li, Jan van Gemert; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wlmdf1jqf86"></a>
-36. [Which Layer is Learning Faster? A Systematic Exploration of Layer-wise Convergence Rate for Deep Neural Networks](https://openreview.net/forum?id=wlMDF1jQF86)
-   - Yixiong Chen, Alan Yuille, Zongwei Zhou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-svccui6drl"></a>
-37. [Why (and When) does Local SGD Generalize Better than SGD?](https://openreview.net/forum?id=svCcui6Drl)
-   - Xinran Gu, Kaifeng Lyu, Longbo Huang, Sanjeev Arora; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cpdc77sqfq5"></a>
-38. [Win: Weight-Decay-Integrated Nesterov Acceleration for Adaptive Gradient Algorithms](https://openreview.net/forum?id=CPdc77SQfQ5)
-   - Pan Zhou, Xingyu Xie, Shuicheng YAN; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rwo-ls5gqgn"></a>
-39. [ZiCo: Zero-shot NAS via inverse Coefficient of Variation on Gradients](https://openreview.net/forum?id=rwo-ls5GqGn)
-   - Guihong Li, Yuedong Yang, Kartikeya Bhardwaj, Radu Marculescu; assignment: `nearest_centroid`; source: `OpenReview`
+15. [Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam](https://openreview.net/forum?id=-CefY2EOupj)
+   - Yucheng Lu, Conglong Li, Minjia Zhang, Christopher De Sa, Yuxiong He; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vud2xetxzcj"></a>
+16. [Minimum Variance Unbiased N:M Sparsity for the Neural Gradients](https://openreview.net/forum?id=vuD2xEtxZcj)
+   - Brian Chmiel, Itay Hubara, Ron Banner, Daniel Soudry; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5ewhw-4qwp"></a>
+17. [NTK-SAP: Improving neural network pruning by aligning training dynamics](https://openreview.net/forum?id=-5EWhW_4qWP)
+   - Yite Wang, Dawei Li, Ruoyu Sun; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7ynox1ojpmt"></a>
+18. [OTOv2: Automatic, Generic, User-Friendly](https://openreview.net/forum?id=7ynoX1ojPMt)
+   - Tianyi Chen, Luming Liang, Tianyu DING, Zhihui Zhu, Ilya Zharkov; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-s1kljjpaukm"></a>
+19. [PowerQuant: Automorphism Search for Non-Uniform Quantization](https://openreview.net/forum?id=s1KljJpAukm)
+   - Edouard YVINEC, Arnaud Dapogny, Matthieu Cord, Kevin Bailly; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-i-dleyh34bm"></a>
+20. [Pruning Deep Neural Networks from a Sparsity Perspective](https://openreview.net/forum?id=i-DleYh34BM)
+   - Enmao Diao, Ganghua Wang, Jiawei Zhang, Yuhong Yang, Jie Ding, Vahid Tarokh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uvcdssqff"></a>
+21. [REVISITING PRUNING AT INITIALIZATION THROUGH THE LENS OF RAMANUJAN GRAPH](https://openreview.net/forum?id=uVcDssQff_)
+   - Duc N.M Hoang, Shiwei Liu, Radu Marculescu, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fjh7ugqgob"></a>
+22. [Rethinking Graph Lottery Tickets: Graph Sparsity Matters](https://openreview.net/forum?id=fjh7UGQgOB)
+   - Bo Hui, Da Yan, Xiaolong Ma, Wei-Shinn Ku; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dvs-a3aympe"></a>
+23. [Searching Lottery Tickets in Graph Neural Networks: A Dual Perspective](https://openreview.net/forum?id=Dvs-a3aymPe)
+   - Kun Wang, Yuxuan Liang, Pengkun Wang, Xu Wang, Pengfei Gu, Junfeng Fang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ttllgx3eet"></a>
+24. [Sequential Attention for Feature Selection](https://openreview.net/forum?id=TTLLGx3eet)
+   - Taisuke Yasuda, Mohammadhossein Bateni, Lin Chen, Matthew Fahrbach, Gang Fu, Vahab Mirrokni; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-lgvsmht7a"></a>
+25. [Sequential Gradient Coding For Straggler Mitigation](https://openreview.net/forum?id=-lGvSmht7a)
+   - Nikhil Krishnan Muralee Krishnan, MohammadReza Ebrahimi, Ashish J Khisti; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-i9ular1t-xl"></a>
+26. [SmartFRZ: An Efficient Training Framework using Attention-Based Layer Freezing](https://openreview.net/forum?id=i9UlAr1T_xl)
+   - Sheng Li, Geng Yuan, Yue Dai, Youtao Zhang, Yanzhi Wang, Xulong Tang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-t5nuqdrm4u"></a>
+27. [Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints](https://openreview.net/forum?id=T5nUQDrM4u)
+   - Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-j6f3llg4kdp"></a>
+28. [Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!](https://openreview.net/forum?id=J6F3lLg4Kdp)
+   - Shiwei Liu, Tianlong Chen, Zhenyu Zhang, Xuxi Chen, Tianjin Huang, AJAY KUMAR JAISWAL, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k96aogldt2k"></a>
+29. [Symmetric Pruning in Quantum Neural Networks](https://openreview.net/forum?id=K96AogLDT2K)
+   - Xinbiao Wang, Junyu Liu, Tongliang Liu, Yong Luo, Yuxuan Du, Dacheng Tao; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-szi1oj9kbky"></a>
+30. [TVSPrune - Pruning Non-discriminative filters via Total Variation separability of intermediate representations without fine tuning](https://openreview.net/forum?id=sZI1Oj9KBKy)
+   - Chaitanya Murti, Tanay Narshana, Chiranjib Bhattacharyya; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-azfvpnnewr"></a>
+31. [Trainability Preserving Neural Pruning](https://openreview.net/forum?id=AZFvpnnewr)
+   - Huan Wang, Yun Fu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xssw2am-ukz"></a>
+32. [Unmasking the Lottery Ticket Hypothesis: What's Encoded in a Winning Ticket's Mask?](https://openreview.net/forum?id=xSsW2Am-ukZ)
+   - Mansheej Paul, Feng Chen, Brett W. Larsen, Jonathan Frankle, Surya Ganguli, Gintare Karolina Dziugaite; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-z92lby1ehji"></a>
+33. [Winning Both the Accuracy of Floating Point Activation and the Simplicity of Integer Arithmetic](https://openreview.net/forum?id=z92lBy1ehjI)
+   - Yulhwa Kim, Jaeyong Jang, Jehun Lee, Jihoon Park, Jeonghoon Kim, Byeongwook Kim, et al.; assignment: `nearest_centroid`; source: `OpenReview`

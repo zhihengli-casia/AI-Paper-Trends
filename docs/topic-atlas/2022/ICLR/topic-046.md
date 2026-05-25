@@ -1,50 +1,53 @@
-# ICLR 2022: minimax / stochastic / ascent / gda
+# ICLR 2022: objects / scene / pose / detection
 
 - Topic ID: `46`
-- Papers: **10** (0.91%)
-- Macro topic: 理论/优化
-- English keywords: `minimax / stochastic / ascent / gda`
-- Keyword pool: minimax; stochastic; ascent; gda; convergence; anderson; adagrad; nonconvex; probability; cycles; dual; bounds
+- Papers: **11** (1.04%)
+- Macro topic: 计算机视觉
+- English keywords: `objects / scene / pose / detection`
+- Keyword pool: objects; scene; pose; detection; integral; saliency; long-range; object-centric; video; heatmap; regression; distance
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- High Probability Bounds for a Class of Nonconvex Algorithms with AdaGrad Stepsize
-- Minimax Optimization with Smooth Algorithmic Adversaries
-- High Probability Generalization Bounds with Fast Rates for Minimax Problems
-- Doubly Adaptive Scaled Algorithm for Machine Learning Using Second-Order Information
-- GDA-AM: ON THE EFFECTIVENESS OF SOLVING MIN-IMAX OPTIMIZATION VIA ANDERSON MIXING
+- MonoDistill: Learning Spatial Features for Monocular 3D Object Detection
+- WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
+- Conditional Object-Centric Learning from Video
+- Unsupervised Discovery of Object Radiance Fields
+- Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception
 
 ## Papers
 
-<a id="paper-x90sikbha"></a>
-1. [A Class of Short-term Recurrence Anderson Mixing Methods and Their Applications](https://openreview.net/forum?id=_X90SIKbHa)
-   - Fuchao Wei, Chenglong Bao, Yang Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3pn4iyxbef"></a>
-2. [Amortized Implicit Differentiation for Stochastic Bilevel Optimization](https://openreview.net/forum?id=3PN4iyXBeF)
-   - Michael Arbel, Julien Mairal; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hcelxxcseuh"></a>
-3. [Doubly Adaptive Scaled Algorithm for Machine Learning Using Second-Order Information](https://openreview.net/forum?id=HCelXXcSEuH)
-   - Majid Jahani, Sergey Rusakov, Zheng Shi, Peter Richtárik, Michael W. Mahoney, Martin Takac; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-2-vhkamark"></a>
-4. [Escaping limit cycles: Global convergence for constrained nonconvex-nonconcave minimax problems](https://openreview.net/forum?id=2_vhkAMARk)
-   - Thomas Pethick, Puya Latafat, Panos Patrinos, Olivier Fercoq, Volkan Cevher; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3yqeucvwy1d"></a>
-5. [GDA-AM: ON THE EFFECTIVENESS OF SOLVING MIN-IMAX OPTIMIZATION VIA ANDERSON MIXING](https://openreview.net/forum?id=3YqeuCVwy1d)
-   - Huan He, Shifan Zhao, Yuanzhe Xi, Joyce Ho, Yousef Saad; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dsw0qtrmjko"></a>
-6. [High Probability Bounds for a Class of Nonconvex Algorithms with AdaGrad Stepsize](https://openreview.net/forum?id=dSw0QtRMJkO)
-   - Ali Kavis, Kfir Yehuda Levy, Volkan Cevher; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gi7fej9yxpz"></a>
-7. [High Probability Generalization Bounds with Fast Rates for Minimax Problems](https://openreview.net/forum?id=gI7feJ9yXPz)
-   - Shaojie Li, Yong Liu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-udxj2fjx7n0"></a>
-8. [Minimax Optimization with Smooth Algorithmic Adversaries](https://openreview.net/forum?id=UdxJ2fJx7N0)
-   - Tanner Fiez, Chi Jin, Praneeth Netrapalli, Lillian J Ratliff; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-aiskpsmm3fg"></a>
-9. [Neural Stochastic Dual Dynamic Programming](https://openreview.net/forum?id=aisKPsMM3fg)
-   - Hanjun Dai, Yuan Xue, Zia Syed, Dale Schuurmans, Bo Dai; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pqqp7ajwz3"></a>
-10. [Particle Stochastic Dual Coordinate Ascent: Exponential convergent algorithm for mean field neural network optimization](https://openreview.net/forum?id=PQQp7AJwz3)
-   - Kazusato Oko, Taiji Suzuki, Atsushi Nitanda, Denny Wu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ad7uesx1gf"></a>
+1. [Conditional Object-Centric Learning from Video](https://openreview.net/forum?id=aD7uesX1GF_)
+   - Thomas Kipf, Gamaleldin Fathy Elsayed, Aravindh Mahendran, Austin Stone, Sara Sabour, Georg Heigold, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vhvcb-ak3si"></a>
+2. [Dive Deeper Into Integral Pose Regression](https://openreview.net/forum?id=vHVcB-ak3Si)
+   - Kerui Gu, Linlin Yang, Angela Yao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qszogvfijn1"></a>
+3. [Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception](https://openreview.net/forum?id=qsZoGvFiJn1)
+   - Yurong You, Katie Z Luo, Xiangyu Chen, Junan Chen, Wei-Lun Chao, Wen Sun, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-c54v-xtwfi"></a>
+4. [MonoDistill: Learning Spatial Features for Monocular 3D Object Detection](https://openreview.net/forum?id=C54V-xTWfi)
+   - Zhiyu Chong, Xinzhu Ma, Hong Zhang, Yuxin Yue, Haojie Li, Zhihui Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ojgdyqfkl3i"></a>
+5. [OBJECT DYNAMICS DISTILLATION FOR SCENE DECOMPOSITION AND REPRESENTATION](https://openreview.net/forum?id=oJGDYQFKL3i)
+   - Qu Tang, Xiangyu Zhu, Zhen Lei, Zhaoxiang Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-bznnmbt0pw"></a>
+6. [Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection](https://openreview.net/forum?id=BZnnMbt0pW)
+   - Wei Ji, Jingjing Li, Qi Bi, chuan guo, Jie Liu, Li Cheng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-s03aqxehtd"></a>
+7. [ProtoRes: Proto-Residual Network for Pose Authoring via Learned Inverse Kinematics](https://openreview.net/forum?id=s03AQxehtd_)
+   - Boris N. Oreshkin, Florent Bocquelet, Felix G. Harvey, Bay Raitt, Dominic Laflamme; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mq2sagunybp"></a>
+8. [R4D: Utilizing Reference Objects for Long-Range Distance Estimation](https://openreview.net/forum?id=MQ2sAGunyBP)
+   - Yingwei Li, Tiffany Chen, Maya Kabkab, Ruichi Yu, Longlong Jing, Yurong You, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rwe8sshalxw"></a>
+9. [Unsupervised Discovery of Object Radiance Fields](https://openreview.net/forum?id=rwE8SshAlxw)
+   - Hong-Xing Yu, Leonidas Guibas, Jiajun Wu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jaldp8hp-gc"></a>
+10. [Visual Correspondence Hallucination](https://openreview.net/forum?id=jaLDP8Hp_gc)
+   - Hugo Germain, Vincent Lepetit, Guillaume Bourmaud; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ahi2xshpauz"></a>
+11. [WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection](https://openreview.net/forum?id=ahi2XSHpAUZ)
+   - Liang Peng, Senbo Yan, Boxi Wu, Zheng Yang, Xiaofei He, Deng Cai; assignment: `hdbscan`; source: `OpenReview`

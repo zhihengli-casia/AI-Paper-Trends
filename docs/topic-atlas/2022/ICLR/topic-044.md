@@ -1,53 +1,53 @@
-# ICLR 2022: 策略优化 / reinforcement / certi / actor-critic
+# ICLR 2022: lottery / pruning / ticket / subnetworks
 
 - Topic ID: `44`
-- Papers: **11** (1.01%)
-- Macro topic: 理论/优化
-- English keywords: `policy / reinforcement / certi / actor-critic`
-- Keyword pool: policy; reinforcement; certi; actor-critic; gradient; cation; mirror; dqn; pareto; poisoning; attacks; policies
+- Papers: **11** (1.04%)
+- Macro topic: 强化学习/决策
+- English keywords: `lottery / pruning / ticket / subnetworks`
+- Keyword pool: lottery; pruning; ticket; subnetworks; hypothesis; sparse; winning; sparsity; grouped; weights; randomly; dense
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Mirror Descent Policy Optimization
-- Pareto Policy Adaptation
-- Actor-Critic Policy Optimization in a Large-Scale Imperfect-Information Game
-- Actor-critic is implicitly biased towards high entropy optimal policies
-- Bregman Gradient Policy Optimization
+- Plant 'n' Seek: Can You Find the Winning Ticket?
+- Dual Lottery Ticket Hypothesis
+- On the Existence of Universal Lottery Tickets
+- Proving the Lottery Ticket Hypothesis for Convolutional Neural Networks
+- On Lottery Tickets and Minimal Task Representations in Deep Reinforcement Learning
 
 ## Papers
 
-<a id="paper-zskrqmvttc"></a>
-1. [Accelerated Policy Learning with Parallel Differentiable Simulation](https://openreview.net/forum?id=ZSKRQMvttc)
-   - Jie Xu, Viktor Makoviychuk, Yashraj Narang, Fabio Ramos, Wojciech Matusik, Animesh Garg, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-dtxzqtnv5nw"></a>
-2. [Actor-Critic Policy Optimization in a Large-Scale Imperfect-Information Game](https://openreview.net/forum?id=DTXZqTNV5nW)
-   - Haobo Fu, Weiming Liu, Shuang Wu, Yijia Wang, Tao Yang, Kai Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vezytbrpp6o"></a>
-3. [Actor-critic is implicitly biased towards high entropy optimal policies](https://openreview.net/forum?id=vEZyTBRPP6o)
-   - Yuzheng Hu, Ziwei Ji, Matus Telgarsky; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nkwje4qf1hb"></a>
-4. [AlphaZero-based Proof Cost Network to Aid Game Solving](https://openreview.net/forum?id=nKWjE4QF1hB)
-   - Ti-Rong Wu, Chung-Chin Shih, Ting Han Wei, Meng-Yu Tsai, Wei-Yuan Hsu, I-Chen Wu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zu-zfntum1n"></a>
-5. [Bregman Gradient Policy Optimization](https://openreview.net/forum?id=ZU-zFnTum1N)
-   - Feihu Huang, Shangqian Gao, Heng Huang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-psh0oemsbif"></a>
-6. [COPA: Certifying Robust Policies for Offline Reinforcement Learning against Poisoning Attacks](https://openreview.net/forum?id=psh0oeMSBiF)
-   - Fan Wu, Linyi Li, Huan Zhang, Bhavya Kailkhura, Krishnaram Kenthapadi, Ding Zhao, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ojm3hzuj4r7"></a>
-7. [Convergent and Efficient Deep Q Learning Algorithm](https://openreview.net/forum?id=OJm3HZuj4r7)
-   - Zhikang T. Wang, Masahito Ueda; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-abo5svgst1"></a>
-8. [Mirror Descent Policy Optimization](https://openreview.net/forum?id=aBO5SvgSt1)
-   - Manan Tomar, Lior Shani, Yonathan Efroni, Mohammad Ghavamzadeh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hsojdpfhbj"></a>
-9. [PER-ETD: A Polynomially Efficient Emphatic Temporal Difference Learning Method](https://openreview.net/forum?id=-HSOjDPfhBJ)
-   - Ziwei Guan, Tengyu Xu, Yingbin Liang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wfzgut6e09"></a>
-10. [Pareto Policy Adaptation](https://openreview.net/forum?id=wfZGut6e09)
-   - Panagiotis Kyriakis, Jyotirmoy Deshmukh, Paul Bogdan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jm2kfbjvvi"></a>
-11. [Who Is the Strongest Enemy? Towards Optimal and Efficient Evasion Attacks in Deep RL](https://openreview.net/forum?id=JM2kFbJvvI)
-   - Yanchao Sun, Ruijie Zheng, Yongyuan Liang, Furong Huang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-9nk6ajkvyb"></a>
+1. [Audio Lottery: Speech Recognition Made Ultra-Lightweight, Noise-Robust, and Transferable](https://openreview.net/forum?id=9Nk6AJkVYB)
+   - Shaojin Ding, Tianlong Chen, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rltqs6pzj1"></a>
+2. [Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity](https://openreview.net/forum?id=RLtqs6pzj1-)
+   - Shiwei Liu, Tianlong Chen, Zahra Atashgahi, Xiaohan Chen, Ghada Sokar, Elena Mocanu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-fosn52jn25l"></a>
+3. [Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l)
+   - Yue Bai, Huan Wang, ZHIQIANG TAO, Kunpeng Li, Yun Fu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fl3mg-mzr"></a>
+4. [On Lottery Tickets and Minimal Task Representations in Deep Reinforcement Learning](https://openreview.net/forum?id=Fl3Mg_MZR-)
+   - Marc Vischer, Robert Tjarko Lange, Henning Sprekeler; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-syb4wrjql1n"></a>
+5. [On the Existence of Universal Lottery Tickets](https://openreview.net/forum?id=SYB4WrJql1n)
+   - Rebekka Burkholz, Nilanjana Laha, Rajarshi Mukherjee, Alkis Gotovos; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mohczz6d5h3"></a>
+6. [Peek-a-Boo: What (More) is Disguised in a Randomly Weighted Neural Network, and How to Find It Efficiently](https://openreview.net/forum?id=moHCzz6D5H3)
+   - Xiaohan Chen, Jason Zhang, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9n9c8sf0xm"></a>
+7. [Plant 'n' Seek: Can You Find the Winning Ticket?](https://openreview.net/forum?id=9n9c8sf0xm)
+   - Jonas Fischer, Rebekka Burkholz; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-aign9uwfcd1"></a>
+8. [Prospect Pruning: Finding Trainable Weights at Initialization using Meta-Gradients](https://openreview.net/forum?id=AIgn9uwfcD1)
+   - Milad Alizadeh, Shyam A. Tailor, Luisa M Zintgraf, Joost van Amersfoort, Sebastian Farquhar, Nicholas Donald Lane, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vjki79-619"></a>
+9. [Proving the Lottery Ticket Hypothesis for Convolutional Neural Networks](https://openreview.net/forum?id=Vjki79-619-)
+   - Arthur da Cunha, Emanuele Natale, Laurent Viennot; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ldehimg9wlo"></a>
+10. [Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions](https://openreview.net/forum?id=LdEhiMG9WLO)
+   - Shaochen Zhong, Guanqun Zhang, Ningjia Huang, Shuai Xu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-e0jtgtfpihs"></a>
+11. [Signing the Supermask: Keep, Hide, Invert](https://openreview.net/forum?id=e0jtGTfPihs)
+   - Nils Koster, Oliver Grothe, Achim Rettinger; assignment: `hdbscan`; source: `OpenReview`

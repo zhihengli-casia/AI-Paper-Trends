@@ -1,83 +1,92 @@
-# ICLR 2021: quantization / precision / memory / dnn
+# ICLR 2021: 医疗健康与临床 AI
 
 - Topic ID: `11`
-- Papers: **21** (2.44%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `quantization / precision / memory / dnn`
-- Keyword pool: quantization; precision; memory; dnn; dynamic; convolutional; quantized; tensor; gradients; binary; compression; sparsity
+- Papers: **24** (2.79%)
+- Macro topic: 可信/安全/公平
+- English keywords: `adversarial / robustness / certified / attacks`
+- Keyword pool: adversarial; robustness; certified; attacks; perturbations; threat; examples; perceptual; defense; concentration; medical; transferability
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- More or Less: When and How to Build Convolutional Neural Network Ensembles
-- Neural gradients are near-lognormal: improved quantized and sparse training
-- Training with Quantization Noise for Extreme Model Compression
-- CPT: Efficient Deep Neural Network Training via Cyclic Precision
-- Revisiting Locally Supervised Learning: an Alternative to End-to-end Training
+- Provably robust classification of adversarial examples with detection
+- Perceptual Adversarial Robustness: Defense Against Unseen Threat Models
+- Bag of Tricks for Adversarial Training
+- Self-supervised Adversarial Robustness for the Low-label, High-data Regime
+- Certify or Predict: Boosting Certified Robustness with Compositional Architectures
 
 ## Papers
 
-<a id="paper-6zatwpnssq2"></a>
-1. [A Block Minifloat Representation for Training Deep Neural Networks](https://openreview.net/forum?id=6zaTwpNSsQ2)
-   - Sean Fox, Seyedramin Rasoulinezhad, Julian Faraone, david boland, Philip Leong; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-powv6hdd9xh"></a>
-2. [BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction](https://openreview.net/forum?id=POWv6hDd9XH)
-   - Yuhang Li, Ruihao Gong, Xu Tan, Yang Yang, Peng Hu, Qi Zhang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tixl51scnw8"></a>
-3. [BSQ: Exploring Bit-Level Sparsity for Mixed-Precision Neural Network Quantization](https://openreview.net/forum?id=TiXl51SCNw8)
-   - Huanrui Yang, Lin Duan, Yiran Chen, Hai Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-87zwsaqnhpz"></a>
-4. [CPT: Efficient Deep Neural Network Training via Cyclic Precision](https://openreview.net/forum?id=87ZwsaQNHPZ)
-   - Yonggan Fu, Han Guo, Meng Li, Xin Yang, Yining Ding, Vikas Chandra, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-msakhlylssl"></a>
-5. [Dataset Condensation with Gradient Matching](https://openreview.net/forum?id=mSAKhLYLSsl)
-   - Bo Zhao, Konda Reddy Mopuri, Hakan Bilen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-gtgb3m-kcul"></a>
-6. [DynaTune: Dynamic Tensor Program Optimization in Deep Neural Network Compilation](https://openreview.net/forum?id=GTGb3M_KcUl)
-   - Minjia Zhang, Menghao Li, Chi Wang, Mingqin Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vfs-2rnod0h"></a>
-7. [Dynamic Tensor Rematerialization](https://openreview.net/forum?id=Vfs_2RnOD0H)
-   - Marisa Kirisame, Steven Lyubomirsky, Altan Haan, Jennifer Brennan, Mike He, Jared Roesch, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ycxrx6rrcxo"></a>
-8. [Faster Binary Embeddings for Preserving Euclidean Distances](https://openreview.net/forum?id=YCXrx6rRCXO)
-   - Jinjie Zhang, Rayan Saab; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qvyew-grc2k"></a>
-9. [Long Range Arena : A Benchmark for Efficient Transformers](https://openreview.net/forum?id=qVyeW-grC2k)
-   - Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-wwk7yxkulyh"></a>
-10. [MONGOOSE: A Learnable LSH Framework for Efficient Neural Network Training](https://openreview.net/forum?id=wWK7yXkULyh)
-   - Beidi Chen, Zichang Liu, Binghui Peng, Zhaozhuo Xu, Jonathan Lingjie Li, Tri Dao, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bny0jm4l59"></a>
-11. [Memory Optimization for Deep Networks](https://openreview.net/forum?id=bnY0jm4l59)
-   - Aashaka Shah, Chao-Yuan Wu, Jayashree Mohan, Vijay Chidambaram, Philipp Kraehenbuehl; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-z5z023vbmdz"></a>
-12. [More or Less: When and How to Build Convolutional Neural Network Ensembles](https://openreview.net/forum?id=z5Z023VBmDZ)
-   - Abdul Wasay, Stratos Idreos; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-73wtgs96kho"></a>
-13. [Net-DNF: Effective Deep Modeling of Tabular Data](https://openreview.net/forum?id=73WTGs96kho)
-   - Liran Katzir, Gal Elidan, Ran El-Yaniv; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-eofny62jgd"></a>
-14. [Neural gradients are near-lognormal: improved quantized and sparse training](https://openreview.net/forum?id=EoFNy62JGd)
-   - Brian Chmiel, Liad Ben-Uri, Moran Shkolnik, Elad Hoffer, Ron Banner, Daniel Soudry; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6brlofrmhw"></a>
-15. [Partitioned Learned Bloom Filters](https://openreview.net/forum?id=6BRLOfrMhW)
-   - Kapil Vaidya, Eric Knorr, Michael Mitzenmacher, Tim Kraska; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ywpzmcaehz"></a>
-16. [Revisiting Dynamic Convolution via Matrix Decomposition](https://openreview.net/forum?id=YwpZmcAehZ)
-   - Yunsheng Li, Yinpeng Chen, Xiyang Dai, mengchen liu, Dongdong Chen, Ye Yu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-fabke6ant2"></a>
-17. [Revisiting Locally Supervised Learning: an Alternative to End-to-end Training](https://openreview.net/forum?id=fAbkE6ant2)
-   - Yulin Wang, Zanlin Ni, Shiji Song, Le Yang, Gao Huang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qr0arlie-hb"></a>
-18. [Simple Augmentation Goes a Long Way: ADRL for DNN Quantization](https://openreview.net/forum?id=Qr0aRliE_Hb)
-   - Lin Ning, Guoyang Chen, Weifeng Zhang, Xipeng Shen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ayuzo9didnn"></a>
-19. [The Unreasonable Effectiveness of Patches in Deep Convolutional Kernels Methods](https://openreview.net/forum?id=aYuZO9DIdnn)
-   - Louis THIRY, Michael Arbel, Eugene Belilovsky, Edouard Oyallon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dv19yyi1fs3"></a>
-20. [Training with Quantization Noise for Extreme Model Compression](https://openreview.net/forum?id=dV19Yyi1fS3)
-   - Pierre Stock, Angela Fan, Benjamin Graham, Edouard Grave, Rémi Gribonval, Herve Jegou, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3sqrre8fwq"></a>
-21. [WrapNet: Neural Net Inference with Ultra-Low-Precision Arithmetic](https://openreview.net/forum?id=3SqrRe8FWQ-)
-   - Renkun Ni, Hong-min Chu, Oscar Castaneda, Ping-yeh Chiang, Christoph Studer, Tom Goldstein; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-x76iqnubbjz"></a>
+1. [A Unified Approach to Interpreting and Boosting Adversarial Transferability](https://openreview.net/forum?id=X76iqnUbBjz)
+   - Xin Wang, Jie Ren, Shuyun Lin, Xiangming Zhu, Yisen Wang, Quanshi Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-jocr4h9o3ew"></a>
+2. [ARMOURED: Adversarially Robust MOdels using Unlabeled data by REgularizing Diversity](https://openreview.net/forum?id=JoCR4h9O3Ew)
+   - Kangkang Lu, Cuong Manh Nguyen, Xun Xu, Kiran Krishnamachari, Yu Jing Goh, Chuan-Sheng Foo; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xb8xvrtb8ce"></a>
+3. [Bag of Tricks for Adversarial Training](https://openreview.net/forum?id=Xb8xvrtB8Ce)
+   - Tianyu Pang, Xiao Yang, Yinpeng Dong, Hang Su, Jun Zhu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uscnapootw"></a>
+4. [Certify or Predict: Boosting Certified Robustness with Compositional Architectures](https://openreview.net/forum?id=USCNapootw)
+   - Mark Niklas Mueller, Mislav Balunovic, Martin Vechev; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ulqdiuthe3y"></a>
+5. [Collective Robustness Certificates: Exploiting Interdependence in Graph Neural Networks](https://openreview.net/forum?id=ULQdiUTHe3y)
+   - Jan Schuchardt, Aleksandar Bojchevski, Johannes Gasteiger, Stephan Günnemann; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kxlwvhoodk"></a>
+6. [Decentralized Attribution of Generative Models](https://openreview.net/forum?id=_kxlwvhOodK)
+   - Changhoon Kim, Yi Ren, Yezhou Yang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-hr-3pmvdpil"></a>
+7. [Efficient Certified Defenses Against Patch Attacks on Image Classifiers](https://openreview.net/forum?id=hr-3PMvDpil)
+   - Jan Hendrik Metzen, Maksym Yatsura; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4dxmpcdgnp7"></a>
+8. [Evaluations and Methods for Explanation through Robustness Analysis](https://openreview.net/forum?id=4dXmpCDGNp7)
+   - Cheng-Yu Hsieh, Chih-Kuan Yeh, Xuanqing Liu, Pradeep Kumar Ravikumar, Seungyeon Kim, Sanjiv Kumar, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-zwy1uxjddzj"></a>
+9. [Fast Geometric Projections for Local Robustness Certification](https://openreview.net/forum?id=zWy1uxjDdZJ)
+   - Aymeric Fromherz, Klas Leino, Matt Fredrikson, Bryan Parno, Corina Pasareanu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-iax0l6cz8ub"></a>
+10. [Geometry-aware Instance-reweighted Adversarial Training](https://openreview.net/forum?id=iAX0l6Cz8ub)
+   - Jingfeng Zhang, Jianing Zhu, Gang Niu, Bo Han, Masashi Sugiyama, Mohan Kankanhalli; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-g-wu9tmpodo"></a>
+11. [How Benign is Benign Overfitting ?](https://openreview.net/forum?id=g-wu9TMPODo)
+   - Amartya Sanyal, Puneet K. Dokania, Varun Kanade, Philip Torr; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bulyhkzjgma"></a>
+12. [Improved Estimation of Concentration Under $\ell_p$-Norm Distance Metrics Using Half Spaces](https://openreview.net/forum?id=BUlyHkzjgmA)
+   - Jack Prescott, Xiao Zhang, David Evans; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zqtezqcctnx"></a>
+13. [Improving Adversarial Robustness via Channel-wise Activation Suppressing](https://openreview.net/forum?id=zQTezqCCtNx)
+   - Yang Bai, Yuyuan Zeng, Yong Jiang, Shu-Tao Xia, Xingjun Ma, Yisen Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ophlcxxytc"></a>
+14. [Influence Estimation for Generative Adversarial Networks](https://openreview.net/forum?id=opHLcXxYTC_)
+   - Naoyuki Terashita, Hiroki Ohashi, Yuichi Nonaka, Takashi Kanemaru; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-midcka56ad"></a>
+15. [Learning perturbation sets for robust machine learning](https://openreview.net/forum?id=MIDckA56aD)
+   - Eric Wong, J Zico Kolter; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hjmtwoceqzc"></a>
+16. [LowKey: Leveraging Adversarial Attacks to Protect Social Media Users from Facial Recognition](https://openreview.net/forum?id=hJmtwocEqzc)
+   - Valeriia Cherepanova, Micah Goldblum, Harrison Foley, Shiyuan Duan, John P Dickerson, Gavin Taylor, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o81zybcojoa"></a>
+17. [On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning](https://openreview.net/forum?id=o81ZyBCojoA)
+   - Ren Wang, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Chuang Gan, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-i3aspp12ws"></a>
+18. [Online Adversarial Purification based on Self-supervised Learning](https://openreview.net/forum?id=_i3ASPp12WS)
+   - Changhao Shi, Chester Holtz, Gal Mishne; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dfwbosacjkn"></a>
+19. [Perceptual Adversarial Robustness: Defense Against Unseen Threat Models](https://openreview.net/forum?id=dFwBosAcJkN)
+   - Cassidy Laidlaw, Sahil Singla, Soheil Feizi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sra5rlnpmqc"></a>
+20. [Provably robust classification of adversarial examples with detection](https://openreview.net/forum?id=sRA5rLNpmQc)
+   - Fatemeh Sheikholeslami, Ali Lotfi, J Zico Kolter; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qzzy5urzw9"></a>
+21. [Robust Overfitting may be mitigated by properly learned smoothening](https://openreview.net/forum?id=qZzy5urZw9)
+   - Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bgqek2o63w"></a>
+22. [Self-supervised Adversarial Robustness for the Low-label, High-data Regime](https://openreview.net/forum?id=bgQek2O63w)
+   - Sven Gowal, Po-Sen Huang, Aaron van den Oord, Timothy Mann, Pushmeet Kohli; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qftxqigyudj"></a>
+23. [Stabilized Medical Image Attacks](https://openreview.net/forum?id=QfTXQiGYudJ)
+   - Gege Qi, Lijun GONG, Yibing Song, Kai Ma, Yefeng Zheng; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-iamzuo0dxc0"></a>
+24. [Unlearnable Examples: Making Personal Data Unexploitable](https://openreview.net/forum?id=iAmZUo0DxC0)
+   - Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, Yisen Wang; assignment: `nearest_centroid`; source: `OpenReview`

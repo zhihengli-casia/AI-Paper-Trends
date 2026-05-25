@@ -1,68 +1,65 @@
-# ICLR 2022: quantization / compression / bit / bottleneck
+# ICLR 2022: offline / 策略优化 / reinforcement / model-based
 
 - Topic ID: `34`
-- Papers: **16** (1.46%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `quantization / compression / bit / bottleneck`
-- Keyword pool: quantization; compression; bit; bottleneck; dnn; units; quantized; gaussian; bounds; entropy; format; nns
+- Papers: **15** (1.41%)
+- Macro topic: 强化学习/决策
+- English keywords: `offline / policy / reinforcement / model-based`
+- Keyword pool: offline; policy; reinforcement; model-based; pessimistic; uncertainty; control; environment; pareto; policies; koopman; partial coverage
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Information Bottleneck: Exact Analysis of (Quantized) Neural Networks
-- Lossless Compression with Probabilistic Circuits
-- F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization
-- 8-bit Optimizers via Block-wise Quantization
-- Toward Efficient Low-Precision Training: Data Format Optimization and Hysteresis Quantization
+- Revisiting Design Choices in Offline Model Based Reinforcement Learning
+- On-Policy Model Errors in Reinforcement Learning
+- Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage
+- Pareto Policy Pool for Model-based Offline Reinforcement Learning
+- An Experimental Design Perspective on Model-Based Reinforcement Learning
 
 ## Papers
 
-<a id="paper-shpkpvxzo3h"></a>
-1. [8-bit Optimizers via Block-wise Quantization](https://openreview.net/forum?id=shpkpVXzo3h)
-   - Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-irculgmdfhj"></a>
-2. [DISCOVERING AND EXPLAINING THE REPRESENTATION BOTTLENECK OF DNNS](https://openreview.net/forum?id=iRCUlgmdfHJ)
-   - Huiqi Deng, Qihan Ren, Hao Zhang, Quanshi Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-j-f-qqce3z5"></a>
-3. [DKM: Differentiable k-Means Clustering Layer for Neural Network Compression](https://openreview.net/forum?id=J_F_qqCE3Z5)
-   - Minsik Cho, Keivan Alizadeh-Vahid, Saurabh Adya, Mohammad Rastegari; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cfpjazzxt2"></a>
-4. [F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization](https://openreview.net/forum?id=_CfpJazzXT2)
-   - Qing Jin, Jian Ren, Richard Zhuang, Sumant Hanumante, Zhengang Li, Zhiyu Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-oxeka7z7hor"></a>
-5. [Gaussian Mixture Convolution Networks](https://openreview.net/forum?id=Oxeka7Z7Hor)
-   - Adam Celarek, Pedro Hermosilla, Bernhard Kerbl, Timo Ropinski, Michael Wimmer; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-t0b9aom-bfg"></a>
-6. [Improving Mutual Information Estimation with Annealed and Energy-Based Bounds](https://openreview.net/forum?id=T0B9AoM_bFg)
-   - Rob Brekelmans, Sicong Huang, Marzyeh Ghassemi, Greg Ver Steeg, Roger Baker Grosse, Alireza Makhzani; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-kf9dzqqru0w"></a>
-7. [Information Bottleneck: Exact Analysis of (Quantized) Neural Networks](https://openreview.net/forum?id=kF9DZQQrU0w)
-   - Stephan Sloth Lorenzen, Christian Igel, Mads Nielsen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-8wawvddkqll"></a>
-8. [Label Encoding for Regression Networks](https://openreview.net/forum?id=8WawVDdKqlL)
-   - Deval Shah, Zi Yu Xue, Tor Aamodt; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-x-hbyk2-5je"></a>
-9. [Lossless Compression with Probabilistic Circuits](https://openreview.net/forum?id=X_hByk2-5je)
-   - Anji Liu, Stephan Mandt, Guy Van den Broeck; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ilhoidspv1p"></a>
-10. [PAC-Bayes Information Bottleneck](https://openreview.net/forum?id=iLHOIDsPv1P)
-   - Zifeng Wang, Shao-Lun Huang, Ercan Engin Kuruoglu, Jimeng Sun, Xi Chen, Yefeng Zheng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ysqh0odyp7"></a>
-11. [QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization](https://openreview.net/forum?id=ySQH0oDyp7)
-   - Xiuying Wei, Ruihao Gong, Yuhang Li, Xianglong Liu, Fengwei Yu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xfoymwwpkz"></a>
-12. [Quantitative Performance Assessment of CNN Units via Topological Entropy Calculation](https://openreview.net/forum?id=xFOyMwWPkz)
-   - Yang Zhao, Hao Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jxhroknzzoc"></a>
-13. [SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation](https://openreview.net/forum?id=JXhROKNZzOc)
-   - Cong Guo, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-waid50qschi"></a>
-14. [Sparse Communication via Mixed Distributions](https://openreview.net/forum?id=WAid50QschI)
-   - António Farinhas, Wilker Aziz, Vlad Niculae, Andre Martins; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3hjoa-1hb0e"></a>
-15. [Toward Efficient Low-Precision Training: Data Format Optimization and Hysteresis Quantization](https://openreview.net/forum?id=3HJOA-1hb0e)
-   - Sunwoo Lee, Jeongwoo Park, Dongsuk Jeon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-h4pmoqszdy"></a>
-16. [Towards Empirical Sandwich Bounds on the Rate-Distortion Function](https://openreview.net/forum?id=H4PmOqSZDY)
-   - Yibo Yang, Stephan Mandt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0no8motr-zo"></a>
+1. [An Experimental Design Perspective on Model-Based Reinforcement Learning](https://openreview.net/forum?id=0no8Motr-zO)
+   - Viraj Mehta, Biswajit Paria, Jeff Schneider, Stefano Ermon, Willie Neiswanger; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fla55mbee6q"></a>
+2. [COptiDICE: Offline Constrained Reinforcement Learning via Stationary Distribution Correction Estimation](https://openreview.net/forum?id=FLA55mBee6Q)
+   - Jongmin Lee, Cosmin Paduraru, Daniel J Mankowitz, Nicolas Heess, Doina Precup, Kee-Eung Kim, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-przosmcinhf"></a>
+3. [Constrained Policy Optimization via Bayesian World Models](https://openreview.net/forum?id=PRZoSmCinhf)
+   - Yarden As, Ilnura Usmanova, Sebastian Curi, Andreas Krause; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hnilrd-xca"></a>
+4. [DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator](https://openreview.net/forum?id=hniLRD_XCA)
+   - Minghao Han, Jacob Euler-Rolle, Robert K. Katzschmann; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ss8f6tfx3"></a>
+5. [Evaluating Model-Based Planning and Planner Amortization for Continuous Control](https://openreview.net/forum?id=SS8F6tFX3-)
+   - Arunkumar Byravan, Leonard Hasenclever, Piotr Trochim, Mehdi Mirza, Alessandro Davide Ialongo, Yuval Tassa, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rzvoqrnclo0"></a>
+6. [Gradient Information Matters in Policy Optimization by Back-propagating through Model](https://openreview.net/forum?id=rzvOQrnclO0)
+   - Chongchong Li, Yue Wang, Wei Chen, Yuting Liu, Zhi-Ming Ma, Tie-Yan Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ebn0uinjzwh"></a>
+7. [Model-Based Offline Meta-Reinforcement Learning with Regularization](https://openreview.net/forum?id=EBn0uInJZWh)
+   - Sen Lin, Jialin Wan, Tengyu Xu, Yingbin Liang, Junshan Zhang; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-kladxlazzft"></a>
+8. [Near-optimal Offline Reinforcement Learning with Linear Representation: Leveraging Variance Information with Pessimism](https://openreview.net/forum?id=KLaDXLAzzFT)
+   - Ming Yin, Yaqi Duan, Mengdi Wang, Yu-Xiang Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-81e1aeot-sd"></a>
+9. [On-Policy Model Errors in Reinforcement Learning](https://openreview.net/forum?id=81e1aeOt-sd)
+   - Lukas Froehlich, Maksym Lefarov, Melanie Zeilinger, Felix Berkenkamp; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oqczu8jiizs"></a>
+10. [Pareto Policy Pool for Model-based Offline Reinforcement Learning](https://openreview.net/forum?id=OqcZu8JIIzS)
+   - Yijun Yang, Jing Jiang, Tianyi Zhou, Jie Ma, Yuhui Shi; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-y4cs1z3hnql"></a>
+11. [Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning](https://openreview.net/forum?id=Y4cs1Z3HnqL)
+   - Chenjia Bai, Lingxiao Wang, Zhuoran Yang, Zhi-Hong Deng, Animesh Garg, Peng Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tyrjsbkae6"></a>
+12. [Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage](https://openreview.net/forum?id=tyrJsbKAe6)
+   - Masatoshi Uehara, Wen Sun; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zz9hxvhf40"></a>
+13. [Revisiting Design Choices in Offline Model Based Reinforcement Learning](https://openreview.net/forum?id=zz9hXVhf40)
+   - Cong Lu, Philip Ball, Jack Parker-Holder, Michael Osborne, Stephen J. Roberts; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vrw3tvdfojq"></a>
+14. [Sample Efficient Deep Reinforcement Learning via Uncertainty Estimation](https://openreview.net/forum?id=vrW3tvDfOJQ)
+   - Vincent Mai, Kaustubh Mani, Liam Paull; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4-d6czkrxxi"></a>
+15. [Value Gradient weighted Model-Based Reinforcement Learning](https://openreview.net/forum?id=4-D6CZkRXxI)
+   - Claas A Voelcker, Victor Liao, Animesh Garg, Amir-massoud Farahmand; assignment: `hdbscan`; source: `OpenReview`

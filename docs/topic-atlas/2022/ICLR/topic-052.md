@@ -1,50 +1,47 @@
-# ICLR 2022: 强化学习策略与奖励建模
+# ICLR 2022: 时间序列建模与预测
 
 - Topic ID: `52`
-- Papers: **10** (0.91%)
-- Macro topic: 强化学习/决策
-- English keywords: `skill / policies / reward / discovery`
-- Keyword pool: skill; policies; reward; discovery; reinforcement learning; environment; deformable; policy; manipulation; lower-level; mutual information; unsupervised
+- Papers: **9** (0.85%)
+- Macro topic: 其他/交叉主题
+- English keywords: `convolution / kernel / cnns / orthogonal`
+- Keyword pool: convolution; kernel; cnns; orthogonal; downsampling; size; gaussian; strides; jacobian; pooling; time series; binary classification
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Direct then Diffuse: Incremental Unsupervised Skill Discovery for State Covering and Goal Reaching
-- The Information Geometry of Unsupervised Reinforcement Learning
-- One After Another: Learning Incremental Skills for a Changing World
-- Hierarchical Few-Shot Imitation with Skill Transition Models
-- Lipschitz-constrained Unsupervised Skill Discovery
+- Approximation and Learning with Deep Convolutional Models: a Kernel Perspective
+- FlexConv: Continuous Kernel Convolutions With Differentiable Kernel Sizes
+- Omni-Dimensional Dynamic Convolution
+- Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification
+- CKConv: Continuous Kernel Convolution For Sequential Data
 
 ## Papers
 
-<a id="paper-kef8ckdhwpp"></a>
-1. [DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools](https://openreview.net/forum?id=Kef8cKdHWpP)
-   - Xingyu Lin, Zhiao Huang, Yunzhu Li, Joshua B. Tenenbaum, David Held, Chuang Gan; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-25kzahub1lz"></a>
-2. [Direct then Diffuse: Incremental Unsupervised Skill Discovery for State Covering and Goal Reaching](https://openreview.net/forum?id=25kzAhUB1lz)
-   - Pierre-Alexandre Kamienny, Jean Tarbouriech, sylvain lamprier, Alessandro Lazaric, Ludovic Denoyer; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xkz4k0ltj"></a>
-3. [Hierarchical Few-Shot Imitation with Skill Transition Models](https://openreview.net/forum?id=xKZ4K0lTj_)
-   - Kourosh Hakhamaneshi, Ruihan Zhao, Albert Zhan, Pieter Abbeel, Michael Laskin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cu8rknuhxc"></a>
-4. [Learning more skills through optimistic exploration](https://openreview.net/forum?id=cU8rknuhxc)
-   - DJ Strouse, Kate Baumli, David Warde-Farley, Volodymyr Mnih, Steven Stenberg Hansen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qthbe7e9iej"></a>
-5. [Learning transferable motor skills with hierarchical latent mixture policies](https://openreview.net/forum?id=qTHBE7E9iej)
-   - Dushyant Rao, Fereshteh Sadeghi, Leonard Hasenclever, Markus Wulfmeier, Martina Zambelli, Giulia Vezzani, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bgvt0ghnga"></a>
-6. [Lipschitz-constrained Unsupervised Skill Discovery](https://openreview.net/forum?id=BGvt0ghNgA)
-   - Seohong Park, Jongwook Choi, Jaekyeom Kim, Honglak Lee, Gunhee Kim; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dg79mosrqio"></a>
-7. [One After Another: Learning Incremental Skills for a Changing World](https://openreview.net/forum?id=dg79moSRqIo)
-   - Nur Muhammad Mahi Shafiullah, Lerrel Pinto; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-l-qjpgn5ye"></a>
-8. [The Boltzmann Policy Distribution: Accounting for Systematic Suboptimality in Human Models](https://openreview.net/forum?id=_l_QjPGN5ye)
-   - Cassidy Laidlaw, Anca Dragan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3wu2ux0voe"></a>
-9. [The Information Geometry of Unsupervised Reinforcement Learning](https://openreview.net/forum?id=3wU2UX0voE)
-   - Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6vkzf28hur8"></a>
-10. [Training Transition Policies via Distribution Matching for Complex Tasks](https://openreview.net/forum?id=6vkzF28Hur8)
-   - JU-SEUNG BYUN, Andrew Perrault; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lrocyb-0st2"></a>
+1. [Approximation and Learning with Deep Convolutional Models: a Kernel Perspective](https://openreview.net/forum?id=lrocYB-0ST2)
+   - Alberto Bietti; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8fhxbtxsl0"></a>
+2. [CKConv: Continuous Kernel Convolution For Sequential Data](https://openreview.net/forum?id=8FhxBtXSl0)
+   - David W. Romero, Anna Kuzina, Erik J Bekkers, Jakub Mikolaj Tomczak, Mark Hoogendoorn; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zr5w2lsrhd"></a>
+3. [Constructing Orthogonal Convolutions in an Explicit Manner](https://openreview.net/forum?id=Zr5W2LSRhD)
+   - Tan Yu, Jun Li, YUNFENG CAI, Ping Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3joof27-0wy"></a>
+4. [FlexConv: Continuous Kernel Convolutions With Differentiable Kernel Sizes](https://openreview.net/forum?id=3jooF27-0Wy)
+   - David W. Romero, Robert-Jan Bruintjes, Jakub Mikolaj Tomczak, Erik J Bekkers, Mark Hoogendoorn, Jan van Gemert; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oxeka7z7hor"></a>
+5. [Gaussian Mixture Convolution Networks](https://openreview.net/forum?id=Oxeka7Z7Hor)
+   - Adam Celarek, Pedro Hermosilla, Bernhard Kerbl, Timo Ropinski, Michael Wimmer; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-m752z9fkjp"></a>
+6. [Learning Strides in Convolutional Neural Networks](https://openreview.net/forum?id=M752z9FKJP)
+   - Rachid Riad, Olivier Teboul, David Grangier, Neil Zeghidour; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dmpcfq6mg39"></a>
+7. [Omni-Dimensional Dynamic Convolution](https://openreview.net/forum?id=DmpCfq6Mg39)
+   - Chao Li, Aojun Zhou, Anbang Yao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-pdys7z2xfgv"></a>
+8. [Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification](https://openreview.net/forum?id=PDYs7Z2XFGv)
+   - Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Michael Blumenstein, Jing Jiang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-l3sdguh7qzo"></a>
+9. [SphereFace2: Binary Classification is All You Need for Deep Face Recognition](https://openreview.net/forum?id=l3SDgUh7qZO)
+   - Yandong Wen, Weiyang Liu, Adrian Weller, Bhiksha Raj, Rita Singh; assignment: `nearest_centroid`; source: `OpenReview`

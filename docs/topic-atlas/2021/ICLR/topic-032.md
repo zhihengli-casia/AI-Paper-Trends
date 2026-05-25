@@ -1,62 +1,62 @@
-# ICLR 2021: recurrent / units / rnns / dynamical
+# ICLR 2021: 目标检测与图像分割
 
 - Topic ID: `32`
 - Papers: **14** (1.63%)
-- Macro topic: 理论/优化
-- English keywords: `recurrent / units / rnns / dynamical`
-- Keyword pool: recurrent; units; rnns; dynamical; neurons; memory; inhibitory; conversion; timescales; spiking; neuroscience; mapping
+- Macro topic: 计算机视觉
+- English keywords: `segmentation / pseudo-labeling / semi-supervised / ssl`
+- Keyword pool: segmentation; pseudo-labeling; semi-supervised; ssl; self-training; zsl; loss functions; zero-shot learning; object detection; labeled; weak; normalization
 
 [Back to ICLR 2021](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Identifying nonlinear dynamical systems with multiple time scales and long-range dependencies
-- On the Curse of Memory in Recurrent Neural Networks: Approximation and Optimization Analysis
-- Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies
-- Lipschitz Recurrent Neural Networks
-- Hopfield Networks is All You Need
+- PseudoSeg: Designing Pseudo Labels for Semantic Segmentation
+- Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data
+- Cut out the annotator, keep the cutout: better segmentation with weak supervision
+- In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning
+- On Data-Augmentation and Consistency-Based Semi-Supervised Learning
 
 ## Papers
 
-<a id="paper-f3s69xzwoia"></a>
-1. [Coupled Oscillatory Recurrent Neural Network (coRNN): An accurate and (gradient) stable architecture for learning long time dependencies](https://openreview.net/forum?id=F3s69XzWOia)
-   - T. Konstantin Rusch, Siddhartha Mishra; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tl89rnziicd"></a>
-2. [Hopfield Networks is All You Need](https://openreview.net/forum?id=tL89RnzIiCd)
-   - Hubert Ramsauer, Bernhard Schäfl, Johannes Lehner, Philipp Seidl, Michael Widrich, Lukas Gruber, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xyzwxpiqu6"></a>
-3. [Identifying nonlinear dynamical systems with multiple time scales and long-range dependencies](https://openreview.net/forum?id=_XYzwxPIQu6)
-   - Dominik Schmidt, Georgia Koppe, Zahra Monfared, Max Beutelspacher, Daniel Durstewitz; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-x4y-10ox-hx"></a>
-4. [Large Associative Memory Problem in Neurobiology and Machine Learning](https://openreview.net/forum?id=X4y_10OX-hX)
-   - Dmitry Krotov, John J. Hopfield; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tuk6agbdt27"></a>
-5. [Learning Associative Inference Using Fast Weight Memory](https://openreview.net/forum?id=TuK6agbdt27)
-   - Imanol Schlag, Tsendsuren Munkhdalai, Jürgen Schmidhuber; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-eu776zyxepz"></a>
-6. [Learning to live with Dale's principle: ANNs with separate excitatory and inhibitory units](https://openreview.net/forum?id=eU776ZYxEpz)
-   - Jonathan Cornford, Damjan Kalajdzievski, Marco Leite, Amélie Lamarquette, Dimitri Michael Kullmann, Blake Aaron Richards; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-n7pbxqoujz"></a>
-7. [Lipschitz Recurrent Neural Networks](https://openreview.net/forum?id=-N7PBXqOUJZ)
-   - N. Benjamin Erichson, Omri Azencot, Alejandro Queiruga, Liam Hodgkinson, Michael W. Mahoney; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-j3ouyckwz"></a>
-8. [Mapping the Timescale Organization of Neural Language Models](https://openreview.net/forum?id=J3OUycKwz-)
-   - Hsiang-Yun Sherry Chien, Jinhan Zhang, Christopher Honey; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-8sqhl-nf50"></a>
-9. [On the Curse of Memory in Recurrent Neural Networks: Approximation and Optimization Analysis](https://openreview.net/forum?id=8Sqhl-nF50)
-   - Zhong Li, Jiequn Han, Weinan E, Qianxiao Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rgjbergvioo"></a>
-10. [On the mapping between Hopfield networks and Restricted Boltzmann Machines](https://openreview.net/forum?id=RGJbergVIoO)
-   - Matthew Smart, Anton Zilman; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fz1otwcxchk"></a>
-11. [Optimal Conversion of Conventional Artificial Neural Networks to Spiking Neural Networks](https://openreview.net/forum?id=FZ1oTwcXchK)
-   - Shikuang Deng, Shi Gu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-q3ksthy2gwb"></a>
-12. [Practical Real Time Recurrent Learning with a Sparse Approximation](https://openreview.net/forum?id=q3KSThy2GwB)
-   - Jacob Menick, Erich Elsen, Utku Evci, Simon Osindero, Karen Simonyan, Alex Graves; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-2cjevw-rgoj"></a>
-13. [SkipW: Resource Adaptable RNN with Strict Upper Computational Limit](https://openreview.net/forum?id=2CjEVW-RGOJ)
-   - Tsiry Mayet, Anne Lambert, Pascal Leguyadec, Francoise Le Bolzer, François Schnitzler; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-42kij7n-8xo"></a>
-14. [The geometry of integration in text classification RNNs](https://openreview.net/forum?id=42kiJ7n_8xO)
-   - Kyle Aitken, Vinay Venkatesh Ramasesh, Ankush Garg, Yuan Cao, David Sussillo, Niru Maheswaranathan; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ahauv8ti2mz"></a>
+1. [Adaptive and Generative Zero-Shot Learning](https://openreview.net/forum?id=ahAUv8TI2Mz)
+   - Yu-Ying Chou, Hsuan-Tien Lin, Tyng-Luh Liu; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-mjaqnac2vo1"></a>
+2. [Auto Seg-Loss: Searching Metric Surrogates for Semantic Segmentation](https://openreview.net/forum?id=MJAqnaC2vO1)
+   - Hao Li, Chenxin Tao, Xizhou Zhu, Xiaogang Wang, Gao Huang, Jifeng Dai; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7pgfl2dkyyy"></a>
+3. [Class Normalization for (Continual)? Generalized Zero-Shot Learning](https://openreview.net/forum?id=7pgFL2Dkyyy)
+   - Ivan Skorokhodov, Mohamed Elhoseiny; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-bjkx6kzb5h"></a>
+4. [Cut out the annotator, keep the cutout: better segmentation with weak supervision](https://openreview.net/forum?id=bjkX6Kzb5H)
+   - Sarah Hooper, Michael Wornow, Ying Hang Seah, Peter Kellman, Hui Xue, Frederic Sala, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4t489t4yav"></a>
+5. [Differentiable Segmentation of Sequences](https://openreview.net/forum?id=4T489T4yav)
+   - Erik Scharwächter, Jonathan Lennartz, Emmanuel Müller; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-odn6sbiuu"></a>
+6. [In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning](https://openreview.net/forum?id=-ODN6SbiUU)
+   - Mamshad Nayeem Rizve, Kevin Duarte, Yogesh S Rawat, Mubarak Shah; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-idfqi9oy6k"></a>
+7. [Interactive Weak Supervision: Learning Useful Heuristics for Data Labeling](https://openreview.net/forum?id=IDFQI9OY6K)
+   - Benedikt Boecking, Willie Neiswanger, Eric Xing, Artur Dubrawski; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5jzlphvvrk"></a>
+8. [Loss Function Discovery for Object Detection via Convergence-Simulation Driven Search](https://openreview.net/forum?id=5jzlpHvvRk)
+   - Peidong Liu, Gengwei Zhang, Bochao Wang, Hang Xu, Xiaodan Liang, Yong Jiang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7fnqrcptiet"></a>
+9. [On Data-Augmentation and Consistency-Based Semi-Supervised Learning](https://openreview.net/forum?id=7FNqrcPtieT)
+   - Atin Ghosh, Alexandre H. Thiery; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-two99rbvru"></a>
+10. [PseudoSeg: Designing Pseudo Labels for Semantic Segmentation](https://openreview.net/forum?id=-TwO99rbVRu)
+   - Yuliang Zou, Zizhao Zhang, Han Zhang, Chun-Liang Li, Xiao Bian, Jia-Bin Huang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-o3y56aqpcha"></a>
+11. [Self-training For Few-shot Transfer Across Extreme Task Differences](https://openreview.net/forum?id=O3Y56aqpChA)
+   - Cheng Perng Phoo, Bharath Hariharan; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-uxl3bzlkr3c"></a>
+12. [Tent: Fully Test-Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c)
+   - Dequan Wang, Evan Shelhamer, Shaoteng Liu, Bruno Olshausen, Trevor Darrell; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rc8sj4i6kah"></a>
+13. [Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data](https://openreview.net/forum?id=rC8sJ4i6kaH)
+   - Colin Wei, Kendrick Shen, Yining Chen, Tengyu Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mjive1zgr"></a>
+14. [Unbiased Teacher for Semi-Supervised Object Detection](https://openreview.net/forum?id=MJIve1zgR_)
+   - Yen-Cheng Liu, Chih-Yao Ma, Zijian He, Chia-Wen Kuo, Kan Chen, Peizhao Zhang, et al.; assignment: `hdbscan`; source: `OpenReview`

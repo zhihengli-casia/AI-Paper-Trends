@@ -1,80 +1,77 @@
-# ICLR 2022: pruning / lottery / ticket / sparse
+# ICLR 2022: language / concepts / lms / prompts
 
 - Topic ID: `24`
-- Papers: **20** (1.83%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `pruning / lottery / ticket / sparse`
-- Keyword pool: pruning; lottery; ticket; sparse; sparsity; hypothesis; dense; winning; randomly; compression; weights; grouped
+- Papers: **19** (1.79%)
+- Macro topic: LLM/语言模型
+- English keywords: `language / concepts / lms / prompts`
+- Keyword pool: language; concepts; lms; prompts; pretraining; zero-shot; few-shot; entity; reasoning; answering; grounded; mention
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training
-- Plant 'n' Seek: Can You Find the Winning Ticket?
-- Prospect Pruning: Finding Trainable Weights at Initialization using Meta-Gradients
-- Dual Lottery Ticket Hypothesis
-- On the Existence of Universal Lottery Tickets
+- The Inductive Bias of In-Context Learning: Rethinking Pretraining Example Design
+- Mapping Language Models to Grounded Conceptual Spaces
+- An Explanation of In-context Learning as Implicit Bayesian Inference
+- Finetuned Language Models are Zero-Shot Learners
+- Knowledge Infused Decoding
 
 ## Papers
 
-<a id="paper-pwbnogdeurp"></a>
-1. [An Operator Theoretic View On Pruning Deep Neural Networks](https://openreview.net/forum?id=pWBNOgdeURp)
-   - William T Redman, MARIA FONOBEROVA, Ryan Mohr, Yannis Kevrekidis, Igor Mezic; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9nk6ajkvyb"></a>
-2. [Audio Lottery: Speech Recognition Made Ultra-Lightweight, Noise-Robust, and Transferable](https://openreview.net/forum?id=9Nk6AJkVYB)
-   - Shaojin Ding, Tianlong Chen, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rltqs6pzj1"></a>
-3. [Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity](https://openreview.net/forum?id=RLtqs6pzj1-)
-   - Shiwei Liu, Tianlong Chen, Zahra Atashgahi, Xiaohan Chen, Ghada Sokar, Elena Mocanu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fosn52jn25l"></a>
-4. [Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l)
-   - Yue Bai, Huan Wang, ZHIQIANG TAO, Kunpeng Li, Yun Fu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xa6otuddp2w"></a>
-5. [Effective Model Sparsification by Scheduled Grow-and-Prune Methods](https://openreview.net/forum?id=xa6otUDdP2W)
-   - Xiaolong Ma, Minghai Qin, Fei Sun, Zejiang Hou, Kun Yuan, Yi Xu, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vs5nk44ap9p"></a>
-6. [Encoding Weights of Irregular Sparsity for Fixed-to-Fixed Model Compression](https://openreview.net/forum?id=Vs5NK44aP9P)
-   - Bae Seong Park, Se Jung Kwon, Daehwan Oh, Byeongwook Kim, Dongsoo Lee; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ajgc97aofee"></a>
-7. [Learning Efficient Image Super-Resolution Networks via Structure-Regularized Pruning](https://openreview.net/forum?id=AjGC97Aofee)
-   - Yulun Zhang, Huan Wang, Can Qin, Yun Fu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-o1detitim"></a>
-8. [Learning Pruning-Friendly Networks via Frank-Wolfe: One-Shot, Any-Sparsity, And No Retraining](https://openreview.net/forum?id=O1DEtITim__)
-   - Miao Lu, Xiaolong Luo, Tianlong Chen, Wuyang Chen, Dong Liu, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fl3mg-mzr"></a>
-9. [On Lottery Tickets and Minimal Task Representations in Deep Reinforcement Learning](https://openreview.net/forum?id=Fl3Mg_MZR-)
-   - Marc Vischer, Robert Tjarko Lange, Henning Sprekeler; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-syb4wrjql1n"></a>
-10. [On the Existence of Universal Lottery Tickets](https://openreview.net/forum?id=SYB4WrJql1n)
-   - Rebekka Burkholz, Nilanjana Laha, Rajarshi Mukherjee, Alkis Gotovos; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mohczz6d5h3"></a>
-11. [Peek-a-Boo: What (More) is Disguised in a Randomly Weighted Neural Network, and How to Find It Efficiently](https://openreview.net/forum?id=moHCzz6D5H3)
-   - Xiaohan Chen, Jason Zhang, Zhangyang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nfl-ixa-y7r"></a>
-12. [Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models](https://openreview.net/forum?id=Nfl-iXa-y7R)
-   - Beidi Chen, Tri Dao, Kaizhao Liang, Jiaming Yang, Zhao Song, Atri Rudra, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9n9c8sf0xm"></a>
-13. [Plant 'n' Seek: Can You Find the Winning Ticket?](https://openreview.net/forum?id=9n9c8sf0xm)
-   - Jonas Fischer, Rebekka Burkholz; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-aign9uwfcd1"></a>
-14. [Prospect Pruning: Finding Trainable Weights at Initialization using Meta-Gradients](https://openreview.net/forum?id=AIgn9uwfcD1)
-   - Milad Alizadeh, Shyam A. Tailor, Luisa M Zintgraf, Joost van Amersfoort, Sebastian Farquhar, Nicholas Donald Lane, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vjki79-619"></a>
-15. [Proving the Lottery Ticket Hypothesis for Convolutional Neural Networks](https://openreview.net/forum?id=Vjki79-619-)
-   - Arthur da Cunha, Emanuele Natale, Laurent Viennot; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ldehimg9wlo"></a>
-16. [Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions](https://openreview.net/forum?id=LdEhiMG9WLO)
-   - Shaochen Zhong, Guanqun Zhang, Ningjia Huang, Shuai Xu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-t5emxz3zlr"></a>
-17. [SOSP: Efficiently Capturing Global Correlations by Second-Order Structured Pruning](https://openreview.net/forum?id=t5EmXZ3ZLR)
-   - Manuel Nonnenmacher, Thomas Pfeil, Ingo Steinwart, David Reeb; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-e0jtgtfpihs"></a>
-18. [Signing the Supermask: Keep, Hide, Invert](https://openreview.net/forum?id=e0jtGTfPihs)
-   - Nils Koster, Oliver Grothe, Achim Rettinger; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-syujxrxq8tw"></a>
-19. [Sparsity Winning Twice: Better Robust Generalization from More Efficient Training](https://openreview.net/forum?id=SYuJXrXq8tw)
-   - Tianlong Chen, Zhenyu Zhang, pengjun wang, Santosh Balachandra, Haoyu Ma, Zehao Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vbzj-3tz-t"></a>
-20. [The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training](https://openreview.net/forum?id=VBZJ_3tz-t)
-   - Shiwei Liu, Tianlong Chen, Xiaohan Chen, Li Shen, Decebal Constantin Mocanu, Zhangyang Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rdjvfchjumi"></a>
+1. [An Explanation of In-context Learning as Implicit Bayesian Inference](https://openreview.net/forum?id=RdJVFCHjUMI)
+   - Sang Michael Xie, Aditi Raghunathan, Percy Liang, Tengyu Ma; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oh1r2wapbpv"></a>
+2. [Contextualized Scene Imagination for Generative Commonsense Reasoning](https://openreview.net/forum?id=Oh1r2wApbPv)
+   - PeiFeng Wang, Jonathan Zamora, Junfeng Liu, Filip Ilievski, Muhao Chen, Xiang Ren; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ek9a0qiafw"></a>
+3. [Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners](https://openreview.net/forum?id=ek9a0qIafW)
+   - Ningyu Zhang, Luoqiu Li, Xiang Chen, Shumin Deng, Zhen Bi, Chuanqi Tan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-potmtpyi1xh"></a>
+4. [Discovering Latent Concepts Learned in BERT](https://openreview.net/forum?id=POTMtpYI1xH)
+   - Fahim Dalvi, Abdul Rafae Khan, Firoj Alam, Nadir Durrani, Jia Xu, Hassan Sajjad; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-us2rtp5nm"></a>
+5. [EntQA: Entity Linking as Question Answering](https://openreview.net/forum?id=US2rTP5nm_)
+   - Wenzheng Zhang, Wenyue Hua, Karl Stratos; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gezrgcozdqr"></a>
+6. [Finetuned Language Models are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR)
+   - Jason Wei, Maarten Bosma, Vincent Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bs49l-b5bql"></a>
+7. [GNN-LM: Language Modeling based on Global Contexts via GNN](https://openreview.net/forum?id=BS49l-B5Bql)
+   - Yuxian Meng, Shi Zong, Xiaoya Li, Xiaofei Sun, Tianwei Zhang, Fei Wu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-41e9o6cqpj"></a>
+8. [GreaseLM: Graph REASoning Enhanced Language Models](https://openreview.net/forum?id=41e9o6cQPj)
+   - Xikun Zhang, Antoine Bosselut, Michihiro Yasunaga, Hongyu Ren, Percy Liang, Christopher D Manning, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-p-ppw1nxf1r"></a>
+9. [HTLM: Hyper-Text Pre-Training and Prompting of Language Models](https://openreview.net/forum?id=P-pPW1nxf1r)
+   - Armen Aghajanyan, Dmytro Okhonko, Mike Lewis, Mandar Joshi, Hu Xu, Gargi Ghosh, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vr-btpw3wz"></a>
+10. [Hindsight: Posterior-guided training of retrievers for improved open-ended generation](https://openreview.net/forum?id=Vr_BTpw3wz)
+   - Ashwin Paranjape, Omar Khattab, Christopher Potts, Matei Zaharia, Christopher D Manning; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-upndj7itech"></a>
+11. [Knowledge Infused Decoding](https://openreview.net/forum?id=upnDJ7itech)
+   - Ruibo Liu, Guoqing Zheng, Shashank Gupta, Radhika Gaonkar, Chongyang Gao, Soroush Vosoughi, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hcrvf71pmf"></a>
+12. [LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5](https://openreview.net/forum?id=HCRVf71PMF)
+   - Chengwei Qin, Shafiq Joty; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gjcem8sxhk"></a>
+13. [Mapping Language Models to Grounded Conceptual Spaces](https://openreview.net/forum?id=gJcEM8sxHK)
+   - Roma Patel, Ellie Pavlick; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-trjbxzrcnf"></a>
+14. [Memorizing Transformers](https://openreview.net/forum?id=TrjbxzRcnf-)
+   - Yuhuai Wu, Markus Norman Rabe, DeLesley Hutchins, Christian Szegedy; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-oy1a8ejqgex"></a>
+15. [Mention Memory: incorporating textual knowledge into Transformers through entity mention attention](https://openreview.net/forum?id=OY1A8ejQgEX)
+   - Michiel de Jong, Yury Zemlyanskiy, Nicholas FitzGerald, Fei Sha, William W. Cohen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9vrb9d0wi4"></a>
+16. [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://openreview.net/forum?id=9Vrb9D0WI4)
+   - Victor Sanh, Albert Webson, Colin Raffel, Stephen Bach, Lintang Sutawika, Zaid Alyafeai, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dhziu48oczh"></a>
+17. [P-Adapters: Robustly Extracting Factual Information from Language Models with Diverse Prompts](https://openreview.net/forum?id=DhzIU48OcZh)
+   - Benjamin Newman, Prafulla Kumar Choubey, Nazneen Rajani; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-rpxjc9j04u"></a>
+18. [Proof Artifact Co-Training for Theorem Proving with Language Models](https://openreview.net/forum?id=rpxJc9j04U)
+   - Jesse Michael Han, Jason Rute, Yuhuai Wu, Edward Ayers, Stanislas Polu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-lneaqbtjirz"></a>
+19. [The Inductive Bias of In-Context Learning: Rethinking Pretraining Example Design](https://openreview.net/forum?id=lnEaqbTJIRz)
+   - Yoav Levine, Noam Wies, Daniel Jannai, Dan Navon, Yedid Hoshen, Amnon Shashua; assignment: `hdbscan`; source: `OpenReview`

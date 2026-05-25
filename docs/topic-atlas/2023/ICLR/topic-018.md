@@ -1,98 +1,89 @@
-# ICLR 2023: Conformal Prediction 与不确定性校准
+# ICLR 2023: Chain-of-Thought 与大模型推理
 
 - Topic ID: `18`
-- Papers: **26** (1.65%)
-- Macro topic: 图学习/数据挖掘
-- English keywords: `graph / kernel / topological / manifolds`
-- Keyword pool: graph; kernel; topological; manifolds; community; curvature; conformal; communities; hyperbolic; geometric; latent; low-dimensional
+- Papers: **23** (1.50%)
+- Macro topic: LLM/语言模型
+- English keywords: `reasoning / prompting / language / llms`
+- Keyword pool: reasoning; prompting; language; llms; chain-of-thought; answers; question; answering; logical; multi-step; procedural; prompts
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Random Laplacian Features for Learning with Hyperbolic Space
-- Unveiling the sampling density in non-uniform geometric graphs
-- Latent Graph Inference using Product Manifolds
-- Subsampling in Large Graphs Using Ricci Curvature
-- Verifying the Union of Manifolds Hypothesis for Image Data
+- Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought
+- Complexity-Based Prompting for Multi-step Reasoning
+- Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
+- Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning
+- Language models are multilingual chain-of-thought reasoners
 
 ## Papers
 
-<a id="paper-jp-rdkyfpi"></a>
-1. [Approximate Nearest Neighbor Search through Modern Error-Correcting Codes](https://openreview.net/forum?id=-jP_rDkyfpI)
-   - Noam Touitou, Nissim Halabi; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-8qjsa5qacb40"></a>
-2. [Combinatorial-Probabilistic Trade-Off: P-Values of Community Properties Test in the Stochastic Block Models](https://openreview.net/forum?id=8qjSA5QACb40)
-   - Shuting Shen, Junwei Lu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qbvbyctqvj"></a>
-3. [Generalized Precision Matrix for Scalable Estimation of Nonparametric Markov Networks](https://openreview.net/forum?id=qBvBycTqVJ)
-   - Yujia Zheng, Ignavier Ng, Yewen Fan, Kun Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-q7a0m3vxh0"></a>
-4. [Geometrically regularized autoencoders for non-Euclidean data](https://openreview.net/forum?id=_q7A0m3vXH0)
-   - Cheongjae Jang, Yonghyeon Lee, Yung-Kyun Noh, Frank C. Park; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3vkiaagxw1s"></a>
-5. [Gradient Boosting Performs Gaussian Process Inference](https://openreview.net/forum?id=3VKiaagxw1S)
-   - Aleksei Ustimenko, Artem Beliakov, Liudmila Prokhorenkova; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-g-hsyflk0m"></a>
-6. [Graph Signal Sampling for Inductive One-Bit Matrix Completion: a Closed-form Solution](https://openreview.net/forum?id=G_HSyfLk0m)
-   - Chao Chen, Haoyu Geng, Gang Zeng, Zhaobing Han, Hua Chai, Xiaokang Yang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-grpu6dxfmmn"></a>
-7. [Improving the imputation of missing data with Markov Blanket discovery](https://openreview.net/forum?id=GrpU6dxFmMN)
-   - Yang Liu, Anthony Constantinou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6u7mf9s2a9"></a>
-8. [Interpretable Geometric Deep Learning via Learnable Randomness Injection](https://openreview.net/forum?id=6u7mf9s2A9)
-   - Siqi Miao, Yunan Luo, Mia Liu, Pan Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jlr-b7n-wqr"></a>
-9. [Latent Graph Inference using Product Manifolds](https://openreview.net/forum?id=JLR_B7n_Wqr)
-   - Haitz Sáez de Ocáriz Borde, Anees Kazi, Federico Barbero, Pietro Lio; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-hvvuy7p64wl"></a>
-10. [Learnable Topological Features For Phylogenetic Inference via Graph Neural Networks](https://openreview.net/forum?id=hVVUY7p64WL)
-   - Cheng Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cxmhqd-xqas"></a>
-11. [Learning Probabilistic Topological Representations Using Discrete Morse Theory](https://openreview.net/forum?id=cXMHQD-xQas)
-   - Xiaoling Hu, Dimitris Samaras, Chao Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-liu-ixf-tzf"></a>
-12. [Learning topology-preserving data representations](https://openreview.net/forum?id=lIu-ixf-Tzf)
-   - Ilya Trofimov, Daniil Cherniavskii, Eduard Tulchinskii, Nikita Balabin, Evgeny Burnaev, Serguei Barannikov; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-spcknl5qdps"></a>
-13. [Ollivier-Ricci Curvature for Hypergraphs: A Unified Framework](https://openreview.net/forum?id=sPCKNl5qDps)
-   - Corinna Coupette, Sebastian Dalleiger, Bastian Rieck; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qs2yczix2o"></a>
-14. [On The Relative Error of Random Fourier Features for Preserving Kernel Distance](https://openreview.net/forum?id=qs2YCziX2o-)
-   - Kuan Cheng, Shaofeng H.-C. Jiang, Luojian Wei, Zhide Wei; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-f-ehndsamn"></a>
-15. [Parametrizing Product Shape Manifolds by Composite Networks](https://openreview.net/forum?id=F_EhNDSamN)
-   - Josua Sassen, Klaus Hildebrandt, Martin Rumpf, Benedikt Wirth; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-in3lh-vy2th"></a>
-16. [Phase transition for detecting a small community in a large network](https://openreview.net/forum?id=iN3Lh-Vy2TH)
-   - Jiashun Jin, Tracy Ke, Paxton Turner, Anru Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0urm1ymftu"></a>
-17. [Predictive Inference with Feature Conformal Prediction](https://openreview.net/forum?id=0uRm1YmFTu)
-   - Jiaye Teng, Chuan Wen, Dinghuai Zhang, Yoshua Bengio, Yang Gao, Yang Yuan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3pfnb4pzbnp"></a>
-18. [Random Laplacian Features for Learning with Hyperbolic Space](https://openreview.net/forum?id=3pfNb4pZBNp)
-   - Tao Yu, Christopher De Sa; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xjb563th-gh"></a>
-19. [Representational Dissimilarity Metric Spaces for Stochastic Neural Networks](https://openreview.net/forum?id=xjb563TH-GH)
-   - Lyndon Duong, Jingyang Zhou, Josue Nassar, Jules Berman, Jeroen Olieslagers, Alex H Williams; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-qxrscesarbz"></a>
-20. [Robust Graph Dictionary Learning](https://openreview.net/forum?id=qxRscesArBZ)
-   - Weijie Liu, Jiahao Xie, Chao Zhang, Makoto Yamada, Nenggan Zheng, Hui Qian; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-cxveglchpgl"></a>
-21. [Semi-supervised Community Detection via Structural Similarity Metrics](https://openreview.net/forum?id=cxvEGLCHpgl)
-   - Yicong Jiang, Tracy Ke; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-q-uhqmorzil"></a>
-22. [Sign and Basis Invariant Networks for Spectral Graph Representation Learning](https://openreview.net/forum?id=Q-UHqMorzil)
-   - Derek Lim, Joshua David Robinson, Lingxiao Zhao, Tess Smidt, Suvrit Sra, Haggai Maron, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-74a-fdayil"></a>
-23. [Subquadratic Algorithms for Kernel Matrices via Kernel Density Estimation](https://openreview.net/forum?id=74A-FDAyiL)
-   - Ainesh Bakshi, Piotr Indyk, Praneeth Kacham, Sandeep Silwal, Samson Zhou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-w9wuqkbvpi"></a>
-24. [Subsampling in Large Graphs Using Ricci Curvature](https://openreview.net/forum?id=w9WUQkBvpI)
-   - Shushan Wu, Huimin Cheng, Jiazhang Cai, Ping Ma, Wenxuan Zhong; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mnvf1w6ipgm"></a>
-25. [Unveiling the sampling density in non-uniform geometric graphs](https://openreview.net/forum?id=mnVf1W6ipGm)
-   - Raffaele Paolino, Aleksandar Bojchevski, Stephan Günnemann, Gitta Kutyniok, Ron Levie; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rvee9cax4fi"></a>
-26. [Verifying the Union of Manifolds Hypothesis for Image Data](https://openreview.net/forum?id=Rvee9CAX4fi)
-   - Bradley CA Brown, Anthony L. Caterini, Brendan Leigh Ross, Jesse C Cresswell, Gabriel Loaiza-Ganem; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5ntt8gfjuhkr"></a>
+1. [Automatic Chain of Thought Prompting in Large Language Models](https://openreview.net/forum?id=5NTt8GFjUHkr)
+   - Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yf1iczhc-l9"></a>
+2. [Complexity-Based Prompting for Multi-step Reasoning](https://openreview.net/forum?id=yf1icZHC-l9)
+   - Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-c2ulri4duis"></a>
+3. [Computational Language Acquisition with Theory of Mind](https://openreview.net/forum?id=C2ulri4duIs)
+   - Andy Liu, Hao Zhu, Emmy Liu, Yonatan Bisk, Graham Neubig; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xhc5zrpxqv9"></a>
+4. [DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases](https://openreview.net/forum?id=XHc5zRPxqV9)
+   - Donghan Yu, Sheng Zhang, Patrick Ng, Henghui Zhu, Alexander Hanbo Li, Jun Wang, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-nggzqjzary"></a>
+5. [Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://openreview.net/forum?id=_nGgzQjzaRy)
+   - Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-sma9eaovkmc"></a>
+6. [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://openreview.net/forum?id=SMa9EAovKMC)
+   - Albert Qiaochu Jiang, Sean Welleck, Jin Peng Zhou, Timothee Lacroix, Jiacheng Liu, Wenda Li, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dhyhrbwjutn"></a>
+7. [Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning](https://openreview.net/forum?id=DHyHRBwJUTN)
+   - Pan Lu, Liang Qiu, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Tanmay Rajpurohit, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-p7g-8dmsh4"></a>
+8. [Formal Mathematics Statement Curriculum Learning](https://openreview.net/forum?id=-P7G-8dmSh4)
+   - Stanislas Polu, Jesse Michael Han, Kunhao Zheng, Mantas Baksys, Igor Babuschkin, Ilya Sutskever; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qfvvbzxxr2v"></a>
+9. [Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://openreview.net/forum?id=qFVVBzXxR2V)
+   - Abulhair Saparov, He He; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fr3wgck-ixp"></a>
+10. [Language models are multilingual chain-of-thought reasoners](https://openreview.net/forum?id=fR3wGCk-IXp)
+   - Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4d4tsje6-k"></a>
+11. [Learning Math Reasoning from Self-Sampled Correct and Partially-Correct Solutions](https://openreview.net/forum?id=4D4TSJE6-K)
+   - Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Alex Polozov, Christopher Meek, Dragomir Radev, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wzh7099tgfm"></a>
+12. [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://openreview.net/forum?id=WZH7099tgfM)
+   - Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ioc57x9km54"></a>
+13. [Neuro-Symbolic Procedural Planning with Commonsense Prompting](https://openreview.net/forum?id=iOc57X9KM54)
+   - Yujie Lu, Weixi Feng, Wanrong Zhu, Wenda Xu, Xin Eric Wang, Miguel Eckstein, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wbxbrs63ovu"></a>
+14. [PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales](https://openreview.net/forum?id=WBXbRs63oVu)
+   - PeiFeng Wang, Aaron Chan, Filip Ilievski, Muhao Chen, Xiang Ren; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xyljrpzztsy"></a>
+15. [ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning](https://openreview.net/forum?id=xYlJRpzZtsY)
+   - Olga Golovneva, Moya Peng Chen, Spencer Poff, Martin Corredor, Luke Zettlemoyer, Maryam Fazel-Zarandi, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-we-vluyul-x"></a>
+16. [ReAct: Synergizing Reasoning and Acting in Language Models](https://openreview.net/forum?id=WE_vluYUL-X)
+   - Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik R Narasimhan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1c-ksw1-k0"></a>
+17. [STREET: A MULTI-TASK STRUCTURED REASONING AND EXPLANATION BENCHMARK](https://openreview.net/forum?id=1C_kSW1-k0)
+   - Danilo Neves Ribeiro, Shen Wang, Xiaofei Ma, Henghui Zhu, Rui Dong, Deguang Kong, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tprrs6yb2p"></a>
+18. [Scenario-based Question Answering with Interacting Contextual Properties](https://openreview.net/forum?id=tPrRs6YB2P)
+   - Haitian Sun, William W. Cohen, Ruslan Salakhutdinov; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3pf3wg6o-a4"></a>
+19. [Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning](https://openreview.net/forum?id=3Pf3Wg6o-A4)
+   - Antonia Creswell, Murray Shanahan, Irina Higgins; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-1pl1nimmrw"></a>
+20. [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://openreview.net/forum?id=1PL1NIMMrw)
+   - Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V Le, Ed H. Chi, Sharan Narang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-z63rvyaz2vh"></a>
+21. [UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph](https://openreview.net/forum?id=Z63RvyAZ2Vh)
+   - Jinhao Jiang, Kun Zhou, Xin Zhao, Ji-Rong Wen; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-hu4r-dedqr0"></a>
+22. [Weakly Supervised Explainable Phrasal Reasoning with Neural Fuzzy Logic](https://openreview.net/forum?id=Hu4r-dedqR0)
+   - Zijun Wu, Zi Xuan Zhang, Atharva Naik, Zhijian Mei, Mauajama Firdaus, Lili Mou; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vaxnu-utr4l"></a>
+23. [WikiWhy: Answering and Explaining Cause-and-Effect Questions](https://openreview.net/forum?id=vaxnu-Utr4l)
+   - Matthew Ho, Aditya Sharma, Justin Chang, Michael Saxon, Sharon Levy, Yujie Lu, et al.; assignment: `hdbscan`; source: `OpenReview`

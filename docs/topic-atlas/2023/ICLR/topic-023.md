@@ -1,86 +1,83 @@
-# ICLR 2023: 强化学习策略与奖励建模
+# ICLR 2023: convolutional / image / detection / cnn
 
 - Topic ID: `23`
-- Papers: **22** (1.40%)
-- Macro topic: 强化学习/决策
-- English keywords: `reinforcement learning / safe / regret / policy`
-- Keyword pool: reinforcement learning; safe; regret; policy; mdp; reward; function approximation; sample complexity; exploration; linear function; recourse; learning rl
+- Papers: **21** (1.37%)
+- Macro topic: 计算机视觉
+- English keywords: `convolutional / image / detection / cnn`
+- Keyword pool: convolutional; image; detection; cnn; markov chain; face; skip; recognition; dino; latent; architectures; visual
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Towards Minimax Optimal Reward-free Reinforcement Learning in Linear MDPs
-- A General Framework for Sample-Efficient Function Approximation in Reinforcement Learning
-- Improved Sample Complexity for Reward-free Reinforcement Learning under Low-rank MDPs
-- Near-Optimal Deployment Efficiency in Reward-Free Reinforcement Learning with Linear Function Approximation
-- Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game
+- NeRN: Learning Neural Representations for Neural Networks
+- Understanding the Covariance Structure of Convolutional Filters
+- A Kernel Perspective of Skip Connections in Convolutional Networks
+- Contextual Convolutional Networks
+- Modelling Long Range Dependencies in $N$D: From Task-Specific to a General Purpose CNN
 
 ## Papers
 
-<a id="paper-mbxz9cjehr"></a>
-1. [A CMDP-within-online framework for Meta-Safe Reinforcement Learning](https://openreview.net/forum?id=mbxz9Cjehr)
-   - Vanshaj Khattar, Yuhao Ding, Bilgehan Sel, Javad Lavaei, Ming Jin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dqitipz5z4b"></a>
-2. [A General Framework for Sample-Efficient Function Approximation in Reinforcement Learning](https://openreview.net/forum?id=dqITIpZ5Z4b)
-   - Zixiang Chen, Chris Junchi Li, Huizhuo Yuan, Quanquan Gu, Michael Jordan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zzhx4eyneeh"></a>
-3. [Achieving Sub-linear Regret in Infinite Horizon Average Reward Constrained MDP with Linear Function Approximation](https://openreview.net/forum?id=zZhX4eYNeeh)
-   - Arnob Ghosh, Xingyu Zhou, Ness Shroff; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0wvnuenqvu"></a>
-4. [Deep Reinforcement Learning for Cost-Effective Medical Diagnosis](https://openreview.net/forum?id=0WVNuEnqVu)
-   - Zheng Yu, Yikuan Li, Joseph Chahn Kim, Kaixuan Huang, Yuan Luo, Mengdi Wang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-e3ip6qblf7"></a>
-5. [Distributionally Robust Recourse Action](https://openreview.net/forum?id=E3ip6qBLF7)
-   - Duy Nguyen, Ngoc Bui, Viet Anh Nguyen; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-o5rkg7irqio"></a>
-6. [Guarded Policy Optimization with Imperfect Online Demonstrations](https://openreview.net/forum?id=O5rKg7IRQIO)
-   - Zhenghai Xue, Zhenghao Peng, Quanyi Li, Zhihan Liu, Bolei Zhou; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zzqboifoq1"></a>
-7. [Guiding Safe Exploration with Weakest Preconditions](https://openreview.net/forum?id=zzqBoIFOQ1)
-   - Greg Anderson, Swarat Chaudhuri, Isil Dillig; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vuudxdgujac"></a>
-8. [HiT-MDP: Learning the SMDP option framework on MDPs with Hidden Temporal Embeddings](https://openreview.net/forum?id=VuuDXDgujAc)
-   - Chang Li, Dongjin Song, Dacheng Tao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jpsw-kuoi7r"></a>
-9. [Improved Sample Complexity for Reward-free Reinforcement Learning under Low-rank MDPs](https://openreview.net/forum?id=jpsw-KuOi7r)
-   - Yuan Cheng, Ruiquan Huang, Yingbin Liang, Jing Yang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-svu54nyaa9k"></a>
-10. [Learning Adversarial Linear Mixture Markov Decision Processes with Bandit Feedback and Unknown Transition](https://openreview.net/forum?id=sVU54nyaA9K)
-   - Canzhe Zhao, Ruofeng Yang, Baoxiang Wang, Shuai Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ox3tgygjw1q"></a>
-11. [Minimum Description Length Control](https://openreview.net/forum?id=oX3tGygjW1q)
-   - Ted Moskovitz, Ta-Chu Kao, Maneesh Sahani, Matthew Botvinick; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-snwh0ddgl7"></a>
-12. [Near-Optimal Deployment Efficiency in Reward-Free Reinforcement Learning with Linear Function Approximation](https://openreview.net/forum?id=SNwH0dDGl7_)
-   - Dan Qiao, Yu-Xiang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-up-ghhpw7rp"></a>
-13. [Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game](https://openreview.net/forum?id=UP_GHHPw7rP)
-   - Wei Xiong, Han Zhong, Chengshuai Shi, Cong Shen, Liwei Wang, Tong Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jbiyfq4tr"></a>
-14. [On the Robustness of Safe Reinforcement Learning under Observational Perturbations](https://openreview.net/forum?id=jbIYfq4Tr-)
-   - Zuxin Liu, Zijian Guo, Zhepeng Cen, Huan Zhang, Jie Tan, Bo Li, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-20gbzezgtii"></a>
-15. [Performance Bounds for Model and Policy Transfer in Hidden-parameter MDPs](https://openreview.net/forum?id=20gBzEzgtiI)
-   - Haotian Fu, Jiayu Yao, Omer Gottesman, Finale Doshi-Velez, George Konidaris; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qd0p0bl-a9t"></a>
-16. [Provably Efficient Lifelong Reinforcement Learning with Linear Representation](https://openreview.net/forum?id=Qd0p0bl-A9t)
-   - Sanae Amani, Lin Yang, Ching-An Cheng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-yn0xg-khnw"></a>
-17. [Provably Efficient Risk-Sensitive Reinforcement Learning: Iterated CVaR and Worst Path](https://openreview.net/forum?id=Yn0xg-kHNW-)
-   - Yihan Du, Siwei Wang, Longbo Huang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-o8vc52xfsur"></a>
-18. [Quasi-optimal Reinforcement Learning with Continuous Actions](https://openreview.net/forum?id=O8Vc52xFSUR)
-   - Yuhan Li, Wenzhuo Zhou, Ruoqing Zhu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-rwzovybbj"></a>
-19. [Risk-Aware Reinforcement Learning with Coherent Risk Measures and Non-linear Function Approximation](https://openreview.net/forum?id=-RwZOVybbj)
-   - Thanh Lam, Arun Verma, Bryan Kian Hsiang Low, Patrick Jaillet; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wnugn1n6esq"></a>
-20. [Safe Exploration Incurs Nearly No Additional Sample Complexity for Reward-Free RL](https://openreview.net/forum?id=wNUgn1n6esQ)
-   - Ruiquan Huang, Jing Yang, Yingbin Liang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lqijzpddt3q"></a>
-21. [The Role of Coverage in Online Reinforcement Learning](https://openreview.net/forum?id=LQIjzPdDt3q)
-   - Tengyang Xie, Dylan J Foster, Yu Bai, Nan Jiang, Sham M. Kakade; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-u9hw6vynclg"></a>
-22. [Towards Minimax Optimal Reward-free Reinforcement Learning in Linear MDPs](https://openreview.net/forum?id=U9HW6vyNClg)
-   - Pihe Hu, Yu Chen, Longbo Huang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6h-uofcwivh"></a>
+1. [A Kernel Perspective of Skip Connections in Convolutional Networks](https://openreview.net/forum?id=6H_uOfcwiVh)
+   - Daniel Barzilai, Amnon Geifman, Meirav Galun, Ronen Basri; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k9rhxppjn2"></a>
+2. [Active Image Indexing](https://openreview.net/forum?id=K9RHxPpjn2)
+   - Pierre Fernandez, Matthijs Douze, Herve Jegou, Teddy Furon; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-zcstthyw-td"></a>
+3. [Associative Memory Augmented Asynchronous Spatiotemporal Representation Learning for Event-based Perception](https://openreview.net/forum?id=ZCStthyW-TD)
+   - Uday Kamal, Saurabh Dash, Saibal Mukhopadhyay; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-pldyns56bn"></a>
+4. [Contextual Convolutional Networks](https://openreview.net/forum?id=PldynS56bN)
+   - Shuxian Liang, Xu Shen, Tongliang Liu, Xian-Sheng Hua; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3mrwyg5one"></a>
+5. [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection](https://openreview.net/forum?id=3mRwyG5one)
+   - Hao Zhang, Feng Li, Shilong Liu, Lei Zhang, Hang Su, Jun Zhu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-nkjohtnkx91"></a>
+6. [DamoFD: Digging into Backbone Design on Face Detection](https://openreview.net/forum?id=NkJOhtNKX91)
+   - Yang Liu, Jiankang Deng, Fei Wang, Lei Shang, Xuansong Xie, Baigui Sun; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-oooiw-3uadi"></a>
+7. [Deep Learning on Implicit Neural Representations of Shapes](https://openreview.net/forum?id=OoOIW-3uadi)
+   - Luca De Luigi, Adriano Cardace, Riccardo Spezialetti, Pierluigi Zama Ramirez, Samuele Salti, Luigi di Stefano; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-q3-1vrh3hoa"></a>
+8. [Dilated convolution with learnable spacings](https://openreview.net/forum?id=Q3-1vRh3HOA)
+   - Ismail Khalfaoui Hassani, Thomas Pellegrini, Timothée Masquelier; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-awnvqzja69"></a>
+9. [Image as Set of Points](https://openreview.net/forum?id=awnvqZja69)
+   - Xu Ma, Yuqian Zhou, Huan Wang, Can Qin, Bin Sun, Chang Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hxz7vcm3vgm"></a>
+10. [ImageNet-X: Understanding Model Mistakes with Factor of Variation Annotations](https://openreview.net/forum?id=HXz7Vcm3VgM)
+   - Badr Youbi Idrissi, Diane Bouchacourt, Randall Balestriero, Ivan Evtimov, Caner Hazirbas, Nicolas Ballas, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-lj1eb1openw"></a>
+11. [Maximizing Spatio-Temporal Entropy of Deep 3D CNNs for Efficient Video Recognition](https://openreview.net/forum?id=lj1Eb1OPeNw)
+   - Junyan Wang, Zhenhong Sun, Yichen Qian, Dong Gong, Xiuyu Sun, Ming Lin, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zw5ak4ycrqu"></a>
+12. [Modelling Long Range Dependencies in $N$D: From Task-Specific to a General Purpose CNN](https://openreview.net/forum?id=ZW5aK4yCRqU)
+   - David M Knigge, David W. Romero, Albert Gu, Efstratios Gavves, Erik J Bekkers, Jakub Mikolaj Tomczak, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-9gfir3fsy3j"></a>
+13. [NeRN: Learning Neural Representations for Neural Networks](https://openreview.net/forum?id=9gfir3fSy3J)
+   - Maor Ashkenazi, Zohar Rimon, Ron Vainshtein, Shir Levi, Elad Richardson, Pinchas Mintz, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-iudsb2kk9gy"></a>
+14. [PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs](https://openreview.net/forum?id=iUdSB2kK9GY)
+   - James Oldfield, Christos Tzelepis, Yannis Panagakis, Mihalis Nicolaou, Ioannis Patras; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-src-nwiegj"></a>
+15. [Relative representations enable zero-shot latent space communication](https://openreview.net/forum?id=SrC-nwieGJ)
+   - Luca Moschella, Valentino Maiorca, Marco Fumero, Antonio Norelli, Francesco Locatello, Emanuele Rodolà; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yqdbtffleh6"></a>
+16. [Rethinking skip connection model as a learnable Markov chain](https://openreview.net/forum?id=yQdBtFfleh6)
+   - Dengsheng Chen, Jie Hu, Wenwen Qiang, Xiaoming Wei, Enhua Wu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oc2vlwu0jfy"></a>
+17. [Reversible Column Networks](https://openreview.net/forum?id=Oc2vlWU0jFY)
+   - Yuxuan Cai, Yizhuang Zhou, Qi Han, Jianjian Sun, Xiangwen Kong, Jun Li, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6kxapt2r2i"></a>
+18. [The Augmented Image Prior: Distilling 1000 Classes by Extrapolating from a Single Image](https://openreview.net/forum?id=6kxApT2r2i)
+   - Yuki M Asano, Aaqib Saeed; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-4oxtq6m-ws8"></a>
+19. [The Role of ImageNet Classes in Fréchet Inception Distance](https://openreview.net/forum?id=4oXTQ6m_ws8)
+   - Tuomas Kynkäänniemi, Tero Karras, Miika Aittala, Timo Aila, Jaakko Lehtinen; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-wgapodqvwrg"></a>
+20. [Understanding the Covariance Structure of Convolutional Filters](https://openreview.net/forum?id=WGApODQvwRg)
+   - Asher Trockman, Devin Willmott, J Zico Kolter; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cskwavjr7a"></a>
+21. [Visual Recognition with Deep Nearest Centroids](https://openreview.net/forum?id=CsKwavjr7A)
+   - Wenguan Wang, Cheng Han, Tianfei Zhou, Dongfang Liu; assignment: `hdbscan`; source: `OpenReview`

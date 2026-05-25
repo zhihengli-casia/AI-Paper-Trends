@@ -1,80 +1,77 @@
-# ICLR 2023: continual / forgetting / spiking / plasticity
+# ICLR 2023: 具身智能与物理交互
 
 - Topic ID: `36`
-- Papers: **20** (1.27%)
-- Macro topic: 系统/效率/压缩
-- English keywords: `continual / forgetting / spiking / plasticity`
-- Keyword pool: continual; forgetting; spiking; plasticity; snns; recurrent; catastrophic; replay; forward transfer; brain; memory; conversion
+- Papers: **19** (1.24%)
+- Macro topic: 强化学习/决策
+- English keywords: `exploration / reinforcement / agents / skills`
+- Keyword pool: exploration; reinforcement; agents; skills; rewards; navigation; action; flow; intrinsic; embodied; environment; lifelong
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Artificial Neuronal Ensembles with Learned Context Dependent Gating
-- Sparse Distributed Memory is a Continual Learner
-- Continual evaluation for lifelong learning: Identifying the stability gap
-- Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning
-- Hebbian and Gradient-based Plasticity Enables Robust Memory and Rapid Learning in RNNs
+- Choreographer: Learning and Adapting Skills in Imagination
+- Simple Emergent Action Representations from Multi-Task Policy Training
+- Proto-Value Networks: Scaling Representation Learning with Auxiliary Tasks
+- Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery
+- Priors, Hierarchy, and Information Asymmetry for Skill Transfer in Reinforcement Learning
 
 ## Papers
 
-<a id="paper-dbk3hsg-n6"></a>
-1. [Artificial Neuronal Ensembles with Learned Context Dependent Gating](https://openreview.net/forum?id=dBk3hsg-n6)
-   - Matthew James Tilley, Michelle Miller, David Freedman; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-crxywkitan"></a>
-2. [Better Generative Replay for Continual Federated Learning](https://openreview.net/forum?id=cRxYWKiTan)
-   - Daiqing Qi, Handong Zhao, Sheng Li; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pfbzowzyzrx"></a>
-3. [Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes](https://openreview.net/forum?id=PFbzoWZyZRX)
-   - Zecheng Hao, Jianhao Ding, Tong Bu, Tiejun Huang, Zhaofei Yu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zy350crstc6"></a>
-4. [Continual evaluation for lifelong learning: Identifying the stability gap](https://openreview.net/forum?id=Zy350cRstc6)
-   - Matthias De Lange, Gido M van de Ven, Tinne Tuytelaars; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zlbci7019z3"></a>
-5. [Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning](https://openreview.net/forum?id=zlbci7019Z3)
-   - Fahad Sarfraz, Elahe Arani, Bahram Zonooz; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-2wklawyei08"></a>
-6. [Hebbian and Gradient-based Plasticity Enables Robust Memory and Rapid Learning in RNNs](https://openreview.net/forum?id=2WklawyeI08)
-   - Yu Duan, Zhongfan Jia, Qian Li, Yi Zhong, Kaisheng Ma; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qirtaqoxwj"></a>
-7. [Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles](https://openreview.net/forum?id=QIRtAqoXwj)
-   - Biswadeep Chakraborty, Saibal Mukhopadhyay; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ebc60mxbwyw"></a>
-8. [How gradient estimator variance and bias impact learning in neural networks](https://openreview.net/forum?id=EBC60mxBwyw)
-   - Arna Ghosh, Yuhan Helena Liu, Guillaume Lajoie, Konrad Kording, Blake Aaron Richards; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-3mlitjryybs"></a>
-9. [Interneurons accelerate learning dynamics in recurrent neural networks for statistical adaptation](https://openreview.net/forum?id=3mlITJRYYbs)
-   - David Lipshutz, Cengiz Pehlevan, Dmitri Chklovskii; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dl35lx-mtes"></a>
-10. [Is Forgetting Less a Good Inductive Bias for Forward Transfer?](https://openreview.net/forum?id=dL35lx-mTEs)
-   - Jiefeng Chen, Timothy Nguyen, Dilan Gorur, Arslan Chaudhry; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gfpuokhsw"></a>
-11. [Learning without Prejudices: Continual Unbiased Learning via Benign and Malignant Forgetting](https://openreview.net/forum?id=gfPUokHsW-)
-   - Myeongho Jeon, Hyoje Lee, Yedarm Seong, Myungjoo Kang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fxc7kjywa-a"></a>
-12. [New Insights for the Stability-Plasticity Dilemma in Online Continual Learning](https://openreview.net/forum?id=fxC7kJYwA_a)
-   - Dahuin Jung, Dongjin Lee, Sunwon Hong, Hyemi Jang, Ho Bae, Sungroh Yoon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-18xzeuyzh"></a>
-13. [Online Bias Correction for Task-Free Continual Learning](https://openreview.net/forum?id=18XzeuYZh_)
-   - Aristotelis Chrysakis, Marie-Francine Moens; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qco4ekz2epm"></a>
-14. [Online Boundary-Free Continual Learning by Scheduled Data Prior](https://openreview.net/forum?id=qco4ekz2Epm)
-   - Hyunseo Koh, Minhyuk Seo, Jihwan Bang, Hwanjun Song, Deokki Hong, Seulki Park, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vf6wcudny7c"></a>
-15. [Optimizing Spca-based Continual Learning: A Theoretical Approach](https://openreview.net/forum?id=Vf6WcUDnY7c)
-   - Chunchun Yang, Malik Tiomoko, Zengfu Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jkngeelzjphp"></a>
-16. [Sparse Distributed Memory is a Continual Learner](https://openreview.net/forum?id=JknGeelZJpHP)
-   - Trenton Bricken, Xander Davies, Deepak Singh, Dmitry Krotov, Gabriel Kreiman; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-fre4fuwz-h"></a>
-17. [Spikformer: When Spiking Neural Network Meets Transformer](https://openreview.net/forum?id=frE4fUwz_h)
-   - Zhaokun Zhou, Yuesheng Zhu, Chao He, Yaowei Wang, Shuicheng YAN, Yonghong Tian, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pgu3k7qxuz0"></a>
-18. [Spiking Convolutional Neural Networks for Text Classification](https://openreview.net/forum?id=pgU3k7QXuz0)
-   - Changze Lv, Jianhan Xu, Xiaoqing Zheng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-m0tnnywft5"></a>
-19. [Task-Aware Information Routing from Common Representation Space in Lifelong Learning](https://openreview.net/forum?id=-M0TNnyWFT5)
-   - Prashant Shivaram Bhat, Bahram Zonooz, Elahe Arani; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6orc5mvgpbk"></a>
-20. [Thalamus: a brain-inspired algorithm for biologically-plausible continual learning and disentangled representations](https://openreview.net/forum?id=6orC5MvgPBK)
-   - Ali Hummos; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-1c6nccare6p"></a>
+1. [A Simple Approach for Visual Room Rearrangement: 3D Mapping and Semantic Search](https://openreview.net/forum?id=1C6nCCaRe6p)
+   - Brandon Trabucco, Gunnar A Sigurdsson, Robinson Piramuthu, Gaurav S. Sukhatme, Ruslan Salakhutdinov; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-xfqde72zh41"></a>
+2. [Actionable Neural Representations: Grid Cells from Minimal Constraints](https://openreview.net/forum?id=xfqDe72zh41)
+   - Will Dorrell, Peter E. Latham, Timothy E. J. Behrens, James C. R. Whittington; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yayhho4fata"></a>
+3. [CFlowNets: Continuous Control with Generative Flow Networks](https://openreview.net/forum?id=yAYHho4fATa)
+   - Yinchuan Li, Shuang Luo, Haozhi Wang, Jianye HAO; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-phkwyijgi5b"></a>
+4. [Choreographer: Learning and Adapting Skills in Imagination](https://openreview.net/forum?id=PhkWyijGi5b)
+   - Pietro Mazzaglia, Tim Verbelen, Bart Dhoedt, Alexandre Lacoste, Sai Rajeswar; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-c-xa-d3otj6"></a>
+5. [DEP-RL: Embodied Exploration for Reinforcement Learning in Overactuated and Musculoskeletal Systems](https://openreview.net/forum?id=C-xa_D3oTj6)
+   - Pierre Schumacher, Daniel Haeufle, Dieter Büchler, Syn Schmitt, Georg Martius; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ltt4kjhssyl"></a>
+6. [Emergence of Maps in the Memories of Blind Navigation Agents](https://openreview.net/forum?id=lTt4KjHSsyl)
+   - Erik Wijmans, Manolis Savva, Irfan Essa, Stefan Lee, Ari S. Morcos, Dhruv Batra; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-deg07-tczvt"></a>
+7. [Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task](https://openreview.net/forum?id=DeG07_TcZvT)
+   - Kenneth Li, Aspen K Hopkins, David Bau, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-yhlvile9rgn"></a>
+8. [Evaluating Long-Term Memory in 3D Mazes](https://openreview.net/forum?id=yHLvIlE9RGN)
+   - Jurgis Pašukonis, Timothy P Lillicrap, Danijar Hafner; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-urf-cbk5xc0"></a>
+9. [Generative Augmented Flow Networks](https://openreview.net/forum?id=urF_CBK5XC0)
+   - Ling Pan, Dinghuai Zhang, Aaron Courville, Longbo Huang, Yoshua Bengio; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-skc6fgce1zs"></a>
+10. [Learning About Progress From Experts](https://openreview.net/forum?id=sKc6fgce1zs)
+   - Jake Bruce, Ankit Anand, Bogdan Mazoure, Rob Fergus; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ndwl9qcupvy"></a>
+11. [Learning Achievement Structure for Structured Exploration in Domains with Sparse Reward](https://openreview.net/forum?id=NDWl9qcUpvy)
+   - Zihan Zhou, Animesh Garg; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-netep2c7yd"></a>
+12. [Learning Simultaneous Navigation and Construction in Grid Worlds](https://openreview.net/forum?id=NEtep2C7yD)
+   - Wenyu Han, Haoran Wu, Eisuke Hirota, Alexander Gao, Lerrel Pinto, Ludovic Righetti, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-cgbctp2m6la"></a>
+13. [Leveraging Future Relationship Reasoning for Vehicle Trajectory Prediction](https://openreview.net/forum?id=CGBCTp2M6lA)
+   - Daehee Park, Hobin Ryu, Yunseo Yang, Jegyeong Cho, Jiwon Kim, Kuk-Jin Yoon; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vmjctnuswi"></a>
+14. [Moving Forward by Moving Backward: Embedding Action Impact over Action Semantics](https://openreview.net/forum?id=vmjctNUSWI)
+   - Kuo-Hao Zeng, Luca Weihs, Roozbeh Mottaghi, Ali Farhadi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-6bhlzgypozy"></a>
+15. [Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery](https://openreview.net/forum?id=6BHlZgyPOZY)
+   - Felix Chalumeau, Raphael Boige, Bryan Lim, Valentin Macé, Maxime Allard, Arthur Flajolet, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0v4vkcskhnm"></a>
+16. [Priors, Hierarchy, and Information Asymmetry for Skill Transfer in Reinforcement Learning](https://openreview.net/forum?id=0v4VkCSkHNm)
+   - Sasha Salter, Kristian Hartikainen, Walter Goodwin, Ingmar Posner; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ogdkst9jrzi"></a>
+17. [Proto-Value Networks: Scaling Representation Learning with Auxiliary Tasks](https://openreview.net/forum?id=oGDKSt9JrZi)
+   - Jesse Farebrother, Joshua Greaves, Rishabh Agarwal, Charline Le Lan, Ross Goroshin, Pablo Samuel Castro, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-j3gk3-xzydy"></a>
+18. [Revisiting Intrinsic Reward for Exploration in Procedurally Generated Environments](https://openreview.net/forum?id=j3GK3_xZydY)
+   - Kaixin Wang, Kuangqi Zhou, Bingyi Kang, Jiashi Feng, Shuicheng YAN; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nul0ylt7sm"></a>
+19. [Simple Emergent Action Representations from Multi-Task Policy Training](https://openreview.net/forum?id=NUl0ylt7SM)
+   - Pu Hua, Yubei Chen, Huazhe Xu; assignment: `hdbscan`; source: `OpenReview`

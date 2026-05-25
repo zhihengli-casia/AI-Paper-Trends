@@ -1,101 +1,92 @@
-# ICLR 2023: equivariant / equivariance / pose / shape
+# ICLR 2023: 目标检测与图像分割
 
 - Topic ID: `15`
-- Papers: **27** (1.72%)
+- Papers: **24** (1.57%)
 - Macro topic: 计算机视觉
-- English keywords: `equivariant / equivariance / pose / shape`
-- Keyword pool: equivariant; equivariance; pose; shape; symmetries; symmetry; rotation; estimation; human; object; spherical; motion
+- English keywords: `transformers / vision / attention / image`
+- Keyword pool: transformers; vision; attention; image; segmentation; tokens; mobile; vit; swin; sparse; patch; convolution
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Image to Sphere: Learning Equivariant Features for Efficient Pose Prediction
-- Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning
-- The Lie Derivative for Measuring Learned Equivariance
-- Empowering Networks With Scale and Rotation Equivariance Using A Similarity Convolution
-- $\mathrm{SE}(3)$-Equivariant Attention Networks for Shape Reconstruction in Function Space
+- A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity
+- Vision Transformer Adapter for Dense Predictions
+- GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation
+- Consolidator: Mergable Adapter with Group Connections for Visual Adaptation
+- Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling
 
 ## Papers
 
-<a id="paper-rdy3ibvjmqt"></a>
-1. [$\mathrm{SE}(3)$-Equivariant Attention Networks for Shape Reconstruction in Function Space](https://openreview.net/forum?id=RDy3IbvjMqT)
-   - Evangelos Chatzipantazis, Stefanos Pertigkiozoglou, Edgar Dobriban, Kostas Daniilidis; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vvjztlzb9d"></a>
-2. [A General Framework For Proving The Equivariant Strong Lottery Ticket Hypothesis](https://openreview.net/forum?id=vVJZtlZB9D)
-   - Damien Ferbach, Christos Tsirigotis, Gauthier Gidel, Joey Bose; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-mvetq8do05o"></a>
-3. [A Laplace-inspired Distribution on SO(3) for Probabilistic Rotation Estimation](https://openreview.net/forum?id=Mvetq8DO05O)
-   - Yingda Yin, Yang Wang, He Wang, Baoquan Chen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-xnsg4pfkb7"></a>
-4. [Bispectral Neural Networks](https://openreview.net/forum?id=xnsg4pfKb7)
-   - Sophia Sanborn, Christian A Shewmake, Bruno Olshausen, Christopher J. Hillar; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-0vv4h4ch0la"></a>
-5. [Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens](https://openreview.net/forum?id=0Vv4H4Ch0la)
-   - Sen Yang, Wen Heng, Gang Liu, GUOZHONG LUO, Wankou Yang, Gang YU; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nqai-b1zrt"></a>
-6. [Decompose to Generalize: Species-Generalized Animal Pose Estimation](https://openreview.net/forum?id=nQai_B1Zrt)
-   - Guangrui Li, Yifan Sun, Zongxin Yang, Yi Yang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-njensj37sq"></a>
-7. [Empowering Networks With Scale and Rotation Equivariance Using A Similarity Convolution](https://openreview.net/forum?id=NJENsJ37sQ)
-   - Zikai Sun, Thierry Blu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-edlwjkmtyft"></a>
-8. [EquiMod: An Equivariance Module to Improve Visual Instance Discrimination](https://openreview.net/forum?id=eDLwjKmtYFt)
-   - Alexandre DEVILLERS, Mathieu Lefort; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-kwmpfargotd"></a>
-9. [Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs](https://openreview.net/forum?id=KwmPfARgOTD)
-   - Yi-Lun Liao, Tess Smidt; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-a6rcdfabjxg"></a>
-10. [Equivariance-aware Architectural Optimization of Neural Networks](https://openreview.net/forum?id=a6rCdfABJXg)
-   - Kaitlin Maile, Dennis George Wilson, Patrick Forré; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dnjzspgmy5o"></a>
-11. [Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning](https://openreview.net/forum?id=dnjZSPGmY5O)
-   - Hyunwoo Ryu, Hong-in Lee, Jeong-Hoon Lee, Jongeun Choi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-s4wvupnjjmx"></a>
-12. [Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation](https://openreview.net/forum?id=s4WVupnJjmX)
-   - Jie Yang, Ailing Zeng, Shilong Liu, Feng Li, Ruimao Zhang, Lei Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-2bdpatr7pi"></a>
-13. [Image to Sphere: Learning Equivariant Features for Efficient Pose Prediction](https://openreview.net/forum?id=_2bDpAtr7PI)
-   - David Klee, Ondrej Biza, Robert Platt, Robin Walters; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-n7cpzmpkql"></a>
-14. [Integrating Symmetry into Differentiable Planning with Steerable Convolutions](https://openreview.net/forum?id=n7CPzMPKQl)
-   - Linfeng Zhao, Xupeng Zhu, Lingzhi Kong, Robin Walters, Lawson L.S. Wong; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-whlt5tlz12t"></a>
-15. [LiftedCL: Lifting Contrastive Learning for Human-Centric Perception](https://openreview.net/forum?id=WHlt5tLz12T)
-   - Ziwei Chen, Qiang Li, Xiaofeng Wang, Wankou Yang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-d1iqfm7wtkk"></a>
-16. [Neural ePDOs: Spatially Adaptive Equivariant Partial Differential Operator Based Networks](https://openreview.net/forum?id=D1Iqfm7WTkk)
-   - Lingshen He, Yuxuan Chen, Zhengyang Shen, Yibo Yang, Zhouchen Lin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-src-nwiegj"></a>
-17. [Relative representations enable zero-shot latent space communication](https://openreview.net/forum?id=SrC-nwieGJ)
-   - Luca Moschella, Valentino Maiorca, Marco Fumero, Antonio Norelli, Francesco Locatello, Emanuele Rodolà; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-8u4jomelrf"></a>
-18. [Rethinking Self-Supervised Visual Representation Learning in Pre-training for 3D Human Pose and Shape Estimation](https://openreview.net/forum?id=8U4joMeLRF)
-   - Hongsuk Choi, Hyeongjin Nam, Taeryung Lee, Gyeongsik Moon, Kyoung Mu Lee; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-eb-cpjzz3gh"></a>
-19. [Scalable and Equivariant Spherical CNNs by Discrete-Continuous (DISCO) Convolutions](https://openreview.net/forum?id=eb_cpjZZ3GH)
-   - Jeremy Ocampo, Matthew Alexander Price, Jason McEwen; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-20gtj6hiapa"></a>
-20. [Self-Supervised Category-Level Articulated Object Pose Estimation with Part-Level SE(3) Equivariance](https://openreview.net/forum?id=20GtJ6hIaPA)
-   - Xueyi Liu, Ji Zhang, Ruizhen Hu, Haibin Huang, He Wang, Li Yi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zkdulvmqg-o"></a>
-21. [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://openreview.net/forum?id=ZKDUlVMqG_O)
-   - Kaifeng Zhang, Yang Fu, Shubhankar Borse, Hong Cai, Fatih Porikli, Xiaolong Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-3dipif3wqmc"></a>
-22. [Spatial Attention Kinetic Networks with E(n)-Equivariance](https://openreview.net/forum?id=3DIpIf3wQMC)
-   - Yuanqing Wang, John Chodera; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-s1n-dnxdyt"></a>
-23. [Stochastic Multi-Person 3D Motion Forecasting](https://openreview.net/forum?id=_s1N-DnxdyT)
-   - Sirui Xu, Yu-Xiong Wang, Liangyan Gui; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-9zpcicounfb"></a>
-24. [Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow](https://openreview.net/forum?id=9ZpciCOunFb)
-   - Bo Zhao, Iordan Ganev, Robin Walters, Rose Yu, Nima Dehmamy; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qukscztwlkq"></a>
-25. [The KFIoU Loss for Rotated Object Detection](https://openreview.net/forum?id=qUKsCztWlKq)
-   - Xue Yang, Yue Zhou, Gefan Zhang, Jirui Yang, Wentao Wang, Junchi Yan, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jl7va5vy15j"></a>
-26. [The Lie Derivative for Measuring Learned Equivariance](https://openreview.net/forum?id=JL7Va5Vy15J)
-   - Nate Gruver, Marc Anton Finzi, Micah Goldblum, Andrew Gordon Wilson; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p4mugrm4acu"></a>
-27. [The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry](https://openreview.net/forum?id=P4MUGRM4Acu)
-   - Dian Wang, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters, Robert Platt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-jclgv3qjhb"></a>
+1. [A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity](https://openreview.net/forum?id=jClGv3Qjhb)
+   - Hongkang Li, Meng Wang, Sijia Liu, Pin-Yu Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ciosz-hkhs7"></a>
+2. [AIM: Adapting Image Models for Efficient Video Action Recognition](https://openreview.net/forum?id=CIoSZ_HKHS7)
+   - Taojiannan Yang, Yi Zhu, Yusheng Xie, Aston Zhang, Chen Chen, Mu Li; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ilomj5rqfnt"></a>
+3. [Accurate Image Restoration with Attention Retractable Transformer](https://openreview.net/forum?id=IloMJ5rqfnt)
+   - Jiale Zhang, Yulun Zhang, Jinjin Gu, Yongbing Zhang, Linghe Kong, Xin Yuan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-svzbn-dljri"></a>
+4. [Budgeted Training for Vision Transformer](https://openreview.net/forum?id=sVzBN-DlJRi)
+   - zhuofan xia, Xuran Pan, Xuan Jin, Yuan He, Hui Xue', Shiji Song, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tkifuqhhecj"></a>
+5. [Can CNNs Be More Robust Than Transformers?](https://openreview.net/forum?id=TKIFuQHHECj)
+   - Zeyu Wang, Yutong Bai, Yuyin Zhou, Cihang Xie; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-3kwnut-r1bh"></a>
+6. [Conditional Positional Encodings for Vision Transformers](https://openreview.net/forum?id=3KWnuT-R1bh)
+   - Xiangxiang Chu, Zhi Tian, Bo Zhang, Xinlong Wang, Chunhua Shen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-j-cja7cpgw"></a>
+7. [Consolidator: Mergable Adapter with Group Connections for Visual Adaptation](https://openreview.net/forum?id=J_Cja7cpgW)
+   - Tianxiang Hao, Hui Chen, Yuchen Guo, Guiguang Ding; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-nrxydtwup1s"></a>
+8. [Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling](https://openreview.net/forum?id=NRxydtWup1S)
+   - Keyu Tian, Yi Jiang, qishuai diao, Chen Lin, Liwei Wang, Zehuan Yuan; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-iowkt5rywsk"></a>
+9. [GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation](https://openreview.net/forum?id=IowKt5rYWsK)
+   - Chenhongyi Yang, Jiarui Xu, Shalini De Mello, Elliot J. Crowley, Xiaolong Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-3f6i-0-57sc"></a>
+10. [HiViT: A Simpler and More Efficient Design of Hierarchical Vision Transformer](https://openreview.net/forum?id=3F6I-0-57SC)
+   - Xiaosong Zhang, Yunjie Tian, Lingxi Xie, Wei Huang, Qi Dai, Qixiang Ye, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qcrw0u9lq7"></a>
+11. [Iterative Patch Selection for High-Resolution Image Recognition](https://openreview.net/forum?id=QCrw0u9LQ7)
+   - Benjamin Bergner, Christoph Lippert, Aravindh Mahendran; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5ktfnz-pjlk"></a>
+12. [Learning to Estimate Shapley Values with Vision Transformers](https://openreview.net/forum?id=5ktFNz_pJLK)
+   - Ian Connick Covert, Chanwoo Kim, Su-In Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-chf1dccwch3"></a>
+13. [LipsFormer: Introducing Lipschitz Continuity to Vision Transformers](https://openreview.net/forum?id=cHf1DcCwcH3)
+   - Xianbiao Qi, Jianan Wang, Yihao Chen, Yukai Shi, Lei Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-h0hgljkxqfn"></a>
+14. [MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models](https://openreview.net/forum?id=H0HGljkxQFN)
+   - Chenglin Yang, Siyuan Qiao, Qihang Yu, Xiaoding Yuan, Yukun Zhu, Alan Yuille, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-drjwsd3gwsm"></a>
+15. [MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer](https://openreview.net/forum?id=dRjWsd3gwsm)
+   - Qihao Zhao, Yangyu Huang, Wei Hu, Fan Zhang, Jun Liu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-bxnl-myzkjl"></a>
+16. [More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity](https://openreview.net/forum?id=bXNl-myZkJl)
+   - Shiwei Liu, Tianlong Chen, Xiaohan Chen, Xuxi Chen, Qiao Xiao, Boqian Wu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tcbbpnfwxs"></a>
+17. [OPTQ: Accurate Quantization for Generative Pre-trained Transformers](https://openreview.net/forum?id=tcbBPnfwxS)
+   - Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-t9zd7oi5jpl"></a>
+18. [PatchDCT: Patch Refinement for High Quality Instance Segmentation](https://openreview.net/forum?id=t9Zd7Oi5JPl)
+   - Qinrou Wen, Jirui Yang, Xue Yang, Kewei Liang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qg8mqnrxzw"></a>
+19. [SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation](https://openreview.net/forum?id=-qg8MQNrxZw)
+   - Qiang Wan, Zilong Huang, Jiachen Lu, Gang YU, Li Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ubc74gtvo3"></a>
+20. [Self-supervision through Random Segments with Autoregressive Coding (RandSAC)](https://openreview.net/forum?id=Ubc74gTVo3)
+   - Tianyu Hua, Yonglong Tian, Sucheng Ren, Michalis Raptis, Hang Zhao, Leonid Sigal; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-vv0hse8axcw"></a>
+21. [Sparse Token Transformer with Attention Back Tracking](https://openreview.net/forum?id=VV0hSE8AxCw)
+   - Heejun Lee, Minki Kang, Youngwan Lee, Sung Ju Hwang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tj2nxciyck"></a>
+22. [The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers](https://openreview.net/forum?id=TJ2nxciYCk-)
+   - Zonglin Li, Chong You, Srinadh Bhojanapalli, Daliang Li, Ankit Singh Rawat, Sashank J. Reddi, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-jrozrarw7eu"></a>
+23. [Token Merging: Your ViT But Faster](https://openreview.net/forum?id=JroZRaRw7Eu)
+   - Daniel Bolya, Cheng-Yang Fu, Xiaoliang Dai, Peizhao Zhang, Christoph Feichtenhofer, Judy Hoffman; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-plku2gbycnw"></a>
+24. [Vision Transformer Adapter for Dense Predictions](https://openreview.net/forum?id=plKu2GByCNW)
+   - Zhe Chen, Yuchen Duan, Wenhai Wang, Junjun He, Tong Lu, Jifeng Dai, et al.; assignment: `hdbscan`; source: `OpenReview`

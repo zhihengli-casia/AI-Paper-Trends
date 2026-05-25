@@ -1,74 +1,68 @@
-# ICLR 2022: objects / scene / object-centric / pose
+# ICLR 2022: 时间序列建模与预测
 
 - Topic ID: `31`
-- Papers: **18** (1.65%)
-- Macro topic: 计算机视觉
-- English keywords: `objects / scene / object-centric / pose`
-- Keyword pool: objects; scene; object-centric; pose; visual; video; detection; reasoning; saliency; physical; disentanglement; integral
+- Papers: **16** (1.51%)
+- Macro topic: 系统/效率/压缩
+- English keywords: `time series / forecasting / graph / anomaly`
+- Keyword pool: time series; forecasting; graph; anomaly; traffic; marketing; association; multivariate; time-series; dependencies; sensors; spatio-temporal
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Conditional Object-Centric Learning from Video
-- Object Pursuit: Building a Space of Objects via Discriminative Weight Generation
-- Unsupervised Discovery of Object Radiance Fields
-- MonoDistill: Learning Spatial Features for Monocular 3D Object Detection
-- WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
+- TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting
+- Graph-Guided Network for Irregularly Sampled Multivariate Time Series
+- Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks
+- PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series
+- Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting
 
 ## Papers
 
-<a id="paper-pgneyaic81q"></a>
-1. [ComPhy: Compositional Physical Reasoning of Objects and Events from Videos](https://openreview.net/forum?id=PgNEYaIc81Q)
-   - Zhenfang Chen, Kexin Yi, Yunzhu Li, Mingyu Ding, Antonio Torralba, Joshua B. Tenenbaum, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ad7uesx1gf"></a>
-2. [Conditional Object-Centric Learning from Video](https://openreview.net/forum?id=aD7uesX1GF_)
-   - Thomas Kipf, Gamaleldin Fathy Elsayed, Aravindh Mahendran, Austin Stone, Sara Sabour, Georg Heigold, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vhvcb-ak3si"></a>
-3. [Dive Deeper Into Integral Pose Regression](https://openreview.net/forum?id=vHVcB-ak3Si)
-   - Kerui Gu, Linlin Yang, Angela Yao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-slz5szjacp"></a>
-4. [Evaluating Disentanglement of Structured Representations](https://openreview.net/forum?id=SLz5sZjacp)
-   - Raphaël Dang-Nhu; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-1l0c5rotfp"></a>
-5. [Filtered-CoPhy: Unsupervised Learning of Counterfactual Physics in Pixel Space](https://openreview.net/forum?id=1L0C5ROtFp)
-   - Steeven JANNY, Fabien Baradel, Natalia Neverova, Madiha Nadri, Greg Mori, Christian Wolf; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-qszogvfijn1"></a>
-6. [Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception](https://openreview.net/forum?id=qsZoGvFiJn1)
-   - Yurong You, Katie Z Luo, Xiangyu Chen, Junan Chen, Wei-Lun Chao, Wen Sun, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-c54v-xtwfi"></a>
-7. [MonoDistill: Learning Spatial Features for Monocular 3D Object Detection](https://openreview.net/forum?id=C54V-xTWfi)
-   - Zhiyu Chong, Xinzhu Ma, Hong Zhang, Yuxin Yue, Haojie Li, Zhihui Wang, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ojgdyqfkl3i"></a>
-8. [OBJECT DYNAMICS DISTILLATION FOR SCENE DECOMPOSITION AND REPRESENTATION](https://openreview.net/forum?id=oJGDYQFKL3i)
-   - Qu Tang, Xiangyu Zhu, Zhen Lei, Zhaoxiang Zhang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lbauk6wk2-y"></a>
-9. [Object Pursuit: Building a Space of Objects via Discriminative Weight Generation](https://openreview.net/forum?id=lbauk6wK2-y)
-   - Chuanyu Pan, Yanchao Yang, Kaichun Mo, Yueqi Duan, Leonidas Guibas; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-bznnmbt0pw"></a>
-10. [Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection](https://openreview.net/forum?id=BZnnMbt0pW)
-   - Wei Ji, Jingjing Li, Qi Bi, chuan guo, Jie Liu, Li Cheng; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-s03aqxehtd"></a>
-11. [ProtoRes: Proto-Residual Network for Pose Authoring via Learned Inverse Kinematics](https://openreview.net/forum?id=s03AQxehtd_)
-   - Boris N. Oreshkin, Florent Bocquelet, Felix G. Harvey, Bay Raitt, Dominic Laflamme; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mq2sagunybp"></a>
-12. [R4D: Utilizing Reference Objects for Long-Range Distance Estimation](https://openreview.net/forum?id=MQ2sAGunyBP)
-   - Yingwei Li, Tiffany Chen, Maya Kabkab, Ruichi Yu, Longlong Jing, Yurong You, et al.; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-l3sdguh7qzo"></a>
-13. [SphereFace2: Binary Classification is All You Need for Deep Face Recognition](https://openreview.net/forum?id=l3SDgUh7qZO)
-   - Yandong Wen, Weiyang Liu, Adrian Weller, Bhiksha Raj, Rita Singh; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-rwe8sshalxw"></a>
-14. [Unsupervised Discovery of Object Radiance Fields](https://openreview.net/forum?id=rwE8SshAlxw)
-   - Hong-Xing Yu, Leonidas Guibas, Jiajun Wu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jaldp8hp-gc"></a>
-15. [Visual Correspondence Hallucination](https://openreview.net/forum?id=jaLDP8Hp_gc)
-   - Hugo Germain, Vincent Lepetit, Guillaume Bourmaud; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-p0rcmden"></a>
-16. [Visual hyperacuity with moving sensor and recurrent neural computations](https://openreview.net/forum?id=p0rCmDEN_-)
-   - Alexander Rivkind, Or Ram, Eldad Assa, Michael Kreiserman, Ehud Ahissar; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ahi2xshpauz"></a>
-17. [WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection](https://openreview.net/forum?id=ahi2XSHpAUZ)
-   - Liang Peng, Senbo Yan, Boxi Wu, Zheng Yang, Xiaofei He, Deng Cai; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-nxcabl7jbqh"></a>
-18. [Zero Pixel Directional Boundary by Vector Transform](https://openreview.net/forum?id=nxcABL7jbQh)
-   - Edoardo Mello Rella, Ajad Chhatkuli, Yun Liu, Ender Konukoglu, Luc Van Gool; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-lzqq89u1qm"></a>
+1. [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_)
+   - Jiehui Xu, Haixu Wu, Jianmin Wang, Mingsheng Long; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-l01nn-vj9i"></a>
+2. [Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future](https://openreview.net/forum?id=L01Nn_VJ9i)
+   - Harshavardhan Kamarthi, Alexander Rodríguez, B. Aditya Prakash; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tzearech2nf"></a>
+3. [Bridging Recommendation and Marketing via Recurrent Intensity Modeling](https://openreview.net/forum?id=TZeArecH2Nf)
+   - Yifei Ma, Ge Liu, Anoop Deoras; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-pilzy3omxv2"></a>
+4. [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://openreview.net/forum?id=PilZY3omXV2)
+   - Gerald Woo, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-gjnch0hj0lm"></a>
+5. [Coherence-based Label Propagation over Time Series for Accelerated Active Learning](https://openreview.net/forum?id=gjNcH0hj0LM)
+   - Yooju Shin, Susik Yoon, Sundong Kim, Hwanjun Song, Jae-Gil Lee, Byung Suk Lee; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-ajar-jgnw"></a>
+6. [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://openreview.net/forum?id=AJAR-JgNw__)
+   - Wei Fan, Shun Zheng, Xiaohan Yi, Wei Cao, Yanjie Fu, Jiang Bian, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kou3-s3wj7"></a>
+7. [Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks](https://openreview.net/forum?id=kOu3-S3wJ7)
+   - Andrea Cini, Ivan Marisca, Cesare Alippi; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-45l-dgp48vd"></a>
+8. [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd)
+   - Enyan Dai, Jie Chen; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kwm8i7du-l5"></a>
+9. [Graph-Guided Network for Irregularly Sampled Multivariate Time Series](https://openreview.net/forum?id=Kwm8I7dU-l5)
+   - Xiang Zhang, Marko Zeman, Theodoros Tsiligkaridis, Marinka Zitnik; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fcg75wd39ze"></a>
+10. [LORD: Lower-Dimensional Embedding of Log-Signature in Neural Rough Differential Equations](https://openreview.net/forum?id=fCG75wd39ze)
+   - JAEHOON LEE, Jinsung Jeon, Sheo yon Jhin, Jihyeon Hyeong, Jayoung Kim, Minju Jo, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wwdg3bbybiq"></a>
+11. [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq)
+   - Hyunwook Lee, Seungmin Jin, Hyeshin Chu, Hongkyu Lim, Sungahn Ko; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ix-mh42xq5w"></a>
+12. [PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series](https://openreview.net/forum?id=Ix_mh42xq5w)
+   - Paul Jeha, Michael Bohlke-Schneider, Pedro Mercado, Shubham Kapoor, Rajbir Singh Nirwan, Valentin Flunkert, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-0exmfzun5i"></a>
+13. [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/forum?id=0EXmFzUn5I)
+   - Shizhan Liu, Hang Yu, Cong Liao, Jianguo Li, Weiyao Lin, Alex X. Liu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xjiajt89omg"></a>
+14. [Space-Time Graph Neural Networks](https://openreview.net/forum?id=XJiajt89Omg)
+   - Samar Hadou, Charilaos I Kanatsoulis, Alejandro Ribeiro; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-u4ufalyg7pv"></a>
+15. [T-WaveNet: A Tree-Structured Wavelet Neural Network for Time Series Signal Analysis](https://openreview.net/forum?id=U4uFaLyg7PV)
+   - Minhao LIU, Ailing Zeng, Qiuxia LAI, Ruiyuan Gao, Min Li, Jing Qin, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wv6g8fwlx2q"></a>
+16. [TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting](https://openreview.net/forum?id=wv6g8fWLX2q)
+   - Yuzhou Chen, Ignacio Segovia-Dominguez, Baris Coskunuzer, Yulia Gel; assignment: `hdbscan`; source: `OpenReview`

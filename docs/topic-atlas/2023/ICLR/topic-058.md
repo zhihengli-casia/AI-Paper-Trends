@@ -1,56 +1,56 @@
-# ICLR 2023: offline / 策略优化 / reinforcement / function approximation
+# ICLR 2023: LiDAR 点云与 3D 感知
 
 - Topic ID: `58`
-- Papers: **12** (0.76%)
-- Macro topic: 强化学习/决策
-- English keywords: `offline / policy / reinforcement / function approximation`
-- Keyword pool: offline; policy; reinforcement; function approximation; value; algorithms; policies; conservatism; actor-critic; conservative; confidence; pessimism
+- Papers: **12** (0.78%)
+- Macro topic: 3D/具身/机器人
+- English keywords: `cloud / multi-view / driving / object`
+- Keyword pool: cloud; multi-view; driving; object; point; map; detection; lidar; cues; autonomous; geometric; triangulation
 
 [Back to ICLR 2023](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- Confidence-Conditioned Value Functions for Offline Reinforcement Learning
-- Offline Reinforcement Learning with Differentiable Function Approximation is Provably Efficient
-- Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian
-- Behavior Proximal Policy Optimization
-- VIPeR: Provably Efficient Algorithm for Offline RL with Neural Function Approximation
+- CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving
+- Exploring Active 3D Object Detection from a Generalization Perspective
+- DBQ-SSD: Dynamic Ball Query for Efficient 3D Object Detection
+- Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding
+- BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection
 
 ## Papers
 
-<a id="paper-3c13lptpiph"></a>
-1. [Behavior Proximal Policy Optimization](https://openreview.net/forum?id=3c13LptpIph)
-   - Zifeng Zhuang, Kun LEI, Jinxin Liu, Donglin Wang, Yilang Guo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zeb5mtuqt5"></a>
-2. [Confidence-Conditioned Value Functions for Offline Reinforcement Learning](https://openreview.net/forum?id=Zeb5mTuqT5)
-   - Joey Hong, Aviral Kumar, Sergey Levine; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-sj0lde3trl"></a>
-3. [Extreme Q-Learning: MaxEnt RL without Entropy](https://openreview.net/forum?id=SJ0Lde3tRL)
-   - Divyansh Garg, Joey Hejna, Matthieu Geist, Stefano Ermon; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rmomvptxk7m"></a>
-4. [Gray-Box Gaussian Processes for Automated Reinforcement Learning](https://openreview.net/forum?id=rmoMvptXK7M)
-   - Gresa Shala, André Biedenkapp, Frank Hutter, Josif Grabocka; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-esqh8rg8oa"></a>
-5. [Greedy Actor-Critic: A New Conditional Cross-Entropy Method for Policy Improvement](https://openreview.net/forum?id=eSQh8rG8Oa)
-   - Samuel Neumann, Sungsu Lim, Ajin George Joseph, Yangchen Pan, Adam White, Martha White; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-6qzc7pfenqm"></a>
-6. [Improving Deep Policy Gradients with Value Function Search](https://openreview.net/forum?id=6qZC7pfenQm)
-   - Enrico Marchesini, Christopher Amato; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6jfbowzwtce"></a>
-7. [Offline Reinforcement Learning with Differentiable Function Approximation is Provably Efficient](https://openreview.net/forum?id=6jfbOWzWTcE)
-   - Ming Yin, Mengdi Wang, Yu-Xiang Wang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-zsvwb6mjnmv"></a>
-8. [Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian](https://openreview.net/forum?id=ZsvWb6mJnMv)
-   - Paria Rashidinejad, Hanlin Zhu, Kunhe Yang, Stuart Russell, Jiantao Jiao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pbkbdq5-ubv"></a>
-9. [Pessimism in the Face of Confounders: Provably Efficient Offline Reinforcement Learning in Partially Observable Markov Decision Processes](https://openreview.net/forum?id=PbkBDQ5_UbV)
-   - Miao Lu, Yifei Min, Zhaoran Wang, Zhuoran Yang; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-9x3co0zu9lr"></a>
-10. [Sample Complexity of Nonparametric Off-Policy Evaluation on Low-Dimensional Manifolds using Deep Networks](https://openreview.net/forum?id=9x3CO0ZU9LR)
-   - Xiang Ji, Minshuo Chen, Mengdi Wang, Tuo Zhao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-woquztlcbo1"></a>
-11. [VIPeR: Provably Efficient Algorithm for Offline RL with Neural Function Approximation](https://openreview.net/forum?id=WOquZTLCBO1)
-   - Thanh Nguyen-Tang, Raman Arora; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-lmo7tc7cuuh"></a>
-12. [When Data Geometry Meets Deep Function: Generalizing Offline Reinforcement Learning](https://openreview.net/forum?id=lMO7TC7cuuh)
-   - Jianxiong Li, Xianyuan Zhan, Haoran Xu, Xiangyu Zhu, Jingjing Liu, Ya-Qin Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-4dzebj83oxk"></a>
+1. [3D Segmenter: 3D Transformer based Semantic Segmentation via 2D Panoramic Distillation](https://openreview.net/forum?id=4dZeBJ83oxk)
+   - ZHENNAN WU, YANG LI, Yifei Huang, Lin Gu, Tatsuya Harada, Hiroyuki Sato; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-2zfgns917"></a>
+2. [BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection](https://openreview.net/forum?id=-2zfgNS917)
+   - Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Zhao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-quadoidgo0"></a>
+3. [CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving](https://openreview.net/forum?id=QUaDoIdgo0)
+   - Runjian Chen, Yao Mu, Runsen Xu, Wenqi Shao, Chenhan Jiang, Hang Xu, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zqwqv2tzdv"></a>
+4. [CircNet: Meshing 3D Point Clouds with Circumcenter Detection](https://openreview.net/forum?id=zQWqV2tzDv)
+   - Huan Lei, Ruitao Leng, Liang Zheng, Hongdong Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-zccflu-yk65"></a>
+5. [DBQ-SSD: Dynamic Ball Query for Efficient 3D Object Detection](https://openreview.net/forum?id=ZccFLU-Yk65)
+   - Jinrong Yang, Lin Song, Songtao Liu, Weixin Mao, Zeming Li, Xiaoping Li, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-quk1exlbba"></a>
+6. [DENSE RGB SLAM WITH NEURAL IMPLICIT MAPS](https://openreview.net/forum?id=QUK1ExlbbA)
+   - Heng Li, Xiaodong Gu, Weihao Yuan, luwei yang, Zilong Dong, Ping Tan; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-2rwxvje1rah"></a>
+7. [Exploring Active 3D Object Detection from a Generalization Perspective](https://openreview.net/forum?id=2RwXVje1rAh)
+   - Yadan Luo, Zhuoxiao Chen, Zijian Wang, Xin Yu, Zi Huang, Mahsa Baktashmotlagh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-w-nzdqyuy8d"></a>
+8. [GOOD: Exploring geometric cues for detecting objects in an open world](https://openreview.net/forum?id=W-nZDQyuy8D)
+   - Haiwen Huang, Andreas Geiger, Dan Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k7p-yao7ye"></a>
+9. [MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction](https://openreview.net/forum?id=k7p_YAO7yE)
+   - Bencheng Liao, Shaoyu Chen, Xinggang Wang, Tianheng Cheng, Qian Zhang, Wenyu Liu, et al.; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-x5sur7g2vvw"></a>
+10. [Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling](https://openreview.net/forum?id=X5SUR7g2vVw)
+   - Penghao Wu, Li Chen, Hongyang Li, Xiaosong Jia, Junchi Yan, Yu Qiao; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-h3hceja2um"></a>
+11. [Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection](https://openreview.net/forum?id=H3HcEJA2Um)
+   - Jinhyung Park, Chenfeng Xu, Shijia Yang, Kurt Keutzer, Kris M. Kitani, Masayoshi Tomizuka, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ipggfpmuchj"></a>
+12. [Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding](https://openreview.net/forum?id=IpGgfpMucHj)
+   - Abdullah Hamdi, Silvio Giancola, Bernard Ghanem; assignment: `hdbscan`; source: `OpenReview`

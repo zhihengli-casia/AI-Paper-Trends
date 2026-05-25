@@ -1,125 +1,122 @@
-# ICLR 2022: 神经网络理论与优化行为
+# ICLR 2022: 图神经网络与图表示学习
 
 - Topic ID: `2`
-- Papers: **35** (3.20%)
-- Macro topic: 理论/优化
-- English keywords: `relu / kernel / collapse / bounds`
-- Keyword pool: relu; kernel; collapse; bounds; approximation; tangent; infinite-width; feature learning; overparametrized; dimension; error; polynomial
+- Papers: **34** (3.20%)
+- Macro topic: 图学习/数据挖掘
+- English keywords: `graph / gnns / node / expressive`
+- Keyword pool: graph; gnns; node; expressive; power; positional; convolutional networks; message passing; homophily; distributed; streaming; link
 
 [Back to ICLR 2022](README.md) | [Atlas home](../../README.md)
 
 ## Representative Papers
 
-- On feature learning in neural networks with global convergence guarantees
-- Efficient Computation of Deep Nonlinear Infinite-Width Neural Networks that Learn Features
-- Shallow and Deep Networks are Near-Optimal Approximators of Korobov Functions
-- Phenomenology of Double Descent in Finite-Width Neural Networks
-- Optimization and Adaptive Generalization of Three layer Neural Networks
+- A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"
+- LEARNING GUARANTEES FOR GRAPH CONVOLUTIONAL NETWORKS ON THE STOCHASTIC BLOCK MODEL
+- From Stars to Subgraphs: Uplifting Any GNN with Local Structure Awareness
+- Graph Condensation for Graph Neural Networks
+- GLASS: GNN with Labeling Tricks for Subgraph Representation Learning
 
 ## Papers
 
-<a id="paper-bzjbzaj-ilp"></a>
-1. [A NON-PARAMETRIC REGRESSION VIEWPOINT : GENERALIZATION OF OVERPARAMETRIZED DEEP RELU NETWORK UNDER NOISY OBSERVATIONS](https://openreview.net/forum?id=bZJbzaj_IlP)
-   - Namjoon Suh, Hyunouk Ko, Xiaoming Huo; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-vuh85moxo7h"></a>
-2. [A Neural Tangent Kernel Perspective of Infinite Tree Ensembles](https://openreview.net/forum?id=vUH85MOXO7h)
-   - Ryuichi Kanoh, Mahito Sugiyama; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-wmps-z-ai-e"></a>
-3. [A Theoretical Analysis on Feature Learning in Neural Networks: Emergence from Inputs and Advantage over Fixed Features](https://openreview.net/forum?id=wMpS-Z_AI_E)
-   - Zhenmei Shi, Junyi Wei, Yingyu Liang; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-wz3yjh8codg"></a>
-4. [An Unconstrained Layer-Peeled Perspective on Neural Collapse](https://openreview.net/forum?id=WZ3yjh8coDg)
-   - Wenlong Ji, Yiping Lu, Yiliang Zhang, Zhun Deng, Weijie J Su; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-lrocyb-0st2"></a>
-5. [Approximation and Learning with Deep Convolutional Models: a Kernel Perspective](https://openreview.net/forum?id=lrocYB-0ST2)
-   - Alberto Bietti; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-wvogceaqhxl"></a>
-6. [Assessing Generalization of SGD via Disagreement](https://openreview.net/forum?id=WvOGCEAQhxl)
-   - Yiding Jiang, Vaishnavh Nagarajan, Christina Baek, J Zico Kolter; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dq7cy-ndl1s"></a>
-7. [Controlling the Complexity and Lipschitz Constant improves Polynomial Nets](https://openreview.net/forum?id=dQ7Cy_ndl1s)
-   - Zhenyu Zhu, Fabian Latorre, Grigorios Chrysos, Volkan Cevher; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-2f1z55gvqn"></a>
-8. [Critical Points in Quantum Generative Models](https://openreview.net/forum?id=2f1z55GVQN)
-   - Eric Ricardo Anschuetz; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-u0k7xntifeq"></a>
-9. [Deep Learning without Shortcuts: Shaping the Kernel with Tailored Rectifiers](https://openreview.net/forum?id=U0k7XNTiFEq)
-   - Guodong Zhang, Aleksandar Botev, James Martens; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ci7lbzdn2q"></a>
-10. [Deep ReLU Networks Preserve Expected Length](https://openreview.net/forum?id=ci7LBzDn2Q)
-   - Boris Hanin, Ryan Jeong, David Rolnick; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-tumr0iox8xw"></a>
-11. [Efficient Computation of Deep Nonlinear Infinite-Width Neural Networks that Learn Features](https://openreview.net/forum?id=tUMr0Iox8XW)
-   - Greg Yang, Michael Santacroce, Edward J Hu; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-ht85-jyihxp"></a>
-12. [Efficient and Differentiable Conformal Prediction with General Function Classes](https://openreview.net/forum?id=Ht85_jyihxp)
-   - Yu Bai, Song Mei, Huan Wang, Yingbo Zhou, Caiming Xiong; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-7grkzyj89a"></a>
-13. [Generalization Through the Lens of Leave-One-Out Error](https://openreview.net/forum?id=7grkzyj89A_)
-   - Gregor Bachmann, Thomas Hofmann, Aurelien Lucchi; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-chmltgrjfcu"></a>
-14. [How many degrees of freedom do we need to train deep networks: a loss landscape perspective](https://openreview.net/forum?id=ChMLTGRjFcU)
-   - Brett W Larsen, Stanislav Fort, Nic Becker, Surya Ganguli; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-dgxftxuj50e"></a>
-15. [Learnability of convolutional neural networks for infinite dimensional input via mixed and anisotropic smoothness](https://openreview.net/forum?id=dgxFTxuJ50e)
-   - Sho Okumoto, Taiji Suzuki; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-j1rhanscy9"></a>
-16. [Learning Representation from Neural Fisher Kernel with Low-rank Approximation](https://openreview.net/forum?id=J1rhANsCY9)
-   - Ruixiang ZHANG, Shuangfei Zhai, Etai Littwin, Joshua M. Susskind; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-w1ubdvwh-r3"></a>
-17. [Neural Collapse Under MSE Loss: Proximity to and Dynamics on the Central Path](https://openreview.net/forum?id=w1UbdvWH_R3)
-   - X.Y. Han, Vardan Papyan, David L. Donoho; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-oizjwc-fys"></a>
-18. [Neural Network Approximation based on Hausdorff distance of Tropical Zonotopes](https://openreview.net/forum?id=oiZJwC_fyS)
-   - Panagiotis Misiakos, Georgios Smyrnis, George Retsinas, Petros Maragos; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-pqtw3ig4sc"></a>
-19. [On feature learning in neural networks with global convergence guarantees](https://openreview.net/forum?id=PQTW3iG4sC-)
-   - Zhengdao Chen, Eric Vanden-Eijnden, Joan Bruna; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-owzsq8o5ea"></a>
-20. [On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications](https://openreview.net/forum?id=oWZsQ8o5EA)
-   - Ziqiao Wang, Yongyi Mao; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-mktptnjeytv"></a>
-21. [On the Optimal Memorization Power of ReLU Neural Networks](https://openreview.net/forum?id=MkTPtnjeYTV)
-   - Gal Vardi, Gilad Yehudai, Ohad Shamir; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-swip410b6aq"></a>
-22. [On the Role of Neural Collapse in Transfer Learning](https://openreview.net/forum?id=SwIp410B6aQ)
-   - Tomer Galanti, András György, Marcus Hutter; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-dpyrnulttbv"></a>
-23. [Optimization and Adaptive Generalization of Three layer Neural Networks](https://openreview.net/forum?id=dPyRNUlttBv)
-   - Khashayar Gatmiry, Stefanie Jegelka, Jonathan Kelner; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-iphlcmtietq"></a>
-24. [Phase Collapse in Neural Networks](https://openreview.net/forum?id=iPHLcmtietq)
-   - Florentin Guth, John Zarka, Stéphane Mallat; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-ltqgxfn9tv"></a>
-25. [Phenomenology of Double Descent in Finite-Width Neural Networks](https://openreview.net/forum?id=lTqGXfn9Tv)
-   - Sidak Pal Singh, Aurelien Lucchi, Thomas Hofmann, Bernhard Schölkopf; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-gsdsjoenupi"></a>
-26. [PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions](https://openreview.net/forum?id=gSdSJoenupI)
-   - Zhaoqi Leng, Mingxing Tan, Chenxi Liu, Ekin Dogus Cubuk, Jay Shi, Shuyang Cheng, et al.; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-nlobxr0rosg"></a>
-27. [Practical Integration via Separable Bijective Networks](https://openreview.net/forum?id=NlObxR0rosG)
-   - Christopher M Bender, Patrick Emmanuel, Michael K. Reiter, Junier Oliva; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-av8fpomtta"></a>
-28. [Shallow and Deep Networks are Near-Optimal Approximators of Korobov Functions](https://openreview.net/forum?id=AV8FPoMTTa)
-   - Moise Blanchard, Mohammed Amine Bennouna; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-6tmjoym9lr6"></a>
-29. [Stability Regularization for Discrete Representation Learning](https://openreview.net/forum?id=6tmjoym9LR6)
-   - Adeel Pervez, Efstratios Gavves; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-dnigytemkl"></a>
-30. [The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks](https://openreview.net/forum?id=dNigytemkL)
-   - Rahim Entezari, Hanie Sedghi, Olga Saukh, Behnam Neyshabur; assignment: `nearest_centroid`; source: `OpenReview`
-<a id="paper-lbvk4qwiupm"></a>
-31. [Tighter Sparse Approximation Bounds for ReLU Neural Networks](https://openreview.net/forum?id=LBvk4QWIUpm)
-   - Carles Domingo-Enrich, Youssef Mroueh; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-rs9-7aupkwk"></a>
-32. [Towards Understanding Generalization via Decomposing Excess Risk Dynamics](https://openreview.net/forum?id=rS9-7AuPKWK)
-   - Jiaye Teng, Jianhao Ma, Yang Yuan; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-cykhokyvgnp"></a>
-33. [Transition to Linearity of Wide Neural Networks is an Emerging Property of Assembling Weak Models](https://openreview.net/forum?id=CyKHoKyvgnp)
-   - Chaoyue Liu, Libin Zhu, Misha Belkin; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-jgo8cvg5s9"></a>
-34. [Universal Approximation Under Constraints is Possible with Transformers](https://openreview.net/forum?id=JGO8CvG5S9)
-   - Anastasis Kratsios, Behnoosh Zamanlooy, Tianlin Liu, Ivan Dokmanić; assignment: `hdbscan`; source: `OpenReview`
-<a id="paper-7udzasezd60"></a>
-35. [VC dimension of partially quantized neural networks in the overparametrized regime](https://openreview.net/forum?id=7udZAsEzd60)
-   - Yutong Wang, Clayton Scott; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-uxgg9o7bi-3"></a>
+1. [A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"](https://openreview.net/forum?id=uxgg9o7bI_3)
+   - Asiri Wijesinghe, Qing Wang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-qjwvp4ctmw4"></a>
+2. [Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space](https://openreview.net/forum?id=QJWVP4CTmW4)
+   - Yaohua Wang, Yaobin Zhang, Fangyi Zhang, Senzhang Wang, Ming Lin, YuQi Zhang, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-abxzcppoux"></a>
+3. [Bundle Networks: Fiber Bundles, Local Trivializations, and a Generative Approach to Exploring Many-to-one Maps](https://openreview.net/forum?id=aBXzcPPOuX)
+   - Nico Courts, Henry Kvinge; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-1ugnpm7w6e"></a>
+4. [Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods](https://openreview.net/forum?id=1ugNpm7W6E)
+   - Wenqing Zheng, Edward W Huang, Nikhil Rao, Sumeet Katariya, Zhangyang Wang, Karthik Subbian; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-itkxlqu01ld"></a>
+5. [Convergent Graph Solvers](https://openreview.net/forum?id=ItkxLQU01lD)
+   - Junyoung Park, Jinhyun Choo, Jinkyoo Park; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hgxij5rfihw"></a>
+6. [Discovering Invariant Rationales for Graph Neural Networks](https://openreview.net/forum?id=hGXij5rfiHw)
+   - Yingxin Wu, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-vkamaq95-rx"></a>
+7. [EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression](https://openreview.net/forum?id=vkaMaq95_rX)
+   - Zirui Liu, Kaixiong Zhou, Fan Yang, Li Li, Rui Chen, Xia Hu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dfbkqark15w"></a>
+8. [Equivariant Subgraph Aggregation Networks](https://openreview.net/forum?id=dFbKQaRk15w)
+   - Beatrice Bevilacqua, Fabrizio Frasca, Derek Lim, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-e95i1ihcwj"></a>
+9. [Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks](https://openreview.net/forum?id=e95i1IHcWj)
+   - Haorui Wang, Haoteng Yin, Muhan Zhang, Pan Li; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wizuem3tau"></a>
+10. [Expressiveness and Approximation Properties of Graph Neural Networks](https://openreview.net/forum?id=wIzUeM3TAU)
+   - Floris Geerts, Juan L Reutter; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mspk-wykoeh"></a>
+11. [From Stars to Subgraphs: Uplifting Any GNN with Local Structure Awareness](https://openreview.net/forum?id=Mspk_WYKoEH)
+   - Lingxiao Zhao, Wei Jin, Leman Akoglu, Neil Shah; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-xlxhejknbxj"></a>
+12. [GLASS: GNN with Labeling Tricks for Subgraph Representation Learning](https://openreview.net/forum?id=XLxhEjKNbXj)
+   - Xiyuan Wang, Muhan Zhang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-emxu-dzvjk"></a>
+13. [GRAND++: Graph Neural Diffusion with A Source Term](https://openreview.net/forum?id=EMxu-dzvJk)
+   - Matthew Thorpe, Tan Minh Nguyen, Hedi Xia, Thomas Strohmer, Andrea Bertozzi, Stanley Osher, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wlex3jo4qab"></a>
+14. [Graph Condensation for Graph Neural Networks](https://openreview.net/forum?id=WLEx3Jo4QaB)
+   - Wei Jin, Lingxiao Zhao, Shichang Zhang, Yozen Liu, Jiliang Tang, Neil Shah; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wttjnvgphyj"></a>
+15. [Graph Neural Networks with Learnable Structural and Positional Representations](https://openreview.net/forum?id=wTTjnvGphYj)
+   - Vijay Prakash Dwivedi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-mxel7i-iru"></a>
+16. [GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification](https://openreview.net/forum?id=MXEl7i-iru)
+   - Joonhyung Park, Jaeyun Song, Eunho Yang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fqoc5u-1egi"></a>
+17. [Handling Distribution Shifts on Graphs: An Invariance Perspective](https://openreview.net/forum?id=FQOC5u-1egI)
+   - Qitian Wu, Hengrui Zhang, Junchi Yan, David Wipf; assignment: `nearest_centroid`; source: `OpenReview`
+<a id="paper-f72ximsx7c1"></a>
+18. [How Attentive are Graph Attention Networks?](https://openreview.net/forum?id=F72ximsx7C1)
+   - Shaked Brody, Uri Alon, Eran Yahav; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-5kq11tl1z4"></a>
+19. [IGLU: Efficient GCN Training via Lazy Updates](https://openreview.net/forum?id=5kq11Tl1z4)
+   - S Deepak Narayanan, Aditya Sinha, Prateek Jain, Purushottam Kar, SUNDARARAJAN SELLAMANICKAM; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ucasppd9gkn"></a>
+20. [Is Homophily a Necessity for Graph Neural Networks?](https://openreview.net/forum?id=ucASPPD9GKN)
+   - Yao Ma, Xiaorui Liu, Neil Shah, Jiliang Tang; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-dpxl6lz4moq"></a>
+21. [LEARNING GUARANTEES FOR GRAPH CONVOLUTIONAL NETWORKS ON THE STOCHASTIC BLOCK MODEL](https://openreview.net/forum?id=dpXL6lz4mOQ)
+   - Wei Lu; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-fnddxsz3lxq"></a>
+22. [Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks](https://openreview.net/forum?id=FndDxSz3LxQ)
+   - Morteza Ramezani, Weilin Cong, Mehrdad Mahdavi, Mahmut Kandemir, Anand Sivasubramaniam; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-k7eftb0un9z"></a>
+23. [Learning to Schedule Learning rate with Graph Neural Networks](https://openreview.net/forum?id=k7efTb0un9z)
+   - Yuanhao Xiong, Li-Cheng Lan, Xiangning Chen, Ruochen Wang, Cho-Jui Hsieh; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ccu6rcumwk0"></a>
+24. [Neural Link Prediction with Walk Pooling](https://openreview.net/forum?id=CCu6RcUMwK0)
+   - Liming Pan, Cheng Shi, Ivan Dokmanić; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-ibrukc-pbis"></a>
+25. [Neural Models for Output-Space Invariance in Combinatorial Problems](https://openreview.net/forum?id=ibrUkC-pbis)
+   - Yatin Nandwani, Vidit Jain, Mausam ., Parag Singla; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oh4tirnfsem"></a>
+26. [PF-GNN: Differentiable particle filtering based approximation of universal graph representations](https://openreview.net/forum?id=oh4TirnfSem)
+   - Mohammed Haroon Dupty, Yanfei Dong, Wee Sun Lee; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-n1wi0vjler"></a>
+27. [Parallel Training of GRU Networks with a Multi-Grid Solver for Long Sequences](https://openreview.net/forum?id=N1WI0vJLER)
+   - Euhyun Moon, Eric C Cyr; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-kswqmh0zn1f"></a>
+28. [PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication](https://openreview.net/forum?id=kSwqMH0zn1F)
+   - Cheng Wan, Youjie Li, Cameron R. Wolfe, Anastasios Kyrillidis, Nam Sung Kim, Yingyan Lin; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-oxxumefwehd"></a>
+29. [Topological Graph Neural Networks](https://openreview.net/forum?id=oxxUMeFwEHd)
+   - Max Horn, Edward De Brouwer, Michael Moor, Yves Moreau, Bastian Rieck, Karsten Borgwardt; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-tt9t-zctzrl"></a>
+30. [Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective](https://openreview.net/forum?id=tT9t_ZctZRL)
+   - Wei Huang, Yayong Li, weitao Du, Richard Xu, Jie Yin, Ling Chen, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-8in-5gn9i0"></a>
+31. [Triangle and Four Cycle Counting with Predictions in Graph Streams](https://openreview.net/forum?id=8in_5gN9I0)
+   - Justin Y Chen, Talya Eden, Piotr Indyk, Honghao Lin, Shyam Narayanan, Ronitt Rubinfeld, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-wkmg8cdvh7"></a>
+32. [Understanding and Improving Graph Injection Attack by Promoting Unnoticeability](https://openreview.net/forum?id=wkMG8cdvh7-)
+   - Yongqiang Chen, Han Yang, Yonggang Zhang, MA KAILI, Tongliang Liu, Bo Han, et al.; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-7umjrgzp-a"></a>
+33. [Understanding over-squashing and bottlenecks on graphs via curvature](https://openreview.net/forum?id=7UmjRGzp-A)
+   - Jake Topping, Francesco Di Giovanni, Benjamin Paul Chamberlain, Xiaowen Dong, Michael M. Bronstein; assignment: `hdbscan`; source: `OpenReview`
+<a id="paper-hpbtiv2uy-e"></a>
+34. [You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks](https://openreview.net/forum?id=hpBTIv2uy_E)
+   - Eli Chien, Chao Pan, Jianhao Peng, Olgica Milenkovic; assignment: `hdbscan`; source: `OpenReview`
