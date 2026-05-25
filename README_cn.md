@@ -2,13 +2,18 @@
 
 # AI Paper Trends
 
-[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/zhihengli-casia/AI-Paper-Trends?style=social)](https://github.com/zhihengli-casia/AI-Paper-Trends/stargazers) [![Last commit](https://img.shields.io/github/last-commit/zhihengli-casia/AI-Paper-Trends)](https://github.com/zhihengli-casia/AI-Paper-Trends/commits/main)
 
 AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要 AI 会议与部分期刊。它把论文整理成一个可以静态浏览的图谱：
 
 **年份 -> venue -> 主题 -> 论文**
 
 这个项目解决的是一个很具体的问题：想看某一年、某个会议到底在发哪些方向，不用在一堆 proceedings 页面里来回翻。
+
+[![浏览图谱](https://img.shields.io/badge/Browse-Topic%20Atlas-0969da?style=for-the-badge)](docs/topic-atlas/README.md)
+[![下载主题索引](https://img.shields.io/badge/CSV-Topic%20Index-2da44e?style=for-the-badge)](docs/topic-atlas/data/topic_index.csv)
+
+**155,662 篇论文 · 7,378 个细粒度主题 · 160 个 venue-year 单元 · 2020-2026 · 覆盖机器学习、计算机视觉、NLP、机器人、数据挖掘、HCI、多媒体和医疗 AI 等方向。**
 
 ## 当前快照
 
@@ -37,6 +42,9 @@ AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要
 ## 覆盖范围
 
 下面的数字对应当前仓库快照，会作为持续更新视图维护。随着更多会议、年份和论文集加入，这些数字会继续变化。
+
+<details>
+<summary><strong>按领域划分的覆盖范围</strong></summary>
 
 ### 会议
 
@@ -72,6 +80,8 @@ AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要
 | 数据 / 检索 / Web | CIKM, WSDM, RecSys, ICDM, SDM, VLDB, EDBT, PODS |
 | HCI / 系统 | UIST, CSCW, IMWUT, UbiComp |
 | 医疗 AI | TMI, Medical Image Analysis, ISBI |
+
+</details>
 
 ## 浏览入口
 
@@ -216,6 +226,15 @@ python main.py --config configs/iclr_2025_full_analysis.yaml
 - 检查代表论文，
 - 改进自动更新时间表，
 - 增加可视化 notebook 或分析示例。
+
+提交 PR 前请尽量保持改动聚焦，并运行相关检查：
+
+```bash
+git diff --check
+python -m py_compile scripts/build_topic_atlas.py
+```
+
+如果更新了 atlas，也请检查 `docs/topic-atlas/data/topic_index.csv` 里的链接是否能指向真实主题页。
 
 可以通过 [Issues](https://github.com/zhihengli-casia/AI-Paper-Trends/issues) 或 [Pull Requests](https://github.com/zhihengli-casia/AI-Paper-Trends/pulls) 参与。
 

@@ -2,13 +2,18 @@
 
 # AI Paper Trends
 
-[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/zhihengli-casia/AI-Paper-Trends?style=social)](https://github.com/zhihengli-casia/AI-Paper-Trends/stargazers) [![Last commit](https://img.shields.io/github/last-commit/zhihengli-casia/AI-Paper-Trends)](https://github.com/zhihengli-casia/AI-Paper-Trends/commits/main)
 
 AI Paper Trends is an open-source index of AI papers and research topics. It tracks major AI conferences and selected journals, then turns them into a static atlas you can browse as:
 
 **year -> venue -> topic -> paper**
 
 The project started from a simple need: see what each AI venue is publishing every year without digging through dozens of proceedings pages.
+
+[![Browse the Atlas](https://img.shields.io/badge/Browse-Topic%20Atlas-0969da?style=for-the-badge)](docs/topic-atlas/README.md)
+[![Download Topic Index](https://img.shields.io/badge/CSV-Topic%20Index-2da44e?style=for-the-badge)](docs/topic-atlas/data/topic_index.csv)
+
+**155,662 papers · 7,378 fine-grained topics · 160 venue-year groups · 2020-2026 · conferences and journals across ML, CV, NLP, robotics, data mining, HCI, multimedia, and medical AI.**
 
 ## Current Snapshot
 
@@ -37,6 +42,9 @@ Start browsing here: [AI Paper Topic Atlas](docs/topic-atlas/README.md)
 ## Coverage
 
 Counts below describe the current repository snapshot. They are maintained as a continuously updated view and will change as more venues, years, and proceedings are added.
+
+<details>
+<summary><strong>Coverage by area</strong></summary>
 
 ### Conferences
 
@@ -72,6 +80,8 @@ Candidate sources are tracked for future expansion. Inclusion depends on public 
 | Data / IR / Web | CIKM, WSDM, RecSys, ICDM, SDM, VLDB, EDBT, PODS |
 | HCI / systems | UIST, CSCW, IMWUT, UbiComp |
 | Medical AI | TMI, Medical Image Analysis, ISBI |
+
+</details>
 
 ## Explore the Atlas
 
@@ -216,6 +226,15 @@ Contributions are welcome. Useful contributions include:
 - checking representative papers,
 - improving update schedules,
 - adding visualization notebooks or analysis examples.
+
+Before opening a PR, please keep changes focused and run the relevant checks:
+
+```bash
+git diff --check
+python -m py_compile scripts/build_topic_atlas.py
+```
+
+If you update the atlas, also verify that `docs/topic-atlas/data/topic_index.csv` links resolve to real topic pages.
 
 Please use [Issues](https://github.com/zhihengli-casia/AI-Paper-Trends/issues) or [Pull Requests](https://github.com/zhihengli-casia/AI-Paper-Trends/pulls).
 
