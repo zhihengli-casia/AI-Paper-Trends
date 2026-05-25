@@ -1,4 +1,4 @@
-# PR 2025: action recognition / clip / video action / few-shot
+# PR 2025: action recognition / clip / video action / 少样本
 
 - Topic ID: `73`
 - Papers: **9** (0.60%)

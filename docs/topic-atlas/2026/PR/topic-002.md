@@ -1,10 +1,10 @@
-# PR 2026: 医疗健康与临床 AI
+# PR 2026: 少样本细粒度视觉识别
 
 - Topic ID: `2`
 - Papers: **34** (3.68%)
 - Macro topic: 计算机视觉
-- English keywords: `classification / few-shot / mml / image`
-- Keyword pool: classification; few-shot; mml; image; medical; zero-shot; neural; fine-grained; representation; long-tailed; recognition; contrastive learning
+- English keywords: `classification / few-shot / image / medical`
+- Keyword pool: classification; few-shot; image; medical; zero-shot; neural; representation; fine-grained; long-tailed; recognition; contrastive learning; contextual
 
 [Back to PR 2026](README.md) | [Atlas home](../../README.md)
 

@@ -24,7 +24,7 @@
 | [010](topic-010.md) | question / legal / answering / reading | 18 | 2.31% | 推荐/检索/排序 | `question / legal / answering / reading` | Answer Generation through Unified Memories over Multiple Passages |
 | [011](topic-011.md) | positive / unlabeled / classifier / transition | 18 | 2.31% | 其他/交叉主题 | `positive / unlabeled / classifier / transition` | Positive Unlabeled Learning with Class-prior Approximation |
 | [012](topic-012.md) | 查询理解与检索优化 | 17 | 2.19% | 计算机视觉 | `segmentation / few-shot / object / semantic` | Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings |
-| [013](topic-013.md) | 医疗健康与临床 AI | 17 | 2.19% | 计算机视觉 | `brain / diagnosis / clinical / codes` | Multi-graph Fusion for Functional Neuroimaging Biomarker Detection |
+| [013](topic-013.md) | 零样本分类与跨模态识别 | 17 | 2.19% | 计算机视觉 | `brain / diagnosis / clinical / codes` | Multi-graph Fusion for Functional Neuroimaging Biomarker Detection |
 | [014](topic-014.md) | 对抗攻击、鲁棒性与安全 | 17 | 2.19% | 可信/安全/公平 | `adversarial / anomaly / detection / generative` | Detecting Adversarial Attacks via Subset Scanning of Autoencoder Activations and Reconstruction Error |
 | [015](topic-015.md) | 图神经网络与节点表示学习 | 17 | 2.19% | 图学习/数据挖掘 | `social / embedding / prediction / graph` | Heterogeneous Network Representation Learning |
 | [016](topic-016.md) | label / hashing / ground-truth / loss | 17 | 2.19% | 其他/交叉主题 | `label / hashing / ground-truth / loss` | Partial Multi-Label Learning via Multi-Subspace Representation |
@@ -37,7 +37,7 @@
 | [023](topic-023.md) | dialogue / responses / topic / generation | 15 | 1.93% | 计算机视觉 | `dialogue / responses / topic / generation` | Modeling Topical Relevance for Multi-Turn Dialogue Generation |
 | [024](topic-024.md) | 机器翻译与跨语言对齐 | 15 | 1.93% | NLP任务 | `translation / cross-lingual / languages / machine` | Bridging the Gap between Training and Inference for Neural Machine Translation (Extended Abstract) |
 | [025](topic-025.md) | quantization / architecture search / bit / devices | 15 | 1.93% | 系统/效率/压缩 | `quantization / architecture search / bit / devices` | Overflow Aware Quantization: Accelerating Neural Network Inference by Low-bit Multiply-Accumulate Operations |
-| [026](topic-026.md) | causal / event / health / functional | 14 | 1.80% | 强化学习/决策 | `causal / event / health / functional` | Cause-Effect Association between Event Pairs in Event Datasets |
+| [026](topic-026.md) | causal / event / 健康AI / functional | 14 | 1.80% | 强化学习/决策 | `causal / event / health / functional` | Cause-Effect Association between Event Pairs in Event Datasets |
 | [027](topic-027.md) | 多语言建模与跨语言迁移 | 14 | 1.80% | NLP任务 | `word / context / semantic / embeddings` | Context Vectors Are Reflections of Word Vectors in Half the Dimensions (Extended Abstract) |
 | [028](topic-028.md) | 规划搜索与决策推理 | 14 | 1.80% | 强化学习/决策 | `games / winning / player / agents` | Planning Algorithms for Zero-Sum Games with Exponential Action Spaces: A Unifying Perspective |
 | [029](topic-029.md) | 强化学习与 MDP 理论 | 14 | 1.80% | 理论/优化 | `policy / decision / markov / processes` | Steady-State Policy Synthesis in Multichain Markov Decision Processes |
@@ -49,7 +49,7 @@
 | [036](topic-036.md) | 代码生成与程序理解 | 12 | 1.54% | LLM/语言模型 | `answer set / programs / logic / set programming` | Learning Large Logic Programs By Going Beyond Entailment |
 | [037](topic-037.md) | online / offline / resource allocation / route | 12 | 1.54% | 强化学习/决策 | `online / offline / resource allocation / route` | A Unified Model for the Two-stage Offline-then-Online Resource Allocation |
 | [035](topic-035.md) | 语音/音频语言模型 | 12 | 1.54% | 语音/音频/音乐 | `speech / audio / temporal / signal` | Generating Robust Audio Adversarial Examples with Temporal Dependency |
-| [038](topic-038.md) | 医疗健康与临床 AI | 11 | 1.41% | 计算机视觉 | `domain / segmentation / retrieval / semantic` | Consistent Domain Structure Learning and Domain Alignment for 2D Image-Based 3D Objects Retrieval |
+| [038](topic-038.md) | 目标检测与图像分割 | 11 | 1.41% | 计算机视觉 | `domain / segmentation / retrieval / semantic` | Consistent Domain Structure Learning and Domain Alignment for 2D Image-Based 3D Objects Retrieval |
 | [039](topic-039.md) | 强化学习策略与奖励建模 | 11 | 1.41% | 强化学习/决策 | `exploration / reinforcement learning / reward / policy` | Towards High-Level Intrinsic Exploration in Reinforcement Learning |
 | [040](topic-040.md) | 图像复原与超分辨率 | 11 | 1.41% | 计算机视觉 | `image / feature maps / snn / patterns` | Bottom-up and Top-down: Bidirectional Additive Net for Edge Detection |
 | [041](topic-041.md) | 社交媒体与社会计算 | 10 | 1.29% | 3D/具身/机器人 | `trust / logic / agent / del` | Formalizing Group and Propagated Trust in Multi-Agent Systems |

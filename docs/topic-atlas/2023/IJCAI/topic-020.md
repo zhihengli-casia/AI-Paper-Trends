@@ -1,4 +1,4 @@
-# IJCAI 2023: decision / human / health / interventions
+# IJCAI 2023: decision / human / 健康AI / interventions
 
 - Topic ID: `20`
 - Papers: **17** (2.00%)

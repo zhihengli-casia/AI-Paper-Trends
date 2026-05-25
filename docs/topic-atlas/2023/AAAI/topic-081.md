@@ -1,4 +1,4 @@
-# AAAI 2023: 医疗健康与临床 AI
+# AAAI 2023: autoregressive / 医学AI / transformer / language
 
 - Topic ID: `81`
 - Papers: **9** (0.57%)

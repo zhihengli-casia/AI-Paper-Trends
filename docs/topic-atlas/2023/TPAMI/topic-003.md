@@ -1,4 +1,4 @@
-# TPAMI 2023: few-shot / ood / samples / meta-learning
+# TPAMI 2023: 少样本 / ood / samples / meta-learning
 
 - Topic ID: `3`
 - Papers: **36** (5.29%)

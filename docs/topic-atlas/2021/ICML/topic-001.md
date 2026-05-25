@@ -1,4 +1,4 @@
-# ICML 2021: Conformal Prediction 与不确定性校准
+# ICML 2021: 少样本分类与开放集识别
 
 - Topic ID: `1`
 - Papers: **50** (4.23%)

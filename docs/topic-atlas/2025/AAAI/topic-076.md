@@ -1,4 +1,4 @@
-# AAAI 2025: 视觉理解 / zsl / image / zero-shot
+# AAAI 2025: 少样本细粒度视觉识别
 
 - Topic ID: `76`
 - Papers: **18** (0.59%)

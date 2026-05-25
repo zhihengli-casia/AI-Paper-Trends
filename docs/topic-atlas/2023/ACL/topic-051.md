@@ -1,4 +1,4 @@
-# ACL 2023: classification / hierarchy / hierarchical / pseudo-labels
+# ACL 2023: 少样本分类与开放集识别
 
 - Topic ID: `51`
 - Papers: **10** (0.93%)

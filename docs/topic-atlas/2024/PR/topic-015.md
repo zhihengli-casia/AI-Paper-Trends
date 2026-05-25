@@ -1,4 +1,4 @@
-# PR 2024: anomaly / detection / 视频理解/生成 / outlier
+# PR 2024: 少样本分类与开放集识别
 
 - Topic ID: `15`
 - Papers: **21** (2.19%)

@@ -1,4 +1,4 @@
-# AAAI 2021: few-shot / classes / zero-shot learning / elbo
+# AAAI 2021: 少样本 / classes / zero-shot learning / elbo
 
 - Topic ID: `25`
 - Papers: **21** (1.28%)

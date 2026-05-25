@@ -12,9 +12,9 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | point / clouds / averaging / object | 34 | 6.87% | 3D/具身/机器人 | `point / clouds / averaging / object` | A concave optimization algorithm for matching partially overlapping point sets |
-| [001](topic-001.md) | deep / neural networks / classification / cnns | 31 | 6.26% | 系统/效率/压缩 | `deep / neural networks / classification / cnns` | LOW: Training deep neural networks by learning optimal sample weights |
+| [001](topic-001.md) | deep / neural networks / 分类 / cnns | 31 | 6.26% | 系统/效率/压缩 | `deep / neural networks / classification / cnns` | LOW: Training deep neural networks by learning optimal sample weights |
 | [002](topic-002.md) | selection / mml / feature / time | 27 | 5.45% | 理论/优化 | `selection / mml / feature / time` | Mutual information based feature subset selection in multivariate time series classification |
-| [003](topic-003.md) | classification / support vector / reduction / machine | 24 | 4.85% | 其他/交叉主题 | `classification / support vector / reduction / machine` | A novel dimension reduction and dictionary learning framework for high-dimensional data classification |
+| [003](topic-003.md) | 分类 / support vector / reduction / machine | 24 | 4.85% | 其他/交叉主题 | `classification / support vector / reduction / machine` | A novel dimension reduction and dictionary learning framework for high-dimensional data classification |
 | [004](topic-004.md) | 图神经网络与节点表示学习 | 21 | 4.24% | 图学习/数据挖掘 | `graph / embedding / semi-supervised / feature` | Low-rank adaptive graph embedding for unsupervised feature extraction |
 | [005](topic-005.md) | 目标检测与图像分割 | 20 | 4.04% | 计算机视觉 | `object detection / network / video / attention` | Overview of deep-learning based methods for salient object detection in videos |
 | [006](topic-006.md) | face / recognition / deep / alignment | 19 | 3.84% | 计算机视觉 | `face / recognition / deep / alignment` | Heterogenous output regression network for direct face alignment |
@@ -24,7 +24,7 @@
 | [010](topic-010.md) | low-rank / tensor / regression / completion | 18 | 3.64% | 计算机视觉 | `low-rank / tensor / regression / completion` | Exponential sparsity preserving projection with applications to image recognition |
 | [011](topic-011.md) | 文档摘要与信息压缩 | 17 | 3.43% | 计算机视觉 | `scene / summarization / video / visual` | EKENet: Efficient knowledge enhanced network for real-time scene parsing |
 | [012](topic-012.md) | 对抗攻击、鲁棒性与安全 | 17 | 3.43% | 计算机视觉 | `adversarial / samples / class / self-attention` | Cross-modal discriminant adversarial network |
-| [013](topic-013.md) | image classification / generalized / zero-shot / few-shot | 15 | 3.03% | 计算机视觉 | `image classification / generalized / zero-shot / few-shot` | MPPCANet: A feedforward learning strategy for few-shot image classification |
+| [013](topic-013.md) | 少样本分类与开放集识别 | 15 | 3.03% | 计算机视觉 | `image classification / generalized / zero-shot / few-shot` | MPPCANet: A feedforward learning strategy for few-shot image classification |
 | [014](topic-014.md) | estimation / human / 运动建模 / deep learning | 14 | 2.83% | 计算机视觉 | `estimation / human / motion / deep learning` | FeatFlow: Learning geometric features for 3D motion estimation |
 | [015](topic-015.md) | tracking / 视觉理解 / object / long-term | 14 | 2.83% | 计算机视觉 | `tracking / visual / object / long-term` | Visual tracking by dynamic matching-classification network switching |
 | [016](topic-016.md) | 对抗攻击、鲁棒性与安全 | 13 | 2.63% | 推荐/检索/排序 | `re-identification / person / metric learning / structure` | Deep features for person re-identification on metric learning |
@@ -32,7 +32,7 @@
 | [018](topic-018.md) | 目标检测与图像分割 | 13 | 2.63% | 计算机视觉 | `segmentation / semantic / context / video` | Context from within: Hierarchical context modeling for semantic segmentation |
 | [019](topic-019.md) | 多模态学习与跨模态理解 | 13 | 2.63% | 多模态/VLM | `verification / averaging / online / local` | Bit-string representation of a fingerprint image by normalized local structures |
 | [020](topic-020.md) | multi-view / discriminant / image classification / detection | 12 | 2.42% | 计算机视觉 | `multi-view / discriminant / image classification / detection` | Self-adaptive manifold discriminant analysis for feature extraction from hyperspectral imagery |
-| [021](topic-021.md) | supervision / weighted / classification / feature | 12 | 2.42% | 其他/交叉主题 | `supervision / weighted / classification / feature` | A generalized weighted distance k-Nearest Neighbor for multi-label problems |
+| [021](topic-021.md) | supervision / weighted / 分类 / feature | 12 | 2.42% | 其他/交叉主题 | `supervision / weighted / classification / feature` | A generalized weighted distance k-Nearest Neighbor for multi-label problems |
 | [022](topic-022.md) | 多视图聚类与图学习 | 12 | 2.42% | 计算机视觉 | `clustering / spectral / subspace / matrix factorization` | Multi-view subspace clustering via simultaneously learning the representation tensor and affinity matrix |
 | [023](topic-023.md) | pr pr / time / family / relationship | 11 | 2.22% | 其他/交叉主题 | `pr pr / time / family / relationship` | 인플루언서 마케팅과 PR전략 |
 | [024](topic-024.md) | domain / mml / adaptation / unsupervised | 11 | 2.22% | LLM/语言模型 | `domain / mml / adaptation / unsupervised` | Challenging tough samples in unsupervised domain adaptation |

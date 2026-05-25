@@ -12,7 +12,7 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | contrastive / self-supervised / ssl / augmentations | 50 | 3.27% | 计算机视觉 | `contrastive / self-supervised / ssl / augmentations` | On the duality between contrastive and non-contrastive self-supervised learning |
-| [001](topic-001.md) | language / prompt / 大语言模型 / zero-shot | 47 | 3.07% | LLM/语言模型 | `language / prompt / llms / zero-shot` | Ask Me Anything: A simple strategy for prompting language models |
+| [001](topic-001.md) | language / prompt / 大语言模型 / 零样本 | 47 | 3.07% | LLM/语言模型 | `language / prompt / llms / zero-shot` | Ask Me Anything: A simple strategy for prompting language models |
 | [002](topic-002.md) | pruning / compression / lottery / sparse | 33 | 2.16% | 系统/效率/压缩 | `pruning / compression / lottery / sparse` | Minimum Variance Unbiased N:M Sparsity for the Neural Gradients |
 | [003](topic-003.md) | PDE 神经求解器与科学计算 | 33 | 2.16% | 图学习/数据挖掘 | `pde / equations / differential / dynamics` | A Stable and Scalable Method for Solving Initial Value PDEs with Neural Networks |
 | [004](topic-004.md) | 随机优化与收敛理论 | 31 | 2.03% | 理论/优化 | `sgd / adam / sharpness / gradient` | Restricted Strong Convexity of Deep Learning Models with Smooth Activations |
@@ -93,7 +93,7 @@
 | [079](topic-079.md) | feature / extractor / anomaly / fine-tuning | 9 | 0.59% | 计算机视觉 | `feature / extractor / anomaly / fine-tuning` | A Closer Look at Model Adaptation using Feature Distortion and Simplicity Bias |
 | [080](topic-080.md) | 多模态学习与跨模态理解 | 9 | 0.59% | 多模态/VLM | `vaes / variational / generative / autoencoders` | Trading Information between Latents in Hierarchical Variational Autoencoders |
 | [081](topic-081.md) | 强化学习策略与奖励建模 | 9 | 0.59% | 强化学习/决策 | `policy / diversity / policies / agents` | Quality-Similar Diversity via Population Based Reinforcement Learning |
-| [082](topic-082.md) | long-tailed / classes / imbalance / temperature | 9 | 0.59% | 计算机视觉 | `long-tailed / classes / imbalance / temperature` | On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning. |
+| [082](topic-082.md) | 长尾视觉识别与分类 | 9 | 0.59% | 计算机视觉 | `long-tailed / classes / imbalance / temperature` | On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning. |
 | [083](topic-083.md) | disentanglement / semantic / fr chet / factors | 9 | 0.59% | 生成模型 | `disentanglement / semantic / fr chet / factors` | Multifactor Sequential Disentanglement via Structured Koopman Autoencoders |
 | [084](topic-084.md) | 联邦学习与分布式训练 | 8 | 0.52% | 推荐/检索/排序 | `hyperparameter optimization / hpo / parameter-efficient fine-tuning / search` | Hyperparameter Optimization through Neural Network Partitioning |
 | [085](topic-085.md) | ssms / sequence modeling / long-range / arena | 8 | 0.52% | LLM/语言模型 | `ssms / sequence modeling / long-range / arena` | Simplified State Space Layers for Sequence Modeling |

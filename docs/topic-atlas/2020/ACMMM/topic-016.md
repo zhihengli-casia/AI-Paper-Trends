@@ -1,4 +1,4 @@
-# ACMMM 2020: fine-grained / web / recognition / zero-shot
+# ACMMM 2020: 零样本分类与跨模态识别
 
 - Topic ID: `16`
 - Papers: **13** (2.75%)

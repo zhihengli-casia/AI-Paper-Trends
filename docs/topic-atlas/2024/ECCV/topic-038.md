@@ -1,4 +1,4 @@
-# ECCV 2024: 医疗健康与临床 AI
+# ECCV 2024: tta / test-time / mri / adaptation
 
 - Topic ID: `38`
 - Papers: **22** (0.92%)

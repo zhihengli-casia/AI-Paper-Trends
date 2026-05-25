@@ -1,4 +1,4 @@
-# CHI 2025: mental / health / stress / self-management
+# CHI 2025: mental / 健康AI / stress / self-management
 
 - Topic ID: `11`
 - Papers: **26** (2.09%)

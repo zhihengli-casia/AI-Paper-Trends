@@ -67,7 +67,7 @@
 | [050](topic-050.md) | heads / interpretability / mechanistic / patching | 19 | 0.84% | LLM/语言模型 | `heads / interpretability / mechanistic / patching` | How do Language Models Bind Entities in Context? |
 | [054](topic-054.md) | sam / label noise / sharpness-aware / minimization | 19 | 0.84% | 可信/安全/公平 | `sam / label noise / sharpness-aware / minimization` | Unknown Domain Inconsistency Minimization for Domain Generalization |
 | [057](topic-057.md) | 隐私保护与安全学习 | 18 | 0.80% | 可信/安全/公平 | `privacy / private / differentially / clipping` | One-shot Empirical Privacy Estimation for Federated Learning |
-| [055](topic-055.md) | 医疗健康与临床 AI | 18 | 0.80% | 可信/安全/公平 | `fairness / medical / group / long-tailed` | On the Fairness ROAD: Robust Optimization for Adversarial Debiasing |
+| [055](topic-055.md) | 公平性、偏见与可信 AI | 18 | 0.80% | 可信/安全/公平 | `fairness / medical / group / long-tailed` | On the Fairness ROAD: Robust Optimization for Adversarial Debiasing |
 | [056](topic-056.md) | LiDAR 点云与 3D 感知 | 18 | 0.80% | 3D/具身/机器人 | `object / point / segmentation / detection` | Multi-View Representation is What You Need for Point-Cloud Pre-Training |
 | [059](topic-059.md) | 时间序列建模与预测 | 18 | 0.80% | LLM/语言模型 | `time series / forecasting / llm / hopfield` | TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting |
 | [060](topic-060.md) | 社交媒体与社会计算 | 18 | 0.80% | LLM/语言模型 | `llms / feedback / bias / multi-turn` | Human Feedback is not Gold Standard |
@@ -82,7 +82,7 @@
 | [071](topic-071.md) | 文生图生成与个性化编辑 | 16 | 0.71% | 生成模型 | `diffusion / text-to-image / layout / drawings` | LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts |
 | [068](topic-068.md) | contrastive / ordinal / topic / simclr | 16 | 0.71% | 图学习/数据挖掘 | `contrastive / ordinal / topic / simclr` | AUC-CL: A Batchsize-Robust Framework for Self-Supervised Contrastive Representation Learning |
 | [069](topic-069.md) | 扩散生成模型 | 16 | 0.71% | 生成模型 | `time series / forecasting / multivariate / diffusion` | Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting |
-| [072](topic-072.md) | 医疗健康与临床 AI | 16 | 0.71% | 计算机视觉 | `bounding / detection / boxes / images` | Does Progress On Object Recognition Benchmarks Improve Generalization on Crowdsourced, Global Data? |
+| [072](topic-072.md) | bounding / detection / boxes / images | 16 | 0.71% | 计算机视觉 | `bounding / detection / boxes / images` | Does Progress On Object Recognition Benchmarks Improve Generalization on Crowdsourced, Global Data? |
 | [070](topic-070.md) | 视觉语言模型与多模态理解 | 16 | 0.71% | 多模态/VLM | `prompt / vision-language / vlms / visual` | Facing the Elephant in the Room: Visual Prompt Tuning or Full finetuning? |
 | [073](topic-073.md) | 在线学习与 regret 理论 | 15 | 0.66% | 强化学习/决策 | `games / equilibria / nash / equilibrium` | Mediator Interpretation and Faster Learning Algorithms for Linear Correlated Equilibria in General Sequential Games |
 | [074](topic-074.md) | continual / forgetting / cil / catastrophic | 15 | 0.66% | 理论/优化 | `continual / forgetting / cil / catastrophic` | A Unified and General Framework for Continual Learning |
@@ -102,6 +102,6 @@
 | [088](topic-088.md) | 图神经网络与图表示学习 | 12 | 0.53% | 图学习/数据挖掘 | `graph / attacks / fairness / gnns` | Bounding the Expected Robustness of Graph Neural Networks Subject to Node Feature Attacks |
 | [089](topic-089.md) | object-centric / slot / compositional / item | 12 | 0.53% | 推荐/检索/排序 | `object-centric / slot / compositional / item` | Learning to Compose: Improving Object Centric Learning by Injecting Compositionality |
 | [090](topic-090.md) | symbolic / sat / branching / combinatorial optimization | 12 | 0.53% | 强化学习/决策 | `symbolic / sat / branching / combinatorial optimization` | Rethinking Branching on Exact Combinatorial Optimization Solver: The First Deep Symbolic Discovery Framework |
-| [091](topic-091.md) | 医疗健康与临床 AI | 11 | 0.49% | LLM/语言模型 | `privacy / llms / private / sensitive information` | Beyond Memorization: Violating Privacy via Inference with Large Language Models |
+| [091](topic-091.md) | 隐私保护与安全学习 | 11 | 0.49% | LLM/语言模型 | `privacy / llms / private / sensitive information` | Beyond Memorization: Violating Privacy via Inference with Large Language Models |
 | [092](topic-092.md) | 时间序列建模与预测 | 11 | 0.49% | 其他/交叉主题 | `time series / contrastive / forecasting / temporal` | Self-Supervised Contrastive Learning for Long-term Forecasting |
 | [093](topic-093.md) | 攻击、防御与模型安全 | 10 | 0.44% | LLM/语言模型 | `watermark / llms / detection / attack` | Provable Robust Watermarking for AI-Generated Text |

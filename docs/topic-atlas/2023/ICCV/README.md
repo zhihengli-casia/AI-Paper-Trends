@@ -26,7 +26,7 @@
 | [012](topic-012.md) | 视频扩散生成与运动控制 | 39 | 1.81% | 生成模型 | `motion / human / music / diffusion` | Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models |
 | [013](topic-013.md) | 图像复原与超分辨率 | 39 | 1.81% | 计算机视觉 | `restoration / hsi / unfolding / super-resolution` | Focal Network for Image Restoration |
 | [014](topic-014.md) | 点云表示与 3D 感知 | 38 | 1.76% | 3D/具身/机器人 | `point cloud / registration / matching / keypoints` | 2D3D-MATR: 2D-3D Matching Transformer for Detection-Free Registration Between Images and Point Clouds |
-| [015](topic-015.md) | labels / ssl / long-tailed / class | 38 | 1.76% | 其他/交叉主题 | `labels / ssl / long-tailed / class` | RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels |
+| [015](topic-015.md) | labels / ssl / 长尾 / class | 38 | 1.76% | 其他/交叉主题 | `labels / ssl / long-tailed / class` | RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels |
 | [016](topic-016.md) | 目标检测与图像分割 | 35 | 1.62% | 计算机视觉 | `open-vocabulary / grounding / referring / image segmentation` | Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation |
 | [017](topic-017.md) | 语音/音频语言模型 | 35 | 1.62% | 语音/音频/音乐 | `speech / audio / sound / lip` | Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors |
 | [020](topic-020.md) | 目标检测与图像分割 | 34 | 1.58% | 计算机视觉 | `manipulation / contrastive learning / incremental / uncertainty` | Multi-Label Self-Supervised Learning with Scene Images |
@@ -76,7 +76,7 @@
 | [061](topic-061.md) | 多视图聚类与图学习 | 16 | 0.74% | 图学习/数据挖掘 | `clustering / hierarchical / subspace / hyperbolic` | Unsupervised Manifold Linearizing and Clustering |
 | [064](topic-064.md) | 攻击、防御与模型安全 | 16 | 0.74% | 计算机视觉 | `skeleton-based / gait / action / recognition` | SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training |
 | [062](topic-062.md) | 查询理解与检索优化 | 16 | 0.74% | 计算机视觉 | `place recognition / localization / fisheye / vq3d` | Yes, we CANN: Constrained Approximate Nearest Neighbors for Local Feature-Based Visual Localization |
-| [065](topic-065.md) | gan / few-shot / adaptation / generative | 16 | 0.74% | 生成模型 | `gan / few-shot / adaptation / generative` | One-Shot Generative Domain Adaptation |
+| [065](topic-065.md) | gan / 少样本 / adaptation / generative | 16 | 0.74% | 生成模型 | `gan / few-shot / adaptation / generative` | One-Shot Generative Domain Adaptation |
 | [066](topic-066.md) | 图学习 / hyperbolic / road / urban | 15 | 0.70% | 生成模型 | `graph / hyperbolic / road / urban` | Regularized Primitive Graph Learning for Unified Vector Mapping |
 | [067](topic-067.md) | 文生图生成与个性化编辑 | 15 | 0.70% | 生成模型 | `diffusion / style / text-to-image / editing` | Your Diffusion Model is Secretly a Zero-Shot Classifier |
 | [068](topic-068.md) | tuning / parameter-efficient / downstream / clip | 15 | 0.70% | 计算机视觉 | `tuning / parameter-efficient / downstream / clip` | E^2VPT: An Effective and Efficient Approach for Visual Prompt Tuning |

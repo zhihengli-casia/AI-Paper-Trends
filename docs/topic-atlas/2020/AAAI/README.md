@@ -59,11 +59,11 @@
 | [045](topic-045.md) | 医疗健康与临床 AI | 16 | 1.00% | 计算机视觉 | `segmentation / medical / images / disease` | An Annotation Sparsification Strategy for 3D Medical Image Segmentation via Representative Selection and Self-Training |
 | [046](topic-046.md) | causal / effects / interventions / conditional | 15 | 0.94% | 其他/交叉主题 | `causal / effects / interventions / conditional` | General Transportability – Synthesizing Observations and Experiments from Heterogeneous Domains |
 | [049](topic-049.md) | image / shadow / color / fusion | 15 | 0.94% | 生成模型 | `image / shadow / color / fusion` | End-to-End Unpaired Image Denoising with Conditional Adversarial Networks |
-| [050](topic-050.md) | 医疗健康与临床 AI | 15 | 0.94% | NLP任务 | `answer / question / selection / medical` | Generating Well-Formed Answers by Machine Reading with Stochastic Selector Networks |
+| [050](topic-050.md) | answer / question / selection / 医学AI | 15 | 0.94% | NLP任务 | `answer / question / selection / medical` | Generating Well-Formed Answers by Machine Reading with Stochastic Selector Networks |
 | [051](topic-051.md) | pruning / weight / compression / structured | 15 | 0.94% | 系统/效率/压缩 | `pruning / weight / compression / structured` | DARB: A Density-Adaptive Regular-Block Pruning for Deep Neural Networks |
 | [047](topic-047.md) | sat / solvers / constraints / canonical | 15 | 0.94% | 推荐/检索/排序 | `sat / solvers / constraints / canonical` | FourierSAT: A Fourier Expansion-Based Algebraic Framework for Solving Hybrid Boolean Constraints |
 | [048](topic-048.md) | 代码生成与程序理解 | 15 | 0.94% | LLM/语言模型 | `logic / programs / programming / forgetting` | Structural Decompositions of Epistemic Logic Programs |
-| [055](topic-055.md) | fine-grained / image / teaching / classification | 14 | 0.87% | 计算机视觉 | `fine-grained / image / teaching / classification` | Fine-Grained Recognition: Accounting for Subtle Differences between Similar Classes |
+| [055](topic-055.md) | 细粒度视觉分类与识别 | 14 | 0.87% | 计算机视觉 | `fine-grained / image / teaching / classification` | Fine-Grained Recognition: Accounting for Subtle Differences between Similar Classes |
 | [054](topic-054.md) | 多模态学习与跨模态理解 | 14 | 0.87% | 多模态/VLM | `retrieval / image / cross-modal / multimodal` | Learning Cross-Aligned Latent Embeddings for Zero-Shot Cross-Modal Retrieval |
 | [053](topic-053.md) | 查询理解与检索优化 | 14 | 0.87% | 推荐/检索/排序 | `query / ontology / ontologies / answers` | Query Rewriting for Ontology-Mediated Conditional Answers |
 | [052](topic-052.md) | spiking / spectrum / recurrent / gate | 14 | 0.87% | 生成模型 | `spiking / spectrum / recurrent / gate` | Temporal Pyramid Recurrent Neural Network |

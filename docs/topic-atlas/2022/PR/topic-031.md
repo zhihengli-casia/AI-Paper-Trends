@@ -1,4 +1,4 @@
-# PR 2022: fine-grained / 检索 / recognition / image
+# PR 2022: 少样本细粒度视觉识别
 
 - Topic ID: `31`
 - Papers: **10** (1.52%)

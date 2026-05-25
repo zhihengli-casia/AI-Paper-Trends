@@ -20,7 +20,7 @@
 | [006](topic-006.md) | 时间序列建模与预测 | 24 | 4.07% | 图学习/数据挖掘 | `time series / forecasting / graph / clustering` | Statistical mechanical analysis for unweighted and weighted stock market networks |
 | [007](topic-007.md) | facial / face / structural / relations | 22 | 3.74% | 可信/安全/公平 | `facial / face / structural / relations` | 2D Wasserstein loss for robust facial landmark detection |
 | [008](topic-008.md) | mml / clustering / org / http www w3 | 20 | 3.40% | 推荐/检索/排序 | `mml / clustering / org / http www w3` | Multi-dimensional clustering through fusion of high-order similarities |
-| [009](topic-009.md) | few-shot / zero-shot / classification / discriminative | 19 | 3.23% | 计算机视觉 | `few-shot / zero-shot / classification / discriminative` | Unsupervised meta-learning for few-shot learning |
+| [009](topic-009.md) | 少样本分类与开放集识别 | 19 | 3.23% | 计算机视觉 | `few-shot / zero-shot / classification / discriminative` | Unsupervised meta-learning for few-shot learning |
 | [010](topic-010.md) | 对抗攻击、鲁棒性与安全 | 18 | 3.06% | 生成模型 | `mml / adversarial / detection / video` | NM-GAN: Noise-modulated generative adversarial network for video anomaly detection |
 | [011](topic-011.md) | 目标检测与图像分割 | 16 | 2.72% | 3D/具身/机器人 | `point / clouds / fitting / description` | A novel GCN-based point cloud classification model robust to pose variances |
 | [012](topic-012.md) | 多模态学习与跨模态理解 | 16 | 2.72% | 多模态/VLM | `visual / co-attention / knowledge / image` | Dual self-attention with co-attention networks for visual question answering |
@@ -31,10 +31,10 @@
 | [017](topic-017.md) | 搜索排序与相关性建模 | 15 | 2.55% | 推荐/检索/排序 | `person / pattern recognition / embedding / expression` | Loss function search for person re-identification |
 | [019](topic-019.md) | 代码生成与程序理解 | 14 | 2.38% | 强化学习/决策 | `algorithm / programming / bound / learning credit` | A branch and bound irredundant graph algorithm for large-scale MLCS problems |
 | [020](topic-020.md) | feature selection / hybrid / order / solution | 14 | 2.38% | 推荐/检索/排序 | `feature selection / hybrid / order / solution` | Fused lasso for feature selection using structural information |
-| [018](topic-018.md) | 目标检测与图像分割 | 14 | 2.38% | 计算机视觉 | `fine-grained / visual / image classification / image retrieval` | A hierarchical sampling based triplet network for fine-grained image classification |
+| [018](topic-018.md) | 细粒度视觉分类与识别 | 14 | 2.38% | 计算机视觉 | `fine-grained / visual / image classification / image retrieval` | A hierarchical sampling based triplet network for fine-grained image classification |
 | [021](topic-021.md) | type / media / trend / cnn | 13 | 2.21% | 其他/交叉主题 | `type / media / trend / cnn` | 한류 콘텐츠의 간접/가상광고 활성화 전략에 관한 연구 : 포스트 코로나 19를 중심으로 |
 | [022](topic-022.md) | 多视图聚类与图学习 | 13 | 2.21% | 图学习/数据挖掘 | `clustering / multi-view / incomplete / subspace` | A novel consensus learning approach to incomplete multi-view clustering |
-| [023](topic-023.md) | 医疗健康与临床 AI | 13 | 2.21% | 计算机视觉 | `x-ray / automatic / disease / lung` | Detecting pulmonary diseases using deep features in X-ray images |
+| [023](topic-023.md) | x-ray / automatic / disease / lung | 13 | 2.21% | 计算机视觉 | `x-ray / automatic / disease / lung` | Detecting pulmonary diseases using deep features in X-ray images |
 | [024](topic-024.md) | adaptation / domain / alignment / unsupervised | 13 | 2.21% | 可信/安全/公平 | `adaptation / domain / alignment / unsupervised` | A Two-Way alignment approach for unsupervised multi-Source domain adaptation |
 | [025](topic-025.md) | 推荐系统与用户建模 | 13 | 2.21% | 推荐/检索/排序 | `multi-label / manifold / feature selection / classification` | Learning common and label-specific features for multi-Label classification with correlation information |
 | [026](topic-026.md) | 深度估计与立体匹配 | 13 | 2.21% | 系统/效率/压缩 | `algorithm / distance / time / depth` | cPCA++: An efficient method for contrastive feature learning |

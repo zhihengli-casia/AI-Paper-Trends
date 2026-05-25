@@ -1,4 +1,4 @@
-# ICRA 2025: navigation / zero-shot / 视觉理解 / continuous
+# ICRA 2025: navigation / 零样本 / 视觉理解 / continuous
 
 - Topic ID: `8`
 - Papers: **36** (2.26%)

@@ -49,7 +49,7 @@
 | [037](topic-037.md) | 文生图生成与个性化编辑 | 23 | 0.96% | 生成模型 | `layout / diffusion / control / image composition` | Training-free Composite Scene Generation for Layout-to-Image Synthesis |
 | [036](topic-036.md) | 目标检测与图像分割 | 23 | 0.96% | 多模态/VLM | `grounding / language / segmentation / understanding` | Unifying 3D Vision-Language Understanding via Promptable Queries |
 | [035](topic-035.md) | 机器人操作与具身智能 | 23 | 0.96% | 3D/具身/机器人 | `hand / grasp / contact / egocentric` | Dense Hand-Object(HO) GraspNet with Full Grasping Taxonomy and Dynamics |
-| [038](topic-038.md) | 医疗健康与临床 AI | 22 | 0.92% | 计算机视觉 | `tta / test-time / mri / adaptation` | Test-time Model Adaptation for Image Reconstruction Using Self-supervised Adaptive Layers |
+| [038](topic-038.md) | tta / test-time / mri / adaptation | 22 | 0.92% | 计算机视觉 | `tta / test-time / mri / adaptation` | Test-time Model Adaptation for Image Reconstruction Using Self-supervised Adaptive Layers |
 | [039](topic-039.md) | 扩散生成模型 | 21 | 0.88% | 计算机视觉 | `inpainting / diffusion / outpainting / editing` | Improving Text-guided Object Inpainting with Semantic Pre-inpainting |
 | [040](topic-040.md) | 深度估计与立体匹配 | 21 | 0.88% | 其他/交叉主题 | `depth / underwater / multi-frame / estimation` | Revisit Self-supervision with Local Structure-from-Motion |
 | [041](topic-041.md) | mesh / body / camera / 运动建模 | 21 | 0.88% | 计算机视觉 | `mesh / body / camera / motion` | Multi-HMR: Multi-Person Whole-Body Human Mesh Recovery in a Single Shot |
@@ -71,7 +71,7 @@
 | [057](topic-057.md) | 目标检测与图像分割 | 18 | 0.75% | 计算机视觉 | `semantic segmentation / old / classes / background` | Weakly Supervised Co-training with Swapping Assignments for Semantic Segmentation |
 | [058](topic-058.md) | 目标检测与图像分割 | 18 | 0.75% | 计算机视觉 | `segmentation / sam / gaze / object detection` | Self-supervised co-salient object detection via feature correspondences at multiple scales |
 | [059](topic-059.md) | 深度估计与立体匹配 | 18 | 0.75% | 生成模型 | `imaging / single-photon / histograms / scattering` | Domain Reduction Strategy for Non-Line-of-Sight Imaging |
-| [060](topic-060.md) | ood / out-of-distribution / in-distribution / open-set | 17 | 0.71% | 理论/优化 | `ood / out-of-distribution / in-distribution / open-set` | Can OOD Object Detectors Learn from Foundation Models? |
+| [060](topic-060.md) | ood / out-of-distribution / in-distribution / 开放集 | 17 | 0.71% | 理论/优化 | `ood / out-of-distribution / in-distribution / open-set` | Can OOD Object Detectors Learn from Foundation Models? |
 | [061](topic-061.md) | 文生图生成与个性化编辑 | 17 | 0.71% | 生成模型 | `diffusion / text-to-image / handwriting / handwritten` | UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models |
 | [062](topic-062.md) | 扩散生成模型 | 17 | 0.71% | 生成模型 | `clothing / garment / body / try-on` | WordRobe: Text-Guided Generation of Textured 3D Garments |
 | [063](topic-063.md) | image compression / quantization / entropy / convolution | 16 | 0.67% | 计算机视觉 | `image compression / quantization / entropy / convolution` | Rate-Distortion-Cognition Controllable Versatile Neural Image Compression |
@@ -108,7 +108,7 @@
 | [094](topic-094.md) | watermarking / watermarks / tampering / attacks | 11 | 0.46% | 可信/安全/公平 | `watermarking / watermarks / tampering / attacks` | Finding a needle in a haystack: A Black-Box Approach to Invisible Watermark Detection |
 | [095](topic-095.md) | counting / crowd / exemplars / class-agnostic | 11 | 0.46% | 多模态/VLM | `counting / crowd / exemplars / class-agnostic` | Class-Agnostic Object Counting with Text-to-Image Diffusion Model |
 | [096](topic-096.md) | 图像复原与超分辨率 | 11 | 0.46% | 系统/效率/压缩 | `image super-resolution / infrared / jpeg / quantization` | Overcoming Distribution Mismatch in Quantizing Image Super-Resolution Networks |
-| [097](topic-097.md) | 医疗健康与临床 AI | 11 | 0.46% | 计算机视觉 | `sam / image segmentation / medical / ultrasound` | VP-SAM: Taming Segment Anything Model for Video Polyp Segmentation via Disentanglement and Spatio-temporal Side Network |
+| [097](topic-097.md) | 目标检测与图像分割 | 11 | 0.46% | 计算机视觉 | `sam / image segmentation / medical / ultrasound` | VP-SAM: Taming Segment Anything Model for Video Polyp Segmentation via Disentanglement and Spatio-temporal Side Network |
 | [098](topic-098.md) | 深度估计与立体匹配 | 11 | 0.46% | 3D/具身/机器人 | `occupancy / scene / grasping / driving` | nuCraft: Crafting High Resolution 3D Semantic Occupancy for Unified 3D Scene Understanding |
 | [099](topic-099.md) | 多模态大模型与视觉语言推理 | 10 | 0.42% | 多模态/VLM | `mllms / safety / attacks / malicious` | MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models |
 | [100](topic-100.md) | 扩散生成模型 | 10 | 0.42% | 3D/具身/机器人 | `editing / scene / nerf / multi-view` | GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing |

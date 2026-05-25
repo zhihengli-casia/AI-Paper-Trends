@@ -12,7 +12,7 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 深度估计与立体匹配 | 39 | 9.68% | 计算机视觉 | `salient / saliency / segmentation / object detection` | A New Method and Benchmark for Detecting Co-Saliency Within a Single Image |
-| [001](topic-001.md) | 点云表示与 3D 感知 | 30 | 7.44% | 3D/具身/机器人 | `retrieval / domain adaptation / layout / zero-shot` | Joint Intermediate Domain Generation and Distribution Alignment for 2D Image-Based 3D Objects Retrieval |
+| [001](topic-001.md) | 少样本分类与开放集识别 | 30 | 7.44% | 3D/具身/机器人 | `retrieval / domain adaptation / layout / zero-shot` | Joint Intermediate Domain Generation and Distribution Alignment for 2D Image-Based 3D Objects Retrieval |
 | [002](topic-002.md) | streaming / user / quality / mobile | 27 | 6.70% | 强化学习/决策 | `streaming / user / quality / mobile` | QoE-driven HAS Live Video Channel Placement in the Media Cloud |
 | [003](topic-003.md) | 推荐系统与用户建模 | 27 | 6.70% | 推荐/检索/排序 | `captioning / user / multimedia / social` | Learning Coarse-to-Fine Graph Neural Networks for Video-Text Retrieval |
 | [004](topic-004.md) | 目标检测与图像分割 | 26 | 6.45% | 计算机视觉 | `temporal / action / motion / mask` | Spatio-Temporal Attention Networks for Action Recognition and Detection |

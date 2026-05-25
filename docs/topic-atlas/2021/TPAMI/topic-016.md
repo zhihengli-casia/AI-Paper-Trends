@@ -1,4 +1,4 @@
-# TPAMI 2021: label / classification / affinity / rankers
+# TPAMI 2021: label / 分类 / affinity / rankers
 
 - Topic ID: `16`
 - Papers: **16** (2.90%)

@@ -18,7 +18,7 @@
 | [004](topic-004.md) | 文档摘要与信息压缩 | 27 | 4.80% | LLM/语言模型 | `event / moral / argument / summarization` | Generating Uncontextualized and Contextualized Questions for Document-Level Event Argument Extraction |
 | [005](topic-005.md) | temporal / facts / 图学习 / relations | 27 | 4.80% | LLM/语言模型 | `temporal / facts / graph / relations` | Dissecting Paraphrases: The Impact of Prompt Syntax and supplementary Information on Knowledge Retrieval from Pretrained Language Models |
 | [006](topic-006.md) | 多模态学习与跨模态理解 | 26 | 4.63% | 多模态/VLM | `image / visual / clip / multimodal` | What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases |
-| [007](topic-007.md) | 搜索排序与相关性建模 | 20 | 3.56% | LLM/语言模型 | `prompt / classification / long / random` | LM -Infinite: Zero-Shot Extreme Length Generalization for Large Language Models |
+| [007](topic-007.md) | 少样本分类与开放集识别 | 20 | 3.56% | LLM/语言模型 | `prompt / classification / long / random` | LM -Infinite: Zero-Shot Extreme Length Generalization for Large Language Models |
 | [010](topic-010.md) | lms / compositional / gram / smoothing | 18 | 3.20% | LLM/语言模型 | `lms / compositional / gram / smoothing` | Language Models Implement Simple W ord2 V ec-style Vector Arithmetic |
 | [011](topic-011.md) | 文档摘要与信息压缩 | 18 | 3.20% | LLM/语言模型 | `summarization / summaries / news / abstractive` | On Learning to Summarize with Large Language Models as References |
 | [008](topic-008.md) | 句法语义解析与结构化表示 | 18 | 3.20% | LLM/语言模型 | `in-context / demonstrations / parsing / uncertainty` | In-context Learning Generalizes, But Not Always Robustly: The Case of Syntax |

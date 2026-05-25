@@ -50,7 +50,7 @@
 | [037](topic-037.md) | 隐私保护与安全学习 | 29 | 0.87% | 可信/安全/公平 | `privacy / private / federated / clients` | Certification for Differentially Private Prediction in Gradient-Based Training |
 | [036](topic-036.md) | Chain-of-Thought 与大模型推理 | 29 | 0.87% | LLM/语言模型 | `code generation / llms / specification / copilot` | Revisiting Chain-of-Thought in Code Generation: Do Language Models Need to Learn Reasoning before Coding? |
 | [038](topic-038.md) | pruning / sparsity / 大语言模型 / compression | 28 | 0.84% | LLM/语言模型 | `pruning / sparsity / llms / compression` | Targeted Low-rank Refinement: Enhancing Sparse Language Models with Precision |
-| [039](topic-039.md) | 医疗健康与临床 AI | 27 | 0.81% | 多模态/VLM | `cell / gene / segmentation / transcriptomics` | ViTally Consistent: Scaling Biological Representation Learning for Cell Microscopy |
+| [039](topic-039.md) | 病理图像与临床 AI | 27 | 0.81% | 多模态/VLM | `cell / gene / segmentation / transcriptomics` | ViTally Consistent: Scaling Biological Representation Learning for Cell Microscopy |
 | [040](topic-040.md) | 图神经网络与图表示学习 | 27 | 0.81% | 图学习/数据挖掘 | `graph / node / homophily / ged` | Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees |
 | [041](topic-041.md) | 长上下文建模与压缩 | 27 | 0.81% | LLM/语言模型 | `long-context / length generalization / tokens / llms` | Curse of High Dimensionality Issue in Transformer for Long Context Modeling |
 | [042](topic-042.md) | parallelism / gpu / memory / hardware | 27 | 0.81% | 系统/效率/压缩 | `parallelism / gpu / memory / hardware` | Ladder-Residual: Parallelism-Aware Architecture for Accelerating Large Model Inference with Communication Overlapping |

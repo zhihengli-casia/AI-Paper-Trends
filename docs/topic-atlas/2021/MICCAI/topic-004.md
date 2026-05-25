@@ -1,4 +1,4 @@
-# MICCAI 2021: 医疗健康与临床 AI
+# MICCAI 2021: 医学影像病灶分析
 
 - Topic ID: `4`
 - Papers: **7** (10.29%)

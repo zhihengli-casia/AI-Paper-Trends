@@ -1,4 +1,4 @@
-# WWW 2024: pre-training / few-shot / adaptation / ood
+# WWW 2024: 少样本分类与开放集识别
 
 - Topic ID: `20`
 - Papers: **10** (2.48%)

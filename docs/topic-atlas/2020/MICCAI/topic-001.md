@@ -1,4 +1,4 @@
-# MICCAI 2020: 医疗健康与临床 AI
+# MICCAI 2020: 医学AI / 分类 / image / deep
 
 - Topic ID: `1`
 - Papers: **18** (22.50%)

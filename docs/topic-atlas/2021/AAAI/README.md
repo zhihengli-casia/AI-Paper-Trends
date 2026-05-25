@@ -36,7 +36,7 @@
 | [022](topic-022.md) | LiDAR 点云与 3D 感知 | 22 | 1.34% | 3D/具身/机器人 | `point cloud / segmentation / lidar / clouds` | Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion |
 | [023](topic-023.md) | quantization / pruning / compression / sparsity | 22 | 1.34% | 系统/效率/压缩 | `quantization / pruning / compression / sparsity` | Compressing Deep Convolutional Neural Networks by Stacking Low-dimensional Binary Convolution Filters |
 | [024](topic-024.md) | 机器翻译与跨语言对齐 | 21 | 1.28% | 计算机视觉 | `domain / adaptation / uda / source` | Unsupervised Model Adaptation for Continual Semantic Segmentation |
-| [025](topic-025.md) | few-shot / classes / zero-shot learning / elbo | 21 | 1.28% | 计算机视觉 | `few-shot / classes / zero-shot learning / elbo` | Partial Is Better Than All: Revisiting Fine-tuning Strategy for Few-shot Learning |
+| [025](topic-025.md) | 少样本 / classes / zero-shot learning / elbo | 21 | 1.28% | 计算机视觉 | `few-shot / classes / zero-shot learning / elbo` | Partial Is Better Than All: Revisiting Fine-tuning Strategy for Few-shot Learning |
 | [026](topic-026.md) | semantics / 推理 / arguments / explanations | 20 | 1.22% | LLM/语言模型 | `semantics / reasoning / arguments / explanations` | Strong Explanations in Abstract Argumentation |
 | [027](topic-027.md) | word / 高斯表示 / asymmetry / heads | 20 | 1.22% | NLP任务 | `word / gaussian / asymmetry / heads` | The Heads Hypothesis: A Unifying Statistical Approach Towards Understanding Multi-Headed Attention in BERT |
 | [028](topic-028.md) | 时间序列预测 | 20 | 1.22% | 图学习/数据挖掘 | `traffic / transportation / trajectory / trajectories` | Traffic Flow Prediction with Vehicle Trajectories |
@@ -64,7 +64,7 @@
 | [050](topic-050.md) | kernel / 高斯表示 / functions / vector-valued | 16 | 0.97% | 理论/优化 | `kernel / gaussian / functions / vector-valued` | Fine-grained Generalization Analysis of Vector-Valued Learning |
 | [051](topic-051.md) | 策略优化 / gradient / q-learning / return | 16 | 0.97% | 理论/优化 | `policy / gradient / q-learning / return` | Sample Efficient Reinforcement Learning with REINFORCE |
 | [056](topic-056.md) | recurrent / streaming / continuous-time / sequence | 15 | 0.91% | 系统/效率/压缩 | `recurrent / streaming / continuous-time / sequence` | Memory-Gated Recurrent Networks |
-| [053](topic-053.md) | 医疗健康与临床 AI | 15 | 0.91% | 计算机视觉 | `segmentation / images / grading / medical` | Alternative Baselines for Low-Shot 3D Medical Image Segmentation---An Atlas Perspective |
+| [053](topic-053.md) | 目标检测与图像分割 | 15 | 0.91% | 计算机视觉 | `segmentation / images / grading / medical` | Alternative Baselines for Low-Shot 3D Medical Image Segmentation---An Atlas Perspective |
 | [052](topic-052.md) | 知识图谱推理与表示学习 | 15 | 0.91% | 图学习/数据挖掘 | `link prediction / knowledge graph / relation / rotation` | Dual Quaternion Knowledge Graph Embeddings |
 | [055](topic-055.md) | 语音/音频语言模型 | 15 | 0.91% | 多模态/VLM | `multimodal / audio / sound / acoustic` | Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis |
 | [054](topic-054.md) | 规划搜索与决策推理 | 15 | 0.91% | 强化学习/决策 | `multi-agent / path / agents / conflicts` | Improving Continuous-time Conflict Based Search |

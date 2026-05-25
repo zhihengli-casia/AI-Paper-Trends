@@ -1,4 +1,4 @@
-# ICCV 2023: labels / ssl / long-tailed / class
+# ICCV 2023: labels / ssl / 长尾 / class
 
 - Topic ID: `15`
 - Papers: **38** (1.76%)

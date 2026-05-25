@@ -17,7 +17,7 @@
 | [003](topic-003.md) | 多模态学习与跨模态理解 | 34 | 2.66% | 多模态/VLM | `multimodal / prompt / modalities / modality` | Robult: Leveraging Redundancy and Modality-Specific Features for Robust Multimodal Learning |
 | [004](topic-004.md) | 多模态大模型与视觉语言推理 | 27 | 2.11% | LLM/语言模型 | `visual / multimodal / language / mllms` | Words Over Pixels? Rethinking Vision in Multimodal Large Language Models |
 | [005](topic-005.md) | 推荐系统与用户建模 | 27 | 2.11% | LLM/语言模型 | `recommendation / user / recommender / poi` | Flow-based Time-aware Causal Structure Learning for Sequential Recommendation |
-| [006](topic-006.md) | compositions / zero-shot / spurious / compositional | 27 | 2.11% | 多模态/VLM | `compositions / zero-shot / spurious / compositional` | Leveraging MLLM Embeddings and Attribute Smoothing for Compositional Zero-Shot Learning |
+| [006](topic-006.md) | compositions / 零样本 / spurious / compositional | 27 | 2.11% | 多模态/VLM | `compositions / zero-shot / spurious / compositional` | Leveraging MLLM Embeddings and Attribute Smoothing for Compositional Zero-Shot Learning |
 | [007](topic-007.md) | 分子表示学习与药物发现 | 26 | 2.03% | LLM/语言模型 | `molecular / drug / molecule / chemical` | M^2LLM: Multi-view Molecular Representation Learning with Large Language Models |
 | [008](topic-008.md) | 规划搜索与决策推理 | 26 | 2.03% | 强化学习/决策 | `planning / plans / search / action` | Handling Infinite Domain Parameters in Planning Through Best-First Search with Delayed Partial Expansions |
 | [010](topic-010.md) | 扩散生成模型 | 25 | 1.95% | 计算机视觉 | `image / diffusion / imaging / super-resolution` | Accelerating Diffusion-based Super-Resolution with Dynamic Time-Spatial Sampling |
@@ -65,7 +65,7 @@
 | [051](topic-051.md) | 图神经网络与节点表示学习 | 12 | 0.94% | 图学习/数据挖掘 | `hypergraph / node / kernels / graph classification` | A Simple yet Effective Hypergraph Clustering Network |
 | [052](topic-052.md) | belief / revision / contraction / ontologies | 12 | 0.94% | 其他/交叉主题 | `belief / revision / contraction / ontologies` | On Definite Iterated Belief Revision with Belief Algebras |
 | [053](topic-053.md) | sat / lifting / acp / attractors | 12 | 0.94% | 系统/效率/压缩 | `sat / lifting / acp / attractors` | A Fine-Grained Complexity View on Propositional Abduction - Algorithms and Lower Bounds |
-| [054](topic-054.md) | 医疗健康与临床 AI | 12 | 0.94% | 计算机视觉 | `segmentation / medical / image / instance-specific` | CFII-Net: Explicit Class Embeddings and Feature Maps Through Iterative Interaction for Boosting Medical Image Segmentation |
+| [054](topic-054.md) | 医学影像病灶分析 | 12 | 0.94% | 计算机视觉 | `segmentation / medical / image / instance-specific` | CFII-Net: Explicit Class Embeddings and Feature Maps Through Iterative Interaction for Boosting Medical Image Segmentation |
 | [055](topic-055.md) | 强化学习算法与理论 | 12 | 0.94% | 强化学习/决策 | `agents / marl / multi-agent / skills` | Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions |
 | [056](topic-056.md) | 检索 / document / 推理 / answering | 12 | 0.94% | 图学习/数据挖掘 | `retrieval / document / reasoning / answering` | How to Mitigate Information Loss in Knowledge Graphs for GraphRAG: Leveraging Triple Context Restoration and Query-Driven Feedback |
 | [057](topic-057.md) | 公平性、偏见与可信 AI | 12 | 0.94% | 生成模型 | `fairness / sensitive / demographic / factors` | FairCognizer: A Model for Accurate Predictions with Inherent Fairness Evaluation (Extended Abstract) |
@@ -80,7 +80,7 @@
 | [066](topic-066.md) | LLM Agent 与工具使用 | 10 | 0.78% | 强化学习/决策 | `games / agents / welfare / location` | Non-Obvious Manipulability in Additively Separable and Fractional Hedonic Games |
 | [067](topic-067.md) | 文档摘要与信息压缩 | 10 | 0.78% | LLM/语言模型 | `reasoning / llms / logical / language` | Enhancing the Logical Reasoning Abilities of Large Language Models |
 | [068](topic-068.md) | population / evolutionary / runtime / multi-objective | 9 | 0.70% | 多模态/VLM | `population / evolutionary / runtime / multi-objective` | A First Runtime Analysis of NSGA-III on a Many-Objective Multimodal Problem: Provable Exponential Speedup via Stochastic Population Update |
-| [069](topic-069.md) | 多模态学习与跨模态理解 | 9 | 0.70% | 多模态/VLM | `pathology / cancer / survival / pathological` | Multimodal Cancer Survival Analysis via Hypergraph Learning with Cross-Modality Rebalance |
+| [069](topic-069.md) | 病理图像与临床 AI | 9 | 0.70% | 多模态/VLM | `pathology / cancer / survival / pathological` | Multimodal Cancer Survival Analysis via Hypergraph Learning with Cross-Modality Rebalance |
 | [070](topic-070.md) | 深度估计与立体匹配 | 9 | 0.70% | 计算机视觉 | `depth / monocular / estimation / dark` | MonoMixer: Marrying Convolution and Vision Transformer for Efficient Self-Supervised Monocular Depth Estimation |
 | [071](topic-071.md) | 扩散生成模型 | 9 | 0.70% | 生成模型 | `diffusion / semantic / editing / image` | Instructing Text-to-Image Diffusion Models via Classifier-Guided Semantic Optimization |
 | [072](topic-072.md) | domain adaptation / source domain / graph domain / alignment | 9 | 0.70% | 生成模型 | `domain adaptation / source domain / graph domain / alignment` | Gaussian Mixture Model for Graph Domain Adaptation |

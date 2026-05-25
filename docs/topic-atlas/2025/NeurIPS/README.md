@@ -29,7 +29,7 @@
 | [015](topic-015.md) | causal / counterfactual / variables / interventional | 64 | 1.21% | 图学习/数据挖掘 | `causal / counterfactual / variables / interventional` | DeCaFlow: A deconfounding causal generative model |
 | [016](topic-016.md) | 时间序列建模与预测 | 64 | 1.21% | 生成模型 | `time series / forecasting / time-series / temporal` | TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting |
 | [017](topic-017.md) | 多模态大模型与视觉语言推理 | 64 | 1.21% | 多模态/VLM | `reasoning / visual / vlms / reinforcement` | OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles |
-| [018](topic-018.md) | 医疗健康与临床 AI | 62 | 1.17% | 多模态/VLM | `segmentation / pathology / medical / images` | Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling |
+| [018](topic-018.md) | 病理图像与临床 AI | 62 | 1.17% | 多模态/VLM | `segmentation / pathology / medical / images` | Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling |
 | [019](topic-019.md) | Chain-of-Thought 与大模型推理 | 62 | 1.17% | LLM/语言模型 | `reasoning / cot / llms / chain-of-thought` | Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models |
 | [020](topic-020.md) | merging / continual / forgetting / catastrophic | 62 | 1.17% | LLM/语言模型 | `merging / continual / forgetting / catastrophic` | Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging |
 | [021](topic-021.md) | 文档摘要与信息压缩 | 62 | 1.17% | LLM/语言模型 | `steering / llms / uncertainty / conformal` | Martingale Score: An Unsupervised Metric for Bayesian Rationality in LLM Reasoning |
@@ -64,7 +64,7 @@
 | [050](topic-050.md) | brain / activity / neurons / neuronal | 41 | 0.78% | 计算机视觉 | `brain / activity / neurons / neuronal` | Modeling Dynamic Neural Activity by combining Naturalistic Video Stimuli and Stimulus-independent Latent Factors |
 | [051](topic-051.md) | 扩散生成模型 | 41 | 0.78% | 生成模型 | `imitation / policy / demonstrations / policies` | Improving Generative Behavior Cloning via Self-Guidance and Adaptive Chunking |
 | [052](topic-052.md) | rnns / synaptic / brain / recurrent neural | 41 | 0.78% | 系统/效率/压缩 | `rnns / synaptic / brain / recurrent neural` | Learning Dynamics of RNNs in Closed-Loop Environments |
-| [053](topic-053.md) | label / semi-supervised / long-tailed / noisy | 40 | 0.76% | 生成模型 | `label / semi-supervised / long-tailed / noisy` | Statistical Analysis of an Adversarial Bayesian Weak Supervision Method |
+| [053](topic-053.md) | label / semi-supervised / 长尾 / noisy | 40 | 0.76% | 生成模型 | `label / semi-supervised / long-tailed / noisy` | Statistical Analysis of an Adversarial Bayesian Weak Supervision Method |
 | [054](topic-054.md) | 在线学习与 regret 理论 | 38 | 0.72% | 强化学习/决策 | `bayesian optimization / black-box optimization / gaussian process / pareto` | BayeSQP: Bayesian Optimization through Sequential Quadratic Programming |
 | [055](topic-055.md) | unlearning / erasure / forget / remove | 38 | 0.72% | LLM/语言模型 | `unlearning / erasure / forget / remove` | LLM Unlearning via Neural Activation Redirection |
 | [056](topic-056.md) | Chain-of-Thought 与大模型推理 | 38 | 0.72% | LLM/语言模型 | `reasoning / lrms / thinking / cot` | Don’t Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models |

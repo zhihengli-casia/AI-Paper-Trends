@@ -1,4 +1,4 @@
-# CVPR 2021: few-shot / classes / open-set / samples
+# CVPR 2021: 少样本细粒度视觉识别
 
 - Topic ID: `8`
 - Papers: **29** (1.75%)

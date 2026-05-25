@@ -1,4 +1,4 @@
-# IROS 2022: tactile / sensing / contact / classification
+# IROS 2022: tactile / sensing / contact / 分类
 
 - Topic ID: `32`
 - Papers: **16** (1.33%)

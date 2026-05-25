@@ -1,4 +1,4 @@
-# NeurIPS 2025: 医疗健康与临床 AI
+# NeurIPS 2025: 病理图像与临床 AI
 
 - Topic ID: `18`
 - Papers: **62** (1.17%)

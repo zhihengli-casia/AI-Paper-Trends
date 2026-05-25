@@ -1,4 +1,4 @@
-# EMNLP 2024: fine-grained / semantic / contrastive learning / emotion
+# EMNLP 2024: 细粒度识别 / semantic / contrastive learning / emotion
 
 - Topic ID: `43`
 - Papers: **15** (1.18%)

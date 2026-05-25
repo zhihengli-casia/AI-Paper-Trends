@@ -16,7 +16,7 @@
 | [002](topic-002.md) | 句法语义解析与结构化表示 | 49 | 4.68% | LLM/语言模型 | `extraction / keyphrase / parsing / paraphrase` | Linear-Time Modeling of Linguistic Structure: An Order-Theoretic Perspective |
 | [003](topic-003.md) | 目标检测与图像分割 | 37 | 3.53% | LLM/语言模型 | `outlier / compression / tokenization / word` | The Distributional Hypothesis Does Not Fully Explain the Benefits of Masked Language Model Pretraining |
 | [004](topic-004.md) | 文档摘要与信息压缩 | 36 | 3.44% | 计算机视觉 | `summarization / summaries / summary / readability` | Length Does Matter: Summary Length can Bias Summarization Metrics |
-| [005](topic-005.md) | explanations / decompositions / zero-shot / negation | 30 | 2.87% | LLM/语言模型 | `explanations / decompositions / zero-shot / negation` | Empirical Study of Zero-Shot NER with C hat GPT |
+| [005](topic-005.md) | explanations / decompositions / 零样本 / negation | 30 | 2.87% | LLM/语言模型 | `explanations / decompositions / zero-shot / negation` | Empirical Study of Zero-Shot NER with C hat GPT |
 | [006](topic-006.md) | 搜索排序与相关性建模 | 29 | 2.77% | LLM/语言模型 | `retrieval / query / dense / document` | How Does Generative Retrieval Scale to Millions of Passages? |
 | [007](topic-007.md) | 多语言建模与跨语言迁移 | 28 | 2.67% | LLM/语言模型 | `factual / editing / facts / claim` | T rue T eacher: Learning Factual Consistency Evaluation with Large Language Models |
 | [008](topic-008.md) | 多语言建模与跨语言迁移 | 28 | 2.67% | LLM/语言模型 | `multilingual / cross-lingual / languages / transfer` | Hyperpolyglot LLM s: Cross-Lingual Interpretability in Token Embeddings |
@@ -38,10 +38,10 @@
 | [024](topic-024.md) | Chain-of-Thought 与大模型推理 | 17 | 1.62% | LLM/语言模型 | `reasoning / cot / chain-of-thought / prompting` | D ial C o T Meets PPO : Decomposing and Exploring Reasoning Paths in Smaller Language Models |
 | [025](topic-025.md) | 具身智能与物理交互 | 16 | 1.53% | LLM/语言模型 | `agent / embodied / simulations / sequence modeling` | Human Learning by Model Feedback: The Dynamics of Iterative Prompting with Midjourney |
 | [026](topic-026.md) | mathematical / expression / 推理 / tree | 15 | 1.43% | LLM/语言模型 | `mathematical / expression / reasoning / tree` | It Ain’t Over: A Multi-aspect Diverse Math Word Problem Dataset |
-| [027](topic-027.md) | classification / label / classes / mixup | 15 | 1.43% | NLP任务 | `classification / label / classes / mixup` | Semantic matching for text classification with complex class descriptions |
+| [027](topic-027.md) | 少样本分类与开放集识别 | 15 | 1.43% | NLP任务 | `classification / label / classes / mixup` | Semantic matching for text classification with complex class descriptions |
 | [028](topic-028.md) | 图神经网络与图表示学习 | 15 | 1.43% | LLM/语言模型 | `commonsense / verification / reasoning / exemplars` | E pi K -Eval: Evaluation for Language Models as Epistemic Models |
 | [029](topic-029.md) | moe / experts / recurrent / sparse | 15 | 1.43% | LLM/语言模型 | `moe / experts / recurrent / sparse` | Adaptive Gating in Mixture-of-Experts based Language Models |
-| [030](topic-030.md) | ner / entity / recognition / named | 15 | 1.43% | NLP任务 | `ner / entity / recognition / named` | Enhancing Low-resource Fine-grained Named Entity Recognition by Leveraging Coarse-grained Datasets |
+| [030](topic-030.md) | 细粒度视觉分类与识别 | 15 | 1.43% | NLP任务 | `ner / entity / recognition / named` | Enhancing Low-resource Fine-grained Named Entity Recognition by Leveraging Coarse-grained Datasets |
 | [031](topic-031.md) | 代码生成与程序理解 | 15 | 1.43% | LLM/语言模型 | `program / repair / translation / code generation` | Exploring Distributional Shifts in Large Language Models for Code Analysis |
 | [032](topic-032.md) | 视觉语言模型与多模态理解 | 14 | 1.34% | 多模态/VLM | `visual / video / reasoning / vqa` | Let’s Think Frame by Frame with VIP : A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought |
 | [033](topic-033.md) | 查询理解与检索优化 | 14 | 1.34% | NLP任务 | `table / sql / tabular / schema` | API -Assisted Code Generation for Question Answering on Varied Table Structures |

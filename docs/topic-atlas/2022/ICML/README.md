@@ -22,7 +22,7 @@
 | [008](topic-008.md) | 机器翻译与跨语言对齐 | 32 | 2.60% | LLM/语言模型 | `language / moe / transformer / prompt` | Self-conditioning Pre-Trained Language Models |
 | [009](topic-009.md) | mixup / attribution / explanation / objects | 31 | 2.51% | 计算机视觉 | `mixup / attribution / explanation / objects` | A Rigorous Study of Integrated Gradients Method and Extensions to Internal Neuron Attributions |
 | [010](topic-010.md) | attention / transformers / 视频理解/生成 / vision | 30 | 2.43% | 计算机视觉 | `attention / transformers / video / vision` | Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers |
-| [011](topic-011.md) | label / noisy / classification / transition matrix | 29 | 2.35% | 生成模型 | `label / noisy / classification / transition matrix` | To Smooth or Not? When Label Smoothing Meets Noisy Labels |
+| [011](topic-011.md) | label / noisy / 分类 / transition matrix | 29 | 2.35% | 生成模型 | `label / noisy / classification / transition matrix` | To Smooth or Not? When Label Smoothing Meets Noisy Labels |
 | [012](topic-012.md) | pruning / lottery / winning / sparse | 28 | 2.27% | 系统/效率/压缩 | `pruning / lottery / winning / sparse` | Coarsening the Granularity: Towards Structurally Sparse Lottery Tickets |
 | [013](topic-013.md) | continual learning / forgetting / memory / neural networks | 27 | 2.19% | 系统/效率/压缩 | `continual learning / forgetting / memory / neural networks` | Wide Neural Networks Forget Less Catastrophically |
 | [014](topic-014.md) | 多模态学习与跨模态理解 | 27 | 2.19% | 多模态/VLM | `contrastive / negative / augmentations / multimodal` | Provable Stochastic Optimization for Global Contrastive Learning: Small Batch Does Not Harm Performance |
@@ -61,7 +61,7 @@
 | [047](topic-047.md) | imitation / 策略优化 / robots / offline | 13 | 1.05% | 强化学习/决策 | `imitation / policy / robots / offline` | Imitation Learning by Estimating Expertise of Demonstrators |
 | [046](topic-046.md) | 联邦学习与分布式训练 | 13 | 1.05% | 理论/优化 | `federated / clients / personalization / personalized` | Federated Learning with Partial Model Personalization |
 | [049](topic-049.md) | 知识图谱推理与表示学习 | 13 | 1.05% | 图学习/数据挖掘 | `reasoning / logical / relation / neuro-symbolic` | Neural-Symbolic Models for Logical Queries on Knowledge Graphs |
-| [050](topic-050.md) | 双层优化与元学习 | 12 | 0.97% | 可信/安全/公平 | `meta-learning / few-shot / units / sharpness-aware` | MAML and ANIL Provably Learn Representations |
+| [050](topic-050.md) | 少样本分类与开放集识别 | 12 | 0.97% | 可信/安全/公平 | `meta-learning / few-shot / units / sharpness-aware` | MAML and ANIL Provably Learn Representations |
 | [051](topic-051.md) | 随机优化与收敛理论 | 11 | 0.89% | 系统/效率/压缩 | `compression / coding / distributed / communication` | 3PC: Three Point Compressors for Communication-Efficient Distributed Training and a Better Theory for Lazy Aggregation |
 | [052](topic-052.md) | 在线学习与 regret 理论 | 11 | 0.89% | 可信/安全/公平 | `recourse / regret / online / opponent` | Online Learning with Knapsacks: the Best of Both Worlds |
 | [053](topic-053.md) | 在线学习与 regret 理论 | 11 | 0.89% | 可信/安全/公平 | `bandits / regret / contextual / multi-armed` | Breaking the $\sqrtT$ Barrier: Instance-Independent Logarithmic Regret in Stochastic Contextual Linear Bandits |

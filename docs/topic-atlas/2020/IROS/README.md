@@ -34,7 +34,7 @@
 | [020](topic-020.md) | 机器人操作与具身智能 | 20 | 1.79% | 强化学习/决策 | `quadruped / locomotion / robot / decentralized` | Waste Not, Want Not: Lessons in Rapid Quadrupedal Gait Termination from Thousands of Suboptimal Solutions |
 | [021](topic-021.md) | 自动驾驶感知与世界模型 | 20 | 1.79% | 3D/具身/机器人 | `path planning / multi-robot / mobile / environments` | Augmenting Control Policies with Motion Planning for Robust and Safe Multi-robot Navigation |
 | [022](topic-022.md) | 机器人操作与具身智能 | 20 | 1.79% | 3D/具身/机器人 | `learning / action / latent / robot` | Stochastic Grounded Action Transformation for Robot Learning in Simulation |
-| [023](topic-023.md) | tactile / classification / material / texture | 20 | 1.79% | 可信/安全/公平 | `tactile / classification / material / texture` | Uncertainty Aware Texture Classification and Mapping Using Soft Tactile Sensors |
+| [023](topic-023.md) | tactile / 分类 / material / texture | 20 | 1.79% | 可信/安全/公平 | `tactile / classification / material / texture` | Uncertainty Aware Texture Classification and Mapping Using Soft Tactile Sensors |
 | [024](topic-024.md) | control / predictive / distributed / teleoperation | 19 | 1.70% | 3D/具身/机器人 | `control / predictive / distributed / teleoperation` | Synchronous Minimum-Time Cooperative Manipulation using Distributed Model Predictive Control |
 | [025](topic-025.md) | magnetic / manipulation / cells / control | 18 | 1.61% | 3D/具身/机器人 | `magnetic / manipulation / cells / control` | Magnetically Actuated Pick-and-place Operations of Cellular Micro-rings for High-speed Assembly of Micro-scale Biological Tube |
 | [026](topic-026.md) | LiDAR 点云与 3D 感知 | 18 | 1.61% | 3D/具身/机器人 | `lidar / calibration / extrinsic / camera` | Automatic Targetless Extrinsic Calibration of Multiple 3D LiDARs and Radars |
@@ -43,7 +43,7 @@
 | [028](topic-028.md) | gait / generation / learning / 优化 | 17 | 1.52% | 生成模型 | `gait / generation / learning / optimization` | Adaptive Gait Pattern Generation of a Powered Exoskeleton by Iterative Learning of Human Behavior |
 | [029](topic-029.md) | 自动驾驶感知与世界模型 | 17 | 1.52% | 3D/具身/机器人 | `risk / safety / avoidance / collision` | Motion Planning for Collision-resilient Mobile Robots in Obstacle-cluttered Unknown Environments with Risk Reward Trade-offs |
 | [032](topic-032.md) | LiDAR 点云与 3D 感知 | 17 | 1.52% | 3D/具身/机器人 | `autonomous driving / object detection / lidar / estimation autonomous` | GndNet: Fast Ground Plane Estimation and Point Cloud Segmentation for Autonomous Vehicles |
-| [030](topic-030.md) | learning / imitation / dynamics / human | 17 | 1.52% | HCI/社会计算 | `learning / imitation / dynamics / human` | Domain-Adversarial and -Conditional State Space Model for Imitation Learning |
+| [030](topic-030.md) | 少样本分类与开放集识别 | 17 | 1.52% | HCI/社会计算 | `learning / imitation / dynamics / human` | Domain-Adversarial and -Conditional State Space Model for Imitation Learning |
 | [033](topic-033.md) | 机器人操作与具身智能 | 16 | 1.43% | 3D/具身/机器人 | `hand / manipulation / anthropomorphic / contact force` | Functionally Divided Manipulation Synergy for Controlling Multi-fingered Hands |
 | [034](topic-034.md) | 自动驾驶感知与世界模型 | 16 | 1.43% | 3D/具身/机器人 | `autonomous / planning / driving / learning` | Learning hierarchical behavior and motion planning for autonomous driving |
 | [035](topic-035.md) | 自动驾驶感知与世界模型 | 16 | 1.43% | 3D/具身/机器人 | `surgical / surgery / technology / endoscopic` | Improving Motion Planning for Surgical Robot with Active Constraints |

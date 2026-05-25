@@ -64,7 +64,7 @@
 | [050](topic-050.md) | 代码生成与程序理解 | 36 | 0.89% | 理论/优化 | `combinatorial / submodular / matroid / solvers` | Learning Generalized Linear Programming Value Functions |
 | [051](topic-051.md) | surrogate / boosting / losses / multi-label | 35 | 0.87% | 系统/效率/压缩 | `surrogate / boosting / losses / multi-label` | A Universal Growth Rate for Learning with Smooth Surrogate Losses |
 | [052](topic-052.md) | 人类反馈对齐与偏好优化 | 35 | 0.87% | 强化学习/决策 | `reward / preference / rlhf / human feedback` | Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning |
-| [053](topic-053.md) | 医疗健康与临床 AI | 35 | 0.87% | LLM/语言模型 | `llms / reasoning / planning / agents` | StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving |
+| [053](topic-053.md) | 规划搜索与决策推理 | 35 | 0.87% | LLM/语言模型 | `llms / reasoning / planning / agents` | StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving |
 | [054](topic-054.md) | 扩散生成模型 | 35 | 0.87% | 生成模型 | `flow matching / diffusion / flows / discrete` | Learning diffusion at lightspeed |
 | [055](topic-055.md) | 在线学习与 regret 理论 | 34 | 0.84% | 强化学习/决策 | `regret / bandits / feedback / bound` | Bandits with Ranking Feedback |
 | [056](topic-056.md) | vit / vision transformers / token / crate | 34 | 0.84% | 计算机视觉 | `vit / vision transformers / token / crate` | Slicing Vision Transformer for Flexible Inference |

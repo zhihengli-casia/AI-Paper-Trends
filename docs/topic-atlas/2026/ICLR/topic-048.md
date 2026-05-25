@@ -1,4 +1,4 @@
-# ICLR 2026: label / spurious / long-tailed / distributionally robust
+# ICLR 2026: 长尾视觉识别与分类
 
 - Topic ID: `48`
 - Papers: **45** (0.84%)

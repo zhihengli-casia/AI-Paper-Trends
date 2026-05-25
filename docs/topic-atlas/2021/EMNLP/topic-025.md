@@ -1,4 +1,4 @@
-# EMNLP 2021: few-shot / self-training / examples / intent
+# EMNLP 2021: 少样本 / self-training / examples / intent
 
 - Topic ID: `25`
 - Papers: **14** (1.65%)

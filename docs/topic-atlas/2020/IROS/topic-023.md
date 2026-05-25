@@ -1,4 +1,4 @@
-# IROS 2020: tactile / classification / material / texture
+# IROS 2020: tactile / 分类 / material / texture
 
 - Topic ID: `23`
 - Papers: **20** (1.79%)

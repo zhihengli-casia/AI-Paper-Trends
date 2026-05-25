@@ -1,4 +1,4 @@
-# ECCV 2022: long-tailed / classes / imbalance / recognition
+# ECCV 2022: 长尾 / classes / imbalance / recognition
 
 - Topic ID: `48`
 - Papers: **15** (0.91%)

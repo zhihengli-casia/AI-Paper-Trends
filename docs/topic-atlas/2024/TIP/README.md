@@ -21,7 +21,7 @@
 | [007](topic-007.md) | 视频动作生成与运动控制 | 22 | 4.60% | 3D/具身/机器人 | `coding / compression / video / streaming` | Fast and High-Performance Learned Image Compression With Improved Checkerboard Context Model, Deformable Residual Module, and Knowledge Distillation |
 | [008](topic-008.md) | teacher / student / distillation / old | 21 | 4.39% | 计算机视觉 | `teacher / student / distillation / old` | Model Attention Expansion for Few-Shot Class-Incremental Learning |
 | [009](topic-009.md) | 目标检测与图像分割 | 19 | 3.97% | 计算机视觉 | `tracking / tracker / object / videos` | Addressing Challenges of Incorporating Appearance Cues Into Heuristic Multi-Object Tracker via a Novel Feature Paradigm |
-| [010](topic-010.md) | object / detectors / unknown / few-shot | 19 | 3.97% | 计算机视觉 | `object / detectors / unknown / few-shot` | Toward Generalized Few-Shot Open-Set Object Detection |
+| [010](topic-010.md) | object / detectors / unknown / 少样本 | 19 | 3.97% | 计算机视觉 | `object / detectors / unknown / few-shot` | Toward Generalized Few-Shot Open-Set Object Detection |
 | [011](topic-011.md) | 扩散生成模型 | 18 | 3.77% | 计算机视觉 | `adversarial / attack / person / face` | Inspector for Face Forgery Detection: Defending Against Adversarial Attacks From Coarse to Fine |
 | [012](topic-012.md) | event / 运动建模 / cameras / blur | 17 | 3.56% | 计算机视觉 | `event / motion / cameras / blur` | Learning Frame-Event Fusion for Motion Deblurring |
 | [014](topic-014.md) | denoising / sampling / sub / org | 16 | 3.35% | 计算机视觉 | `denoising / sampling / sub / org` | A Scalable Training Strategy for Blind Multi-Distribution Noise Removal |
@@ -33,7 +33,7 @@
 | [019](topic-019.md) | 视频理解/生成 / emotional / clip / concepts | 12 | 2.51% | 生成模型 | `video / emotional / clip / concepts` | Multi-Stage Image-Language Cross-Generative Fusion Network for Video-Based Referring Expression Comprehension |
 | [020](topic-020.md) | quality / hdr / videos / assessment | 12 | 2.51% | 计算机视觉 | `quality / hdr / videos / assessment` | Image Quality Assessment: Measuring Perceptual Degradation via Distribution Measures in Deep Feature Spaces |
 | [021](topic-021.md) | anomaly / anomalous / 视频理解/生成 / normal | 11 | 2.30% | 推荐/检索/排序 | `anomaly / anomalous / video / normal` | Toward Video Anomaly Retrieval From Video Anomaly Detection: New Benchmarks and Model |
-| [022](topic-022.md) | food / fine-grained / recognition / noisy | 11 | 2.30% | 多模态/VLM | `food / fine-grained / recognition / noisy` | Fine-Grained Recognition With Learnable Semantic Data Augmentation |
+| [022](topic-022.md) | 细粒度视觉分类与识别 | 11 | 2.30% | 多模态/VLM | `food / fine-grained / recognition / noisy` | Fine-Grained Recognition With Learnable Semantic Data Augmentation |
 | [023](topic-023.md) | action / 图学习 / human / 运动建模 | 10 | 2.09% | 计算机视觉 | `action / graph / human / motion` | Dynamic Semantic-Based Spatial-Temporal Graph Convolution Network for Skeleton-Based Human Action Recognition |
 | [024](topic-024.md) | 目标检测与图像分割 | 9 | 1.88% | 计算机视觉 | `segmentation / sup / objects / www` | Dual Branch Multi-Level Semantic Learning for Few-Shot Segmentation |
 | [025](topic-025.md) | 多视图聚类与图学习 | 9 | 1.88% | 计算机视觉 | `tensor / low-rank / high-order / spectral` | Multi-Dimensional Visual Data Restoration: Uncovering the Global Discrepancy in Transformed High-Order Tensor Singular Values |

@@ -1,4 +1,4 @@
-# AAAI 2024: label / pll / open-set / active learning
+# AAAI 2024: label / pll / 开放集 / active learning
 
 - Topic ID: `5`
 - Papers: **48** (2.06%)

@@ -64,4 +64,4 @@
 | [050](topic-050.md) | games / player / facilitating / 视频理解/生成 | 9 | 0.86% | 理论/优化 | `games / player / facilitating / video` | The Trick is to Stay Behind?: Defining and Exploring the Design Space of Player Balancing Mechanics |
 | [051](topic-051.md) | cancer / haptics / modulation / ultrasonic | 9 | 0.86% | 推荐/检索/排序 | `cancer / haptics / modulation / ultrasonic` | AdapTics: A Toolkit for Creative Design and Integration of Real-Time Adaptive Mid-Air Ultrasound Tactons |
 | [052](topic-052.md) | hci / food / unpacking / digital | 8 | 0.76% | 计算机视觉 | `hci / food / unpacking / digital` | Conceptualising Fatness within HCI: A Call for Fat Liberation |
-| [053](topic-053.md) | 医疗健康与临床 AI | 8 | 0.76% | AI4Science/医疗 | `virtual / reality / conflict / promote` | Cohabitant: The Design, Implementation, and Evaluation of a Virtual Reality Application for Interfaith Learning and Empathy Building |
+| [053](topic-053.md) | virtual / reality / conflict / promote | 8 | 0.76% | AI4Science/医疗 | `virtual / reality / conflict / promote` | Cohabitant: The Design, Implementation, and Evaluation of a Virtual Reality Application for Interfaith Learning and Empathy Building |

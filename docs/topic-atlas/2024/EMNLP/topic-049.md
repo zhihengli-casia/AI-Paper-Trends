@@ -1,4 +1,4 @@
-# EMNLP 2024: active learning / classification / multi-label / classes
+# EMNLP 2024: active learning / 分类 / multi-label / classes
 
 - Topic ID: `49`
 - Papers: **13** (1.03%)

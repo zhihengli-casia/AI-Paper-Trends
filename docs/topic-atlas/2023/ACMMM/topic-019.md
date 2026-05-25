@@ -1,4 +1,4 @@
-# ACMMM 2023: classes / food / zero-shot / old
+# ACMMM 2023: classes / food / 零样本 / old
 
 - Topic ID: `19`
 - Papers: **17** (1.88%)

@@ -1,4 +1,4 @@
-# PR 2023: 检索 / image / deep / cross-modal
+# PR 2023: 细粒度视觉分类与识别
 
 - Topic ID: `31`
 - Papers: **13** (1.62%)

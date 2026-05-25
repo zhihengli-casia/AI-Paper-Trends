@@ -1,4 +1,4 @@
-# AAAI 2025: gene / cancer / expression / spatial
+# AAAI 2025: 病理图像与临床 AI
 
 - Topic ID: `99`
 - Papers: **13** (0.43%)

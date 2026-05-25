@@ -1,4 +1,4 @@
-# AAAI 2023: few-shot / zero-shot / image / 视觉理解
+# AAAI 2023: 少样本分类与开放集识别
 
 - Topic ID: `1`
 - Papers: **43** (2.74%)

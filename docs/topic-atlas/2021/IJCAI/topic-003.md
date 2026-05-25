@@ -1,4 +1,4 @@
-# IJCAI 2021: label / few-shot / classification / meta-learning
+# IJCAI 2021: 少样本分类与开放集识别
 
 - Topic ID: `3`
 - Papers: **29** (4.02%)

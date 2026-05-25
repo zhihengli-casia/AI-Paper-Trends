@@ -1,4 +1,4 @@
-# PR 2024: few-shot / classification / discrepancy / fine-grained
+# PR 2024: 少样本细粒度视觉识别
 
 - Topic ID: `5`
 - Papers: **30** (3.12%)

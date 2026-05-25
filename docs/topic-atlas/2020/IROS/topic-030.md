@@ -1,4 +1,4 @@
-# IROS 2020: learning / imitation / dynamics / human
+# IROS 2020: 少样本分类与开放集识别
 
 - Topic ID: `30`
 - Papers: **17** (1.52%)

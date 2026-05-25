@@ -1,4 +1,4 @@
-# MICCAI 2023: 医疗健康与临床 AI
+# MICCAI 2023: 医学影像分割
 
 - Topic ID: `1`
 - Papers: **14** (19.18%)

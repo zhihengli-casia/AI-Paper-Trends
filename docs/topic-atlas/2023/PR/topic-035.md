@@ -1,4 +1,4 @@
-# PR 2023: transformer / tracking / vision / 视觉理解
+# PR 2023: 细粒度视觉分类与识别
 
 - Topic ID: `35`
 - Papers: **12** (1.49%)

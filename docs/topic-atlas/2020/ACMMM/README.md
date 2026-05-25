@@ -18,7 +18,7 @@
 | [004](topic-004.md) | 搜索排序与相关性建模 | 22 | 4.65% | 计算机视觉 | `moment / localization / temporal / event` | Activity-driven Weakly-Supervised Spatio-Temporal Grounding from Untrimmed Videos |
 | [005](topic-005.md) | 深度估计与立体匹配 | 21 | 4.44% | 计算机视觉 | `recursive / depth / single image / saliency` | Dual-view Attention Networks for Single Image Super-Resolution |
 | [006](topic-006.md) | scene graph / expression / object / relation | 21 | 4.44% | 计算机视觉 | `scene graph / expression / object / relation` | One-shot Scene Graph Generation |
-| [007](topic-007.md) | 医疗健康与临床 AI | 20 | 4.23% | 计算机视觉 | `hashing / clustering / retrieval / codes` | Learning Modality-Invariant Latent Representations for Generalized Zero-shot Learning |
+| [007](topic-007.md) | 查询理解与检索优化 | 20 | 4.23% | 计算机视觉 | `hashing / clustering / retrieval / codes` | Learning Modality-Invariant Latent Representations for Generalized Zero-shot Learning |
 | [008](topic-008.md) | 机器翻译与跨语言对齐 | 19 | 4.02% | NLP任务 | `domain / adaptation / shape / source` | Domain-Specific Alignment Network for Multi-Domain Image-Based 3D Object Retrieval |
 | [009](topic-009.md) | 隐私保护与安全学习 | 19 | 4.02% | 可信/安全/公平 | `occlusion / vehicle / pedestrian / small-scale` | CODAN: Counting-driven Attention Network for Vehicle Detection in Congested Scenes |
 | [010](topic-010.md) | streaming / reality / bandwidth / live | 18 | 3.81% | 3D/具身/机器人 | `streaming / reality / bandwidth / live` | An Analysis of Delay in Live 360° Video Streaming Systems |
@@ -27,7 +27,7 @@
 | [013](topic-013.md) | 点云表示与 3D 感知 | 16 | 3.38% | 计算机视觉 | `point / localization / object / cloud` | RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization |
 | [014](topic-014.md) | facial / expression / recognition / face | 15 | 3.17% | 计算机视觉 | `facial / expression / recognition / face` | DFEW: A Large-Scale Database for Recognizing Dynamic Facial Expressions in the Wild |
 | [015](topic-015.md) | 多模态情感理解 | 15 | 3.17% | 多模态/VLM | `emotion / multimodal / affective / sentiment` | Transformer-based Label Set Generation for Multi-modal Multi-label Emotion Detection |
-| [016](topic-016.md) | fine-grained / web / recognition / zero-shot | 13 | 2.75% | 计算机视觉 | `fine-grained / web / recognition / zero-shot` | Bridging the Web Data and Fine-Grained Visual Recognition via Alleviating Label Noise and Domain Mismatch |
+| [016](topic-016.md) | 零样本分类与跨模态识别 | 13 | 2.75% | 计算机视觉 | `fine-grained / web / recognition / zero-shot` | Bridging the Web Data and Fine-Grained Visual Recognition via Alleviating Label Noise and Domain Mismatch |
 | [017](topic-017.md) | style / aesthetic / quality / subjective | 12 | 2.54% | 计算机视觉 | `style / aesthetic / quality / subjective` | Context-aware Attention Network for Predicting Image Aesthetic Subjectivity |
 | [018](topic-018.md) | 语音/音频语言模型 | 12 | 2.54% | 可信/安全/公平 | `privacy / face / deepfakes / attacks` | Emotions Don't Lie: An Audio-Visual Deepfake Detection Method using Affective Cues |
 | [019](topic-019.md) | 对抗攻击、鲁棒性与安全 | 12 | 2.54% | 计算机视觉 | `attack / adversarial / defense / examples` | DIPDefend: Deep Image Prior Driven Defense against Adversarial Examples |

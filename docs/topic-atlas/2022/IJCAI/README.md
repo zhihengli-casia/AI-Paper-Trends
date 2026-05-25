@@ -44,11 +44,11 @@
 | [030](topic-030.md) | 对抗攻击、鲁棒性与安全 | 15 | 1.74% | 理论/优化 | `domain / adaptation / target / source` | Dynamic Domain Generalization |
 | [031](topic-031.md) | argumentation / intervals / belief / semantics | 15 | 1.74% | LLM/语言模型 | `argumentation / intervals / belief / semantics` | Conditional Independence for Iterated Belief Revision |
 | [032](topic-032.md) | 图神经网络与图表示学习 | 14 | 1.62% | 图学习/数据挖掘 | `gnns / graph neural / graphs / homophily` | Survey on Graph Neural Network Acceleration: An Algorithmic Perspective |
-| [033](topic-033.md) | 医疗健康与临床 AI | 14 | 1.62% | 多模态/VLM | `image / segmentation / tensor / completion` | Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation |
+| [033](topic-033.md) | 目标检测与图像分割 | 14 | 1.62% | 多模态/VLM | `image / segmentation / tensor / completion` | Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation |
 | [034](topic-034.md) | LLM Agent 与工具使用 | 14 | 1.62% | 强化学习/决策 | `voting / agents / opinion / voter` | How Should We Vote? A Comparison of Voting Systems within Social Networks |
 | [035](topic-035.md) | 句法知识与语言学分析 | 12 | 1.39% | 语音/音频/音乐 | `sign / speech / music / language` | Tradformer: A Transformer Model of Traditional Music Transcriptions |
 | [036](topic-036.md) | 多语言建模与跨语言迁移 | 12 | 1.39% | 推荐/检索/排序 | `translation / word / embeddings / multilingual` | A Unified Framework for Intrinsic Evaluation of Word-Embedding Algorithms |
-| [037](topic-037.md) | transformer / vision / pyramid / landmark | 11 | 1.28% | 计算机视觉 | `transformer / vision / pyramid / landmark` | Robustifying Vision Transformer without Retraining from Scratch by Test-Time Class-Conditional Feature Alignment |
+| [037](topic-037.md) | 医学影像病灶分析 | 11 | 1.28% | 计算机视觉 | `transformer / vision / pyramid / landmark` | Robustifying Vision Transformer without Retraining from Scratch by Test-Time Class-Conditional Feature Alignment |
 | [038](topic-038.md) | 推荐系统与用户建模 | 11 | 1.28% | 推荐/检索/排序 | `causal / infection / recommendation / negatives` | On the Opportunity of Causal Learning in Recommendation Systems: Foundation, Estimation, Prediction and Challenges |
 | [039](topic-039.md) | boolean / quantification / sat / probabilistic | 10 | 1.16% | LLM/语言模型 | `boolean / quantification / sat / probabilistic` | On the Complexity of Enumerating Prime Implicants from Decision-DNNF Circuits |
 | [040](topic-040.md) | 规划搜索与决策推理 | 10 | 1.16% | 强化学习/决策 | `functional / traffic / multi-agent / coordination` | Offline Time-Independent Multi-Agent Path Planning |

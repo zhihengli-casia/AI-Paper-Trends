@@ -1,4 +1,4 @@
-# ACMMM 2024: action / 视频理解/生成 / temporal / few-shot
+# ACMMM 2024: action / 视频理解/生成 / temporal / 少样本
 
 - Topic ID: `20`
 - Papers: **19** (1.65%)

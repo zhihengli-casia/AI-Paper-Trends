@@ -17,7 +17,7 @@
 | [003](topic-003.md) | 样本复杂度与统计学习理论 | 36 | 3.32% | 理论/优化 | `submodular / trees / items / maximization` | Parallel Algorithm for Non-Monotone DR-Submodular Maximization |
 | [004](topic-004.md) | 医疗健康与临床 AI | 35 | 3.23% | 图学习/数据挖掘 | `causal / treatment / observational / clinical` | Learning and Sampling of Atomic Interventions from Observations |
 | [005](topic-005.md) | 在线学习与 regret 理论 | 35 | 3.23% | 强化学习/决策 | `bandits / regret / arm / thompson` | Exploration Through Reward Biasing: Reward-Biased Maximum Likelihood Estimation for Stochastic Multi-Armed Bandits |
-| [006](topic-006.md) | 图神经网络与图表示学习 | 29 | 2.68% | 图学习/数据挖掘 | `graph / gnns / node / pooling` | Convolutional Kernel Networks for Graph-Structured Data |
+| [006](topic-006.md) | 少样本分类与开放集识别 | 29 | 2.68% | 图学习/数据挖掘 | `graph / gnns / node / pooling` | Convolutional Kernel Networks for Graph-Structured Data |
 | [007](topic-007.md) | frank-wolfe / accelerated / finite-sum / acceleration | 29 | 2.68% | 理论/优化 | `frank-wolfe / accelerated / finite-sum / acceleration` | The Complexity of Finding Stationary Points with Stochastic Gradient Descent |
 | [008](topic-008.md) | uncertainty / bayesian / ood / calibration | 29 | 2.68% | 可信/安全/公平 | `uncertainty / bayesian / ood / calibration` | Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks |
 | [009](topic-009.md) | 强化学习策略与奖励建模 | 28 | 2.58% | 强化学习/决策 | `reinforcement / policy / replay / policies` | Estimating Q(s,s’) with Deep Deterministic Dynamics Gradients |
@@ -56,7 +56,7 @@
 | [041](topic-041.md) | mcmc / particles / markov / chain | 12 | 1.11% | 生成模型 | `mcmc / particles / markov / chain` | Black-Box Variational Inference as a Parametric Approximation to Langevin Dynamics |
 | [042](topic-042.md) | semi-supervised learning / weak supervision / labels / unlabeled | 12 | 1.11% | 图学习/数据挖掘 | `semi-supervised learning / weak supervision / labels / unlabeled` | Strength from Weakness: Fast Learning Using Weak Supervision |
 | [045](topic-045.md) | domain / adaptation / source / alignment | 12 | 1.11% | 理论/优化 | `domain / adaptation / source / alignment` | Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation |
-| [046](topic-046.md) | meta-learning / few-shot / transfer / normalization | 12 | 1.11% | 其他/交叉主题 | `meta-learning / few-shot / transfer / normalization` | Unraveling Meta-Learning: Understanding Feature Representations for Few-Shot Tasks |
+| [046](topic-046.md) | 少样本分类与开放集识别 | 12 | 1.11% | 其他/交叉主题 | `meta-learning / few-shot / transfer / normalization` | Unraveling Meta-Learning: Understanding Feature Representations for Few-Shot Tasks |
 | [044](topic-044.md) | 在线学习与 regret 理论 | 12 | 1.11% | 可信/安全/公平 | `revenue / repeated / regret / strategic` | Bisection-Based Pricing for Repeated Contextual Auctions against Strategic Buyer |
 | [047](topic-047.md) | physical / ode / resnet / dynamics | 11 | 1.01% | 图学习/数据挖掘 | `physical / ode / resnet / dynamics` | How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization |
 | [048](topic-048.md) | 推理 / relational / symbolic / perception | 11 | 1.01% | 计算机视觉 | `reasoning / relational / symbolic / perception` | An Explicitly Relational Neural Network Architecture |

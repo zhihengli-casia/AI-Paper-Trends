@@ -12,7 +12,7 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | bayesian / bnn / neural networks / closed-form | 44 | 2.80% | 理论/优化 | `bayesian / bnn / neural networks / closed-form` | Opposite Online Learning via Sequentially Integrated Stochastic Gradient Descent Estimators |
-| [001](topic-001.md) | few-shot / zero-shot / image / 视觉理解 | 43 | 2.74% | 计算机视觉 | `few-shot / zero-shot / image / visual` | Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition |
+| [001](topic-001.md) | 少样本分类与开放集识别 | 43 | 2.74% | 计算机视觉 | `few-shot / zero-shot / image / visual` | Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level Graph Recognition |
 | [002](topic-002.md) | 语音/音频语言模型 | 34 | 2.16% | 多模态/VLM | `video / modality / multimodal / visual` | Tagging before Alignment: Integrating Multi-Modal Tags for Video-Text Retrieval |
 | [003](topic-003.md) | causal / variables / outcome / 图学习 | 31 | 1.97% | 图学习/数据挖掘 | `causal / variables / outcome / graph` | Information-Theoretic Causal Discovery and Intervention Detection over Multiple Environments |
 | [004](topic-004.md) | dialogue / conversations / personal / responses | 30 | 1.91% | NLP任务 | `dialogue / conversations / personal / responses` | Learning to Memorize Entailment and Discourse Relations for Persona-Consistent Dialogues |
@@ -57,7 +57,7 @@
 | [042](topic-042.md) | pose / assembly / 运动建模 / human | 16 | 1.02% | 3D/具身/机器人 | `pose / assembly / motion / human` | CEE-Net: Complementary End-to-End Network for 3D Human Pose Generation and Estimation |
 | [044](topic-044.md) | 目标检测与图像分割 | 16 | 1.02% | 计算机视觉 | `segmentation / semantic / partition / affinity` | Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation |
 | [047](topic-047.md) | 强化学习算法与理论 | 16 | 1.02% | 强化学习/决策 | `offline / policy / ppo / reinforcement learning` | Model-Based Offline Reinforcement Learning with Local Misspecification |
-| [046](topic-046.md) | multi-view / multi-label / classification / views | 16 | 1.02% | 计算机视觉 | `multi-view / multi-label / classification / views` | Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View- and Category-Aware Transformers |
+| [046](topic-046.md) | 长尾视觉识别与分类 | 16 | 1.02% | 计算机视觉 | `multi-view / multi-label / classification / views` | Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View- and Category-Aware Transformers |
 | [045](topic-045.md) | cognitive / students / teaching / continual | 16 | 1.02% | 生成模型 | `cognitive / students / teaching / continual` | Continual Variational Autoencoder via Continual Generative Knowledge Distillation |
 | [048](topic-048.md) | anomaly / detection / defect / normal | 15 | 0.95% | 计算机视觉 | `anomaly / detection / defect / normal` | Mean-Shifted Contrastive Loss for Anomaly Detection |
 | [051](topic-051.md) | 联邦学习与分布式训练 | 15 | 0.95% | 其他/交叉主题 | `federated / clients / learning fl / local` | Tackling Data Heterogeneity in Federated Learning with Class Prototypes |
@@ -80,7 +80,7 @@
 | [067](topic-067.md) | hashing / long-tail / quantization / concept | 12 | 0.76% | 推荐/检索/排序 | `hashing / long-tail / quantization / concept` | Towards Robust Metrics for Concept Representation Evaluation |
 | [065](topic-065.md) | 目标检测与图像分割 | 12 | 0.76% | 计算机视觉 | `domain / segmentation / adaptation / semantic` | Cross-Modal Contrastive Learning for Domain Adaptation in 3D Semantic Segmentation |
 | [068](topic-068.md) | 社交媒体与社会计算 | 11 | 0.70% | 系统/效率/压缩 | `agent / social interactions / moral / rationality` | The Role of Heuristics and Biases during Complex Choices with an AI Teammate |
-| [069](topic-069.md) | 医疗健康与临床 AI | 11 | 0.70% | 多模态/VLM | `graph / neural networks / heterogeneous / multiplex` | Interpolating Graph Pair to Regularize Graph Classification |
+| [069](topic-069.md) | 图学习 / neural networks / heterogeneous / multiplex | 11 | 0.70% | 多模态/VLM | `graph / neural networks / heterogeneous / multiplex` | Interpolating Graph Pair to Regularize Graph Classification |
 | [070](topic-070.md) | 具身智能与物理交互 | 11 | 0.70% | 3D/具身/机器人 | `layout / document / ordinal / grounding` | Layout Representation Learning with Spatial and Structural Hierarchies |
 | [071](topic-071.md) | 自动驾驶感知与世界模型 | 11 | 0.70% | 3D/具身/机器人 | `face / facial / mesh / reconstruction` | JR2Net: Joint Monocular 3D Face Reconstruction and Reenactment |
 | [072](topic-072.md) | 对抗攻击、鲁棒性与安全 | 11 | 0.70% | 图学习/数据挖掘 | `attack / defense / graphs / categorical` | Towards Efficient and Domain-Agnostic Evasion Attack with High-Dimensional Categorical Inputs |
@@ -92,7 +92,7 @@
 | [076](topic-076.md) | detection / explanation / dialogue / question answering | 10 | 0.64% | 多模态/VLM | `detection / explanation / dialogue / question answering` | Referring Expression Comprehension Using Language Adaptive Inference |
 | [080](topic-080.md) | Conformal Prediction 与不确定性校准 | 10 | 0.64% | 理论/优化 | `uncertainty / aleatoric / epistemic / regression` | The Unreasonable Effectiveness of Deep Evidential Regression |
 | [078](topic-078.md) | 强化学习策略与奖励建模 | 10 | 0.64% | 强化学习/决策 | `reward / demonstrations / shaping / policies` | Learning Noise-Induced Reward Functions for Surpassing Demonstrations in Imitation Learning |
-| [081](topic-081.md) | 医疗健康与临床 AI | 9 | 0.57% | LLM/语言模型 | `autoregressive / medical / transformer / language` | Compressing Transformers: Features Are Low-Rank, but Weights Are Not! |
+| [081](topic-081.md) | autoregressive / 医学AI / transformer / language | 9 | 0.57% | LLM/语言模型 | `autoregressive / medical / transformer / language` | Compressing Transformers: Features Are Low-Rank, but Weights Are Not! |
 | [082](topic-082.md) | 多模态学习与跨模态理解 | 9 | 0.57% | 多模态/VLM | `news / fake / persuasion / detection` | Bootstrapping Multi-View Representations for Fake News Detection |
 | [083](topic-083.md) | vit / vision / backdoor / transformers | 9 | 0.57% | 计算机视觉 | `vit / vision / backdoor / transformers` | Peeling the Onion: Hierarchical Reduction of Data Redundancy for Efficient Vision Transformer Training |
 | [084](topic-084.md) | 图神经网络与节点表示学习 | 9 | 0.57% | 图学习/数据挖掘 | `graph / anomaly / multi-domain / normal` | Non-IID Transfer Learning on Graphs |

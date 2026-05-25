@@ -12,7 +12,7 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | mml / search / deep / architecture | 45 | 6.84% | 理论/优化 | `mml / search / deep / architecture` | Super-encoder with cooperative autoencoder networks |
-| [001](topic-001.md) | 医疗健康与临床 AI | 37 | 5.62% | 计算机视觉 | `segmentation / image / loss / maps` | EANet: Iterative edge attention network for medical image segmentation |
+| [001](topic-001.md) | 医学影像病灶分析 | 37 | 5.62% | 计算机视觉 | `segmentation / image / loss / maps` | EANet: Iterative edge attention network for medical image segmentation |
 | [002](topic-002.md) | detection / image / object / state-of-the-art | 32 | 4.86% | 计算机视觉 | `detection / image / object / state-of-the-art` | Video Object Segmentation using Point-based Memory Network |
 | [003](topic-003.md) | 目标检测与图像分割 | 31 | 4.71% | 计算机视觉 | `object / detection / images / segmentation` | mSODANet: A network for multi-scale object detection in aerial images using hierarchical dilated convolutions |
 | [004](topic-004.md) | person / mml / vehicle / unsupervised | 29 | 4.41% | 计算机视觉 | `person / mml / vehicle / unsupervised` | Learning comprehensive global features in person re-identification: Ensuring discriminativeness of more local regions |
@@ -25,7 +25,7 @@
 | [011](topic-011.md) | 点云表示与 3D 感知 | 21 | 3.19% | 3D/具身/机器人 | `point / cloud / object / multi-view` | Learning isometry-invariant representations for point cloud analysis |
 | [012](topic-012.md) | temporal / recurrent / demand / localization | 19 | 2.89% | 计算机视觉 | `temporal / recurrent / demand / localization` | 2PESNet: Towards online processing of temporal action localization |
 | [013](topic-013.md) | pose / estimation / hand / head | 18 | 2.74% | 计算机视觉 | `pose / estimation / hand / head` | Head pose estimation: An extensive survey on recent techniques and applications |
-| [014](topic-014.md) | few-shot / metric learning / prototype / self-attention | 18 | 2.74% | 其他/交叉主题 | `few-shot / metric learning / prototype / self-attention` | Learning multi-level weight-centric features for few-shot learning |
+| [014](topic-014.md) | 少样本分类与开放集识别 | 18 | 2.74% | 其他/交叉主题 | `few-shot / metric learning / prototype / self-attention` | Learning multi-level weight-centric features for few-shot learning |
 | [015](topic-015.md) | 图神经网络与节点表示学习 | 18 | 2.74% | 图学习/数据挖掘 | `graph / subspace / vector description / node` | Sparse norm regularized attribute selection for graph neural networks |
 | [016](topic-016.md) | 目标检测与图像分割 | 18 | 2.74% | 计算机视觉 | `domain / adaptation / unsupervised / multi-source` | Prototype-Guided Feature Learning for Unsupervised Domain Adaptation |
 | [017](topic-017.md) | 视觉理解 / 视频理解/生成 / 推理 / attention | 16 | 2.43% | 计算机视觉 | `visual / video / reasoning / attention` | CAAN: Context-Aware attention network for visual question answering |
@@ -40,9 +40,9 @@
 | [026](topic-026.md) | 目标检测与图像分割 | 13 | 1.98% | 计算机视觉 | `segmentation / semantic / interactive / supervised` | Exploiting shape cues for weakly supervised semantic segmentation |
 | [027](topic-027.md) | manifold / shape / aspects / objects | 11 | 1.67% | 其他/交叉主题 | `manifold / shape / aspects / objects` | Discrete curve model for non-elastic shape analysis on shape manifold |
 | [028](topic-028.md) | 时间序列建模与预测 | 11 | 1.67% | 推荐/检索/排序 | `time series / multi-source / detection / missing` | FastOPM—A practical method for partial match of time series |
-| [029](topic-029.md) | 医疗健康与临床 AI | 11 | 1.67% | 可信/安全/公平 | `adversarial / overfitting / medical / cnns` | A survey of robust adversarial training in pattern recognition: Fundamental, theory, and methodologies |
+| [029](topic-029.md) | 对抗攻击、鲁棒性与安全 | 11 | 1.67% | 可信/安全/公平 | `adversarial / overfitting / medical / cnns` | A survey of robust adversarial training in pattern recognition: Fundamental, theory, and methodologies |
 | [030](topic-030.md) | feature selection / discriminative feature / adaptive graph / unsupervised | 11 | 1.67% | 图学习/数据挖掘 | `feature selection / discriminative feature / adaptive graph / unsupervised` | Unsupervised feature selection via adaptive graph and dependency score |
-| [031](topic-031.md) | fine-grained / 检索 / recognition / image | 10 | 1.52% | 计算机视觉 | `fine-grained / retrieval / recognition / image` | A feature consistency driven attention erasing network for fine-grained image retrieval |
+| [031](topic-031.md) | 少样本细粒度视觉识别 | 10 | 1.52% | 计算机视觉 | `fine-grained / retrieval / recognition / image` | A feature consistency driven attention erasing network for fine-grained image retrieval |
 | [032](topic-032.md) | 查询理解与检索优化 | 9 | 1.37% | 系统/效率/压缩 | `adversarial / attack / black-box / example` | Query efficient black-box adversarial attack on deep neural networks |
 | [033](topic-033.md) | 多模态学习与跨模态理解 | 9 | 1.37% | 多模态/VLM | `attention / multi-task / hybrid / dynamic` | Split ‘n’ merge net: A dynamic masking network for multi-task attention |
 | [034](topic-034.md) | 目标检测与图像分割 | 8 | 1.22% | 计算机视觉 | `waves / effects / captures / entire` | AUCO ResNet: an end-to-end network for Covid-19 pre-screening from cough and breath |

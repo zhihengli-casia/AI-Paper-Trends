@@ -1,4 +1,4 @@
-# IJCAI 2022: transformer / vision / pyramid / landmark
+# IJCAI 2022: 医学影像病灶分析
 
 - Topic ID: `37`
 - Papers: **11** (1.28%)

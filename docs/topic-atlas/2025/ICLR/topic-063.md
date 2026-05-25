@@ -1,4 +1,4 @@
-# ICLR 2025: label / long-tailed / spurious / mixup
+# ICLR 2025: 长尾视觉识别与分类
 
 - Topic ID: `63`
 - Papers: **25** (0.68%)

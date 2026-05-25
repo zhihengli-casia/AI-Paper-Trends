@@ -12,7 +12,7 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 图神经网络与节点表示学习 | 53 | 4.48% | 理论/优化 | `graph / node / topological / embedding` | From Local Structures to Size Generalization in Graph Neural Networks |
-| [001](topic-001.md) | Conformal Prediction 与不确定性校准 | 50 | 4.23% | 系统/效率/压缩 | `meta-learning / transfer / fine-tuning / forgetting` | Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation |
+| [001](topic-001.md) | 少样本分类与开放集识别 | 50 | 4.23% | 系统/效率/压缩 | `meta-learning / transfer / fine-tuning / forgetting` | Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation |
 | [002](topic-002.md) | 强化学习策略与奖励建模 | 38 | 3.21% | 强化学习/决策 | `policy / reinforcement learning / exploration / function approximation` | Beyond Variance Reduction: Understanding the True Impact of Baselines on Policy Optimization |
 | [003](topic-003.md) | 在线学习与 regret 理论 | 36 | 3.04% | 强化学习/决策 | `regret / bandits / arm / reward` | An Algorithm for Stochastic and Adversarial Bandits with Switching Costs |
 | [004](topic-004.md) | 多智能体协作与规划 | 31 | 2.62% | 强化学习/决策 | `agents / multi-agent / reinforcement / coordination` | A New Formalism, Method and Open Issues for Zero-Shot Coordination |
@@ -33,7 +33,7 @@
 | [019](topic-019.md) | quantization / bit / compression / calibration | 19 | 1.61% | 系统/效率/压缩 | `quantization / bit / compression / calibration` | ActNN: Reducing Training Memory Footprint via 2-Bit Activation Compressed Training |
 | [020](topic-020.md) | pruning / sparse / winning / pruned | 19 | 1.61% | 系统/效率/压缩 | `pruning / sparse / winning / pruned` | Dense for the Price of Sparse: Improved Performance of Sparsely Initialized Networks via a Subspace Offset |
 | [021](topic-021.md) | clustering / submodular / medians / indices | 19 | 1.61% | 图学习/数据挖掘 | `clustering / submodular / medians / indices` | Correlation Clustering in Constant Many Parallel Rounds |
-| [022](topic-022.md) | label / classification / weak supervision / weakly supervised | 19 | 1.61% | 理论/优化 | `label / classification / weak supervision / weakly supervised` | Lower-Bounded Proper Losses for Weakly Supervised Classification |
+| [022](topic-022.md) | label / 分类 / weak supervision / weakly supervised | 19 | 1.61% | 理论/优化 | `label / classification / weak supervision / weakly supervised` | Lower-Bounded Proper Losses for Weakly Supervised Classification |
 | [023](topic-023.md) | instructions / reinforcement / 策略优化 / 视觉理解 | 19 | 1.61% | 强化学习/决策 | `instructions / reinforcement / policy / visual` | Actionable Models: Unsupervised Offline Reinforcement Learning of Robotic Skills |
 | [024](topic-024.md) | nas / search / architecture / accelerators | 19 | 1.61% | 理论/优化 | `nas / search / architecture / accelerators` | Neural Architecture Search without Training |
 | [025](topic-025.md) | contrastive / self-supervised / ssl / saliency | 18 | 1.52% | 其他/交叉主题 | `contrastive / self-supervised / ssl / saliency` | Toward Understanding the Feature Learning Process of Self-supervised Contrastive Learning |

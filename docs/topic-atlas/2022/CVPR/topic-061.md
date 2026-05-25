@@ -1,4 +1,4 @@
-# CVPR 2022: long-tailed / classes / minority / categories
+# CVPR 2022: 长尾 / classes / minority / categories
 
 - Topic ID: `61`
 - Papers: **15** (0.72%)

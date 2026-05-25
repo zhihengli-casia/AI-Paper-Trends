@@ -1,4 +1,4 @@
-# NeurIPS 2023: 医疗健康与临床 AI
+# NeurIPS 2023: 目标检测与图像分割
 
 - Topic ID: `1`
 - Papers: **70** (2.18%)

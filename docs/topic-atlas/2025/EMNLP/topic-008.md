@@ -1,4 +1,4 @@
-# EMNLP 2025: sft / classification / zeroth-order / supervised
+# EMNLP 2025: sft / 分类 / zeroth-order / supervised
 
 - Topic ID: `8`
 - Papers: **31** (1.71%)

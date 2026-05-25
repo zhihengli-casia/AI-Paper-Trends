@@ -1,4 +1,4 @@
-# MICCAI 2021: brain / lesion / mr images / instance
+# MICCAI 2021: 医学影像病灶分析
 
 - Topic ID: `3`
 - Papers: **9** (13.24%)

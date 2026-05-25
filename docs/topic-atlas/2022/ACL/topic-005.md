@@ -1,4 +1,4 @@
-# ACL 2022: prompt / tuning / few-shot / clip
+# ACL 2022: prompt / tuning / 少样本 / clip
 
 - Topic ID: `5`
 - Papers: **29** (4.14%)

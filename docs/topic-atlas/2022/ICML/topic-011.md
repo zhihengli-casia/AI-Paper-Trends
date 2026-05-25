@@ -1,4 +1,4 @@
-# ICML 2022: label / noisy / classification / transition matrix
+# ICML 2022: label / noisy / 分类 / transition matrix
 
 - Topic ID: `11`
 - Papers: **29** (2.35%)

@@ -1,4 +1,4 @@
-# CHI 2020: 医疗健康与临床 AI
+# CHI 2020: machine learning / 医学AI / explanations / prior
 
 - Topic ID: `17`
 - Papers: **17** (2.30%)

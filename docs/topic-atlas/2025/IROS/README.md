@@ -63,7 +63,7 @@
 | [048](topic-048.md) | visual-inertial / odometry / localization / anchors | 17 | 0.86% | 可信/安全/公平 | `visual-inertial / odometry / localization / anchors` | Robust Online Calibration for UWB-Aided Visual-Inertial Navigation with Bias Correction |
 | [050](topic-050.md) | 3D Gaussian Splatting 与场景重建 | 16 | 0.81% | 3D/具身/机器人 | `splatting / gaussian / slam / dense` | OVSG-SLAM: Open-Vocabulary Semantic Gaussian Splatting SLAM |
 | [051](topic-051.md) | 机器人操作与具身智能 | 16 | 0.81% | 3D/具身/机器人 | `design / aerial / uav / wings` | FLOAT Drone: A Fully-actuated Coaxial Aerial Robot for Close-Proximity Operations |
-| [052](topic-052.md) | 医疗健康与临床 AI | 16 | 0.81% | 计算机视觉 | `surgical / deformation / pose estimation / monocular` | SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning |
+| [052](topic-052.md) | 机器人操作与具身智能 | 16 | 0.81% | 计算机视觉 | `surgical / deformation / pose estimation / monocular` | SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning |
 | [060](topic-060.md) | 自动驾驶感知与世界模型 | 15 | 0.76% | 3D/具身/机器人 | `driving / autonomous / federated / control` | Scalable Offline Metrics for Autonomous Driving |
 | [054](topic-054.md) | 机器人操作与具身智能 | 15 | 0.76% | 强化学习/决策 | `gait / learning / reinforcement / control` | Human-In-the-loop Optimisation in Robot-Assisted Gait Training |
 | [055](topic-055.md) | 规划搜索与决策推理 | 15 | 0.76% | 强化学习/决策 | `grasping / gripper / task-oriented / dual-arm` | DG16M: A Large-Scale Dataset for Dual-Arm Grasping with Force-Optimized Grasps |

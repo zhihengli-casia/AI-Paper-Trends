@@ -1,4 +1,4 @@
-# AAAI 2024: few-shot / categories / classes / transfer
+# AAAI 2024: 少样本分类与开放集识别
 
 - Topic ID: `28`
 - Papers: **29** (1.24%)

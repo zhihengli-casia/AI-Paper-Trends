@@ -1,4 +1,4 @@
-# SIGIR 2021: nodes / graphs / few-shot / gcns
+# SIGIR 2021: 少样本分类与开放集识别
 
 - Topic ID: `7`
 - Papers: **9** (5.96%)

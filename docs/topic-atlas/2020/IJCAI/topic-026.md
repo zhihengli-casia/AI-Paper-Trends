@@ -1,4 +1,4 @@
-# IJCAI 2020: causal / event / health / functional
+# IJCAI 2020: causal / event / 健康AI / functional
 
 - Topic ID: `26`
 - Papers: **14** (1.80%)

@@ -18,7 +18,7 @@
 | [004](topic-004.md) | 深度估计与立体匹配 | 54 | 2.31% | 系统/效率/压缩 | `relu / width / ntk / neural network` | Towards Lower Bounds on the Depth of ReLU Neural Networks |
 | [005](topic-005.md) | 强化学习策略与奖励建模 | 52 | 2.23% | 强化学习/决策 | `reinforcement learning / planning / environments / agent` | Heuristic-Guided Reinforcement Learning |
 | [006](topic-006.md) | 隐私保护与安全学习 | 51 | 2.19% | 可信/安全/公平 | `privacy / private / differentially / quantum` | Differentially Private Sampling from Distributions |
-| [007](topic-007.md) | continual / meta-learning / forgetting / few-shot | 51 | 2.19% | 系统/效率/压缩 | `continual / meta-learning / forgetting / few-shot` | Online Meta-Learning via Learning with Layer-Distributed Memory |
+| [007](topic-007.md) | continual / meta-learning / forgetting / 少样本 | 51 | 2.19% | 系统/效率/压缩 | `continual / meta-learning / forgetting / few-shot` | Online Meta-Learning via Learning with Layer-Distributed Memory |
 | [008](topic-008.md) | 随机优化与收敛理论 | 45 | 1.93% | 理论/优化 | `regression / ridge / sgd / regularization` | The Benefits of Implicit Regularization from SGD in Least Squares Problems |
 | [009](topic-009.md) | 图神经网络与图表示学习 | 44 | 1.89% | 图学习/数据挖掘 | `graph / gnns / node / link prediction` | Nested Graph Neural Networks |
 | [010](topic-010.md) | 强化学习与 MDP 理论 | 44 | 1.89% | 强化学习/决策 | `policy / offline / reinforcement / ope` | Near-Optimal Offline Reinforcement Learning via Double Variance Reduction |
@@ -95,7 +95,7 @@
 | [081](topic-081.md) | image / synthesis / editing / transformer | 12 | 0.51% | 计算机视觉 | `image / synthesis / editing / transformer` | Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers |
 | [082](topic-082.md) | 时间序列建模与预测 | 12 | 0.51% | 可信/安全/公平 | `time series / forecasting / time-series / forecasts` | Probabilistic Transformer For Time Series Analysis |
 | [083](topic-083.md) | 强化学习算法与理论 | 12 | 0.51% | 强化学习/决策 | `reinforcement learning / sample-efficient / learning rl / regret` | Sample-Efficient Reinforcement Learning Is Feasible for Linearly Realizable MDPs with Limited Revisiting |
-| [084](topic-084.md) | 医疗健康与临床 AI | 12 | 0.51% | 图学习/数据挖掘 | `reasoning / knowledge graph / cone / multi-hop` | Modeling Heterogeneous Hierarchies with Relation-specific Hyperbolic Cones |
+| [084](topic-084.md) | 知识图谱推理与表示学习 | 12 | 0.51% | 图学习/数据挖掘 | `reasoning / knowledge graph / cone / multi-hop` | Modeling Heterogeneous Hierarchies with Relation-specific Hyperbolic Cones |
 | [085](topic-085.md) | 图神经网络与图表示学习 | 11 | 0.47% | 图学习/数据挖掘 | `graph / contrastive / views / drug` | Directed Graph Contrastive Learning |
 | [086](topic-086.md) | vqa / 视觉理解 / modalities / multi-modal | 11 | 0.47% | 多模态/VLM | `vqa / visual / modalities / multi-modal` | Debiased Visual Question Answering from Feature and Sample Perspectives |
 | [087](topic-087.md) | bayesian optimization / acquisition function / expected improvement / hyperparameter | 11 | 0.47% | 理论/优化 | `bayesian optimization / acquisition function / expected improvement / hyperparameter` | Multi-Step Budgeted Bayesian Optimization with Unknown Evaluation Costs |

@@ -1,4 +1,4 @@
-# IJCV 2021: 医疗健康与临床 AI
+# IJCV 2021: special issue / computer / vision / editorial
 
 - Topic ID: `12`
 - Papers: **6** (4.51%)

@@ -43,7 +43,7 @@
 | [029](topic-029.md) | 图像复原与超分辨率 | 46 | 1.11% | 计算机视觉 | `restoration / image / super-resolution / flare` | Seeing Through the Rain: Resolving High-Frequency Conflicts in Deraining and Super-Resolution via Diffusion Guidance |
 | [030](topic-030.md) | 多语言建模与跨语言迁移 | 46 | 1.11% | LLM/语言模型 | `llms / multilingual / languages / chinese` | Multi-level Style Preference Optimization: An Adaptive Detection Framework for Human-Machine Hybrid Text |
 | [031](topic-031.md) | 点云表示与 3D 感知 | 45 | 1.08% | 多模态/VLM | `point cloud / geometric / clouds / scene` | PointMC: Multi-view Consistent Encoding and Center-Global Feature Fusion for Point Clouds Understanding |
-| [032](topic-032.md) | 医疗健康与临床 AI | 45 | 1.08% | 多模态/VLM | `medical / clinical / diagnosis / diagnostic` | MedOmni-45°: A Safety–Performance Benchmark for Reasoning-Oriented LLMs in Medicine |
+| [032](topic-032.md) | 病理图像与临床 AI | 45 | 1.08% | 多模态/VLM | `medical / clinical / diagnosis / diagnostic` | MedOmni-45°: A Safety–Performance Benchmark for Reasoning-Oriented LLMs in Medicine |
 | [035](topic-035.md) | forgery / image / ai-generated / deepfake | 43 | 1.04% | 多模态/VLM | `forgery / image / ai-generated / deepfake` | Identity-Aware Vision-Language Model for Explainable Face Forgery Detection |
 | [036](topic-036.md) | 具身智能与物理交互 | 43 | 1.04% | 强化学习/决策 | `gui / agents / embodied / grounding` | How Foundational Skills Influence VLM-based Embodied Agents: A Native Perspective |
 | [033](topic-033.md) | asp / proof / sat / ltlf | 43 | 1.04% | 系统/效率/压缩 | `asp / proof / sat / ltlf` | Proof Systems That Tightly Characterise Model Counting Algorithms |

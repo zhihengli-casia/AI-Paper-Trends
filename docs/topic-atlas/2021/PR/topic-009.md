@@ -1,4 +1,4 @@
-# PR 2021: few-shot / zero-shot / classification / discriminative
+# PR 2021: 少样本分类与开放集识别
 
 - Topic ID: `9`
 - Papers: **19** (3.23%)

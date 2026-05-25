@@ -54,7 +54,7 @@
 | [040](topic-040.md) | 自动驾驶感知与世界模型 | 17 | 1.05% | 计算机视觉 | `road / traffic / driving / vehicle` | Robust 2D/3D Vehicle Parsing in Arbitrary Camera Views for CVIS |
 | [041](topic-041.md) | 图像复原与超分辨率 | 17 | 1.05% | 计算机视觉 | `super-resolution / channel / sisr / domain` | Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective |
 | [042](topic-042.md) | 图像复原与超分辨率 | 17 | 1.05% | 计算机视觉 | `event / spike / deblurring / cameras` | Event Stream Super-Resolution via Spatiotemporal Constraint Learning |
-| [043](topic-043.md) | few-shot / meta-learning / classes / base | 17 | 1.05% | 计算机视觉 | `few-shot / meta-learning / classes / base` | Few-Shot Image Classification: Just Use a Library of Pre-Trained Feature Extractors and a Simple Classifier |
+| [043](topic-043.md) | 少样本 / meta-learning / classes / base | 17 | 1.05% | 计算机视觉 | `few-shot / meta-learning / classes / base` | Few-Shot Image Classification: Just Use a Library of Pre-Trained Feature Extractors and a Simple Classifier |
 | [044](topic-044.md) | 深度估计与立体匹配 | 16 | 0.99% | 计算机视觉 | `amodal / instance / unsupervised / depth` | Unsupervised Layered Image Decomposition Into Object Prototypes |
 | [045](topic-045.md) | NeRF 与神经渲染 | 16 | 0.99% | 3D/具身/机器人 | `radiance / nerf / scene / fields` | GRF: Learning a General Radiance Field for 3D Representation and Rendering |
 | [046](topic-046.md) | attribution / cam / explanations / activation | 16 | 0.99% | 计算机视觉 | `attribution / cam / explanations / activation` | Towards Better Explanations of Class Activation Mapping |
@@ -70,7 +70,7 @@
 | [056](topic-056.md) | continual / replay / incremental / forgetting | 13 | 0.81% | 计算机视觉 | `continual / replay / incremental / forgetting` | Online Continual Learning With Natural Distribution Shifts: An Empirical Study With Visual Data |
 | [057](topic-057.md) | 深度估计与立体匹配 | 13 | 0.81% | 计算机视觉 | `domain / adaptation / semantic segmentation / uda` | Multi-Target Adversarial Frameworks for Domain Adaptation in Semantic Segmentation |
 | [058](topic-058.md) | 多智能体协作与规划 | 13 | 0.81% | 强化学习/决策 | `trajectory / forecasting / trajectories / agents` | Where Are You Heading? Dynamic Trajectory Prediction With Expert Goal Examples |
-| [059](topic-059.md) | 医疗健康与临床 AI | 13 | 0.81% | LLM/语言模型 | `retrieval / product / cross-modal / query` | Image Retrieval on Real-Life Images With Pre-Trained Vision-and-Language Models |
+| [059](topic-059.md) | 查询理解与检索优化 | 13 | 0.81% | LLM/语言模型 | `retrieval / product / cross-modal / query` | Image Retrieval on Real-Life Images With Pre-Trained Vision-and-Language Models |
 | [060](topic-060.md) | domain / adaptation / detection / detectors | 13 | 0.81% | 计算机视觉 | `domain / adaptation / detection / detectors` | Seeking Similarities Over Differences: Similarity-Based Domain Alignment for Adaptive Object Detection |
 | [061](topic-061.md) | 自动驾驶感知与世界模型 | 13 | 0.81% | 3D/具身/机器人 | `motion / driving / vehicles / autonomous` | Prediction by Anticipation: An Action-Conditional Prediction Method Based on Interaction Learning |
 | [065](topic-065.md) | style / transfer / artistic / content | 12 | 0.74% | 生成模型 | `style / transfer / artistic / content` | StyleFormer: Real-Time Arbitrary Style Transfer via Parametric Style Composition |
@@ -81,12 +81,12 @@
 | [066](topic-066.md) | 对抗攻击、鲁棒性与安全 | 12 | 0.74% | 理论/优化 | `adversarial / robustness / examples / attacks` | Robustness and Generalization via Generative Adversarial Training |
 | [067](topic-067.md) | vqa / question answering / visual question / questions | 12 | 0.74% | 多模态/VLM | `vqa / question answering / visual question / questions` | Contrast and Classify: Training Robust VQA Models |
 | [069](topic-069.md) | 目标检测与图像分割 | 11 | 0.68% | 计算机视觉 | `ood / open-set / semantic segmentation / out-of-distribution` | Entropy Maximization and Meta Classification for Out-of-Distribution Detection in Semantic Segmentation |
-| [070](topic-070.md) | 医疗健康与临床 AI | 11 | 0.68% | 可信/安全/公平 | `auc / dam / spaces / few-shot learning` | von Mises-Fisher Loss: An Exploration of Embedding Geometries for Supervised Learning |
+| [070](topic-070.md) | 医学影像分析 | 11 | 0.68% | 可信/安全/公平 | `auc / dam / spaces / few-shot learning` | von Mises-Fisher Loss: An Exploration of Embedding Geometries for Supervised Learning |
 | [071](topic-071.md) | view synthesis / 视频理解/生成 / jpeg / stabilization | 11 | 0.68% | 计算机视觉 | `view synthesis / video / jpeg / stabilization` | Deep 3D Mask Volume for View Synthesis of Dynamic Scenes |
 | [072](topic-072.md) | metric learning / deep metric / similarity / manifold | 11 | 0.68% | 计算机视觉 | `metric learning / deep metric / similarity / manifold` | Towards Interpretable Deep Metric Learning With Structural Matching |
 | [075](topic-075.md) | NeRF 与神经渲染 | 10 | 0.62% | 计算机视觉 | `nerf / radiance / rendering / fields` | Baking Neural Radiance Fields for Real-Time View Synthesis |
 | [073](topic-073.md) | tomography / scattering / reconstruction / volumetric | 10 | 0.62% | 其他/交叉主题 | `tomography / scattering / reconstruction / volumetric` | 3DeepCT: Learning Volumetric Scattering Tomography of Clouds |
-| [074](topic-074.md) | long-tailed / classes / recognition / head | 10 | 0.62% | 计算机视觉 | `long-tailed / classes / recognition / head` | Self Supervision to Distillation for Long-Tailed Visual Recognition |
+| [074](topic-074.md) | 长尾 / classes / recognition / head | 10 | 0.62% | 计算机视觉 | `long-tailed / classes / recognition / head` | Self Supervision to Distillation for Long-Tailed Visual Recognition |
 | [076](topic-076.md) | pose / category-level / objects / estimation | 10 | 0.62% | 3D/具身/机器人 | `pose / category-level / objects / estimation` | Holistic Pose Graph: Modeling Geometric Structure Among Objects in a Scene Using Graph Inference for 3D Object Prediction |
 | [079](topic-079.md) | editing / latent / directions / gan | 10 | 0.62% | 生成模型 | `editing / latent / directions / gan` | Latent Transformations via NeuralODEs for GAN-Based Image Editing |
 | [078](topic-078.md) | 文档摘要与信息压缩 | 10 | 0.62% | 计算机视觉 | `highlight / video / detection / temporal` | Temporal Cue Guided Video Highlight Detection With Low-Rank Audio-Visual Fusion |

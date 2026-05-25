@@ -1,4 +1,4 @@
-# MICCAI 2024: 医疗健康与临床 AI
+# MICCAI 2024: chest / x-ray / progression / detection
 
 - Topic ID: `0`
 - Papers: **17** (23.94%)

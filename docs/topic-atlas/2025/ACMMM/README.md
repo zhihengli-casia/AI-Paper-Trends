@@ -63,7 +63,7 @@
 | [046](topic-046.md) | 文生图生成与个性化编辑 | 11 | 0.88% | 生成模型 | `t2i / harmful / concept / gender` | Mitigating Stereotypes in Text-to-Image Generation: A Novel Perspective of Selective Neural Suppression |
 | [050](topic-050.md) | 视觉语言模型与多模态理解 | 11 | 0.88% | 多模态/VLM | `medical / vqa / clinical / incremental` | MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks |
 | [051](topic-051.md) | recipes / estimation / assessment / lvms | 10 | 0.80% | 多模态/VLM | `recipes / estimation / assessment / lvms` | RecipeRAG: Advancing Recipe Generation with Reinforced Retrieval Augmented Generation |
-| [052](topic-052.md) | ood / long-tailed / semi-supervised learning / ssl | 10 | 0.80% | 多模态/VLM | `ood / long-tailed / semi-supervised learning / ssl` | DARL: Mitigating Gradient Conflicts in Long-Tailed Out-of-Distribution Learning |
+| [052](topic-052.md) | ood / 长尾 / semi-supervised learning / ssl | 10 | 0.80% | 多模态/VLM | `ood / long-tailed / semi-supervised learning / ssl` | DARL: Mitigating Gradient Conflicts in Long-Tailed Out-of-Distribution Learning |
 | [053](topic-053.md) | 视觉语言模型与多模态理解 | 10 | 0.80% | 多模态/VLM | `test-time adaptation / shifts / quantized / domain` | Test-Time Adaptation of Medical Vision-Language Models with Mixture of Modality Experts |
 | [054](topic-054.md) | 对抗攻击、鲁棒性与安全 | 10 | 0.80% | 可信/安全/公平 | `backdoor / attacks / defense / triggers` | BadMDA: Towards Backdoor Injection during Domain Adaptation to Collapse Multi-Agent Perception |
 | [055](topic-055.md) | 视频理解/生成 / 推理 / counterfactual / sports | 10 | 0.80% | LLM/语言模型 | `video / reasoning / counterfactual / sports` | Gather and Trace: Rethinking Video TextVQA from an Instance-oriented Perspective |

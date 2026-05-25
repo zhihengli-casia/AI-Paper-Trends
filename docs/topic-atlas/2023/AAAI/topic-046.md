@@ -1,4 +1,4 @@
-# AAAI 2023: multi-view / multi-label / classification / views
+# AAAI 2023: 长尾视觉识别与分类
 
 - Topic ID: `46`
 - Papers: **16** (1.02%)

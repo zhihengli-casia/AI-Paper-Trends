@@ -11,7 +11,7 @@
 
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
-| [000](topic-000.md) | contrastive / clustering / classification / unsupervised | 48 | 2.89% | 计算机视觉 | `contrastive / clustering / classification / unsupervised` | Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination |
+| [000](topic-000.md) | contrastive / clustering / 分类 / unsupervised | 48 | 2.89% | 计算机视觉 | `contrastive / clustering / classification / unsupervised` | Unsupervised Feature Learning by Cross-Level Instance-Group Discrimination |
 | [001](topic-001.md) | 目标检测与图像分割 | 46 | 2.77% | 计算机视觉 | `segmentation / instance / mask / objects` | UniT: Unified Knowledge Transfer for Any-Shot Object Detection and Segmentation |
 | [002](topic-002.md) | 视频动作生成与运动控制 | 43 | 2.59% | 计算机视觉 | `action / temporal / video / recognition` | Weakly Supervised Action Selection Learning in Video |
 | [003](topic-003.md) | search / nas / neural architecture / scaling | 40 | 2.41% | 系统/效率/压缩 | `search / nas / neural architecture / scaling` | NetAdaptV2: Efficient Neural Architecture Search With Fast Super-Network Training and Architecture Optimization |
@@ -19,7 +19,7 @@
 | [005](topic-005.md) | NeRF 与神经渲染 | 32 | 1.93% | 计算机视觉 | `rendering / view / radiance / scene` | IBRNet: Learning Multi-View Image-Based Rendering |
 | [006](topic-006.md) | face / facial / person / age | 30 | 1.81% | 生成模型 | `face / facial / person / age` | Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement |
 | [007](topic-007.md) | 自动驾驶感知与世界模型 | 29 | 1.75% | 多模态/VLM | `trajectory / traffic / driving / motion` | LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents |
-| [008](topic-008.md) | few-shot / classes / open-set / samples | 29 | 1.75% | 计算机视觉 | `few-shot / classes / open-set / samples` | Rethinking Class Relations: Absolute-Relative Supervised and Unsupervised Few-Shot Learning |
+| [008](topic-008.md) | 少样本细粒度视觉识别 | 29 | 1.75% | 计算机视觉 | `few-shot / classes / open-set / samples` | Rethinking Class Relations: Absolute-Relative Supervised and Unsupervised Few-Shot Learning |
 | [009](topic-009.md) | style / transfer / makeup / content | 28 | 1.69% | 可信/安全/公平 | `style / transfer / makeup / content` | Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes |
 | [010](topic-010.md) | 深度估计与立体匹配 | 28 | 1.69% | 计算机视觉 | `super-resolution / blind / kernel / low-resolution lr` | ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic |
 | [011](topic-011.md) | 深度估计与立体匹配 | 27 | 1.63% | 计算机视觉 | `depth / completion / radar / estimation` | Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging |
@@ -73,10 +73,10 @@
 | [059](topic-059.md) | 查询理解与检索优化 | 14 | 0.84% | 推荐/检索/排序 | `attack / adversarial / black-box / transferability` | Simulating Unknown Target Models for Query-Efficient Black-Box Attacks |
 | [062](topic-062.md) | perceptual / interpretation / focal / perturbations | 13 | 0.78% | 可信/安全/公平 | `perceptual / interpretation / focal / perturbations` | Generic Perceptual Loss for Modeling Structured Output Dependencies |
 | [060](topic-060.md) | 视频理解/生成 / temporal / upscaling / selfie | 13 | 0.78% | 计算机视觉 | `video / temporal / upscaling / selfie` | 2D or not 2D? Adaptive 3D Convolution Selection for Efficient Video Recognition |
-| [061](topic-061.md) | 医疗健康与临床 AI | 13 | 0.78% | 计算机视觉 | `disease / lesion / medical / surgical` | Learning Calibrated Medical Image Segmentation via Multi-Rater Agreement Modeling |
+| [061](topic-061.md) | 医学影像病灶分析 | 13 | 0.78% | 计算机视觉 | `disease / lesion / medical / surgical` | Learning Calibrated Medical Image Segmentation via Multi-Rater Agreement Modeling |
 | [064](topic-064.md) | 搜索排序与相关性建模 | 13 | 0.78% | 计算机视觉 | `nms / ranking / camouflaged / object detection` | RankDetNet: Delving Into Ranking Constraints for Object Detection |
 | [065](topic-065.md) | 查询理解与检索优化 | 13 | 0.78% | 语音/音频/音乐 | `moment / video / event / sentence` | Structured Multi-Level Interaction Network for Video Moment Localization via Language Query |
-| [063](topic-063.md) | 目标检测与图像分割 | 13 | 0.78% | 计算机视觉 | `few-shot / distillation / object detection / student` | Generalized Few-Shot Object Detection Without Forgetting |
+| [063](topic-063.md) | 少样本分类与开放集识别 | 13 | 0.78% | 计算机视觉 | `few-shot / distillation / object detection / student` | Generalized Few-Shot Object Detection Without Forgetting |
 | [066](topic-066.md) | LiDAR 点云与 3D 感知 | 12 | 0.72% | 3D/具身/机器人 | `lidar / panoptic / point / segmentation` | LiDAR R-CNN: An Efficient and Universal 3D Object Detector |
 | [067](topic-067.md) | gaze / interaction / human-object / affordance | 11 | 0.66% | HCI/社会计算 | `gaze / interaction / human-object / affordance` | Reformulating HOI Detection As Adaptive Set Prediction |
 | [068](topic-068.md) | 深度估计与立体匹配 | 11 | 0.66% | 多模态/VLM | `saliency / salient object / rgb-d / mesh` | CAMERAS: Enhanced Resolution and Sanity Preserving Class Activation Mapping for Image Saliency |
@@ -87,7 +87,7 @@
 | [071](topic-071.md) | 图神经网络与图表示学习 | 10 | 0.60% | 图学习/数据挖掘 | `hyperbolic / graph / opt / node` | Bi-GCN: Binary Graph Convolutional Network |
 | [074](topic-074.md) | 对抗攻击、鲁棒性与安全 | 10 | 0.60% | 可信/安全/公平 | `attack / physical / adversarial / backdoor` | Invisible Perturbations: Physical Adversarial Examples Exploiting the Rolling Shutter Effect |
 | [078](topic-078.md) | 深度估计与立体匹配 | 10 | 0.60% | 3D/具身/机器人 | `layout / indoor / room / panorama` | SSLayout360: Semi-Supervised Indoor Layout Estimation From 360deg Panorama |
-| [076](topic-076.md) | 医疗健康与临床 AI | 10 | 0.60% | 计算机视觉 | `mr image / clinical / resonance / magnetic` | Learning-Based Image Registration With Meta-Regularization |
+| [076](topic-076.md) | 医学影像病灶分析 | 10 | 0.60% | 计算机视觉 | `mr image / clinical / resonance / magnetic` | Learning-Based Image Registration With Meta-Regularization |
 | [075](topic-075.md) | 句法语义解析与结构化表示 | 10 | 0.60% | NLP任务 | `student / teacher / distillation / try-on` | Distilling Knowledge via Knowledge Review |
 | [077](topic-077.md) | 对抗攻击、鲁棒性与安全 | 10 | 0.60% | 生成模型 | `layout / generation / relationships / aesthetics` | LayoutTransformer: Scene Layout Generation With Conceptual and Spatial Diversity |
 | [082](topic-082.md) | 目标检测与图像分割 | 9 | 0.54% | 计算机视觉 | `grounding / referring / expression / language` | Locate Then Segment: A Strong Pipeline for Referring Image Segmentation |
@@ -100,7 +100,7 @@
 | [083](topic-083.md) | batch / normalization / whitening / metadata | 9 | 0.54% | 系统/效率/压缩 | `batch / normalization / whitening / metadata` | Stochastic Whitening Batch Normalization |
 | [087](topic-087.md) | 深度估计与立体匹配 | 8 | 0.48% | 可信/安全/公平 | `stereo / disparity / volume / matching` | HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching |
 | [088](topic-088.md) | functional / shape correspondence / geodesic / correspondences | 8 | 0.48% | 系统/效率/压缩 | `functional / shape correspondence / geodesic / correspondences` | Fast Sinkhorn Filters: Using Matrix Scaling for Non-Rigid Shape Correspondence With Functional Maps |
-| [089](topic-089.md) | long-tailed / visual recognition / label distribution / categories | 8 | 0.48% | 计算机视觉 | `long-tailed / visual recognition / label distribution / categories` | Distribution Alignment: A Unified Framework for Long-Tail Visual Recognition |
+| [089](topic-089.md) | 长尾 / visual recognition / label distribution / categories | 8 | 0.48% | 计算机视觉 | `long-tailed / visual recognition / label distribution / categories` | Distribution Alignment: A Unified Framework for Long-Tail Visual Recognition |
 | [090](topic-090.md) | 目标检测与图像分割 | 8 | 0.48% | 计算机视觉 | `anomaly / anomalous / normal / detection video` | Anomaly Detection in Video via Self-Supervised and Multi-Task Learning |
 | [091](topic-091.md) | pruning / redundancy / sub-networks / filters | 8 | 0.48% | 系统/效率/压缩 | `pruning / redundancy / sub-networks / filters` | Effective Sparsification of Neural Networks With Global Sparsity Constraint |
 | [092](topic-092.md) | 攻击、防御与模型安全 | 8 | 0.48% | 可信/安全/公平 | `privacy / sensitive / defense / forgetting` | Scalable Differential Privacy With Sparse Network Finetuning |

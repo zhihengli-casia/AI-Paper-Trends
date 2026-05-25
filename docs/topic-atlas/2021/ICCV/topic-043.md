@@ -1,4 +1,4 @@
-# ICCV 2021: few-shot / meta-learning / classes / base
+# ICCV 2021: 少样本 / meta-learning / classes / base
 
 - Topic ID: `43`
 - Papers: **17** (1.05%)

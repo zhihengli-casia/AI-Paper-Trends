@@ -1,4 +1,4 @@
-# ECCV 2020: few-shot / meta-learning / classes / classification
+# ECCV 2020: 少样本分类与开放集识别
 
 - Topic ID: `10`
 - Papers: **27** (1.99%)

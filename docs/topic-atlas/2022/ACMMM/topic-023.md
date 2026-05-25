@@ -1,4 +1,4 @@
-# ACMMM 2022: 医疗健康与临床 AI
+# ACMMM 2022: document / vqa / ocr / question
 
 - Topic ID: `23`
 - Papers: **13** (1.88%)

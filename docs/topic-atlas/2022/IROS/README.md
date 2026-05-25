@@ -44,7 +44,7 @@
 | [031](topic-031.md) | 机器人操作与具身智能 | 16 | 1.33% | 3D/具身/机器人 | `magnetic / soft / robot / continuum` | Ultrasound Tracking and Closed-Loop Control of a Magnetically-Actuated Biomimetic Soft Robot |
 | [030](topic-030.md) | deformable / objects / linear / learning | 16 | 1.33% | 强化学习/决策 | `deformable / objects / linear / learning` | Feel the Tension: Manipulation of Deformable Linear Objects in Environments with Fixtures using Force Information |
 | [033](topic-033.md) | 规划搜索与决策推理 | 16 | 1.33% | 强化学习/决策 | `navigation / deep / learning / reinforcement` | Speeding Up Optimization-based Motion Planning through Deep Learning |
-| [032](topic-032.md) | tactile / sensing / contact / classification | 16 | 1.33% | 3D/具身/机器人 | `tactile / sensing / contact / classification` | The Role of Tactile Sensing in Learning and Deploying Grasp Refinement Algorithms |
+| [032](topic-032.md) | tactile / sensing / contact / 分类 | 16 | 1.33% | 3D/具身/机器人 | `tactile / sensing / contact / classification` | The Role of Tactile Sensing in Learning and Deploying Grasp Refinement Algorithms |
 | [034](topic-034.md) | sound / teaching / learning / bimanual | 15 | 1.25% | 语音/音频/音乐 | `sound / teaching / learning / bimanual` | Imitation of Manipulation Skills Using Multiple Geometries |
 | [035](topic-035.md) | 自动驾驶感知与世界模型 | 15 | 1.25% | 3D/具身/机器人 | `surgery / robot-assisted / surgical / needle` | Towards Autonomous Control of Surgical Instruments using Adaptive-Fusion Tracking and Robot Self-Calibration |
 | [036](topic-036.md) | 机器人操作与具身智能 | 15 | 1.25% | 3D/具身/机器人 | `interface / humanoid / reality / design` | A-RIFT: Visual Substitution of Force Feedback for a Zero-Cost Interface in Telemanipulation |

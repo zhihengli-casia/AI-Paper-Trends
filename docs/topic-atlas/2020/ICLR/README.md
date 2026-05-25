@@ -19,7 +19,7 @@
 | [005](topic-005.md) | 语音/音频语言模型 | 25 | 3.64% | 生成模型 | `generative / gan / adversarial networks / generation` | Controlling generative models with continuous factors of variations |
 | [006](topic-006.md) | 对抗攻击、鲁棒性与安全 | 25 | 3.64% | 可信/安全/公平 | `adversarial / robustness / attacks / examples` | Improving Adversarial Robustness Requires Revisiting Misclassified Examples |
 | [007](topic-007.md) | 神经网络理论、NTK 与宽度分析 | 24 | 3.49% | 其他/交叉主题 | `ntk / relu / tangent / activation` | Beyond Linearization: On Quadratic and Higher-Order Approximation of Wide Neural Networks |
-| [008](topic-008.md) | meta-learning / few-shot / domain / bayesian | 22 | 3.20% | 计算机视觉 | `meta-learning / few-shot / domain / bayesian` | Meta-Learning without Memorization |
+| [008](topic-008.md) | meta-learning / 少样本 / domain / bayesian | 22 | 3.20% | 计算机视觉 | `meta-learning / few-shot / domain / bayesian` | Meta-Learning without Memorization |
 | [009](topic-009.md) | 对抗攻击、鲁棒性与安全 | 22 | 3.20% | 可信/安全/公平 | `attack / adversarial / federated / privacy` | Black-Box Adversarial Attack with Transferable Model-based Embedding |
 | [010](topic-010.md) | exploration / reinforcement / navigation / 智能体 | 22 | 3.20% | 强化学习/决策 | `exploration / reinforcement / navigation / agent` | Never Give Up: Learning Directed Exploration Strategies |
 | [011](topic-011.md) | 图神经网络与节点表示学习 | 20 | 2.91% | 图学习/数据挖掘 | `graph / node / embedding / clustering` | Inductive and Unsupervised Representation Learning on Graph Structured Objects |

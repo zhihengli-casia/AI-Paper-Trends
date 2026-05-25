@@ -74,7 +74,7 @@
 | [060](topic-060.md) | 扩散生成模型 | 26 | 0.70% | 生成模型 | `forecasting / weather / time series / dynamical` | Zero-shot forecasting of chaotic systems |
 | [061](topic-061.md) | 蛋白质建模与 AI4Science | 26 | 0.70% | LLM/语言模型 | `gene / ecg / dna / biological` | Hyperbolic Genome Embeddings |
 | [062](topic-062.md) | safety / guardrail / harmful / alignment | 25 | 0.68% | LLM/语言模型 | `safety / guardrail / harmful / alignment` | Understanding and Enhancing Safety Mechanisms of LLMs via Safety-Specific Neuron |
-| [063](topic-063.md) | label / long-tailed / spurious / mixup | 25 | 0.68% | 计算机视觉 | `label / long-tailed / spurious / mixup` | For Better or For Worse? Learning Minimum Variance Features With Label Augmentation |
+| [063](topic-063.md) | 长尾视觉识别与分类 | 25 | 0.68% | 计算机视觉 | `label / long-tailed / spurious / mixup` | For Better or For Worse? Learning Minimum Variance Features With Label Augmentation |
 | [064](topic-064.md) | quantization / ptq / bit / binarization | 25 | 0.68% | LLM/语言模型 | `quantization / ptq / bit / binarization` | CBQ: Cross-Block Quantization for Large Language Models |
 | [065](topic-065.md) | 扩散生成模型 | 25 | 0.68% | 生成模型 | `watermarking / watermarks / purification / ai-generated` | An Undetectable Watermark for Generative Image Models |
 | [066](topic-066.md) | 机器人操作与具身智能 | 25 | 0.68% | 3D/具身/机器人 | `manipulation / robot / dexterous / objects` | Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation |
@@ -99,7 +99,7 @@
 | [084](topic-084.md) | cortex / neurons / brain / neuroscience | 20 | 0.54% | 计算机视觉 | `cortex / neurons / brain / neuroscience` | Beyond single neurons: population response geometry in digital twins of mouse visual cortex |
 | [085](topic-085.md) | 双层优化与元学习 | 20 | 0.54% | 理论/优化 | `bilevel / pareto / multi-objective optimization / offline` | qNBO: quasi-Newton Meets Bilevel Optimization |
 | [088](topic-088.md) | 神经网络理论与优化行为 | 20 | 0.54% | 理论/优化 | `bounds / grokking / gaussian / relu` | Generalizability of Neural Networks Minimizing Empirical Risk Based on Expressive Power |
-| [089](topic-089.md) | 医疗健康与临床 AI | 20 | 0.54% | LLM/语言模型 | `llms / factuality / faithfulness / attribution` | Walk the Talk? Measuring the Faithfulness of Large Language Model Explanations |
+| [089](topic-089.md) | 大语言模型 / factuality / faithfulness / attribution | 20 | 0.54% | LLM/语言模型 | `llms / factuality / faithfulness / attribution` | Walk the Talk? Measuring the Faithfulness of Large Language Model Explanations |
 | [090](topic-090.md) | 扩散生成模型 | 20 | 0.54% | LLM/语言模型 | `diffusion / discrete / mdms / autoregressive` | Scaling Diffusion Language Models via Adaptation from Autoregressive Models |
 | [087](topic-087.md) | 规划搜索与决策推理 | 20 | 0.54% | 强化学习/决策 | `agents / software / multi-agent / swe-bench` | Automated Design of Agentic Systems |
 | [091](topic-091.md) | 隐私保护与安全学习 | 19 | 0.51% | LLM/语言模型 | `unlearning / memorization / detoxification / llms` | Towards Effective Evaluations and Comparisons for LLM Unlearning Methods |

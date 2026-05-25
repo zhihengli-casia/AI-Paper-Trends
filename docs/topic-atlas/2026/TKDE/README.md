@@ -12,7 +12,7 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 图神经网络与图表示学习 | 44 | 17.60% | 图学习/数据挖掘 | `node / tex-math / inline-formula / detection` | Towards Data-Centric Machine Learning on Directed Graphs: A Survey |
-| [001](topic-001.md) | 扩散生成模型 | 28 | 11.20% | 生成模型 | `series / forecasting / spatio-temporal / anomaly` | Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review |
+| [001](topic-001.md) | 医疗健康与临床 AI | 28 | 11.20% | 生成模型 | `series / forecasting / spatio-temporal / anomaly` | Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review |
 | [002](topic-002.md) | 知识图谱推理与表示学习 | 26 | 10.40% | LLM/语言模型 | `distillation / reasoning / entities / llms` | Passing on Wisdom: LLM-Driven Cascaded Knowledge Distillation for Sequential Recommendation |
 | [003](topic-003.md) | clustering / fuzzy / matrix / spectral | 17 | 6.80% | 图学习/数据挖掘 | `clustering / fuzzy / matrix / spectral` | Beyond Predefined Clusters: A Comprehensive Review of Clustering Methods for Unknown Cluster Numbers |
 | [004](topic-004.md) | clustering / anchor / tensor / hashing | 17 | 6.80% | 图学习/数据挖掘 | `clustering / anchor / tensor / hashing` | Tensorial Multi-View Clustering via Alternative Rank Minimization and Inter-View Alignment |

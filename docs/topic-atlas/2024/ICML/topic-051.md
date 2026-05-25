@@ -1,4 +1,4 @@
-# ICML 2024: collapse / mutual information / entropy / classification
+# ICML 2024: collapse / mutual information / entropy / 分类
 
 - Topic ID: `51`
 - Papers: **22** (0.84%)

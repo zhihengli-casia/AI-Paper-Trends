@@ -1,4 +1,4 @@
-# ACMMM 2025: ood / long-tailed / semi-supervised learning / ssl
+# ACMMM 2025: ood / 长尾 / semi-supervised learning / ssl
 
 - Topic ID: `52`
 - Papers: **10** (0.80%)

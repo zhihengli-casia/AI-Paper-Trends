@@ -1,4 +1,4 @@
-# ICCV 2025: classes / label / long-tailed / ssl
+# ICCV 2025: 长尾视觉识别与分类
 
 - Topic ID: `51`
 - Papers: **22** (0.81%)

@@ -16,7 +16,7 @@
 | [002](topic-002.md) | 多语言建模与跨语言迁移 | 33 | 4.71% | NLP任务 | `translation / nmt / neural machine / language pairs` | Towards Making the Most of Cross-Lingual Transfer for Zero-Shot Neural Machine Translation |
 | [003](topic-003.md) | dialogue / response / task-oriented / tracking | 32 | 4.57% | 计算机视觉 | `dialogue / response / task-oriented / tracking` | Achieving Reliable Human Assessment of Open-Domain Dialogue Systems |
 | [004](topic-004.md) | linguistic / word / bert / probing | 31 | 4.43% | LLM/语言模型 | `linguistic / word / bert / probing` | The Grammar-Learning Trajectories of Neural Language Models |
-| [005](topic-005.md) | prompt / tuning / few-shot / clip | 29 | 4.14% | LLM/语言模型 | `prompt / tuning / few-shot / clip` | Exploiting Language Model Prompts Using Similarity Measures: A Case Study on the Word-in-Context Task |
+| [005](topic-005.md) | prompt / tuning / 少样本 / clip | 29 | 4.14% | LLM/语言模型 | `prompt / tuning / few-shot / clip` | Exploiting Language Model Prompts Using Similarity Measures: A Case Study on the Word-in-Context Task |
 | [006](topic-006.md) | ner / entity / recognition / entities | 28 | 4.00% | NLP任务 | `ner / entity / recognition / entities` | Good Examples Make A Faster Learner: Simple Demonstration-based Learning for Low-resource NER |
 | [007](topic-007.md) | 多模态学习与跨模态理解 | 28 | 4.00% | 多模态/VLM | `visual / multimodal / image / objects` | Finding Structural Knowledge in Multimodal- BERT |
 | [008](topic-008.md) | 推荐系统与用户建模 | 26 | 3.71% | 可信/安全/公平 | `fairness / legal / metrics / evaluating` | Spurious Correlations in Reference-Free Evaluation of Text Generation |

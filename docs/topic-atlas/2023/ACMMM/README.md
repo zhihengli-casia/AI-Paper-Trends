@@ -20,7 +20,7 @@
 | [006](topic-006.md) | 视频理解/生成 / streaming / qoe / volumetric | 26 | 2.88% | 系统/效率/压缩 | `video / streaming / qoe / volumetric` | Hermes: Leveraging Implicit Inter-Frame Correlation for Bandwidth-Efficient Mobile Volumetric Video Streaming |
 | [007](topic-007.md) | 多模态学习与跨模态理解 | 24 | 2.66% | 多模态/VLM | `multimodal / news / dialogue / modality` | Cross-modal Contrastive Learning for Multimodal Fake News Detection |
 | [008](topic-008.md) | 目标检测与图像分割 | 23 | 2.55% | 计算机视觉 | `scene / recognition / layout / ocr` | Masked Text Modeling: A Self-Supervised Pre-training Method for Scene Text Detection |
-| [009](topic-009.md) | 医疗健康与临床 AI | 22 | 2.44% | 计算机视觉 | `domain / segmentation / medical / semi-supervised` | Calibration-based Dual Prototypical Contrastive Learning Approach for Domain Generalization Semantic Segmentation |
+| [009](topic-009.md) | 目标检测与图像分割 | 22 | 2.44% | 计算机视觉 | `domain / segmentation / medical / semi-supervised` | Calibration-based Dual Prototypical Contrastive Learning Approach for Domain Generalization Semantic Segmentation |
 | [010](topic-010.md) | 视觉语言模型与多模态理解 | 22 | 2.44% | 多模态/VLM | `vlms / captioning / vision-language / vlp` | LiFT: Transfer Learning in Vision-Language Models for Downstream Adaptation and Generalization |
 | [011](topic-011.md) | 图神经网络与图表示学习 | 22 | 2.44% | 图学习/数据挖掘 | `graph / node / gnns / topological` | Propagation is All You Need: A New Framework for Representation Learning and Classifier Training on Graphs |
 | [012](topic-012.md) | action / temporal / skeleton-based / 运动建模 | 20 | 2.22% | 多模态/VLM | `action / temporal / skeleton-based / motion` | Self-Relational Graph Convolution Network for Skeleton-Based Action Recognition |
@@ -30,7 +30,7 @@
 | [016](topic-016.md) | LiDAR 点云与 3D 感知 | 18 | 2.00% | 3D/具身/机器人 | `domain / adaptation / segmentation / uda` | Open-Scenario Domain Adaptive Object Detection in Autonomous Driving |
 | [017](topic-017.md) | 扩散生成模型 | 18 | 2.00% | 生成模型 | `fashion / layout / items / generation` | Toward Intelligent Interactive Design: A Generation Framework Based on Cross-domain Fashion Elements |
 | [018](topic-018.md) | question / vqa / answering / pre-training | 17 | 1.88% | LLM/语言模型 | `question / vqa / answering / pre-training` | Improving Zero-shot Visual Question Answering via Large Language Models with Reasoning Question Prompts |
-| [019](topic-019.md) | classes / food / zero-shot / old | 17 | 1.88% | 计算机视觉 | `classes / food / zero-shot / old` | Enhancing Domain-Invariant Parts for Generalized Zero-Shot Learning |
+| [019](topic-019.md) | classes / food / 零样本 / old | 17 | 1.88% | 计算机视觉 | `classes / food / zero-shot / old` | Enhancing Domain-Invariant Parts for Generalized Zero-Shot Learning |
 | [020](topic-020.md) | 对抗攻击、鲁棒性与安全 | 17 | 1.88% | 多模态/VLM | `detection / identity / deepfake / video` | Cross-Illumination Video Anomaly Detection Benchmark |
 | [021](topic-021.md) | 语音/音频语言模型 | 17 | 1.88% | 生成模型 | `animation / motion / facial / gesture` | Speech-Driven 3D Face Animation with Composite and Regional Facial Movements |
 | [022](topic-022.md) | 多视图聚类与图学习 | 17 | 1.88% | 图学习/数据挖掘 | `clustering / multi-view / graph / incomplete` | Incomplete Multi-View Clustering with Regularized Hierarchical Graph |

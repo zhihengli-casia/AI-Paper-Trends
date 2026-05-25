@@ -1,4 +1,4 @@
-# NeurIPS 2025: label / semi-supervised / long-tailed / noisy
+# NeurIPS 2025: label / semi-supervised / 长尾 / noisy
 
 - Topic ID: `53`
 - Papers: **40** (0.76%)

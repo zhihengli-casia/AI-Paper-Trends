@@ -1,4 +1,4 @@
-# ICML 2021: label / classification / weak supervision / weakly supervised
+# ICML 2021: label / 分类 / weak supervision / weakly supervised
 
 - Topic ID: `22`
 - Papers: **19** (1.61%)

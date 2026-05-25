@@ -12,7 +12,7 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 强化学习策略与奖励建模 | 45 | 5.29% | 强化学习/决策 | `reinforcement / policy / reward / safety` | Autonomous Exploration for Navigating in MDPs Using Blackbox RL Algorithms |
-| [001](topic-001.md) | labels / few-shot / classification / clean | 38 | 4.47% | 理论/优化 | `labels / few-shot / classification / clean` | Generalization Guarantees of Self-Training of Halfspaces under Label Noise Corruption |
+| [001](topic-001.md) | 少样本分类与开放集识别 | 38 | 4.47% | 理论/优化 | `labels / few-shot / classification / clean` | Generalization Guarantees of Self-Training of Halfspaces under Label Noise Corruption |
 | [002](topic-002.md) | 目标检测与图像分割 | 37 | 4.35% | 计算机视觉 | `image / segmentation / transformer / spatial` | On Efficient Transformer-Based Image Pre-training for Low-Level Vision |
 | [003](topic-003.md) | 推理 / programs / argumentation / logic | 35 | 4.11% | LLM/语言模型 | `reasoning / programs / argumentation / logic` | Optimizing the Computation of Overriding in DLN (Extended Abstract) |
 | [004](topic-004.md) | 视频动作生成与运动控制 | 35 | 4.11% | 计算机视觉 | `motion / object / frames / pose` | Learning Monocular Depth in Dynamic Environment via Context-aware Temporal Attention |
@@ -31,7 +31,7 @@
 | [017](topic-017.md) | 推理 / symbolic / logical / perception | 18 | 2.12% | LLM/语言模型 | `reasoning / symbolic / logical / perception` | Neuro-Symbolic Class Expression Learning |
 | [018](topic-018.md) | 推荐系统与用户建模 | 18 | 2.12% | 推荐/检索/排序 | `federated / clients / communication / privacy-preserving` | Bayesian Federated Learning: A Survey |
 | [019](topic-019.md) | 对抗攻击、鲁棒性与安全 | 18 | 2.12% | 可信/安全/公平 | `adversarial / attacks / robustness / fairness` | Boosting Decision-Based Black-Box Adversarial Attack with Gradient Priors |
-| [020](topic-020.md) | decision / human / health / interventions | 17 | 2.00% | 强化学习/决策 | `decision / human / health / interventions` | Building a Personalized Messaging System for Health Intervention in Underprivileged Regions Using Reinforcement Learning |
+| [020](topic-020.md) | decision / human / 健康AI / interventions | 17 | 2.00% | 强化学习/决策 | `decision / human / health / interventions` | Building a Personalized Messaging System for Health Intervention in Underprivileged Regions Using Reinforcement Learning |
 | [021](topic-021.md) | spike / hyperparameter / neural networks / neuromorphic | 16 | 1.88% | 系统/效率/压缩 | `spike / hyperparameter / neural networks / neuromorphic` | Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks |
 | [022](topic-022.md) | 图神经网络与节点表示学习 | 15 | 1.76% | 图学习/数据挖掘 | `clustering / graph / contrastive / cell` | Multi-level Graph Contrastive Prototypical Clustering |
 | [023](topic-023.md) | distillation / domain / student / teacher | 15 | 1.76% | 系统/效率/压缩 | `distillation / domain / student / teacher` | Distilling Universal and Joint Knowledge for Cross-Domain Model Compression on Time Series Data |

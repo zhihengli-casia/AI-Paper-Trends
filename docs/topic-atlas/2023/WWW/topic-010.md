@@ -1,4 +1,4 @@
-# WWW 2023: pool / continual / clustering / classification
+# WWW 2023: 少样本分类与开放集识别
 
 - Topic ID: `10`
 - Papers: **17** (4.58%)

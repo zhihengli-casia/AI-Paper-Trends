@@ -12,8 +12,8 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 隐私保护与安全学习 | 89 | 2.77% | 推荐/检索/排序 | `privacy / private / differentially / membership inference` | Black-Box Differential Privacy for Interactive ML |
-| [001](topic-001.md) | 医疗健康与临床 AI | 70 | 2.18% | 计算机视觉 | `labels / ssl / semi-supervised / unlabeled` | InstanT: Semi-supervised Learning with Instance-dependent Thresholds |
-| [002](topic-002.md) | continual / scalarization / few-shot / meta learning | 64 | 1.99% | 生成模型 | `continual / scalarization / few-shot / meta learning` | On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm |
+| [001](topic-001.md) | 目标检测与图像分割 | 70 | 2.18% | 计算机视觉 | `labels / ssl / semi-supervised / unlabeled` | InstanT: Semi-supervised Learning with Instance-dependent Thresholds |
+| [002](topic-002.md) | continual / scalarization / 少样本 / meta learning | 64 | 1.99% | 生成模型 | `continual / scalarization / few-shot / meta learning` | On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm |
 | [003](topic-003.md) | pdes / differential equations / dynamics / equivariant | 57 | 1.77% | 可信/安全/公平 | `pdes / differential equations / dynamics / equivariant` | Self-Supervised Learning with Lie Symmetries for Partial Differential Equations |
 | [004](topic-004.md) | offline / 策略优化 / reinforcement / conservative | 57 | 1.77% | 强化学习/决策 | `offline / policy / reinforcement / conservative` | Bi-Level Offline Policy Optimization with Limited Exploration |
 | [005](topic-005.md) | 扩散生成模型 | 56 | 1.74% | 生成模型 | `time series / forecasting / koopman / temporal` | Taming Local Effects in Graph-based Spatiotemporal Forecasting |

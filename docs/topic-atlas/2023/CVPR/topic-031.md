@@ -1,4 +1,4 @@
-# CVPR 2023: zero-shot / clip / image captioning / language-image
+# CVPR 2023: 零样本分类与跨模态识别
 
 - Topic ID: `31`
 - Papers: **28** (1.19%)

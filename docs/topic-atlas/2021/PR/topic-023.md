@@ -1,4 +1,4 @@
-# PR 2021: 医疗健康与临床 AI
+# PR 2021: x-ray / automatic / disease / lung
 
 - Topic ID: `23`
 - Papers: **13** (2.21%)

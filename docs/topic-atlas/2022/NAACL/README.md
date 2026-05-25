@@ -12,7 +12,7 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | LLM Agent 与工具使用 | 42 | 9.50% | LLM/语言模型 | `dialogue / responses / stories / conversational` | Learning to Express in Knowledge-Grounded Conversation |
-| [001](topic-001.md) | in-context / few-shot / meta-learning / contrastive | 33 | 7.47% | NLP任务 | `in-context / few-shot / meta-learning / contrastive` | M eta ICL : Learning to Learn In Context |
+| [001](topic-001.md) | in-context / 少样本 / meta-learning / contrastive | 33 | 7.47% | NLP任务 | `in-context / few-shot / meta-learning / contrastive` | M eta ICL : Learning to Learn In Context |
 | [002](topic-002.md) | plms / negation / 推理 / correlations | 30 | 6.79% | LLM/语言模型 | `plms / negation / reasoning / correlations` | Quantifying Adaptability in Pre-trained Language Models with 500 Tasks |
 | [003](topic-003.md) | 多语言建模与跨语言迁移 | 29 | 6.56% | 多模态/VLM | `translation / machine / multi-modality / non-autoregressive` | Building Multilingual Machine Translation Systems That Serve Arbitrary XY Translations |
 | [004](topic-004.md) | 语音/音频语言模型 | 26 | 5.88% | 多模态/VLM | `ner / entity / named / recognition` | On the Use of External Data for Spoken Named Entity Recognition |

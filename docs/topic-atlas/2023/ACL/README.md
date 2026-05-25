@@ -21,9 +21,9 @@
 | [007](topic-007.md) | ner / entity / named / recognition | 25 | 2.33% | NLP任务 | `ner / entity / named / recognition` | When and how to paraphrase for named entity recognition? |
 | [008](topic-008.md) | transformer / positional / sequence / length | 24 | 2.23% | LLM/语言模型 | `transformer / positional / sequence / length` | Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions |
 | [009](topic-009.md) | 机器翻译与跨语言对齐 | 24 | 2.23% | NLP任务 | `translation / machine / metrics / comet` | Small Data, Big Impact: Leveraging Minimal Data for Effective Machine Translation |
-| [010](topic-010.md) | prompt / tuning / few-shot / zero-shot | 23 | 2.14% | LLM/语言模型 | `prompt / tuning / few-shot / zero-shot` | Pre-trained Language Models Can be Fully Zero-Shot Learners |
+| [010](topic-010.md) | 少样本分类与开放集识别 | 23 | 2.14% | LLM/语言模型 | `prompt / tuning / few-shot / zero-shot` | Pre-trained Language Models Can be Fully Zero-Shot Learners |
 | [011](topic-011.md) | 机器翻译与跨语言对齐 | 23 | 2.14% | LLM/语言模型 | `distillation / translation / student / teacher` | A Systematic Study of Knowledge Distillation for Natural Language Generation with Pseudo-Target Training |
-| [012](topic-012.md) | 医疗健康与临床 AI | 23 | 2.14% | 多模态/VLM | `dialogue / persona / open-domain / satisfaction` | Don’t Forget Your ABC ’s: Evaluating the State-of-the-Art in Chat-Oriented Dialogue Systems |
+| [012](topic-012.md) | 多模态学习与跨模态理解 | 23 | 2.14% | 多模态/VLM | `dialogue / persona / open-domain / satisfaction` | Don’t Forget Your ABC ’s: Evaluating the State-of-the-Art in Chat-Oriented Dialogue Systems |
 | [013](topic-013.md) | 社交媒体与社会计算 | 22 | 2.05% | LLM/语言模型 | `toxic / offensive / moral / meme` | SQ u AR e: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created through Human-Machine Collaboration |
 | [014](topic-014.md) | languages / tokenization / byte / pos | 21 | 1.95% | LLM/语言模型 | `languages / tokenization / byte / pos` | Hints on the data for language modeling of synthetic languages with transformers |
 | [015](topic-015.md) | 推荐系统与用户建模 | 21 | 1.95% | LLM/语言模型 | `plms / pretraining / calibration / injected` | On “Scientific Debt” in NLP : A Case for More Rigour in Language Model Pre-Training Research |
@@ -62,7 +62,7 @@
 | [048](topic-048.md) | moral / emotional / empathetic / dialogue | 10 | 0.93% | 强化学习/决策 | `moral / emotional / empathetic / dialogue` | CASE : Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation |
 | [049](topic-049.md) | 句法知识与语言学分析 | 10 | 0.93% | LLM/语言模型 | `syntactic / in-context / probing / cognitive` | How to Plant Trees in Language Models: Data and Architectural Effects on the Emergence of Syntactic Inductive Biases |
 | [050](topic-050.md) | cues / negation / things / mind | 10 | 0.93% | LLM/语言模型 | `cues / negation / things / mind` | What does the Failure to Reason with “Respectively” in Zero/Few-Shot Settings Tell Us about Language Models? |
-| [051](topic-051.md) | classification / hierarchy / hierarchical / pseudo-labels | 10 | 0.93% | NLP任务 | `classification / hierarchy / hierarchical / pseudo-labels` | Peer-Label Assisted Hierarchical Text Classification |
+| [051](topic-051.md) | 少样本分类与开放集识别 | 10 | 0.93% | NLP任务 | `classification / hierarchy / hierarchical / pseudo-labels` | Peer-Label Assisted Hierarchical Text Classification |
 | [052](topic-052.md) | lyrics / simile / metaphor / vehicle | 10 | 0.93% | LLM/语言模型 | `lyrics / simile / metaphor / vehicle` | B y GPT 5: End-to-End Style-conditioned Poetry Generation with Token-free Language Models |
 | [053](topic-053.md) | 隐私保护与安全学习 | 10 | 0.93% | LLM/语言模型 | `privacy / legal / extraction / private` | Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning |
 | [054](topic-054.md) | in-context / demonstrations / bias / examples | 10 | 0.93% | LLM/语言模型 | `in-context / demonstrations / bias / examples` | Understanding In-Context Learning via Supportive Pretraining Data |

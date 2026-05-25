@@ -1,4 +1,4 @@
-# MICCAI 2023: 医疗健康与临床 AI
+# MICCAI 2023: 图像复原与超分辨率
 
 - Topic ID: `4`
 - Papers: **7** (9.59%)

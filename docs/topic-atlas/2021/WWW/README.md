@@ -23,7 +23,7 @@
 | [009](topic-009.md) | 推荐系统与用户建模 | 17 | 4.79% | 推荐/检索/排序 | `preferences / recommendation / recommender / plans` | Where To Next? A Dynamic Model of User Preferences |
 | [010](topic-010.md) | 在线学习与 regret 理论 | 17 | 4.79% | 理论/优化 | `treatment / advertising / school / skew` | Bid Prediction in Repeated Auctions with Learning |
 | [011](topic-011.md) | 多语言建模与跨语言迁移 | 16 | 4.51% | 生成模型 | `question / answering / cross-lingual / language` | Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases |
-| [012](topic-012.md) | label / documents / classification / stance | 15 | 4.23% | NLP任务 | `label / documents / classification / stance` | Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks |
+| [012](topic-012.md) | label / documents / 分类 / stance | 15 | 4.23% | NLP任务 | `label / documents / classification / stance` | Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks |
 | [013](topic-013.md) | entity / entities / extraction / relation | 14 | 3.94% | 多模态/VLM | `entity / entities / extraction / relation` | Information Extraction From Co-Occurring Similar Entities |
 | [014](topic-014.md) | 隐私保护与安全学习 | 11 | 3.10% | 推荐/检索/排序 | `privacy / heterogeneity / clients / adaptation` | PFA: Privacy-preserving Federated Adaptation for Effective Model Personalization |
 | [015](topic-015.md) | 公平性、偏见与可信 AI | 11 | 3.10% | 系统/效率/压缩 | `graphs / fairness / paths / dense` | Random Graphs with Prescribed K-Core Sequences: A New Null Model for Network Analysis |

@@ -1,4 +1,4 @@
-# ICLR 2022: domain / adaptation / few-shot / source
+# ICLR 2022: domain / adaptation / 少样本 / source
 
 - Topic ID: `13`
 - Papers: **22** (2.07%)

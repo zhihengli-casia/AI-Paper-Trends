@@ -28,12 +28,12 @@
 | [014](topic-014.md) | face / facial / portrait / latent space | 16 | 2.95% | 计算机视觉 | `face / facial / portrait / latent space` | Attribute-specific Control Units in StyleGAN for Fine-grained Image Manipulation |
 | [015](topic-015.md) | 推荐系统与用户建模 | 15 | 2.77% | 多模态/VLM | `recommendation / news / item / product` | Mining Latent Structures for Multimedia Recommendation |
 | [016](topic-016.md) | compatibility / virtual / clothing / fashion | 15 | 2.77% | 推荐/检索/排序 | `compatibility / virtual / clothing / fashion` | Shape Controllable Virtual Try-on for Underwear Models |
-| [017](topic-017.md) | 医疗健康与临床 AI | 14 | 2.58% | 多模态/VLM | `food / logo / detection / segmentation` | Cross-View Representation Learning for Multi-View Logo Classification with Information Bottleneck |
+| [017](topic-017.md) | 目标检测与图像分割 | 14 | 2.58% | 多模态/VLM | `food / logo / detection / segmentation` | Cross-View Representation Learning for Multi-View Logo Classification with Information Bottleneck |
 | [018](topic-018.md) | 多视图聚类与图学习 | 14 | 2.58% | 多模态/VLM | `clustering / multi-view / subspace / graph` | Scalable Multi-view Subspace Clustering with Unified Anchors |
 | [019](topic-019.md) | 语音/音频语言模型 | 14 | 2.58% | 语音/音频/音乐 | `voice / speech / speaker / reading` | Towards Realistic Visual Dubbing with Heterogeneous Sources |
 | [020](topic-020.md) | 查询理解与检索优化 | 14 | 2.58% | 多模态/VLM | `retrieval / cross-modal / query / modalities` | Exploring Graph-Structured Semantics for Cross-Modal Retrieval |
 | [021](topic-021.md) | 视频理解/生成 / streaming / bandwidth / cloud | 13 | 2.40% | 3D/具身/机器人 | `video / streaming / bandwidth / cloud` | TBRA: Tiling and Bitrate Adaptation for Mobile 360-Degree Video Streaming |
-| [022](topic-022.md) | classification / labels / few-shot / meta-learning | 13 | 2.40% | 计算机视觉 | `classification / labels / few-shot / meta-learning` | Towards Cross-Granularity Few-Shot Learning: Coarse-to-Fine Pseudo-Labeling with Visual-Semantic Meta-Embedding |
+| [022](topic-022.md) | 少样本细粒度视觉识别 | 13 | 2.40% | 计算机视觉 | `classification / labels / few-shot / meta-learning` | Towards Cross-Granularity Few-Shot Learning: Coarse-to-Fine Pseudo-Labeling with Visual-Semantic Meta-Embedding |
 | [023](topic-023.md) | 多模态情感理解 | 12 | 2.21% | 多模态/VLM | `emotion / multimodal / recognition / personality` | Learning What and When to Drop: Adaptive Multimodal and Contextual Dynamics for Emotion Recognition in Conversation |
 | [024](topic-024.md) | 攻击、防御与模型安全 | 11 | 2.03% | 计算机视觉 | `face / deepfake / detection / vocabulary` | Adaptive Normalized Representation Learning for Generalizable Face Anti-Spoofing |
 | [025](topic-025.md) | compression / memory / discriminative power / learned image | 11 | 2.03% | 系统/效率/压缩 | `compression / memory / discriminative power / learned image` | Semantic Scalable Image Compression with Cross-Layer Priors |

@@ -1,4 +1,4 @@
-# NeurIPS 2020: 医疗健康与临床 AI
+# NeurIPS 2020: 目标检测与图像分割
 
 - Topic ID: `59`
 - Papers: **15** (0.79%)

@@ -1,4 +1,4 @@
-# ICML 2023: 医疗健康与临床 AI
+# ICML 2023: uncertainty / evidential / bayesian / pfns
 
 - Topic ID: `60`
 - Papers: **14** (0.77%)

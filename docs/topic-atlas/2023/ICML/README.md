@@ -21,7 +21,7 @@
 | [007](topic-007.md) | 查询理解与检索优化 | 37 | 2.02% | 理论/优化 | `online / learning-augmented / trees / predictions` | Solving Linear Programs with Fast Online Learning Algorithms |
 | [008](topic-008.md) | transformers / vision / vit / attention | 36 | 1.97% | 计算机视觉 | `transformers / vision / vit / attention` | A Closer Look at Self-Supervised Lightweight Vision Transformers |
 | [009](topic-009.md) | contrastive / ssl / representation / self-supervised | 32 | 1.75% | 系统/效率/压缩 | `contrastive / ssl / representation / self-supervised` | Which Features are Learnt by Contrastive Learning? On the Role of Simplicity Bias in Class Collapse and Feature Suppression |
-| [010](topic-010.md) | 医疗健康与临床 AI | 32 | 1.75% | 计算机视觉 | `label / semi-supervised / augmentation / noisy` | Rethinking Weak Supervision in Helping Contrastive Learning |
+| [010](topic-010.md) | 目标检测与图像分割 | 32 | 1.75% | 计算机视觉 | `label / semi-supervised / augmentation / noisy` | Rethinking Weak Supervision in Helping Contrastive Learning |
 | [011](topic-011.md) | 联邦学习与分布式训练 | 31 | 1.70% | 可信/安全/公平 | `federated / clients / local / participation` | Federated Adversarial Learning: A Framework with Convergence Analysis |
 | [012](topic-012.md) | 对抗攻击、鲁棒性与安全 | 30 | 1.64% | 可信/安全/公平 | `adversarial / attacks / robustness / perturbations` | How Many Perturbations Break This Model? Evaluating Robustness Beyond Adversarial Accuracy |
 | [013](topic-013.md) | 扩散生成模型 | 29 | 1.59% | 多模态/VLM | `molecular / molecules / drug / protein` | Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D |
@@ -45,7 +45,7 @@
 | [031](topic-031.md) | treatment / causal / effects / heterogeneous | 23 | 1.26% | 强化学习/决策 | `treatment / causal / effects / heterogeneous` | Comparison of meta-learners for estimating multi-valued treatment heterogeneous effects |
 | [032](topic-032.md) | crossover / markov chain / teaching / sampling | 22 | 1.20% | 理论/优化 | `crossover / markov chain / teaching / sampling` | Revisiting Sampling for Combinatorial Optimization |
 | [033](topic-033.md) | likelihood / estimation / mixture / inference | 22 | 1.20% | 图学习/数据挖掘 | `likelihood / estimation / mixture / inference` | Compositional Score Modeling for Simulation-Based Inference |
-| [034](topic-034.md) | 推理 / 视觉理解 / few-shot / 运动建模 | 21 | 1.15% | 计算机视觉 | `reasoning / visual / few-shot / motion` | Generalization on the Unseen, Logic Reasoning and Degree Curriculum |
+| [034](topic-034.md) | 推理 / 视觉理解 / 少样本 / 运动建模 | 21 | 1.15% | 计算机视觉 | `reasoning / visual / few-shot / motion` | Generalization on the Unseen, Logic Reasoning and Degree Curriculum |
 | [035](topic-035.md) | 深度估计与立体匹配 | 21 | 1.15% | 理论/优化 | `relu / width / mean-field / kernel` | Gradient Descent in Neural Networks as Sequential Learning in Reproducing Kernel Banach Space |
 | [036](topic-036.md) | 图神经网络与图表示学习 | 21 | 1.15% | 图学习/数据挖掘 | `graph / node / contrastive / gnns` | Feature Expansion for Graph Neural Networks |
 | [037](topic-037.md) | 机器人操作与具身智能 | 20 | 1.09% | 3D/具身/机器人 | `skills / navigation / environments / manipulation` | Unsupervised Skill Discovery for Learning Shared Structures across Changing Environments |
@@ -71,7 +71,7 @@
 | [058](topic-058.md) | equivariant / symmetry / symmetries / uni-modal | 15 | 0.82% | 多模态/VLM | `equivariant / symmetry / symmetries / uni-modal` | Self-supervised learning of Split Invariant Equivariant representations |
 | [056](topic-056.md) | Conformal Prediction 与不确定性校准 | 15 | 0.82% | 可信/安全/公平 | `conformal / prediction / hmm / sets` | Conformalization of Sparse Generalized Linear Models |
 | [059](topic-059.md) | 隐私保护与安全学习 | 14 | 0.77% | 理论/优化 | `unlearning / xai / concept / blackbox` | Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat |
-| [060](topic-060.md) | 医疗健康与临床 AI | 14 | 0.77% | 理论/优化 | `uncertainty / evidential / bayesian / pfns` | Learning Expressive Priors for Generalization and Uncertainty Estimation in Neural Networks |
+| [060](topic-060.md) | uncertainty / evidential / bayesian / pfns | 14 | 0.77% | 理论/优化 | `uncertainty / evidential / bayesian / pfns` | Learning Expressive Priors for Generalization and Uncertainty Estimation in Neural Networks |
 | [061](topic-061.md) | clustering / median / fair / outliers | 14 | 0.77% | 图学习/数据挖掘 | `clustering / median / fair / outliers` | Nearly-Optimal Hierarchical Clustering for Well-Clustered Graphs |
 | [062](topic-062.md) | 神经网络理论与优化行为 | 14 | 0.77% | 图学习/数据挖掘 | `collapse / representations / layers / variability` | Neural Collapse in Deep Linear Networks: From Balanced to Imbalanced Data |
 | [063](topic-063.md) | 在线学习与 regret 理论 | 14 | 0.77% | LLM/语言模型 | `bayesian / black-box / gaussian / decompositions` | Learning Regions of Interest for Bayesian Optimization with Adaptive Level-Set Estimation |

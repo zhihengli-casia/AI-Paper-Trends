@@ -1,4 +1,4 @@
-# WWW 2024: image / pretraining / urban / zero-shot
+# WWW 2024: 零样本分类与跨模态识别
 
 - Topic ID: `13`
 - Papers: **14** (3.47%)

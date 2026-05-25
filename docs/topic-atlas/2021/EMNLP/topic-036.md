@@ -1,4 +1,4 @@
-# EMNLP 2021: fine-grained / entity / scientific / typing
+# EMNLP 2021: 细粒度识别 / entity / scientific / typing
 
 - Topic ID: `36`
 - Papers: **10** (1.18%)

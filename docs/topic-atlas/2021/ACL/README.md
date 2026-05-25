@@ -29,7 +29,7 @@
 | [015](topic-015.md) | 语音/音频语言模型 | 20 | 2.82% | 语音/音频/音乐 | `hate / media / social / detection` | Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection |
 | [016](topic-016.md) | 新闻文本、虚假信息与安全检测 | 19 | 2.68% | 系统/效率/压缩 | `claim / verification / evidence / news` | X -Fact: A New Benchmark Dataset for Multilingual Fact Checking |
 | [017](topic-017.md) | relation / biomedical / entity / 图学习 | 18 | 2.54% | 图学习/数据挖掘 | `relation / biomedical / entity / graph` | Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference |
-| [018](topic-018.md) | 医疗健康与临床 AI | 18 | 2.54% | 多模态/VLM | `image / captions / cross-modal / medical` | L ayout LM v2: Multi-modal Pre-training for Visually-rich Document Understanding |
+| [018](topic-018.md) | 医学影像分析 | 18 | 2.54% | 多模态/VLM | `image / captions / cross-modal / medical` | L ayout LM v2: Multi-modal Pre-training for Visually-rich Document Understanding |
 | [019](topic-019.md) | LLM Agent 与工具使用 | 17 | 2.39% | 计算机视觉 | `dialogue / slot / tracking / task-oriented` | Discovering Dialogue Slots with Weak Supervision |
 | [020](topic-020.md) | 句法知识与语言学分析 | 15 | 2.11% | LLM/语言模型 | `self-attention / convolutions / embeddings / syntactic` | The Case for Translation-Invariant Self-Attention in Transformer-Based Language Models |
 | [021](topic-021.md) | event / temporal / 推理 / causality | 15 | 2.11% | LLM/语言模型 | `event / temporal / reasoning / causality` | Conditional Generation of Temporally-ordered Event Sequences |

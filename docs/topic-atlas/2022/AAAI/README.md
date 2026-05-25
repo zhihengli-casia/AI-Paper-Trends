@@ -38,12 +38,12 @@
 | [023](topic-023.md) | 代码生成与程序理解 | 19 | 1.44% | 系统/效率/压缩 | `optimization / solver / student / problems` | A Divide and Conquer Algorithm for Predict+Optimize with Non-convex Problems |
 | [026](topic-026.md) | 目标检测与图像分割 | 19 | 1.44% | 计算机视觉 | `segmentation / semantic / channel / module` | Active Boundary Loss for Semantic Segmentation |
 | [027](topic-027.md) | games / equilibrium / dice / strategic | 19 | 1.44% | 生成模型 | `games / equilibrium / dice / strategic` | Coordinating Followers to Reach Better Equilibria: End-to-End Gradient Descent for Stackelberg Games |
-| [025](topic-025.md) | 医疗健康与临床 AI | 19 | 1.44% | 计算机视觉 | `semantic segmentation / self-supervised / medical / attribute` | Can Semantic Labels Assist Self-Supervised Visual Representation Learning? |
+| [025](topic-025.md) | 目标检测与图像分割 | 19 | 1.44% | 计算机视觉 | `semantic segmentation / self-supervised / medical / attribute` | Can Semantic Labels Assist Self-Supervised Visual Representation Learning? |
 | [028](topic-028.md) | 在线学习与 regret 理论 | 18 | 1.37% | 理论/优化 | `bandits / regret / algorithm / contamination` | Instance-Sensitive Algorithms for Pure Exploration in Multinomial Logit Bandit |
 | [029](topic-029.md) | face / deepfake / detection / facial | 18 | 1.37% | 计算机视觉 | `face / deepfake / detection / facial` | Feature Generation and Hypothesis Verification for Reliable Face Anti-spoofing |
 | [030](topic-030.md) | 文档摘要与信息压缩 | 18 | 1.37% | 多模态/VLM | `visual / image / multimodal / hoi` | Cross-Modal Coherence for Text-to-Image Retrieval |
 | [031](topic-031.md) | 语音/音频语言模型 | 18 | 1.37% | 语音/音频/音乐 | `audio / speech / talking / speaker` | SepFusion: Finding Optimal Fusion Structures for Visual Sound Separation |
-| [032](topic-032.md) | long-tailed / classes / osr / logit | 17 | 1.29% | 计算机视觉 | `long-tailed / classes / osr / logit` | Adaptive Logit Adjustment Loss for Long-Tailed Visual Recognition |
+| [032](topic-032.md) | 长尾视觉识别与分类 | 17 | 1.29% | 计算机视觉 | `long-tailed / classes / osr / logit` | Adaptive Logit Adjustment Loss for Long-Tailed Visual Recognition |
 | [033](topic-033.md) | compression / denoising / pruning / 视频理解/生成 | 16 | 1.22% | 系统/效率/压缩 | `compression / denoising / pruning / video` | Towards Fully Sparse Training: Information Restoration with Spatial Similarity |
 | [036](topic-036.md) | ood / detection / anomaly / out-of-distribution | 16 | 1.22% | 理论/优化 | `ood / detection / anomaly / out-of-distribution` | On the Impact of Spurious Correlation for Out-of-Distribution Detection |
 | [034](topic-034.md) | LLM Agent 与工具使用 | 16 | 1.22% | 强化学习/决策 | `voting / rules / agents / distortion` | Iterative Calculus of Voting under Plurality |
@@ -70,7 +70,7 @@
 | [056](topic-056.md) | 对抗攻击、鲁棒性与安全 | 11 | 0.84% | 多模态/VLM | `adversarial examples / neural networks / deep neural / evidential deep` | Exploiting Invariance in Training Deep Neural Networks |
 | [057](topic-057.md) | causal / confounders / grounding / graphical | 10 | 0.76% | 计算机视觉 | `causal / confounders / grounding / graphical` | On Causally Disentangled Representations |
 | [058](topic-058.md) | domain / adaptation / target / source | 10 | 0.76% | LLM/语言模型 | `domain / adaptation / target / source` | Mutual Nearest Neighbor Contrast and Hybrid Prototype Self-Training for Universal Domain Adaptation |
-| [059](topic-059.md) | multi-label / labels / few-shot / prototypes | 10 | 0.76% | 计算机视觉 | `multi-label / labels / few-shot / prototypes` | Inferring Prototypes for Multi-Label Few-Shot Image Classification with Word Vector Guided Attention |
+| [059](topic-059.md) | 少样本细粒度视觉识别 | 10 | 0.76% | 计算机视觉 | `multi-label / labels / few-shot / prototypes` | Inferring Prototypes for Multi-Label Few-Shot Image Classification with Word Vector Guided Attention |
 | [060](topic-060.md) | 对抗攻击、鲁棒性与安全 | 9 | 0.68% | 计算机视觉 | `attack / adversarial / video / perturbations` | Boosting the Transferability of Video Adversarial Examples via Temporal Translation |
 | [061](topic-061.md) | 公平性、偏见与可信 AI | 9 | 0.68% | 可信/安全/公平 | `fairness / sensitive features / bias / causal` | On the Fairness of Causal Algorithmic Recourse |
 | [062](topic-062.md) | 对抗攻击、鲁棒性与安全 | 9 | 0.68% | 计算机视觉 | `gans / generative adversarial / target class / adversarial networks` | Interpretable Generative Adversarial Networks |

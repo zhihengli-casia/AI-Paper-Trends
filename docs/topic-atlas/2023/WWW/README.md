@@ -21,7 +21,7 @@
 | [007](topic-007.md) | 多模态学习与跨模态理解 | 18 | 4.85% | 多模态/VLM | `dialogue / multimodal / modalities / multi-modal` | A Multi-view Meta-learning Approach for Multi-modal Response Generation |
 | [008](topic-008.md) | 推荐系统与用户建模 | 18 | 4.85% | 推荐/检索/排序 | `item / recommendation / collaborative / sequential` | Debiased Contrastive Learning for Sequential Recommendation |
 | [009](topic-009.md) | 知识图谱推理与表示学习 | 18 | 4.85% | 图学习/数据挖掘 | `knowledge graph / entities / political / kgs` | Link Prediction with Attention Applied on Multiple Knowledge Graph Embedding Models |
-| [010](topic-010.md) | pool / continual / clustering / classification | 17 | 4.58% | 生成模型 | `pool / continual / clustering / classification` | Learning Structural Co-occurrences for Structured Web Data Extraction in Low-Resource Settings |
+| [010](topic-010.md) | 少样本分类与开放集识别 | 17 | 4.58% | 生成模型 | `pool / continual / clustering / classification` | Learning Structural Co-occurrences for Structured Web Data Extraction in Low-Resource Settings |
 | [011](topic-011.md) | 图神经网络与图表示学习 | 14 | 3.77% | 推荐/检索/排序 | `recommendation / items / aggregation / gnn` | Collaboration-Aware Graph Convolutional Network for Recommender Systems |
 | [012](topic-012.md) | 推荐系统与用户建模 | 13 | 3.50% | 推荐/检索/排序 | `fairness / recommendation / negative sampling / group` | Improving Recommendation Fairness via Data Augmentation |
 | [013](topic-013.md) | 时间序列预测 | 13 | 3.50% | 系统/效率/压缩 | `workload / forecasting / causal / service` | CausIL: Causal Graph for Instance Level Microservice Data |

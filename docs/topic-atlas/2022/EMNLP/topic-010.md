@@ -1,4 +1,4 @@
-# EMNLP 2022: prompt / tuning / few-shot / parameter-efficient
+# EMNLP 2022: 少样本分类与开放集识别
 
 - Topic ID: `10`
 - Papers: **22** (2.66%)

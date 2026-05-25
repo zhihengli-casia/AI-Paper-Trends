@@ -1,4 +1,4 @@
-# AAAI 2020: 医疗健康与临床 AI
+# AAAI 2020: answer / question / selection / 医学AI
 
 - Topic ID: `50`
 - Papers: **15** (0.94%)

@@ -1,4 +1,4 @@
-# EMNLP 2023: classification / label / classes / mixup
+# EMNLP 2023: 少样本分类与开放集识别
 
 - Topic ID: `27`
 - Papers: **15** (1.43%)

@@ -1,4 +1,4 @@
-# NeurIPS 2023: continual / scalarization / few-shot / meta learning
+# NeurIPS 2023: continual / scalarization / 少样本 / meta learning
 
 - Topic ID: `2`
 - Papers: **64** (1.99%)

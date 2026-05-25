@@ -1,4 +1,4 @@
-# AAAI 2020: fine-grained / image / teaching / classification
+# AAAI 2020: 细粒度视觉分类与识别
 
 - Topic ID: `55`
 - Papers: **14** (0.87%)

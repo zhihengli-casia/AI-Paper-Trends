@@ -11,11 +11,11 @@
 
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
-| [000](topic-000.md) | contrastive / few-shot / self-supervised / negative | 59 | 3.59% | 计算机视觉 | `contrastive / few-shot / self-supervised / negative` | Towards Efficient and Effective Self-Supervised Learning of Visual Representations |
+| [000](topic-000.md) | contrastive / 少样本 / self-supervised / negative | 59 | 3.59% | 计算机视觉 | `contrastive / few-shot / self-supervised / negative` | Towards Efficient and Effective Self-Supervised Learning of Visual Representations |
 | [001](topic-001.md) | 点云表示与 3D 感知 | 43 | 2.61% | 3D/具身/机器人 | `point / cloud / registration / mesh` | Image2Point: 3D Point-Cloud Understanding with 2D Image Pretrained Models |
 | [002](topic-002.md) | 对抗攻击、鲁棒性与安全 | 39 | 2.37% | 计算机视觉 | `vits / vision transformers / token / cnns` | Three Things Everyone Should Know about Vision Transformers |
 | [003](topic-003.md) | 目标检测与图像分割 | 39 | 2.37% | 计算机视觉 | `video / temporal / frames / transformer` | Video Instance Segmentation via Multi-Scale Spatio-Temporal Split Attention Transformer |
-| [004](topic-004.md) | 医疗健康与临床 AI | 38 | 2.31% | 计算机视觉 | `segmentation / adaptation / medical / target domain` | Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation |
+| [004](topic-004.md) | 医学影像病灶分析 | 38 | 2.31% | 计算机视觉 | `segmentation / adaptation / medical / target domain` | Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation |
 | [005](topic-005.md) | 对抗攻击、鲁棒性与安全 | 38 | 2.31% | 可信/安全/公平 | `adversarial / attack / robustness / perturbation` | Exploiting the Local Parabolic Landscapes of Adversarial Losses to Accelerate Black-Box Adversarial Attack |
 | [006](topic-006.md) | pose / human / estimation / body | 37 | 2.25% | HCI/社会计算 | `pose / human / estimation / body` | Pose2Room: Understanding 3D Scenes from Human Activities |
 | [007](topic-007.md) | 图像复原与超分辨率 | 34 | 2.07% | 计算机视觉 | `rain / shadow / deblurring / defocus` | LEDNet: Joint Low-Light Enhancement and Deblurring in the Dark |
@@ -37,7 +37,7 @@
 | [024](topic-024.md) | 文生图生成与个性化编辑 | 23 | 1.40% | 生成模型 | `explanations / caption / text-to-image / counterfactual` | No Token Left Behind: Explainability-Aided Image Classification and Generation |
 | [022](topic-022.md) | 语音/音频语言模型 | 23 | 1.40% | LLM/语言模型 | `video / retrieval / events / temporal` | Multi-Query Video Retrieval |
 | [027](topic-027.md) | ssl / emotion / semi-supervised / labels | 22 | 1.34% | 计算机视觉 | `ssl / emotion / semi-supervised / labels` | Towards Realistic Semi-Supervised Learning |
-| [025](topic-025.md) | 社交媒体与社会计算 | 22 | 1.34% | 计算机视觉 | `action / recognition / video / group` | Compound Prototype Matching for Few-Shot Action Recognition |
+| [025](topic-025.md) | 细粒度视觉分类与识别 | 22 | 1.34% | 计算机视觉 | `action / recognition / video / group` | Compound Prototype Matching for Few-Shot Action Recognition |
 | [026](topic-026.md) | shape / implicit / functions / equivariant | 22 | 1.34% | 计算机视觉 | `shape / implicit / functions / equivariant` | Few ‘Zero Level Set’-Shot Learning of Shape Signed Distance Functions in Feature Space |
 | [028](topic-028.md) | 深度估计与立体匹配 | 21 | 1.28% | 计算机视觉 | `indoor / panorama / scene / room` | Towards High-Fidelity Single-View Holistic Reconstruction of Indoor Scenes |
 | [029](topic-029.md) | nas / search / neural architecture / pruning | 21 | 1.28% | 系统/效率/压缩 | `nas / search / neural architecture / pruning` | Neural Architecture Search for Spiking Neural Networks |
@@ -51,7 +51,7 @@
 | [037](topic-037.md) | inpainting / inversion / gan / editing | 19 | 1.16% | 计算机视觉 | `inpainting / inversion / gan / editing` | High-Fidelity Image Inpainting with GAN Inversion |
 | [038](topic-038.md) | 运动建模 / human / sequences / dance | 19 | 1.16% | 系统/效率/压缩 | `motion / human / sequences / dance` | TEMOS: Generating Diverse Human Motions from Textual Descriptions |
 | [039](topic-039.md) | sketch / style / painting / creative | 18 | 1.09% | 推荐/检索/排序 | `sketch / style / painting / creative` | FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context |
-| [040](topic-040.md) | 查询理解与检索优化 | 18 | 1.09% | 计算机视觉 | `segmentation / few-shot / clicks / support` | HM: Hybrid Masking for Few-Shot Segmentation |
+| [040](topic-040.md) | 医学影像病灶分析 | 18 | 1.09% | 计算机视觉 | `segmentation / few-shot / clicks / support` | HM: Hybrid Masking for Few-Shot Segmentation |
 | [041](topic-041.md) | adaptation / source / target domain / unsupervised domain | 18 | 1.09% | 可信/安全/公平 | `adaptation / source / target domain / unsupervised domain` | Prior Knowledge Guided Unsupervised Domain Adaptation |
 | [042](topic-042.md) | 机器翻译与跨语言对齐 | 17 | 1.03% | NLP任务 | `color / filters / translation / arguments` | BigColor: Colorization Using a Generative Color Prior for Natural Images |
 | [045](topic-045.md) | 神经网络理论与优化行为 | 16 | 0.97% | 理论/优化 | `binary / activations / lipschitz / batch` | Lipschitz Continuity Retained Binary Neural Network |
@@ -59,7 +59,7 @@
 | [046](topic-046.md) | 语音/音频语言模型 | 16 | 0.97% | 多模态/VLM | `video / audio-visual / editing / sound` | Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset |
 | [043](topic-043.md) | reid / person / re-identification / infrared | 16 | 0.97% | 系统/效率/压缩 | `reid / person / re-identification / infrared` | Optimal Transport for Label-Efficient Visible-Infrared Person Re-identification |
 | [047](topic-047.md) | quantization / bit / indicators / weight | 16 | 0.97% | 系统/效率/压缩 | `quantization / bit / indicators / weight` | Non-uniform Step Size Quantization for Accurate Post-Training Quantization |
-| [048](topic-048.md) | long-tailed / classes / imbalance / recognition | 15 | 0.91% | 计算机视觉 | `long-tailed / classes / imbalance / recognition` | Invariant Feature Learning for Generalized Long-Tailed Classification |
+| [048](topic-048.md) | 长尾 / classes / imbalance / recognition | 15 | 0.91% | 计算机视觉 | `long-tailed / classes / imbalance / recognition` | Invariant Feature Learning for Generalized Long-Tailed Classification |
 | [049](topic-049.md) | 视觉语言模型与多模态理解 | 15 | 0.91% | 多模态/VLM | `grounding / vision-language / pre-training / captioning` | Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training |
 | [050](topic-050.md) | distillation / teacher / student / detection | 15 | 0.91% | 计算机视觉 | `distillation / teacher / student / detection` | Distilling Object Detectors with Global Knowledge |
 | [051](topic-051.md) | 视频动作生成与运动控制 | 15 | 0.91% | 计算机视觉 | `video / motion / action / temporal` | GOCA: Guided Online Cluster Assignment for Self-Supervised Video Representation Learning |
@@ -82,7 +82,7 @@
 | [068](topic-068.md) | 具身智能与物理交互 | 11 | 0.67% | 多模态/VLM | `navigation / agent / vision-and-language / instruction` | Bridging the Visual Semantic Gap in VLN via Semantically Richer Instructions |
 | [069](topic-069.md) | 多模态学习与跨模态理解 | 11 | 0.67% | 多模态/VLM | `vqa / reasoning / answering / question` | A-OKVQA: A Benchmark for Visual Question Answering Using World Knowledge |
 | [070](topic-070.md) | NeRF 与神经渲染 | 11 | 0.67% | 3D/具身/机器人 | `animatable / human / avatars / poses` | Neural Capture of Animatable 3D Human from Monocular Video |
-| [071](topic-071.md) | few-shot / detection / slices / video object | 11 | 0.67% | 计算机视觉 | `few-shot / detection / slices / video object` | Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark |
+| [071](topic-071.md) | 少样本 / detection / slices / video object | 11 | 0.67% | 计算机视觉 | `few-shot / detection / slices / video object` | Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark |
 | [072](topic-072.md) | transferability / sfda / modularity / fair | 11 | 0.67% | 计算机视觉 | `transferability / sfda / modularity / fair` | Discriminability-Transferability Trade-Off: An Information-Theoretic Perspective |
 | [073](topic-073.md) | texture / geometry / editing / hair | 11 | 0.67% | 生成模型 | `texture / geometry / editing / hair` | Texturify: Generating Textures on 3D Shape Surfaces |
 | [074](topic-074.md) | 深度估计与立体匹配 | 10 | 0.61% | 计算机视觉 | `reconstruction / shape / single-view / deviant` | Semi-Supervised Single-View 3D Reconstruction via Prototype Shape Priors |

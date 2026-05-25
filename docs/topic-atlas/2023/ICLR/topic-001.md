@@ -1,4 +1,4 @@
-# ICLR 2023: language / prompt / 大语言模型 / zero-shot
+# ICLR 2023: language / prompt / 大语言模型 / 零样本
 
 - Topic ID: `1`
 - Papers: **47** (3.07%)

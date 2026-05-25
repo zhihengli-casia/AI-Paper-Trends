@@ -47,5 +47,5 @@
 | [033](topic-033.md) | 随机优化与收敛理论 | 11 | 1.38% | 生成模型 | `disease / brain / fuzzy / feature selection` | Alzheimer’s Disease Risk Prediction and Pathogeny Extraction Using Fuzzy Graph Evolutionary Generative Adversarial Network |
 | [034](topic-034.md) | 视觉语言模型与多模态理解 | 11 | 1.38% | LLM/语言模型 | `vqa / prompt / social / visual` | Class-Specific Prompt Learning for Vision–Language Models |
 | [035](topic-035.md) | 强化学习算法与理论 | 9 | 1.13% | 强化学习/决策 | `offline / reinforcement learning / policy / radiation` | The Most Overestimated <i>Q</i> Value Regularization in High-Dimensional Discrete Action Spaces for Offline Reinforcement Learning |
-| [036](topic-036.md) | 医疗健康与临床 AI | 9 | 1.13% | 计算机视觉 | `segmentation / medical / ambiguous / image` | SAM-Med3D: A Vision Foundation Model for General-Purpose Segmentation on Volumetric Medical Images |
+| [036](topic-036.md) | 目标检测与图像分割 | 9 | 1.13% | 计算机视觉 | `segmentation / medical / ambiguous / image` | SAM-Med3D: A Vision Foundation Model for General-Purpose Segmentation on Volumetric Medical Images |
 | [037](topic-037.md) | 医疗健康与临床 AI | 9 | 1.13% | LLM/语言模型 | `radiologic / diagnostic / clinical / lvlms` | RadCLIP: Enhancing Radiologic Image Analysis Through Contrastive Language–Image Pretraining |

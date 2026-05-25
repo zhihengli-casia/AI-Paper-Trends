@@ -27,7 +27,7 @@
 | [013](topic-013.md) | action / trajectory / videos / camera | 17 | 3.09% | 计算机视觉 | `action / trajectory / videos / camera` | Multi-Dataset, Multitask Learning of Egocentric Vision Tasks |
 | [014](topic-014.md) | surface / shading / underwater / shape | 17 | 3.09% | 计算机视觉 | `surface / shading / underwater / shape` | Uncalibrated, Two Source Photo-Polarimetric Stereo |
 | [015](topic-015.md) | object / vehicle / localization / detectors | 17 | 3.09% | 多模态/VLM | `object / vehicle / localization / detectors` | Weakly Supervised Object Localization and Detection: A Survey |
-| [016](topic-016.md) | label / classification / affinity / rankers | 16 | 2.90% | 计算机视觉 | `label / classification / affinity / rankers` | A Concise Yet Effective Model for Non-Aligned Incomplete Multi-View and Missing Multi-Label Learning |
+| [016](topic-016.md) | label / 分类 / affinity / rankers | 16 | 2.90% | 计算机视觉 | `label / classification / affinity / rankers` | A Concise Yet Effective Model for Non-Aligned Incomplete Multi-View and Missing Multi-Label Learning |
 | [017](topic-017.md) | saliency / salient / mml / attention | 15 | 2.72% | 计算机视觉 | `saliency / salient / mml / attention` | Salient Object Detection in the Deep Learning Era: An In-Depth Survey |
 | [018](topic-018.md) | 对抗攻击、鲁棒性与安全 | 15 | 2.72% | 系统/效率/压缩 | `search / nas / neural architecture / routing` | AlphaGAN: Fully Differentiable Architecture Search for Generative Adversarial Networks |
 | [019](topic-019.md) | 句法语义解析与结构化表示 | 13 | 2.36% | 计算机视觉 | `pose / gait / human / monocular` | Monocular 3D Pose Estimation via Pose Grammar and Data Augmentation |

@@ -22,7 +22,7 @@
 | [008](topic-008.md) | uncertainty / calibration / bayesian / predictive | 28 | 3.26% | 计算机视觉 | `uncertainty / calibration / bayesian / predictive` | Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit |
 | [009](topic-009.md) | 深度估计与立体匹配 | 27 | 3.14% | 可信/安全/公平 | `kernel / width / fully-connected / relu` | Deep Networks and the Multiple Manifold Problem |
 | [010](topic-010.md) | 对抗攻击、鲁棒性与安全 | 25 | 2.91% | 生成模型 | `gans / generative / discriminator / shapes` | A Geometric Analysis of Deep Generative Image Models and Its Applications |
-| [011](topic-011.md) | 医疗健康与临床 AI | 24 | 2.79% | 可信/安全/公平 | `adversarial / robustness / certified / attacks` | Provably robust classification of adversarial examples with detection |
+| [011](topic-011.md) | 对抗攻击、鲁棒性与安全 | 24 | 2.79% | 可信/安全/公平 | `adversarial / robustness / certified / attacks` | Provably robust classification of adversarial examples with detection |
 | [012](topic-012.md) | 强化学习算法与理论 | 23 | 2.68% | 强化学习/决策 | `policy / reinforcement learning / actor-critic / control` | What Matters for On-Policy Deep Actor-Critic Methods? A Large-Scale Study |
 | [013](topic-013.md) | 扩散生成模型 | 22 | 2.56% | 生成模型 | `denoising / mcmc / energy-based / ebm` | Learning Energy-Based Models by Diffusion Recovery Likelihood |
 | [014](topic-014.md) | quantization / precision / memory / dnn | 21 | 2.44% | 系统/效率/压缩 | `quantization / precision / memory / dnn` | More or Less: When and How to Build Convolutional Neural Network Ensembles |

@@ -1,4 +1,4 @@
-# ECCV 2024: ood / out-of-distribution / in-distribution / open-set
+# ECCV 2024: ood / out-of-distribution / in-distribution / 开放集
 
 - Topic ID: `60`
 - Papers: **17** (0.71%)

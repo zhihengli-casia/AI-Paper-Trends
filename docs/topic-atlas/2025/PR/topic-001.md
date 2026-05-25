@@ -1,4 +1,4 @@
-# PR 2025: captioning / transformer / image / multi-label
+# PR 2025: 细粒度视觉分类与识别
 
 - Topic ID: `1`
 - Papers: **45** (2.98%)

@@ -1,4 +1,4 @@
-# CVPR 2025: 医疗健康与临床 AI
+# CVPR 2025: ood / detection / out-of-distribution / in-distribution
 
 - Topic ID: `107`
 - Papers: **13** (0.45%)

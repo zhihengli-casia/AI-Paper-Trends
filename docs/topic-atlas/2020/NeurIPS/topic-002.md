@@ -1,4 +1,4 @@
-# NeurIPS 2020: bounds / boosting / pac-bayes / classification
+# NeurIPS 2020: bounds / boosting / pac-bayes / 分类
 
 - Topic ID: `2`
 - Papers: **47** (2.48%)

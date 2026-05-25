@@ -24,7 +24,7 @@
 | [010](topic-010.md) | 目标检测与图像分割 | 26 | 2.45% | 计算机视觉 | `segmentation / semantic / object / visual` | Pix2seq: A Language Modeling Framework for Object Detection |
 | [011](topic-011.md) | 语音/音频语言模型 | 24 | 2.26% | 生成模型 | `diffusion / denoising / generative / synthesis` | Score-Based Generative Modeling with Critically-Damped Langevin Diffusion |
 | [012](topic-012.md) | 随机优化与收敛理论 | 22 | 2.07% | 理论/优化 | `sgd / convergence / stochastic / minimax` | Permutation-Based SGD: Is Random Optimal? |
-| [013](topic-013.md) | domain / adaptation / few-shot / source | 22 | 2.07% | 理论/优化 | `domain / adaptation / few-shot / source` | Gradient Matching for Domain Generalization |
+| [013](topic-013.md) | domain / adaptation / 少样本 / source | 22 | 2.07% | 理论/优化 | `domain / adaptation / few-shot / source` | Gradient Matching for Domain Generalization |
 | [015](topic-015.md) | spurious / explanations / normalization / counterfactual | 21 | 1.98% | 计算机视觉 | `spurious / explanations / normalization / counterfactual` | Do Users Benefit From Interpretable Vision? A User Study, Baseline, And Dataset |
 | [016](topic-016.md) | nas / search / architecture / supernet | 21 | 1.98% | 理论/优化 | `nas / search / architecture / supernet` | Surrogate NAS Benchmarks: Going Beyond the Limited Search Spaces of Tabular NAS Benchmarks |
 | [014](topic-014.md) | 图神经网络与图表示学习 | 21 | 1.98% | AI4Science/医疗 | `molecular / molecules / graph / drug` | Learning to Extend Molecular Scaffolds with Structural Motifs |

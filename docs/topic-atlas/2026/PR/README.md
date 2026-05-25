@@ -12,12 +12,12 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | image / features / state-of-the-art / introduce | 38 | 4.11% | 计算机视觉 | `image / features / state-of-the-art / introduce` | MFGS: Mask-free Gaussian separation for 3D object reconstruction |
-| [001](topic-001.md) | mml / kernel / quadratic / feature selection | 36 | 3.89% | 图学习/数据挖掘 | `mml / kernel / quadratic / feature selection` | DAFS: A distribution-aware hierarchical feature selection method for long-tailed classification |
-| [002](topic-002.md) | 医疗健康与临床 AI | 34 | 3.68% | 计算机视觉 | `classification / few-shot / mml / image` | Harnessing the power of local representations for few-shot classification |
+| [001](topic-001.md) | kernel / quadratic / feature selection / faster | 36 | 3.89% | 图学习/数据挖掘 | `kernel / quadratic / feature selection / faster` | DAFS: A distribution-aware hierarchical feature selection method for long-tailed classification |
+| [002](topic-002.md) | 少样本细粒度视觉识别 | 34 | 3.68% | 计算机视觉 | `classification / few-shot / image / medical` | Harnessing the power of local representations for few-shot classification |
 | [003](topic-003.md) | 目标检测与图像分割 | 33 | 3.57% | 计算机视觉 | `object detection / sensing / remote / small` | EdgeFusionNet: Edge information-guided small object detection for remote sensing images |
 | [004](topic-004.md) | 视觉语言模型与多模态理解 | 31 | 3.35% | 多模态/VLM | `attacks / adversarial / transferable / physical` | Towards structural transformation-based attack for boosting transferability of adversarial examples |
 | [005](topic-005.md) | 3D Gaussian Splatting 与场景重建 | 30 | 3.24% | 计算机视觉 | `super-resolution / light / field / image` | Task-aware all-in-one guided image super-resolution |
-| [006](topic-006.md) | 医疗健康与临床 AI | 27 | 2.92% | 多模态/VLM | `segmentation / medical image / brain / few-shot medical` | M-MambaS: Multimodal Mamba for small lesion segmentation |
+| [006](topic-006.md) | 医学影像分割 | 27 | 2.92% | 多模态/VLM | `segmentation / medical image / brain / few-shot medical` | M-MambaS: Multimodal Mamba for small lesion segmentation |
 | [007](topic-007.md) | 深度估计与立体匹配 | 25 | 2.70% | 多模态/VLM | `object detection / scene / semantic / matching` | SCRTN: Enhancing multi-modal 3D object detection in complex environments |
 | [008](topic-008.md) | 视觉语言模型与多模态理解 | 25 | 2.70% | 多模态/VLM | `emotion / recognition / facial / expression` | Is multimodal conversational emotion recognition satisfactory? Exploring the gaps in performance, generalization, and confidence |
 | [009](topic-009.md) | 图学习 / prediction / edges / edit | 25 | 2.70% | 图学习/数据挖掘 | `graph / prediction / edges / edit` | Robust graph neural networks via supervised block diagonal regularizer |
@@ -41,8 +41,8 @@
 | [027](topic-027.md) | 点云表示与 3D 感知 | 16 | 1.73% | 3D/具身/机器人 | `point / cloud / geometric / segmentation` | PCNet: A composite backbone for 3D point cloud representation learning |
 | [028](topic-028.md) | infrared / re-identification / person / detection | 16 | 1.73% | 计算机视觉 | `infrared / re-identification / person / detection` | Learning modality knowledge with proxy for RGB-Infrared object detection |
 | [029](topic-029.md) | detection / crack / industrial / residual | 16 | 1.73% | 生成模型 | `detection / crack / industrial / residual` | SurfSyn: Domain foundation model for pixel-level surface defect detection driven by synthetic data |
-| [030](topic-030.md) | 医疗健康与临床 AI | 15 | 1.62% | 计算机视觉 | `reconstruction / brain / low-rank / localization` | Unsupervised highly accelerated 3D multi-parametric MRI reconstruction via low-rank integrated implicit neural representation |
-| [031](topic-031.md) | 医疗健康与临床 AI | 15 | 1.62% | 计算机视觉 | `medical image segmentation / semi-supervised / cost / cross-domain` | Enhancing semi-supervised medical image segmentation via semantic transfer |
+| [030](topic-030.md) | reconstruction / brain / low-rank / localization | 15 | 1.62% | 计算机视觉 | `reconstruction / brain / low-rank / localization` | Unsupervised highly accelerated 3D multi-parametric MRI reconstruction via low-rank integrated implicit neural representation |
+| [031](topic-031.md) | 医学影像分割 | 15 | 1.62% | 计算机视觉 | `medical image segmentation / semi-supervised / cost / cross-domain` | Enhancing semi-supervised medical image segmentation via semantic transfer |
 | [032](topic-032.md) | 时间序列建模与预测 | 14 | 1.51% | 系统/效率/压缩 | `anomaly detection / series anomaly / industrial anomaly / time series` | S3AD: Efficient industrial anomaly detection via selection, space, and scale |
 | [033](topic-033.md) | 视觉语言模型与多模态理解 | 14 | 1.51% | 多模态/VLM | `anomaly detection / video / weakly supervised / learning weakly` | Concept-Aware Learning for Weakly Supervised Video Anomaly Detection |
 | [034](topic-034.md) | prediction / multi-task / drug / predicting | 13 | 1.41% | 多模态/VLM | `prediction / multi-task / drug / predicting` | MCMTSYN: Predicting anticancer drug synergy via cross-modal feature fusion and multi-task learning |
@@ -52,7 +52,7 @@
 | [038](topic-038.md) | 语音/音频语言模型 | 12 | 1.30% | 多模态/VLM | `spatio-temporal / video / prediction / audio` | Feature-based optimization enables 2D CNNs for efficient spatio-temporal perception |
 | [042](topic-042.md) | face / detection / generalizable / pattern | 12 | 1.30% | 计算机视觉 | `face / detection / generalizable / pattern` | Domain-generalizable face anti-spoofing with patch-based multi-tasking and artifact pattern conversion |
 | [037](topic-037.md) | 目标检测与图像分割 | 12 | 1.30% | 多模态/VLM | `detection / localization / weather / object` | EEnvA-Mamba: Effective and environtology-aware adaptive Mamba for road object detection in adverse weather scenes |
-| [041](topic-041.md) | 医疗健康与临床 AI | 12 | 1.30% | 多模态/VLM | `anomaly / detection / zero-shot / multivariate` | Generalizing CLIP prompts for zero-shot anomaly detection |
+| [041](topic-041.md) | 目标检测与图像分割 | 12 | 1.30% | 多模态/VLM | `anomaly / detection / zero-shot / multivariate` | Generalizing CLIP prompts for zero-shot anomaly detection |
 | [040](topic-040.md) | emotion recognition / neural / clustering / cross-domain | 12 | 1.30% | 计算机视觉 | `emotion recognition / neural / clustering / cross-domain` | EEGTune: A data-efficient fine-tuning framework for EEG foundation models |
 | [043](topic-043.md) | tabular / synthetic / generation / dependencies | 10 | 1.08% | 计算机视觉 | `tabular / synthetic / generation / dependencies` | Hybrid explicit and implicit encoding for multi-view representation learning |
 | [044](topic-044.md) | 时间序列建模与预测 | 10 | 1.08% | 图学习/数据挖掘 | `time series / patterns / temporal / spectral` | Multi-scale temporal correlation multi-dimensional decomposition network for time series analysis |

@@ -1,4 +1,4 @@
-# ACMMM 2021: classification / labels / few-shot / meta-learning
+# ACMMM 2021: 少样本细粒度视觉识别
 
 - Topic ID: `22`
 - Papers: **13** (2.40%)

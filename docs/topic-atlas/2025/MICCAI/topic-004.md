@@ -1,4 +1,4 @@
-# MICCAI 2025: multiple instance learning / instance learning context-aware / slide image / spatial transcriptomics
+# MICCAI 2025: 医学影像病灶分析
 
 - Topic ID: `4`
 - Papers: **8** (12.31%)

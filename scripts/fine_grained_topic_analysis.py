@@ -112,9 +112,14 @@ LATEX_TERMS = {
     "mathbb",
     "mathcal",
     "mathrm",
+    "mml",
     "operatorname",
+    "org",
     "text",
     "tilde",
+    "www",
+    "xlink",
+    "xmlns",
 }
 
 MACRO_KEYWORDS = {

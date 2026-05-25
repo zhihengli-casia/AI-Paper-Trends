@@ -1,4 +1,4 @@
-# NeurIPS 2021: continual / meta-learning / forgetting / few-shot
+# NeurIPS 2021: continual / meta-learning / forgetting / 少样本
 
 - Topic ID: `7`
 - Papers: **51** (2.19%)

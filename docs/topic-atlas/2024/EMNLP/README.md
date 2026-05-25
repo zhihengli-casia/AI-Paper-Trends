@@ -54,11 +54,11 @@
 | [040](topic-040.md) | dialogue / task-oriented / feature-based / tod | 16 | 1.26% | LLM/语言模型 | `dialogue / task-oriented / feature-based / tod` | Unsupervised Extraction of Dialogue Policies from Conversations |
 | [041](topic-041.md) | 医疗健康与临床 AI | 16 | 1.26% | LLM/语言模型 | `medical / clinical / disease / progression` | Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress? |
 | [042](topic-042.md) | logical / entailment / explanations / nli | 16 | 1.26% | LLM/语言模型 | `logical / entailment / explanations / nli` | Verification and Refinement of Natural Language Explanations through LLM -Symbolic Theorem Proving |
-| [043](topic-043.md) | fine-grained / semantic / contrastive learning / emotion | 15 | 1.18% | LLM/语言模型 | `fine-grained / semantic / contrastive learning / emotion` | D 2 R : Dual-Branch Dynamic Routing Network for Multimodal Sentiment Detection |
+| [043](topic-043.md) | 细粒度识别 / semantic / contrastive learning / emotion | 15 | 1.18% | LLM/语言模型 | `fine-grained / semantic / contrastive learning / emotion` | D 2 R : Dual-Branch Dynamic Routing Network for Multimodal Sentiment Detection |
 | [044](topic-044.md) | amr / word / concepts / sense | 15 | 1.18% | LLM/语言模型 | `amr / word / concepts / sense` | To Word Senses and Beyond: Inducing Concepts with Contextualized Language Models |
 | [045](topic-045.md) | 医疗健康与临床 AI | 15 | 1.18% | LLM/语言模型 | `editing / lifelong / edits / edited` | FAME : Towards Factual Multi-Task Model Editing |
 | [046](topic-046.md) | 文生图生成与个性化编辑 | 14 | 1.10% | 生成模型 | `visual / images / text-to-image / style` | Holistic Evaluation for Interleaved Text-and-Image Generation |
-| [049](topic-049.md) | active learning / classification / multi-label / classes | 13 | 1.03% | LLM/语言模型 | `active learning / classification / multi-label / classes` | Self-Training for Sample-Efficient Active Learning for Text Classification with Pre-Trained Language Models |
+| [049](topic-049.md) | active learning / 分类 / multi-label / classes | 13 | 1.03% | LLM/语言模型 | `active learning / classification / multi-label / classes` | Self-Training for Sample-Efficient Active Learning for Text Classification with Pre-Trained Language Models |
 | [047](topic-047.md) | attribution / conflicts / fact-checking / evidence | 13 | 1.03% | LLM/语言模型 | `attribution / conflicts / fact-checking / evidence` | M ini C heck: Efficient Fact-Checking of LLM s on Grounding Documents |
 | [048](topic-048.md) | 多语言建模与跨语言迁移 | 13 | 1.03% | LLM/语言模型 | `alignment / preference / commentary / omission` | LION s: An Empirically Optimized Approach to Align Language Models |
 | [050](topic-050.md) | argument / event / logical / extraction | 12 | 0.95% | 理论/优化 | `argument / event / logical / extraction` | Flee the Flaw: Annotating the Underlying Logic of Fallacious Arguments Through Templates and Slot-filling |
@@ -67,7 +67,7 @@
 | [053](topic-053.md) | LoRA 与参数高效微调 | 10 | 0.79% | 推荐/检索/排序 | `lora / low-rank / federated / fms` | A lpha L o RA : Assigning L o RA Experts Based on Layer Training Quality |
 | [054](topic-054.md) | 对抗攻击、鲁棒性与安全 | 10 | 0.79% | LLM/语言模型 | `jailbreak / attack / harmful / defense` | Towards Understanding Jailbreak Attacks in LLM s: A Representation Space Analysis |
 | [055](topic-055.md) | 医疗健康与临床 AI | 10 | 0.79% | AI4Science/医疗 | `medical / health / clinical / reports` | GRASS : Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients |
-| [056](topic-056.md) | mental / health / patient / emotion | 10 | 0.79% | LLM/语言模型 | `mental / health / patient / emotion` | Still Not Quite There! Evaluating Large Language Models for Comorbid Mental Health Diagnosis |
+| [056](topic-056.md) | mental / 健康AI / patient / emotion | 10 | 0.79% | LLM/语言模型 | `mental / health / patient / emotion` | Still Not Quite There! Evaluating Large Language Models for Comorbid Mental Health Diagnosis |
 | [057](topic-057.md) | 语音/音频语言模型 | 10 | 0.79% | LLM/语言模型 | `attacks / copyrighted / paraphrasing / green` | Eliciting In-Context Learning in Vision-Language Models for Videos Through Curated Data Distributional Properties |
 | [058](topic-058.md) | 人类反馈对齐与偏好优化 | 9 | 0.71% | LLM/语言模型 | `reward / reinforcement learning / weighting / rlhf` | Optimizing Language Models with Fair and Stable Reward Composition in Reinforcement Learning |
 | [059](topic-059.md) | 视觉语言模型与多模态理解 | 9 | 0.71% | 多模态/VLM | `clip / sign / image-text / compositional` | Towards Difficulty-Agnostic Efficient Transfer Learning for Vision-Language Models |

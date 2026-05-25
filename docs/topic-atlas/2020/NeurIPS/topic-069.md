@@ -1,4 +1,4 @@
-# NeurIPS 2020: regularization / modalities / information bottleneck / generative
+# NeurIPS 2020: 少样本分类与开放集识别
 
 - Topic ID: `69`
 - Papers: **14** (0.74%)

@@ -12,11 +12,11 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 深度估计与立体匹配 | 46 | 4.79% | 3D/具身/机器人 | `point cloud / segmentation / mml / object` | Rethinking local-to-global representation learning for rotation-invariant point cloud analysis |
-| [001](topic-001.md) | 医疗健康与临床 AI | 46 | 4.79% | 多模态/VLM | `segmentation / medical image / cancer / semi-supervised` | Many birds, one stone: Medical image segmentation with multiple partially labeled datasets |
+| [001](topic-001.md) | 医学影像分割 | 46 | 4.79% | 多模态/VLM | `segmentation / medical image / cancer / semi-supervised` | Many birds, one stone: Medical image segmentation with multiple partially labeled datasets |
 | [002](topic-002.md) | object / detection / pruning / localization | 42 | 4.37% | 计算机视觉 | `object / detection / pruning / localization` | TBNet: A texture and boundary-aware network for small weak object detection in remote-sensing imagery |
-| [003](topic-003.md) | transformer / vision / fine-grained / attention | 33 | 3.43% | 计算机视觉 | `transformer / vision / fine-grained / attention` | FET-FGVC: Feature-enhanced transformer for fine-grained visual classification |
+| [003](topic-003.md) | 细粒度视觉分类与识别 | 33 | 3.43% | 计算机视觉 | `transformer / vision / fine-grained / attention` | FET-FGVC: Feature-enhanced transformer for fine-grained visual classification |
 | [004](topic-004.md) | 检索 / cross-modal / captioning / 视频理解/生成 | 32 | 3.33% | 计算机视觉 | `retrieval / cross-modal / captioning / video` | Multi-task hierarchical convolutional network for visual-semantic cross-modal retrieval |
-| [005](topic-005.md) | few-shot / classification / discrepancy / fine-grained | 30 | 3.12% | 计算机视觉 | `few-shot / classification / discrepancy / fine-grained` | Exploring sample relationship for few-shot classification |
+| [005](topic-005.md) | 少样本细粒度视觉识别 | 30 | 3.12% | 计算机视觉 | `few-shot / classification / discrepancy / fine-grained` | Exploring sample relationship for few-shot classification |
 | [006](topic-006.md) | clustering / pattern recognition / mixture / algorithms | 29 | 3.02% | 计算机视觉 | `clustering / pattern recognition / mixture / algorithms` | Preface of 2nd edition |
 | [007](topic-007.md) | mml / color / low-light / image enhancement | 28 | 2.91% | 计算机视觉 | `mml / color / low-light / image enhancement` | Lit me up: A reference free adaptive low light image enhancement for in-the-wild conditions |
 | [008](topic-008.md) | quantization / residual / contrastive / coding | 27 | 2.81% | 系统/效率/压缩 | `quantization / residual / contrastive / coding` | Residual Feature-Reutilization Inception Network |
@@ -26,7 +26,7 @@
 | [012](topic-012.md) | 目标检测与图像分割 | 22 | 2.29% | 计算机视觉 | `object / detection / images / salient` | Bidirectional feature learning network for RGB-D salient object detection |
 | [013](topic-013.md) | domain adaptation / unsupervised domain / source-free / domain generalization | 21 | 2.19% | 理论/优化 | `domain adaptation / unsupervised domain / source-free / domain generalization` | Global self-sustaining and local inheritance for source-free unsupervised domain adaptation |
 | [014](topic-014.md) | person / re-identification / search / modality | 21 | 2.19% | 推荐/检索/排序 | `person / re-identification / search / modality` | Consistency-driven feature scoring and regularization network for visible–infrared person re-identification |
-| [015](topic-015.md) | anomaly / detection / 视频理解/生成 / outlier | 21 | 2.19% | 计算机视觉 | `anomaly / detection / video / outlier` | Video anomaly detection guided by clustering learning |
+| [015](topic-015.md) | 少样本分类与开放集识别 | 21 | 2.19% | 计算机视觉 | `anomaly / detection / video / outlier` | Video anomaly detection guided by clustering learning |
 | [016](topic-016.md) | 多视图聚类与图学习 | 21 | 2.19% | 图学习/数据挖掘 | `mml / multi-view / clustering / mrow` | Joint learning of latent subspace and structured graph for multi-view clustering |
 | [017](topic-017.md) | 联邦学习与分布式训练 | 20 | 2.08% | 其他/交叉主题 | `incremental learning / class / learning algorithm / federated` | Hyper-feature aggregation and relaxed distillation for class incremental learning |
 | [018](topic-018.md) | chinese / trajectory / recognition / character | 20 | 2.08% | 计算机视觉 | `chinese / trajectory / recognition / character` | An approach for handwritten Chinese text recognition unifying character segmentation and recognition |
@@ -38,7 +38,7 @@
 | [024](topic-024.md) | 攻击、防御与模型安全 | 17 | 1.77% | 计算机视觉 | `face / signature / recognition / attack` | Dual feature disentanglement for face anti-spoofing |
 | [025](topic-025.md) | 扩散生成模型 | 17 | 1.77% | 计算机视觉 | `diffusion / image / low-light / underwater` | Frequency domain task-adaptive network for restoring images with combined degradations |
 | [028](topic-028.md) | 图像复原与超分辨率 | 16 | 1.66% | 计算机视觉 | `super-resolution / hyperspectral / multispectral / image` | A review of deep-learning-based super-resolution: From methods to applications |
-| [029](topic-029.md) | image classification / deep metric / hyperspectral image / metric learning | 16 | 1.66% | 多模态/VLM | `image classification / deep metric / hyperspectral image / metric learning` | Self-supervised learning from images: No negative pairs, no cluster-balancing |
+| [029](topic-029.md) | 少样本分类与开放集识别 | 16 | 1.66% | 多模态/VLM | `image classification / deep metric / hyperspectral image / metric learning` | Self-supervised learning from images: No negative pairs, no cluster-balancing |
 | [026](topic-026.md) | 多模态学习与跨模态理解 | 16 | 1.66% | 多模态/VLM | `facial / expression recognition / dialogue / research` | POSTER++: A simpler and stronger facial expression recognition network |
 | [027](topic-027.md) | gan / face / fashion / inversion | 16 | 1.66% | 生成模型 | `gan / face / fashion / inversion` | DA-GAN: Dual-attention generative adversarial networks for real-world exquisite makeup transfer |
 | [030](topic-030.md) | selection / feature / mml / neighborhood | 15 | 1.56% | 理论/优化 | `selection / feature / mml / neighborhood` | Incremental feature selection: Parallel approach with local neighborhood rough sets and composite entropy |

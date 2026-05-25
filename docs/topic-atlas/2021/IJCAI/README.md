@@ -14,7 +14,7 @@
 | [000](topic-000.md) | LLM Agent 与工具使用 | 36 | 4.99% | 强化学习/决策 | `logic / argumentation / semantics / reasoning` | Skeptical Reasoning with Preferred Semantics in Abstract Argumentation without Computing Preferred Extensions |
 | [001](topic-001.md) | 图神经网络与图表示学习 | 35 | 4.85% | 图学习/数据挖掘 | `clustering / node / graphs / gnns` | Node-wise Localization of Graph Neural Networks |
 | [002](topic-002.md) | 推荐系统与用户建模 | 31 | 4.29% | 推荐/检索/排序 | `recommendation / user / item / news` | Graph Learning based Recommender Systems: A Review |
-| [003](topic-003.md) | label / few-shot / classification / meta-learning | 29 | 4.02% | 计算机视觉 | `label / few-shot / classification / meta-learning` | Few-Shot Partial-Label Learning |
+| [003](topic-003.md) | 少样本分类与开放集识别 | 29 | 4.02% | 计算机视觉 | `label / few-shot / classification / meta-learning` | Few-Shot Partial-Label Learning |
 | [004](topic-004.md) | 机器翻译与跨语言对齐 | 28 | 3.88% | LLM/语言模型 | `word / language / translation / sentence` | Pretrained Language Model for Text Generation: A Survey |
 | [005](topic-005.md) | 时间序列建模与预测 | 28 | 3.88% | 图学习/数据挖掘 | `temporal / time series / tensor / events` | Neural Temporal Point Processes: A Review |
 | [006](topic-006.md) | 凸/非凸优化理论 | 26 | 3.60% | 理论/优化 | `evolutionary / stochastic / epsilon / descent` | Choosing the Right Algorithm With Hints From Complexity Theory |

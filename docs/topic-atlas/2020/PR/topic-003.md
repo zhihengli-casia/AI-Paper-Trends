@@ -1,4 +1,4 @@
-# PR 2020: classification / support vector / reduction / machine
+# PR 2020: 分类 / support vector / reduction / machine
 
 - Topic ID: `3`
 - Papers: **24** (4.85%)

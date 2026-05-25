@@ -1,4 +1,4 @@
-# MICCAI 2022: covid-19 / contrastive / classification / airway
+# MICCAI 2022: covid-19 / contrastive / 分类 / airway
 
 - Topic ID: `4`
 - Papers: **8** (11.27%)

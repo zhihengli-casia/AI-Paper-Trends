@@ -1,4 +1,4 @@
-# CVPR 2021: long-tailed / visual recognition / label distribution / categories
+# CVPR 2021: 长尾 / visual recognition / label distribution / categories
 
 - Topic ID: `89`
 - Papers: **8** (0.48%)

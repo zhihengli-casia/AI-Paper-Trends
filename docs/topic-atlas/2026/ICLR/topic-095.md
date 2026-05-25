@@ -1,4 +1,4 @@
-# ICLR 2026: single-cell / gene / biological / drug
+# ICLR 2026: 病理图像与临床 AI
 
 - Topic ID: `95`
 - Papers: **28** (0.52%)

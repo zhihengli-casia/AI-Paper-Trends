@@ -1,4 +1,4 @@
-# TMM 2021: fine-grained / label / noisy / dish
+# TMM 2021: 细粒度视觉分类与识别
 
 - Topic ID: `7`
 - Papers: **18** (4.12%)

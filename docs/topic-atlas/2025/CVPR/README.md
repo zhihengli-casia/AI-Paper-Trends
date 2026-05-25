@@ -48,7 +48,7 @@
 | [034](topic-034.md) | pose / body / human mesh / reconstruction | 28 | 0.98% | 计算机视觉 | `pose / body / human mesh / reconstruction` | Reconstructing People, Places, and Cameras |
 | [035](topic-035.md) | 对抗攻击、鲁棒性与安全 | 28 | 0.98% | 多模态/VLM | `forgery / deepfake / facial / detection` | Towards More General Video-based Deepfake Detection through Facial Component Guided Adaptation for Foundation Model |
 | [036](topic-036.md) | 视频动作生成与运动控制 | 28 | 0.98% | 生成模型 | `motion / video / temporal / vsr` | Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise |
-| [037](topic-037.md) | 医疗健康与临床 AI | 27 | 0.94% | 计算机视觉 | `segmentation / medical / semi-supervised / hard samples` | Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline |
+| [037](topic-037.md) | 医学影像病灶分析 | 27 | 0.94% | 计算机视觉 | `segmentation / medical / semi-supervised / hard samples` | Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline |
 | [038](topic-038.md) | 目标检测与图像分割 | 27 | 0.94% | 计算机视觉 | `segmentation / instance / scene / open-vocabulary` | Solving Instance Detection from an Open-World Perspective |
 | [039](topic-039.md) | 图像复原与超分辨率 | 27 | 0.94% | 多模态/VLM | `degradation / dehazing / restoration / all-in-one` | Visual-Instructed Degradation Diffusion for All-in-One Image Restoration |
 | [040](topic-040.md) | 多模态大模型与视觉语言推理 | 27 | 0.94% | 多模态/VLM | `video / mllms / lmms / multimodal` | MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models |
@@ -81,7 +81,7 @@
 | [067](topic-067.md) | correspondence / matching / registration / geometric | 20 | 0.70% | 3D/具身/机器人 | `correspondence / matching / registration / geometric` | MATCHA: Towards Matching Anything |
 | [068](topic-068.md) | 目标检测与图像分割 | 19 | 0.66% | 计算机视觉 | `segmentation / old / underwater / continual` | Rethinking Query-based Transformer for Continual Image Segmentation |
 | [069](topic-069.md) | 多模态学习与跨模态理解 | 19 | 0.66% | LLM/语言模型 | `modalities / multimodal / cross-modal / modality` | AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment |
-| [070](topic-070.md) | wsi / slide / pathology / gene | 19 | 0.66% | 多模态/VLM | `wsi / slide / pathology / gene` | FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification |
+| [070](topic-070.md) | 病理图像与临床 AI | 19 | 0.66% | 多模态/VLM | `wsi / slide / pathology / gene` | FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification |
 | [071](topic-071.md) | 图学习 / scene / triplet / relationships | 19 | 0.66% | 计算机视觉 | `graph / scene / triplet / relationships` | Universal Scene Graph Generation |
 | [072](topic-072.md) | NeRF 与神经渲染 | 18 | 0.63% | 理论/优化 | `neural / nerf / rendering / radiance` | GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis |
 | [073](topic-073.md) | concept / bottleneck / interpretable / explanations | 18 | 0.63% | 计算机视觉 | `concept / bottleneck / interpretable / explanations` | Show and Tell: Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models |
@@ -113,13 +113,13 @@
 | [099](topic-099.md) | 语音/音频语言模型 | 14 | 0.49% | 语音/音频/音乐 | `audio / sound / acoustic / mixed` | Seeing Speech and Sound: Distinguishing and Locating Audio Sources in Visual Scenes |
 | [100](topic-100.md) | 机器人操作与具身智能 | 14 | 0.49% | 3D/具身/机器人 | `navigation / urban / agents / policy` | Navigation World Models |
 | [101](topic-101.md) | distillation / dms / matching / expert | 14 | 0.49% | 生成模型 | `distillation / dms / matching / expert` | Enhancing Dataset Distillation via Non-Critical Region Refinement |
-| [107](topic-107.md) | 医疗健康与临床 AI | 13 | 0.45% | 多模态/VLM | `ood / detection / out-of-distribution / in-distribution` | Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection |
+| [107](topic-107.md) | ood / detection / out-of-distribution / in-distribution | 13 | 0.45% | 多模态/VLM | `ood / detection / out-of-distribution / in-distribution` | Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection |
 | [102](topic-102.md) | manipulation / robotic / action / assembly | 13 | 0.45% | 3D/具身/机器人 | `manipulation / robotic / action / assembly` | FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation |
 | [104](topic-104.md) | 视觉语言模型与多模态理解 | 13 | 0.45% | LLM/语言模型 | `reasoning / video / question / answering` | VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection |
 | [103](topic-103.md) | symmetry / equivariance / equivariant / rotation | 13 | 0.45% | 计算机视觉 | `symmetry / equivariance / equivariant / rotation` | A Regularization-Guided Equivariant Approach for Image Restoration |
 | [106](topic-106.md) | sketch / animation / colorization / creation | 13 | 0.45% | 生成模型 | `sketch / animation / colorization / creation` | Image Referenced Sketch Colorization Based on Animation Creation Workflow |
 | [108](topic-108.md) | 视频动作生成与运动控制 | 13 | 0.45% | 多模态/VLM | `video / reference / animation / personalization` | VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis |
-| [105](topic-105.md) | 医疗健康与临床 AI | 13 | 0.45% | 多模态/VLM | `segmentation / tumor / vessel / medical` | vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation |
+| [105](topic-105.md) | 医学影像病灶分析 | 13 | 0.45% | 多模态/VLM | `segmentation / tumor / vessel / medical` | vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation |
 | [109](topic-109.md) | 自动驾驶感知与世界模型 | 12 | 0.42% | 多模态/VLM | `occupancy / scene flow / forecasting / gaussian` | GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction |
 | [110](topic-110.md) | 视觉语言模型与多模态理解 | 12 | 0.42% | 多模态/VLM | `scene / vlms / reasoning / llm` | Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding |
 | [111](topic-111.md) | 多模态大模型与视觉语言推理 | 12 | 0.42% | 多模态/VLM | `mllms / language / reasoning / spatial-temporal` | Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model |

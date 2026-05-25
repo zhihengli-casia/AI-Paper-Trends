@@ -27,7 +27,7 @@
 | [015](topic-015.md) | 知识图谱推理与表示学习 | 22 | 2.10% | 多模态/VLM | `knowledge graph / inductive / reasoning / rules` | Learning Multi-Granularity and Adaptive Representation for Knowledge Graph Reasoning |
 | [016](topic-016.md) | anomaly / detection / cell / unsupervised | 22 | 2.10% | 生成模型 | `anomaly / detection / cell / unsupervised` | Safeguarding Sustainable Cities: Unsupervised Video Anomaly Detection through Diffusion-based Latent Pattern Learning |
 | [014](topic-014.md) | 规划搜索与决策推理 | 22 | 2.10% | 强化学习/决策 | `planning / belief / logic / plans` | Hierarchical Decompositions and Termination Analysis for Generalized Planning (Abstract Reprint) |
-| [012](topic-012.md) | 医疗健康与临床 AI | 22 | 2.10% | 计算机视觉 | `segmentation / image / medical / transformer` | ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition |
+| [012](topic-012.md) | 目标检测与图像分割 | 22 | 2.10% | 计算机视觉 | `segmentation / image / medical / transformer` | ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition |
 | [017](topic-017.md) | causal / variables / associations / independence | 21 | 2.00% | 计算机视觉 | `causal / variables / associations / independence` | Learning Structural Causal Models through Deep Generative Models: Methods, Guarantees, and Challenges |
 | [018](topic-018.md) | 隐私保护与安全学习 | 21 | 2.00% | 系统/效率/压缩 | `federated / client / non-iid / communication` | A Survey on Efficient Federated Learning Methods for Foundation Model Training |
 | [019](topic-019.md) | 图像复原与超分辨率 | 20 | 1.91% | 多模态/VLM | `image / fusion / deblurring / super-resolution` | Hybrid Frequency Modulation Network for Image Restoration |

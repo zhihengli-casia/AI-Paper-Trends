@@ -36,7 +36,7 @@
 | [023](topic-023.md) | 医疗健康与临床 AI | 15 | 1.77% | LLM/语言模型 | `biomedical / health / lms / taxonomy` | Can Language Models be Biomedical Knowledge Bases? |
 | [021](topic-021.md) | 语音/音频语言模型 | 15 | 1.77% | LLM/语言模型 | `probing / marginal / robustness / word embeddings` | All Bark and No Bite: Rogue Dimensions in Transformer Language Models Obscure Representational Quality |
 | [024](topic-024.md) | 句法知识与语言学分析 | 14 | 1.65% | 多模态/VLM | `recipe / linguistic / verb / languages` | Predicting emergent linguistic compositions through time: Syntactic frame extension via multimodal chaining |
-| [025](topic-025.md) | few-shot / self-training / examples / intent | 14 | 1.65% | NLP任务 | `few-shot / self-training / examples / intent` | ST ra TA : Self-Training with Task Augmentation for Better Few-shot Learning |
+| [025](topic-025.md) | 少样本 / self-training / examples / intent | 14 | 1.65% | NLP任务 | `few-shot / self-training / examples / intent` | ST ra TA : Self-Training with Task Augmentation for Better Few-shot Learning |
 | [026](topic-026.md) | grounding / 视频理解/生成 / proposals / images | 13 | 1.53% | 计算机视觉 | `grounding / video / proposals / images` | Improving Pre-trained Vision-and-Language Embeddings for Phrase Grounding |
 | [027](topic-027.md) | 多语言建模与跨语言迁移 | 12 | 1.42% | LLM/语言模型 | `cross-lingual / multilingual / languages / monolingual` | Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation |
 | [028](topic-028.md) | 多模态学习与跨模态理解 | 12 | 1.42% | 多模态/VLM | `dialogues / visual / navigation / agent` | Looking for Confirmations: An Effective and Human-Like Visual Dialogue Strategy |
@@ -47,7 +47,7 @@
 | [032](topic-032.md) | 多语言建模与跨语言迁移 | 11 | 1.30% | NLP任务 | `cross-lingual / languages / zero-shot / parsing` | Frustratingly Simple but Surprisingly Strong: Using Language-Independent Features for Zero-shot Cross-lingual Semantic Parsing |
 | [034](topic-034.md) | keyword / 图学习 / keyphrases / document | 10 | 1.18% | NLP任务 | `keyword / graph / keyphrases / document` | Heterogeneous Graph Neural Networks for Keyphrase Generation |
 | [035](topic-035.md) | 句法知识与语言学分析 | 10 | 1.18% | LLM/语言模型 | `paraphrase / syntactic / pivot / paraphrasing` | Learning to Selectively Learn for Weakly-supervised Paraphrase Generation |
-| [036](topic-036.md) | fine-grained / entity / scientific / typing | 10 | 1.18% | 图学习/数据挖掘 | `fine-grained / entity / scientific / typing` | C hem NER : Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision |
+| [036](topic-036.md) | 细粒度识别 / entity / scientific / typing | 10 | 1.18% | 图学习/数据挖掘 | `fine-grained / entity / scientific / typing` | C hem NER : Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision |
 | [037](topic-037.md) | disambiguation / sense / metaphor / 图学习 | 10 | 1.18% | 图学习/数据挖掘 | `disambiguation / sense / metaphor / graph` | Enhancing the Context Representation in Similarity-based Word Sense Disambiguation |
 | [038](topic-038.md) | coreference / resolution / cross-document / event | 10 | 1.18% | 理论/优化 | `coreference / resolution / cross-document / event` | Sequential Cross-Document Coreference Resolution |
 | [039](topic-039.md) | 机器翻译与跨语言对齐 | 10 | 1.18% | LLM/语言模型 | `distillation / teacher / student / relational` | Distilling Linguistic Context for Language Model Compression |

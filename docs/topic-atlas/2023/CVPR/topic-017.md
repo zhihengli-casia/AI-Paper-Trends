@@ -1,4 +1,4 @@
-# CVPR 2023: classes / few-shot / open-set / transductive
+# CVPR 2023: classes / 少样本 / 开放集 / transductive
 
 - Topic ID: `17`
 - Papers: **34** (1.44%)

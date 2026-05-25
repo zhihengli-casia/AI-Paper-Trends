@@ -89,7 +89,7 @@
 | [074](topic-074.md) | nas / search / zero-cost / neural architecture | 19 | 0.63% | 系统/效率/压缩 | `nas / search / zero-cost / neural architecture` | Efficient Few-Shot Neural Architecture Search by Counting the Number of Nonlinear Functions |
 | [078](topic-078.md) | 语音/音频语言模型 | 18 | 0.59% | 语音/音频/音乐 | `music / voice / svs / vocal` | JEN-1 DreamStyler: Customized Musical Concept Learning via Pivotal Parameters Tuning |
 | [079](topic-079.md) | 强化学习算法与理论 | 18 | 0.59% | 强化学习/决策 | `offline / policy / uncertainty / reinforcement learning` | Dynamic Uncertainty Estimation for Offline Reinforcement Learning |
-| [076](topic-076.md) | 视觉理解 / zsl / image / zero-shot | 18 | 0.59% | LLM/语言模型 | `visual / zsl / image / zero-shot` | Making Large Vision Language Models to Be Good Few-Shot Learners |
+| [076](topic-076.md) | 少样本细粒度视觉识别 | 18 | 0.59% | LLM/语言模型 | `visual / zsl / image / zero-shot` | Making Large Vision Language Models to Be Good Few-Shot Learners |
 | [077](topic-077.md) | code / 大语言模型 / program / repair | 18 | 0.59% | LLM/语言模型 | `code / llms / program / repair` | Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting |
 | [080](topic-080.md) | 查询理解与检索优化 | 17 | 0.56% | 系统/效率/压缩 | `attacks / substitute / defense / data-free` | HoneypotNet: Backdoor Attacks Against Model Extraction |
 | [081](topic-081.md) | circuits / pcs / compilation / bayes | 17 | 0.56% | 理论/优化 | `circuits / pcs / compilation / bayes` | New Compilation Languages Based on Restricted Weak Decomposability |
@@ -111,7 +111,7 @@
 | [097](topic-097.md) | activity / har / sensor / recognition | 14 | 0.46% | 计算机视觉 | `activity / har / sensor / recognition` | Generalizable Sensor-Based Activity Recognition via Categorical Concept Invariant Learning |
 | [104](topic-104.md) | cad / scene / parametric / controllable | 13 | 0.43% | 多模态/VLM | `cad / scene / parametric / controllable` | CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs |
 | [098](topic-098.md) | 图神经网络与节点表示学习 | 13 | 0.43% | 图学习/数据挖掘 | `gcl / graph contrastive learning / augmentation / negative` | Edge Contrastive Learning: An Augmentation-Free Graph Contrastive Learning Model |
-| [099](topic-099.md) | gene / cancer / expression / spatial | 13 | 0.43% | 多模态/VLM | `gene / cancer / expression / spatial` | M2OST: Many-to-one Regression for Predicting Spatial Transcriptomics from Digital Pathology Images |
+| [099](topic-099.md) | 病理图像与临床 AI | 13 | 0.43% | 多模态/VLM | `gene / cancer / expression / spatial` | M2OST: Many-to-one Regression for Predicting Spatial Transcriptomics from Digital Pathology Images |
 | [101](topic-101.md) | 视觉语言模型与多模态理解 | 13 | 0.43% | 多模态/VLM | `visual / entity / modification / multimodal` | MASS: Overcoming Language Bias in Image-Text Matching |
 | [100](topic-100.md) | compositional / 推理 / symbolic / logical | 13 | 0.43% | LLM/语言模型 | `compositional / reasoning / symbolic / logical` | NeSyCoCo: A Neuro-Symbolic Concept Composer for Compositional Generalization |
 | [103](topic-103.md) | NeRF 与神经渲染 | 13 | 0.43% | 计算机视觉 | `watermark / erasure / secret / image` | CoSDA: Enhancing the Robustness of Inversion-based Generative Image Watermarking Framework |

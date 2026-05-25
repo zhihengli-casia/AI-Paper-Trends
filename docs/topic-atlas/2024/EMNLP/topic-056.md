@@ -1,4 +1,4 @@
-# EMNLP 2024: mental / health / patient / emotion
+# EMNLP 2024: mental / 健康AI / patient / emotion
 
 - Topic ID: `56`
 - Papers: **10** (0.79%)

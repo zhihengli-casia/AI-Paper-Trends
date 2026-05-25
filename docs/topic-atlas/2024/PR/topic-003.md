@@ -1,4 +1,4 @@
-# PR 2024: transformer / vision / fine-grained / attention
+# PR 2024: 细粒度视觉分类与识别
 
 - Topic ID: `3`
 - Papers: **33** (3.43%)

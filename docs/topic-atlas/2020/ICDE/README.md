@@ -14,7 +14,7 @@
 | [000](topic-000.md) | 图神经网络与节点表示学习 | 33 | 14.22% | 图学习/数据挖掘 | `graph / networks / search / temporal` | G-thinker: A Distributed Framework for Mining Subgraphs in a Big Graph |
 | [001](topic-001.md) | 查询理解与检索优化 | 26 | 11.21% | 推荐/检索/排序 | `spatial / query / search / queries` | On Nearby-Fit Spatial Keyword Queries (Extended Abstract) |
 | [002](topic-002.md) | clustering / feature / hierarchical / ensemble | 20 | 8.62% | 图学习/数据挖掘 | `clustering / feature / hierarchical / ensemble` | On the Integration of Machine Learning and Array Databases |
-| [003](topic-003.md) | time / detection / unsupervised / classification | 16 | 6.90% | 推荐/检索/排序 | `time / detection / unsupervised / classification` | Automated Anomaly Detection in Large Sequences |
+| [003](topic-003.md) | time / detection / unsupervised / 分类 | 16 | 6.90% | 推荐/检索/排序 | `time / detection / unsupervised / classification` | Automated Anomaly Detection in Large Sequences |
 | [004](topic-004.md) | spatial / online / scheduling / deep | 15 | 6.47% | HCI/社会计算 | `spatial / online / scheduling / deep` | Predictive Task Assignment in Spatial Crowdsourcing: A Data-driven Approach |
 | [005](topic-005.md) | 查询理解与检索优化 | 14 | 6.03% | 理论/优化 | `matrix / query / profile / relational` | Query-driven Repair of Functional Dependency Violations |
 | [006](topic-006.md) | 社交媒体与社会计算 | 13 | 5.60% | 图学习/数据挖掘 | `secure / abstract / extended / target` | DAG: A General Model for Privacy-Preserving Data Mining : (Extended Abstract) |

@@ -1,4 +1,4 @@
-# PR 2023: long-tailed / visual recognition / fine-grained / feature fusion
+# PR 2023: 细粒度视觉分类与识别
 
 - Topic ID: `32`
 - Papers: **13** (1.62%)

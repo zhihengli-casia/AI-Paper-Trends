@@ -31,7 +31,7 @@
 | [017](topic-017.md) | 3D Gaussian Splatting 与场景重建 | 21 | 1.83% | 3D/具身/机器人 | `gaussian / splatting / rendering / mesh` | Gaussian Splatting with Neural Basis Extension |
 | [018](topic-018.md) | 扩散生成模型 | 20 | 1.74% | 生成模型 | `watermark / diffusion / hiding / attacks` | Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking |
 | [019](topic-019.md) | 扩散生成模型 | 20 | 1.74% | 生成模型 | `distillation / teacher / student / anomaly` | Cross-View Consistency Regularisation for Knowledge Distillation |
-| [020](topic-020.md) | action / 视频理解/生成 / temporal / few-shot | 19 | 1.65% | 多模态/VLM | `action / video / temporal / few-shot` | Revisiting Unsupervised Temporal Action Localization: The Primacy of High-Quality Actionness and Pseudolabels |
+| [020](topic-020.md) | action / 视频理解/生成 / temporal / 少样本 | 19 | 1.65% | 多模态/VLM | `action / video / temporal / few-shot` | Revisiting Unsupervised Temporal Action Localization: The Primacy of High-Quality Actionness and Pseudolabels |
 | [021](topic-021.md) | 多模态学习与跨模态理解 | 19 | 1.65% | LLM/语言模型 | `reasoning / multimodal / question / answering` | Fact : Teaching MLLMs with Faithful, Concise and Transferable Rationales |
 | [022](topic-022.md) | 查询理解与检索优化 | 19 | 1.65% | 推荐/检索/排序 | `retrieval / image-text / alignment / cross-modal` | Selection and Reconstruction of Key Locals: A Novel Specific Domain Image-Text Retrieval Method |
 | [023](topic-023.md) | 视觉语言模型与多模态理解 | 19 | 1.65% | 多模态/VLM | `clip / few-shot / vision-language / image classification` | Visual-Language Collaborative Representation Network for Broad-Domain Few-Shot Image Classification |
@@ -42,7 +42,7 @@
 | [028](topic-028.md) | 自动驾驶感知与世界模型 | 17 | 1.48% | 计算机视觉 | `object / bev / perception / autonomous` | Uni-YOLO: Vision-Language Model-Guided YOLO for Robust and Fast Universal Detection in the Open World |
 | [029](topic-029.md) | 机器翻译与跨语言对齐 | 17 | 1.48% | 多模态/VLM | `infrared / image fusion / thermal / visible` | TeRF: Text-driven and Region-aware Flexible Visible and Infrared Image Fusion |
 | [030](topic-030.md) | 文生图生成与个性化编辑 | 16 | 1.39% | 多模态/VLM | `aesthetic / assessment / iqa / image quality` | Attribute-Driven Multimodal Hierarchical Prompts for Image Aesthetic Quality Assessment |
-| [031](topic-031.md) | 医疗健康与临床 AI | 16 | 1.39% | 计算机视觉 | `segmentation / medical / diagnosis / cancer` | GuidedNet: Semi-Supervised Multi-Organ Segmentation via Labeled Data Guide Unlabeled Data |
+| [031](topic-031.md) | 医学影像病灶分析 | 16 | 1.39% | 计算机视觉 | `segmentation / medical / diagnosis / cancer` | GuidedNet: Semi-Supervised Multi-Organ Segmentation via Labeled Data Guide Unlabeled Data |
 | [032](topic-032.md) | 扩散生成模型 | 16 | 1.39% | 生成模型 | `foreground / color / diffusion / shadow` | CFDiffusion: Controllable Foreground Relighting in Image Compositing via Diffusion Model |
 | [034](topic-034.md) | 多模态学习与跨模态理解 | 15 | 1.31% | 多模态/VLM | `news / fake / multimodal / social` | Harmfully Manipulated Images Matter in Multimodal Misinformation Detection |
 | [035](topic-035.md) | 目标检测与图像分割 | 15 | 1.31% | 计算机视觉 | `self-attention / transformer / change / vessel` | Linearly-evolved Transformer for Pan-sharpening |

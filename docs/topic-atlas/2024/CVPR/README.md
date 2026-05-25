@@ -27,7 +27,7 @@
 | [013](topic-013.md) | 扩散生成模型 | 38 | 1.40% | 计算机视觉 | `materials / lighting / shadows / reflection` | LightIt: Illumination Modeling and Control for Diffusion Models |
 | [014](topic-014.md) | 公平性、偏见与可信 AI | 37 | 1.36% | 生成模型 | `fairness / biases / deepfake / spurious` | Classes Are Not Equal: An Empirical Study on Image Recognition Fairness |
 | [015](topic-015.md) | facial / face / hair / makeup | 36 | 1.33% | 生成模型 | `facial / face / hair / makeup` | 3D Facial Expressions through Analysis-by-Neural-Synthesis |
-| [016](topic-016.md) | 医疗健康与临床 AI | 36 | 1.33% | 计算机视觉 | `medical / segmentation / anatomical / tumor` | Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation |
+| [016](topic-016.md) | 目标检测与图像分割 | 36 | 1.33% | 计算机视觉 | `medical / segmentation / anatomical / tumor` | Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation |
 | [017](topic-017.md) | 对抗攻击、鲁棒性与安全 | 35 | 1.29% | 多模态/VLM | `adversarial / attacks / gradient / fas` | On the Robustness of Large Multimodal Models Against Image Adversarial Attacks |
 | [018](topic-018.md) | 视频扩散生成与运动控制 | 35 | 1.29% | 生成模型 | `video / diffusion / temporal / t2v` | BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models |
 | [019](topic-019.md) | 深度估计与立体匹配 | 35 | 1.29% | 3D/具身/机器人 | `radar / lidar / depth / object detection` | Weak-to-Strong 3D Object Detection with X-Ray Distillation |
@@ -51,7 +51,7 @@
 | [037](topic-037.md) | 目标检测与图像分割 | 29 | 1.07% | 计算机视觉 | `video / segmentation / slot / vos` | Dual Prototype Attention for Unsupervised Video Object Segmentation |
 | [038](topic-038.md) | pose / estimation / category-level / keypoints | 29 | 1.07% | 计算机视觉 | `pose / estimation / category-level / keypoints` | Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos |
 | [041](topic-041.md) | 目标检测与图像分割 | 28 | 1.03% | 计算机视觉 | `segmentation / wsss / sam / cams` | Semantic-aware SAM for Point-Prompted Instance Segmentation |
-| [040](topic-040.md) | 医疗健康与临床 AI | 28 | 1.03% | 多模态/VLM | `slide / pathology / radiology / mil` | Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology |
+| [040](topic-040.md) | 病理图像与临床 AI | 28 | 1.03% | 多模态/VLM | `slide / pathology / radiology / mil` | Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology |
 | [042](topic-042.md) | 目标检测与图像分割 | 28 | 1.03% | 计算机视觉 | `segmentation / cross-domain / domains / domain adaptation` | Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation |
 | [039](topic-039.md) | 语音/音频语言模型 | 28 | 1.03% | 语音/音频/音乐 | `audio-visual / speech / sound / acoustic` | Unraveling Instance Associations: A Closer Look for Audio-Visual Segmentation |
 | [043](topic-043.md) | hsi / spectral / imaging / compressive | 28 | 1.03% | 计算机视觉 | `hsi / spectral / imaging / compressive` | DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model |
@@ -105,7 +105,7 @@
 | [090](topic-090.md) | 多智能体协作与规划 | 13 | 0.48% | 多模态/VLM | `forecasting / social / motion / human pose` | FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations |
 | [091](topic-091.md) | action / egocentric / procedural / 视频理解/生成 | 13 | 0.48% | LLM/语言模型 | `action / egocentric / procedural / video` | Action Scene Graphs for Long-Form Understanding of Egocentric Videos |
 | [092](topic-092.md) | deblurring / blurry / isp / 运动建模 | 13 | 0.48% | 计算机视觉 | `deblurring / blurry / isp / motion` | Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains |
-| [093](topic-093.md) | 医疗健康与临床 AI | 13 | 0.48% | 计算机视觉 | `sam / segmentation / semantic priors / marine` | EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything |
+| [093](topic-093.md) | 目标检测与图像分割 | 13 | 0.48% | 计算机视觉 | `sam / segmentation / semantic priors / marine` | EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything |
 | [096](topic-096.md) | 自动驾驶感知与世界模型 | 13 | 0.48% | 多模态/VLM | `perception / roadside / collaborative / gaze` | RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception |
 | [097](topic-097.md) | 目标检测与图像分割 | 13 | 0.48% | LLM/语言模型 | `referring / ris / segmentation / expression` | Mask Grounding for Referring Image Segmentation |
 | [098](topic-098.md) | multi-task / dense prediction / experts / mtl | 13 | 0.48% | 计算机视觉 | `multi-task / dense prediction / experts / mtl` | Going Beyond Multi-Task Dense Prediction with Synergy Embedding Models |

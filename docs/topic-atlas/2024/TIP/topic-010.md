@@ -1,4 +1,4 @@
-# TIP 2024: object / detectors / unknown / few-shot
+# TIP 2024: object / detectors / unknown / 少样本
 
 - Topic ID: `10`
 - Papers: **19** (3.97%)

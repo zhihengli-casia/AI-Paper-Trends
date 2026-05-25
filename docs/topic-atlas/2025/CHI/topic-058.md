@@ -1,4 +1,4 @@
-# CHI 2025: patient / diabetes / children parents / technologies
+# CHI 2025: 医疗健康与临床 AI
 
 - Topic ID: `58`
 - Papers: **10** (0.80%)

@@ -1,4 +1,4 @@
-# MICCAI 2023: 医疗健康与临床 AI
+# MICCAI 2023: 医学影像病灶分析
 
 - Topic ID: `5`
 - Papers: **7** (9.59%)

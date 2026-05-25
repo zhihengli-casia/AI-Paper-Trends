@@ -1,4 +1,4 @@
-# NeurIPS 2021: 医疗健康与临床 AI
+# NeurIPS 2021: 知识图谱推理与表示学习
 
 - Topic ID: `84`
 - Papers: **12** (0.51%)

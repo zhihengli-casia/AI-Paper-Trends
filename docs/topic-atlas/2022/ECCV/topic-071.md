@@ -1,4 +1,4 @@
-# ECCV 2022: few-shot / detection / slices / video object
+# ECCV 2022: 少样本 / detection / slices / video object
 
 - Topic ID: `71`
 - Papers: **11** (0.67%)

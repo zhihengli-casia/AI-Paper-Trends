@@ -1,4 +1,4 @@
-# CVPR 2020: zero-shot / fine-grained / discriminative / unseen classes
+# CVPR 2020: 细粒度视觉分类与识别
 
 - Topic ID: `51`
 - Papers: **15** (1.02%)

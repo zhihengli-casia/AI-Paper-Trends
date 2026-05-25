@@ -36,7 +36,7 @@
 | [022](topic-022.md) | 多模态大模型与视觉语言推理 | 56 | 1.05% | 多模态/VLM | `visual / mllms / multimodal / vision-language` | Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding |
 | [023](topic-023.md) | 视频扩散生成与运动控制 | 55 | 1.03% | 生成模型 | `video / diffusion / motion / frames` | Self-Forcing++: Towards Minute-Scale High-Quality Video Generation |
 | [024](topic-024.md) | 神经网络理论与优化行为 | 55 | 1.03% | 理论/优化 | `networks / equivariant / symmetry / symmetries` | On Universality of Deep Equivariant Networks |
-| [025](topic-025.md) | clustering / regression / classification / fault | 55 | 1.03% | 系统/效率/压缩 | `clustering / regression / classification / fault` | DISCO: Diversifying Sample Condensation for Efficient Model Evaluation |
+| [025](topic-025.md) | clustering / regression / 分类 / fault | 55 | 1.03% | 系统/效率/压缩 | `clustering / regression / classification / fault` | DISCO: Diversifying Sample Condensation for Efficient Model Evaluation |
 | [026](topic-026.md) | 机器人操作与具身智能 | 54 | 1.01% | 3D/具身/机器人 | `robot / manipulation / policy / tactile` | WorldGym: World Model as An Environment for Policy Evaluation |
 | [027](topic-027.md) | 代码生成与程序理解 | 54 | 1.01% | LLM/语言模型 | `combinatorial optimization / routing / solvers / vehicle` | FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization |
 | [028](topic-028.md) | transformers / icl / in-context / length | 54 | 1.01% | LLM/语言模型 | `transformers / icl / in-context / length` | Continuum Transformers Perform In-Context Learning by Operator Gradient Descent |
@@ -59,9 +59,9 @@
 | [045](topic-045.md) | 多模态大模型与视觉语言推理 | 46 | 0.86% | 多模态/VLM | `video / mllms / audio / multimodal` | OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs |
 | [046](topic-046.md) | 文生图生成与个性化编辑 | 45 | 0.84% | 生成模型 | `diffusion / dits / denoising / nce` | Generalization of Diffusion Models Arises with a Balanced Representation Space |
 | [047](topic-047.md) | offline / 策略优化 / model-based / action | 45 | 0.84% | 强化学习/决策 | `offline / policy / model-based / action` | Preference-based Policy Optimization from Sparse-reward Offline Dataset |
-| [048](topic-048.md) | label / spurious / long-tailed / distributionally robust | 45 | 0.84% | 可信/安全/公平 | `label / spurious / long-tailed / distributionally robust` | Robustness of Probabilistic Models to Low-Quality Data: A Multi-Perspective Analysis |
+| [048](topic-048.md) | 长尾视觉识别与分类 | 45 | 0.84% | 可信/安全/公平 | `label / spurious / long-tailed / distributionally robust` | Robustness of Probabilistic Models to Low-Quality Data: A Multi-Perspective Analysis |
 | [049](topic-049.md) | 隐私保护与安全学习 | 45 | 0.84% | 可信/安全/公平 | `unlearning / forget / privacy / attacks` | Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs |
-| [050](topic-050.md) | 医疗健康与临床 AI | 44 | 0.82% | 多模态/VLM | `medical / clinical / ultrasound / segmentation` | Medical thinking with multiple images |
+| [050](topic-050.md) | 病理图像与临床 AI | 44 | 0.82% | 多模态/VLM | `medical / clinical / ultrasound / segmentation` | Medical thinking with multiple images |
 | [051](topic-051.md) | LiDAR 点云与 3D 感知 | 44 | 0.82% | 3D/具身/机器人 | `segmentation / object / scene / point cloud` | LiFR-Seg: Anytime High-Frame-Rate Segmentation via Event-Guided Propagation |
 | [052](topic-052.md) | Chain-of-Thought 与大模型推理 | 43 | 0.80% | LLM/语言模型 | `latent reasoning / llms / thinking / cot` | Latent-Guided Reasoning: Empowering Small LLMs with Large-Model Thinking |
 | [053](topic-053.md) | steering / activation / 大语言模型 / emergent misalignment | 43 | 0.80% | LLM/语言模型 | `steering / activation / llms / emergent misalignment` | COLD-Steer: Steering Large Language Models via In-Context One-step Learning Dynamics |
@@ -94,7 +94,7 @@
 | [081](topic-081.md) | brain / fmri / 视觉理解 / cortex | 32 | 0.60% | LLM/语言模型 | `brain / fmri / visual / cortex` | The Human Brain as a Dynamic Mixture of Expert Models in Video Understanding |
 | [080](topic-080.md) | 攻击、防御与模型安全 | 32 | 0.60% | LLM/语言模型 | `privacy / secure / private / membership inference` | Natural Identifiers for Privacy and Data Audits in Large Language Models |
 | [083](topic-083.md) | 多语言建模与跨语言迁移 | 32 | 0.60% | LLM/语言模型 | `llms / sft / token / filtering` | Explainable Token-level Noise Filtering for LLM Fine-tuning Datasets |
-| [082](topic-082.md) | 医疗健康与临床 AI | 32 | 0.60% | 生成模型 | `diffusion / inverse problems / imaging / medical` | Noise-Adaptive Diffusion Sampling for Inverse Problems Without Task-Specific Tuning |
+| [082](topic-082.md) | 扩散生成模型 | 32 | 0.60% | 生成模型 | `diffusion / inverse problems / imaging / medical` | Noise-Adaptive Diffusion Sampling for Inverse Problems Without Task-Specific Tuning |
 | [084](topic-084.md) | 视觉语言动作模型与具身操作 | 31 | 0.58% | 3D/具身/机器人 | `driving / autonomous / planning / traffic` | ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving |
 | [085](topic-085.md) | 扩散生成模型 | 31 | 0.58% | 强化学习/决策 | `flow / policy / policies / offline` | Flow Matching Policy Gradients |
 | [086](topic-086.md) | quantization / ptq / qat / bit | 31 | 0.58% | LLM/语言模型 | `quantization / ptq / qat / bit` | SliderQuant: Accurate Post-Training Quantization for LLMs |
@@ -106,7 +106,7 @@
 | [090](topic-090.md) | test-time scaling / verifier / verification / voting | 29 | 0.54% | LLM/语言模型 | `test-time scaling / verifier / verification / voting` | CaTS: Calibrated Test-Time Scaling for Efficient LLM Reasoning |
 | [092](topic-092.md) | 多模态大模型与视觉语言推理 | 29 | 0.54% | 多模态/VLM | `visual / token / pruning / vision` | Task-Related Token Compression in Multimodal Large Language Models from an Explainability Perspective |
 | [094](topic-094.md) | 深度估计与立体匹配 | 28 | 0.52% | 3D/具身/机器人 | `depth / pose / camera / reconstruction` | Depth Anything 3: Recovering the Visual Space from Any Views |
-| [095](topic-095.md) | single-cell / gene / biological / drug | 28 | 0.52% | 多模态/VLM | `single-cell / gene / biological / drug` | Controllable diffusion-based generation for multi-channel biological data |
+| [095](topic-095.md) | 病理图像与临床 AI | 28 | 0.52% | 多模态/VLM | `single-cell / gene / biological / drug` | Controllable diffusion-based generation for multi-channel biological data |
 | [096](topic-096.md) | Mamba 与状态空间视觉模型 | 28 | 0.52% | 理论/优化 | `ssms / mamba / sequence modeling / rnns` | Mamba-3: Improved Sequence Modeling using State Space Principles |
 | [097](topic-097.md) | 目标检测与图像分割 | 28 | 0.52% | 可信/安全/公平 | `conformal / prediction sets / uncertainty / coverage` | Distribution-informed Online Conformal Prediction |
 | [098](topic-098.md) | mechanistic / interpretability / networks / circuits | 27 | 0.50% | 其他/交叉主题 | `mechanistic / interpretability / networks / circuits` | Decomposing Representation Space into Interpretable Subspaces with Unsupervised Learning |

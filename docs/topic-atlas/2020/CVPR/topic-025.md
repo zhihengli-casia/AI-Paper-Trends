@@ -1,4 +1,4 @@
-# CVPR 2020: few-shot / open-set / classes / classification
+# CVPR 2020: 少样本分类与开放集识别
 
 - Topic ID: `25`
 - Papers: **19** (1.30%)

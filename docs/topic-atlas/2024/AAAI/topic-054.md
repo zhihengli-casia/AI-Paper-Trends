@@ -1,4 +1,4 @@
-# AAAI 2024: ood / long-tailed / classes / head
+# AAAI 2024: ood / 长尾 / classes / head
 
 - Topic ID: `54`
 - Papers: **20** (0.86%)

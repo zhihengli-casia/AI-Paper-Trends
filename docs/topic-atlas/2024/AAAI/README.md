@@ -16,7 +16,7 @@
 | [002](topic-002.md) | 视觉语言模型与多模态理解 | 54 | 2.32% | 多模态/VLM | `prompt / visual / vision-language / tuning` | CoPL: Contextual Prompt Learning for Vision-Language Understanding |
 | [003](topic-003.md) | 语音/音频语言模型 | 51 | 2.19% | 语音/音频/音乐 | `audio / speech / music / style` | V2Meow: Meowing to the Visual Beat via Video-to-Music Generation |
 | [004](topic-004.md) | 文生图生成与个性化编辑 | 51 | 2.19% | 生成模型 | `diffusion / editing / images / text-to-image` | Progressive Text-to-Image Diffusion with Soft Latent Direction |
-| [005](topic-005.md) | label / pll / open-set / active learning | 48 | 2.06% | 其他/交叉主题 | `label / pll / open-set / active learning` | Limited-Supervised Multi-Label Learning with Dependency Noise |
+| [005](topic-005.md) | label / pll / 开放集 / active learning | 48 | 2.06% | 其他/交叉主题 | `label / pll / open-set / active learning` | Limited-Supervised Multi-Label Learning with Dependency Noise |
 | [006](topic-006.md) | 图神经网络与图表示学习 | 46 | 1.97% | 图学习/数据挖掘 | `graph / gnns / node / fraud` | Fine-Tuning Graph Neural Networks by Preserving Graph Generative Patterns |
 | [007](topic-007.md) | 视频扩散生成与运动控制 | 45 | 1.93% | 生成模型 | `motion / human / diffusion / body` | AMD: Autoregressive Motion Diffusion |
 | [012](topic-012.md) | pose / human / estimation / mesh | 44 | 1.89% | 计算机视觉 | `pose / human / estimation / mesh` | FusionFormer: A Concise Unified Feature Fusion Transformer for 3D Pose Estimation |
@@ -39,7 +39,7 @@
 | [025](topic-025.md) | causal / treatment / identifiable / confounders | 31 | 1.33% | 图学习/数据挖掘 | `causal / treatment / identifiable / confounders` | Scores for Learning Discrete Causal Graphs with Unobserved Confounders |
 | [026](topic-026.md) | 文档摘要与信息压缩 | 30 | 1.29% | LLM/语言模型 | `retrieval / summarization / language / document` | STAR: Boosting Low-Resource Information Extraction by Structure-to-Text Data Generation with Large Language Models |
 | [027](topic-027.md) | coreset / decision trees / sor / machine learning | 29 | 1.24% | 理论/优化 | `coreset / decision trees / sor / machine learning` | Learning Small Decision Trees with Few Outliers: A Parameterized Perspective |
-| [028](topic-028.md) | few-shot / categories / classes / transfer | 29 | 1.24% | NLP任务 | `few-shot / categories / classes / transfer` | Scaling Few-Shot Learning for the Open World |
+| [028](topic-028.md) | 少样本分类与开放集识别 | 29 | 1.24% | NLP任务 | `few-shot / categories / classes / transfer` | Scaling Few-Shot Learning for the Open World |
 | [029](topic-029.md) | NeRF 与神经渲染 | 28 | 1.20% | 计算机视觉 | `nerf / radiance / fields / rendering` | Ced-NeRF: A Compact and Efficient Method for Dynamic Neural Radiance Fields |
 | [030](topic-030.md) | LiDAR 点云与 3D 感知 | 28 | 1.20% | 3D/具身/机器人 | `localization / lidar / detection / object` | Voxel or Pillar: Exploring Efficient Point Cloud Representation for 3D Object Detection |
 | [031](topic-031.md) | 多视图聚类与图学习 | 27 | 1.16% | 图学习/数据挖掘 | `clustering / multi-view / incomplete / views` | Sample-Level Cross-View Similarity Learning for Incomplete Multi-View Clustering |
@@ -63,7 +63,7 @@
 | [046](topic-046.md) | 自动驾驶感知与世界模型 | 21 | 0.90% | 3D/具身/机器人 | `driving / autonomous / bev / detection` | PVALane: Prior-Guided 3D Lane Detection with View-Agnostic Feature Alignment |
 | [050](topic-050.md) | vqa / 视觉理解 / 推理 / question | 21 | 0.90% | 多模态/VLM | `vqa / visual / reasoning / question` | Object Attribute Matters in Visual Question Answering |
 | [051](topic-051.md) | brain / emotion / concepts / neuron | 20 | 0.86% | 计算机视觉 | `brain / emotion / concepts / neuron` | Understanding Distributed Representations of Concepts in Deep Neural Networks without Supervision |
-| [054](topic-054.md) | ood / long-tailed / classes / head | 20 | 0.86% | 计算机视觉 | `ood / long-tailed / classes / head` | EAT: Towards Long-Tailed Out-of-Distribution Detection |
+| [054](topic-054.md) | ood / 长尾 / classes / head | 20 | 0.86% | 计算机视觉 | `ood / long-tailed / classes / head` | EAT: Towards Long-Tailed Out-of-Distribution Detection |
 | [055](topic-055.md) | 大语言模型 / factual / 推理 / editing | 20 | 0.86% | LLM/语言模型 | `llms / factual / reasoning / editing` | Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting |
 | [052](topic-052.md) | 联邦学习与分布式训练 | 20 | 0.86% | 图学习/数据挖掘 | `causal / event / effects / graph` | Rethinking Causal Relationships Learning in Graph Neural Networks |
 | [053](topic-053.md) | 多语言建模与跨语言迁移 | 20 | 0.86% | LLM/语言模型 | `llms / language / instructions / multilingual` | Teaching Large Language Models to Translate with Comparison |
@@ -74,7 +74,7 @@
 | [059](topic-059.md) | 时间序列建模与预测 | 18 | 0.77% | 推荐/检索/排序 | `spatiotemporal / traffic / spatial-temporal / mobility` | Towards Dynamic Spatial-Temporal Graph Learning: A Decoupled Perspective |
 | [063](topic-063.md) | 扩散生成模型 | 17 | 0.73% | 生成模型 | `style / artistic / harmonization / images` | DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models |
 | [064](topic-064.md) | 深度估计与立体匹配 | 17 | 0.73% | 多模态/VLM | `stereo / depth / scene / disparity` | Modeling Stereo-Confidence out of the End-to-End Stereo-Matching Network via Disparity Plane Sweep |
-| [061](topic-061.md) | 医疗健康与临床 AI | 17 | 0.73% | 多模态/VLM | `medical / segmentation / lesion / clinical` | DTMFormer: Dynamic Token Merging for Boosting Transformer-Based Medical Image Segmentation |
+| [061](topic-061.md) | 医学影像病灶分析 | 17 | 0.73% | 多模态/VLM | `medical / segmentation / lesion / clinical` | DTMFormer: Dynamic Token Merging for Boosting Transformer-Based Medical Image Segmentation |
 | [062](topic-062.md) | 视频动作生成与运动控制 | 17 | 0.73% | 3D/具身/机器人 | `optical / motion / flow / video` | Offline and Online Optical Flow Enhancement for Deep Video Compression |
 | [065](topic-065.md) | LiDAR 点云与 3D 感知 | 16 | 0.69% | 3D/具身/机器人 | `point cloud / completion / shape / clouds` | PointAttN: You Only Need Attention for Point Cloud Completion |
 | [066](topic-066.md) | 攻击、防御与模型安全 | 16 | 0.69% | 可信/安全/公平 | `privacy / gradient / private / differential` | Online Sensitivity Optimization in Differentially Private Learning |
@@ -93,13 +93,13 @@
 | [078](topic-078.md) | 目标检测与图像分割 | 13 | 0.56% | 多模态/VLM | `anomaly / detection / anomalies / normal` | Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection |
 | [079](topic-079.md) | 扩散生成模型 | 13 | 0.56% | 计算机视觉 | `diffusion / super-resolution / images / denoising` | High-Fidelity Diffusion-Based Image Editing |
 | [080](topic-080.md) | 语音/音频语言模型 | 13 | 0.56% | 多模态/VLM | `sentiment / quantum / sarcasm / aspect` | Aspect-Based Sentiment Analysis with Explicit Sentiment Augmentations |
-| [083](topic-083.md) | 医疗健康与临床 AI | 13 | 0.56% | 可信/安全/公平 | `federated / clients / label noise / non-iid` | FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels |
+| [083](topic-083.md) | 隐私保护与安全学习 | 13 | 0.56% | 可信/安全/公平 | `federated / clients / label noise / non-iid` | FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels |
 | [084](topic-084.md) | 对抗攻击、鲁棒性与安全 | 13 | 0.56% | 系统/效率/压缩 | `distillation / teacher / student / moe` | Teacher as a Lenient Expert: Teacher-Agnostic Data-Free Knowledge Distillation |
 | [081](topic-081.md) | 多智能体协作与规划 | 13 | 0.56% | 强化学习/决策 | `agents / logics / beliefs / dialogue` | Abstraction of Situation Calculus Concurrent Game Structures |
 | [085](topic-085.md) | transport / optimal / distances / spectral | 12 | 0.51% | 系统/效率/压缩 | `transport / optimal / distances / spectral` | Double-Bounded Optimal Transport for Advanced Clustering and Classification |
 | [086](topic-086.md) | 查询理解与检索优化 | 12 | 0.51% | 推荐/检索/排序 | `semantics / reasoning / datalog / answers` | Redefining ABA+ Semantics via Abstract Set-to-Set Attacks |
 | [087](topic-087.md) | 代码生成与程序理解 | 12 | 0.51% | 其他/交叉主题 | `formulae / ltlf / constraint / programs` | Learning to Learn in Interactive Constraint Acquisition |
-| [088](topic-088.md) | 多模态学习与跨模态理解 | 12 | 0.51% | 多模态/VLM | `cell / pathology / slide / classification` | CaMIL: Causal Multiple Instance Learning for Whole Slide Image Classification |
+| [088](topic-088.md) | 病理图像与临床 AI | 12 | 0.51% | 多模态/VLM | `cell / pathology / slide / classification` | CaMIL: Causal Multiple Instance Learning for Whole Slide Image Classification |
 | [089](topic-089.md) | 查询理解与检索优化 | 11 | 0.47% | 计算机视觉 | `few-shot / counting / fss / fine-tuning` | Pushing the Limit of Fine-Tuning for Few-Shot Learning: Where Feature Reusing Meets Cross-Scale Attention |
 | [090](topic-090.md) | 机器人操作与具身智能 | 11 | 0.47% | 强化学习/决策 | `agents / multi-agent / path / min-max` | Decentralized Monte Carlo Tree Search for Partially Observable Multi-Agent Pathfinding |
 | [091](topic-091.md) | 查询理解与检索优化 | 11 | 0.47% | 推荐/检索/排序 | `video / retrieval / moment / clip` | Fewer Steps, Better Performance: Efficient Cross-Modal Clip Trimming for Video Moment Retrieval Using Language |

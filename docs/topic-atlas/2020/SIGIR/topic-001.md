@@ -1,4 +1,4 @@
-# SIGIR 2020: event / product / classification / review
+# SIGIR 2020: event / product / 分类 / review
 
 - Topic ID: `1`
 - Papers: **16** (10.88%)

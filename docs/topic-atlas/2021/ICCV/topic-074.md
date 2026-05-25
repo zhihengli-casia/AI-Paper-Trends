@@ -1,4 +1,4 @@
-# ICCV 2021: long-tailed / classes / recognition / head
+# ICCV 2021: 长尾 / classes / recognition / head
 
 - Topic ID: `74`
 - Papers: **10** (0.62%)

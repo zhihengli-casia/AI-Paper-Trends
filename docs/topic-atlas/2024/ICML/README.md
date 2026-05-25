@@ -62,7 +62,7 @@
 | [047](topic-047.md) | 语音/音频语言模型 | 23 | 0.88% | 语音/音频/音乐 | `audio / music / speech / sound` | Creative Text-to-Audio Generation via Synthesizer Programming |
 | [049](topic-049.md) | LoRA 与参数高效微调 | 23 | 0.88% | 系统/效率/压缩 | `lora / low-rank / fine-tuning / adaptation` | LoRA+: Efficient Low Rank Adaptation of Large Models |
 | [050](topic-050.md) | 具身智能与物理交互 | 23 | 0.88% | LLM/语言模型 | `agents / llms / language / planning` | Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models |
-| [051](topic-051.md) | collapse / mutual information / entropy / classification | 22 | 0.84% | 理论/优化 | `collapse / mutual information / entropy / classification` | Unveiling the Dynamics of Information Interplay in Supervised Learning |
+| [051](topic-051.md) | collapse / mutual information / entropy / 分类 | 22 | 0.84% | 理论/优化 | `collapse / mutual information / entropy / classification` | Unveiling the Dynamics of Information Interplay in Supervised Learning |
 | [052](topic-052.md) | 随机优化与收敛理论 | 22 | 0.84% | 理论/优化 | `curvature / sgd / memorization / adam` | No Wrong Turns: The Simple Geometry Of Neural Networks Optimization Paths |
 | [053](topic-053.md) | interpretability / explanations / xai / feature visualizations | 22 | 0.84% | 其他/交叉主题 | `interpretability / explanations / xai / feature visualizations` | Linear Explanations for Individual Neurons |
 | [054](topic-054.md) | cache / decoding / 大语言模型 / draft | 22 | 0.84% | 系统/效率/压缩 | `cache / decoding / llm / draft` | CaM: Cache Merging for Memory-efficient LLMs Inference |

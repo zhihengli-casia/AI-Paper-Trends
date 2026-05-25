@@ -1,4 +1,4 @@
-# NeurIPS 2024: 医疗健康与临床 AI
+# NeurIPS 2024: 规划搜索与决策推理
 
 - Topic ID: `53`
 - Papers: **35** (0.87%)

@@ -1,4 +1,4 @@
-# TIP 2024: food / fine-grained / recognition / noisy
+# TIP 2024: 细粒度视觉分类与识别
 
 - Topic ID: `22`
 - Papers: **11** (2.30%)

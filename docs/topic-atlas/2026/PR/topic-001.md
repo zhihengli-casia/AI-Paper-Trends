@@ -1,10 +1,10 @@
-# PR 2026: mml / kernel / quadratic / feature selection
+# PR 2026: kernel / quadratic / feature selection / faster
 
 - Topic ID: `1`
 - Papers: **36** (3.89%)
 - Macro topic: 图学习/数据挖掘
-- English keywords: `mml / kernel / quadratic / feature selection`
-- Keyword pool: mml; kernel; quadratic; feature selection; faster; classification; hyperparameter; decision; fuzzy; similar; tuning; support vector
+- English keywords: `kernel / quadratic / feature selection / faster`
+- Keyword pool: kernel; quadratic; feature selection; faster; classification; hyperparameter; decision; fuzzy; similar; tuning; support vector; linear
 
 [Back to PR 2026](README.md) | [Atlas home](../../README.md)
 

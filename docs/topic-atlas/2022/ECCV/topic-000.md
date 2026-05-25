@@ -1,4 +1,4 @@
-# ECCV 2022: contrastive / few-shot / self-supervised / negative
+# ECCV 2022: contrastive / 少样本 / self-supervised / negative
 
 - Topic ID: `0`
 - Papers: **59** (3.59%)

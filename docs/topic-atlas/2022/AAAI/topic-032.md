@@ -1,4 +1,4 @@
-# AAAI 2022: long-tailed / classes / osr / logit
+# AAAI 2022: 长尾视觉识别与分类
 
 - Topic ID: `32`
 - Papers: **17** (1.29%)

@@ -1,4 +1,4 @@
-# ICCV 2023: gan / few-shot / adaptation / generative
+# ICCV 2023: gan / 少样本 / adaptation / generative
 
 - Topic ID: `65`
 - Papers: **16** (0.74%)

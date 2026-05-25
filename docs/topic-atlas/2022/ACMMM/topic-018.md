@@ -1,4 +1,4 @@
-# ACMMM 2022: action / temporal / 运动建模 / recognition
+# ACMMM 2022: 细粒度视觉分类与识别
 
 - Topic ID: `18`
 - Papers: **17** (2.46%)

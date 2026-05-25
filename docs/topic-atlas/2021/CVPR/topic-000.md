@@ -1,4 +1,4 @@
-# CVPR 2021: contrastive / clustering / classification / unsupervised
+# CVPR 2021: contrastive / clustering / 分类 / unsupervised
 
 - Topic ID: `0`
 - Papers: **48** (2.89%)

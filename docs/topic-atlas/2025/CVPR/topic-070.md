@@ -1,4 +1,4 @@
-# CVPR 2025: wsi / slide / pathology / gene
+# CVPR 2025: 病理图像与临床 AI
 
 - Topic ID: `70`
 - Papers: **19** (0.66%)

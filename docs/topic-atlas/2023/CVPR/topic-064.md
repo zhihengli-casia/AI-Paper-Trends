@@ -1,4 +1,4 @@
-# CVPR 2023: long-tailed / classes / curvature / balanced
+# CVPR 2023: 长尾 / classes / curvature / balanced
 
 - Topic ID: `64`
 - Papers: **16** (0.68%)

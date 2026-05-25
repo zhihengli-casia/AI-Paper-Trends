@@ -13,7 +13,7 @@
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | hashing / semi-supervised / cross-modal / codes | 31 | 7.71% | 图学习/数据挖掘 | `hashing / semi-supervised / cross-modal / codes` | sCOs: Semi-Supervised Co-Selection by a Similarity Preserving Approach |
 | [001](topic-001.md) | index / cache / database / storage | 27 | 6.72% | 系统/效率/压缩 | `index / cache / database / storage` | Exploiting Data Skew for Improved Query Performance |
-| [002](topic-002.md) | imbalanced / minority / ensemble / classification | 25 | 6.22% | 图学习/数据挖掘 | `imbalanced / minority / ensemble / classification` | Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels |
+| [002](topic-002.md) | imbalanced / minority / ensemble / 分类 | 25 | 6.22% | 图学习/数据挖掘 | `imbalanced / minority / ensemble / classification` | Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels |
 | [003](topic-003.md) | graphs / community detection / subgraph / 节点表示 | 23 | 5.72% | 图学习/数据挖掘 | `graphs / community detection / subgraph / node` | Rapid Detection of Local Communities in Graph Streams |
 | [004](topic-004.md) | 推荐系统与用户建模 | 21 | 5.22% | 推荐/检索/排序 | `item / recommendation / recommender / latent` | A Graph Neural Network Framework for Social Recommendations |
 | [005](topic-005.md) | matrix / completion / tensor / clustering | 21 | 5.22% | 图学习/数据挖掘 | `matrix / completion / tensor / clustering` | Robust Subspace Clustering With Low-Rank Structure Constraint |
@@ -23,7 +23,7 @@
 | [009](topic-009.md) | topic / entity / sentiment / hdp | 16 | 3.98% | NLP任务 | `topic / entity / sentiment / hdp` | Short Text Topic Modeling Techniques, Applications, and Performance: A Survey |
 | [010](topic-010.md) | 多视图聚类与图学习 | 16 | 3.98% | 图学习/数据挖掘 | `multi-view / clustering / matrix / views` | Multi-View K-Means Clustering With Adaptive Sparse Memberships and Weight Allocation |
 | [011](topic-011.md) | network embedding / nodes / alignment / link | 15 | 3.73% | 图学习/数据挖掘 | `network embedding / nodes / alignment / link` | Heterogeneous Network Representation Learning: A Unified Framework With Survey and Benchmark |
-| [012](topic-012.md) | 医疗健康与临床 AI | 15 | 3.73% | 强化学习/决策 | `dependencies / planning / adverse / cleaning` | A Hybrid Data Cleaning Framework Using Markov Logic Networks |
+| [012](topic-012.md) | 规划搜索与决策推理 | 15 | 3.73% | 强化学习/决策 | `dependencies / planning / adverse / cleaning` | A Hybrid Data Cleaning Framework Using Markov Logic Networks |
 | [013](topic-013.md) | 查询理解与检索优化 | 15 | 3.73% | 多模态/VLM | `query / road / latex tex-math inline-formula / queries` | Cohesive Group Nearest Neighbor Queries on Road-Social Networks under Multi-Criteria |
 | [014](topic-014.md) | 目标检测与图像分割 | 14 | 3.48% | 计算机视觉 | `time series / imputation / sc xmlns / missing` | Variable-Length Subsequence Clustering in Time Series |
 | [015](topic-015.md) | poi / urban / mobility / activity | 14 | 3.48% | 系统/效率/压缩 | `poi / urban / mobility / activity` | Representation Learning With Multi-Level Attention for Activity Trajectory Similarity Computation |

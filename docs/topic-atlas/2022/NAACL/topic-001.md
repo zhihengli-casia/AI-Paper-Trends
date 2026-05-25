@@ -1,4 +1,4 @@
-# NAACL 2022: in-context / few-shot / meta-learning / contrastive
+# NAACL 2022: in-context / 少样本 / meta-learning / contrastive
 
 - Topic ID: `1`
 - Papers: **33** (7.47%)

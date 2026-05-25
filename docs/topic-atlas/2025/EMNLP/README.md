@@ -19,7 +19,7 @@
 | [005](topic-005.md) | 规划搜索与决策推理 | 35 | 1.93% | 强化学习/决策 | `agents / planning / gui / web` | Coarse-to-Fine Grounded Memory for LLM Agent Planning |
 | [006](topic-006.md) | 医疗健康与临床 AI | 33 | 1.82% | AI4Science/医疗 | `clinical / medical / patient / health` | From Scores to Steps: Diagnosing and Improving LLM Performance in Evidence-Based Medical Calculations |
 | [007](topic-007.md) | selection / scaling law / channel / pre-training | 31 | 1.71% | LLM/语言模型 | `selection / scaling law / channel / pre-training` | Demystifying Synthetic Data in LLM Pre-training: A Systematic Study of Scaling Laws, Benefits, and Pitfalls |
-| [008](topic-008.md) | sft / classification / zeroth-order / supervised | 31 | 1.71% | LLM/语言模型 | `sft / classification / zeroth-order / supervised` | Massive Supervised Fine-tuning Experiments Reveal How Data, Layer, and Training Factors Shape LLM Alignment Quality |
+| [008](topic-008.md) | sft / 分类 / zeroth-order / supervised | 31 | 1.71% | LLM/语言模型 | `sft / classification / zeroth-order / supervised` | Massive Supervised Fine-tuning Experiments Reveal How Data, Layer, and Training Factors Shape LLM Alignment Quality |
 | [009](topic-009.md) | 社交媒体与社会计算 | 30 | 1.66% | LLM/语言模型 | `emotional / mental / empathy / health` | The Pursuit of Empathy: Evaluating Small Language Models for PTSD Dialogue Support |
 | [010](topic-010.md) | 语音/音频语言模型 | 29 | 1.60% | LLM/语言模型 | `attack / adversarial / defense / injection` | AIP : Subverting Retrieval-Augmented Generation via Adversarial Instructional Prompt |
 | [011](topic-011.md) | 视觉语言模型与多模态理解 | 29 | 1.60% | 多模态/VLM | `visual / vqa / vlms / images` | QG - C o C : Question-Guided Chain-of-Captions for Large Multimodal Models |

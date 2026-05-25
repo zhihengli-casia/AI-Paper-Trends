@@ -1,4 +1,4 @@
-# EMNLP 2023: ner / entity / recognition / named
+# EMNLP 2023: 细粒度视觉分类与识别
 
 - Topic ID: `30`
 - Papers: **15** (1.43%)

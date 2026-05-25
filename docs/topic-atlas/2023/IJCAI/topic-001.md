@@ -1,4 +1,4 @@
-# IJCAI 2023: labels / few-shot / classification / clean
+# IJCAI 2023: 少样本分类与开放集识别
 
 - Topic ID: `1`
 - Papers: **38** (4.47%)

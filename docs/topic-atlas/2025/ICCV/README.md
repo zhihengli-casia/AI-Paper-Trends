@@ -44,7 +44,7 @@
 | [030](topic-030.md) | 脑电信号表征与解码 | 29 | 1.07% | 系统/效率/压缩 | `video understanding / long / streaming / temporal` | VideoLLaMB: Long Streaming Video Understanding with Recurrent Memory Bridges |
 | [031](topic-031.md) | 目标检测与图像分割 | 28 | 1.04% | 多模态/VLM | `action / recognition / skeleton-based / temporal` | Punching Bag vs. Punching Person: Motion Transferability in Videos |
 | [032](topic-032.md) | 视频扩散生成与运动控制 | 28 | 1.04% | 生成模型 | `video diffusion / videos / scene / multi-view` | Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction |
-| [033](topic-033.md) | 医疗健康与临床 AI | 27 | 1.00% | 多模态/VLM | `pathology / wsis / slide / cell` | Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis |
+| [033](topic-033.md) | 病理图像与临床 AI | 27 | 1.00% | 多模态/VLM | `pathology / wsis / slide / cell` | Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis |
 | [034](topic-034.md) | 查询理解与检索优化 | 27 | 1.00% | LLM/语言模型 | `grounding / moment / temporal / retrieval` | Enrich and Detect: Video Temporal Grounding with Multimodal LLMs |
 | [035](topic-035.md) | 图像复原与超分辨率 | 27 | 1.00% | 多模态/VLM | `mamba / quantization / compression / complexity` | Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers |
 | [038](topic-038.md) | 视频动作生成与运动控制 | 26 | 0.96% | 多模态/VLM | `tracking / trackers / trajectory / association` | ReTracker: Exploring Image Matching for Robust Online Any Point Tracking |
@@ -61,12 +61,12 @@
 | [047](topic-047.md) | 医疗健康与临床 AI | 23 | 0.85% | 计算机视觉 | `segmentation / medical / mri / tumor` | Progressive Test Time Energy Adaptation for Medical Image Segmentation |
 | [048](topic-048.md) | 视觉语言模型与多模态理解 | 23 | 0.85% | 计算机视觉 | `counting / detection / exemplars / few-shot` | LMM-Det: Make Large Multimodal Models Excel in Object Detection |
 | [049](topic-049.md) | 图像复原与超分辨率 | 23 | 0.85% | 生成模型 | `super-resolution / vsr / low-resolution / vae` | DiffVSR: Revealing an Effective Recipe for Taming Robust Video Super-Resolution Against Complex Degradations |
-| [051](topic-051.md) | classes / label / long-tailed / ssl | 22 | 0.81% | 计算机视觉 | `classes / label / long-tailed / ssl` | Boosting Class Representation via Semantically Related Instances for Robust Long-Tailed Learning with Noisy Labels |
+| [051](topic-051.md) | 长尾视觉识别与分类 | 22 | 0.81% | 计算机视觉 | `classes / label / long-tailed / ssl` | Boosting Class Representation via Semantically Related Instances for Robust Long-Tailed Learning with Noisy Labels |
 | [050](topic-050.md) | distillation / student / teacher / distilled | 22 | 0.81% | 其他/交叉主题 | `distillation / student / teacher / distilled` | EA-KD: Entropy-based Adaptive Knowledge Distillation |
 | [053](topic-053.md) | 语音/音频语言模型 | 22 | 0.81% | 语音/音频/音乐 | `audio-visual / speech / acoustic / sound` | How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation? |
 | [052](topic-052.md) | LoRA 与参数高效微调 | 22 | 0.81% | 生成模型 | `lora / peft / low-rank / fine-tuning` | Towards Higher Effective Rank in Parameter-Efficient Fine-tuning using Khatri-Rao Product |
 | [054](topic-054.md) | inpainting / control / adapter / morphing | 21 | 0.78% | 生成模型 | `inpainting / control / adapter / morphing` | LACONIC: A 3D Layout Adapter for Controllable Image Creation |
-| [055](topic-055.md) | 医疗健康与临床 AI | 21 | 0.78% | 多模态/VLM | `medical / brain / anatomical / chest` | CoSMIC: Continual Self-supervised Learning for Multi-Domain Medical Imaging via Conditional Mutual Information Maximization |
+| [055](topic-055.md) | 多视图聚类与图学习 | 21 | 0.78% | 多模态/VLM | `medical / brain / anatomical / chest` | CoSMIC: Continual Self-supervised Learning for Multi-Domain Medical Imaging via Conditional Mutual Information Maximization |
 | [056](topic-056.md) | 多模态学习与跨模态理解 | 21 | 0.78% | 多模态/VLM | `modality / modalities / multimodal / unimodal` | Boosting Multimodal Learning via Disentangled Gradient Learning |
 | [057](topic-057.md) | assembly / shape / pose / parametric | 21 | 0.78% | 计算机视觉 | `assembly / shape / pose / parametric` | Combinative Matching for Geometric Shape Assembly |
 | [058](topic-058.md) | affordance / grasp / dexterous / robotic | 20 | 0.74% | 3D/具身/机器人 | `affordance / grasp / dexterous / robotic` | RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping |

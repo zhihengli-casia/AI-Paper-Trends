@@ -23,4 +23,4 @@
 | [009](topic-009.md) | 点云表示与 3D 感知 | 8 | 6.02% | 系统/效率/压缩 | `video / compression / deep learning / cloud` | Guest Editorial: Special Issue on Deep Learning for Video Analysis and Compression |
 | [010](topic-010.md) | object / unseen / spatial / 视频理解/生成 | 8 | 6.02% | 计算机视觉 | `object / unseen / spatial / video` | Object Priors for Classifying and Localizing Unseen Actions |
 | [011](topic-011.md) | 视觉理解 / exploration / saliency / maps | 7 | 5.26% | 可信/安全/公平 | `visual / exploration / saliency / maps` | Visual Interestingness Prediction: A Benchmark Framework and Literature Review |
-| [012](topic-012.md) | 医疗健康与临床 AI | 6 | 4.51% | 计算机视觉 | `special issue / computer / vision / editorial` | Guest Editorial: Special Issue: Computer Vision and Pattern Recognition (DAGM GCPR 2019) |
+| [012](topic-012.md) | special issue / computer / vision / editorial | 6 | 4.51% | 计算机视觉 | `special issue / computer / vision / editorial` | Guest Editorial: Special Issue: Computer Vision and Pattern Recognition (DAGM GCPR 2019) |

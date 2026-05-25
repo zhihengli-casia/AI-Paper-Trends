@@ -74,7 +74,7 @@
 | [060](topic-060.md) | 神经网络理论与优化行为 | 16 | 0.77% | 系统/效率/压缩 | `quantization / quantized / network compression / lookup` | Nonuniform-to-Uniform Quantization: Towards Accurate Quantization via Generalized Straight-Through Estimation |
 | [064](topic-064.md) | 图像复原与超分辨率 | 15 | 0.72% | 计算机视觉 | `noise / denoising / blind / restoration` | IDR: Self-Supervised Image Denoising via Iterative Data Refinement |
 | [063](topic-063.md) | rotation / ransac / relative pose / minimal | 15 | 0.72% | 计算机视觉 | `rotation / ransac / relative pose / minimal` | On the Instability of Relative Pose Estimation and RANSAC's Role |
-| [061](topic-061.md) | long-tailed / classes / minority / categories | 15 | 0.72% | 计算机视觉 | `long-tailed / classes / minority / categories` | Long-Tailed Recognition via Weight Balancing |
+| [061](topic-061.md) | 长尾 / classes / minority / categories | 15 | 0.72% | 计算机视觉 | `long-tailed / classes / minority / categories` | Long-Tailed Recognition via Weight Balancing |
 | [067](topic-067.md) | 视觉语言模型与多模态理解 | 15 | 0.72% | 多模态/VLM | `prompt / clip / vision-language / segmentation` | RegionCLIP: Region-Based Language-Image Pretraining |
 | [062](topic-062.md) | document / table / recognition / scene detection | 15 | 0.72% | 计算机视觉 | `document / table / recognition / scene detection` | Towards End-to-End Unified Scene Text Detection and Layout Analysis |
 | [065](topic-065.md) | 文生图生成与个性化编辑 | 15 | 0.72% | 生成模型 | `diffusion / generation / variational / low-density` | Vector Quantized Diffusion Model for Text-to-Image Synthesis |

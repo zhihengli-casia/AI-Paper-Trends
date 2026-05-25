@@ -1,4 +1,4 @@
-# PR 2022: few-shot / metric learning / prototype / self-attention
+# PR 2022: 少样本分类与开放集识别
 
 - Topic ID: `14`
 - Papers: **18** (2.74%)

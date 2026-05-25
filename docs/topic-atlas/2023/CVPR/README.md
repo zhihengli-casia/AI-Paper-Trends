@@ -28,7 +28,7 @@
 | [014](topic-014.md) | 目标检测与图像分割 | 35 | 1.49% | 计算机视觉 | `detr / object detection / detectors / queries` | Semi-DETR: Semi-Supervised Object Detection With Detection Transformers |
 | [015](topic-015.md) | 扩散生成模型 | 35 | 1.49% | 多模态/VLM | `diffusion / shape / nerf / latent` | Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures |
 | [016](topic-016.md) | 文生图生成与个性化编辑 | 35 | 1.49% | 生成模型 | `diffusion / text-to-image / layout / style` | Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation |
-| [017](topic-017.md) | classes / few-shot / open-set / transductive | 34 | 1.44% | 计算机视觉 | `classes / few-shot / open-set / transductive` | Open-Set Representation Learning Through Combinatorial Embedding |
+| [017](topic-017.md) | classes / 少样本 / 开放集 / transductive | 34 | 1.44% | 计算机视觉 | `classes / few-shot / open-set / transductive` | Open-Set Representation Learning Through Combinatorial Embedding |
 | [018](topic-018.md) | 机器翻译与跨语言对齐 | 34 | 1.44% | 生成模型 | `gans / generative / domain / generator` | Domain Expansion of Image Generators |
 | [019](topic-019.md) | point / clouds / shape / cad | 33 | 1.40% | 3D/具身/机器人 | `point / clouds / shape / cad` | Self-Supervised Learning for Multimodal Non-Rigid 3D Shape Matching |
 | [024](topic-024.md) | 深度估计与立体匹配 | 32 | 1.36% | 计算机视觉 | `depth / scene / multi-view / estimation` | Learning 3D Scene Priors With 2D Supervision |
@@ -42,7 +42,7 @@
 | [028](topic-028.md) | hand / pose / mesh / interacting | 29 | 1.23% | 计算机视觉 | `hand / pose / mesh / interacting` | Handy: Towards a High Fidelity 3D Hand Shape and Appearance Model |
 | [029](topic-029.md) | NeRF 与神经渲染 | 28 | 1.19% | 其他/交叉主题 | `inverse rendering / lighting / reflectance / illumination` | WildLight: In-the-Wild Inverse Rendering With a Flashlight |
 | [030](topic-030.md) | 对抗攻击、鲁棒性与安全 | 28 | 1.19% | 可信/安全/公平 | `forgery / face / fake / privacy` | Evading Forensic Classifiers With Attribute-Conditioned Adversarial Faces |
-| [031](topic-031.md) | zero-shot / clip / image captioning / language-image | 28 | 1.19% | 多模态/VLM | `zero-shot / clip / image captioning / language-image` | Non-Contrastive Learning Meets Language-Image Pre-Training |
+| [031](topic-031.md) | 零样本分类与跨模态识别 | 28 | 1.19% | 多模态/VLM | `zero-shot / clip / image captioning / language-image` | Non-Contrastive Learning Meets Language-Image Pre-Training |
 | [032](topic-032.md) | 机器人操作与具身智能 | 27 | 1.15% | 3D/具身/机器人 | `animal / pose / articulated / grasp` | Learning Articulated Shape With Keypoint Pseudo-Labels From Web Images |
 | [033](topic-033.md) | continual learning / plasticity / forgetting / replay | 27 | 1.15% | 系统/效率/压缩 | `continual learning / plasticity / forgetting / replay` | Real-Time Evaluation in Online Continual Learning: A New Hope |
 | [034](topic-034.md) | 深度估计与立体匹配 | 26 | 1.10% | 计算机视觉 | `flow / stereo / optical / matching` | Rethinking Optical Flow From Geometric Matching Consistent Perspective |
@@ -75,7 +75,7 @@
 | [061](topic-061.md) | 扩散生成模型 | 16 | 0.68% | 生成模型 | `swapping / face / diffusion / editing` | Fine-Grained Face Swapping via Regional GAN Inversion |
 | [062](topic-062.md) | 扩散生成模型 | 16 | 0.68% | 生成模型 | `backdoor / attacks / trigger / defense` | Architectural Backdoors in Neural Networks |
 | [063](topic-063.md) | ood / out-of-distribution / in-distribution / worst-case | 16 | 0.68% | 计算机视觉 | `ood / out-of-distribution / in-distribution / worst-case` | Rethinking Out-of-Distribution (OOD) Detection: Masked Image Modeling Is All You Need |
-| [064](topic-064.md) | long-tailed / classes / curvature / balanced | 16 | 0.68% | 计算机视觉 | `long-tailed / classes / curvature / balanced` | No One Left Behind: Improving the Worst Categories in Long-Tailed Learning |
+| [064](topic-064.md) | 长尾 / classes / curvature / balanced | 16 | 0.68% | 计算机视觉 | `long-tailed / classes / curvature / balanced` | No One Left Behind: Improving the Worst Categories in Long-Tailed Learning |
 | [065](topic-065.md) | crowd / semi-supervised / ssl / unlabeled | 16 | 0.68% | 系统/效率/压缩 | `crowd / semi-supervised / ssl / unlabeled` | MarginMatch: Improving Semi-Supervised Learning with Pseudo-Margins |
 | [066](topic-066.md) | 目标检测与图像分割 | 16 | 0.68% | 计算机视觉 | `calibration / uncertainty / mixup / salient object` | Modeling the Distributional Uncertainty for Salient Object Detection Models |
 | [067](topic-067.md) | human / pose / 运动建模 / egocentric | 16 | 0.68% | 计算机视觉 | `human / pose / motion / egocentric` | SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments |

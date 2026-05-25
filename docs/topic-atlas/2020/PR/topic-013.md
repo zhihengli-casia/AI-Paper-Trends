@@ -1,4 +1,4 @@
-# PR 2020: image classification / generalized / zero-shot / few-shot
+# PR 2020: 少样本分类与开放集识别
 
 - Topic ID: `13`
 - Papers: **15** (3.03%)

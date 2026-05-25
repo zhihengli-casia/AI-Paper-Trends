@@ -19,13 +19,13 @@
 | [007](topic-007.md) | continual / forgetting / streaming / stream learning | 25 | 2.44% | 系统/效率/压缩 | `continual / forgetting / streaming / stream learning` | Prototype-Guided Memory Replay for Continual Learning |
 | [008](topic-008.md) | clustering / feature selection / xlink / http | 25 | 2.44% | 图学习/数据挖掘 | `clustering / feature selection / xlink / http` | Double-Structured Sparsity Guided Flexible Embedding Learning for Unsupervised Feature Selection |
 | [003](topic-003.md) | clustering / consensus / matrix / multiview | 25 | 2.44% | 图学习/数据挖掘 | `clustering / consensus / matrix / multiview` | Efficient and Effective One-Step Multiview Clustering |
-| [004](topic-004.md) | 医疗健康与临床 AI | 25 | 2.44% | 计算机视觉 | `transformer / video / vision / visual` | ViT-MVT: A Unified Vision Transformer Network for Multiple Vision Tasks |
+| [004](topic-004.md) | transformer / 视频理解/生成 / vision / 视觉理解 | 25 | 2.44% | 计算机视觉 | `transformer / video / vision / visual` | ViT-MVT: A Unified Vision Transformer Network for Multiple Vision Tasks |
 | [009](topic-009.md) | 代码生成与程序理解 | 24 | 2.34% | 理论/优化 | `zeroing / fixed-time / convergence / fuzzy` | A Fixed-Time Noise-Tolerance ZNN Model for Time-Variant Inequality-Constrained Quaternion Matrix Least-Squares Problem |
 | [010](topic-010.md) | 图神经网络与图表示学习 | 24 | 2.34% | 图学习/数据挖掘 | `graph / node / gnns / edges` | Exploiting Neighbor Effect: Conv-Agnostic GNN Framework for Graphs With Heterophily |
 | [011](topic-011.md) | 对抗攻击、鲁棒性与安全 | 24 | 2.34% | 可信/安全/公平 | `adversarial / attacks / org / www` | Dual Attention Adversarial Attacks With Limited Perturbations |
 | [012](topic-012.md) | 隐私保护与安全学习 | 23 | 2.25% | 可信/安全/公平 | `federated / learning fl / personalized / global` | Clustered Federated Learning in Heterogeneous Environment |
 | [014](topic-014.md) | fault / diagnosis / detection / industrial | 21 | 2.05% | 生成模型 | `fault / diagnosis / detection / industrial` | SCCAM: Supervised Contrastive Convolutional Attention Mechanism for Ante-Hoc Interpretable Fault Diagnosis With Limited Fault Samples |
-| [013](topic-013.md) | 医疗健康与临床 AI | 21 | 2.05% | 计算机视觉 | `segmentation / medical / images / diagnosis` | Contrastive Registration for Unsupervised Medical Image Segmentation |
+| [013](topic-013.md) | 目标检测与图像分割 | 21 | 2.05% | 计算机视觉 | `segmentation / medical / images / diagnosis` | Contrastive Registration for Unsupervised Medical Image Segmentation |
 | [016](topic-016.md) | entity / relational / entities / 图学习 | 21 | 2.05% | 图学习/数据挖掘 | `entity / relational / entities / graph` | Adaptive Prototype Interaction Network for Few-Shot Knowledge Graph Completion |
 | [015](topic-015.md) | 时间序列建模与预测 | 21 | 2.05% | 系统/效率/压缩 | `time series / time-series / forecasting / rul` | MR-Transformer: Multiresolution Transformer for Multivariate Time Series Prediction |
 | [017](topic-017.md) | spiking / snns / neuromorphic / neuron | 20 | 1.95% | 系统/效率/压缩 | `spiking / snns / neuromorphic / neuron` | Backpropagation-Based Learning Techniques for Deep Spiking Neural Networks: A Survey |
@@ -47,7 +47,7 @@
 | [033](topic-033.md) | 语音/音频语言模型 | 15 | 1.46% | 生成模型 | `speech / language / generative / gans` | InitialGAN: A Language GAN With Completely Random Initialization |
 | [034](topic-034.md) | 攻击、防御与模型安全 | 15 | 1.46% | 系统/效率/压缩 | `power / forecasting / load / demand` | Robust Representation Learning for Power System Short-Term Voltage Stability Assessment Under Diverse Data Loss Conditions |
 | [035](topic-035.md) | 图像复原与超分辨率 | 15 | 1.46% | 计算机视觉 | `image / hyperspectral / hsi / fusion` | Interpretable Model-Driven Deep Network for Hyperspectral, Multispectral, and Panchromatic Image Fusion |
-| [036](topic-036.md) | 目标检测与图像分割 | 15 | 1.46% | 计算机视觉 | `few-shot / classes / object / image` | Few-Shot Object Detection: A Comprehensive Survey |
+| [036](topic-036.md) | 少样本细粒度视觉识别 | 15 | 1.46% | 计算机视觉 | `few-shot / classes / object / image` | Few-Shot Object Detection: A Comprehensive Survey |
 | [037](topic-037.md) | out-of-distribution / ensemble / samples / labels | 15 | 1.46% | 可信/安全/公平 | `out-of-distribution / ensemble / samples / labels` | Understanding Deep Learning via Decision Boundary |
 | [038](topic-038.md) | 随机优化与收敛理论 | 14 | 1.37% | 系统/效率/压缩 | `quantum / dynamics / reservoir / neuron` | Rigorous a Posteriori Error Bounds for PDE-Defined PINNs |
 | [039](topic-039.md) | 时间序列预测 | 14 | 1.37% | 图学习/数据挖掘 | `road / traffic / temporal / forecasting` | Correlation-Aware Spatial–Temporal Graph Learning for Multivariate Time-Series Anomaly Detection |

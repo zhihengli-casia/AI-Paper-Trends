@@ -1,4 +1,4 @@
-# WWW 2021: label / documents / classification / stance
+# WWW 2021: label / documents / 分类 / stance
 
 - Topic ID: `12`
 - Papers: **15** (4.23%)

@@ -1,4 +1,4 @@
-# AAAI 2022: multi-label / labels / few-shot / prototypes
+# AAAI 2022: 少样本细粒度视觉识别
 
 - Topic ID: `59`
 - Papers: **10** (0.76%)

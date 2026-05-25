@@ -1,4 +1,4 @@
-# EMNLP 2023: explanations / decompositions / zero-shot / negation
+# EMNLP 2023: explanations / decompositions / 零样本 / negation
 
 - Topic ID: `5`
 - Papers: **30** (2.87%)

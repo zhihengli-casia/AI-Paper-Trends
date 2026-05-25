@@ -21,7 +21,7 @@
 | [007](topic-007.md) | 对抗攻击、鲁棒性与安全 | 29 | 2.14% | 推荐/检索/排序 | `attack / adversarial / defense / black-box` | Yet Another Intermediate-Level Attack |
 | [008](topic-008.md) | pose / multi-person / estimation / gait | 28 | 2.06% | 计算机视觉 | `pose / multi-person / estimation / gait` | Unsupervised Cross-Modal Alignment for Multi-Person 3D Pose Estimation |
 | [009](topic-009.md) | 对抗攻击、鲁棒性与安全 | 27 | 1.99% | 可信/安全/公平 | `domain / adaptation / uda / source` | Multi-Source Open-Set Deep Adversarial Domain Adaptation |
-| [010](topic-010.md) | few-shot / meta-learning / classes / classification | 27 | 1.99% | 计算机视觉 | `few-shot / meta-learning / classes / classification` | Rethinking Few-shot Image Classification: A Good Embedding is All You Need? |
+| [010](topic-010.md) | 少样本分类与开放集识别 | 27 | 1.99% | 计算机视觉 | `few-shot / meta-learning / classes / classification` | Rethinking Few-shot Image Classification: A Good Embedding is All You Need? |
 | [011](topic-011.md) | face / age / facial / aging | 26 | 1.91% | 计算机视觉 | `face / age / facial / aging` | BroadFace: Looking at Tens of Thousands of People at Once for Face Recognition |
 | [012](topic-012.md) | 机器翻译与跨语言对齐 | 26 | 1.91% | 生成模型 | `translation / image-to-image / unpaired / generative` | Aligning and Projecting Images to Class-conditional Generative Networks |
 | [013](topic-013.md) | shape / pose / human / mesh | 25 | 1.84% | 计算机视觉 | `shape / pose / human / mesh` | Human Body Model Fitting by Learned Gradient Descent |

@@ -1,4 +1,4 @@
-# ICML 2020: meta-learning / few-shot / transfer / normalization
+# ICML 2020: 少样本分类与开放集识别
 
 - Topic ID: `46`
 - Papers: **12** (1.11%)

@@ -13,7 +13,7 @@
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | augmented reality / videos / mixed reality / prototyping | 56 | 6.43% | 系统/效率/压缩 | `augmented reality / videos / mixed reality / prototyping` | Escapement: A Tool for Interactive Prototyping with Video via Sensor-Mediated Abstraction of Time |
 | [001](topic-001.md) | hci / research / food / sustainability | 50 | 5.74% | 其他/交叉主题 | `hci / research / food / sustainability` | Redlining Maps and Terrains of Sustainability: : Interdisciplinary Mapping of Racialized Redlining to Present-Day Sustainability Agendas in HCI |
-| [002](topic-002.md) | children / care / health / digital | 47 | 5.40% | AI4Science/医疗 | `children / care / health / digital` | Computational Notebooks as Co-Design Tools: Engaging Young Adults Living with Diabetes, Family Carers, and Clinicians with Machine Learning Models |
+| [002](topic-002.md) | children / care / 健康AI / digital | 47 | 5.40% | AI4Science/医疗 | `children / care / health / digital` | Computational Notebooks as Co-Design Tools: Engaging Young Adults Living with Diabetes, Family Carers, and Clinicians with Machine Learning Models |
 | [003](topic-003.md) | 语音/音频语言模型 | 36 | 4.13% | 语音/音频/音乐 | `speech / accessibility / hybrid / real-time` | "I Won't Go Speechless": Design Exploration on a Real-Time Text-To-Speech Speaking Tool for Videoconferencing |
 | [004](topic-004.md) | blind / accessibility / low / vision | 36 | 4.13% | 计算机视觉 | `blind / accessibility / low / vision` | Contributing to Accessibility Datasets: Reflections on Sharing Study Data by Blind People |
 | [005](topic-005.md) | 隐私保护与安全学习 | 35 | 4.02% | 推荐/检索/排序 | `privacy / security / app / advertising` | Understanding and Mitigating Technology-Facilitated Privacy Violations in the Physical World |

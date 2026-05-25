@@ -36,7 +36,7 @@
 | [022](topic-022.md) | 目标检测与图像分割 | 20 | 1.36% | 3D/具身/机器人 | `point / object detection / clouds / voxel` | PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection |
 | [023](topic-023.md) | labels / semi-supervised / labeled / 图学习 | 20 | 1.36% | 计算机视觉 | `labels / semi-supervised / labeled / graph` | Interactive Multi-Label CNN Learning With Partial Labels |
 | [024](topic-024.md) | 新闻文本、虚假信息与安全检测 | 19 | 1.30% | NLP任务 | `video / grounding / action / reasoning` | Local-Global Video-Text Interactions for Temporal Grounding |
-| [025](topic-025.md) | few-shot / open-set / classes / classification | 19 | 1.30% | 计算机视觉 | `few-shot / open-set / classes / classification` | Improved Few-Shot Visual Classification |
+| [025](topic-025.md) | 少样本分类与开放集识别 | 19 | 1.30% | 计算机视觉 | `few-shot / open-set / classes / classification` | Improved Few-Shot Visual Classification |
 | [026](topic-026.md) | synthesis / generation / semantic / scene | 18 | 1.23% | 多模态/VLM | `synthesis / generation / semantic / scene` | Semantic Pyramid for Image Generation |
 | [027](topic-027.md) | person / re-id / reid / clothes | 18 | 1.23% | 系统/效率/压缩 | `person / re-id / reid / clothes` | Style Normalization and Restitution for Generalizable Person Re-Identification |
 | [028](topic-028.md) | face / deepfake / anti-spoofing / domains | 18 | 1.23% | 计算机视觉 | `face / deepfake / anti-spoofing / domains` | Learning Meta Face Recognition in Unseen Domains |
@@ -61,7 +61,7 @@
 | [046](topic-046.md) | 语音/音频语言模型 | 15 | 1.02% | 生成模型 | `video / synthesis / lip / speech` | Non-Adversarial Video Synthesis With Learned Priors |
 | [047](topic-047.md) | 目标检测与图像分割 | 15 | 1.02% | 计算机视觉 | `segmentation / video object / vos / tracking` | Fast Video Object Segmentation With Temporal Aggregation Network and Dynamic Template Matching |
 | [050](topic-050.md) | vqa / questions / 推理 / answering | 15 | 1.02% | 计算机视觉 | `vqa / questions / reasoning / answering` | On the General Value of Evidence, and Bilingual Scene-Text Visual Question Answering |
-| [051](topic-051.md) | zero-shot / fine-grained / discriminative / unseen classes | 15 | 1.02% | 计算机视觉 | `zero-shot / fine-grained / discriminative / unseen classes` | Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention |
+| [051](topic-051.md) | 细粒度视觉分类与识别 | 15 | 1.02% | 计算机视觉 | `zero-shot / fine-grained / discriminative / unseen classes` | Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention |
 | [052](topic-052.md) | 机器翻译与跨语言对齐 | 15 | 1.02% | 计算机视觉 | `translation / domain / image-to-image / color constancy` | StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching |
 | [053](topic-053.md) | flow / optical / scene / monocular | 15 | 1.02% | 计算机视觉 | `flow / optical / scene / monocular` | Self-Supervised Monocular Scene Flow Estimation |
 | [049](topic-049.md) | sketch / drawings / shadows / 检索 | 15 | 1.02% | 生成模型 | `sketch / drawings / shadows / retrieval` | SketchyCOCO: Image Generation From Freehand Scene Sketches |

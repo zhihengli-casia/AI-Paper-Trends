@@ -1,4 +1,4 @@
-# IJCAI 2025: compositions / zero-shot / spurious / compositional
+# IJCAI 2025: compositions / 零样本 / spurious / compositional
 
 - Topic ID: `6`
 - Papers: **27** (2.11%)

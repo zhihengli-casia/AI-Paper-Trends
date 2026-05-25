@@ -1,4 +1,4 @@
-# PR 2020: supervision / weighted / classification / feature
+# PR 2020: supervision / weighted / 分类 / feature
 
 - Topic ID: `21`
 - Papers: **12** (2.42%)

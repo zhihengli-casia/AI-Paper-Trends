@@ -65,7 +65,7 @@
 | [051](topic-051.md) | localization / slam / differentiable / semantic | 10 | 0.94% | 3D/具身/机器人 | `localization / slam / differentiable / semantic` | Global visual localization in LiDAR-maps through shared 2D-3D embedding space |
 | [052](topic-052.md) | 深度估计与立体匹配 | 10 | 0.94% | 3D/具身/机器人 | `pose / object / estimation / uncertainty` | 6D Object Pose Regression via Supervised Learning on Point Clouds |
 | [053](topic-053.md) | localization / localisation / global / cnn | 10 | 0.94% | 计算机视觉 | `localization / localisation / global / cnn` | Localising Faster: Efficient and precise lidar-based robot localisation in large-scale environments |
-| [054](topic-054.md) | 医疗健康与临床 AI | 10 | 0.94% | 计算机视觉 | `surgical / recognition / gesture / multi-task` | AP-MTL: Attention Pruned Multi-task Learning Model for Real-time Instrument Detection and Segmentation in Robot-assisted Surgery |
+| [054](topic-054.md) | 机器人操作与具身智能 | 10 | 0.94% | 计算机视觉 | `surgical / recognition / gesture / multi-task` | AP-MTL: Attention Pruned Multi-task Learning Model for Real-time Instrument Detection and Segmentation in Robot-assisted Surgery |
 | [055](topic-055.md) | 机器人操作与具身智能 | 9 | 0.84% | 3D/具身/机器人 | `imitation / demonstration / reinforcement / outcome` | Scalable Multi-Task Imitation Learning with Autonomous Improvement |
 | [056](topic-056.md) | occupancy / sparse / scene / obstacle | 8 | 0.75% | 3D/具身/机器人 | `occupancy / sparse / scene / obstacle` | Predicting Obstacle Footprints from 2D Occupancy Maps by Learning from Physical Interactions |
 | [057](topic-057.md) | 规划搜索与决策推理 | 8 | 0.75% | 强化学习/决策 | `navigation / visual / real robots / paths` | Scaling Local Control to Large-Scale Topological Navigation |

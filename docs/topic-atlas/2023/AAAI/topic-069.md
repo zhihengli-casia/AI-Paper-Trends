@@ -1,4 +1,4 @@
-# AAAI 2023: 医疗健康与临床 AI
+# AAAI 2023: 图学习 / neural networks / heterogeneous / multiplex
 
 - Topic ID: `69`
 - Papers: **11** (0.70%)

@@ -13,8 +13,8 @@
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | reinforcement / 策略优化 / model-based / offline | 55 | 2.90% | 强化学习/决策 | `reinforcement / policy / model-based / offline` | MOPO: Model-based Offline Policy Optimization |
 | [001](topic-001.md) | 强化学习策略与奖励建模 | 53 | 2.79% | 强化学习/决策 | `reward / agent / reinforcement / policy` | Continual Learning of Control Primitives : Skill Discovery via Reset-Games |
-| [002](topic-002.md) | bounds / boosting / pac-bayes / classification | 47 | 2.48% | 理论/优化 | `bounds / boosting / pac-bayes / classification` | Generalization error in high-dimensional perceptrons: Approaching Bayes error with convex optimization |
-| [003](topic-003.md) | 目标检测与图像分割 | 38 | 2.00% | 计算机视觉 | `label / semi-supervised / long-tailed / classification` | Rethinking the Value of Labels for Improving Class-Imbalanced Learning |
+| [002](topic-002.md) | bounds / boosting / pac-bayes / 分类 | 47 | 2.48% | 理论/优化 | `bounds / boosting / pac-bayes / classification` | Generalization error in high-dimensional perceptrons: Approaching Bayes error with convex optimization |
+| [003](topic-003.md) | 长尾视觉识别与分类 | 38 | 2.00% | 计算机视觉 | `label / semi-supervised / long-tailed / classification` | Rethinking the Value of Labels for Improving Class-Imbalanced Learning |
 | [004](topic-004.md) | brain / spike / neurons / stimuli | 37 | 1.95% | 系统/效率/压缩 | `brain / spike / neurons / stimuli` | Identifying signal and noise structure in neural population activity with Gaussian process factor models |
 | [005](topic-005.md) | causal / interventions / covid-19 / treatment | 36 | 1.90% | 其他/交叉主题 | `causal / interventions / covid-19 / treatment` | Learning Causal Effects via Weighted Empirical Risk Minimization |
 | [006](topic-006.md) | 对抗攻击、鲁棒性与安全 | 36 | 1.90% | 生成模型 | `gans / discriminator / generative adversarial / generator` | Training Generative Adversarial Networks with Limited Data |
@@ -70,7 +70,7 @@
 | [056](topic-056.md) | 社交媒体与社会计算 | 16 | 0.84% | 图学习/数据挖掘 | `community / clustering / graph / spectral` | Robustness of Community Detection to Random Geometric Perturbations |
 | [057](topic-057.md) | pruning / subnetworks / filter / pruned | 16 | 0.84% | 系统/效率/压缩 | `pruning / subnetworks / filter / pruned` | Winning the Lottery with Continuous Sparsification |
 | [058](topic-058.md) | 深度估计与立体匹配 | 16 | 0.84% | 其他/交叉主题 | `recurrent / rnns / self-attention / reservoir` | The interplay between randomness and structure during learning in RNNs |
-| [059](topic-059.md) | 医疗健康与临床 AI | 15 | 0.79% | 计算机视觉 | `domain / adaptation / target / source` | Universal Domain Adaptation through Self Supervision |
+| [059](topic-059.md) | 目标检测与图像分割 | 15 | 0.79% | 计算机视觉 | `domain / adaptation / target / source` | Universal Domain Adaptation through Self Supervision |
 | [060](topic-060.md) | language / generation / gpt-3 / prototype | 15 | 0.79% | LLM/语言模型 | `language / generation / gpt-3 / prototype` | Language Models are Few-Shot Learners |
 | [065](topic-065.md) | 图神经网络与图表示学习 | 14 | 0.74% | 图学习/数据挖掘 | `graph / gcns / gnns / convolutional networks` | Digraph Inception Convolutional Networks |
 | [061](topic-061.md) | matrix / sketching / schatten / hadamard | 14 | 0.74% | 理论/优化 | `matrix / sketching / schatten / hadamard` | Precise expressions for random projections: Low-rank approximation and randomized Newton |
@@ -79,7 +79,7 @@
 | [068](topic-068.md) | 视觉理解 / images / texture / cnns | 14 | 0.74% | 计算机视觉 | `visual / images / texture / cnns` | High-contrast “gaudy” images improve the training of deep neural network models of visual cortex |
 | [063](topic-063.md) | variational / bayesian / posterior / inference | 14 | 0.74% | 系统/效率/压缩 | `variational / bayesian / posterior / inference` | Liberty or Depth: Deep Bayesian Neural Nets Do Not Need Complex Weight Posterior Approximations |
 | [067](topic-067.md) | 对抗攻击、鲁棒性与安全 | 14 | 0.74% | 理论/优化 | `adversarial / robustness / loss landscape / boundary` | Over-parameterized Adversarial Training: An Analysis Overcoming the Curse of Dimensionality |
-| [069](topic-069.md) | regularization / modalities / information bottleneck / generative | 14 | 0.74% | 生成模型 | `regularization / modalities / information bottleneck / generative` | Learning Optimal Representations with the Decodable Information Bottleneck |
+| [069](topic-069.md) | 少样本分类与开放集识别 | 14 | 0.74% | 生成模型 | `regularization / modalities / information bottleneck / generative` | Learning Optimal Representations with the Decodable Information Bottleneck |
 | [066](topic-066.md) | counterfactual / treatment / organ / outcomes | 14 | 0.74% | 推荐/检索/排序 | `counterfactual / treatment / organ / outcomes` | Algorithmic recourse under imperfect causal knowledge: a probabilistic approach |
 | [070](topic-070.md) | prices / revenue / market / equilibria | 13 | 0.68% | 理论/优化 | `prices / revenue / market / equilibria` | Contextual Reserve Price Optimization in Auctions via Mixed Integer Programming |
 | [071](topic-071.md) | ensembles / ensembling / calibration / predictive | 13 | 0.68% | 可信/安全/公平 | `ensembles / ensembling / calibration / predictive` | Bayesian Deep Ensembles via the Neural Tangent Kernel |

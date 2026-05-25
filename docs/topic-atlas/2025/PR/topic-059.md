@@ -1,4 +1,4 @@
-# PR 2025: multi-label / partial / label learning / semi-supervised
+# PR 2025: 少样本分类与开放集识别
 
 - Topic ID: `59`
 - Papers: **13** (0.86%)

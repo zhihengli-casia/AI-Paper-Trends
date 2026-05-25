@@ -21,17 +21,17 @@
 | [007](topic-007.md) | 视觉语言模型与多模态理解 | 25 | 3.02% | 多模态/VLM | `video / cross-modal / grounding / visual` | m PLUG : Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections |
 | [008](topic-008.md) | 多语言建模与跨语言迁移 | 25 | 3.02% | LLM/语言模型 | `multilingual / languages / cross-lingual / word` | Improving Low-Resource Languages in Pre-Trained Multilingual Language Models |
 | [009](topic-009.md) | transformer / linear / computation / attention heads | 24 | 2.90% | 系统/效率/压缩 | `transformer / linear / computation / attention heads` | H ash F ormers: Towards Vocabulary-independent Pre-trained Transformers |
-| [010](topic-010.md) | prompt / tuning / few-shot / parameter-efficient | 22 | 2.66% | 强化学习/决策 | `prompt / tuning / few-shot / parameter-efficient` | Continued Pretraining for Better Zero- and Few-Shot Promptability |
+| [010](topic-010.md) | 少样本分类与开放集识别 | 22 | 2.66% | 强化学习/决策 | `prompt / tuning / few-shot / parameter-efficient` | Continued Pretraining for Better Zero- and Few-Shot Promptability |
 | [011](topic-011.md) | 查询理解与检索优化 | 21 | 2.54% | 图学习/数据挖掘 | `temporal / reasoning / logical / knowledge graphs` | DSM : Question Generation over Knowledge Base via Modeling Diverse Subgraphs with Meta-learner |
 | [012](topic-012.md) | 查询理解与检索优化 | 21 | 2.54% | 推荐/检索/排序 | `query / retrieval / dense / conversational` | CODER : An efficient framework for improving retrieval through CO ntextual Document Embedding Reranking |
 | [015](topic-015.md) | 多模态学习与跨模态理解 | 20 | 2.42% | 多模态/VLM | `image / captioning / captions / multimodal` | Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset |
 | [016](topic-016.md) | distillation / student / teacher / masking | 20 | 2.42% | LLM/语言模型 | `distillation / student / teacher / masking` | Hard Gate Knowledge Distillation - Leverage Calibration for Robust and Reliable Language Model |
-| [017](topic-017.md) | 医疗健康与临床 AI | 20 | 2.42% | LLM/语言模型 | `classification / zero-shot / hierarchy / clinical` | Beyond prompting: Making Pre-trained Language Models Better Zero-shot Learners by Clustering Representations |
+| [017](topic-017.md) | 零样本分类与跨模态识别 | 20 | 2.42% | LLM/语言模型 | `classification / zero-shot / hierarchy / clinical` | Beyond prompting: Making Pre-trained Language Models Better Zero-shot Learners by Clustering Representations |
 | [013](topic-013.md) | 知识图谱推理与表示学习 | 20 | 2.42% | LLM/语言模型 | `entity / typing / knowledge graph / entities` | A Framework for Adapting Pre-Trained Language Models to Knowledge Graph Completion |
 | [014](topic-014.md) | commonsense / 推理 / plms / conceptual | 20 | 2.42% | LLM/语言模型 | `commonsense / reasoning / plms / conceptual` | A Systematic Investigation of Commonsense Knowledge in Large Language Models |
 | [018](topic-018.md) | 句法知识与语言学分析 | 18 | 2.17% | LLM/语言模型 | `cognitive / syntactic / word / biases` | Are representations built from the ground up? An empirical examination of local composition in language models |
 | [019](topic-019.md) | 社交媒体与社会计算 | 18 | 2.17% | 可信/安全/公平 | `bias / gender / nlp research / ethical` | Bridging Fairness and Environmental Sustainability in Natural Language Processing |
-| [020](topic-020.md) | 医疗健康与临床 AI | 18 | 2.17% | NLP任务 | `dialogue / recommendation / conversations / responses` | F low E val: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows |
+| [020](topic-020.md) | 推荐系统与用户建模 | 18 | 2.17% | NLP任务 | `dialogue / recommendation / conversations / responses` | F low E val: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows |
 | [021](topic-021.md) | 文档摘要与信息压缩 | 17 | 2.05% | 可信/安全/公平 | `summarization / summaries / abstractive / document` | How Far are We from Robust Long Abstractive Summarization? |
 | [022](topic-022.md) | 查询理解与检索优化 | 17 | 2.05% | 多模态/VLM | `retrieval / answering / passage / query` | Retrieval as Attention: End-to-end Learning of Retrieval and Reading within a Single Transformer |
 | [023](topic-023.md) | story / writing / scientific / stories | 17 | 2.05% | 生成模型 | `story / writing / scientific / stories` | Re3: Generating Longer Stories With Recursive Reprompting and Revision |

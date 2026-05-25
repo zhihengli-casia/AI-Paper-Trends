@@ -12,13 +12,13 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 机器翻译与跨语言对齐 | 38 | 8.70% | 计算机视觉 | `style / facial / aesthetic / translation` | Disentangled Feature Networks for Facial Portrait and Caricature Generation |
-| [001](topic-001.md) | 医疗健康与临床 AI | 31 | 7.09% | 计算机视觉 | `bias / unseen / zero-shot / synthesis` | Attribute-Modulated Generative Meta Learning for Zero-Shot Learning |
+| [001](topic-001.md) | bias / unseen / 零样本 / synthesis | 31 | 7.09% | 计算机视觉 | `bias / unseen / zero-shot / synthesis` | Attribute-Modulated Generative Meta Learning for Zero-Shot Learning |
 | [002](topic-002.md) | 检索 / cross-modal / privileged / label | 30 | 6.86% | 多模态/VLM | `retrieval / cross-modal / privileged / label` | Adaptive Label-Aware Graph Convolutional Networks for Cross-Modal Retrieval |
 | [003](topic-003.md) | 深度估计与立体匹配 | 25 | 5.72% | 计算机视觉 | `coding / video / light / compression` | Light Field Image Coding Using VVC Standard and View Synthesis Based on Dual Discriminator GAN |
 | [004](topic-004.md) | 句法语义解析与结构化表示 | 22 | 5.03% | 计算机视觉 | `object / segmentation / pyramid / instance` | Cross-Image Region Mining With Region Prototypical Network for Weakly Supervised Segmentation |
 | [005](topic-005.md) | LLM Agent 与工具使用 | 19 | 4.35% | 计算机视觉 | `action / video / recognition / temporal` | Exploiting Informative Video Segments for Temporal Action Localization |
 | [006](topic-006.md) | 深度估计与立体匹配 | 18 | 4.12% | 3D/具身/机器人 | `point / cloud / geometric / road` | Motion Estimation and Coding Structure for Inter-Prediction of LiDAR Point Cloud Geometry |
-| [007](topic-007.md) | fine-grained / label / noisy / dish | 18 | 4.12% | 计算机视觉 | `fine-grained / label / noisy / dish` | Exploiting Web Images for Fine-Grained Visual Recognition via Dynamic Loss Correction and Global Sample Selection |
+| [007](topic-007.md) | 细粒度视觉分类与识别 | 18 | 4.12% | 计算机视觉 | `fine-grained / label / noisy / dish` | Exploiting Web Images for Fine-Grained Visual Recognition via Dynamic Loss Correction and Global Sample Selection |
 | [008](topic-008.md) | 推荐系统与用户建模 | 17 | 3.89% | 多模态/VLM | `user / fashion / recommendation / items` | Modeling Instant User Intent and Content-Level Transition for Sequential Fashion Recommendation |
 | [009](topic-009.md) | tracking / trackers / template / monitoring | 16 | 3.66% | 计算机视觉 | `tracking / trackers / template / monitoring` | Robust Visual Object Tracking Via Adaptive Attribute-Aware Discriminative Correlation Filters |
 | [011](topic-011.md) | 对抗攻击、鲁棒性与安全 | 15 | 3.43% | 生成模型 | `adversarial / augmentation / quantization / attacks` | TWGAN: Twin Discriminator Generative Adversarial Networks |
