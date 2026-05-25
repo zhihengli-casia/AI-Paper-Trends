@@ -22,6 +22,8 @@ The checked-in static atlas currently contains:
 | Years | 2020-2026 |
 | Unassigned papers after reassignment | 25 |
 
+This is a living index. New venue-years are added as proceedings and public metadata become available, so the latest year may be partial during an active conference cycle.
+
 Start browsing here: [AI Paper Topic Atlas](docs/topic-atlas/README.md)
 
 ## What You Can Do
@@ -34,7 +36,7 @@ Start browsing here: [AI Paper Topic Atlas](docs/topic-atlas/README.md)
 
 ## Coverage
 
-Counts below describe the current repository snapshot. They will change as more venues, years, and proceedings are added.
+Counts below describe the current repository snapshot. They are maintained as a continuously updated view and will change as more venues, years, and proceedings are added.
 
 ### Conferences
 

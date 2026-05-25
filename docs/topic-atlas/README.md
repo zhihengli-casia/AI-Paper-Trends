@@ -13,6 +13,8 @@ The numbers below describe the current checked-in index. They are expected to gr
 
 ## Years
 
+This year-by-year index is continuously updated. The latest year may be partial while conference proceedings and public metadata are still being released.
+
 - [2026](2026/README.md) - 7 venues, 11,531 papers, 358 topics
 - [2025](2025/README.md) - 25 venues, 37,057 papers, 1,613 topics
 - [2024](2024/README.md) - 26 venues, 29,499 papers, 1,312 topics

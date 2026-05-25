@@ -1051,6 +1051,9 @@ def build_home_page(output_root: Path, summary: pd.DataFrame, topic_index: pd.Da
         "",
         "## Years",
         "",
+        "This year-by-year index is continuously updated. The latest year may be partial while "
+        "conference proceedings and public metadata are still being released.",
+        "",
     ]
     for year in sorted(summary["year"].unique(), reverse=True):
         year_rows = summary[summary["year"] == year]
