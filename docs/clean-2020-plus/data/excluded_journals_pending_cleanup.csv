@@ -1,0 +1,10 @@
+venue,venue_type,first_year,last_year,years,papers,abstracts,abstract_rate
+AIJ,journal,2020,2026,7,772,242,0.3135
+IJCV,journal,2021,2023,2,367,82,0.2234
+JMLR,journal,2020,2020,1,69,24,0.3478
+PR,journal,2020,2026,7,6110,578,0.0946
+TIP,journal,2024,2024,1,478,476,0.9958
+TKDE,journal,2020,2026,2,653,608,0.9311
+TMM,journal,2020,2026,3,1487,1385,0.9314
+TNNLS,journal,2023,2026,3,2071,1957,0.945
+TPAMI,journal,2021,2023,2,1272,1229,0.9662

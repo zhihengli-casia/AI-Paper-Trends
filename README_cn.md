@@ -15,6 +15,7 @@
 | 入口 | 链接 |
 |---|---|
 | 总图谱 | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
+| 2020-2026 干净会议快照 | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) |
 | 2026 年论文 | [docs/topic-atlas/2026/README.md](docs/topic-atlas/2026/README.md) |
 | ICLR 2026 主题列表 | [docs/topic-atlas/2026/ICLR/README.md](docs/topic-atlas/2026/ICLR/README.md) |
 | 示例主题 | [ICLR 2026：可验证奖励驱动的大模型推理](docs/topic-atlas/2026/ICLR/topic-004.md) |
@@ -27,11 +28,29 @@
 
 这个仓库现在的核心是一个可浏览的 AI 顶会论文数据库和细粒度主题图谱。旧版单会议 OpenReview 流程仍然保留，但当前主产物是提交在 `docs/topic-atlas/` 下的静态索引。
 
+## 2020-2026 干净会议快照
+
+新的轻量级聚合结果在 [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md)。这个版本只保留会议主会接收或已发表论文，暂时排除仍需清洗 XML/MathML 噪声的期刊聚类结果。
+
+当前干净快照：
+
+| 指标 | 数值 |
+|---|---:|
+| 已聚类会议论文 | 142,799 |
+| 会议 | 25 |
+| 会议-年份单元 | 132 |
+| 会议-年份主题总数 | 1,307 |
+| 年份 | 2020-2026 |
+| 最终离群点 | 0 |
+
+已提交的 CSV 包含每个会议-年份的完整主题汇总、每个会议最新年份的主题列表、逐年覆盖和逐会覆盖。体积很大的论文级结果表没有直接提交到 GitHub。
+
 ## 包含内容
 
 | 内容 | 文件 |
 |---|---|
 | 可浏览论文数据库 | [docs/topic-atlas/](docs/topic-atlas/README.md) |
+| 2020+ 干净聚合快照 | [docs/clean-2020-plus/](docs/clean-2020-plus/README.md) |
 | 主题索引数据 | [topic_index.csv](docs/topic-atlas/data/topic_index.csv), [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
 | 图谱生成脚本 | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) |
 | 细粒度聚类脚本 | [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) |

@@ -15,6 +15,7 @@ Quick links:
 | Entry | Link |
 |---|---|
 | Full atlas | [docs/topic-atlas/README.md](docs/topic-atlas/README.md) |
+| Clean 2020-2026 conference snapshot | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) |
 | 2026 papers | [docs/topic-atlas/2026/README.md](docs/topic-atlas/2026/README.md) |
 | ICLR 2026 topics | [docs/topic-atlas/2026/ICLR/README.md](docs/topic-atlas/2026/ICLR/README.md) |
 | Example topic | [ICLR 2026: 可验证奖励驱动的大模型推理](docs/topic-atlas/2026/ICLR/topic-004.md) |
@@ -27,11 +28,29 @@ Example path:
 
 This repository is now centered on a browsable AI top-conference paper database and fine-grained topic atlas. The older single-conference OpenReview pipeline is still available, but the main artifact is the committed static index under `docs/topic-atlas/`.
 
+## Clean 2020-2026 Conference Snapshot
+
+A new lightweight aggregate snapshot is available at [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md). It keeps only clean conference/main accepted or published records and excludes journal runs that still need XML/MathML text cleanup.
+
+Current clean snapshot:
+
+| Metric | Value |
+|---|---:|
+| Clustered conference papers | 142,799 |
+| Conferences | 25 |
+| Venue-year units | 132 |
+| Topics across venue-year units | 1,307 |
+| Years | 2020-2026 |
+| Final outliers | 0 |
+
+The committed CSVs include full topic summaries by venue-year, latest-year topic lists by conference, yearly coverage, and venue coverage. Large paper-level result tables are intentionally kept out of GitHub.
+
 ## What Is Included
 
 | Area | Files |
 |---|---|
 | Browsable database | [docs/topic-atlas/](docs/topic-atlas/README.md) |
+| Clean 2020+ aggregate snapshot | [docs/clean-2020-plus/](docs/clean-2020-plus/README.md) |
 | Topic indexes | [topic_index.csv](docs/topic-atlas/data/topic_index.csv), [venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) |
 | Atlas generation | [scripts/build_topic_atlas.py](scripts/build_topic_atlas.py) |
 | Fine-grained clustering | [scripts/fine_grained_topic_analysis.py](scripts/fine_grained_topic_analysis.py) |
