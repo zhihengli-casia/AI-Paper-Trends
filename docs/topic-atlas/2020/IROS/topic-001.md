@@ -1,8 +1,8 @@
-# IROS 2020: control / aerial / drone / nonlinear
+# IROS 2020: 无人机/四旋翼规划与控制
 
 - Topic ID: `1`
 - Papers: **30** (2.69%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / aerial / drone / nonlinear`
 - Keyword pool: control; aerial; drone; nonlinear; sensing; adaptive; predictive; sliding; payload; perching; agile; uavs
 

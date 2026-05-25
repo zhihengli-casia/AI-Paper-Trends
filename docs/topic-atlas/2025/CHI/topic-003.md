@@ -1,8 +1,8 @@
-# CHI 2025: haptic / virtual / feedback / tactile
+# CHI 2025: 机器人遥操作与触觉交互
 
 - Topic ID: `3`
 - Papers: **35** (2.82%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 3D/具身/机器人
 - English keywords: `haptic / virtual / feedback / tactile`
 - Keyword pool: haptic; virtual; feedback; tactile; touch; body; muscle; reality; experience; enhance; retargeting; vibration
 

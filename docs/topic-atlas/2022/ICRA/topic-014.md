@@ -1,8 +1,8 @@
-# ICRA 2022: 机器人操作与具身智能
+# ICRA 2022: 人机交互与协作机器人
 
 - Topic ID: `14`
 - Papers: **20** (2.17%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `human-robot / collaboration / interaction / communication`
 - Keyword pool: human-robot; collaboration; interaction; communication; swarm; social; reality; design; safe; planning; heterogeneous robots; imagination
 

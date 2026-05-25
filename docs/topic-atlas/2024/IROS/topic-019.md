@@ -1,8 +1,8 @@
-# IROS 2024: LiDAR 点云与 3D 感知
+# IROS 2024: 机器人视觉目标检测与域适应
 
 - Topic ID: `19`
 - Papers: **26** (1.65%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `lidar / segmentation / point / semantic`
 - Keyword pool: lidar; segmentation; point; semantic; domain; clouds; unsupervised; object detection; adaptation; refinement; learning; contrastive
 

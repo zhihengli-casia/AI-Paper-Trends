@@ -33,7 +33,7 @@
 | [019](topic-019.md) | 深度估计与立体匹配 | 11 | 2.52% | 计算机视觉 | `super-resolution / depth / hdr / stereo` | Deep SR-HDR: Joint Learning of Super-Resolution and High Dynamic Range Imaging for Dynamic Scenes |
 | [020](topic-020.md) | 查询理解与检索优化 | 11 | 2.52% | 多模态/VLM | `video / reasoning / moment / highlight detection` | Spatial-Temporal Graphs for Cross-Modal Text2Video Retrieval |
 | [021](topic-021.md) | 多视图聚类与图学习 | 11 | 2.52% | 图学习/数据挖掘 | `clustering / multi-view / subspace / kernel` | Consensus Graph Learning for Multi-View Clustering |
-| [022](topic-022.md) | 深度估计与立体匹配 | 10 | 2.29% | 计算机视觉 | `domain / adaptation / unsupervised / samples` | Joint Distribution Alignment via Adversarial Learning for Domain Adaptive Object Detection |
+| [022](topic-022.md) | 机器人视觉目标检测与域适应 | 10 | 2.29% | 计算机视觉 | `domain / adaptation / unsupervised / samples` | Joint Distribution Alignment via Adversarial Learning for Domain Adaptive Object Detection |
 | [023](topic-023.md) | 图像复原与超分辨率 | 9 | 2.06% | 生成模型 | `color / exposure / low-light / ldr` | Deep Arbitrary HDRI: Inverse Tone Mapping With Controllable Exposure Changes |
 | [024](topic-024.md) | action / skeleton / gait / recognition | 9 | 2.06% | 计算机视觉 | `action / skeleton / gait / recognition` | Prototypical Contrast and Reverse Prediction: Unsupervised Skeleton Based Action Recognition |
 | [025](topic-025.md) | 机器翻译与跨语言对齐 | 8 | 1.83% | 多模态/VLM | `sign / language / translation / temporal` | Graph-Based Multimodal Sequential Embedding for Sign Language Translation |

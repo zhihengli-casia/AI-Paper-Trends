@@ -1,8 +1,8 @@
-# NeurIPS 2024: 扩散生成模型
+# NeurIPS 2024: 机器人操作与抓取
 
 - Topic ID: `71`
 - Papers: **27** (0.67%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `diffusion / policy / imitation / robot`
 - Keyword pool: diffusion; policy; imitation; robot; gail; policies; action; demonstrations; embodiments; manipulation; videos; visual
 

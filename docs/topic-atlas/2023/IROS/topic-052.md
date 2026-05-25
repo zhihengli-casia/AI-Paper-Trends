@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **10** (0.84%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `robot navigation / social / group / crowded environments`
 - Keyword pool: robot navigation; social; group; crowded environments; human; mapless; preference; aware robot; graph transformer; spatio-temporal graph; navigation dense; trajectory-based
 

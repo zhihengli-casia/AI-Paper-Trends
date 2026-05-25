@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **9** (0.98%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `tactile / shape / pouring / dense`
 - Keyword pool: tactile; shape; pouring; dense; volumetric; sim2real; symmetries; discovering; reducing; gaps; texture; multi-step
 

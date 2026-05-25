@@ -2,7 +2,7 @@
 
 - Topic ID: `55`
 - Papers: **12** (0.90%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `ultrasound / images / robotic / reconstruction`
 - Keyword pool: ultrasound; images; robotic; reconstruction; trajectory; acquisition; estimating motion; unsupervised learning; source; pipeline; needle tip; motions
 

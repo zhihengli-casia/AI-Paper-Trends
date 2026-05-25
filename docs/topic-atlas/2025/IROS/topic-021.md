@@ -1,8 +1,8 @@
-# IROS 2025: actuators / soft / muscle / pneumatic
+# IROS 2025: 软体机器人与柔性执行器
 
 - Topic ID: `21`
 - Papers: **27** (1.37%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 3D/具身/机器人
 - English keywords: `actuators / soft / muscle / pneumatic`
 - Keyword pool: actuators; soft; muscle; pneumatic; artificial; robotic; liquid; stiffness; design; intrinsic; structures; actuation
 

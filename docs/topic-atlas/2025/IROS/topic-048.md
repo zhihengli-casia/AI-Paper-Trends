@@ -1,8 +1,8 @@
-# IROS 2025: visual-inertial / odometry / localization / anchors
+# IROS 2025: 视觉导航与语义地图
 
 - Topic ID: `48`
 - Papers: **17** (0.86%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `visual-inertial / odometry / localization / anchors`
 - Keyword pool: visual-inertial; odometry; localization; anchors; monocular visual; noise; correction; slam; robust; filter; navigation; heterogeneous
 

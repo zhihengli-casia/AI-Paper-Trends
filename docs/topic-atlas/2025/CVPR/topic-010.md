@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **38** (1.32%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `reconstruction / sfm / camera / slam`
 - Keyword pool: reconstruction; sfm; camera; slam; monocular; structure-from-motion; gaussian; tracking; surface; pose; estimation; multi-view
 

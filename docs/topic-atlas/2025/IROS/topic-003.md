@@ -1,8 +1,8 @@
-# IROS 2025: 机器人操作与具身智能
+# IROS 2025: 语言模型驱动的机器人任务规划
 
 - Topic ID: `3`
 - Papers: **40** (2.02%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / embodied / planning / reasoning`
 - Keyword pool: language; embodied; planning; reasoning; social; following; long-horizon; interaction; robot navigation; behavior; question; answering
 

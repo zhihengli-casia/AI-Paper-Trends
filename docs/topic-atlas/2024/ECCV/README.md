@@ -39,12 +39,12 @@
 | [025](topic-025.md) | 扩散生成模型 | 28 | 1.17% | 计算机视觉 | `anomaly / anomalies / normal / defects` | Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation |
 | [026](topic-026.md) | 视频扩散生成与运动控制 | 27 | 1.13% | 生成模型 | `multi-view / synthesis / diffusion / video` | SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion |
 | [027](topic-027.md) | 扩散生成模型 | 27 | 1.13% | 生成模型 | `diffusion / point / depth / cloud` | MVDD: Multi-View Depth Diffusion Models |
-| [028](topic-028.md) | 机器人操作与具身智能 | 24 | 1.01% | 强化学习/决策 | `agent / embodied / reinforcement learning / planning` | Visual Grounding for Object-Level Generalization in Reinforcement Learning |
+| [028](topic-028.md) | 机器人操作与具身智能 | 24 | 1.01% | 3D/具身/机器人 | `agent / embodied / reinforcement learning / planning` | Visual Grounding for Object-Level Generalization in Reinforcement Learning |
 | [029](topic-029.md) | 视频动作生成与运动控制 | 24 | 1.01% | LLM/语言模型 | `action / temporal / recognition / video` | Two-Stage Active Learning for Efficient Temporal Action Segmentation |
 | [030](topic-030.md) | 目标检测与图像分割 | 24 | 1.01% | 计算机视觉 | `video / mamba / segmentation / spatial-temporal` | VideoMamba: State Space Model for Efficient Video Understanding |
 | [031](topic-031.md) | 自动驾驶感知与世界模型 | 24 | 1.01% | 3D/具身/机器人 | `driving / lane / autonomous / traffic` | Solving Motion Planning Tasks with a Scalable Generative Model |
 | [034](topic-034.md) | 文生图生成与个性化编辑 | 23 | 0.96% | 生成模型 | `style / concepts / diffusion / generated images` | Investigating Style Similarity in Diffusion Models |
-| [033](topic-033.md) | 目标检测与图像分割 | 23 | 0.96% | 计算机视觉 | `uda / source-free / domain adaptation / object detection` | Simplifying Source-Free Domain Adaptation for Object Detection: Effective Self-Training Strategies and Performance Insights |
+| [033](topic-033.md) | 机器人视觉目标检测与域适应 | 23 | 0.96% | 计算机视觉 | `uda / source-free / domain adaptation / object detection` | Simplifying Source-Free Domain Adaptation for Object Detection: Effective Self-Training Strategies and Performance Insights |
 | [032](topic-032.md) | 文生图生成与个性化编辑 | 23 | 0.96% | 生成模型 | `diffusion / text-to-image / memorization / explanations` | Enhancing Semantic Fidelity in Text-to-Image Synthesis: Attention Regulation in Diffusion Models |
 | [037](topic-037.md) | 文生图生成与个性化编辑 | 23 | 0.96% | 生成模型 | `layout / diffusion / control / image composition` | Training-free Composite Scene Generation for Layout-to-Image Synthesis |
 | [036](topic-036.md) | 目标检测与图像分割 | 23 | 0.96% | 多模态/VLM | `grounding / language / segmentation / understanding` | Unifying 3D Vision-Language Understanding via Promptable Queries |
@@ -58,7 +58,7 @@
 | [044](topic-044.md) | 扩散生成模型 | 21 | 0.88% | 生成模型 | `texture / stylization / texturing / scene` | Scene-Conditional 3D Object Stylization and Composition |
 | [045](topic-045.md) | 视觉语言模型与多模态理解 | 20 | 0.84% | 多模态/VLM | `prompt / vlms / zero-shot / vision-language` | Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation |
 | [046](topic-046.md) | action / skeleton / gait / recognition | 20 | 0.84% | 多模态/VLM | `action / skeleton / gait / recognition` | S-JEPA: A Joint Embedding Predictive Architecture for Skeletal Action Recognition |
-| [049](topic-049.md) | affordance / action / anticipation / assembly | 19 | 0.80% | LLM/语言模型 | `affordance / action / anticipation / assembly` | PALM: Predicting Actions through Language Models |
+| [049](topic-049.md) | affordance / action / anticipation / assembly | 19 | 0.80% | 3D/具身/机器人 | `affordance / action / anticipation / assembly` | PALM: Predicting Actions through Language Models |
 | [047](topic-047.md) | 隐私保护与安全学习 | 19 | 0.80% | 可信/安全/公平 | `attacks / privacy / backdoor / ssl` | A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks |
 | [048](topic-048.md) | brain / 视频理解/生成 / inr / neural | 19 | 0.80% | 系统/效率/压缩 | `brain / video / inr / neural` | Efficient Neural Video Representation with Temporally Coherent Modulation |
 | [052](topic-052.md) | 深度估计与立体匹配 | 19 | 0.80% | 3D/具身/机器人 | `rendering / thermal / surface / photometric stereo` | Relightable 3D Gaussians: Realistic Point Cloud Relighting with BRDF Decomposition and Ray Tracing |
@@ -95,7 +95,7 @@
 | [081](topic-081.md) | 3D Gaussian Splatting 与场景重建 | 13 | 0.54% | HCI/社会计算 | `avatars / animatable / head / rendering` | iHuman: Instant Animatable Digital Humans From Monocular Videos |
 | [082](topic-082.md) | 3D Avatar 与人脸头部建模 | 13 | 0.54% | 计算机视觉 | `head / facial / tri-plane / portrait` | SphereHead: Stable 3D Full-head Synthesis with Spherical Tri-plane Representation |
 | [083](topic-083.md) | 文档摘要与信息压缩 | 13 | 0.54% | 推荐/检索/排序 | `video / temporal / grounding / moment` | Training-free Video Temporal Grounding using Large-scale Pre-trained Models |
-| [084](topic-084.md) | 3D Gaussian Splatting 与场景重建 | 13 | 0.54% | 计算机视觉 | `gaussian / splatting / geometry / surface` | GS2Mesh: Surface Reconstruction from Gaussian Splatting via Novel Stereo Views |
+| [084](topic-084.md) | 3D Gaussian Splatting 与场景重建 | 13 | 0.54% | 3D/具身/机器人 | `gaussian / splatting / geometry / surface` | GS2Mesh: Surface Reconstruction from Gaussian Splatting via Novel Stereo Views |
 | [085](topic-085.md) | masked / mim / mae / masking | 13 | 0.54% | 计算机视觉 | `masked / mim / mae / masking` | Learning with Unmasked Tokens Drives Stronger Vision Learners |
 | [089](topic-089.md) | 扩散生成模型 | 12 | 0.50% | 多模态/VLM | `kernel / super-resolution / blind / diffusion` | Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution |
 | [086](topic-086.md) | 图像复原与超分辨率 | 12 | 0.50% | 计算机视觉 | `restoration / degradations / degradation types / high-level vision` | Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration |

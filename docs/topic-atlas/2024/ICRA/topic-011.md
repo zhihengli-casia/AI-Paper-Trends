@@ -1,8 +1,8 @@
-# ICRA 2024: teleoperation / human / impedance / robotic
+# ICRA 2024: 机器人遥操作与触觉交互
 
 - Topic ID: `11`
 - Papers: **31** (1.78%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `teleoperation / human / impedance / robotic`
 - Keyword pool: teleoperation; human; impedance; robotic; control; virtual; reality; hand; impaired; people; stable; haptic
 

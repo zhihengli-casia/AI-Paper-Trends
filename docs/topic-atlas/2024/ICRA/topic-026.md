@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **22** (1.26%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `tactile / sensors / reconstruction / sensing`
 - Keyword pool: tactile; sensors; reconstruction; sensing; classification; recognition; vision-based; learning; spiking; surface; shape; self-supervised
 

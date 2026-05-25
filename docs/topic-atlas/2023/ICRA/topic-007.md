@@ -1,4 +1,4 @@
-# ICRA 2023: grasp / dexterous / dof / picking
+# ICRA 2023: 灵巧机器人操作
 
 - Topic ID: `7`
 - Papers: **26** (1.95%)

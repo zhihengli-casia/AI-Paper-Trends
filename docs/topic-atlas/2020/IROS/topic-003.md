@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **29** (2.60%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / reinforcement / sim-to-real / control`
 - Keyword pool: learning; reinforcement; sim-to-real; control; deep; transfer; policy; policies; domain; gaussian; functions; zero-shot
 

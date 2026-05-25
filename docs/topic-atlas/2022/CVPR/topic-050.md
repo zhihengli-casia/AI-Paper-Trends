@@ -1,4 +1,4 @@
-# CVPR 2022: 查询理解与检索优化
+# CVPR 2022: 少样本 / fsl / samples / classes
 
 - Topic ID: `50`
 - Papers: **19** (0.92%)

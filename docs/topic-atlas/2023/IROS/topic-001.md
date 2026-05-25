@@ -1,8 +1,8 @@
-# IROS 2023: 机器人操作与具身智能
+# IROS 2023: 社交导航与人机交互
 
 - Topic ID: `1`
 - Papers: **38** (3.21%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / human-robot / interaction / team`
 - Keyword pool: language; human-robot; interaction; team; social; gesture; virtual; learning; measuring; service; cognitive; scenario
 

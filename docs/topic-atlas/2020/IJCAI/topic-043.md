@@ -1,4 +1,4 @@
-# IJCAI 2020: 查询理解与检索优化
+# IJCAI 2020: knowledge graphs / relations / linked / commonsense knowledge
 
 - Topic ID: `43`
 - Papers: **10** (1.29%)

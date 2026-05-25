@@ -19,7 +19,7 @@
 | [005](topic-005.md) | interpretability / explanation / concept / interpretable | 27 | 1.76% | 其他/交叉主题 | `interpretability / explanation / concept / interpretable` | Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 Small |
 | [006](topic-006.md) | 对抗攻击、鲁棒性与安全 | 27 | 1.76% | 可信/安全/公平 | `adversarial / attack / examples / transferability` | Inequality phenomenon in $l_{\infty}$-adversarial training, and its unrealized threats |
 | [007](topic-007.md) | 图神经网络与图表示学习 | 26 | 1.70% | 图学习/数据挖掘 | `graph / gnns / nodes / temporal` | Graph Neural Networks are Inherently Good Generalizers: Insights by Bridging GNNs and MLPs |
-| [008](topic-008.md) | 强化学习策略与奖励建模 | 26 | 1.70% | 强化学习/决策 | `reward / reinforcement / expert / imitation` | BC-IRL: Learning Generalizable Reward Functions from Demonstrations |
+| [008](topic-008.md) | 模仿学习与机器人示教 | 26 | 1.70% | 强化学习/决策 | `reward / reinforcement / expert / imitation` | BC-IRL: Learning Generalizable Reward Functions from Demonstrations |
 | [009](topic-009.md) | memorization / forgetting / languages / class-incremental | 26 | 1.70% | LLM/语言模型 | `memorization / forgetting / languages / class-incremental` | A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning |
 | [010](topic-010.md) | offline / reinforcement / 策略优化 / value | 25 | 1.63% | 强化学习/决策 | `offline / reinforcement / policy / value` | Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting |
 | [012](topic-012.md) | NeRF 与神经渲染 | 24 | 1.57% | 计算机视觉 | `radiance / nerf / rendering / scene` | DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images |
@@ -45,14 +45,14 @@
 | [033](topic-033.md) | 语音/音频语言模型 | 20 | 1.31% | 语音/音频/音乐 | `speech / audio / separation / voice` | AudioGen: Textually Guided Audio Generation |
 | [031](topic-031.md) | 多智能体协作与规划 | 20 | 1.31% | 理论/优化 | `games / equilibrium / nash / zero-sum` | Faster Last-iterate Convergence of Policy Optimization in Zero-Sum Markov Games |
 | [032](topic-032.md) | causal / discovery / counterfactual / graphs | 20 | 1.31% | 图学习/数据挖掘 | `causal / discovery / counterfactual / graphs` | GRACE-C: Generalized Rate Agnostic Causal Estimation via Constraints |
-| [034](topic-034.md) | 代码生成与程序理解 | 19 | 1.24% | 理论/优化 | `combinatorial optimization / heuristics / graph / solvers` | On Representing Mixed-Integer Linear Programs by Graph Neural Networks |
+| [034](topic-034.md) | combinatorial optimization / heuristics / 图学习 / solvers | 19 | 1.24% | 理论/优化 | `combinatorial optimization / heuristics / graph / solvers` | On Representing Mixed-Integer Linear Programs by Graph Neural Networks |
 | [035](topic-035.md) | spurious / group / shift / ood | 19 | 1.24% | 可信/安全/公平 | `spurious / group / shift / ood` | Understanding Why Generalized Reweighting Does Not Improve Over ERM |
-| [036](topic-036.md) | 具身智能与物理交互 | 19 | 1.24% | 强化学习/决策 | `exploration / reinforcement / agents / skills` | Choreographer: Learning and Adapting Skills in Imagination |
+| [036](topic-036.md) | 具身智能与物理交互 | 19 | 1.24% | 3D/具身/机器人 | `exploration / reinforcement / agents / skills` | Choreographer: Learning and Adapting Skills in Imagination |
 | [037](topic-037.md) | 扩散生成模型 | 19 | 1.24% | 生成模型 | `diffusion / denoising / inverse / generative` | Denoising Diffusion Samplers |
 | [038](topic-038.md) | transformers / attention / layer / in-context | 18 | 1.18% | 系统/效率/压缩 | `transformers / attention / layer / in-context` | Treeformer: Dense Gradient Trees for Efficient Attention Computation |
 | [039](topic-039.md) | 多智能体协作与规划 | 18 | 1.18% | 强化学习/决策 | `multi-agent / agents / marl / reinforcement` | RPM: Generalizable Multi-Agent Policies for Multi-Agent Reinforcement Learning |
-| [040](topic-040.md) | equivariant / equivariance / symmetries / symmetry | 17 | 1.11% | 计算机视觉 | `equivariant / equivariance / symmetries / symmetry` | The Lie Derivative for Measuring Learned Equivariance |
-| [041](topic-041.md) | 扩散生成模型 | 17 | 1.11% | 生成模型 | `diffusion / image / editing / generation` | Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis |
+| [040](topic-040.md) | equivariant / equivariance / symmetries / symmetry | 17 | 1.11% | 3D/具身/机器人 | `equivariant / equivariance / symmetries / symmetry` | The Lie Derivative for Measuring Learned Equivariance |
+| [041](topic-041.md) | 扩散生成模型 | 17 | 1.11% | 3D/具身/机器人 | `diffusion / image / editing / generation` | Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis |
 | [042](topic-042.md) | 扩散生成模型 | 16 | 1.05% | 可信/安全/公平 | `certified / smoothing / adversarial / randomized` | Provable Robustness against Wasserstein Distribution Shifts via Input Randomization |
 | [044](topic-044.md) | 时间序列建模与预测 | 16 | 1.05% | 其他/交叉主题 | `time series / forecasting / temporal / multivariate` | Effectively Modeling Time Series with Simple Discrete State Spaces |
 | [045](topic-045.md) | teacher / student / distillation / augmentation | 16 | 1.05% | 系统/效率/压缩 | `teacher / student / distillation / augmentation` | Supervision Complexity and its Role in Knowledge Distillation |

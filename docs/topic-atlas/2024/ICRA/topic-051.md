@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **15** (0.86%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `localization / indoor / global / maps`
 - Keyword pool: localization; indoor; global; maps; satellite; features; visual; graph; multimodal; semantic; landmark; repetitive
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **34** (1.58%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / contrastive learning / incremental / uncertainty`
 - Keyword pool: manipulation; contrastive learning; incremental; uncertainty; multi-label; class; detection; embeddings; logic; semantic segmentation; old; self-supervised learning
 

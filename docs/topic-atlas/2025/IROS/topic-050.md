@@ -1,4 +1,4 @@
-# IROS 2025: 3D Gaussian Splatting 与场景重建
+# IROS 2025: 视觉导航与语义地图
 
 - Topic ID: `50`
 - Papers: **16** (0.81%)

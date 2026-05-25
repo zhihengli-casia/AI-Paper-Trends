@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **19** (0.80%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `affordance / action / anticipation / assembly`
 - Keyword pool: affordance; action; anticipation; assembly; world; lego; egocentric; coma; contact; dynamics; video; manipulation
 

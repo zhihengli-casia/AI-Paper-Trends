@@ -1,4 +1,4 @@
-# ICDE 2025: 查询理解与检索优化
+# ICDE 2025: spatial / crowdsourcing / sampling / query
 
 - Topic ID: `13`
 - Papers: **13** (3.33%)

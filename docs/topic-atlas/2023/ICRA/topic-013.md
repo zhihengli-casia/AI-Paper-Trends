@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **25** (1.88%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `imitation / demonstration / skill / human`
 - Keyword pool: imitation; demonstration; skill; human; reinforcement learning; one-shot; visual; feedback; versatile; adversarial; temporal; guided
 

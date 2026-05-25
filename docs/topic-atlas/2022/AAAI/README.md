@@ -17,11 +17,11 @@
 | [003](topic-003.md) | snns / spiking / neural networks / fourier | 41 | 3.12% | 理论/优化 | `snns / spiking / neural networks / fourier` | JFB: Jacobian-Free Backpropagation for Implicit Networks |
 | [004](topic-004.md) | 凸/非凸优化理论 | 34 | 2.59% | 理论/优化 | `optimization / convergence / algorithm / gradient` | Breaking the Convergence Barrier: Optimization via Fixed-Time Convergent Flows |
 | [005](topic-005.md) | 规划搜索与决策推理 | 32 | 2.43% | 系统/效率/压缩 | `planning / heuristics / lifted / plans` | Deciding Unsolvability in Temporal Planning under Action Non-Self-Overlapping |
-| [006](topic-006.md) | 查询理解与检索优化 | 30 | 2.28% | 多模态/VLM | `video / action / temporal / motion` | ACGNet: Action Complement Graph Network for Weakly-Supervised Temporal Action Localization |
+| [006](topic-006.md) | 视频动作生成与运动控制 | 30 | 2.28% | 多模态/VLM | `video / action / temporal / motion` | ACGNet: Action Complement Graph Network for Weakly-Supervised Temporal Action Localization |
 | [007](topic-007.md) | language / human / explanations / 推理 | 30 | 2.28% | LLM/语言模型 | `language / human / explanations / reasoning` | Supervising Model Attention with Human Explanations for Robust Natural Language Inference |
 | [008](topic-008.md) | image / fusion / color / illumination | 28 | 2.13% | 计算机视觉 | `image / fusion / color / illumination` | Model-Based Image Signal Processors via Learnable Dictionaries |
 | [009](topic-009.md) | 强化学习算法与理论 | 27 | 2.05% | 强化学习/决策 | `agents / multi-agent / reinforcement learning / cooperative` | Locality Matters: A Scalable Value Decomposition Approach for Cooperative Multi-Agent Reinforcement Learning |
-| [010](topic-010.md) | 查询理解与检索优化 | 27 | 2.05% | 推荐/检索/排序 | `logic / revision / belief / argumentation` | The Price of Selfishness: Conjunctive Query Entailment for ALCSelf Is 2EXPTIME-Hard |
+| [010](topic-010.md) | logic / revision / belief / argumentation | 27 | 2.05% | 推荐/检索/排序 | `logic / revision / belief / argumentation` | The Price of Selfishness: Conjunctive Query Entailment for ALCSelf Is 2EXPTIME-Hard |
 | [011](topic-011.md) | 时间序列建模与预测 | 27 | 2.05% | 生成模型 | `forecasting / time series / market / spatio-temporal` | SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss |
 | [012](topic-012.md) | 深度估计与立体匹配 | 25 | 1.90% | 3D/具身/机器人 | `object / detection / lane / bounding` | Stereo Neural Vernier Caliper |
 | [013](topic-013.md) | 深度估计与立体匹配 | 25 | 1.90% | 计算机视觉 | `transformer / vit / vision / image` | Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer |
@@ -35,9 +35,9 @@
 | [021](topic-021.md) | active learning / distillation / quantization / student | 20 | 1.52% | 系统/效率/压缩 | `active learning / distillation / quantization / student` | Similarity Search for Efficient Active Learning and Search of Rare Concepts |
 | [024](topic-024.md) | 推荐系统与用户建模 | 19 | 1.44% | 推荐/检索/排序 | `user / recommendation / recommender / items` | Learning the Optimal Recommendation from Explorative Users |
 | [022](topic-022.md) | explanations / decision / reasons / trees | 19 | 1.44% | 系统/效率/压缩 | `explanations / decision / reasons / trees` | Trading Complexity for Sparsity in Random Forest Explanations |
-| [023](topic-023.md) | 代码生成与程序理解 | 19 | 1.44% | 系统/效率/压缩 | `optimization / solver / student / problems` | A Divide and Conquer Algorithm for Predict+Optimize with Non-convex Problems |
+| [023](topic-023.md) | 优化 / solver / student / problems | 19 | 1.44% | 系统/效率/压缩 | `optimization / solver / student / problems` | A Divide and Conquer Algorithm for Predict+Optimize with Non-convex Problems |
 | [026](topic-026.md) | 目标检测与图像分割 | 19 | 1.44% | 计算机视觉 | `segmentation / semantic / channel / module` | Active Boundary Loss for Semantic Segmentation |
-| [027](topic-027.md) | games / equilibrium / dice / strategic | 19 | 1.44% | 生成模型 | `games / equilibrium / dice / strategic` | Coordinating Followers to Reach Better Equilibria: End-to-End Gradient Descent for Stackelberg Games |
+| [027](topic-027.md) | games / equilibrium / dice / strategic | 19 | 1.44% | 3D/具身/机器人 | `games / equilibrium / dice / strategic` | Coordinating Followers to Reach Better Equilibria: End-to-End Gradient Descent for Stackelberg Games |
 | [025](topic-025.md) | 目标检测与图像分割 | 19 | 1.44% | 计算机视觉 | `semantic segmentation / self-supervised / medical / attribute` | Can Semantic Labels Assist Self-Supervised Visual Representation Learning? |
 | [028](topic-028.md) | 在线学习与 regret 理论 | 18 | 1.37% | 理论/优化 | `bandits / regret / algorithm / contamination` | Instance-Sensitive Algorithms for Pure Exploration in Multinomial Logit Bandit |
 | [029](topic-029.md) | face / deepfake / detection / facial | 18 | 1.37% | 计算机视觉 | `face / deepfake / detection / facial` | Feature Generation and Hypothesis Verification for Reliable Face Anti-spoofing |

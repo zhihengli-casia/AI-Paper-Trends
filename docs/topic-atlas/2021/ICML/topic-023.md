@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **19** (1.61%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `instructions / reinforcement / policy / visual`
 - Keyword pool: instructions; reinforcement; policy; visual; environments; control; representations; skills; robotic; subgoals; zero-shot; policies
 

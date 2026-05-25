@@ -21,7 +21,7 @@
 | [007](topic-007.md) | 多视图聚类与图学习 | 26 | 2.26% | 图学习/数据挖掘 | `clustering / multi-view / views / tensor` | Graph based Consistency Learning for Contrastive Multi-View Clustering |
 | [008](topic-008.md) | 句法语义解析与结构化表示 | 25 | 2.18% | 3D/具身/机器人 | `pose estimation / motion / human / parsing` | HmPEAR: A Dataset for Human Pose Estimation and Action Recognition |
 | [009](topic-009.md) | 推荐系统与用户建模 | 25 | 2.18% | 多模态/VLM | `recommendation / item / user / multimodal` | Modality-Balanced Learning for Multimedia Recommendation |
-| [010](topic-010.md) | 查询理解与检索优化 | 24 | 2.09% | 计算机视觉 | `sam / segmentation / object / radar` | Unleashing the Power of Generic Segmentation Model: A Simple Baseline for Infrared Small Target Detection |
+| [010](topic-010.md) | 目标检测与图像分割 | 24 | 2.09% | 计算机视觉 | `sam / segmentation / object / radar` | Unleashing the Power of Generic Segmentation Model: A Simple Baseline for Infrared Small Target Detection |
 | [011](topic-011.md) | 查询理解与检索优化 | 24 | 2.09% | 推荐/检索/排序 | `video / retrieval / moment / captions` | Prior Knowledge Integration via LLM Encoding and Pseudo Event Regulation for Video Moment Retrieval |
 | [012](topic-012.md) | 新闻文本、虚假信息与安全检测 | 24 | 2.09% | 多模态/VLM | `clip / prompt / continual / person` | Advancing Prompt Learning through an External Layer |
 | [013](topic-013.md) | 多模态大模型与视觉语言推理 | 23 | 2.00% | 多模态/VLM | `chart / multimodal / language / mllms` | Semantic Alignment for Multimodal Large Language Models |
@@ -46,7 +46,7 @@
 | [032](topic-032.md) | 扩散生成模型 | 16 | 1.39% | 生成模型 | `foreground / color / diffusion / shadow` | CFDiffusion: Controllable Foreground Relighting in Image Compositing via Diffusion Model |
 | [034](topic-034.md) | 多模态学习与跨模态理解 | 15 | 1.31% | 多模态/VLM | `news / fake / multimodal / social` | Harmfully Manipulated Images Matter in Multimodal Misinformation Detection |
 | [035](topic-035.md) | 目标检测与图像分割 | 15 | 1.31% | 计算机视觉 | `self-attention / transformer / change / vessel` | Linearly-evolved Transformer for Pan-sharpening |
-| [033](topic-033.md) | 深度估计与立体匹配 | 15 | 1.31% | 3D/具身/机器人 | `depth / object detection / point / monocular` | CSO: Constraint-Guided Space Optimization for Active Scene Mapping |
+| [033](topic-033.md) | 机器人视觉目标检测与域适应 | 15 | 1.31% | 3D/具身/机器人 | `depth / object detection / point / monocular` | CSO: Constraint-Guided Space Optimization for Active Scene Mapping |
 | [038](topic-038.md) | 语音/音频语言模型 | 14 | 1.22% | 多模态/VLM | `talking / facial / head / identity` | Control-Talker: A Rapid-Customization Talking Head Generation Method for Multi-Condition Control and High-Texture Enhancement |
 | [039](topic-039.md) | 对抗攻击、鲁棒性与安全 | 14 | 1.22% | 计算机视觉 | `privacy / face / adversarial / attacks` | Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils |
 | [036](topic-036.md) | 语音/音频语言模型 | 14 | 1.22% | 计算机视觉 | `audio-visual / speech / event / audio visual` | Boosting Speech Recognition Robustness to Modality-Distortion with Contrast-Augmented Prompts |

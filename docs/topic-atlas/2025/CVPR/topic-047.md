@@ -1,8 +1,8 @@
-# CVPR 2025: tracking / uav / fusion / association
+# CVPR 2025: 无人机/四旋翼规划与控制
 
 - Topic ID: `47`
 - Papers: **26** (0.91%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `tracking / uav / fusion / association`
 - Keyword pool: tracking; uav; fusion; association; detection; trackers; infrared; temporal; relation-aware; target; multi-object; multi-view
 

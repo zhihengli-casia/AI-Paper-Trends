@@ -1,4 +1,4 @@
-# NeurIPS 2022: imitation / expert / cloning / demonstrations
+# NeurIPS 2022: 模仿学习与机器人示教
 
 - Topic ID: `100`
 - Papers: **11** (0.41%)

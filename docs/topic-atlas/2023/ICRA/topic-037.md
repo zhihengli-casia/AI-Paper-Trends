@@ -1,8 +1,8 @@
-# ICRA 2023: 机器人操作与具身智能
+# ICRA 2023: 机器人遥操作与触觉交互
 
 - Topic ID: `37`
 - Papers: **16** (1.20%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `teleoperation / human-robot / remote / surgery`
 - Keyword pool: teleoperation; human-robot; remote; surgery; user; augmented; reality; reinforcement learning; physically; planning environment; evaluating; implicit neural
 

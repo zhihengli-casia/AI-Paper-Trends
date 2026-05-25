@@ -2,7 +2,7 @@
 
 - Topic ID: `77`
 - Papers: **12** (0.61%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `transformer / visual / servoing / vision`
 - Keyword pool: transformer; visual; servoing; vision; generalizable; image; objects; uncalibrated; tomography; measurements; noisy; parametric
 

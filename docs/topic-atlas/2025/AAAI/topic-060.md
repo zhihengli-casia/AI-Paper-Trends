@@ -2,7 +2,7 @@
 
 - Topic ID: `60`
 - Papers: **22** (0.73%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `pose / human / estimation / body`
 - Keyword pool: pose; human; estimation; body; motion; facial; ssm; manipulation; proxy; joints; inertial; egocentric
 

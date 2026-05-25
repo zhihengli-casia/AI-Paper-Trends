@@ -1,8 +1,8 @@
-# ICRA 2021: targets / uav / camera / aerial
+# ICRA 2021: 无人机/四旋翼规划与控制
 
 - Topic ID: `60`
 - Papers: **10** (0.73%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `targets / uav / camera / aerial`
 - Keyword pool: targets; uav; camera; aerial; detection; elimination; drones; core; investigation; geometry-aware; pointing; baseline
 

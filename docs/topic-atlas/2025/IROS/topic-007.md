@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **32** (1.62%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / language / scene / object`
 - Keyword pool: navigation; language; scene; object; graph; semantic; enhancing; latent; zero-shot; vlm; inspection; causal
 

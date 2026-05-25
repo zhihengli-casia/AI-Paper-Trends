@@ -1,8 +1,8 @@
-# AAAI 2026: 视觉语言动作模型与具身操作
+# AAAI 2026: 机器人操作与抓取
 
 - Topic ID: `88`
 - Papers: **22** (0.53%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `vla / action / robotic / manipulation`
 - Keyword pool: vla; action; robotic; manipulation; embodied; policy; multi-frame; motion; sdp; symmetry; object-centric; humanoid
 

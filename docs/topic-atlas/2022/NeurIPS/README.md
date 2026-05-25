@@ -55,7 +55,7 @@
 | [041](topic-041.md) | causal / treatment / effects / confounding | 26 | 0.97% | 理论/优化 | `causal / treatment / effects / confounding` | Disentangling Causal Effects from Sets of Interventions in the Presence of Unobserved Confounders |
 | [042](topic-042.md) | causal / discovery / graphs / variables | 26 | 0.97% | 图学习/数据挖掘 | `causal / discovery / graphs / variables` | Causal Discovery in Linear Latent Variable Models Subject to Measurement Error |
 | [043](topic-043.md) | quantization / compression / bits / optical | 24 | 0.90% | 系统/效率/压缩 | `quantization / compression / bits / optical` | Model Preserving Compression for Neural Networks |
-| [044](topic-044.md) | 机器人操作与具身智能 | 24 | 0.90% | 3D/具身/机器人 | `navigation / planning / embodied / agent` | Towards Versatile Embodied Navigation |
+| [044](topic-044.md) | 语言模型驱动的机器人任务规划 | 24 | 0.90% | 3D/具身/机器人 | `navigation / planning / embodied / agent` | Towards Versatile Embodied Navigation |
 | [045](topic-045.md) | augmentation / self-supervised learning / ssl / hyperbolic | 23 | 0.86% | 系统/效率/压缩 | `augmentation / self-supervised learning / ssl / hyperbolic` | Improving Self-Supervised Learning by Characterizing Idealized Representations |
 | [046](topic-046.md) | 目标检测与图像分割 | 23 | 0.86% | 计算机视觉 | `object / segmentation / unsupervised / detection` | Promising or Elusive? Unsupervised Object Segmentation from Real-world Single Images |
 | [047](topic-047.md) | 目标检测与图像分割 | 23 | 0.86% | 计算机视觉 | `segmentation / semantic / pseudo labels / teacher` | Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization |
@@ -68,7 +68,7 @@
 | [054](topic-054.md) | fine-tuning / tabular / cnns / convolutional | 21 | 0.79% | 系统/效率/压缩 | `fine-tuning / tabular / cnns / convolutional` | The Unreasonable Effectiveness of Fully-Connected Layers for Low-Data Regimes |
 | [055](topic-055.md) | 在线学习与 regret 理论 | 21 | 0.79% | 理论/优化 | `bayesian optimization / search / acquisition / entropy` | Bayesian Optimization over Discrete and Mixed Spaces via Probabilistic Reparameterization |
 | [056](topic-056.md) | uncertainty / calibration / quantification / aleatoric | 20 | 0.75% | 可信/安全/公平 | `uncertainty / calibration / quantification / aleatoric` | Nonparametric Uncertainty Quantification for Single Deterministic Neural Network |
-| [057](topic-057.md) | 代码生成与程序理解 | 20 | 0.75% | 理论/优化 | `logic / symbolic / reasoning / probabilistic` | Learning to Reason with Neural Networks: Generalization, Unseen Data and Boolean Measures |
+| [057](topic-057.md) | logic / symbolic / 推理 / probabilistic | 20 | 0.75% | 理论/优化 | `logic / symbolic / reasoning / probabilistic` | Learning to Reason with Neural Networks: Generalization, Unseen Data and Boolean Measures |
 | [058](topic-058.md) | human / language / explanations / user | 20 | 0.75% | LLM/语言模型 | `human / language / explanations / user` | Capturing Failures of Large Language Models via Human Cognitive Biases |
 | [059](topic-059.md) | sliced / wasserstein / clustering / coreset | 19 | 0.71% | 理论/优化 | `sliced / wasserstein / clustering / coreset` | Wasserstein $K$-means for clustering probability distributions |
 | [060](topic-060.md) | decision trees / explanations / multiplicity / forest | 19 | 0.71% | 理论/优化 | `decision trees / explanations / multiplicity / forest` | Decision Trees with Short Explainable Rules |
@@ -78,7 +78,7 @@
 | [064](topic-064.md) | 对抗攻击、鲁棒性与安全 | 18 | 0.67% | 多模态/VLM | `attacks / poisoning / membership / defense` | Amplifying Membership Exposure via Data Poisoning |
 | [065](topic-065.md) | 在线学习与 regret 理论 | 18 | 0.67% | 强化学习/决策 | `auctions / revenue / regret / market` | Online Allocation and Learning in the Presence of Strategic Agents |
 | [066](topic-066.md) | 推理 / language / explanations / 大语言模型 | 18 | 0.67% | LLM/语言模型 | `reasoning / language / explanations / llms` | STaR: Bootstrapping Reasoning With Reasoning |
-| [068](topic-068.md) | 代码生成与程序理解 | 17 | 0.64% | 理论/优化 | `cutting / search / integer / combinatorial` | Simulation-guided Beam Search for Neural Combinatorial Optimization |
+| [068](topic-068.md) | cutting / search / integer / combinatorial | 17 | 0.64% | 理论/优化 | `cutting / search / integer / combinatorial` | Simulation-guided Beam Search for Neural Combinatorial Optimization |
 | [067](topic-067.md) | 随机优化与收敛理论 | 17 | 0.64% | 可信/安全/公平 | `lyapunov / stability / dynamics / dynamical` | On the generalization of learning algorithms that do not converge |
 | [069](topic-069.md) | 奖励建模 / exploration / shaping / intrinsic | 17 | 0.64% | 强化学习/决策 | `reward / exploration / shaping / intrinsic` | Exploration-Guided Reward Shaping for Reinforcement Learning under Sparse Rewards |
 | [072](topic-072.md) | physical / dynamics / equation / hamiltonian | 17 | 0.64% | 可信/安全/公平 | `physical / dynamics / equation / hamiltonian` | Scale-invariant Learning by Physics Inversion |
@@ -111,10 +111,10 @@
 | [096](topic-096.md) | langevin / sampling / quantum / mcmc | 12 | 0.45% | 系统/效率/压缩 | `langevin / sampling / quantum / mcmc` | Local-Global MCMC kernels: the best of both worlds |
 | [098](topic-098.md) | equilibrium / synaptic / biologically-plausible / learning rules | 11 | 0.41% | 理论/优化 | `equilibrium / synaptic / biologically-plausible / learning rules` | Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules |
 | [099](topic-099.md) | 强化学习策略与奖励建模 | 11 | 0.41% | 强化学习/决策 | `safe / cup / exploration / constraint` | Enhancing Safe Exploration Using Safety State Augmentation |
-| [100](topic-100.md) | imitation / expert / cloning / demonstrations | 11 | 0.41% | 强化学习/决策 | `imitation / expert / cloning / demonstrations` | Minimax Optimal Online Imitation Learning via Replay Estimation |
+| [100](topic-100.md) | 模仿学习与机器人示教 | 11 | 0.41% | 强化学习/决策 | `imitation / expert / cloning / demonstrations` | Minimax Optimal Online Imitation Learning via Replay Estimation |
 | [101](topic-101.md) | dro / distributionally robust / robust optimization / uncertainty set | 11 | 0.41% | 可信/安全/公平 | `dro / distributionally robust / robust optimization / uncertainty set` | Distributionally Robust Optimization with Data Geometry |
 | [102](topic-102.md) | spiking / snns / spike / neuromorphic | 11 | 0.41% | 可信/安全/公平 | `spiking / snns / spike / neuromorphic` | SNN-RAT: Robustness-enhanced Spiking Neural Network through Regularized Adversarial Training |
 | [103](topic-103.md) | LLM Agent 与工具使用 | 11 | 0.41% | 系统/效率/压缩 | `fair / items / agents / valuations` | Dynamic Fair Division with Partial Information |
-| [104](topic-104.md) | 强化学习策略与奖励建模 | 10 | 0.37% | 强化学习/决策 | `reward / reinforcement learning / expert / inverse` | Active Exploration for Inverse Reinforcement Learning |
+| [104](topic-104.md) | 模仿学习与机器人示教 | 10 | 0.37% | 强化学习/决策 | `reward / reinforcement learning / expert / inverse` | Active Exploration for Inverse Reinforcement Learning |
 | [105](topic-105.md) | 在线学习与 regret 理论 | 10 | 0.37% | 图学习/数据挖掘 | `regret / feedback / online learning / graphs` | A Near-Optimal Best-of-Both-Worlds Algorithm for Online Learning with Feedback Graphs |
 | [106](topic-106.md) | 在线学习与 regret 理论 | 10 | 0.37% | 系统/效率/压缩 | `games / extensive-form / equilibria / regret` | Optimistic Mirror Descent Either Converges to Nash or to Strong Coarse Correlated Equilibria in Bimatrix Games |

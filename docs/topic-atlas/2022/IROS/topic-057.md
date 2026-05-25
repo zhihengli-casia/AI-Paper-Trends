@@ -2,7 +2,7 @@
 
 - Topic ID: `57`
 - Papers: **11** (0.92%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `driving / autonomous / latent / vehicle`
 - Keyword pool: driving; autonomous; latent; vehicle; attention; network; neural; federated; spiking; pedestrian; lane; commands
 

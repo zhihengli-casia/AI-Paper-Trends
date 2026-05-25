@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **28** (2.51%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `tracking / motion / estimation / visual`
 - Keyword pool: tracking; motion; estimation; visual; multi-object; pose; single; occlusion; pedestrian; videos; servoing; estimating
 

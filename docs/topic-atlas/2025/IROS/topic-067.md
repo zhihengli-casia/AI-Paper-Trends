@@ -2,7 +2,7 @@
 
 - Topic ID: `67`
 - Papers: **14** (0.71%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `underwater / object detection / maritime / observations`
 - Keyword pool: underwater; object detection; maritime; observations; sonar; segmentation; environments; semantic; surface vessels; opti-acoustic; removal; risk assessment
 

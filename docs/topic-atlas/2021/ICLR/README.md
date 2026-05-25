@@ -31,7 +31,7 @@
 | [017](topic-017.md) | 语音/音频语言模型 | 20 | 2.33% | 3D/具身/机器人 | `video / compression / autoregressive / temporal` | Self-Supervised Learning of Compressed Video Representations |
 | [018](topic-018.md) | 凸/非凸优化理论 | 18 | 2.10% | 理论/优化 | `distributed / communication / local / worker` | Federated Learning Based on Dynamic Regularization |
 | [019](topic-019.md) | recurrent / rnns / units / memory | 18 | 2.10% | 理论/优化 | `recurrent / rnns / units / memory` | Continual learning in recurrent neural networks |
-| [020](topic-020.md) | 具身智能与物理交互 | 18 | 2.10% | 强化学习/决策 | `reinforcement / agent / navigation / action` | Learning Invariant Representations for Reinforcement Learning without Reconstruction |
+| [020](topic-020.md) | 视觉导航与语义地图 | 18 | 2.10% | 3D/具身/机器人 | `reinforcement / agent / navigation / action` | Learning Invariant Representations for Reinforcement Learning without Reconstruction |
 | [021](topic-021.md) | language / fine-tuning / contrastive / generation | 17 | 1.98% | LLM/语言模型 | `language / fine-tuning / contrastive / generation` | Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning |
 | [022](topic-022.md) | 对抗攻击、鲁棒性与安全 | 17 | 1.98% | 可信/安全/公平 | `attack / poisoning / adversarial / defense` | Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching |
 | [023](topic-023.md) | 推荐系统与用户建模 | 16 | 1.86% | 推荐/检索/排序 | `entity / answering / entities / retrieval` | Anchor & Transform: Learning Sparse Embeddings for Large Vocabularies |

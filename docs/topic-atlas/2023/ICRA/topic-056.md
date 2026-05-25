@@ -1,8 +1,8 @@
-# ICRA 2023: 机器人操作与具身智能
+# ICRA 2023: 语言/视觉语言引导的机器人语义接地
 
 - Topic ID: `56`
 - Papers: **12** (0.90%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / natural / question / programs`
 - Keyword pool: language; natural; question; programs; grounding; embodied; interactive; manipulation; robot; answering; specification; social
 

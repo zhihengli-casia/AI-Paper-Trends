@@ -17,11 +17,17 @@ import pandas as pd
 DEFAULT_TOPIC_ROOT = Path("results/fine_grained_venue_year_topics_2020_2026_mcs_fine")
 DEFAULT_OUTPUT_ROOT = Path("docs/topic-atlas")
 
+ROBOTICS_VENUES = {"ICRA", "IROS", "RSS"}
+
 
 CN_TOPIC_RULES: list[tuple[tuple[str, ...], str]] = [
     (("rlvr", "verifiable"), "可验证奖励驱动的大模型推理"),
     (("diffusion language",), "扩散语言模型与并行解码"),
     (("llm-as-a-judge",), "LLM-as-Judge 与自动评测"),
+    (("vision-language", "robotic"), "视觉语言驱动的机器人操作"),
+    (("vision-language", "manipulation"), "视觉语言驱动的机器人操作"),
+    (("vision-and-language", "robot"), "视觉语言导航与具身指令跟随"),
+    (("vision-and-language", "navigation"), "视觉语言导航与具身指令跟随"),
     (("mllms",), "多模态大模型与视觉语言推理"),
     (("mllm",), "多模态大模型与视觉语言推理"),
     (("vlms",), "视觉语言模型与多模态理解"),
@@ -32,11 +38,59 @@ CN_TOPIC_RULES: list[tuple[tuple[str, ...], str]] = [
     (("cot", "reasoning"), "Chain-of-Thought 与大模型推理"),
     (("preference", "dpo"), "偏好优化、RLHF 与 DPO"),
     (("rlhf",), "人类反馈对齐与偏好优化"),
+    (("language", "planning", "robot"), "语言模型驱动的机器人任务规划"),
+    (("llm", "planning", "robot"), "语言模型驱动的机器人任务规划"),
+    (("large language", "planning", "robot"), "语言模型驱动的机器人任务规划"),
+    (("behavior tree", "planning"), "机器人任务规划与行为树生成"),
+    (("temporal logic", "planning"), "时序逻辑约束下的机器人任务规划"),
+    (("logic", "temporal", "planning"), "时序逻辑约束下的机器人任务规划"),
+    (("multi-robot", "path"), "多机器人路径规划与协同导航"),
+    (("multi-agent", "multi-robot"), "多机器人路径规划与协同导航"),
+    (("vision-and-language navigation",), "视觉语言导航与具身指令跟随"),
+    (("language", "robot", "navigation"), "语言/视觉语言引导的机器人导航"),
+    (("language", "robot", "grounding"), "语言/视觉语言引导的机器人语义接地"),
+    (("human-robot", "collaboration"), "人机交互与协作机器人"),
+    (("human-robot", "trust"), "人机交互与协作机器人"),
+    (("human-robot", "social"), "社交导航与人机交互"),
+    (("agricultural", "robotic"), "农业机器人与自主采摘"),
+    (("harvesting", "robotic"), "农业机器人与自主采摘"),
+    (("detection", "domain", "object"), "机器人视觉目标检测与域适应"),
+    (("navigation", "zero-shot", "visual"), "视觉语义导航与开放词汇定位"),
+    (("navigation", "visual"), "视觉导航与语义地图"),
+    (("tactile", "manipulation"), "机器人触觉感知与操作"),
+    (("tactile", "robotic"), "机器人触觉感知与操作"),
+    (("robotic", "manipulation"), "机器人操作与抓取"),
+    (("robot", "manipulation"), "机器人操作与抓取"),
+    (("grasping", "robotic"), "机器人操作与抓取"),
+    (("imitation", "demonstrations"), "模仿学习与机器人示教"),
+    (("dexterous", "gripper"), "灵巧操作与夹爪控制"),
+    (("dexterous", "manipulation"), "灵巧机器人操作"),
+    (("sim-to-real", "manipulation"), "机器人操作的 Sim-to-Real 迁移"),
+    (("sim2real", "manipulation"), "机器人操作的 Sim-to-Real 迁移"),
+    (("quadruped",), "足式机器人与运动控制"),
+    (("legged",), "足式机器人与运动控制"),
+    (("humanoid",), "人形机器人与全身控制"),
+    (("locomotion", "robot"), "机器人运动控制与移动能力"),
+    (("soft", "robot"), "软体机器人与柔性执行器"),
+    (("soft", "robotic"), "软体机器人与柔性执行器"),
+    (("underwater", "robot"), "水下机器人与海洋自主系统"),
+    (("aerial", "robot"), "无人机/空中机器人规划与控制"),
+    (("quadrotor",), "无人机/四旋翼规划与控制"),
+    (("uav",), "无人机/四旋翼规划与控制"),
+    (("drone",), "无人机/四旋翼规划与控制"),
+    (("teleoperation",), "机器人遥操作与触觉交互"),
+    (("haptic",), "机器人遥操作与触觉交互"),
+    (("robotic", "surgery"), "手术机器人与医学机器人"),
+    (("surgical", "robotic"), "手术机器人与医学机器人"),
+    (("endoscopic", "robotic"), "手术机器人与医学机器人"),
+    (("agricultural", "robotic"), "农业机器人与自主采摘"),
+    (("harvesting", "robotic"), "农业机器人与自主采摘"),
+    (("slam", "robot"), "机器人 SLAM 与定位建图"),
+    (("slam", "lidar"), "机器人 SLAM 与定位建图"),
     (("lora",), "LoRA 与参数高效微调"),
     (("peft",), "参数高效微调与模型适配"),
     (("long-context",), "长上下文建模与压缩"),
     (("code generation",), "代码生成与程序理解"),
-    (("programming",), "代码生成与程序理解"),
     (("multilingual",), "多语言建模与跨语言迁移"),
     (("translation",), "机器翻译与跨语言对齐"),
     (("summarization",), "文档摘要与信息压缩"),
@@ -69,7 +123,8 @@ CN_TOPIC_RULES: list[tuple[tuple[str, ...], str]] = [
     (("recommendation",), "推荐系统与用户建模"),
     (("recommender",), "推荐系统与用户建模"),
     (("ranking",), "搜索排序与相关性建模"),
-    (("query",), "查询理解与检索优化"),
+    (("query", "retrieval"), "查询理解与检索优化"),
+    (("query", "ranking"), "查询理解与检索优化"),
     (("generative retrieval",), "生成式检索"),
     (("vision-language-action",), "视觉语言动作模型与具身操作"),
     (("vla",), "视觉语言动作模型与具身操作"),
@@ -87,7 +142,7 @@ CN_TOPIC_RULES: list[tuple[tuple[str, ...], str]] = [
     (("stereo",), "深度估计与立体匹配"),
     (("lidar",), "LiDAR 点云与 3D 感知"),
     (("point", "cloud"), "点云表示与 3D 感知"),
-    (("autonomous",), "自动驾驶感知与世界模型"),
+    (("autonomous driving",), "自动驾驶感知与世界模型"),
     (("driving",), "自动驾驶感知与世界模型"),
     (("robot",), "机器人操作与具身智能"),
     (("embodied",), "具身智能与物理交互"),
@@ -199,13 +254,49 @@ def md_escape(value: object) -> str:
     return text.replace("\n", " ").strip()
 
 
+def topic_text(row: pd.Series, include_representatives: bool = False) -> str:
+    parts = [
+        str(row.get("topic_label", "")),
+        str(row.get("keywords", "")),
+    ]
+    if include_representatives:
+        parts.append(str(row.get("representative_titles", "")))
+    return " ".join(parts).lower()
+
+
+def display_macro_topic(row: pd.Series) -> str:
+    text = topic_text(row)
+    venue = str(row.get("venue", "")).upper()
+    robotics_context = (
+        venue in ROBOTICS_VENUES
+        or any(
+            contains_term(text, term)
+            for term in (
+                "robot",
+                "robotic",
+                "robotics",
+                "multi-robot",
+                "human-robot",
+                "embodied",
+                "manipulation",
+                "grasping",
+                "locomotion",
+                "slam",
+                "quadrotor",
+                "uav",
+                "drone",
+                "teleoperation",
+                "haptic",
+            )
+        )
+    )
+    if robotics_context:
+        return "3D/具身/机器人"
+    return str(row.get("macro_topic", ""))
+
+
 def topic_name_cn(row: pd.Series) -> str:
-    text = " ".join(
-        [
-            str(row.get("topic_label", "")),
-            str(row.get("keywords", "")),
-        ]
-    ).lower()
+    text = topic_text(row)
     for required_terms, name in CN_TOPIC_RULES:
         if all(contains_term(text, term) for term in required_terms):
             return name
@@ -216,7 +307,7 @@ def topic_name_cn(row: pd.Series) -> str:
         translated.append(TERM_CN.get(term, term))
     if translated:
         return " / ".join(translated[:4])
-    return f"{row.get('macro_topic', '主题')}细分方向"
+    return f"{display_macro_topic(row) or '主题'}细分方向"
 
 
 def contains_term(text: str, term: str) -> bool:
@@ -277,7 +368,7 @@ def build_topic_page(
         "",
         f"- Topic ID: `{topic_id}`",
         f"- Papers: **{int(topic_row['paper_count'])}** ({float(topic_row['paper_share']) * 100:.2f}%)",
-        f"- Macro topic: {md_escape(topic_row.get('macro_topic', ''))}",
+        f"- Macro topic: {md_escape(display_macro_topic(topic_row))}",
         f"- English keywords: `{md_escape(topic_row.get('topic_label', ''))}`",
         f"- Keyword pool: {md_escape(topic_row.get('keywords', ''))}",
         "",
@@ -355,7 +446,7 @@ def build_venue_page(
                     table_escape(cn_name),
                     str(int(topic["paper_count"])),
                     f"{float(topic['paper_share']) * 100:.2f}%",
-                    table_escape(topic.get("macro_topic", "")),
+                    table_escape(display_macro_topic(topic)),
                     f"`{table_escape(topic.get('topic_label', ''))}`",
                     table_escape(representative),
                 ]
@@ -484,6 +575,7 @@ def main() -> None:
             topic_file = venue_output_dir / f"topic-{int(topic['topic_id']):03d}.md"
             build_topic_page(output_root, year, venue, topic, records, topic_file)
             topic_record = topic.to_dict()
+            topic_record["macro_topic"] = display_macro_topic(topic)
             topic_record["topic_name_cn"] = topic_name_cn(topic)
             topic_record["topic_page"] = str(topic_file.relative_to(output_root)).replace("\\", "/")
             topic_rows.append(topic_record)

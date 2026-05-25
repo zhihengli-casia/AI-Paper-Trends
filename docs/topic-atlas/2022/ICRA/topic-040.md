@@ -1,8 +1,8 @@
-# ICRA 2022: locomotion / learning / bipedal / sim-to-real
+# ICRA 2022: 足式机器人与运动控制
 
 - Topic ID: `40`
 - Papers: **12** (1.30%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `locomotion / learning / bipedal / sim-to-real`
 - Keyword pool: locomotion; learning; bipedal; sim-to-real; walking; quadruped; legged; dynamic; optimization; real world; angular; zero
 

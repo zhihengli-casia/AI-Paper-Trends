@@ -1,8 +1,8 @@
-# ICRA 2024: reinforcement / learning / physics-informed / control
+# ICRA 2024: 足式机器人与运动控制
 
 - Topic ID: `52`
 - Papers: **15** (0.86%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement / learning / physics-informed / control`
 - Keyword pool: reinforcement; learning; physics-informed; control; legged; policy; unknown; robotic; stair; sensorimotor; loading; partial observability
 

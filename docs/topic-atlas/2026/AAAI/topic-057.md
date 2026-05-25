@@ -1,8 +1,8 @@
-# AAAI 2026: 具身智能与物理交互
+# AAAI 2026: 视觉语言导航与具身指令跟随
 
 - Topic ID: `57`
 - Papers: **32** (0.77%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / instructions / vln / vision-and-language`
 - Keyword pool: navigation; instructions; vln; vision-and-language; embodied; agents; gaze; urban; uav; indoor; action; travel
 

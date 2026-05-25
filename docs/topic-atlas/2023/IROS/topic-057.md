@@ -2,7 +2,7 @@
 
 - Topic ID: `57`
 - Papers: **9** (0.76%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-robot / allocation / teams / heterogeneous`
 - Keyword pool: multi-robot; allocation; teams; heterogeneous; scheduling; reinforcement learning; attention-based; meta-learning; learning social; initial; trajectory planning; formation
 

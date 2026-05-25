@@ -1,8 +1,8 @@
-# ICRA 2022: 自动驾驶感知与世界模型
+# ICRA 2022: 规划搜索与决策推理
 
 - Topic ID: `0`
 - Papers: **42** (4.55%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / path / exploration / navigation`
 - Keyword pool: planning; path; exploration; navigation; informative; motion; safe; environments; trajectory; active; autonomous; unknown
 

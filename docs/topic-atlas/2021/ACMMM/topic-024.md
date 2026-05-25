@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **11** (2.03%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `face / deepfake / detection / vocabulary`
 - Keyword pool: face; deepfake; detection; vocabulary; forgery; manipulation; facial; attack; identity; compressed; unseen; presentation
 

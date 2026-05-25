@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **19** (1.26%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `prompt / vision-language / llm / fine-tuning`
 - Keyword pool: prompt; vision-language; llm; fine-tuning; agent; navigation; instruction; action; embodied; goal; direct; high-level
 

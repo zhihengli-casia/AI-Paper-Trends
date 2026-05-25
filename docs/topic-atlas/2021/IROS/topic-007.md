@@ -1,8 +1,8 @@
-# IROS 2021: 对抗攻击、鲁棒性与安全
+# IROS 2021: 模仿学习与机器人示教
 
 - Topic ID: `7`
 - Papers: **26** (2.55%)
-- Macro topic: 理论/优化
+- Macro topic: 3D/具身/机器人
 - English keywords: `imitation / learning / demonstrations / manipulation`
 - Keyword pool: imitation; learning; demonstrations; manipulation; human; reinforcement; videos; skills; deep; self-supervised; control; adversarial
 

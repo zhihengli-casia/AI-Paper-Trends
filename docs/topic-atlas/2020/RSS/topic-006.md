@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **8** (8.16%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `demonstrations / learning / human / language`
 - Keyword pool: demonstrations; learning; human; language; logic; temporal; specifications; action; scene; videos; visual; deep
 

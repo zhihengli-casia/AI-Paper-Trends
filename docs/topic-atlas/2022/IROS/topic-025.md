@@ -1,8 +1,8 @@
-# IROS 2022: grasping / network / object / robotic
+# IROS 2022: 机器人操作与抓取
 
 - Topic ID: `25`
 - Papers: **20** (1.66%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasping / network / object / robotic`
 - Keyword pool: grasping; network; object; robotic; detection; picking; leveraging; dof; variable; representation; manipulation; recognition
 

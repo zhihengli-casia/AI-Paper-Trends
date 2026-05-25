@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **35** (1.29%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `hand / grasp / mesh / reconstruction`
 - Keyword pool: hand; grasp; mesh; reconstruction; pose; objects; interaction; diffusion; motion; manipulation; illuminations; touch
 

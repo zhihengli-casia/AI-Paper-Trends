@@ -1,8 +1,8 @@
-# ECCV 2020: 具身智能与物理交互
+# ECCV 2020: 视觉语言导航与具身指令跟随
 
 - Topic ID: `29`
 - Papers: **18** (1.33%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / agent / environments / policy`
 - Keyword pool: navigation; agent; environments; policy; exploration; room; vision-and-language; instructions; embodied; path; actions; unseen
 

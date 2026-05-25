@@ -1,8 +1,8 @@
-# CVPR 2023: 查询理解与检索优化
+# CVPR 2023: 无人机/空中机器人规划与控制
 
 - Topic ID: `11`
 - Papers: **37** (1.57%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `localization / pose / camera / slam`
 - Keyword pool: localization; pose; camera; slam; aerial; scene; estimation; matching; query; robot; line; cape
 

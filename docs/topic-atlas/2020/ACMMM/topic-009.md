@@ -1,8 +1,8 @@
-# ACMMM 2020: 隐私保护与安全学习
+# ACMMM 2020: 无人机/四旋翼规划与控制
 
 - Topic ID: `9`
 - Papers: **19** (4.02%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `occlusion / vehicle / pedestrian / small-scale`
 - Keyword pool: occlusion; vehicle; pedestrian; small-scale; pixelation; uav; objects; trajectory; student; occluded; density; privacy-sensitive
 

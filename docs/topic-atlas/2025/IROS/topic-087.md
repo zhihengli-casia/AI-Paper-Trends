@@ -2,7 +2,7 @@
 
 - Topic ID: `87`
 - Papers: **11** (0.56%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `place / recognition / visual / mamba`
 - Keyword pool: place; recognition; visual; mamba; multi-view; cross-modal; spatial; vision; prediction; rgb-thermal; token; spotting
 

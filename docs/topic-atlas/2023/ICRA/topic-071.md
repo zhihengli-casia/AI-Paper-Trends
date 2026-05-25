@@ -2,7 +2,7 @@
 
 - Topic ID: `71`
 - Papers: **9** (0.68%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `underwater / monocular depth estimation / mapping / image`
 - Keyword pool: underwater; monocular depth estimation; mapping; image; integrating; real-time dense; physically; deep; scaling; unsupervised domain adaptation; enhancement; synthetic
 

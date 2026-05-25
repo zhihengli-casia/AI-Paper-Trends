@@ -2,7 +2,7 @@
 
 - Topic ID: `64`
 - Papers: **21** (0.69%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `forgery / image / manipulation / tampered`
 - Keyword pool: forgery; image; manipulation; tampered; localization; fake; detection; forged; tampering; forgeries; inpainting; traces
 

@@ -1,8 +1,8 @@
-# ICRA 2021: 机器人操作与具身智能
+# ICRA 2021: 人机交互与协作机器人
 
 - Topic ID: `23`
 - Papers: **21** (1.53%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `human-robot / collaboration / interaction / social`
 - Keyword pool: human-robot; collaboration; interaction; social; robots; pointing; human motion; interventions; proactive; safe; physical; detection
 

@@ -1,8 +1,8 @@
-# IROS 2024: grasp / manipulation / robotic / object
+# IROS 2024: 机器人操作与抓取
 
 - Topic ID: `16`
 - Papers: **27** (1.72%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasp / manipulation / robotic / object`
 - Keyword pool: grasp; manipulation; robotic; object; dof; attention; learning; suction; articulated; augmentation; occluded; gripper
 

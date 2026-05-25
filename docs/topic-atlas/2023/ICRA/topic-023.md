@@ -1,8 +1,8 @@
-# ICRA 2023: manipulators / robots / proprioceptive / control
+# ICRA 2023: 软体机器人与柔性执行器
 
 - Topic ID: `23`
 - Papers: **20** (1.50%)
-- Macro topic: 理论/优化
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulators / robots / proprioceptive / control`
 - Keyword pool: manipulators; robots; proprioceptive; control; balance; collaborative; dynamic; soft; learning-based; optimization; transfer; robotic
 

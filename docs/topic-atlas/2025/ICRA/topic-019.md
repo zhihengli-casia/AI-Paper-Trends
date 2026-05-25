@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **27** (1.69%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-agent / barrier / control / safe`
 - Keyword pool: multi-agent; barrier; control; safe; reinforcement learning; functions; distributed; decentralized; navigation; coverage; hierarchical reinforcement; federated
 

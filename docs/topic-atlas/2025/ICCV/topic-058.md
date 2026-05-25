@@ -1,4 +1,4 @@
-# ICCV 2025: affordance / grasp / dexterous / robotic
+# ICCV 2025: 机器人操作与抓取
 
 - Topic ID: `58`
 - Papers: **20** (0.74%)

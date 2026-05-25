@@ -1,4 +1,4 @@
-# SIGMOD 2022: 查询理解与检索优化
+# SIGMOD 2022: analytics / accelerating / analytical / views
 
 - Topic ID: `10`
 - Papers: **6** (3.92%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **22** (2.06%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / observation / policy / deep`
 - Keyword pool: navigation; observation; policy; deep; reinforcement; path; uncertainty; control; pedestrian; safety; planning; behaviors
 

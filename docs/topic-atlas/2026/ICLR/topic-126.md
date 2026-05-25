@@ -1,8 +1,8 @@
-# ICLR 2026: 视觉语言模型与多模态理解
+# ICLR 2026: 视觉语言导航与具身指令跟随
 
 - Topic ID: `126`
 - Papers: **18** (0.34%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / vln / embodied / vision-and-language`
 - Keyword pool: navigation; vln; embodied; vision-and-language; robot; environments; vision-language; agents; lifelong; scenes; aerial; urban
 

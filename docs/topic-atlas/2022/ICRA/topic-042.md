@@ -1,4 +1,4 @@
-# ICRA 2022: transfer / grasps / contact / robotic
+# ICRA 2022: 机器人触觉感知与操作
 
 - Topic ID: `42`
 - Papers: **11** (1.19%)

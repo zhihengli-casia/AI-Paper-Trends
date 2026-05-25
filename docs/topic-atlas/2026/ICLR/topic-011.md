@@ -1,8 +1,8 @@
-# ICLR 2026: 视觉语言模型与多模态理解
+# ICLR 2026: 视觉语言驱动的机器人操作
 
 - Topic ID: `11`
 - Papers: **63** (1.18%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `vla / embodied / vision-language-action / manipulation`
 - Keyword pool: vla; embodied; vision-language-action; manipulation; robot; planning; actions; spatial; gui; bimanual; vlm; visual
 

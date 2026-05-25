@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **13** (0.98%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `localization / visual / regression / cross-modal`
 - Keyword pool: localization; visual; regression; cross-modal; global; probabilistic; filter; multi-hypothesis; occupancy mapping; kernel inference; portable; absolute
 

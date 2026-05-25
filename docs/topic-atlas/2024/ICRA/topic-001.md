@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **53** (3.04%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `driving / autonomous / traffic / learning`
 - Keyword pool: driving; autonomous; traffic; learning; reinforcement; prediction; vehicles; trajectory; behavior; attention; pedestrian; scenarios
 

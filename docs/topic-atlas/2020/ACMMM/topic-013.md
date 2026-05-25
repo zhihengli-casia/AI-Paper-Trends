@@ -1,8 +1,8 @@
-# ACMMM 2020: 点云表示与 3D 感知
+# ACMMM 2020: 无人机/四旋翼规划与控制
 
 - Topic ID: `13`
 - Papers: **16** (3.38%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `point / localization / object / cloud`
 - Keyword pool: point; localization; object; cloud; autonomous; tracking; search; gradients; uav; weakly supervised; location; coding
 

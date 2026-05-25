@@ -1,4 +1,4 @@
-# IROS 2022: shared / teleoperation / manipulators / predictive
+# IROS 2022: 机器人遥操作与触觉交互
 
 - Topic ID: `27`
 - Papers: **18** (1.50%)

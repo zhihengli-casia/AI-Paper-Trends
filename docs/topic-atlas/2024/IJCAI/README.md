@@ -15,7 +15,7 @@
 | [001](topic-001.md) | 多模态学习与跨模态理解 | 35 | 3.34% | 多模态/VLM | `visual / image / cultural / prompts` | TAI++: Text as Image for Multi-Label Image Classification by Co-Learning Transferable Prompt |
 | [002](topic-002.md) | 在线学习与 regret 理论 | 35 | 3.34% | 理论/优化 | `algorithms / search / optimization / bounds` | On Using Admissible Bounds for Learning Forward Search Heuristics |
 | [003](topic-003.md) | label / semi-supervised / noisy / low-rank | 33 | 3.15% | 系统/效率/压缩 | `label / semi-supervised / noisy / low-rank` | Exploiting Multi-Label Correlation in Label Distribution Learning |
-| [004](topic-004.md) | 机器人操作与具身智能 | 31 | 2.96% | 强化学习/决策 | `agents / cooperation / social / norms` | Cooperation and Control in Delegation Games |
+| [004](topic-004.md) | 机器人操作与具身智能 | 31 | 2.96% | 3D/具身/机器人 | `agents / cooperation / social / norms` | Cooperation and Control in Delegation Games |
 | [005](topic-005.md) | 时间序列建模与预测 | 30 | 2.86% | LLM/语言模型 | `time series / forecasting / multivariate / temporal` | An NCDE-based Framework for Universal Representation Learning of Time Series |
 | [006](topic-006.md) | 强化学习策略与奖励建模 | 26 | 2.48% | 强化学习/决策 | `policy / reinforcement learning / offline / policies` | Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation |
 | [007](topic-007.md) | 对抗攻击、鲁棒性与安全 | 26 | 2.48% | 可信/安全/公平 | `attack / adversarial / detection / backdoor` | Defending Against Backdoor Attacks by Layer-wise Feature Analysis (Extended Abstract) |
@@ -32,10 +32,10 @@
 | [018](topic-018.md) | 隐私保护与安全学习 | 21 | 2.00% | 系统/效率/压缩 | `federated / client / non-iid / communication` | A Survey on Efficient Federated Learning Methods for Foundation Model Training |
 | [019](topic-019.md) | 图像复原与超分辨率 | 20 | 1.91% | 多模态/VLM | `image / fusion / deblurring / super-resolution` | Hybrid Frequency Modulation Network for Image Restoration |
 | [020](topic-020.md) | 推荐系统与用户建模 | 19 | 1.81% | 推荐/检索/排序 | `recommendation / urban / user / mobility` | Learning Hierarchy-Enhanced POI Category Representations Using Disentangled Mobility Sequences |
-| [021](topic-021.md) | 代码生成与程序理解 | 19 | 1.81% | LLM/语言模型 | `asp / logic / temporal / answer` | Epistemic Logic Programs: Non-Ground and Counting Complexity |
+| [021](topic-021.md) | asp / logic / temporal / answer | 19 | 1.81% | LLM/语言模型 | `asp / logic / temporal / answer` | Epistemic Logic Programs: Non-Ground and Counting Complexity |
 | [022](topic-022.md) | boolean / quantum / qbf / cpu | 18 | 1.72% | 推荐/检索/排序 | `boolean / quantum / qbf / cpu` | Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability |
 | [023](topic-023.md) | 句法知识与语言学分析 | 18 | 1.72% | LLM/语言模型 | `llms / entity / relation / entities` | Meta In-Context Learning Makes Large Language Models Better Zero and Few-Shot Relation Extractors |
-| [024](topic-024.md) | 具身智能与物理交互 | 17 | 1.62% | LLM/语言模型 | `agent / embodied / language / negotiation` | Large Language Model Based Multi-agents: A Survey of Progress and Challenges |
+| [024](topic-024.md) | 具身智能与物理交互 | 17 | 1.62% | 3D/具身/机器人 | `agent / embodied / language / negotiation` | Large Language Model Based Multi-agents: A Survey of Progress and Challenges |
 | [025](topic-025.md) | domain adaptation / unknown / classes / label | 17 | 1.62% | 理论/优化 | `domain adaptation / unknown / classes / label` | More is Better: Deep Domain Adaptation with Multiple Sources |
 | [026](topic-026.md) | 多视图聚类与图学习 | 17 | 1.62% | 图学习/数据挖掘 | `multi-view / clustering / views / feature selection` | Simple Contrastive Multi-View Clustering with Data-Level Fusion |
 | [027](topic-027.md) | 多模态学习与跨模态理解 | 17 | 1.62% | 多模态/VLM | `retrieval / person / cross-modal / image` | Enhancing Cross-Modal Retrieval via Visual-Textual Prompt Hashing |
@@ -47,12 +47,12 @@
 | [035](topic-035.md) | 推荐系统与用户建模 | 15 | 1.43% | 可信/安全/公平 | `attacks / privacy / backdoor / fairness` | Label Leakage in Vertical Federated Learning: A Survey |
 | [032](topic-032.md) | 多模态学习与跨模态理解 | 15 | 1.43% | 多模态/VLM | `news / causal / fake / detection` | Beyond What If: Advancing Counterfactual Text Generation with Structural Causal Modeling |
 | [033](topic-033.md) | 医疗健康与临床 AI | 15 | 1.43% | LLM/语言模型 | `reasoning / llms / language / clinical` | Large Language Models Are Not Strong Abstract Reasoners |
-| [036](topic-036.md) | 目标检测与图像分割 | 14 | 1.34% | 计算机视觉 | `object / detection / segmentation / assignment` | DCDet: Dynamic Cross-based 3D Object Detector |
+| [036](topic-036.md) | 机器人视觉目标检测与域适应 | 14 | 1.34% | 计算机视觉 | `object / detection / segmentation / assignment` | DCDet: Dynamic Cross-based 3D Object Detector |
 | [037](topic-037.md) | brain / temporal / 图学习 / sleep | 14 | 1.34% | 多模态/VLM | `brain / temporal / graph / sleep` | A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification |
 | [038](topic-038.md) | dynamics / equations / neural networks / momentum | 14 | 1.34% | 图学习/数据挖掘 | `dynamics / equations / neural networks / momentum` | Physics-Informed Neural Networks: Minimizing Residual Loss with Wide Networks and Effective Activations |
 | [039](topic-039.md) | 医疗健康与临床 AI | 14 | 1.34% | AI4Science/医疗 | `medical / search / tabular / neural architecture` | Medical Neural Architecture Search: Survey and Taxonomy |
 | [040](topic-040.md) | 语音/音频语言模型 | 14 | 1.34% | 语音/音频/音乐 | `music / editing / audio / harmony` | Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation |
-| [041](topic-041.md) | 查询理解与检索优化 | 13 | 1.24% | 计算机视觉 | `few-shot / prototype / classes / feature` | Multi-Attention Based Visual-Semantic Interaction for Few-Shot Learning |
+| [041](topic-041.md) | 目标检测与图像分割 | 13 | 1.24% | 计算机视觉 | `few-shot / prototype / classes / feature` | Multi-Attention Based Visual-Semantic Interaction for Few-Shot Learning |
 | [042](topic-042.md) | argumentation / arguments / 推理 / semantics | 13 | 1.24% | LLM/语言模型 | `argumentation / arguments / reasoning / semantics` | Justifying Argument Acceptance with Collective Attacks: Discussions and Disputes |
 | [045](topic-045.md) | 视频扩散生成与运动控制 | 12 | 1.15% | 生成模型 | `diffusion / sampler / restoration / video` | Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors |
 | [043](topic-043.md) | LiDAR 点云与 3D 感知 | 12 | 1.15% | 3D/具身/机器人 | `cloud / point / scene / semantic` | Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes |

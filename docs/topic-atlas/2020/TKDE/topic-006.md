@@ -1,4 +1,4 @@
-# TKDE 2020: 查询理解与检索优化
+# TKDE 2020: latex tex-math inline-formula / clustering / tex-math inline-formula means / query
 
 - Topic ID: `6`
 - Papers: **19** (4.73%)

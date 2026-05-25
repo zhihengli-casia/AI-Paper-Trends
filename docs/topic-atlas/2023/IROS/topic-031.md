@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **19** (1.60%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `human-robot / control / collaborative / interaction`
 - Keyword pool: human-robot; control; collaborative; interaction; safe; parallel; collision; reaction; robots; workspace; coordination; scalable
 

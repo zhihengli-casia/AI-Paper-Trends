@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **8** (0.79%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `bipedal / quadrupedal / locomotion / reinforcement learning`
 - Keyword pool: bipedal; quadrupedal; locomotion; reinforcement learning; terrain; linear; deep reinforcement; control; hierarchical; policies; traverse; robust feedback motion
 

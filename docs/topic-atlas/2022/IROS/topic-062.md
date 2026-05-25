@@ -1,8 +1,8 @@
-# IROS 2022: grasp / stability / tactile / learning
+# IROS 2022: 机器人触觉感知与操作
 
 - Topic ID: `62`
 - Papers: **10** (0.83%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasp / stability / tactile / learning`
 - Keyword pool: grasp; stability; tactile; learning; prediction; manipulation case; simulation-based; sim-to-real transfer; poses; predicting; good; expert
 

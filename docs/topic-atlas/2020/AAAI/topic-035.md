@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **17** (1.06%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement learning / policy / value / cancer`
 - Keyword pool: reinforcement learning; policy; value; cancer; exploration; reward; agent; evolutionary; trajectory; robot; gene; replay
 

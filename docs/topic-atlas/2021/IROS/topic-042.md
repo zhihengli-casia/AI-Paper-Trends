@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **11** (1.08%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 3D/具身/机器人
 - English keywords: `prosthesis / soft / algorithms / validation`
 - Keyword pool: prosthesis; soft; algorithms; validation; tuning; suit; speeds; prosthetic; phase; muscle; mode; machine learning
 

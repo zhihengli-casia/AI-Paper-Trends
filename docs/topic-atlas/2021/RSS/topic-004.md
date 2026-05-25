@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **11** (12.50%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / trajectory / navigation / motion`
 - Keyword pool: planning; trajectory; navigation; motion; trajectories; uncertain; environments; provably; reinforcement learning convex; abstraction-guided; risk; robots learning
 

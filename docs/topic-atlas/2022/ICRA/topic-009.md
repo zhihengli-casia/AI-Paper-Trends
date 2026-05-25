@@ -1,8 +1,8 @@
-# ICRA 2022: aerial / control / landing / interaction
+# ICRA 2022: 无人机/四旋翼规划与控制
 
 - Topic ID: `9`
 - Papers: **25** (2.71%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `aerial / control / landing / interaction`
 - Keyword pool: aerial; control; landing; interaction; optimal; physical; small-scale; drone; free; inspired; passive; robots
 

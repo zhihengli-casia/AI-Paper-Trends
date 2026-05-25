@@ -1,8 +1,8 @@
-# ICRA 2020: 强化学习算法与理论
+# ICRA 2020: 时序逻辑约束下的机器人任务规划
 
 - Topic ID: `23`
 - Papers: **19** (1.78%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `logic / temporal / planning / specifications`
 - Keyword pool: logic; temporal; planning; specifications; execution; anytime; synthesis; multi-agent; reactive; model-free; reinforcement learning; input-output
 

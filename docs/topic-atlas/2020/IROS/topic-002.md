@@ -1,8 +1,8 @@
-# IROS 2020: 机器人操作与具身智能
+# IROS 2020: 社交导航与人机交互
 
 - Topic ID: `2`
 - Papers: **29** (2.60%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `human-robot / social / interaction / teams`
 - Keyword pool: human-robot; social; interaction; teams; shared; user; interface; robots; recognition; making; augmented reality; scenarios
 

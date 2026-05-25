@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **9** (0.56%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `motion / monocular / learning / vision`
 - Keyword pool: motion; monocular; learning; vision; human; uncertainty-aware probabilistic; solution; partially; moving horizon estimation; autoencoder; crowded; future
 

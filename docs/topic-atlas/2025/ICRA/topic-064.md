@@ -2,7 +2,7 @@
 
 - Topic ID: `64`
 - Papers: **11** (0.69%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `planner / planning / agent / long-horizon`
 - Keyword pool: planner; planning; agent; long-horizon; unified; human-aware; personalized; roadmaps; tractor-trailer; tree search; deploying; perspective
 

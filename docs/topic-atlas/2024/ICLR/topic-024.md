@@ -1,8 +1,8 @@
-# ICLR 2024: 自动驾驶感知与世界模型
+# ICLR 2024: 具身智能与物理交互
 
 - Topic ID: `24`
 - Papers: **29** (1.28%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `agents / embodied / llms / social`
 - Keyword pool: agents; embodied; llms; social; collaborative; multi-agent; environments; autonomous; humans; web; decision-making; collaboration
 

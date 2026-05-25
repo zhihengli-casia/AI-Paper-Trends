@@ -1,8 +1,8 @@
-# CHI 2024: reality / mixed / augmented / interfaces
+# CHI 2024: 机器人遥操作与触觉交互
 
 - Topic ID: `35`
 - Papers: **17** (1.62%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `reality / mixed / augmented / interfaces`
 - Keyword pool: reality; mixed; augmented; interfaces; context-aware; scanning; desktop; virtual; navigation; haptic; extended; home
 

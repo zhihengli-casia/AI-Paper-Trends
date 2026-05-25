@@ -2,7 +2,7 @@
 
 - Topic ID: `110`
 - Papers: **16** (0.43%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `causal / reinforcement learning / environments / agents`
 - Keyword pool: causal; reinforcement learning; environments; agents; embodied; neuro-symbolic; adam; robot; hindsight; cip; relabeling; policies
 

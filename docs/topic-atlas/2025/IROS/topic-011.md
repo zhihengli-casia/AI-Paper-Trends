@@ -1,8 +1,8 @@
-# IROS 2025: 扩散生成模型
+# IROS 2025: 机器人触觉感知与操作
 
 - Topic ID: `11`
 - Papers: **31** (1.57%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `hand / dexterous / manipulation / bimanual`
 - Keyword pool: hand; dexterous; manipulation; bimanual; learning; diffusion; grasping; visuo-tactile; throwing; trajectory prediction; retargeting; robotic
 

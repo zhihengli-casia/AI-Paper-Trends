@@ -1,8 +1,8 @@
-# ICRA 2023: manipulation / dexterous / in-hand / object
+# ICRA 2023: 机器人触觉感知与操作
 
 - Topic ID: `4`
 - Papers: **28** (2.10%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / dexterous / in-hand / object`
 - Keyword pool: manipulation; dexterous; in-hand; object; skill; tactile; demonstration; imitation; robotic; primitives; learning-based; architecture
 

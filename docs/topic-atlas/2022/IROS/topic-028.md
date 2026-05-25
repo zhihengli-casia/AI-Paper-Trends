@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **18** (1.50%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `driving / autonomous / learning / reinforcement`
 - Keyword pool: driving; autonomous; learning; reinforcement; vehicle; hierarchical; traffic; urban; mixed; automated; planning; modeling
 

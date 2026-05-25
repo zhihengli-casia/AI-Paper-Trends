@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **18** (1.31%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `motion / tracking / visual servoing / loop closure`
 - Keyword pool: motion; tracking; visual servoing; loop closure; constraints; geometric; objects; camera; prediction; detection; manifold; maximum
 

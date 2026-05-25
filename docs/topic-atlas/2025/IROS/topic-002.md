@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **43** (2.18%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `magnetic / cell / microrobots / controlled`
 - Keyword pool: magnetic; cell; microrobots; controlled; motion; platform; mechanical; transport; shared control; helical; environments; rotation
 

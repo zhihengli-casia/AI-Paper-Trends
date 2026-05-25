@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **18** (1.71%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `music / stress / sound / wearable`
 - Keyword pool: music; stress; sound; wearable; investigating effects; audio; body; device; embodied; group; understanding; interactive
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **12** (1.12%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 3D/具身/机器人
 - English keywords: `exoskeleton / gait / impedance / stiffness`
 - Keyword pool: exoskeleton; gait; impedance; stiffness; walking; prosthesis; torque; assistive; muscle; healthy; force; onset
 

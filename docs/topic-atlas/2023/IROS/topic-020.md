@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **22** (1.86%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `exoskeleton / wearable / ankle / assistance`
 - Keyword pool: exoskeleton; wearable; ankle; assistance; joint; torque; control; design; human; step; knee; relationship
 

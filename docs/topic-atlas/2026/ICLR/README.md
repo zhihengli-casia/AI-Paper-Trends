@@ -22,7 +22,7 @@
 | [008](topic-008.md) | GUI 操作与计算机使用型 Agent | 66 | 1.23% | 强化学习/决策 | `agents / gui / agentic / computer-use` | Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents |
 | [009](topic-009.md) | 文生图生成与个性化编辑 | 65 | 1.21% | 生成模型 | `visual / text-to-image / t2i / multimodal` | Easier Painting Than Thinking: Can Text-to-Image Models Set the Stage, but Not Direct the Play? |
 | [010](topic-010.md) | 文生图生成与个性化编辑 | 64 | 1.20% | 生成模型 | `flow / distillation / diffusion / few-step` | TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows |
-| [011](topic-011.md) | 视觉语言模型与多模态理解 | 63 | 1.18% | 多模态/VLM | `vla / embodied / vision-language-action / manipulation` | Vision-Language-Action Instruction Tuning: From Understanding to Manipulation |
+| [011](topic-011.md) | 视觉语言驱动的机器人操作 | 63 | 1.18% | 3D/具身/机器人 | `vla / embodied / vision-language-action / manipulation` | Vision-Language-Action Instruction Tuning: From Understanding to Manipulation |
 | [012](topic-012.md) | 人类反馈对齐与偏好优化 | 62 | 1.16% | 强化学习/决策 | `reward / preference / personalized / ordinal` | Learning to summarize user information for personalized reinforcement learning from human feedback |
 | [013](topic-013.md) | 多视图聚类与图学习 | 62 | 1.16% | 多模态/VLM | `multimodal / cross-modal / modality / modalities` | Cross-Modal Redundancy and the Geometry of Vision–Language Embeddings |
 | [014](topic-014.md) | 大语言模型 / heads / interpretability / rope | 61 | 1.14% | LLM/语言模型 | `llms / heads / interpretability / rope` | Learning is Forgetting; LLM Training As Lossy Compression |
@@ -37,8 +37,8 @@
 | [023](topic-023.md) | 视频扩散生成与运动控制 | 55 | 1.03% | 生成模型 | `video / diffusion / motion / frames` | Self-Forcing++: Towards Minute-Scale High-Quality Video Generation |
 | [024](topic-024.md) | 神经网络理论与优化行为 | 55 | 1.03% | 理论/优化 | `networks / equivariant / symmetry / symmetries` | On Universality of Deep Equivariant Networks |
 | [025](topic-025.md) | clustering / regression / 分类 / fault | 55 | 1.03% | 系统/效率/压缩 | `clustering / regression / classification / fault` | DISCO: Diversifying Sample Condensation for Efficient Model Evaluation |
-| [026](topic-026.md) | 机器人操作与具身智能 | 54 | 1.01% | 3D/具身/机器人 | `robot / manipulation / policy / tactile` | WorldGym: World Model as An Environment for Policy Evaluation |
-| [027](topic-027.md) | 代码生成与程序理解 | 54 | 1.01% | LLM/语言模型 | `combinatorial optimization / routing / solvers / vehicle` | FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization |
+| [026](topic-026.md) | 机器人触觉感知与操作 | 54 | 1.01% | 3D/具身/机器人 | `robot / manipulation / policy / tactile` | WorldGym: World Model as An Environment for Policy Evaluation |
+| [027](topic-027.md) | combinatorial optimization / routing / solvers / vehicle | 54 | 1.01% | LLM/语言模型 | `combinatorial optimization / routing / solvers / vehicle` | FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization |
 | [028](topic-028.md) | transformers / icl / in-context / length | 54 | 1.01% | LLM/语言模型 | `transformers / icl / in-context / length` | Continuum Transformers Perform In-Context Learning by Operator Gradient Descent |
 | [029](topic-029.md) | pruning / compression / sparsity / low-rank | 53 | 0.99% | LLM/语言模型 | `pruning / compression / sparsity / low-rank` | ARMOR: High-Performance Semi-Structured Pruning via Adaptive Matrix Factorization |
 | [030](topic-030.md) | LLM Agent 与工具使用 | 52 | 0.97% | 强化学习/决策 | `llms / sft / tool-integrated / logical` | RL Squeezes, SFT Expands: A Comparative Study of Reasoning LLMs |
@@ -75,7 +75,7 @@
 | [061](topic-061.md) | 视频扩散生成与运动控制 | 40 | 0.75% | 生成模型 | `video / diffusion / quantization / caching` | ScalingCache: Extreme Acceleration of DiTs through Difference Scaling and Dynamic Interval Caching |
 | [062](topic-062.md) | Chain-of-Thought 与大模型推理 | 39 | 0.73% | LLM/语言模型 | `cot / chain-of-thought / llms / speech` | When More is Less: Understanding Chain-of-Thought Length in LLMs |
 | [063](topic-063.md) | LLM Agent 与工具使用 | 38 | 0.71% | 强化学习/决策 | `agents / deep research / scientific / enterprise` | AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite |
-| [064](topic-064.md) | 扩散生成模型 | 37 | 0.69% | 强化学习/决策 | `imitation / robot / policy / policies` | Translating Flow to Policy via Hindsight Online Imitation |
+| [064](topic-064.md) | 机器人操作与抓取 | 37 | 0.69% | 3D/具身/机器人 | `imitation / robot / policy / policies` | Translating Flow to Policy via Hindsight Online Imitation |
 | [065](topic-065.md) | LLM Agent 与工具使用 | 37 | 0.69% | 强化学习/决策 | `agents / cybersecurity / attacks / vulnerabilities` | Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents |
 | [066](topic-066.md) | 对抗攻击、鲁棒性与安全 | 37 | 0.69% | LLM/语言模型 | `safety / harmful / llms / attacks` | Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance |
 | [067](topic-067.md) | 社交媒体与社会计算 | 36 | 0.67% | LLM/语言模型 | `llms / social / moral / psychological` | ELEPHANT: Measuring and understanding social sycophancy in LLMs |
@@ -129,7 +129,7 @@
 | [115](topic-115.md) | 视频动作生成与运动控制 | 21 | 0.39% | LLM/语言模型 | `physical / physics / simulation / video` | $PhyWorldBench$: A Comprehensive Evaluation of Physical Realism in Text-to-Video Models |
 | [116](topic-116.md) | object / detection / open-vocabulary / slot | 21 | 0.39% | 计算机视觉 | `object / detection / open-vocabulary / slot` | Fantastic Tractor-Dogs and How Not to Find Them With Open-Vocabulary Detectors |
 | [117](topic-117.md) | 公平性、偏见与可信 AI | 21 | 0.39% | LLM/语言模型 | `fairness / bias mitigation / debiasing / sensitive attributes` | Benchmarking Bias Mitigation Toward Fairness Without Harm from Vision to LVLMs |
-| [118](topic-118.md) | 代码生成与程序理解 | 21 | 0.39% | 强化学习/决策 | `cuda / kernels / gpu / llms` | The Art of Scaling Reinforcement Learning Compute for LLMs |
+| [118](topic-118.md) | LLM Agent 与工具使用 | 21 | 0.39% | 强化学习/决策 | `cuda / kernels / gpu / llms` | The Art of Scaling Reinforcement Learning Compute for LLMs |
 | [119](topic-119.md) | 语音/音频语言模型 | 20 | 0.37% | LLM/语言模型 | `music / audio / multi-track / rhythmic` | Discovering and Steering Interpretable Concepts in Large Generative Music Models |
 | [120](topic-120.md) | 多模态大模型与视觉语言推理 | 19 | 0.36% | 多模态/VLM | `spatial / visual / vlms / geographic` | On the Generalization Capacities of MLLMs for Spatial Intelligence |
 | [121](topic-121.md) | 医疗健康与临床 AI | 19 | 0.36% | LLM/语言模型 | `medical / clinical / patient / llms` | Can Large Language Models Match the Conclusions of Systematic Reviews? |
@@ -137,7 +137,7 @@
 | [123](topic-123.md) | 视觉语言模型与多模态理解 | 18 | 0.34% | 多模态/VLM | `test-time adaptation / tta / entropy minimization / ttt` | Bilateral Information-aware Test-time Adaptation for Vision-Language Models |
 | [124](topic-124.md) | 多语言建模与跨语言迁移 | 18 | 0.34% | LLM/语言模型 | `scaling laws / pretraining / xlstm / cross-entropy` | Scaling Laws Revisited: Modeling the Role of Data Quality in Language Model Pretraining |
 | [125](topic-125.md) | 隐私保护与安全学习 | 18 | 0.34% | 理论/优化 | `privacy / private / differential / adjacency` | Convergent Differential Privacy Analysis for General Federated Learning |
-| [126](topic-126.md) | 视觉语言模型与多模态理解 | 18 | 0.34% | 多模态/VLM | `navigation / vln / embodied / vision-and-language` | M$^3$E: Continual Vision-and-Language Navigation via Mixture of Macro and Micro Experts |
+| [126](topic-126.md) | 视觉语言导航与具身指令跟随 | 18 | 0.34% | 3D/具身/机器人 | `navigation / vln / embodied / vision-and-language` | M$^3$E: Continual Vision-and-Language Navigation via Mixture of Macro and Micro Experts |
 | [127](topic-127.md) | 扩散生成模型 | 17 | 0.32% | 生成模型 | `optimal transport / dinger / schr / stochastic optimal` | Entering the Era of Discrete Diffusion Models: A Benchmark for Schrödinger Bridges and Entropic Optimal Transport |
 | [128](topic-128.md) | 随机优化与收敛理论 | 17 | 0.32% | 理论/优化 | `federated / communication / distributed / sgd` | Unlocking the Potential of Weighting Methods in Federated Learning Through Communication Compression |
 | [129](topic-129.md) | 图神经网络与图表示学习 | 16 | 0.30% | 图学习/数据挖掘 | `explanations / counterfactual / faithfulness / explanation quality` | Unifying Formal Explanations: A Complexity-Theoretic Perspective |

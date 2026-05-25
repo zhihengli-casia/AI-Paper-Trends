@@ -35,10 +35,10 @@
 | [021](topic-021.md) | 扩散生成模型 | 32 | 1.42% | 计算机视觉 | `diffusion / texture / score distillation / synthesis` | Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation |
 | [022](topic-022.md) | pdes / neural operators / mesh / physics-informed | 31 | 1.37% | AI4Science/医疗 | `pdes / neural operators / mesh / physics-informed` | Neural Spectral Methods: Self-supervised learning in the spectral domain |
 | [023](topic-023.md) | quantum / interactions / predictive / dnn | 29 | 1.28% | 理论/优化 | `quantum / interactions / predictive / dnn` | Feature emergence via margin maximization: case studies in algebraic tasks |
-| [024](topic-024.md) | 自动驾驶感知与世界模型 | 29 | 1.28% | LLM/语言模型 | `agents / embodied / llms / social` | WebArena: A Realistic Web Environment for Building Autonomous Agents |
+| [024](topic-024.md) | 具身智能与物理交互 | 29 | 1.28% | 3D/具身/机器人 | `agents / embodied / llms / social` | WebArena: A Realistic Web Environment for Building Autonomous Agents |
 | [025](topic-025.md) | 图神经网络与节点表示学习 | 28 | 1.24% | 图学习/数据挖掘 | `graph / spectral / node / clustering` | Efficient and Scalable Graph Generation through Iterative Local Expansion |
 | [026](topic-026.md) | dynamical / dynamics / recurrent / periods | 28 | 1.24% | 生成模型 | `dynamical / dynamics / recurrent / periods` | Parsing neural dynamics with infinite recurrent switching linear dynamical systems |
-| [027](topic-027.md) | 机器人操作与具身智能 | 27 | 1.19% | LLM/语言模型 | `planning / action / embodied / robot` | Learning Planning Abstractions from Language |
+| [027](topic-027.md) | 机器人操作与抓取 | 27 | 1.19% | 3D/具身/机器人 | `planning / action / embodied / robot` | Learning Planning Abstractions from Language |
 | [028](topic-028.md) | 语音/音频语言模型 | 27 | 1.19% | 语音/音频/音乐 | `speech / audio / separation / music` | MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training |
 | [029](topic-029.md) | context / length / window / memory | 26 | 1.15% | LLM/语言模型 | `context / length / window / memory` | Compressed Context Memory for Online Language Model Interaction |
 | [030](topic-030.md) | 多模态学习与跨模态理解 | 25 | 1.11% | 多模态/VLM | `meta-learning / unsupervised pretraining / bounds / k-means` | Meta-Learning Priors Using Unrolled Proximal Networks |
@@ -73,9 +73,9 @@
 | [060](topic-060.md) | 社交媒体与社会计算 | 18 | 0.80% | LLM/语言模型 | `llms / feedback / bias / multi-turn` | Human Feedback is not Gold Standard |
 | [058](topic-058.md) | 强化学习算法与理论 | 18 | 0.80% | 强化学习/决策 | `marl / multi-agent / cooperative / reinforcement learning` | Sample-Efficient Multi-Agent RL: An Optimization Perspective |
 | [063](topic-063.md) | pruning / 大语言模型 / sparsity / compression | 17 | 0.75% | LLM/语言模型 | `pruning / llms / sparsity / compression` | Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models |
-| [064](topic-064.md) | 机器人操作与具身智能 | 17 | 0.75% | 强化学习/决策 | `reinforcement learning / world / environments / model-based` | MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning |
+| [064](topic-064.md) | 机器人操作与具身智能 | 17 | 0.75% | 3D/具身/机器人 | `reinforcement learning / world / environments / model-based` | MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning |
 | [065](topic-065.md) | 随机优化与收敛理论 | 17 | 0.75% | 系统/效率/压缩 | `fine-tuning / parameter-efficient / fusion / finetuning` | Parameter-Efficient Multi-Task Model Fusion with Partial Linearization |
-| [066](topic-066.md) | 机器人操作与具身智能 | 17 | 0.75% | 强化学习/决策 | `robot / motion / manipulation / humanoid` | Universal Humanoid Motion Representations for Physics-Based Control |
+| [066](topic-066.md) | 机器人操作与抓取 | 17 | 0.75% | 3D/具身/机器人 | `robot / motion / manipulation / humanoid` | Universal Humanoid Motion Representations for Physics-Based Control |
 | [067](topic-067.md) | 强化学习策略与奖励建模 | 17 | 0.75% | 强化学习/决策 | `reward / reinforcement learning / offline / policy` | Provable Offline Preference-Based Reinforcement Learning |
 | [061](topic-061.md) | shape / pose / object / camera | 17 | 0.75% | 3D/具身/机器人 | `shape / pose / object / camera` | Source-Free and Image-Only Unsupervised Domain Adaptation for Category Level Object Pose Estimation |
 | [062](topic-062.md) | bayesian optimization / 高斯表示 / stochastic / optimization bo | 17 | 0.75% | 推荐/检索/排序 | `bayesian optimization / gaussian / stochastic / optimization bo` | A General Framework for User-Guided Bayesian Optimization |
@@ -83,7 +83,7 @@
 | [068](topic-068.md) | contrastive / ordinal / topic / simclr | 16 | 0.71% | 图学习/数据挖掘 | `contrastive / ordinal / topic / simclr` | AUC-CL: A Batchsize-Robust Framework for Self-Supervised Contrastive Representation Learning |
 | [069](topic-069.md) | 扩散生成模型 | 16 | 0.71% | 生成模型 | `time series / forecasting / multivariate / diffusion` | Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting |
 | [072](topic-072.md) | bounding / detection / boxes / images | 16 | 0.71% | 计算机视觉 | `bounding / detection / boxes / images` | Does Progress On Object Recognition Benchmarks Improve Generalization on Crowdsourced, Global Data? |
-| [070](topic-070.md) | 视觉语言模型与多模态理解 | 16 | 0.71% | 多模态/VLM | `prompt / vision-language / vlms / visual` | Facing the Elephant in the Room: Visual Prompt Tuning or Full finetuning? |
+| [070](topic-070.md) | 视觉语言模型与多模态理解 | 16 | 0.71% | 3D/具身/机器人 | `prompt / vision-language / vlms / visual` | Facing the Elephant in the Room: Visual Prompt Tuning or Full finetuning? |
 | [073](topic-073.md) | 在线学习与 regret 理论 | 15 | 0.66% | 强化学习/决策 | `games / equilibria / nash / equilibrium` | Mediator Interpretation and Faster Learning Algorithms for Linear Correlated Equilibria in General Sequential Games |
 | [074](topic-074.md) | continual / forgetting / cil / catastrophic | 15 | 0.66% | 理论/优化 | `continual / forgetting / cil / catastrophic` | A Unified and General Framework for Continual Learning |
 | [075](topic-075.md) | 扩散生成模型 | 15 | 0.66% | 生成模型 | `diffusion / score matching / exposure bias / sampling` | Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization |

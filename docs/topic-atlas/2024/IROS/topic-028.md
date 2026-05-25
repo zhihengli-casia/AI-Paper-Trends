@@ -1,4 +1,4 @@
-# IROS 2024: design / continuum / development / robotic
+# IROS 2024: 软体机器人与柔性执行器
 
 - Topic ID: `28`
 - Papers: **21** (1.34%)

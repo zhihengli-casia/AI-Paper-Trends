@@ -1,8 +1,8 @@
-# IROS 2024: 自动驾驶感知与世界模型
+# IROS 2024: 规划搜索与决策推理
 
 - Topic ID: `63`
 - Papers: **12** (0.76%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `motion planning / trajectory / sampling-based / primitives`
 - Keyword pool: motion planning; trajectory; sampling-based; primitives; asymptotically; kinodynamic motion; optimization; optimal; probability; ensemble; planning dynamic environments; autonomous motion
 

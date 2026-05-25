@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **20** (1.11%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `spatial / vlms / visual / navigation`
 - Keyword pool: spatial; vlms; visual; navigation; vision-language; puzzles; embodied; anomalies; procedural; grounding; route; rooms
 

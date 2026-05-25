@@ -1,4 +1,4 @@
-# ICRA 2024: untethered / underwater / soft / robotic
+# ICRA 2024: 软体机器人与柔性执行器
 
 - Topic ID: `73`
 - Papers: **11** (0.63%)

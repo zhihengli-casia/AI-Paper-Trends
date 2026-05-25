@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **34** (2.13%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `localization / neural / radiance / visual`
 - Keyword pool: localization; neural; radiance; visual; autonomous vehicle; implicit; fields; images; global; relative; adaptive; indoor
 

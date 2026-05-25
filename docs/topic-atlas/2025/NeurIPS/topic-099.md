@@ -1,8 +1,8 @@
-# NeurIPS 2025: manipulation / dexterous / tactile / contact
+# NeurIPS 2025: 机器人触觉感知与操作
 
 - Topic ID: `99`
 - Papers: **26** (0.49%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / dexterous / tactile / contact`
 - Keyword pool: manipulation; dexterous; tactile; contact; robotic; hand; grasp; action; demonstrations; visuomotor; garment; policy
 

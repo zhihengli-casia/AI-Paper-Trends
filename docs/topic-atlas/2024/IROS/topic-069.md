@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **10** (0.64%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `inference / stirring / randomization / parameter`
 - Keyword pool: inference; stirring; randomization; parameter; bayesian; domain; diffusion; observations; fluid; patterns; location; dimensional
 

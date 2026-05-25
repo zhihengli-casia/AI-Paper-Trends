@@ -1,8 +1,8 @@
-# ICRA 2024: tracking / multi-object / event / detection
+# ICRA 2024: 无人机/四旋翼规划与控制
 
 - Topic ID: `15`
 - Papers: **29** (1.66%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `tracking / multi-object / event / detection`
 - Keyword pool: tracking; multi-object; event; detection; camera; asynchronous; filter; visual; uav; moving; continuous; joint
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **45** (4.22%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `driving / traffic / vehicle / autonomous`
 - Keyword pool: driving; traffic; vehicle; autonomous; road; pedestrian; reinforcement learning; functions; behavior; lane; reward; policy
 

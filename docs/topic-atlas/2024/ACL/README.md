@@ -32,7 +32,7 @@
 | [018](topic-018.md) | intent / argumentation / detection / metaphors | 21 | 2.23% | LLM/语言模型 | `intent / argumentation / detection / metaphors` | Exploring the Potential of Large Language Models in Computational Argumentation |
 | [019](topic-019.md) | 对抗攻击、鲁棒性与安全 | 19 | 2.02% | 可信/安全/公平 | `detection / privacy / attacks / adversarial` | Stumbling Blocks: Stress Testing the Robustness of Machine-Generated Text Detectors Under Attacks |
 | [020](topic-020.md) | entity / entities / relation extraction / ner | 17 | 1.81% | LLM/语言模型 | `entity / entities / relation extraction / ner` | When Phrases Meet Probabilities: Enabling Open Relation Extraction with Cooperating Large Language Models |
-| [023](topic-023.md) | 多模态大模型与视觉语言推理 | 16 | 1.70% | 多模态/VLM | `hallucination / lvlms / mllms / multimodal` | I nterrogate LLM : Zero-Resource Hallucination Detection in LLM -Generated Answers |
+| [023](topic-023.md) | 多模态大模型与视觉语言推理 | 16 | 1.70% | 3D/具身/机器人 | `hallucination / lvlms / mllms / multimodal` | I nterrogate LLM : Zero-Resource Hallucination Detection in LLM -Generated Answers |
 | [021](topic-021.md) | 社交媒体与社会计算 | 16 | 1.70% | LLM/语言模型 | `cultural / stereotypes / nlp / languages` | Investigating Cultural Alignment of Large Language Models |
 | [022](topic-022.md) | LLM Agent 与工具使用 | 16 | 1.70% | LLM/语言模型 | `safety / attacks / jailbreak / backdoor` | Emulated Disalignment: Safety Alignment for Large Language Models May Backfire! |
 | [025](topic-025.md) | LLM Agent 与工具使用 | 16 | 1.70% | LLM/语言模型 | `dialogue / role-playing / dst / spoken` | Enhancing Dialogue State Tracking Models through LLM -backed User-Agents Simulation |
@@ -54,6 +54,6 @@
 | [040](topic-040.md) | uncertainty / confidence / trust / alignment | 10 | 1.06% | LLM/语言模型 | `uncertainty / confidence / trust / alignment` | Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models |
 | [041](topic-041.md) | event / argument / causality / extraction | 10 | 1.06% | LLM/语言模型 | `event / argument / causality / extraction` | Improving Large Language Models in Event Relation Logical Prediction |
 | [042](topic-042.md) | adapters / inductive / transformers / embedding | 9 | 0.96% | 系统/效率/压缩 | `adapters / inductive / transformers / embedding` | Why are Sensitive Functions Hard for Transformers? |
-| [043](topic-043.md) | 多模态学习与跨模态理解 | 9 | 0.96% | 多模态/VLM | `agents / web / mobile / embodied` | V isual W eb A rena: Evaluating Multimodal Agents on Realistic Visual Web Tasks |
+| [043](topic-043.md) | 多模态学习与跨模态理解 | 9 | 0.96% | 3D/具身/机器人 | `agents / web / mobile / embodied` | V isual W eb A rena: Evaluating Multimodal Agents on Realistic Visual Web Tasks |
 | [044](topic-044.md) | 推荐系统与用户建模 | 8 | 0.85% | LLM/语言模型 | `recommendation / recommender / user / items` | Aligning Large Language Models for Controllable Recommendations |
 | [045](topic-045.md) | 攻击、防御与模型安全 | 8 | 0.85% | LLM/语言模型 | `detection / attack / entropy / machine-generated` | Bypassing LLM Watermarks with Color-Aware Substitutions |

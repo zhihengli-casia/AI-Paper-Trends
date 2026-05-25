@@ -1,8 +1,8 @@
-# ICRA 2025: 扩散生成模型
+# ICRA 2025: 人机交互与协作机器人
 
 - Topic ID: `35`
 - Papers: **21** (1.32%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `interaction / social / human-robot / trust`
 - Keyword pool: interaction; social; human-robot; trust; embodied; multimodal; robotic; collaborative; modeling; latent diffusion; repair strategies; involving
 

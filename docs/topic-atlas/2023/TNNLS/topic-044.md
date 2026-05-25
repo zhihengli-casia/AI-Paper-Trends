@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **13** (1.27%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / tracking / robotic / adaptive neural`
 - Keyword pool: control; tracking; robotic; adaptive neural; predefined-time; closed-loop; rbfnn; nonlinear; manipulators; unmatched; lyapunov; unknown
 

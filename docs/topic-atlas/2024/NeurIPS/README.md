@@ -29,7 +29,7 @@
 | [015](topic-015.md) | 公平性、偏见与可信 AI | 59 | 1.46% | 可信/安全/公平 | `label / semi-supervised / ssl / spurious` | Noisy Label Learning with Instance-Dependent Outliers: Identifiability via Crowd Wisdom |
 | [016](topic-016.md) | transformers / bner / adam / next-token | 57 | 1.41% | LLM/语言模型 | `transformers / bner / adam / next-token` | Transformers need glasses! Information over-squashing in language tasks |
 | [017](topic-017.md) | 对抗攻击、鲁棒性与安全 | 57 | 1.41% | LLM/语言模型 | `llms / safety / attacks / jailbreak` | Soft Prompt Threats: Attacking Safety Alignment and Unlearning in Open-Source LLMs through the Embedding Space |
-| [018](topic-018.md) | 目标检测与图像分割 | 56 | 1.39% | 计算机视觉 | `object detection / segmentation / sam / semantic` | A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation |
+| [018](topic-018.md) | 机器人视觉目标检测与域适应 | 56 | 1.39% | 计算机视觉 | `object detection / segmentation / sam / semantic` | A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation |
 | [019](topic-019.md) | Chain-of-Thought 与大模型推理 | 56 | 1.39% | LLM/语言模型 | `reasoning / llms / cot / debate` | Chain of Thoughtlessness? An Analysis of CoT in Planning |
 | [020](topic-020.md) | 扩散生成模型 | 55 | 1.36% | 生成模型 | `molecular / molecules / protein / drug` | Unified Guidance for Geometry-Conditioned Molecular Generation |
 | [021](topic-021.md) | 隐私保护与安全学习 | 54 | 1.34% | 理论/优化 | `private / privacy / differentially / subsampling` | Faster Algorithms for User-Level Private Stochastic Convex Optimization |
@@ -47,7 +47,7 @@
 | [036](topic-036.md) | 扩散生成模型 | 44 | 1.09% | 强化学习/决策 | `offline / policy / reinforcement learning / policies` | Constrained Latent Action Policies for Model-Based Offline Reinforcement Learning |
 | [033](topic-033.md) | 脑电信号表征与解码 | 44 | 1.09% | 计算机视觉 | `brain / eeg / activity / visual` | Parallel Backpropagation for Shared-Feature Visualization |
 | [034](topic-034.md) | 深度估计与立体匹配 | 44 | 1.09% | 其他/交叉主题 | `ssms / scaling / learning rate / warmup` | On Feature Learning in Structured State Space Models |
-| [037](topic-037.md) | 具身智能与物理交互 | 44 | 1.09% | LLM/语言模型 | `agents / planning / world / llms` | Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments |
+| [037](topic-037.md) | 具身智能与物理交互 | 44 | 1.09% | 3D/具身/机器人 | `agents / planning / world / llms` | Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments |
 | [035](topic-035.md) | 强化学习算法与理论 | 44 | 1.09% | 强化学习/决策 | `mdps / policy / markov decision / regret` | Hybrid Reinforcement Learning Breaks Sample Size Barriers In Linear MDPs |
 | [038](topic-038.md) | symmetries / equivariant / symmetry / group | 42 | 1.04% | 图学习/数据挖掘 | `symmetries / equivariant / symmetry / group` | Approximately Equivariant Neural Processes |
 | [039](topic-039.md) | pac / online / active / learnability | 42 | 1.04% | 理论/优化 | `pac / online / active / learnability` | Universal Rates for Active Learning |
@@ -61,7 +61,7 @@
 | [047](topic-047.md) | 视觉语言模型与多模态理解 | 37 | 0.92% | 多模态/VLM | `clip / vision-language / prompt / contrastive` | Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting |
 | [048](topic-048.md) | PDE 神经求解器与科学计算 | 37 | 0.92% | LLM/语言模型 | `pde / fluid / physical / dynamics` | Universal Physics Transformers: A Framework For Efficiently Scaling Neural Operators |
 | [049](topic-049.md) | Bandit 与 regret 理论 | 36 | 0.89% | 强化学习/决策 | `regret / bandits / contextual / arm` | On the Minimax Regret for Contextual Linear Bandits and Multi-Armed Bandits with Expert Advice |
-| [050](topic-050.md) | 代码生成与程序理解 | 36 | 0.89% | 理论/优化 | `combinatorial / submodular / matroid / solvers` | Learning Generalized Linear Programming Value Functions |
+| [050](topic-050.md) | combinatorial / submodular / matroid / solvers | 36 | 0.89% | 理论/优化 | `combinatorial / submodular / matroid / solvers` | Learning Generalized Linear Programming Value Functions |
 | [051](topic-051.md) | surrogate / boosting / losses / multi-label | 35 | 0.87% | 系统/效率/压缩 | `surrogate / boosting / losses / multi-label` | A Universal Growth Rate for Learning with Smooth Surrogate Losses |
 | [052](topic-052.md) | 人类反馈对齐与偏好优化 | 35 | 0.87% | 强化学习/决策 | `reward / preference / rlhf / human feedback` | Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning |
 | [053](topic-053.md) | 规划搜索与决策推理 | 35 | 0.87% | LLM/语言模型 | `llms / reasoning / planning / agents` | StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving |
@@ -82,7 +82,7 @@
 | [068](topic-068.md) | 扩散生成模型 | 28 | 0.69% | 生成模型 | `diffusion / denoising / cardiac / ddpm` | Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models |
 | [069](topic-069.md) | quantization / kv cache / bit / compression | 27 | 0.67% | LLM/语言模型 | `quantization / kv cache / bit / compression` | KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization |
 | [070](topic-070.md) | 代码生成与程序理解 | 27 | 0.67% | LLM/语言模型 | `llms / program / code generation / execution` | Synthetic Programming Elicitation for Text-to-Code in Very Low-Resource Programming and Formal Languages |
-| [071](topic-071.md) | 扩散生成模型 | 27 | 0.67% | 多模态/VLM | `diffusion / policy / imitation / robot` | Prediction with Action: Visual Policy Learning via Joint Denoising Process |
+| [071](topic-071.md) | 机器人操作与抓取 | 27 | 0.67% | 3D/具身/机器人 | `diffusion / policy / imitation / robot` | Prediction with Action: Visual Policy Learning via Joint Denoising Process |
 | [072](topic-072.md) | RAG 与检索增强生成 | 26 | 0.64% | LLM/语言模型 | `tabular / retrieval / table / rag` | Retrieval & Fine-Tuning for In-Context Tabular Models |
 | [073](topic-073.md) | pruning / sparse / sparsity / sam | 25 | 0.62% | 系统/效率/压缩 | `pruning / sparse / sparsity / sam` | Sparse maximal update parameterization: A holistic approach to sparse training dynamics |
 | [076](topic-076.md) | Mamba 与状态空间视觉模型 | 24 | 0.59% | LLM/语言模型 | `transformers / linear attention / mamba / sequence` | Block Transformer: Global-to-Local Language Modeling for Fast Inference |
@@ -99,7 +99,7 @@
 | [085](topic-085.md) | LLM Agent 与工具使用 | 20 | 0.50% | LLM/语言模型 | `backdoor / attacks / defense / threat` | Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models |
 | [086](topic-086.md) | 公平性、偏见与可信 AI | 20 | 0.50% | 系统/效率/压缩 | `clustering / fairness / non-adaptive / queries` | Proportional Fairness in Non-Centroid Clustering |
 | [087](topic-087.md) | 神经网络理论、NTK 与宽度分析 | 19 | 0.47% | 系统/效率/压缩 | `pinns / pdes / physics-informed neural / operators` | The Challenges of the Nonlinear Regime for Physics-Informed Neural Networks |
-| [088](topic-088.md) | 强化学习策略与奖励建模 | 19 | 0.47% | 强化学习/决策 | `imitation / reward / expert / demonstrations` | Rethinking Inverse Reinforcement Learning: from Data Alignment to Task Alignment |
+| [088](topic-088.md) | 模仿学习与机器人示教 | 19 | 0.47% | 强化学习/决策 | `imitation / reward / expert / demonstrations` | Rethinking Inverse Reinforcement Learning: from Data Alignment to Task Alignment |
 | [089](topic-089.md) | icl / in-context / transformers / softmax | 19 | 0.47% | 理论/优化 | `icl / in-context / transformers / softmax` | In-Context Learning with Representations: Contextual Generalization of Trained Transformers |
 | [090](topic-090.md) | NeRF 与神经渲染 | 19 | 0.47% | 3D/具身/机器人 | `rendering / sdf / relighting / surface` | SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation |
 | [091](topic-091.md) | 凸/非凸优化理论 | 17 | 0.42% | 理论/优化 | `bilevel / lower-level / upper-level / convex` | An Accelerated Gradient Method for Convex Smooth Simple Bilevel Optimization |

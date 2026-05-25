@@ -1,4 +1,4 @@
-# ICRA 2023: scene / 图学习 / surgical / semantic
+# ICRA 2023: 手术机器人与医学机器人
 
 - Topic ID: `9`
 - Papers: **25** (1.88%)

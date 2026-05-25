@@ -2,7 +2,7 @@
 
 - Topic ID: `77`
 - Papers: **16** (0.59%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `gaussian splatting / reconstruction / rendering / scene`
 - Keyword pool: gaussian splatting; reconstruction; rendering; scene; slam; street; urban; view synthesis; dynamic objects; gaussians; camera; label noise
 

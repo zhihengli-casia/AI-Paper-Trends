@@ -1,8 +1,8 @@
-# IROS 2025: imitation / learning / visuomotor / demonstrations
+# IROS 2025: 模仿学习与机器人示教
 
 - Topic ID: `24`
 - Papers: **25** (1.27%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `imitation / learning / visuomotor / demonstrations`
 - Keyword pool: imitation; learning; visuomotor; demonstrations; teleoperation; policy; manipulation; in-context; dynamical; robust; granular; out-of-distribution
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `80`
 - Papers: **12** (0.61%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `optical flow / event-based / sparse / learning`
 - Keyword pool: optical flow; event-based; sparse; learning; representation; temporal; attention; motion; limit; redundancy; rate; egocentric videos
 

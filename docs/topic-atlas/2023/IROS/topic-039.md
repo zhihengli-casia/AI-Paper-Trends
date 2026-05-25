@@ -1,8 +1,8 @@
-# IROS 2023: 规划搜索与决策推理
+# IROS 2023: 无人机/四旋翼规划与控制
 
 - Topic ID: `39`
 - Papers: **16** (1.35%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `uav / planning / drone / quadrotor`
 - Keyword pool: uav; planning; drone; quadrotor; monitoring; inspection; dynamic environments; real-time; path; integral; trustworthy; hardware
 

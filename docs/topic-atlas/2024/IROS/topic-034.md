@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **20** (1.27%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `neural / learning / visual / robotic`
 - Keyword pool: neural; learning; visual; robotic; reinforcement; latent; attention; policy; domain; search; scene; depth
 

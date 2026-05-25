@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **24** (2.03%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `place / recognition / localization / indoor`
 - Keyword pool: place; recognition; localization; indoor; semantic; radar; visual; global; maps; environments; graphs; occupancy
 

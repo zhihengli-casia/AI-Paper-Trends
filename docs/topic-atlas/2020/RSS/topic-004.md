@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **10** (10.20%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / objects / learning / robots`
 - Keyword pool: manipulation; objects; learning; robots; motion; action; simulations; shared; variable; maps; latent; differentiable
 

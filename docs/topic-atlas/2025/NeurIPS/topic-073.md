@@ -1,8 +1,8 @@
-# NeurIPS 2025: 具身智能与物理交互
+# NeurIPS 2025: 视觉导航与语义地图
 
 - Topic ID: `73`
 - Papers: **34** (0.64%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / embodied / underwater / agents`
 - Keyword pool: navigation; embodied; underwater; agents; visual; gui; proactive; reasoning; scene; environments; crowd; action
 

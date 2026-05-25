@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **12** (1.18%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `trajectory prediction / probabilistic / pedestrian / context`
 - Keyword pool: trajectory prediction; probabilistic; pedestrian; context; networks; real-time trajectory; structural; polynomial; formalizing; decoder; transformer; schemes
 

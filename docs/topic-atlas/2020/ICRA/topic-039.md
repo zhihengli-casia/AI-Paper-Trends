@@ -1,4 +1,4 @@
-# ICRA 2020: terrain / locomotion / legged / foot
+# ICRA 2020: 足式机器人与运动控制
 
 - Topic ID: `39`
 - Papers: **13** (1.22%)

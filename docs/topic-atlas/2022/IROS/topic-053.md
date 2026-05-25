@@ -1,8 +1,8 @@
-# IROS 2022: grasping / soft / grippers / handling
+# IROS 2022: 机器人触觉感知与操作
 
 - Topic ID: `53`
 - Papers: **12** (1.00%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasping / soft / grippers / handling`
 - Keyword pool: grasping; soft; grippers; handling; tactile; robotic; contact; sensing; volume; proprioceptive; estimation control; electrical impedance
 

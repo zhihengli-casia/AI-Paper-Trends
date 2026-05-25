@@ -1,8 +1,8 @@
-# ICRA 2025: detection / object / domain / semi-supervised
+# ICRA 2025: 机器人视觉目标检测与域适应
 
 - Topic ID: `2`
 - Papers: **42** (2.64%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `detection / object / domain / semi-supervised`
 - Keyword pool: detection; object; domain; semi-supervised; synthetic; feature; adverse; robust; fusion; scene; monocular; change
 

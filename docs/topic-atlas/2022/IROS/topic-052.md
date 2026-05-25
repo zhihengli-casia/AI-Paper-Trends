@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **12** (1.00%)
-- Macro topic: 理论/优化
+- Macro topic: 3D/具身/机器人
 - English keywords: `exoskeleton / robotic / stiffness / glove`
 - Keyword pool: exoskeleton; robotic; stiffness; glove; musculoskeletal; development; optimization; assist; portable; gastrocnemius; surrogate; quantifying
 

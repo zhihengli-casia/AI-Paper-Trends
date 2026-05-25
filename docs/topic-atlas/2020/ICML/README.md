@@ -50,7 +50,7 @@
 | [036](topic-036.md) | 随机优化与收敛理论 | 13 | 1.20% | 理论/优化 | `decentralized / sgd / federated / communication` | A Unified Theory of Decentralized SGD with Changing Topology and Local Updates |
 | [037](topic-037.md) | distributed / communication / machines / decentralized | 13 | 1.20% | 理论/优化 | `distributed / communication / machines / decentralized` | Statistically Preconditioned Accelerated Gradient Method for Distributed Optimization |
 | [038](topic-038.md) | 公平性、偏见与可信 AI | 13 | 1.20% | 可信/安全/公平 | `fairness / definitions / attributes / group` | Two Simple Ways to Learn Individual Fairness Metrics from Data |
-| [039](topic-039.md) | 奖励建模 / imitation / demonstrations / 智能体 | 13 | 1.20% | 强化学习/决策 | `reward / imitation / demonstrations / agent` | Intrinsic Reward Driven Imitation Learning via Generative Model |
+| [039](topic-039.md) | 模仿学习与机器人示教 | 13 | 1.20% | 强化学习/决策 | `reward / imitation / demonstrations / agent` | Intrinsic Reward Driven Imitation Learning via Generative Model |
 | [040](topic-040.md) | 凸/非凸优化理论 | 13 | 1.20% | 理论/优化 | `convex / coordinate / stochastic / primal-dual` | Stochastic Optimization for Non-convex Inf-Projection Problems |
 | [043](topic-043.md) | 神经网络理论、NTK 与宽度分析 | 12 | 1.11% | 理论/优化 | `ntk / kernel / neural tangent / curvature` | Towards a General Theory of Infinite-Width Limits of Neural Classifiers |
 | [041](topic-041.md) | mcmc / particles / markov / chain | 12 | 1.11% | 生成模型 | `mcmc / particles / markov / chain` | Black-Box Variational Inference as a Parametric Approximation to Langevin Dynamics |

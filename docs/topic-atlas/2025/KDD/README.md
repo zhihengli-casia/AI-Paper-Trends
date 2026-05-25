@@ -19,7 +19,7 @@
 | [005](topic-005.md) | 推荐系统与用户建模 | 29 | 5.25% | LLM/语言模型 | `recommendation / user / popularity / item` | LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation |
 | [006](topic-006.md) | 知识图谱推理与表示学习 | 26 | 4.71% | 图学习/数据挖掘 | `retrieval / llms / plms / reasoning` | KnowTrace: Bootstrapping Iterative Retrieval-Augmented Generation with Structured Knowledge Tracing |
 | [007](topic-007.md) | 时间序列建模与预测 | 26 | 4.71% | 系统/效率/压缩 | `forecasting / time series / stock / temporal` | SDE: A Simplified and Disentangled Dependency Encoding Framework for State Space Models in Time Series Forecasting |
-| [008](topic-008.md) | 代码生成与程序理解 | 25 | 4.53% | LLM/语言模型 | `reasoning / planning / llms / search` | Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models |
+| [008](topic-008.md) | 规划搜索与决策推理 | 25 | 4.53% | LLM/语言模型 | `reasoning / planning / llms / search` | Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models |
 | [009](topic-009.md) | 视觉语言模型与多模态理解 | 24 | 4.35% | 多模态/VLM | `multimodal / modality / recommendation / user` | Preference-Optimized Retrieval and Ranking for Efficient Multimodal Recommendation |
 | [010](topic-010.md) | 在线学习与 regret 理论 | 22 | 3.99% | 理论/优化 | `regret / online / revenue / cooperation` | Safe Online Bid Optimization with Return on Investment and Budget Constraints |
 | [011](topic-011.md) | 图神经网络与图表示学习 | 20 | 3.62% | 可信/安全/公平 | `attack / gnns / adversarial / private` | Stealing Training Graphs from Graph Neural Networks |

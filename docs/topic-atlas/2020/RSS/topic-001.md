@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **13** (13.27%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / reinforcement / latent / shared`
 - Keyword pool: learning; reinforcement; latent; shared; policies; active; planning; skills; actions; inference; human-robot; belief
 

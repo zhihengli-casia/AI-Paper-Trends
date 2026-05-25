@@ -1,4 +1,4 @@
-# CHI 2020: people / 视觉理解 / impairments / remote
+# CHI 2020: 视觉导航与语义地图
 
 - Topic ID: `12`
 - Papers: **22** (2.97%)

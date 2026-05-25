@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **16** (0.92%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `reconstruction / implicit / scene / indoor`
 - Keyword pool: reconstruction; implicit; scene; indoor; neural; surface; frontier; adhesive; volume; removal; view planning; field-of-view
 

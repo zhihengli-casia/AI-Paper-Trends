@@ -1,8 +1,8 @@
-# NeurIPS 2025: geospatial / geographic / aerial / object
+# NeurIPS 2025: 无人机/四旋翼规划与控制
 
 - Topic ID: `108`
 - Papers: **23** (0.44%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `geospatial / geographic / aerial / object`
 - Keyword pool: geospatial; geographic; aerial; object; cross-view; imagery; localization; remote sensing; uav; urban; reasoning; drone
 

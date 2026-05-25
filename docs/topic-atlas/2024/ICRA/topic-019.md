@@ -1,8 +1,8 @@
-# ICRA 2024: 代码生成与程序理解
+# ICRA 2024: 规划搜索与决策推理
 
 - Topic ID: `19`
 - Papers: **28** (1.61%)
-- Macro topic: 理论/优化
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / manipulators / motion / bimanual`
 - Keyword pool: planning; manipulators; motion; bimanual; trajectory; optimization; programming; mobile; kinodynamic; end-effector; continuum robots; optimal
 

@@ -1,8 +1,8 @@
-# ICRA 2024: soft / hand / gripper / skin
+# ICRA 2024: 机器人触觉感知与操作
 
 - Topic ID: `13`
 - Papers: **30** (1.72%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 3D/具身/机器人
 - English keywords: `soft / hand / gripper / skin`
 - Keyword pool: soft; hand; gripper; skin; robotic; tendon-driven; sensing; tactile; hybrid; manipulation; bionic; extension
 

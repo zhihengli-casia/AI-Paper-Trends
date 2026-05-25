@@ -1,8 +1,8 @@
-# CHI 2023: reality / virtual / avatars / haptic
+# CHI 2023: 机器人遥操作与触觉交互
 
 - Topic ID: `25`
 - Papers: **16** (1.84%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `reality / virtual / avatars / haptic`
 - Keyword pool: reality; virtual; avatars; haptic; embodying; rendering; extended; spaces; experiences; investigating; reinforcement; passenger
 

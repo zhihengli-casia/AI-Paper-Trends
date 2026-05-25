@@ -11,7 +11,7 @@
 
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
-| [000](topic-000.md) | 查询理解与检索优化 | 47 | 17.15% | 图学习/数据挖掘 | `search / graph / query / fast` | Effective Keyword Search in Weighted Graphs (Extended Abstract) |
+| [000](topic-000.md) | search / 图学习 / query / fast | 47 | 17.15% | 图学习/数据挖掘 | `search / graph / query / fast` | Effective Keyword Search in Weighted Graphs (Extended Abstract) |
 | [001](topic-001.md) | 时间序列建模与预测 | 31 | 11.31% | 系统/效率/压缩 | `time series / classification / networks / discovery` | Ranking Data Slices for ML Model Validation: A Shapley Value Approach |
 | [002](topic-002.md) | processing / in-memory / memory-efficient / partitioning | 26 | 9.49% | 系统/效率/压缩 | `processing / in-memory / memory-efficient / partitioning` | Continuously Bulk Loading over Range Partitioned Tables for Large Scale Historical Data |
 | [003](topic-003.md) | networks / route / similarity / deep | 22 | 8.03% | 多模态/VLM | `networks / route / similarity / deep` | TrajForesee: How limited detailed trajectories enhance large-scale sparse information to predict vehicle trajectories? |
@@ -25,4 +25,4 @@
 | [011](topic-011.md) | store / storage / log structured / predict | 12 | 4.38% | 系统/效率/压缩 | `store / storage / log structured / predict` | LogStore: A Workload-aware, Adaptable Key-Value Store on Hybrid Storage Systems (Extended abstract) |
 | [012](topic-012.md) | 隐私保护与安全学习 | 11 | 4.01% | 可信/安全/公平 | `store / privacy preserving / smart / provenance` | RCC: Resilient Concurrent Consensus for High-Throughput Secure Transaction Processing |
 | [013](topic-013.md) | analytics / workloads / database / control | 10 | 3.65% | 系统/效率/压缩 | `analytics / workloads / database / control` | CIAO: An Optimization Framework for Client-Assisted Data Loading |
-| [014](topic-014.md) | 查询理解与检索优化 | 8 | 2.92% | 推荐/检索/排序 | `queries / query / estimating / leveraging` | Towards Query Pricing on Incomplete Data (Extended Abstract) |
+| [014](topic-014.md) | queries / query / estimating / leveraging | 8 | 2.92% | 推荐/检索/排序 | `queries / query / estimating / leveraging` | Towards Query Pricing on Incomplete Data (Extended Abstract) |

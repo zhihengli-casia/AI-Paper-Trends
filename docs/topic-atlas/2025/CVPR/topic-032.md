@@ -1,8 +1,8 @@
-# CVPR 2025: hand / bimanual / dexterous / grasping
+# CVPR 2025: 机器人操作与抓取
 
 - Topic ID: `32`
 - Papers: **29** (1.01%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `hand / bimanual / dexterous / grasping`
 - Keyword pool: hand; bimanual; dexterous; grasping; reconstruction; pose; motion; manipulation; interaction; robotic; gestures; camera
 

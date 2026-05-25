@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **20** (1.66%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / path / collision / avoidance`
 - Keyword pool: planning; path; collision; avoidance; sampling; informed; topological; navigation; generation; algorithm; vehicles; hybrid
 

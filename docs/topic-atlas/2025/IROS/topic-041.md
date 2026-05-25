@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **19** (0.96%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `depth / monocular / estimation / self-supervised`
 - Keyword pool: depth; monocular; estimation; self-supervised; stereo matching; endoscopy; metric; images; consistent; fusion; pre-trained; fisheye
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `82`
 - Papers: **11** (0.61%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `multimodal / robot / visual / relational reasoning`
 - Keyword pool: multimodal; robot; visual; relational reasoning; mllms; vllms; vision-language-action; vla; unified; grounding reasoning; astra; conversations
 

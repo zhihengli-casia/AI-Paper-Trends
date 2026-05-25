@@ -1,8 +1,8 @@
-# ICRA 2021: teleoperation / haptic / control / collaborative
+# ICRA 2021: 机器人遥操作与触觉交互
 
 - Topic ID: `16`
 - Papers: **25** (1.82%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `teleoperation / haptic / control / collaborative`
 - Keyword pool: teleoperation; haptic; control; collaborative; shared; user; bilateral; reality; robots; robotic; space; optimization
 

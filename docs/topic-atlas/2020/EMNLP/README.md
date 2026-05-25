@@ -40,7 +40,7 @@
 | [026](topic-026.md) | topic / 图学习 / stock / document | 14 | 1.86% | NLP任务 | `topic / graph / stock / document` | Neural Topic Modeling by Incorporating Document Relationship Graph |
 | [027](topic-027.md) | 多模态学习与跨模态理解 | 13 | 1.73% | 多模态/VLM | `multimodal / product / keyphrase / post` | Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings |
 | [028](topic-028.md) | story / stories / narrative / plot | 13 | 1.73% | 计算机视觉 | `story / stories / narrative / plot` | STORIUM : A D ataset and E valuation P latform for M achine-in-the- L oop S tory G eneration |
-| [029](topic-029.md) | LLM Agent 与工具使用 | 12 | 1.60% | 计算机视觉 | `video / captioning / visual / agents` | V ideo2 C ommonsense: Generating Commonsense Descriptions to Enrich Video Captioning |
+| [029](topic-029.md) | 视觉导航与语义地图 | 12 | 1.60% | 计算机视觉 | `video / captioning / visual / agents` | V ideo2 C ommonsense: Generating Commonsense Descriptions to Enrich Video Captioning |
 | [030](topic-030.md) | 多语言建模与跨语言迁移 | 12 | 1.60% | NLP任务 | `languages / multilingual / transfer / zero-shot` | From Zero to Hero: O n the Limitations of Zero-Shot Language Transfer with Multilingual T ransformers |
 | [031](topic-031.md) | 对抗攻击、鲁棒性与安全 | 11 | 1.46% | 可信/安全/公平 | `adversarial / attacks / structured prediction / disambiguation` | T3: Tree-Autoencoder Constrained Adversarial Text Generation for Targeted Attack |
 | [032](topic-032.md) | 多模态学习与跨模态理解 | 11 | 1.46% | 多模态/VLM | `visual / grounded / multimodal / image` | Visually Grounded Compound PCFG s |

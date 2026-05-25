@@ -47,10 +47,10 @@
 | [036](topic-036.md) | 图神经网络与图表示学习 | 20 | 1.05% | 图学习/数据挖掘 | `graph / gnns / pooling / message` | Random Walk Graph Neural Networks |
 | [033](topic-033.md) | vaes / latent / variational / autoencoders | 20 | 1.05% | 计算机视觉 | `vaes / latent / variational / autoencoders` | A Bayesian Nonparametrics View into Deep Representations |
 | [034](topic-034.md) | 公平性、偏见与可信 AI | 20 | 1.05% | 可信/安全/公平 | `fairness / protected / groups / demographic` | Ensuring Fairness Beyond the Training Data |
-| [037](topic-037.md) | imitation / expert / 策略优化 / demonstrations | 20 | 1.05% | 强化学习/决策 | `imitation / expert / policy / demonstrations` | An Imitation from Observation Approach to Transfer Learning with Dynamics Mismatch |
+| [037](topic-037.md) | 模仿学习与机器人示教 | 20 | 1.05% | 强化学习/决策 | `imitation / expert / policy / demonstrations` | An Imitation from Observation Approach to Transfer Learning with Dynamics Mismatch |
 | [035](topic-035.md) | 凸/非凸优化理论 | 20 | 1.05% | 系统/效率/压缩 | `convex / calls / descent / shadow` | Projection Efficient Subgradient Method and Optimal Nonsmooth Frank-Wolfe Method |
 | [038](topic-038.md) | compositional / program / 推理 / language | 19 | 1.00% | 生成模型 | `compositional / program / reasoning / language` | Learning Compositional Rules via Neural Program Synthesis |
-| [039](topic-039.md) | 规划搜索与决策推理 | 19 | 1.00% | 计算机视觉 | `navigation / planning / exploration / agent` | Semantic Visual Navigation by Watching YouTube Videos |
+| [039](topic-039.md) | 视觉导航与语义地图 | 19 | 1.00% | 计算机视觉 | `navigation / planning / exploration / agent` | Semantic Visual Navigation by Watching YouTube Videos |
 | [040](topic-040.md) | clustering / k-means / clusters / fair | 18 | 0.95% | 系统/效率/压缩 | `clustering / k-means / clusters / fair` | Sliding Window Algorithms for k-Clustering Problems |
 | [041](topic-041.md) | 强化学习策略与奖励建模 | 18 | 0.95% | 强化学习/决策 | `q-learning / function approximation / policy / sample complexity` | A new convergent variant of Q-learning with linear function approximation |
 | [042](topic-042.md) | PDE 神经求解器与科学计算 | 18 | 0.95% | AI4Science/医疗 | `odes / differential / equations / equilibrium` | On Second Order Behaviour in Augmented Neural ODEs |

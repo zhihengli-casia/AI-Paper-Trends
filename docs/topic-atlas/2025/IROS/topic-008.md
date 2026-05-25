@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **31** (1.57%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `image / infrared / matching / radiance`
 - Keyword pool: image; infrared; matching; radiance; plant; feature; enhancement; fusion; visible; low-light; detection; reconstruction
 

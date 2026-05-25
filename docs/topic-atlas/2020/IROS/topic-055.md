@@ -2,7 +2,7 @@
 
 - Topic ID: `55`
 - Papers: **11** (0.99%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `assembly / learning / industrial / insertion`
 - Keyword pool: assembly; learning; industrial; insertion; combining; deep reinforcement; robotic; neural; algorithms; rewards; sample-efficient; plans
 

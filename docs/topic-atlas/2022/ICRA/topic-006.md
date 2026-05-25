@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **27** (2.93%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `walking / gait / assistance / passive`
 - Keyword pool: walking; gait; assistance; passive; control; design; rehabilitation; walker; knee; bipedal; exoskeleton; effects
 

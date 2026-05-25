@@ -1,8 +1,8 @@
-# IROS 2023: 规划搜索与决策推理
+# IROS 2023: 时序逻辑约束下的机器人任务规划
 
 - Topic ID: `56`
 - Papers: **9** (0.76%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `temporal / logic / planning / signal`
 - Keyword pool: temporal; logic; planning; signal; intent; frequency; specifications; optimizing; motion control; consistency; user; automation
 

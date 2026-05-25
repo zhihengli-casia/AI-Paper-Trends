@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **34** (2.16%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `slam / semantic / neural / environments`
 - Keyword pool: slam; semantic; neural; environments; dynamic; mapping; visual; indoor; multi-object; thermal; dense; tracking
 

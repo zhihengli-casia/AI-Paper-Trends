@@ -1,8 +1,8 @@
-# ICRA 2023: 自动驾驶感知与世界模型
+# ICRA 2023: underwater / autonomous / surface / control
 
 - Topic ID: `19`
 - Papers: **22** (1.65%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `underwater / autonomous / surface / control`
 - Keyword pool: underwater; autonomous; surface; control; gas; docking; development; scan; loop; registration; navigation; matching
 

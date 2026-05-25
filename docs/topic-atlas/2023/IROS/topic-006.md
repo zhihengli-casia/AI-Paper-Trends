@@ -1,4 +1,4 @@
-# IROS 2023: 3D Avatar 与人脸头部建模
+# IROS 2023: 机器人操作与抓取
 
 - Topic ID: `6`
 - Papers: **32** (2.70%)

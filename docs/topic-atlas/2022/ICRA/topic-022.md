@@ -1,8 +1,8 @@
-# ICRA 2022: 规划搜索与决策推理
+# ICRA 2022: 机器人操作与抓取
 
 - Topic ID: `22`
 - Papers: **18** (1.95%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / temporal / planning / robotic`
 - Keyword pool: manipulation; temporal; planning; robotic; mobile; automated; motion; reactive; guided; relevant; let; ros
 

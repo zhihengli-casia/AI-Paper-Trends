@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **13** (0.75%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / path / motion / sampling-based`
 - Keyword pool: planning; path; motion; sampling-based; informed; learning-based; ellipsoidal; constraints online; operator; neural; rrt; inverse kinematics
 

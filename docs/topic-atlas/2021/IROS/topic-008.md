@@ -1,8 +1,8 @@
-# IROS 2021: grasping / pose / objects / in-hand
+# IROS 2021: 机器人操作与抓取
 
 - Topic ID: `8`
 - Papers: **26** (2.55%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasping / pose / objects / in-hand`
 - Keyword pool: grasping; pose; objects; in-hand; estimation; clutter; picking; robotic; multi-view; detection; simultaneous; soft
 

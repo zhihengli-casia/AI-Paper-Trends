@@ -1,4 +1,4 @@
-# IROS 2022: 代码生成与程序理解
+# IROS 2022: predictive control / nonlinear / mpc / barrier
 
 - Topic ID: `39`
 - Papers: **15** (1.25%)

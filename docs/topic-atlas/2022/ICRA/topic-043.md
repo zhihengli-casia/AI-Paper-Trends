@@ -1,8 +1,8 @@
-# ICRA 2022: 自动驾驶感知与世界模型
+# ICRA 2022: 机器人视觉目标检测与域适应
 
 - Topic ID: `43`
 - Papers: **10** (1.08%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `object detection / unsupervised domain adaptation / fields / flow`
 - Keyword pool: object detection; unsupervised domain adaptation; fields; flow; neural; attention; multi-class; prediction transformer-based; object descriptors; image-based; detection self-driving; supervision
 

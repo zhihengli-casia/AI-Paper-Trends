@@ -1,8 +1,8 @@
-# IROS 2024: 规划搜索与决策推理
+# IROS 2024: 无人机/四旋翼规划与控制
 
 - Topic ID: `18`
 - Papers: **27** (1.72%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / reinforcement / dynamics / deep`
 - Keyword pool: learning; reinforcement; dynamics; deep; trajectory; control; planning; autoencoder; nonlinear; vehicle; kinodynamic; quadrotor
 

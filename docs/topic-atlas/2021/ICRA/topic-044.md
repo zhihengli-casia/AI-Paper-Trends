@@ -1,8 +1,8 @@
-# ICRA 2021: hand / soft / arm / prosthetic
+# ICRA 2021: 机器人触觉感知与操作
 
 - Topic ID: `44`
 - Papers: **15** (1.09%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `hand / soft / arm / prosthetic`
 - Keyword pool: hand; soft; arm; prosthetic; anthropomorphic; tactile; robotic; haptic; simulator; elastic; muscle; design
 

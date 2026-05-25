@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **25** (2.71%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `human-robot / control / interaction / manipulators`
 - Keyword pool: human-robot; control; interaction; manipulators; collaborative; robots; wheeled; mobile; impedance; physical; industrial; adaptive
 

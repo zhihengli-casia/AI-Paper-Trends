@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **44** (1.09%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `agents / planning / world / llms`
 - Keyword pool: agents; planning; world; llms; multi-agent; reinforcement learning; embodied; action; demonstrations; reasoning; long-horizon; communication
 

@@ -1,8 +1,8 @@
-# ICRA 2023: navigation / 视觉理解 / semantic / exploration
+# ICRA 2023: 视觉导航与语义地图
 
 - Topic ID: `8`
 - Papers: **26** (1.95%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / visual / semantic / exploration`
 - Keyword pool: navigation; visual; semantic; exploration; terrain; obstacles; multi-object; learning-based; unknown; adaptive; scene; real
 

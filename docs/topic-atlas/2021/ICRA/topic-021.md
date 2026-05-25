@@ -1,8 +1,8 @@
-# ICRA 2021: 多模态学习与跨模态理解
+# ICRA 2021: 模仿学习与机器人示教
 
 - Topic ID: `21`
 - Papers: **22** (1.61%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `imitation / learning / demonstrations / reinforcement`
 - Keyword pool: imitation; learning; demonstrations; reinforcement; dynamics; skills; dynamical; multimodal; adversarial; manipulation; model-based; bayesian
 

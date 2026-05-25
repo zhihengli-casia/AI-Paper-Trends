@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **19** (0.70%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `embodied / agent / motion control / skill`
 - Keyword pool: embodied; agent; motion control; skill; language; reward; navigation; action; html; multiply; manipulation; policy
 

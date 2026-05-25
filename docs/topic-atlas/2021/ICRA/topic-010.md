@@ -1,4 +1,4 @@
-# ICRA 2021: control / legged / quadruped / predictive
+# ICRA 2021: 足式机器人与运动控制
 
 - Topic ID: `10`
 - Papers: **30** (2.19%)

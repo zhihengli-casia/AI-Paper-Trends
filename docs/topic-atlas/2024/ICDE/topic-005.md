@@ -1,4 +1,4 @@
-# ICDE 2024: 查询理解与检索优化
+# ICDE 2024: databases / workloads / opportunities / sql
 
 - Topic ID: `5`
 - Papers: **24** (4.97%)

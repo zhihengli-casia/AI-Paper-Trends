@@ -1,4 +1,4 @@
-# CHI 2020: 代码生成与程序理解
+# CHI 2020: programming / design / software / interactive
 
 - Topic ID: `19`
 - Papers: **17** (2.30%)

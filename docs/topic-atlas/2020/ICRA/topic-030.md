@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **15** (1.41%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `gripper / soft / grasping / finger`
 - Keyword pool: gripper; soft; grasping; finger; adhesive; continuum; hand; grasps; versatile; underactuated; manipulation; design
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `71`
 - Papers: **17** (0.63%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `slam / mapping / tracking / camera`
 - Keyword pool: slam; mapping; tracking; camera; scene; bundle; rgb-d; rendering; reconstruction; odometry; pose; gaussians
 

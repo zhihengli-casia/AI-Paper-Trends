@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **15** (2.08%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `projects / agents / welfare / public`
 - Keyword pool: projects; agents; welfare; public; matching; preferences; strategic; participatory; goods; optimality; allocation; manipulation
 

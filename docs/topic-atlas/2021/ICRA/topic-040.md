@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **16** (1.17%)
-- Macro topic: 理论/优化
+- Macro topic: 3D/具身/机器人
 - English keywords: `exoskeleton / design / actuator / muscle`
 - Keyword pool: exoskeleton; design; actuator; muscle; soft; wrist; knee; impedance; finger; interface; artificial; characterization
 

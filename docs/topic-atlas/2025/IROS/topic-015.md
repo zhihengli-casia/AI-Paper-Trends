@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **29** (1.47%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `splatting / gaussian / reconstruction / priors`
 - Keyword pool: splatting; gaussian; reconstruction; priors; articulated; rendering; surface; pose; scene; high-fidelity; distance; objects
 

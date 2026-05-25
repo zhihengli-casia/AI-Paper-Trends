@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **22** (1.83%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / motion / video / planning`
 - Keyword pool: learning; motion; video; planning; priors; contrastive; demonstrations; multimodal; planner; visual; prediction; reinforcement
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **11** (0.93%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `nonlinear / control / safety / optimal`
 - Keyword pool: nonlinear; control; safety; optimal; non-gaussian; uncertainties; stochastic; probabilistic; dynamic; sensitivity; minimum; responsibility
 

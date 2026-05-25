@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **7** (6.36%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `robotic / augmentation / embodied / experience`
 - Keyword pool: robotic; augmentation; embodied; experience; navigation; representation; scaling; neural; objects; robot learning; demonstrating; robots
 

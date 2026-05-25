@@ -2,7 +2,7 @@
 
 - Topic ID: `61`
 - Papers: **12** (0.76%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `magnetic / high-precision / array / actuator`
 - Keyword pool: magnetic; high-precision; array; actuator; robots; control; localization; actuated; verification; three-dimensional; physical interaction; phantoms
 

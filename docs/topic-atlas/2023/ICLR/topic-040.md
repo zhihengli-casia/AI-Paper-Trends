@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **17** (1.11%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `equivariant / equivariance / symmetries / symmetry`
 - Keyword pool: equivariant; equivariance; symmetries; symmetry; rotation; spherical; manipulation; group; lie; conserved; graph; eigenvectors
 

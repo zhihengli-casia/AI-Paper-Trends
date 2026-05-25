@@ -1,8 +1,8 @@
-# IROS 2023: 自动驾驶感知与世界模型
+# IROS 2023: network / verification / 细粒度识别 / trajectory prediction
 
 - Topic ID: `53`
 - Papers: **10** (0.84%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `network / verification / fine-grained / trajectory prediction`
 - Keyword pool: network; verification; fine-grained; trajectory prediction; attention; behavior; sensor; selection; sharing; robotic autonomous; recurrent; real-time detection
 

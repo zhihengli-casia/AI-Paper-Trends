@@ -1,8 +1,8 @@
-# ICRA 2025: navigation / 零样本 / 视觉理解 / continuous
+# ICRA 2025: 视觉语义导航与开放词汇定位
 
 - Topic ID: `8`
 - Papers: **36** (2.26%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / zero-shot / visual / continuous`
 - Keyword pool: navigation; zero-shot; visual; continuous; retrieval; environments; spatial; object; vision; graph; agricultural; traversability
 

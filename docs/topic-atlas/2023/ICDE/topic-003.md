@@ -1,4 +1,4 @@
-# ICDE 2023: 查询理解与检索优化
+# ICDE 2023: language / learned / query / joins
 
 - Topic ID: `3`
 - Papers: **22** (5.93%)

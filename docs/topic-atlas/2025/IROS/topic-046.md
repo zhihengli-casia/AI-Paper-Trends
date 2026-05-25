@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **17** (0.86%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `gait / exoskeleton / prosthetic / limb`
 - Keyword pool: gait; exoskeleton; prosthetic; limb; estimation; prostheses; phase; walking; lower; speed; powered; simultaneous
 

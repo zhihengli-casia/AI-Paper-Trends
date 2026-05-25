@@ -1,4 +1,4 @@
-# IROS 2023: control / visual servoing / manipulators / robotic
+# IROS 2023: 足式机器人与运动控制
 
 - Topic ID: `9`
 - Papers: **29** (2.45%)

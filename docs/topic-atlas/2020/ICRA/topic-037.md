@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **13** (1.22%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `place / recognition / appearance / matching`
 - Keyword pool: place; recognition; appearance; matching; images; face; descriptors; changes; landmarks; network; visual; expression
 

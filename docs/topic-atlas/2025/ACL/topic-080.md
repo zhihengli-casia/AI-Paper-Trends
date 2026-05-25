@@ -2,7 +2,7 @@
 
 - Topic ID: `80`
 - Papers: **9** (0.53%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `emotion / sentiment / recognition / absa`
 - Keyword pool: emotion; sentiment; recognition; absa; conversational; languages; cultural; age group; race gender; causes; lvlms; embodied
 

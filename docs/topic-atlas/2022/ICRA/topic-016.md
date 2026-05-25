@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **19** (2.06%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `prediction / trajectory / attention / forecasting`
 - Keyword pool: prediction; trajectory; attention; forecasting; pedestrian; motion; graph; network; transformer-based; fusion; human; behavior
 

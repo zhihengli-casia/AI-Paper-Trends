@@ -1,8 +1,8 @@
-# IROS 2025: 多模态学习与跨模态理解
+# IROS 2025: 人机交互与协作机器人
 
 - Topic ID: `12`
 - Papers: **31** (1.57%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `human-robot / teleoperated / collaboration / interaction`
 - Keyword pool: human-robot; teleoperated; collaboration; interaction; estimation; impact; evaluating; multimodal; load; cognitive; experience; user
 

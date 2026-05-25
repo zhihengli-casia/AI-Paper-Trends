@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **35** (2.23%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `pose estimation / camera / object pose / human`
 - Keyword pool: pose estimation; camera; object pose; human; photometric; prediction; optimization; refinement; keypoint; robust; uavs; multi-view
 

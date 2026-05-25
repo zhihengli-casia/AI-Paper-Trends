@@ -1,4 +1,4 @@
-# CHI 2025: 自动驾驶感知与世界模型
+# CHI 2025: vehicles / autonomous / automated / bayesian optimization
 
 - Topic ID: `10`
 - Papers: **27** (2.17%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `78`
 - Papers: **11** (0.63%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `underwater / camera / scan / imaging`
 - Keyword pool: underwater; camera; scan; imaging; image; fast; mapping; modeling; estimation sparse; multi-feature; monocular depth estimation; super-resolution
 

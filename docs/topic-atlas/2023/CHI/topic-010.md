@@ -1,4 +1,4 @@
-# CHI 2023: 代码生成与程序理解
+# CHI 2023: programming / code / notebooks / 视觉理解
 
 - Topic ID: `10`
 - Papers: **25** (2.87%)

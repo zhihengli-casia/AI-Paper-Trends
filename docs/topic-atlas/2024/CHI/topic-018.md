@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **21** (2.00%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `virtual reality / locomotion / spatial / effect`
 - Keyword pool: virtual reality; locomotion; spatial; effect; passive; movement; visual; techniques; active; systematic; physical; learning
 

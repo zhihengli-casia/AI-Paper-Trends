@@ -1,4 +1,4 @@
-# IJCAI 2025: 代码生成与程序理解
+# IJCAI 2025: logic / argumentation / semantics / programs
 
 - Topic ID: `26`
 - Papers: **17** (1.33%)

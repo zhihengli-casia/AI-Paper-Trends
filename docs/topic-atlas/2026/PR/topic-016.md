@@ -1,4 +1,4 @@
-# PR 2026: 查询理解与检索优化
+# PR 2026: tracking / object / 视觉理解 / temporal
 
 - Topic ID: `16`
 - Papers: **20** (2.16%)

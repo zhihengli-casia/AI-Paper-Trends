@@ -1,8 +1,8 @@
-# IROS 2025: 规划搜索与决策推理
+# IROS 2025: 机器人操作与抓取
 
 - Topic ID: `55`
 - Papers: **15** (0.76%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasping / gripper / task-oriented / dual-arm`
 - Keyword pool: grasping; gripper; task-oriented; dual-arm; hand; dexterous; unified; robotic; hierarchical; grasps; freedom; planning stable
 

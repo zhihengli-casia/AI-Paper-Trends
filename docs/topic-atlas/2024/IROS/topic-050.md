@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **15** (0.95%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `spherical / development / omnidirectional / robot`
 - Keyword pool: spherical; development; omnidirectional; robot; passive; mechanism; design; mobile; reconfigurable; exploration; enhanced; servomotors
 

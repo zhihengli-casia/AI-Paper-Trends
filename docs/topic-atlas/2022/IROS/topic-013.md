@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **25** (2.08%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `pose estimation / object pose / randomization / camera`
 - Keyword pool: pose estimation; object pose; randomization; camera; domain; improving; category-level; rgb-d; refinement; mesh; sim2real; representations
 

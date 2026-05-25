@@ -1,8 +1,8 @@
-# IROS 2023: quadrotor / reinforcement / uncertainty / control
+# IROS 2023: 无人机/四旋翼规划与控制
 
 - Topic ID: `58`
 - Papers: **8** (0.68%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `quadrotor / reinforcement / uncertainty / control`
 - Keyword pool: quadrotor; reinforcement; uncertainty; control; learning; predictive; trajectory; underwater vehicles; comparing; effect; observability; aerial robots
 

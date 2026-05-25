@@ -1,4 +1,4 @@
-# NeurIPS 2020: imitation / expert / 策略优化 / demonstrations
+# NeurIPS 2020: 模仿学习与机器人示教
 
 - Topic ID: `37`
 - Papers: **20** (1.05%)

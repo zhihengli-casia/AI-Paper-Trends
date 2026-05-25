@@ -2,7 +2,7 @@
 
 - Topic ID: `67`
 - Papers: **10** (0.75%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `affordance / recognition / socially / deep learning`
 - Keyword pool: affordance; recognition; socially; deep learning; probabilistic; interaction; clothing; grounding; learning human; loose; manipulation self-supervised; eeg
 

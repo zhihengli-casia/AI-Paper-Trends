@@ -2,7 +2,7 @@
 
 - Topic ID: `57`
 - Papers: **13** (0.83%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-agent / path finding / prioritized / online`
 - Keyword pool: multi-agent; path finding; prioritized; online; policy; planning; multi agent; graph neural; proximal; ensembling; crowd-aware; mapless
 

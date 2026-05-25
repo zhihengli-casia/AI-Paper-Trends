@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **18** (1.19%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `smoke / matching / point cloud / adversarial`
 - Keyword pool: smoke; matching; point cloud; adversarial; local; environments; temporal consistent; grasp; lidar; manipulation; markov; storage
 

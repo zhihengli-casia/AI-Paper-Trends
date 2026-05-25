@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **15** (0.76%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `gait / learning / reinforcement / control`
 - Keyword pool: gait; learning; reinforcement; control; musculoskeletal; walking; limb; virtual; development; robot; feedback; policy
 

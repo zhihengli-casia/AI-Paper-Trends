@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **15** (1.02%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / language / agent / embodied`
 - Keyword pool: navigation; language; agent; embodied; environments; actions; reinforcement learning; simulated; perception; robotics; simulation; communication
 

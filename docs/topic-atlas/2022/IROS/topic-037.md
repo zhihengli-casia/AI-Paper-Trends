@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **15** (1.25%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `calibration / extrinsic / camera / lidar`
 - Keyword pool: calibration; extrinsic; camera; lidar; scenes; vehicles; joint; georeferenced; synthesis; unmanned aerial vehicle; narrow; unit
 

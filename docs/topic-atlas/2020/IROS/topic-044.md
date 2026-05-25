@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **14** (1.26%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `search / objects / clutter / distributions`
 - Keyword pool: search; objects; clutter; distributions; target; mechanical; information; learning; visual; carlo; proposals; learned
 

@@ -1,8 +1,8 @@
-# ICRA 2021: dexterous / learning / manipulation / grasping
+# ICRA 2021: 机器人操作与抓取
 
 - Topic ID: `28`
 - Papers: **20** (1.46%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `dexterous / learning / manipulation / grasping`
 - Keyword pool: dexterous; learning; manipulation; grasping; contact-rich; reaching; visual affordances; human; reinforcement; variational; robotic; end-to-end
 

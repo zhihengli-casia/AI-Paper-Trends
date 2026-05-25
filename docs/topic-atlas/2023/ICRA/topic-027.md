@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **18** (1.35%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `prediction / motion / forecasting / human`
 - Keyword pool: prediction; motion; forecasting; human; latent; pedestrian; diffusion; pose; trajectory; space; attention; image
 

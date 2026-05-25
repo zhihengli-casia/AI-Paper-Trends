@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **16** (0.92%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-agent / search / learning / cooperative`
 - Keyword pool: multi-agent; search; learning; cooperative; adversarial; reinforcement; behaviors; perception; policy; exploration; battery constraints; style
 

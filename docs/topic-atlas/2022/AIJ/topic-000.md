@@ -1,4 +1,4 @@
-# AIJ 2022: 查询理解与检索优化
+# AIJ 2022: logic / answering / queries / datalog
 
 - Topic ID: `0`
 - Papers: **17** (17.17%)

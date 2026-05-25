@@ -2,7 +2,7 @@
 
 - Topic ID: `65`
 - Papers: **14** (0.71%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `attention / perception / bird / depth`
 - Keyword pool: attention; perception; bird; depth; supervised; stereo; transformers; multi-view; cross-modal; object detection; monocular; prediction
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **22** (1.97%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `odometry / visual-inertial / rgb-d / camera`
 - Keyword pool: odometry; visual-inertial; rgb-d; camera; robust; monocular; calibration; line; localization; lidar; fusion; point
 

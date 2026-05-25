@@ -1,8 +1,8 @@
-# NeurIPS 2025: 视觉语言模型与多模态理解
+# NeurIPS 2025: 视觉语言驱动的机器人操作
 
 - Topic ID: `109`
 - Papers: **22** (0.42%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `vla / vision-language-action / manipulation / robot`
 - Keyword pool: vla; vision-language-action; manipulation; robot; visual; reasoning; vlm; success rate; planning; execution; safety; embodied
 

@@ -18,7 +18,7 @@
 | [004](topic-004.md) | 多模态学习与跨模态理解 | 39 | 2.13% | LLM/语言模型 | `clip / language / multimodal / zero-shot` | Grounding Language Models to Images for Multimodal Inputs and Outputs |
 | [005](topic-005.md) | 推荐系统与用户建模 | 37 | 2.02% | 可信/安全/公平 | `fairness / monotonicity / bias / user` | Fair and Optimal Classification via Post-Processing |
 | [006](topic-006.md) | reinforcement / 策略优化 / model-based / exploration | 37 | 2.02% | 强化学习/决策 | `reinforcement / policy / model-based / exploration` | The Virtues of Laziness in Model-based RL: A Unified Objective and Algorithms |
-| [007](topic-007.md) | 查询理解与检索优化 | 37 | 2.02% | 理论/优化 | `online / learning-augmented / trees / predictions` | Solving Linear Programs with Fast Online Learning Algorithms |
+| [007](topic-007.md) | online / learning-augmented / trees / predictions | 37 | 2.02% | 理论/优化 | `online / learning-augmented / trees / predictions` | Solving Linear Programs with Fast Online Learning Algorithms |
 | [008](topic-008.md) | transformers / vision / vit / attention | 36 | 1.97% | 计算机视觉 | `transformers / vision / vit / attention` | A Closer Look at Self-Supervised Lightweight Vision Transformers |
 | [009](topic-009.md) | contrastive / ssl / representation / self-supervised | 32 | 1.75% | 系统/效率/压缩 | `contrastive / ssl / representation / self-supervised` | Which Features are Learnt by Contrastive Learning? On the Role of Simplicity Bias in Class Collapse and Feature Suppression |
 | [010](topic-010.md) | 目标检测与图像分割 | 32 | 1.75% | 计算机视觉 | `label / semi-supervised / augmentation / noisy` | Rethinking Weak Supervision in Helping Contrastive Learning |
@@ -48,7 +48,7 @@
 | [034](topic-034.md) | 推理 / 视觉理解 / 少样本 / 运动建模 | 21 | 1.15% | 计算机视觉 | `reasoning / visual / few-shot / motion` | Generalization on the Unseen, Logic Reasoning and Degree Curriculum |
 | [035](topic-035.md) | 深度估计与立体匹配 | 21 | 1.15% | 理论/优化 | `relu / width / mean-field / kernel` | Gradient Descent in Neural Networks as Sequential Learning in Reproducing Kernel Banach Space |
 | [036](topic-036.md) | 图神经网络与图表示学习 | 21 | 1.15% | 图学习/数据挖掘 | `graph / node / contrastive / gnns` | Feature Expansion for Graph Neural Networks |
-| [037](topic-037.md) | 机器人操作与具身智能 | 20 | 1.09% | 3D/具身/机器人 | `skills / navigation / environments / manipulation` | Unsupervised Skill Discovery for Learning Shared Structures across Changing Environments |
+| [037](topic-037.md) | 机器人操作与抓取 | 20 | 1.09% | 3D/具身/机器人 | `skills / navigation / environments / manipulation` | Unsupervised Skill Discovery for Learning Shared Structures across Changing Environments |
 | [038](topic-038.md) | 时间序列建模与预测 | 20 | 1.09% | 其他/交叉主题 | `dynamical / dynamics / differential / time series` | Learning the Dynamics of Sparsely Observed Interacting Systems |
 | [039](topic-039.md) | 图神经网络与图表示学习 | 19 | 1.04% | 图学习/数据挖掘 | `graph / gnns / message passing / mpnn` | A Generalization of ViT/MLP-Mixer to Graphs |
 | [040](topic-040.md) | 机器翻译与跨语言对齐 | 19 | 1.04% | LLM/语言模型 | `language / few-shot / pre-training / translation` | HyperTuning: Toward Adapting Large Language Models without Back-propagation |

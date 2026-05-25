@@ -1,4 +1,4 @@
-# ICDE 2022: 代码生成与程序理解
+# ICDE 2022: knowledge / entity / graphs / embedding
 
 - Topic ID: `2`
 - Papers: **26** (8.41%)

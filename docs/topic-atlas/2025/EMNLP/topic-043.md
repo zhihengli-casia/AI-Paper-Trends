@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **17** (0.94%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `reward / grpo / policy / preference`
 - Keyword pool: reward; grpo; policy; preference; embodied; reinforcement; vision-language; table; rlhf; group relative; learning human feedback; eqa
 

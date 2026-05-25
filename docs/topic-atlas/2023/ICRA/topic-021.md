@@ -1,4 +1,4 @@
-# ICRA 2023: grasping / robotic / cable-driven / haptic
+# ICRA 2023: 机器人触觉感知与操作
 
 - Topic ID: `21`
 - Papers: **21** (1.58%)

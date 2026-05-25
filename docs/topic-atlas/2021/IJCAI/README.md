@@ -19,7 +19,7 @@
 | [005](topic-005.md) | 时间序列建模与预测 | 28 | 3.88% | 图学习/数据挖掘 | `temporal / time series / tensor / events` | Neural Temporal Point Processes: A Review |
 | [006](topic-006.md) | 凸/非凸优化理论 | 26 | 3.60% | 理论/优化 | `evolutionary / stochastic / epsilon / descent` | Choosing the Right Algorithm With Hints From Complexity Theory |
 | [007](topic-007.md) | intent / topic / language / discourse | 25 | 3.46% | NLP任务 | `intent / topic / language / discourse` | A Survey on Spoken Language Understanding: Recent Advances and New Frontiers |
-| [008](topic-008.md) | 代码生成与程序理解 | 24 | 3.32% | 理论/优化 | `synthesis / formulas / backdoor / sat` | Efficiently Explaining CSPs with Unsatisfiable Subset Optimization |
+| [008](topic-008.md) | synthesis / formulas / backdoor / sat | 24 | 3.32% | 理论/优化 | `synthesis / formulas / backdoor / sat` | Efficiently Explaining CSPs with Unsatisfiable Subset Optimization |
 | [010](topic-010.md) | 目标检测与图像分割 | 23 | 3.19% | 计算机视觉 | `segmentation / image / object / semantic` | Object Detection in Densely Packed Scenes via Semi-Supervised Learning with Dual Consistency |
 | [011](topic-011.md) | 检索 / 视觉理解 / image / captioning | 23 | 3.19% | 多模态/VLM | `retrieval / visual / image / captioning` | Tag, Copy or Predict: A Unified Weakly-Supervised Learning Framework for Visual Information Extraction using Sequences |
 | [009](topic-009.md) | LLM Agent 与工具使用 | 23 | 3.19% | 强化学习/决策 | `games / voting / social / alternatives` | Worst-case Bounds on Power vs. Proportion in Weighted Voting Games with Application to False-name Manipulation |
@@ -35,10 +35,10 @@
 | [019](topic-019.md) | 对抗攻击、鲁棒性与安全 | 17 | 2.35% | 计算机视觉 | `attack / adversarial / robustness / perturbations` | Demiguise Attack: Crafting Invisible Semantic Adversarial Perturbations with Perceptual Similarity |
 | [022](topic-022.md) | 策略优化 / variance / value / reinforcement | 16 | 2.22% | 理论/优化 | `policy / variance / value / reinforcement` | Variational Model-based Policy Optimization |
 | [023](topic-023.md) | 隐私保护与安全学习 | 16 | 2.22% | 系统/效率/压缩 | `privacy / private / differential / local` | LDP-FL: Practical Private Aggregation in Federated Learning with Local Differential Privacy |
-| [024](topic-024.md) | 点云表示与 3D 感知 | 16 | 2.22% | 强化学习/决策 | `action / demonstrations / point cloud / pedestrian` | Reinforcement Learning for Sparse-Reward Object-Interaction Tasks in a First-person Simulated 3D Environment |
+| [024](topic-024.md) | 模仿学习与机器人示教 | 16 | 2.22% | 强化学习/决策 | `action / demonstrations / point cloud / pedestrian` | Reinforcement Learning for Sparse-Reward Object-Interaction Tasks in a First-person Simulated 3D Environment |
 | [025](topic-025.md) | 医疗健康与临床 AI | 15 | 2.08% | 多模态/VLM | `patients / clinical / disease / attention` | Cooperative Joint Attentive Network for Patient Outcome Prediction on Irregular Multi-Rate Multivariate Health Data |
-| [026](topic-026.md) | 查询理解与检索优化 | 15 | 2.08% | 强化学习/决策 | `traffic / control / vehicles / route` | Traffic Congestion Alleviation over Dynamic Road Networks: Continuous Optimal Route Combination for Trip Query Streams |
-| [027](topic-027.md) | LLM Agent 与工具使用 | 15 | 2.08% | 强化学习/决策 | `projects / agents / welfare / public` | Combining Fairness and Optimality when Selecting and Allocating Projects |
+| [026](topic-026.md) | 公平性、偏见与可信 AI | 15 | 2.08% | 强化学习/决策 | `traffic / control / vehicles / route` | Traffic Congestion Alleviation over Dynamic Road Networks: Continuous Optimal Route Combination for Trip Query Streams |
+| [027](topic-027.md) | LLM Agent 与工具使用 | 15 | 2.08% | 3D/具身/机器人 | `projects / agents / welfare / public` | Combining Fairness and Optimality when Selecting and Allocating Projects |
 | [028](topic-028.md) | active learning / forgetting / k-means / memory | 14 | 1.94% | 系统/效率/压缩 | `active learning / forgetting / k-means / memory` | A Comparative Survey: Benchmarking for Pool-based Active Learning |
 | [029](topic-029.md) | noise / image / detection / denoising | 13 | 1.80% | 计算机视觉 | `noise / image / detection / denoising` | Noise Doesn't Lie: Towards Universal Detection of Deep Inpainting |
 | [030](topic-030.md) | bayesian / lifted / top-k / overlaps | 11 | 1.52% | 理论/优化 | `bayesian / lifted / top-k / overlaps` | Partition Function Estimation: A Quantitative Study |

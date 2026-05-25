@@ -1,8 +1,8 @@
-# IROS 2025: hand / soft / grasping / gripper
+# IROS 2025: 机器人操作与抓取
 
 - Topic ID: `10`
 - Papers: **31** (1.57%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `hand / soft / grasping / gripper`
 - Keyword pool: hand; soft; grasping; gripper; dexterous; robotic; sensing; anthropomorphic; mechanism; modular; recognition; biomimetic
 

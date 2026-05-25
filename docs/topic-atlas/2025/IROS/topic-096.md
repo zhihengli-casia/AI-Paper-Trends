@@ -2,7 +2,7 @@
 
 - Topic ID: `96`
 - Papers: **9** (0.46%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `tracking / object pose / cameras / fast-moving`
 - Keyword pool: tracking; object pose; cameras; fast-moving; rgb-t; rate; monocular rgb; yolo; event; contextual; cues; semantic enhancement
 

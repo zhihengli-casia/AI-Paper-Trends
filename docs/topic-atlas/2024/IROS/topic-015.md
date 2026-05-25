@@ -1,8 +1,8 @@
-# IROS 2024: 机器人操作与具身智能
+# IROS 2024: 语言模型驱动的机器人任务规划
 
 - Topic ID: `15`
 - Papers: **28** (1.78%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / behavior / robot / failure`
 - Keyword pool: language; behavior; robot; failure; planning; fly; neuro-symbolic; llms; control; humanoid; manipulation; safety
 

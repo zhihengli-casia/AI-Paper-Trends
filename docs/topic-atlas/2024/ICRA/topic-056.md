@@ -2,7 +2,7 @@
 
 - Topic ID: `56`
 - Papers: **14** (0.80%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `slam / map / consistent / factor`
 - Keyword pool: slam; map; consistent; factor; localization; window; incremental probabilistic; online decision; human assisted; monte carlo; enhanced robust; choosing
 

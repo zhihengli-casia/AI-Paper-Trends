@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **37** (2.12%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `depth / segmentation / self-supervised / estimation`
 - Keyword pool: depth; segmentation; self-supervised; estimation; image; detection; contrastive; instance; foundation; monocular; visual odometry; adverse
 

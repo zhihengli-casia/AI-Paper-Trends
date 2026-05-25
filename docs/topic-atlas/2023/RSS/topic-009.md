@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **7** (6.36%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `motion planning / neural / control / deep reinforcement`
 - Keyword pool: motion planning; neural; control; deep reinforcement; design; path; trajectory; uncertainty; reinforcement learning; robust
 

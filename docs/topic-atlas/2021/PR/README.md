@@ -29,7 +29,7 @@
 | [015](topic-015.md) | 深度估计与立体匹配 | 15 | 2.55% | 计算机视觉 | `segmentation / object / depth / mask` | Mask encoding: A general instance mask representation for object segmentation |
 | [016](topic-016.md) | 图学习 / networks / convolutional / neighborhood | 15 | 2.55% | 图学习/数据挖掘 | `graph / networks / convolutional / neighborhood` | Deep graph learning for semi-supervised classification |
 | [017](topic-017.md) | 搜索排序与相关性建模 | 15 | 2.55% | 推荐/检索/排序 | `person / pattern recognition / embedding / expression` | Loss function search for person re-identification |
-| [019](topic-019.md) | 代码生成与程序理解 | 14 | 2.38% | 强化学习/决策 | `algorithm / programming / bound / learning credit` | A branch and bound irredundant graph algorithm for large-scale MLCS problems |
+| [019](topic-019.md) | algorithm / programming / bound / learning credit | 14 | 2.38% | 强化学习/决策 | `algorithm / programming / bound / learning credit` | A branch and bound irredundant graph algorithm for large-scale MLCS problems |
 | [020](topic-020.md) | feature selection / hybrid / order / solution | 14 | 2.38% | 推荐/检索/排序 | `feature selection / hybrid / order / solution` | Fused lasso for feature selection using structural information |
 | [018](topic-018.md) | 细粒度视觉分类与识别 | 14 | 2.38% | 计算机视觉 | `fine-grained / visual / image classification / image retrieval` | A hierarchical sampling based triplet network for fine-grained image classification |
 | [021](topic-021.md) | type / media / trend / cnn | 13 | 2.21% | 其他/交叉主题 | `type / media / trend / cnn` | 한류 콘텐츠의 간접/가상광고 활성화 전략에 관한 연구 : 포스트 코로나 19를 중심으로 |

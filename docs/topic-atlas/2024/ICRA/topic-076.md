@@ -2,7 +2,7 @@
 
 - Topic ID: `76`
 - Papers: **11** (0.63%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `odometry / visual-inertial / stereo / image`
 - Keyword pool: odometry; visual-inertial; stereo; image; mapping; online; tight fusion; ground vehicle; radiance field; plane; visual inertial; multi-feature
 

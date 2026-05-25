@@ -1,8 +1,8 @@
-# IROS 2025: 图像复原与超分辨率
+# IROS 2025: 无人机/四旋翼规划与控制
 
 - Topic ID: `23`
 - Papers: **26** (1.32%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `uav / detection / drone / blade`
 - Keyword pool: uav; detection; drone; blade; fusion; unmanned; sequences; aerial; super-resolution; person; multi-sensor; obstacles
 

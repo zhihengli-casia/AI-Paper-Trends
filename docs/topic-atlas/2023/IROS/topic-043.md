@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **12** (1.01%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 3D/具身/机器人
 - English keywords: `soft / actuators / stiffness / structures`
 - Keyword pool: soft; actuators; stiffness; structures; mechanism; modular; robots; tunable; suction; rigid bodies; ratio; printing
 

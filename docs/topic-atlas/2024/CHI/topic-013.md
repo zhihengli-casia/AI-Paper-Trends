@@ -1,8 +1,8 @@
-# CHI 2024: virtual / body / reality / head
+# CHI 2024: 机器人遥操作与触觉交互
 
 - Topic ID: `13`
 - Papers: **22** (2.10%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `virtual / body / reality / head`
 - Keyword pool: virtual; body; reality; head; locomotion; pose estimation; muscle stimulation; weight; navigation; simulation; haptic; hand
 

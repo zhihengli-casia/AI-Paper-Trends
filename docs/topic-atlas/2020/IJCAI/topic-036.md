@@ -1,4 +1,4 @@
-# IJCAI 2020: 代码生成与程序理解
+# IJCAI 2020: answer set / programs / logic / set programming
 
 - Topic ID: `36`
 - Papers: **12** (1.54%)

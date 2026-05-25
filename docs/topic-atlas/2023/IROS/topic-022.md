@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **22** (1.86%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `detection / object / quality / automated`
 - Keyword pool: detection; object; quality; automated; obstacle; aerial; perception; learning; patch; quantitative; holistic; visual place recognition
 

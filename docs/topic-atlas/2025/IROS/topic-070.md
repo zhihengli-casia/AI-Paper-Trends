@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **13** (0.66%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `actuators / exoskeleton / compensation / devices`
 - Keyword pool: actuators; exoskeleton; compensation; devices; elastic; torque; assistance; compliant; design; external forces; electrode; force-feedback
 

@@ -1,8 +1,8 @@
-# AAAI 2025: 运动建模 / infrared / detection / uav
+# AAAI 2025: 无人机/四旋翼规划与控制
 
 - Topic ID: `115`
 - Papers: **10** (0.33%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `motion / infrared / detection / uav`
 - Keyword pool: motion; infrared; detection; uav; aerial; small; targets; object; moving; displacement; real-time; unmanned
 

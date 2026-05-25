@@ -1,8 +1,8 @@
-# ICRA 2025: 自动驾驶感知与世界模型
+# ICRA 2025: 多机器人路径规划与协同导航
 
 - Topic ID: `1`
 - Papers: **46** (2.89%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-agent / multi-robot / path / reinforcement learning`
 - Keyword pool: multi-agent; multi-robot; path; reinforcement learning; finding; planning; exploration; search; swarm; algorithm; navigation; autonomous robot
 

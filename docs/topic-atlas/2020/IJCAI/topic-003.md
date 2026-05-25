@@ -1,4 +1,4 @@
-# IJCAI 2020: 代码生成与程序理解
+# IJCAI 2020: constraint / trees / sat / propagation
 
 - Topic ID: `3`
 - Papers: **27** (3.47%)

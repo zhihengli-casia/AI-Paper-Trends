@@ -14,7 +14,7 @@
 | [000](topic-000.md) | 图像复原与超分辨率 | 38 | 5.50% | 系统/效率/压缩 | `super-resolution / pruning / restoration / degradations` | RepSR: Training Efficient VGG-style Super-Resolution Networks with Structural Re-Parameterization and Batch Normalization |
 | [001](topic-001.md) | 目标检测与图像分割 | 34 | 4.92% | 计算机视觉 | `segmentation / object / few-shot / classes` | Exploring Effective Knowledge Transfer for Few-shot Object Detection |
 | [002](topic-002.md) | 对抗攻击、鲁棒性与安全 | 32 | 4.63% | 多模态/VLM | `attacks / face / backdoor / crowd` | Towards Adversarial Attack on Vision-Language Pre-training Models |
-| [003](topic-003.md) | style / stylized / sketch / editing | 31 | 4.49% | 生成模型 | `style / stylized / sketch / editing` | Cartoon-Flow: A Flow-Based Generative Adversarial Network for Arbitrary-Style Photo Cartoonization |
+| [003](topic-003.md) | style / stylized / sketch / editing | 31 | 4.49% | 3D/具身/机器人 | `style / stylized / sketch / editing` | Cartoon-Flow: A Flow-Based Generative Adversarial Network for Arbitrary-Style Photo Cartoonization |
 | [004](topic-004.md) | 语音/音频语言模型 | 29 | 4.20% | 语音/音频/音乐 | `speech / music / audio / sign` | Talking Head from Speech Audio using a Pre-trained Image Generator |
 | [005](topic-005.md) | 深度估计与立体匹配 | 29 | 4.20% | 计算机视觉 | `depth / multi-view / stereo / geometry` | DS-MVSNet: Unsupervised Multi-view Stereo via Depth Synthesis |
 | [006](topic-006.md) | 多模态学习与跨模态理解 | 28 | 4.05% | 多模态/VLM | `retrieval / cross-modal / image-text / person` | C 3 CMR: Cross-Modality Cross-Instance Contrastive Learning for Cross-Media Retrieval |

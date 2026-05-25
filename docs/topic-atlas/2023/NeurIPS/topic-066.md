@@ -1,8 +1,8 @@
-# NeurIPS 2023: object-centric / objects / 视频理解/生成 / egocentric
+# NeurIPS 2023: 灵巧机器人操作
 
 - Topic ID: `66`
 - Papers: **22** (0.68%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `object-centric / objects / video / egocentric`
 - Keyword pool: object-centric; objects; video; egocentric; hands; slots; manipulation; articulated; physics; dexterous; flow; incidental
 

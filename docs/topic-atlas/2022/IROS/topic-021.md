@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **21** (1.75%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-agent / delivery / allocation / collective`
 - Keyword pool: multi-agent; delivery; allocation; collective; limited; coordinated; coordination; environments; hierarchical; algorithm; path; navigation
 

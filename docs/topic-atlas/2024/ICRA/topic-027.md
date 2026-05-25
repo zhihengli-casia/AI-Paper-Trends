@@ -1,8 +1,8 @@
-# ICRA 2024: recognition / 视觉理解 / annotation / indoor
+# ICRA 2024: 视觉导航与语义地图
 
 - Topic ID: `27`
 - Papers: **22** (1.26%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `recognition / visual / annotation / indoor`
 - Keyword pool: recognition; visual; annotation; indoor; understanding; general; map; scene; topological; features; navigation; point
 

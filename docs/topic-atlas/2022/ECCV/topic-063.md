@@ -2,7 +2,7 @@
 
 - Topic ID: `63`
 - Papers: **12** (0.73%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / detection / face / inconsistency`
 - Keyword pool: manipulation; detection; face; inconsistency; generated images; facial; detecting; clues; fake; content information; artifact; detectors
 

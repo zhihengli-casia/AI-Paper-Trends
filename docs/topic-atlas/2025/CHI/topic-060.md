@@ -1,8 +1,8 @@
-# CHI 2025: sensors / sensing / material / wearable
+# CHI 2025: 机器人遥操作与触觉交互
 
 - Topic ID: `60`
 - Papers: **10** (0.80%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `sensors / sensing / material / wearable`
 - Keyword pool: sensors; sensing; material; wearable; physical; wireless smart; actuators; robust; haptic feedback; rapid prototyping; interactions; textile
 

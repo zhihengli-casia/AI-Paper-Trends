@@ -1,8 +1,8 @@
-# ICRA 2023: 自动驾驶感知与世界模型
+# ICRA 2023: 规划搜索与决策推理
 
 - Topic ID: `59`
 - Papers: **12** (0.90%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / planning / autonomous / aerial`
 - Keyword pool: navigation; planning; autonomous; aerial; uncertainty; fast; gnss; precision agriculture; mmwave; surface vessel; water; anomaly detection
 

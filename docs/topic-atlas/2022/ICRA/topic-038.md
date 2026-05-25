@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **13** (1.41%)
-- Macro topic: 理论/优化
+- Macro topic: 3D/具身/机器人
 - English keywords: `trajectory / risk / uncertain / convex`
 - Keyword pool: trajectory; risk; uncertain; convex; periodic; trajectories; planning; optimization; simulation; hybrid; media; payloads
 

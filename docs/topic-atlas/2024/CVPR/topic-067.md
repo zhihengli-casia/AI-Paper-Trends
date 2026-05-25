@@ -2,7 +2,7 @@
 
 - Topic ID: `67`
 - Papers: **18** (0.66%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / agent / navigate / embodied`
 - Keyword pool: navigation; agent; navigate; embodied; vln; environment; egocentric; modular; goal; planning; policy; world
 

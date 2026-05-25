@@ -2,7 +2,7 @@
 
 - Topic ID: `75`
 - Papers: **20** (0.62%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / planning / llms / embodied`
 - Keyword pool: language; planning; llms; embodied; agents; policy; communication; pddl; reasoning; feedback; cooperative; world
 

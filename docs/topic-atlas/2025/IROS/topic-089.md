@@ -2,7 +2,7 @@
 
 - Topic ID: `89`
 - Papers: **10** (0.51%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `recognizing / behaviors / robots / learning`
 - Keyword pool: recognizing; behaviors; robots; learning; human; prompts; robotic platforms; hri; fabric; reaction; subjective; conversations
 

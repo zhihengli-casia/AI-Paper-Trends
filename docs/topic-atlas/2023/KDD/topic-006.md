@@ -1,4 +1,4 @@
-# KDD 2023: 查询理解与检索优化
+# KDD 2023: 节点表示 / query / algorithms / clustering
 
 - Topic ID: `6`
 - Papers: **17** (5.43%)

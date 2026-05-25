@@ -1,8 +1,8 @@
-# IROS 2024: 规划搜索与决策推理
+# IROS 2024: 时序逻辑约束下的机器人任务规划
 
 - Topic ID: `51`
 - Papers: **15** (0.95%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `temporal / logic / planning / action`
 - Keyword pool: temporal; logic; planning; action; instructions; signal; symbolic; reasoning; learning; reinforcement; interactive robotic; object pushing
 

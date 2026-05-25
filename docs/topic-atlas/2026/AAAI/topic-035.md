@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **43** (1.04%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `forgery / image / ai-generated / deepfake`
 - Keyword pool: forgery; image; ai-generated; deepfake; localization; facial; detectors; manipulation; tampered; detection rapid; artifacts; generators
 

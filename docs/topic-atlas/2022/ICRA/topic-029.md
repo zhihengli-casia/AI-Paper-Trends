@@ -1,8 +1,8 @@
-# ICRA 2022: 机器人操作与具身智能
+# ICRA 2022: 机器人操作与抓取
 
 - Topic ID: `29`
 - Papers: **15** (1.63%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / reinforcement / manipulation / multi-task`
 - Keyword pool: learning; reinforcement; manipulation; multi-task; deep; skill; selection; policy; behavior; adaptation; robot; human environments
 

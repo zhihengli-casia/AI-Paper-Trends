@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **23** (2.26%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `motion / prediction / neural / network`
 - Keyword pool: motion; prediction; neural; network; graph; spiking; convolutional; segmentation; event; optical; flow; learning
 

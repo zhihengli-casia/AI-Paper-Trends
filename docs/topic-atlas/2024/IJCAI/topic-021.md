@@ -1,4 +1,4 @@
-# IJCAI 2024: 代码生成与程序理解
+# IJCAI 2024: asp / logic / temporal / answer
 
 - Topic ID: `21`
 - Papers: **19** (1.81%)

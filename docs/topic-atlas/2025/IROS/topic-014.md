@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **30** (1.52%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `lidar / semantic / segmentation / detection`
 - Keyword pool: lidar; semantic; segmentation; detection; place recognition; point; distillation; cloud; object; completion; unsupervised; knowledge
 

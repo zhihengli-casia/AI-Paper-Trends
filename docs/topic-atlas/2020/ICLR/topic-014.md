@@ -1,8 +1,8 @@
-# ICLR 2020: 机器人操作与具身智能
+# ICLR 2020: 机器人操作与抓取
 
 - Topic ID: `14`
 - Papers: **17** (2.47%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement / skills / primitives / hierarchical`
 - Keyword pool: reinforcement; skills; primitives; hierarchical; policies; manipulation; discovery; demonstrations; policy; transfer; control; robot
 

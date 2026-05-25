@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **23** (1.16%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `odometry / lidar / localization / inertial`
 - Keyword pool: odometry; lidar; localization; inertial; target; map; tightly-coupled; kalman; bev; robust; filter; global
 

@@ -1,8 +1,8 @@
-# IROS 2025: 自动驾驶感知与世界模型
+# IROS 2025: predictive / control / vehicles / autonomous
 
 - Topic ID: `45`
 - Papers: **18** (0.91%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `predictive / control / vehicles / autonomous`
 - Keyword pool: predictive; control; vehicles; autonomous; learning; drifting; safe reinforcement; surface; residual; online; unmanned; racing
 

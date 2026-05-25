@@ -1,4 +1,4 @@
-# AAAI 2024: 查询理解与检索优化
+# AAAI 2024: 视频理解/生成 / grounding / localization / temporal
 
 - Topic ID: `82`
 - Papers: **13** (0.56%)

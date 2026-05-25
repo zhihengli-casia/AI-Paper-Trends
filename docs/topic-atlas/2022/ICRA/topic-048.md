@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **8** (0.87%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `traffic / perception / autonomous driving / detection`
 - Keyword pool: traffic; perception; autonomous driving; detection; adverse weather; lane; weather conditions; enhancement; association; annotations; pipeline; open
 

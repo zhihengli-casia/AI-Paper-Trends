@@ -17,7 +17,7 @@
 | [003](topic-003.md) | search / sorting / combinatorial / differentiable | 32 | 3.02% | 推荐/检索/排序 | `search / sorting / combinatorial / differentiable` | $\pi$BO: Augmenting Acquisition Functions with User Beliefs for Bayesian Optimization |
 | [004](topic-004.md) | 随机优化与收敛理论 | 31 | 2.92% | 理论/优化 | `sgd / convex / learning rate / kernel` | On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications |
 | [005](topic-005.md) | 强化学习算法与理论 | 30 | 2.83% | 理论/优化 | `policy / games / multi-agent / reinforcement learning` | Communication-Efficient Actor-Critic Methods for Homogeneous Markov Games |
-| [006](topic-006.md) | 强化学习策略与奖励建模 | 29 | 2.73% | 强化学习/决策 | `offline / reward / reinforcement learning / policy` | Learning Value Functions from Undirected State-only Experience |
+| [006](topic-006.md) | 模仿学习与机器人示教 | 29 | 2.73% | 强化学习/决策 | `offline / reward / reinforcement learning / policy` | Learning Value Functions from Undirected State-only Experience |
 | [007](topic-007.md) | physics / dynamical / partial differential / equations | 29 | 2.73% | AI4Science/医疗 | `physics / dynamical / partial differential / equations` | Discovering Nonlinear PDEs from Scarce Data with Physics-encoded Learning |
 | [008](topic-008.md) | 强化学习策略与奖励建模 | 27 | 2.54% | 强化学习/决策 | `reinforcement learning / action / policy / exploration` | Value Function Spaces: Skill-Centric State Abstractions for Long-Horizon Reasoning |
 | [009](topic-009.md) | 神经网络理论、NTK 与宽度分析 | 27 | 2.54% | 理论/优化 | `kernel / collapse / relu / approximation` | On feature learning in neural networks with global convergence guarantees |
@@ -31,7 +31,7 @@
 | [017](topic-017.md) | 对抗攻击、鲁棒性与安全 | 20 | 1.89% | 生成模型 | `generative / gan / latent space / image` | Generative Models as a Data Source for Multiview Representation Learning |
 | [018](topic-018.md) | 对抗攻击、鲁棒性与安全 | 20 | 1.89% | 可信/安全/公平 | `adversarial / robustness / attacks / examples` | Provably Robust Adversarial Examples |
 | [019](topic-019.md) | variational / latent / flows / hierarchical | 20 | 1.89% | 系统/效率/压缩 | `variational / latent / flows / hierarchical` | Deep Attentive Variational Inference |
-| [020](topic-020.md) | 机器人操作与具身智能 | 20 | 1.89% | 强化学习/决策 | `imitation / policy / policies / robot` | Learning transferable motor skills with hierarchical latent mixture policies |
+| [020](topic-020.md) | 机器人运动控制与移动能力 | 20 | 1.89% | 3D/具身/机器人 | `imitation / policy / policies / robot` | Learning transferable motor skills with hierarchical latent mixture policies |
 | [021](topic-021.md) | 机器翻译与跨语言对齐 | 20 | 1.89% | LLM/语言模型 | `bert / transformer / language / scaling` | Scale Efficiently: Insights from Pretraining and Finetuning Transformers |
 | [022](topic-022.md) | 多模态学习与跨模态理解 | 19 | 1.79% | 多模态/VLM | `variational / vaes / generative / disentanglement` | On Incorporating Inductive Biases into VAEs |
 | [023](topic-023.md) | 强化学习策略与奖励建模 | 19 | 1.79% | 强化学习/决策 | `bandits / exploration / mdps / experience replay` | Online Target Q-learning with Reverse Experience Replay: Efficiently finding the Optimal Policy for Linear MDPs |
@@ -41,7 +41,7 @@
 | [027](topic-027.md) | continual learning / forgetting / catastrophic / replay | 18 | 1.70% | 理论/优化 | `continual learning / forgetting / catastrophic / replay` | Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference |
 | [028](topic-028.md) | compression / quantization / bit / bottleneck | 17 | 1.60% | 系统/效率/压缩 | `compression / quantization / bit / bottleneck` | Information Bottleneck: Exact Analysis of (Quantized) Neural Networks |
 | [029](topic-029.md) | random features / principal / matrix / sparse | 17 | 1.60% | 生成模型 | `random features / principal / matrix / sparse` | Generative Principal Component Analysis |
-| [030](topic-030.md) | 查询理解与检索优化 | 17 | 1.60% | 语音/音频/音乐 | `attacks / adversarial / defense / transferability` | Beyond ImageNet Attack: Towards Crafting Adversarial Examples for Black-box Domains |
+| [030](topic-030.md) | 对抗攻击、鲁棒性与安全 | 17 | 1.60% | 语音/音频/音乐 | `attacks / adversarial / defense / transferability` | Beyond ImageNet Attack: Towards Crafting Adversarial Examples for Black-box Domains |
 | [031](topic-031.md) | 时间序列建模与预测 | 16 | 1.51% | 系统/效率/压缩 | `time series / forecasting / graph / anomaly` | TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting |
 | [032](topic-032.md) | 点云表示与 3D 感知 | 15 | 1.41% | 3D/具身/机器人 | `cloud / shape / point / reconstruction` | Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization |
 | [033](topic-033.md) | 检索 / 推理 / 视觉理解 / concepts | 15 | 1.41% | 计算机视觉 | `retrieval / reasoning / visual / concepts` | FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations |
@@ -65,7 +65,7 @@
 | [051](topic-051.md) | 对抗攻击、鲁棒性与安全 | 9 | 0.85% | 可信/安全/公平 | `attacks / clean / triggers / poisoning` | Backdoor Defense via Decoupling the Training Process |
 | [052](topic-052.md) | 时间序列建模与预测 | 9 | 0.85% | 其他/交叉主题 | `convolution / kernel / cnns / orthogonal` | Approximation and Learning with Deep Convolutional Models: a Kernel Perspective |
 | [053](topic-053.md) | 图神经网络与节点表示学习 | 9 | 0.85% | 图学习/数据挖掘 | `graph / hyperbolic / metrics / topological` | Graphon based Clustering and Testing of Networks: Algorithms and Theory |
-| [054](topic-054.md) | 社交媒体与社会计算 | 9 | 0.85% | 计算机视觉 | `trajectory / motion / agent / navigation` | Scene Transformer: A unified architecture for predicting future trajectories of multiple agents |
+| [054](topic-054.md) | 视觉导航与语义地图 | 9 | 0.85% | 计算机视觉 | `trajectory / motion / agent / navigation` | Scene Transformer: A unified architecture for predicting future trajectories of multiple agents |
 | [055](topic-055.md) | 脑电信号表征与解码 | 8 | 0.75% | 强化学习/决策 | `augmentation / policies / repair / policy` | AdaAug: Learning Class- and Instance-adaptive Data Augmentation Policies |
 | [056](topic-056.md) | pruning / sparse / pruned / sparsity | 8 | 0.75% | 系统/效率/压缩 | `pruning / sparse / pruned / sparsity` | The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training |
 | [057](topic-057.md) | 公平性、偏见与可信 AI | 8 | 0.75% | 可信/安全/公平 | `fairness / auc / metric learning / demographic` | Is Fairness Only Metric Deep? Evaluating and Addressing Subgroup Gaps in Deep Metric Learning |

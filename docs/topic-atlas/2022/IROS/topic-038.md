@@ -1,4 +1,4 @@
-# IROS 2022: legged / robots / co-design / cable
+# IROS 2022: 足式机器人与运动控制
 
 - Topic ID: `38`
 - Papers: **15** (1.25%)

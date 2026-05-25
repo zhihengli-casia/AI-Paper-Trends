@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **28** (1.61%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `robot / modular / growing / experimental`
 - Keyword pool: robot; modular; growing; experimental; mechanism; shell; bodies; terrain; multi-modal; large-scale; design; frictional contact
 

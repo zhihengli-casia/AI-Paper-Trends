@@ -17,7 +17,7 @@
 | [003](topic-003.md) | 语音/音频语言模型 | 26 | 4.38% | 语音/音频/音乐 | `audio / facial / speech / expression` | TemLo: Temporal-Local Synergy Enhanced RWKV for Audio-Visual Segmentation |
 | [004](topic-004.md) | 多视图聚类与图学习 | 26 | 4.38% | 图学习/数据挖掘 | `clustering / multi-view / anchor / views` | Anchor-guided Discrete Multi-view Clustering |
 | [005](topic-005.md) | 图像复原与超分辨率 | 24 | 4.04% | 计算机视觉 | `super-resolution / hyperspectral / tensor / degradation` | Dual-Domain Adaptation Networks for Realistic Image Super-Resolution |
-| [006](topic-006.md) | 查询理解与检索优化 | 22 | 3.70% | 3D/具身/机器人 | `point / clouds / depth / query` | Self-Attentive Edge-Convolution Bipartite Graph Network for 3D Object Reconstruction From Point Clouds |
+| [006](topic-006.md) | 深度估计与立体匹配 | 22 | 3.70% | 3D/具身/机器人 | `point / clouds / depth / query` | Self-Attentive Edge-Convolution Bipartite Graph Network for 3D Object Reconstruction From Point Clouds |
 | [007](topic-007.md) | 文生图生成与个性化编辑 | 21 | 3.54% | 生成模型 | `diffusion / underline xmlns mml / image generation / t2i` | Compositional Text-to-Image Synthesis with Training-Free Layout-Guided Diffusion |
 | [008](topic-008.md) | Mamba 与状态空间视觉模型 | 20 | 3.37% | 计算机视觉 | `action / temporal / skeleton / kernel` | MambaTAD: When State-Space Models Meet Long-Range Temporal Action Detection |
 | [009](topic-009.md) | 图像复原与超分辨率 | 20 | 3.37% | 计算机视觉 | `image enhancement / underwater / low-light / color` | PyUIE: A Coarse-to-Fine Deep Pyramid Network for Underwater Image Enhancement |
@@ -33,8 +33,8 @@
 | [018](topic-018.md) | 检索 / cross-modal / hash / codes | 15 | 2.53% | 多模态/VLM | `retrieval / cross-modal / hash / codes` | Multi-Granularity Semantic Complementarity Fusion Hashing for Cross-Modal Retrieval |
 | [020](topic-020.md) | 多模态学习与跨模态理解 | 14 | 2.36% | 多模态/VLM | `user / graph / modality / multi-modal` | Structurally Refined Graph Transformer for Multimodal Recommendation |
 | [021](topic-021.md) | old / prototype / discovery / classes | 14 | 2.36% | 多模态/VLM | `old / prototype / discovery / classes` | SA-BCT: Self-Adapting Backward-Compatible Training |
-| [022](topic-022.md) | 攻击、防御与模型安全 | 13 | 2.19% | 计算机视觉 | `tracking / motion / attack / trackers` | A Transformer-Based Tracker Integrating Motion and Representation Information |
-| [023](topic-023.md) | 多模态大模型与视觉语言推理 | 13 | 2.19% | 多模态/VLM | `underline / referring / language / human-centric` | Mixture-of-Experts Multi-View Large Vision-Language Models for Multimodal Fake News Detection |
+| [022](topic-022.md) | 无人机/四旋翼规划与控制 | 13 | 2.19% | 3D/具身/机器人 | `tracking / motion / attack / trackers` | A Transformer-Based Tracker Integrating Motion and Representation Information |
+| [023](topic-023.md) | 多模态大模型与视觉语言推理 | 13 | 2.19% | 3D/具身/机器人 | `underline / referring / language / human-centric` | Mixture-of-Experts Multi-View Large Vision-Language Models for Multimodal Fake News Detection |
 | [024](topic-024.md) | 3D Gaussian Splatting 与场景重建 | 12 | 2.02% | 3D/具身/机器人 | `gaussian / rendering / nerf / scenes` | Geometry-Aware 3D Gaussian Representation for Real-Time Rendering of Large-Scale Scenes |
 | [025](topic-025.md) | attribute / self-distillation / traffic / zero-shot learning | 12 | 2.02% | 计算机视觉 | `attribute / self-distillation / traffic / zero-shot learning` | MAC: A Benchmark for Multiple Attributes Compositional Zero-Shot Learning |
 | [026](topic-026.md) | 视频扩散生成与运动控制 | 12 | 2.02% | 生成模型 | `motion / video / diffusion / editing` | StarVid: Enhancing Semantic Alignment in Video Diffusion Models via Spatial and SynTactic Guided Attention Refocusing |

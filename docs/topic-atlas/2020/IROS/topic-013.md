@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **23** (2.06%)
-- Macro topic: 理论/优化
+- Macro topic: 3D/具身/机器人
 - English keywords: `localization / mapping / global / indoor`
 - Keyword pool: localization; mapping; global; indoor; outdoor; maps; pedestrian; occupancy; environments; sensor; fusion; constraints
 

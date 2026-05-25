@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **25** (2.24%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `driving / trajectory prediction / autonomous / vehicles`
 - Keyword pool: driving; trajectory prediction; autonomous; vehicles; attention; risk; context; ultrasonic; temporal; practical; pedestrian; urban environments
 

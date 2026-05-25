@@ -1,8 +1,8 @@
-# IROS 2025: 机器人操作与具身智能
+# IROS 2025: 机器人操作与抓取
 
 - Topic ID: `66`
 - Papers: **14** (0.71%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / learning / assembly / reinforcement`
 - Keyword pool: manipulation; learning; assembly; reinforcement; peg-in-hole; policy; policies; robust; control; context-based; graphs robot; planning safe
 

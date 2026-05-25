@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **28** (1.19%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `forgery / face / fake / privacy`
 - Keyword pool: forgery; face; fake; privacy; identity; age; security; facial; manipulation; forensic; x-ray; adversarial
 

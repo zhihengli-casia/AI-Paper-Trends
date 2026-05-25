@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **28** (2.62%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `slam / camera / calibration / pose`
 - Keyword pool: slam; camera; calibration; pose; visual; estimation; planar; map; scene; lighting; correspondences; global
 

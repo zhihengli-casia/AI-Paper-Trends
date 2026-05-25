@@ -1,4 +1,4 @@
-# ICML 2022: imitation / 策略优化 / robots / offline
+# ICML 2022: 模仿学习与机器人示教
 
 - Topic ID: `47`
 - Papers: **13** (1.05%)

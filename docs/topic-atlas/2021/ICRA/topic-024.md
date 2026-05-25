@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **21** (1.53%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `prediction / human motion / neural / networks`
 - Keyword pool: prediction; human motion; neural; networks; recognition; temporal; representation; occupancy; deep; detection; video; knowledge
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **26** (2.16%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `knowledge / learning / imitation / inference`
 - Keyword pool: knowledge; learning; imitation; inference; gesture generation; transformers; clustering; human; language; actions; intention; robot
 

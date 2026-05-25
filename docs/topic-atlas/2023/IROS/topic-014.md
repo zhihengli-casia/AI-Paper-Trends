@@ -1,8 +1,8 @@
-# IROS 2023: 强化学习策略与奖励建模
+# IROS 2023: 模仿学习与机器人示教
 
 - Topic ID: `14`
 - Papers: **25** (2.11%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / reinforcement / behavior / demonstrations`
 - Keyword pool: learning; reinforcement; behavior; demonstrations; imitation; adaptive; feedback; reward; solve; diverse; policy; function
 

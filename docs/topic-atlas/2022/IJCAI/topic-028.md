@@ -1,4 +1,4 @@
-# IJCAI 2022: 代码生成与程序理解
+# IJCAI 2022: asp / answer set / programming / 推理
 
 - Topic ID: `28`
 - Papers: **15** (1.74%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **13** (0.98%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-agent / planning / planner / trajectory`
 - Keyword pool: multi-agent; planning; planner; trajectory; path; reinforcement learning; decentralized; distributed; local; mobile; groups; game-theoretic
 

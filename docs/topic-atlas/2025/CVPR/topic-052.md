@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **23** (0.80%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `affordance / grounding / gui / scene`
 - Keyword pool: affordance; grounding; gui; scene; language; embodied; reasoning; open-vocabulary; perception; relationships; instructions; functional
 

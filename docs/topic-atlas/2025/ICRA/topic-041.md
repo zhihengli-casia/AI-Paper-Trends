@@ -1,8 +1,8 @@
-# ICRA 2025: 多模态学习与跨模态理解
+# ICRA 2025: 语言/视觉语言引导的机器人导航
 
 - Topic ID: `41`
 - Papers: **17** (1.07%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / robot / semantic / grounding`
 - Keyword pool: language; robot; semantic; grounding; prediction; leveraging; navigation; multimodal; self-reflective; laparoscopic; long-horizon motion; activity
 

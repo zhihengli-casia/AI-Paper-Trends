@@ -1,4 +1,4 @@
-# RSS 2024: manipulation / robotic / dynamics / large-scale
+# RSS 2024: 机器人操作与抓取
 
 - Topic ID: `3`
 - Papers: **13** (9.92%)

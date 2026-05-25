@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **16** (0.92%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `pose estimation / object pose / category-level / nerf`
 - Keyword pool: pose estimation; object pose; category-level; nerf; vision; regression; single; self-supervised; lightweight; image; fast; objects
 

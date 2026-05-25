@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **15** (1.41%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `segmentation / object / sound / fruit`
 - Keyword pool: segmentation; object; sound; fruit; images; separation; deep; vision; coral; lifelong; detection; underwater
 

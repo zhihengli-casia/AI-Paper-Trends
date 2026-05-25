@@ -11,7 +11,7 @@
 
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
-| [000](topic-000.md) | 查询理解与检索优化 | 17 | 17.17% | 推荐/检索/排序 | `logic / answering / queries / datalog` | Answering regular path queries mediated by unrestricted <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg"><mml:mi mathvariant="script">SQ</mml:mi></mml:math> ontologies |
+| [000](topic-000.md) | logic / answering / queries / datalog | 17 | 17.17% | 推荐/检索/排序 | `logic / answering / queries / datalog` | Answering regular path queries mediated by unrestricted <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.svg"><mml:mi mathvariant="script">SQ</mml:mi></mml:math> ontologies |
 | [001](topic-001.md) | explanations / ces / face / rbf-hs | 16 | 16.16% | 可信/安全/公平 | `explanations / ces / face / rbf-hs` | PredDiff: Explanations and interactions from conditional expectations |
 | [002](topic-002.md) | LLM Agent 与工具使用 | 16 | 16.16% | 系统/效率/压缩 | `agents / mechanisms / influence / allocation` | The distortion of distributed metric social choice |
 | [003](topic-003.md) | 规划搜索与决策推理 | 12 | 12.12% | 强化学习/决策 | `agents / mapf / propagation / strategies` | Knowledge-based strategies for multi-agent teams playing against Nature |

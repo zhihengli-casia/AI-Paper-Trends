@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **19** (1.12%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `moral / values / manipulation / associations`
 - Keyword pool: moral; values; manipulation; associations; social; human-like; tom; psychological; humans; mental; neurons; interpersonal
 

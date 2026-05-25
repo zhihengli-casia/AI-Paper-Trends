@@ -1,8 +1,8 @@
-# ICML 2025: 扩散生成模型
+# ICML 2025: 机器人操作与抓取
 
 - Topic ID: `22`
 - Papers: **35** (1.05%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `policy / robotic / diffusion / action`
 - Keyword pool: policy; robotic; diffusion; action; imitation; manipulation; planning; reinforcement learning; demonstrations; visual; policies; skill
 

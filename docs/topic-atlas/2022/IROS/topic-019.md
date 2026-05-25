@@ -1,8 +1,8 @@
-# IROS 2022: 规划搜索与决策推理
+# IROS 2022: 无人机/四旋翼规划与控制
 
 - Topic ID: `19`
 - Papers: **22** (1.83%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `aerial / quadrotor / avoidance / planning`
 - Keyword pool: aerial; quadrotor; avoidance; planning; obstacle; robots; reinforcement; uav; automatic; vision-based; strategy; collision
 

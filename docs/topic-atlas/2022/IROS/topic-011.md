@@ -1,8 +1,8 @@
-# IROS 2022: 自动驾驶感知与世界模型
+# IROS 2022: 强化学习算法与理论
 
 - Topic ID: `11`
 - Papers: **26** (2.16%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement learning / policy / inverse / multi-objective`
 - Keyword pool: reinforcement learning; policy; inverse; multi-objective; learning autonomous; world; skills; deep reinforcement; safety; objectives; finite; forward
 

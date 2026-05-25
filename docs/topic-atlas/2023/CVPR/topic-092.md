@@ -1,4 +1,4 @@
-# CVPR 2023: 查询理解与检索优化
+# CVPR 2023: grounding / 视频理解/生成 / temporal / sentence
 
 - Topic ID: `92`
 - Papers: **12** (0.51%)

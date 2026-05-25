@@ -1,8 +1,8 @@
-# CVPR 2022: 机器人操作与具身智能
+# CVPR 2022: 视觉语言导航与具身指令跟随
 
 - Topic ID: `32`
 - Papers: **23** (1.11%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / agent / environments / embodied`
 - Keyword pool: navigation; agent; environments; embodied; instructions; vision-and-language; demonstrations; action; navigate; prompt; reinforcement learning; robot
 

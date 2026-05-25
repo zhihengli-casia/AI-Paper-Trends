@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **22** (1.11%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-robot / allocation / llm / collaborative`
 - Keyword pool: multi-robot; allocation; llm; collaborative; industry; environments; communication; long-horizon; coordination; swarm; heterogeneous; language
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `68`
 - Papers: **14** (0.71%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `diffusion / policies / policy / offline`
 - Keyword pool: diffusion; policies; policy; offline; distributional; reinforcement learning; multi-modal; mamba; distributions; pushing; estimation dynamic; approximation
 

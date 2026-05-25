@@ -44,7 +44,7 @@
 | [030](topic-030.md) | cognitive / supervision / pedagogical / creativity | 11 | 1.53% | LLM/语言模型 | `cognitive / supervision / pedagogical / creativity` | LLM The Genius Paradox: A Linguistic and Math Expert’s Struggle with Simple Word-based Counting Problems |
 | [031](topic-031.md) | 医疗健康与临床 AI | 11 | 1.53% | LLM/语言模型 | `relation / entity / extraction / zero-shot` | GL i REL - Generalist Model for Zero-Shot Relation Extraction |
 | [032](topic-032.md) | 语音/音频语言模型 | 10 | 1.39% | LLM/语言模型 | `hate / humor / speech / moderation` | ALTER : Augmentation for Large-Table-Based Reasoning |
-| [033](topic-033.md) | 自动驾驶感知与世界模型 | 10 | 1.39% | LLM/语言模型 | `agents / environments / tool / windows` | x LAM : A Family of Large Action Models to Empower AI Agent Systems |
+| [033](topic-033.md) | 多智能体协作与规划 | 10 | 1.39% | LLM/语言模型 | `agents / environments / tool / windows` | x LAM : A Family of Large Action Models to Empower AI Agent Systems |
 | [034](topic-034.md) | 医疗健康与临床 AI | 9 | 1.25% | LLM/语言模型 | `explanation / diagnostic / medical / recommendation` | Benchmarking Large Language Models on Answering and Explaining Challenging Medical Questions |
 | [035](topic-035.md) | sql / questions / unanswerable / database | 9 | 1.25% | NLP任务 | `sql / questions / unanswerable / database` | FLEX : Expert-level False-Less EX ecution Metric for Text-to- SQL Benchmark |
 | [036](topic-036.md) | 视觉语言模型与多模态理解 | 9 | 1.25% | LLM/语言模型 | `cultural / images / text-to-image / culture` | TCP ro F :Time-Complexity Prediction SSL Framework |

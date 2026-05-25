@@ -1,8 +1,8 @@
-# ICRA 2025: tactile / sensing / sensors / pretraining
+# ICRA 2025: 机器人触觉感知与操作
 
 - Topic ID: `3`
 - Papers: **42** (2.64%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `tactile / sensing / sensors / pretraining`
 - Keyword pool: tactile; sensing; sensors; pretraining; manipulation; contact; robotic; perception; vision-based; reconstruction; hand; dexterous
 

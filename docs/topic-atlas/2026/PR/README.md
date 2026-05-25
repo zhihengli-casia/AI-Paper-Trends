@@ -14,7 +14,7 @@
 | [000](topic-000.md) | image / features / state-of-the-art / introduce | 38 | 4.11% | 计算机视觉 | `image / features / state-of-the-art / introduce` | MFGS: Mask-free Gaussian separation for 3D object reconstruction |
 | [001](topic-001.md) | kernel / quadratic / feature selection / faster | 36 | 3.89% | 图学习/数据挖掘 | `kernel / quadratic / feature selection / faster` | DAFS: A distribution-aware hierarchical feature selection method for long-tailed classification |
 | [002](topic-002.md) | 少样本细粒度视觉识别 | 34 | 3.68% | 计算机视觉 | `classification / few-shot / image / medical` | Harnessing the power of local representations for few-shot classification |
-| [003](topic-003.md) | 目标检测与图像分割 | 33 | 3.57% | 计算机视觉 | `object detection / sensing / remote / small` | EdgeFusionNet: Edge information-guided small object detection for remote sensing images |
+| [003](topic-003.md) | 机器人视觉目标检测与域适应 | 33 | 3.57% | 3D/具身/机器人 | `object detection / sensing / remote / small` | EdgeFusionNet: Edge information-guided small object detection for remote sensing images |
 | [004](topic-004.md) | 视觉语言模型与多模态理解 | 31 | 3.35% | 多模态/VLM | `attacks / adversarial / transferable / physical` | Towards structural transformation-based attack for boosting transferability of adversarial examples |
 | [005](topic-005.md) | 3D Gaussian Splatting 与场景重建 | 30 | 3.24% | 计算机视觉 | `super-resolution / light / field / image` | Task-aware all-in-one guided image super-resolution |
 | [006](topic-006.md) | 医学影像分割 | 27 | 2.92% | 多模态/VLM | `segmentation / medical image / brain / few-shot medical` | M-MambaS: Multimodal Mamba for small lesion segmentation |
@@ -27,7 +27,7 @@
 | [013](topic-013.md) | 视觉语言模型与多模态理解 | 21 | 2.27% | 多模态/VLM | `answering / question / video / vision-language` | Ask and focus more: Question-prompt uncertainty allocation for dual-controllable video captioning |
 | [014](topic-014.md) | alignment / representation / sequential / knowledge | 20 | 2.16% | 多模态/VLM | `alignment / representation / sequential / knowledge` | HSP: A Hierarchical Semantic Preserving method for multimodal entity alignment |
 | [015](topic-015.md) | continual / knowledge / world / physics-informed | 20 | 2.16% | 系统/效率/压缩 | `continual / knowledge / world / physics-informed` | RectLoRA: Subspace parameter-efficient fine-tuning for continual adaptation of LLMs and LVMs |
-| [016](topic-016.md) | 查询理解与检索优化 | 20 | 2.16% | 多模态/VLM | `tracking / object / visual / temporal` | LTSTrack: Visual tracking with long-term temporal sequence |
+| [016](topic-016.md) | tracking / object / 视觉理解 / temporal | 20 | 2.16% | 多模态/VLM | `tracking / object / visual / temporal` | LTSTrack: Visual tracking with long-term temporal sequence |
 | [017](topic-017.md) | 目标检测与图像分割 | 19 | 2.05% | 计算机视觉 | `segmentation / semantic / binary / annotations` | CDSP: Enhancing CLIP-based weakly supervised semantic segmentation with dataset-specific prototypes |
 | [018](topic-018.md) | hyperspectral / image / detection / fusion | 19 | 2.05% | 计算机视觉 | `hyperspectral / image / detection / fusion` | DFBSNet: Dual frequency-domain branch fusion and selection network for hyperspectral anomaly detection |
 | [019](topic-019.md) | 目标检测与图像分割 | 18 | 1.95% | 多模态/VLM | `sensing / remote / change / semantic` | Towards open-vocabulary semantic segmentation for remote sensing images |

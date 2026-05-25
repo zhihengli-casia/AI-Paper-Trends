@@ -2,7 +2,7 @@
 
 - Topic ID: `69`
 - Papers: **9** (0.68%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `bev / fusion / feature / perception`
 - Keyword pool: bev; fusion; feature; perception; unified; object detection; lifting; multi-view object; semi-supervised learning; bird; learning local; center
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **53** (3.87%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement / learning / policy / control`
 - Keyword pool: reinforcement; learning; policy; control; adversarial; planning; model-based; optimization; barrier functions; exploration; differentiable; behavior
 

@@ -1,8 +1,8 @@
-# ICRA 2020: quadrotor / flight / multirotor / recovery
+# ICRA 2020: 无人机/四旋翼规划与控制
 
 - Topic ID: `46`
 - Papers: **11** (1.03%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `quadrotor / flight / multirotor / recovery`
 - Keyword pool: quadrotor; flight; multirotor; recovery; failure; control; fault; attitude; angular; initial; identification; complete
 

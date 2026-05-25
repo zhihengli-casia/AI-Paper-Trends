@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **13** (2.19%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `underline / referring / language / human-centric`
 - Keyword pool: underline; referring; language; human-centric; metaphor; mllms; agents; bold; manipulation; translation; speech; italic
 

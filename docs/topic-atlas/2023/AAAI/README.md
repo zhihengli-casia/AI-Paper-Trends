@@ -48,7 +48,7 @@
 | [033](topic-033.md) | 文档摘要与信息压缩 | 18 | 1.15% | 生成模型 | `event / temporal / summarization / syntax` | A Generative Approach for Script Event Prediction via Contrastive Fine-Tuning |
 | [037](topic-037.md) | 图神经网络与图表示学习 | 18 | 1.15% | AI4Science/医疗 | `molecular / drug / graph / molecules` | MDM: Molecular Diffusion Model for 3D Molecule Generation |
 | [034](topic-034.md) | 强化学习与 MDP 理论 | 18 | 1.15% | 强化学习/决策 | `mdps / safety / policy / reinforcement` | Provably Efficient Primal-Dual Reinforcement Learning for CMDPs with Non-stationary Objectives and Constraints |
-| [036](topic-036.md) | 代码生成与程序理解 | 18 | 1.15% | 图学习/数据挖掘 | `programs / logic / symbolic / reasoning` | Learning Logic Programs by Discovering Where Not to Search |
+| [036](topic-036.md) | programs / logic / symbolic / 推理 | 18 | 1.15% | 图学习/数据挖掘 | `programs / logic / symbolic / reasoning` | Learning Logic Programs by Discovering Where Not to Search |
 | [038](topic-038.md) | object / detection / icd / images | 17 | 1.08% | 计算机视觉 | `object / detection / icd / images` | One-Shot Replay: Boosting Incremental Object Detection via Retrospecting One Object |
 | [039](topic-039.md) | 多语言建模与跨语言迁移 | 17 | 1.08% | 图学习/数据挖掘 | `translation / topic / mrc / sentence` | Towards Reliable Neural Machine Translation with Consistency-Aware Meta-Learning |
 | [040](topic-040.md) | 深度估计与立体匹配 | 17 | 1.08% | 3D/具身/机器人 | `depth / point / cloud / rotation` | Transformation-Equivariant 3D Object Detection for Autonomous Driving |
@@ -75,7 +75,7 @@
 | [059](topic-059.md) | 点云表示与 3D 感知 | 14 | 0.89% | 计算机视觉 | `tracking / point / transformer / cloud` | GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds |
 | [062](topic-062.md) | auc / multiplicity / risk / group | 13 | 0.83% | 理论/优化 | `auc / multiplicity / risk / group` | Learning to Select Pivotal Samples for Meta Re-weighting |
 | [066](topic-066.md) | 推荐系统与用户建模 | 12 | 0.76% | 可信/安全/公平 | `federated / privacy / poisoning / backdoor` | Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning |
-| [063](topic-063.md) | 具身智能与物理交互 | 12 | 0.76% | LLM/语言模型 | `planning / plans / subgoals / agent` | Learning Rational Subgoals from Demonstrations and Instructions |
+| [063](topic-063.md) | 具身智能与物理交互 | 12 | 0.76% | 3D/具身/机器人 | `planning / plans / subgoals / agent` | Learning Rational Subgoals from Demonstrations and Instructions |
 | [064](topic-064.md) | 时间序列建模与预测 | 12 | 0.76% | 其他/交叉主题 | `time series / time-series / sequences / event` | Time Series Contrastive Learning with Information-Aware Augmentations |
 | [067](topic-067.md) | hashing / long-tail / quantization / concept | 12 | 0.76% | 推荐/检索/排序 | `hashing / long-tail / quantization / concept` | Towards Robust Metrics for Concept Representation Evaluation |
 | [065](topic-065.md) | 目标检测与图像分割 | 12 | 0.76% | 计算机视觉 | `domain / segmentation / adaptation / semantic` | Cross-Modal Contrastive Learning for Domain Adaptation in 3D Semantic Segmentation |
@@ -91,7 +91,7 @@
 | [079](topic-079.md) | 对抗攻击、鲁棒性与安全 | 10 | 0.64% | 可信/安全/公平 | `attribution / saliency / interpretation / humans` | Do Invariances in Deep Neural Networks Align with Human Perception? |
 | [076](topic-076.md) | detection / explanation / dialogue / question answering | 10 | 0.64% | 多模态/VLM | `detection / explanation / dialogue / question answering` | Referring Expression Comprehension Using Language Adaptive Inference |
 | [080](topic-080.md) | Conformal Prediction 与不确定性校准 | 10 | 0.64% | 理论/优化 | `uncertainty / aleatoric / epistemic / regression` | The Unreasonable Effectiveness of Deep Evidential Regression |
-| [078](topic-078.md) | 强化学习策略与奖励建模 | 10 | 0.64% | 强化学习/决策 | `reward / demonstrations / shaping / policies` | Learning Noise-Induced Reward Functions for Surpassing Demonstrations in Imitation Learning |
+| [078](topic-078.md) | 模仿学习与机器人示教 | 10 | 0.64% | 强化学习/决策 | `reward / demonstrations / shaping / policies` | Learning Noise-Induced Reward Functions for Surpassing Demonstrations in Imitation Learning |
 | [081](topic-081.md) | 自回归 Transformer 与语言建模 | 9 | 0.57% | LLM/语言模型 | `autoregressive / medical / transformer / language` | Compressing Transformers: Features Are Low-Rank, but Weights Are Not! |
 | [082](topic-082.md) | 多模态学习与跨模态理解 | 9 | 0.57% | 多模态/VLM | `news / fake / persuasion / detection` | Bootstrapping Multi-View Representations for Fake News Detection |
 | [083](topic-083.md) | vit / vision / backdoor / transformers | 9 | 0.57% | 计算机视觉 | `vit / vision / backdoor / transformers` | Peeling the Onion: Hierarchical Reduction of Data Redundancy for Efficient Vision Transformer Training |

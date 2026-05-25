@@ -1,8 +1,8 @@
-# ICRA 2024: automated / imaging / force / manipulation
+# ICRA 2024: 机器人操作与抓取
 
 - Topic ID: `80`
 - Papers: **10** (0.57%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `automated / imaging / force / manipulation`
 - Keyword pool: automated; imaging; force; manipulation; hydrodynamic; points robotic; optimization robotic; movable; mosaic; morphology; modules; microscopic image
 

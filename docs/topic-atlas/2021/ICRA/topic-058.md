@@ -1,8 +1,8 @@
-# ICRA 2021: 自动驾驶感知与世界模型
+# ICRA 2021: 规划搜索与决策推理
 
 - Topic ID: `58`
 - Papers: **11** (0.80%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `autonomous / path planning / underwater vehicles / marine`
 - Keyword pool: autonomous; path planning; underwater vehicles; marine; ensemble; vessels; avoidance; collision; surface; perception; risk assessment; manoeuvre
 

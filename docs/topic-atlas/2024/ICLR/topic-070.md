@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **16** (0.71%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `prompt / vision-language / vlms / visual`
 - Keyword pool: prompt; vision-language; vlms; visual; tuning; clip; robot; test-time; dml; zero-shot; unseen classes; pre-trained
 

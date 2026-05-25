@@ -1,8 +1,8 @@
-# IROS 2022: soft / gripper / flexible / sensing
+# IROS 2022: 软体机器人与柔性执行器
 
 - Topic ID: `4`
 - Papers: **29** (2.41%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `soft / gripper / flexible / sensing`
 - Keyword pool: soft; gripper; flexible; sensing; manipulator; shape; robotic; parallel; programmable; skin; pneumatic; array
 

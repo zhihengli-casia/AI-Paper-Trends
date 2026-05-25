@@ -1,4 +1,4 @@
-# SIGMOD 2021: 查询理解与检索优化
+# SIGMOD 2021: database / partitioning / processing / query
 
 - Topic ID: `5`
 - Papers: **13** (6.40%)

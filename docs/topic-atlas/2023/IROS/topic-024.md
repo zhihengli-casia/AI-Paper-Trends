@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **21** (1.77%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `camera / video / event-based / radar`
 - Keyword pool: camera; video; event-based; radar; optical; tracking; calibration; image; view; reconstruction; estimation; mapping
 

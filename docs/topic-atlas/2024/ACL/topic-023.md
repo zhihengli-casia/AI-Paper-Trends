@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **16** (1.70%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `hallucination / lvlms / mllms / multimodal`
 - Keyword pool: hallucination; lvlms; mllms; multimodal; visual; image; detection; embodied; perception; vision-language; factuality; truthfulness
 

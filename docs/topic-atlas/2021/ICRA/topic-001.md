@@ -2,7 +2,7 @@
 
 - Topic ID: `1`
 - Papers: **43** (3.14%)
-- Macro topic: 理论/优化
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / path / motion / optimization`
 - Keyword pool: planning; path; motion; optimization; search-based; robots; trajectory; trajectories; planner; dof; environments; kinodynamic
 

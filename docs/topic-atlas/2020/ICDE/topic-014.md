@@ -1,4 +1,4 @@
-# ICDE 2020: 查询理解与检索优化
+# ICDE 2020: stream processing / database / lightweight / overhead
 
 - Topic ID: `14`
 - Papers: **8** (3.45%)

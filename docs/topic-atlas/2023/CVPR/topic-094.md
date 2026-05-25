@@ -2,7 +2,7 @@
 
 - Topic ID: `94`
 - Papers: **12** (0.51%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `segmentation / cross-category / parts / semantic image`
 - Keyword pool: segmentation; cross-category; parts; semantic image; manipulation; object categories; part-based; image synthesis; backgrounds; policy; partnet; generalizable
 

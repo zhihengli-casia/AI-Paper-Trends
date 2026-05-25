@@ -1,4 +1,4 @@
-# ICDE 2025: 查询理解与检索优化
+# ICDE 2025: query / queries / unified / databases
 
 - Topic ID: `6`
 - Papers: **16** (4.10%)

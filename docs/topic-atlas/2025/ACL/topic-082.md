@@ -1,4 +1,4 @@
-# ACL 2025: 查询理解与检索优化
+# ACL 2025: Conformal Prediction 与不确定性校准
 
 - Topic ID: `82`
 - Papers: **9** (0.53%)

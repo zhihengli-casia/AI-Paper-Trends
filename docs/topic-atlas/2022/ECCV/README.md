@@ -74,12 +74,12 @@
 | [058](topic-058.md) | continual / forgetting / incremental / catastrophic | 13 | 0.79% | 系统/效率/压缩 | `continual / forgetting / incremental / catastrophic` | Helpful or Harmful: Inter-Task Association in Continual Learning |
 | [060](topic-060.md) | localization / camera / pose / scene | 13 | 0.79% | 3D/具身/机器人 | `localization / camera / pose / scene` | Is Geometry Enough for Matching in Visual Localization? |
 | [062](topic-062.md) | 视频动作生成与运动控制 | 12 | 0.73% | 其他/交叉主题 | `interpolation / video / frame / perceptual` | A Perceptual Quality Metric for Video Frame Interpolation |
-| [063](topic-063.md) | manipulation / detection / face / inconsistency | 12 | 0.73% | 计算机视觉 | `manipulation / detection / face / inconsistency` | Exploring Disentangled Content Information for Face Forgery Detection |
+| [063](topic-063.md) | manipulation / detection / face / inconsistency | 12 | 0.73% | 3D/具身/机器人 | `manipulation / detection / face / inconsistency` | Exploring Disentangled Content Information for Face Forgery Detection |
 | [064](topic-064.md) | masked / pre-training / mae / bert | 12 | 0.73% | 多模态/VLM | `masked / pre-training / mae / bert` | MVP: Multimodality-Guided Visual Pre-training |
 | [065](topic-065.md) | 深度估计与立体匹配 | 12 | 0.73% | 3D/具身/机器人 | `scene flow / flow estimation / omnidirectional / point` | Learning Omnidirectional Flow in 360° Video via Siamese Representation |
 | [066](topic-066.md) | compression / rate-distortion / dnn / throughput | 11 | 0.67% | 计算机视觉 | `compression / rate-distortion / dnn / throughput` | Implicit Neural Representations for Image Compression |
 | [067](topic-067.md) | 点云表示与 3D 感知 | 11 | 0.67% | 3D/具身/机器人 | `point / instance / cloud / segmentation` | 3D Instances as 1D Kernels |
-| [068](topic-068.md) | 具身智能与物理交互 | 11 | 0.67% | 多模态/VLM | `navigation / agent / vision-and-language / instruction` | Bridging the Visual Semantic Gap in VLN via Semantically Richer Instructions |
+| [068](topic-068.md) | 视觉语言导航与具身指令跟随 | 11 | 0.67% | 3D/具身/机器人 | `navigation / agent / vision-and-language / instruction` | Bridging the Visual Semantic Gap in VLN via Semantically Richer Instructions |
 | [069](topic-069.md) | 多模态学习与跨模态理解 | 11 | 0.67% | 多模态/VLM | `vqa / reasoning / answering / question` | A-OKVQA: A Benchmark for Visual Question Answering Using World Knowledge |
 | [070](topic-070.md) | NeRF 与神经渲染 | 11 | 0.67% | 3D/具身/机器人 | `animatable / human / avatars / poses` | Neural Capture of Animatable 3D Human from Monocular Video |
 | [071](topic-071.md) | 少样本 / detection / slices / video object | 11 | 0.67% | 计算机视觉 | `few-shot / detection / slices / video object` | Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark |

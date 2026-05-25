@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **12** (1.30%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / gaussian / probabilistic / space`
 - Keyword pool: planning; gaussian; probabilistic; space; risk-aware; regression; multi-resolution; kernel; programs; execution; anytime; covariance steering
 

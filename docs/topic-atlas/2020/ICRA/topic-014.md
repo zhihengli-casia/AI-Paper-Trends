@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **24** (2.25%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / optimal / trajectory / optimization`
 - Keyword pool: control; optimal; trajectory; optimization; dynamics; mpc; policy; nonlinear; trajectories; plant; differential; policies
 

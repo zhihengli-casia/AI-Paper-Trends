@@ -2,7 +2,7 @@
 
 - Topic ID: `91`
 - Papers: **10** (0.51%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `policy / multi-task / learning / preference-based`
 - Keyword pool: policy; multi-task; learning; preference-based; reinforcement; exploration; distillation; guided; experts; extended; human preferences; asymmetric
 

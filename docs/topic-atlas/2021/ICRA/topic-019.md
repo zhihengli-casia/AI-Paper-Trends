@@ -2,7 +2,7 @@
 
 - Topic ID: `19`
 - Papers: **23** (1.68%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-agent / path / finding / search`
 - Keyword pool: multi-agent; path; finding; search; algorithm; shortest; planning; strategies; urban; communication; distributed; environments
 

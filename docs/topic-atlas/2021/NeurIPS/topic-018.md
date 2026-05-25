@@ -1,4 +1,4 @@
-# NeurIPS 2021: 查询理解与检索优化
+# NeurIPS 2021: 公平性、偏见与可信 AI
 
 - Topic ID: `18`
 - Papers: **33** (1.41%)

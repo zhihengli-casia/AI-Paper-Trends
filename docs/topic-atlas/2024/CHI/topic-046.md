@@ -1,8 +1,8 @@
-# CHI 2024: 3D Avatar 与人脸头部建模
+# CHI 2024: 机器人遥操作与触觉交互
 
 - Topic ID: `46`
 - Papers: **12** (1.14%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 3D/具身/机器人
 - English keywords: `virtual / reality / motion / avatar`
 - Keyword pool: virtual; reality; motion; avatar; hand; exploring; haptic feedback; source; animation; reach; mechanics; guiding
 

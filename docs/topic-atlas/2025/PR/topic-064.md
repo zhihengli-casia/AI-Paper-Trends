@@ -1,8 +1,8 @@
-# PR 2025: 目标检测与图像分割
+# PR 2025: 无人机/四旋翼规划与控制
 
 - Topic ID: `64`
 - Papers: **11** (0.73%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `object detection / small object / tiny / wavelet`
 - Keyword pool: object detection; small object; tiny; wavelet; dynamic; adaptive; algorithm; enhancement; selection; drone; density peak clustering; detection cross-scale
 

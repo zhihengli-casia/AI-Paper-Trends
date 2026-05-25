@@ -1,4 +1,4 @@
-# SIGIR 2022: 查询理解与检索优化
+# SIGIR 2022: question / logical / legal / query
 
 - Topic ID: `4`
 - Papers: **12** (7.45%)

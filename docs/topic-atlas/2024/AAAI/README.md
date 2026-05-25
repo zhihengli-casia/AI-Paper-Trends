@@ -23,7 +23,7 @@
 | [009](topic-009.md) | 推荐系统与用户建模 | 44 | 1.89% | 推荐/检索/排序 | `recommendation / users / items / recommender` | Multi-Domain Recommendation to Attract Users via Domain Preference Modeling |
 | [008](topic-008.md) | counting / boolean / satisfiability / formulas | 44 | 1.89% | 图学习/数据挖掘 | `counting / boolean / satisfiability / formulas` | Model Counting and Sampling via Semiring Extensions |
 | [011](topic-011.md) | 在线学习与 regret 理论 | 44 | 1.89% | 强化学习/决策 | `games / players / auction / advertising` | Learning Coalition Structures with Games |
-| [010](topic-010.md) | 强化学习策略与奖励建模 | 44 | 1.89% | 强化学习/决策 | `policy / reinforcement learning / reward / offline` | Robust Policy Learning via Offline Skill Diffusion |
+| [010](topic-010.md) | 模仿学习与机器人示教 | 44 | 1.89% | 强化学习/决策 | `policy / reinforcement learning / reward / offline` | Robust Policy Learning via Offline Skill Diffusion |
 | [013](topic-013.md) | regression / kernel / uncertainty / neural network | 43 | 1.84% | 理论/优化 | `regression / kernel / uncertainty / neural network` | Learning Representations on the Unit Sphere: Investigating Angular Gaussian and Von Mises-Fisher Distributions for Online Continual Learning |
 | [014](topic-014.md) | transformers / vit / vision / gaze | 42 | 1.80% | 系统/效率/压缩 | `transformers / vit / vision / gaze` | Improving the Adversarial Transferability of Vision Transformers with Virtual Dense Connection |
 | [015](topic-015.md) | 目标检测与图像分割 | 37 | 1.59% | 计算机视觉 | `action / video / temporal / recognition` | Unsupervised Action Segmentation via Fast Learning of Semantically Consistent Actoms |
@@ -45,7 +45,7 @@
 | [031](topic-031.md) | 多视图聚类与图学习 | 27 | 1.16% | 图学习/数据挖掘 | `clustering / multi-view / incomplete / views` | Sample-Level Cross-View Similarity Learning for Incomplete Multi-View Clustering |
 | [032](topic-032.md) | 图像复原与超分辨率 | 27 | 1.16% | 理论/优化 | `super-resolution / vsr / images / spike` | OSFFNet: Omni-Stage Feature Fusion Network for Lightweight Image Super-Resolution |
 | [033](topic-033.md) | 隐私保护与安全学习 | 26 | 1.12% | 推荐/检索/排序 | `person search / tabular / retrieval / hash` | DiDA: Disambiguated Domain Alignment for Cross-Domain Retrieval with Partial Labels |
-| [034](topic-034.md) | 攻击、防御与模型安全 | 26 | 1.12% | LLM/语言模型 | `deepfake / forgery / attribution / attack` | Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection |
+| [034](topic-034.md) | 攻击、防御与模型安全 | 26 | 1.12% | 3D/具身/机器人 | `deepfake / forgery / attribution / attack` | Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection |
 | [036](topic-036.md) | 扩散生成模型 | 25 | 1.07% | 生成模型 | `differential / pde / equations / dynamical` | SNN-PDE: Learning Dynamic PDEs from Data with Simplicial Neural Networks |
 | [035](topic-035.md) | 图神经网络与图表示学习 | 25 | 1.07% | 图学习/数据挖掘 | `graph / node / hyperbolic / heterophilic` | An Efficient Subgraph-Inferring Framework for Large-Scale Heterogeneous Graphs |
 | [038](topic-038.md) | 扩散生成模型 | 25 | 1.07% | 计算机视觉 | `reconstruction / spectral / diffusion / sensing` | MDFL: Multi-Domain Diffusion-Driven Feature Learning |
@@ -87,9 +87,9 @@
 | [075](topic-075.md) | 知识图谱推理与表示学习 | 14 | 0.60% | 多模态/VLM | `knowledge graph / facts / entities / kgs` | Modeling Knowledge Graphs with Composite Reasoning |
 | [076](topic-076.md) | 图像复原与超分辨率 | 14 | 0.60% | 计算机视觉 | `color / shadow / exposure / low-light` | Recasting Regional Lighting for Shadow Removal |
 | [077](topic-077.md) | ner / entity / entities / span | 14 | 0.60% | 多模态/VLM | `ner / entity / entities / span` | Unify Named Entity Recognition Scenarios via Contrastive Real-Time Updating Prototype |
-| [073](topic-073.md) | 代码生成与程序理解 | 14 | 0.60% | 强化学习/决策 | `solvers / programming / discrete optimization / routing problems` | Accelerating Cutting-Plane Algorithms via Reinforcement Learning Surrogates |
+| [073](topic-073.md) | solvers / programming / discrete optimization / routing problems | 14 | 0.60% | 强化学习/决策 | `solvers / programming / discrete optimization / routing problems` | Accelerating Cutting-Plane Algorithms via Reinforcement Learning Surrogates |
 | [074](topic-074.md) | image retrieval / sketch / 视觉理解 / composed image | 14 | 0.60% | 计算机视觉 | `image retrieval / sketch / visual / composed image` | Asymmetric Mutual Alignment for Unsupervised Zero-Shot Sketch-Based Image Retrieval |
-| [082](topic-082.md) | 查询理解与检索优化 | 13 | 0.56% | 推荐/检索/排序 | `video / grounding / localization / temporal` | Learning Multi-Scale Video-Text Correspondence for Weakly Supervised Temporal Article Gronding |
+| [082](topic-082.md) | 视频理解/生成 / grounding / localization / temporal | 13 | 0.56% | 推荐/检索/排序 | `video / grounding / localization / temporal` | Learning Multi-Scale Video-Text Correspondence for Weakly Supervised Temporal Article Gronding |
 | [078](topic-078.md) | 目标检测与图像分割 | 13 | 0.56% | 多模态/VLM | `anomaly / detection / anomalies / normal` | Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection |
 | [079](topic-079.md) | 扩散生成模型 | 13 | 0.56% | 计算机视觉 | `diffusion / super-resolution / images / denoising` | High-Fidelity Diffusion-Based Image Editing |
 | [080](topic-080.md) | 语音/音频语言模型 | 13 | 0.56% | 多模态/VLM | `sentiment / quantum / sarcasm / aspect` | Aspect-Based Sentiment Analysis with Explicit Sentiment Augmentations |
@@ -97,9 +97,9 @@
 | [084](topic-084.md) | 对抗攻击、鲁棒性与安全 | 13 | 0.56% | 系统/效率/压缩 | `distillation / teacher / student / moe` | Teacher as a Lenient Expert: Teacher-Agnostic Data-Free Knowledge Distillation |
 | [081](topic-081.md) | 多智能体协作与规划 | 13 | 0.56% | 强化学习/决策 | `agents / logics / beliefs / dialogue` | Abstraction of Situation Calculus Concurrent Game Structures |
 | [085](topic-085.md) | transport / optimal / distances / spectral | 12 | 0.51% | 系统/效率/压缩 | `transport / optimal / distances / spectral` | Double-Bounded Optimal Transport for Advanced Clustering and Classification |
-| [086](topic-086.md) | 查询理解与检索优化 | 12 | 0.51% | 推荐/检索/排序 | `semantics / reasoning / datalog / answers` | Redefining ABA+ Semantics via Abstract Set-to-Set Attacks |
-| [087](topic-087.md) | 代码生成与程序理解 | 12 | 0.51% | 其他/交叉主题 | `formulae / ltlf / constraint / programs` | Learning to Learn in Interactive Constraint Acquisition |
+| [086](topic-086.md) | semantics / 推理 / datalog / answers | 12 | 0.51% | 推荐/检索/排序 | `semantics / reasoning / datalog / answers` | Redefining ABA+ Semantics via Abstract Set-to-Set Attacks |
+| [087](topic-087.md) | formulae / ltlf / constraint / programs | 12 | 0.51% | 其他/交叉主题 | `formulae / ltlf / constraint / programs` | Learning to Learn in Interactive Constraint Acquisition |
 | [088](topic-088.md) | 病理图像与临床 AI | 12 | 0.51% | 多模态/VLM | `cell / pathology / slide / classification` | CaMIL: Causal Multiple Instance Learning for Whole Slide Image Classification |
-| [089](topic-089.md) | 查询理解与检索优化 | 11 | 0.47% | 计算机视觉 | `few-shot / counting / fss / fine-tuning` | Pushing the Limit of Fine-Tuning for Few-Shot Learning: Where Feature Reusing Meets Cross-Scale Attention |
-| [090](topic-090.md) | 机器人操作与具身智能 | 11 | 0.47% | 强化学习/决策 | `agents / multi-agent / path / min-max` | Decentralized Monte Carlo Tree Search for Partially Observable Multi-Agent Pathfinding |
+| [089](topic-089.md) | 少样本 / counting / fss / fine-tuning | 11 | 0.47% | 计算机视觉 | `few-shot / counting / fss / fine-tuning` | Pushing the Limit of Fine-Tuning for Few-Shot Learning: Where Feature Reusing Meets Cross-Scale Attention |
+| [090](topic-090.md) | 多机器人路径规划与协同导航 | 11 | 0.47% | 3D/具身/机器人 | `agents / multi-agent / path / min-max` | Decentralized Monte Carlo Tree Search for Partially Observable Multi-Agent Pathfinding |
 | [091](topic-091.md) | 查询理解与检索优化 | 11 | 0.47% | 推荐/检索/排序 | `video / retrieval / moment / clip` | Fewer Steps, Better Performance: Efficient Cross-Modal Clip Trimming for Video Moment Retrieval Using Language |

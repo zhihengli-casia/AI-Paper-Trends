@@ -2,7 +2,7 @@
 
 - Topic ID: `86`
 - Papers: **17** (0.56%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `hands / palm / object / diffusion`
 - Keyword pool: hands; palm; object; diffusion; grasping; gesture; interaction; contact; motion; articulated; images; recognition
 

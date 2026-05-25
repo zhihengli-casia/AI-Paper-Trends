@@ -2,7 +2,7 @@
 
 - Topic ID: `42`
 - Papers: **19** (0.96%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `pose estimation / object pose / category-level / estimating`
 - Keyword pool: pose estimation; object pose; category-level; estimating; keypoint; camera; knowledge; estimation leveraging; industry; multi-dimensional; distilling; generative world
 

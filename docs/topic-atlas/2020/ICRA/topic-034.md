@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **13** (1.22%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / skills / demonstrations / reinforcement learning`
 - Keyword pool: manipulation; skills; demonstrations; reinforcement learning; objects; stacking; reward; policy; rearrangement; target object; assembly; policies
 

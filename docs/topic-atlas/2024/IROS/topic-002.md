@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **54** (3.43%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / language / scene / occupancy`
 - Keyword pool: navigation; language; scene; occupancy; prediction; maps; object; indoor; semantic; context-aware; acoustic; diffusion
 

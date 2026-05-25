@@ -1,8 +1,8 @@
-# CHI 2024: haptic / interaction / compliance / stimulation
+# CHI 2024: 机器人遥操作与触觉交互
 
 - Topic ID: `3`
 - Papers: **33** (3.14%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `haptic / interaction / compliance / stimulation`
 - Keyword pool: haptic; interaction; compliance; stimulation; devices; tangible; hand; feedback; sensors; continuous; acoustic; tactile
 

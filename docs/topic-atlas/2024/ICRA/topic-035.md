@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **19** (1.09%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `aerial / control / load / quadrotors`
 - Keyword pool: aerial; control; load; quadrotors; multirotor; uavs; robust; stable; tracking; underactuated; platform; dual
 

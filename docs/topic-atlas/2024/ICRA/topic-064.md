@@ -2,7 +2,7 @@
 
 - Topic ID: `64`
 - Papers: **13** (0.75%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / off-road / terrain / self-supervised`
 - Keyword pool: navigation; off-road; terrain; self-supervised; wheeled; outdoor; unstructured; environments; mobile; autoencoders; probabilistic motion; single demonstration
 

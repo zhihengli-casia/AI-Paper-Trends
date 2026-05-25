@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **22** (1.97%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / gaussian / processes / vehicle`
 - Keyword pool: planning; gaussian; processes; vehicle; coverage; safe; traffic; uncertain; coordination; multi-agent; data-driven; heterogeneous
 

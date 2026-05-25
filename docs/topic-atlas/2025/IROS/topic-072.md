@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **13** (0.66%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `anomaly / detection / noise / world`
 - Keyword pool: anomaly; detection; noise; world; distillation; learning; estimation multimodal; model-based reinforcement; koopman operators; global optimization; fusion-based; telemanipulation
 

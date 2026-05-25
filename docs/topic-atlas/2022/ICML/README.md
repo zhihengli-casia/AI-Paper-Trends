@@ -58,7 +58,7 @@
 | [044](topic-044.md) | games / zero-sum / team / player | 13 | 1.05% | 系统/效率/压缩 | `games / zero-sum / team / player` | On Last-Iterate Convergence Beyond Zero-Sum Games |
 | [045](topic-045.md) | 强化学习策略与奖励建模 | 13 | 1.05% | 强化学习/决策 | `offline / policy / pomdps / reinforcement` | Offline RL Policies Should Be Trained to be Adaptive |
 | [043](topic-043.md) | 凸/非凸优化理论 | 13 | 1.05% | 可信/安全/公平 | `private / differentially / privacy / users` | Tight and Robust Private Mean Estimation with Few Users |
-| [047](topic-047.md) | imitation / 策略优化 / robots / offline | 13 | 1.05% | 强化学习/决策 | `imitation / policy / robots / offline` | Imitation Learning by Estimating Expertise of Demonstrators |
+| [047](topic-047.md) | 模仿学习与机器人示教 | 13 | 1.05% | 强化学习/决策 | `imitation / policy / robots / offline` | Imitation Learning by Estimating Expertise of Demonstrators |
 | [046](topic-046.md) | 联邦学习与分布式训练 | 13 | 1.05% | 理论/优化 | `federated / clients / personalization / personalized` | Federated Learning with Partial Model Personalization |
 | [049](topic-049.md) | 知识图谱推理与表示学习 | 13 | 1.05% | 图学习/数据挖掘 | `reasoning / logical / relation / neuro-symbolic` | Neural-Symbolic Models for Logical Queries on Knowledge Graphs |
 | [050](topic-050.md) | 少样本分类与开放集识别 | 12 | 0.97% | 可信/安全/公平 | `meta-learning / few-shot / units / sharpness-aware` | MAML and ANIL Provably Learn Representations |

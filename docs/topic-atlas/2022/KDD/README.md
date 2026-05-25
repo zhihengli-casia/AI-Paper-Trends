@@ -11,10 +11,10 @@
 
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
-| [000](topic-000.md) | 查询理解与检索优化 | 27 | 10.67% | 图学习/数据挖掘 | `clustering / fairness / community / private` | Fair Labeled Clustering |
+| [000](topic-000.md) | 隐私保护与安全学习 | 27 | 10.67% | 图学习/数据挖掘 | `clustering / fairness / community / private` | Fair Labeled Clustering |
 | [001](topic-001.md) | 知识图谱推理与表示学习 | 24 | 9.49% | 多模态/VLM | `entity / reasoning / entities / knowledge graph` | LinE: Logical Query Reasoning over Hierarchical Knowledge Graphs |
 | [002](topic-002.md) | 时间序列建模与预测 | 23 | 9.09% | 强化学习/决策 | `causal / anomaly detection / treatment / compatibility` | ML4S: Learning Causal Skeleton from Vicinal Graphs |
-| [003](topic-003.md) | 查询理解与检索优化 | 22 | 8.70% | 理论/优化 | `extraction / explanation / urban / momentum` | Demystify Hyperparameters for Stochastic Optimization with Transferable Representations |
+| [003](topic-003.md) | extraction / explanation / urban / momentum | 22 | 8.70% | 理论/优化 | `extraction / explanation / urban / momentum` | Demystify Hyperparameters for Stochastic Optimization with Transferable Representations |
 | [004](topic-004.md) | 扩散生成模型 | 20 | 7.91% | 图学习/数据挖掘 | `diffusion / quantum / spectral / symbolic` | Global Self-Attention as a Replacement for Graph Convolution |
 | [005](topic-005.md) | 图神经网络与图表示学习 | 15 | 5.93% | 图学习/数据挖掘 | `graphs / gnns / node / few-shot` | ROLAND: Graph Learning Framework for Dynamic Graphs |
 | [006](topic-006.md) | 推荐系统与用户建模 | 14 | 5.53% | 推荐/检索/排序 | `recommender / user / recommendation / item` | Invariant Preference Learning for General Debiasing in Recommendation |

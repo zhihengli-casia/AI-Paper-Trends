@@ -1,8 +1,8 @@
-# ICRA 2024: language / manipulation / robotic / vision
+# ICRA 2024: 机器人操作与抓取
 
 - Topic ID: `77`
 - Papers: **11** (0.63%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / manipulation / robotic / vision`
 - Keyword pool: language; manipulation; robotic; vision; control; uncalibrated visual; assisting; intrinsic; physically; captioning; endoscope; expression
 

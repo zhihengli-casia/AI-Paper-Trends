@@ -50,7 +50,7 @@
 | [037](topic-037.md) | Chain-of-Thought 与大模型推理 | 20 | 1.18% | LLM/语言模型 | `cot / thinking / long / chain-of-thought` | Fine-Tuning on Diverse Reasoning Chains Drives Within-Inference C o T Refinement in LLM s |
 | [033](topic-033.md) | legal / stance / 检索 / patent | 20 | 1.18% | LLM/语言模型 | `legal / stance / retrieval / patent` | L egal A gent B ench: Evaluating LLM Agents in Legal Domain |
 | [038](topic-038.md) | 多模态学习与跨模态理解 | 19 | 1.12% | 多模态/VLM | `factuality / claims / fact-checking / truthfulness` | F act B ench: A Dynamic Benchmark for In-the-Wild Language Model Factuality Evaluation |
-| [039](topic-039.md) | 社交媒体与社会计算 | 19 | 1.12% | LLM/语言模型 | `moral / values / manipulation / associations` | Exploring LLM s’ Ability to Spontaneously and Conditionally Modify Moral Expressions through Text Manipulation |
+| [039](topic-039.md) | 社交媒体与社会计算 | 19 | 1.12% | 3D/具身/机器人 | `moral / values / manipulation / associations` | Exploring LLM s’ Ability to Spontaneously and Conditionally Modify Moral Expressions through Text Manipulation |
 | [040](topic-040.md) | 多语言建模与跨语言迁移 | 18 | 1.06% | 语音/音频/音乐 | `speech / asr / transcription / speaker` | G iga S peech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement |
 | [041](topic-041.md) | RAG 与检索增强生成 | 18 | 1.06% | 多模态/VLM | `retrieval / multimodal / restoration / rag` | REAL - MM - RAG : A Real-World Multi-Modal Retrieval Benchmark |
 | [042](topic-042.md) | kgs / 图学习 / kge / relations | 17 | 1.00% | LLM/语言模型 | `kgs / graph / kge / relations` | Tree- KG : An Expandable Knowledge Graph Construction Framework for Knowledge-intensive Domains |
@@ -88,10 +88,10 @@
 | [075](topic-075.md) | 机器翻译与跨语言对齐 | 11 | 0.65% | LLM/语言模型 | `speech / streaming / audio / acoustic` | Recent Advances in Speech Language Models: A Survey |
 | [072](topic-072.md) | 目标检测与图像分割 | 11 | 0.65% | LLM/语言模型 | `tokenization / tokenizer / subword / segmentation` | Beyond Text Compression: Evaluating Tokenizers Across Scales |
 | [076](topic-076.md) | 代码生成与程序理解 | 10 | 0.59% | 生成模型 | `argument / debate / mining / quality assessment` | Limited Generalizability in Argument Mining: State-Of-The-Art Models Learn Datasets, Not Arguments |
-| [077](topic-077.md) | 视觉语言模型与多模态理解 | 10 | 0.59% | 多模态/VLM | `spatial / navigation / embodied / vlms` | S pa RE : Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data |
+| [077](topic-077.md) | 视觉语言模型与多模态理解 | 10 | 0.59% | 3D/具身/机器人 | `spatial / navigation / embodied / vlms` | S pa RE : Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data |
 | [078](topic-078.md) | psychological / counselor / client / mental health | 10 | 0.59% | 强化学习/决策 | `psychological / counselor / client / mental health` | P sy D ial: A Large-scale Long-term Conversational Dataset for Mental Health Support |
 | [079](topic-079.md) | transformers / attention / feature / first-order | 10 | 0.59% | 生成模型 | `transformers / attention / feature / first-order` | Unravelling the Logic: Investigating the Generalisation of Transformers in Numerical Satisfiability Problems |
-| [080](topic-080.md) | 具身智能与物理交互 | 9 | 0.53% | 多模态/VLM | `emotion / sentiment / recognition / absa` | BRIGHTER : BRI dging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages |
+| [080](topic-080.md) | 具身智能与物理交互 | 9 | 0.53% | 3D/具身/机器人 | `emotion / sentiment / recognition / absa` | BRIGHTER : BRI dging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages |
 | [081](topic-081.md) | continual / forgetting / pre-training / pretraining | 9 | 0.53% | LLM/语言模型 | `continual / forgetting / pre-training / pretraining` | Efficient Domain Continual pretraining by Mitigating the Stability Gap |
-| [082](topic-082.md) | 查询理解与检索优化 | 9 | 0.53% | LLM/语言模型 | `uncertainty / conformal / causal / estimations` | L o GU : Long-form Generation with Uncertainty Expressions |
+| [082](topic-082.md) | Conformal Prediction 与不确定性校准 | 9 | 0.53% | LLM/语言模型 | `uncertainty / conformal / causal / estimations` | L o GU : Long-form Generation with Uncertainty Expressions |
 | [083](topic-083.md) | decoding / minimum / diversity / utility | 8 | 0.47% | 可信/安全/公平 | `decoding / minimum / diversity / utility` | Diversity Explains Inference Scaling Laws: Through a Case Study of Minimum B ayes Risk Decoding |

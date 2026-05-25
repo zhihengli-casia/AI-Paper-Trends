@@ -1,8 +1,8 @@
-# ICLR 2026: 扩散生成模型
+# ICLR 2026: 机器人操作与抓取
 
 - Topic ID: `64`
 - Papers: **37** (0.69%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `imitation / robot / policy / policies`
 - Keyword pool: imitation; robot; policy; policies; action; demonstrations; manipulation; diffusion; planning; behavior cloning; continuous control; world
 

@@ -19,7 +19,7 @@
 | [005](topic-005.md) | 图神经网络与图表示学习 | 32 | 4.02% | 图学习/数据挖掘 | `graph / gnns / node / drug` | SGB-Net: Scalable Graph Broad Network |
 | [006](topic-006.md) | 强化学习策略与奖励建模 | 30 | 3.77% | 强化学习/决策 | `policy / reinforcement learning / drl / action` | Neighboring State-Aware Policy for Deep Reinforcement Learning |
 | [007](topic-007.md) | 多模态学习与跨模态理解 | 29 | 3.64% | 多模态/VLM | `semantic / multimodal / fusion / segmentation` | Toward Effective Model Merging in Semantic Segmentation |
-| [008](topic-008.md) | 视频动作生成与运动控制 | 29 | 3.64% | 计算机视觉 | `video / action / tracking / temporal` | A Static-Dynamic Composition Framework for Efficient Action Recognition |
+| [008](topic-008.md) | 机器人操作与抓取 | 29 | 3.64% | 3D/具身/机器人 | `video / action / tracking / temporal` | A Static-Dynamic Composition Framework for Efficient Action Recognition |
 | [009](topic-009.md) | 时间序列建模与预测 | 23 | 2.89% | 图学习/数据挖掘 | `forecasting / time series / time-series / temporal` | Robust Multivariate Time Series Forecasting Against Intraseries and Interseries Transitional Shift |
 | [010](topic-010.md) | 图像复原与超分辨率 | 22 | 2.76% | 计算机视觉 | `image / rain / weather / restoration` | DAWN+: Wavelet-Based Image Deraining Meets Direction-Aware Attention and Mutual Representation |
 | [011](topic-011.md) | 强化学习算法与理论 | 21 | 2.64% | 强化学习/决策 | `multiagent / reinforcement learning / policy / agents` | Facilitating Multiagent Coordination Relying on Graph Information Representation |

@@ -1,8 +1,8 @@
-# RSS 2023: 机器人操作与具身智能
+# RSS 2023: 机器人操作与抓取
 
 - Topic ID: `5`
 - Papers: **9** (8.18%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / mobile / robot / policy`
 - Keyword pool: manipulation; mobile; robot; policy; action; dexterity; representation; sampling-based; scaling; wild; exploration; reinforcement
 

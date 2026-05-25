@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **12** (17.91%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / reinforcement / control / safe`
 - Keyword pool: learning; reinforcement; control; safe; deep; trajectory; optimal; motion; out-of-distribution; parameterized differential dynamic; admm; planning parameterized
 

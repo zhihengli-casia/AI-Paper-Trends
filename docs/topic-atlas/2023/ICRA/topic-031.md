@@ -1,8 +1,8 @@
-# ICRA 2023: 强化学习算法与理论
+# ICRA 2023: 无人机/四旋翼规划与控制
 
 - Topic ID: `31`
 - Papers: **17** (1.28%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `quadrotor / control / maneuvers / quadcopters`
 - Keyword pool: quadrotor; control; maneuvers; quadcopters; deep; dynamics; aerial; robots learning; uavs; reinforcement learning; agile; hybrid
 

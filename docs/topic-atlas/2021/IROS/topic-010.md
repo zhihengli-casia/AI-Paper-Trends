@@ -1,8 +1,8 @@
-# IROS 2021: gripper / reconfigurable / hand / manipulation
+# IROS 2021: 机器人操作与抓取
 
 - Topic ID: `10`
 - Papers: **25** (2.46%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `gripper / reconfigurable / hand / manipulation`
 - Keyword pool: gripper; reconfigurable; hand; manipulation; dexterous; mechanism; adaptive; robotic; haptic; grasping; differential; lightweight
 

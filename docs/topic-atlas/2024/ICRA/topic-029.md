@@ -1,8 +1,8 @@
-# ICRA 2024: grasp / dof / bin / picking
+# ICRA 2024: 机器人操作与抓取
 
 - Topic ID: `29`
 - Papers: **21** (1.21%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasp / dof / bin / picking`
 - Keyword pool: grasp; dof; bin; picking; representation; learning; loop; robotic; adaptation; detection; transfer; manipulation
 

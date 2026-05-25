@@ -1,8 +1,8 @@
-# CVPR 2021: 规划搜索与决策推理
+# CVPR 2021: 视觉语言导航与具身指令跟随
 
 - Topic ID: `49`
 - Papers: **15** (0.90%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / agent / navigate / room`
 - Keyword pool: navigation; agent; navigate; room; environment; policy; bert; reasoning; planning; goals; manipulation; vision-and-language
 

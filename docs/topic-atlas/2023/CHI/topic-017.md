@@ -1,4 +1,4 @@
-# CHI 2023: tactile / textile / affective / haptic
+# CHI 2023: 机器人触觉感知与操作
 
 - Topic ID: `17`
 - Papers: **19** (2.18%)

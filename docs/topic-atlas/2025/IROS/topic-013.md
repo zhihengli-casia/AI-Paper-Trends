@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **30** (1.52%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `grounding / object / perception / reasoning`
 - Keyword pool: grounding; object; perception; reasoning; articulated; robot; semantic; grasping; vision-language; spatial; segmentation; open-world
 

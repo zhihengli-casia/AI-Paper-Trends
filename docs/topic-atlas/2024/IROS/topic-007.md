@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **35** (2.23%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `hand / gripper / soft / finger`
 - Keyword pool: hand; gripper; soft; finger; tactile; grasping; prosthetic; mechanism; design; functional; development; inspired
 

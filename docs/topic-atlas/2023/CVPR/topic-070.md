@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **15** (0.64%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `inversion / gan / editing / latent`
 - Keyword pool: inversion; gan; editing; latent; aware; manifolds; high-fidelity; attribute; artistic; manipulation; reconstruction; radiance
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **16** (1.33%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `deformable / objects / linear / learning`
 - Keyword pool: deformable; objects; linear; learning; manipulation; folding; control; shape; case; reinforcement; offline; routing
 

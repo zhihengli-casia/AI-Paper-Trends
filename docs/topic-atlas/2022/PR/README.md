@@ -17,7 +17,7 @@
 | [003](topic-003.md) | 目标检测与图像分割 | 31 | 4.71% | 计算机视觉 | `object / detection / images / segmentation` | mSODANet: A network for multi-scale object detection in aerial images using hierarchical dilated convolutions |
 | [004](topic-004.md) | person / mml / vehicle / unsupervised | 29 | 4.41% | 计算机视觉 | `person / mml / vehicle / unsupervised` | Learning comprehensive global features in person re-identification: Ensuring discriminativeness of more local regions |
 | [005](topic-005.md) | clustering / mml / consistency / density | 25 | 3.80% | 图学习/数据挖掘 | `clustering / mml / consistency / density` | Preserving similarity order for unsupervised clustering |
-| [006](topic-006.md) | 句法语义解析与结构化表示 | 25 | 3.80% | 计算机视觉 | `recognition / parsing / character / fusion` | Synthetic document generator for annotation-free layout recognition |
+| [006](topic-006.md) | 句法语义解析与结构化表示 | 25 | 3.80% | 3D/具身/机器人 | `recognition / parsing / character / fusion` | Synthetic document generator for annotation-free layout recognition |
 | [007](topic-007.md) | label / feature selection / maximization / noise | 24 | 3.65% | 理论/优化 | `label / feature selection / maximization / noise` | Semi-supervised partial multi-label classification via consistency learning |
 | [008](topic-008.md) | kernel / discriminant / generalized / 高斯表示 | 24 | 3.65% | 可信/安全/公平 | `kernel / discriminant / generalized / gaussian` | Generalized discriminant analysis via kernel exponential families |
 | [009](topic-009.md) | 图像复原与超分辨率 | 24 | 3.65% | 计算机视觉 | `image / enhancement / multiple / degradation` | TreEnhance: A tree search method for low-light image enhancement |
@@ -43,6 +43,6 @@
 | [029](topic-029.md) | 对抗攻击、鲁棒性与安全 | 11 | 1.67% | 可信/安全/公平 | `adversarial / overfitting / medical / cnns` | A survey of robust adversarial training in pattern recognition: Fundamental, theory, and methodologies |
 | [030](topic-030.md) | feature selection / discriminative feature / adaptive graph / unsupervised | 11 | 1.67% | 图学习/数据挖掘 | `feature selection / discriminative feature / adaptive graph / unsupervised` | Unsupervised feature selection via adaptive graph and dependency score |
 | [031](topic-031.md) | 少样本细粒度视觉识别 | 10 | 1.52% | 计算机视觉 | `fine-grained / retrieval / recognition / image` | A feature consistency driven attention erasing network for fine-grained image retrieval |
-| [032](topic-032.md) | 查询理解与检索优化 | 9 | 1.37% | 系统/效率/压缩 | `adversarial / attack / black-box / example` | Query efficient black-box adversarial attack on deep neural networks |
+| [032](topic-032.md) | 对抗攻击、鲁棒性与安全 | 9 | 1.37% | 系统/效率/压缩 | `adversarial / attack / black-box / example` | Query efficient black-box adversarial attack on deep neural networks |
 | [033](topic-033.md) | 多模态学习与跨模态理解 | 9 | 1.37% | 多模态/VLM | `attention / multi-task / hybrid / dynamic` | Split ‘n’ merge net: A dynamic masking network for multi-task attention |
 | [034](topic-034.md) | 目标检测与图像分割 | 8 | 1.22% | 计算机视觉 | `waves / effects / captures / entire` | AUCO ResNet: an end-to-end network for Covid-19 pre-screening from cough and breath |

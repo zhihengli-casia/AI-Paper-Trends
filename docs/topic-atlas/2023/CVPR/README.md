@@ -12,7 +12,7 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 目标检测与图像分割 | 57 | 2.42% | 计算机视觉 | `vits / vision transformers / tokens / pruning` | Making Vision Transformers Efficient From a Token Sparsification View |
-| [001](topic-001.md) | LiDAR 点云与 3D 感知 | 55 | 2.34% | 3D/具身/机器人 | `lidar / point / clouds / segmentation` | Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving |
+| [001](topic-001.md) | 机器人视觉目标检测与域适应 | 55 | 2.34% | 3D/具身/机器人 | `lidar / point / clouds / segmentation` | Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving |
 | [002](topic-002.md) | LiDAR 点云与 3D 感知 | 54 | 2.29% | 3D/具身/机器人 | `point / cloud / sparse / voxel` | PointConvFormer: Revenge of the Point-Based Convolution |
 | [003](topic-003.md) | 对抗攻击、鲁棒性与安全 | 48 | 2.04% | 可信/安全/公平 | `attacks / adversarial / examples / robustness` | The Enemy of My Enemy Is My Friend: Exploring Inverse Adversaries for Improving Adversarial Training |
 | [004](topic-004.md) | NeRF 与神经渲染 | 47 | 2.00% | 计算机视觉 | `nerf / radiance / fields / rendering` | Removing Objects From Neural Radiance Fields |
@@ -22,10 +22,10 @@
 | [008](topic-008.md) | 目标检测与图像分割 | 40 | 1.70% | 计算机视觉 | `segmentation / instance / mask / panoptic` | OneFormer: One Transformer To Rule Universal Image Segmentation |
 | [009](topic-009.md) | action / temporal / 视频理解/生成 / recognition | 39 | 1.66% | 多模态/VLM | `action / temporal / video / recognition` | Two-Stream Networks for Weakly-Supervised Temporal Action Localization With Semantic-Aware Mechanisms |
 | [010](topic-010.md) | mim / masked / image modeling / mae | 38 | 1.61% | 计算机视觉 | `mim / masked / image modeling / mae` | Revealing the Dark Secrets of Masked Image Modeling |
-| [011](topic-011.md) | 查询理解与检索优化 | 37 | 1.57% | 计算机视觉 | `localization / pose / camera / slam` | NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization |
+| [011](topic-011.md) | 无人机/空中机器人规划与控制 | 37 | 1.57% | 3D/具身/机器人 | `localization / pose / camera / slam` | NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization |
 | [012](topic-012.md) | surface / reconstruction / implicit / rendering | 37 | 1.57% | 计算机视觉 | `surface / reconstruction / implicit / rendering` | Neural Vector Fields: Implicit Representation by Explicit Learning |
-| [013](topic-013.md) | 机器人操作与具身智能 | 36 | 1.53% | 3D/具身/机器人 | `navigation / agent / policy / instructions` | A New Path: Scaling Vision-and-Language Navigation With Synthetic Instructions and Imitation Learning |
-| [014](topic-014.md) | 目标检测与图像分割 | 35 | 1.49% | 计算机视觉 | `detr / object detection / detectors / queries` | Semi-DETR: Semi-Supervised Object Detection With Detection Transformers |
+| [013](topic-013.md) | 视觉语言导航与具身指令跟随 | 36 | 1.53% | 3D/具身/机器人 | `navigation / agent / policy / instructions` | A New Path: Scaling Vision-and-Language Navigation With Synthetic Instructions and Imitation Learning |
+| [014](topic-014.md) | 机器人视觉目标检测与域适应 | 35 | 1.49% | 计算机视觉 | `detr / object detection / detectors / queries` | Semi-DETR: Semi-Supervised Object Detection With Detection Transformers |
 | [015](topic-015.md) | 扩散生成模型 | 35 | 1.49% | 多模态/VLM | `diffusion / shape / nerf / latent` | Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures |
 | [016](topic-016.md) | 文生图生成与个性化编辑 | 35 | 1.49% | 生成模型 | `diffusion / text-to-image / layout / style` | Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation |
 | [017](topic-017.md) | classes / 少样本 / 开放集 / transductive | 34 | 1.44% | 计算机视觉 | `classes / few-shot / open-set / transductive` | Open-Set Representation Learning Through Combinatorial Embedding |
@@ -41,9 +41,9 @@
 | [027](topic-027.md) | 深度估计与立体匹配 | 29 | 1.23% | 计算机视觉 | `depth / stereo / radar / estimation` | A Practical Stereo Depth System for Smart Glasses |
 | [028](topic-028.md) | hand / pose / mesh / interacting | 29 | 1.23% | 计算机视觉 | `hand / pose / mesh / interacting` | Handy: Towards a High Fidelity 3D Hand Shape and Appearance Model |
 | [029](topic-029.md) | NeRF 与神经渲染 | 28 | 1.19% | 其他/交叉主题 | `inverse rendering / lighting / reflectance / illumination` | WildLight: In-the-Wild Inverse Rendering With a Flashlight |
-| [030](topic-030.md) | 对抗攻击、鲁棒性与安全 | 28 | 1.19% | 可信/安全/公平 | `forgery / face / fake / privacy` | Evading Forensic Classifiers With Attribute-Conditioned Adversarial Faces |
+| [030](topic-030.md) | 对抗攻击、鲁棒性与安全 | 28 | 1.19% | 3D/具身/机器人 | `forgery / face / fake / privacy` | Evading Forensic Classifiers With Attribute-Conditioned Adversarial Faces |
 | [031](topic-031.md) | 零样本分类与跨模态识别 | 28 | 1.19% | 多模态/VLM | `zero-shot / clip / image captioning / language-image` | Non-Contrastive Learning Meets Language-Image Pre-Training |
-| [032](topic-032.md) | 机器人操作与具身智能 | 27 | 1.15% | 3D/具身/机器人 | `animal / pose / articulated / grasp` | Learning Articulated Shape With Keypoint Pseudo-Labels From Web Images |
+| [032](topic-032.md) | 机器人操作与抓取 | 27 | 1.15% | 3D/具身/机器人 | `animal / pose / articulated / grasp` | Learning Articulated Shape With Keypoint Pseudo-Labels From Web Images |
 | [033](topic-033.md) | continual learning / plasticity / forgetting / replay | 27 | 1.15% | 系统/效率/压缩 | `continual learning / plasticity / forgetting / replay` | Real-Time Evaluation in Online Continual Learning: A New Hope |
 | [034](topic-034.md) | 深度估计与立体匹配 | 26 | 1.10% | 计算机视觉 | `flow / stereo / optical / matching` | Rethinking Optical Flow From Geometric Matching Consistent Perspective |
 | [035](topic-035.md) | 扩散生成模型 | 25 | 1.06% | 生成模型 | `diffusion / generative / denoising / inversion` | On Distillation of Guided Diffusion Models |
@@ -77,14 +77,14 @@
 | [063](topic-063.md) | ood / out-of-distribution / in-distribution / worst-case | 16 | 0.68% | 计算机视觉 | `ood / out-of-distribution / in-distribution / worst-case` | Rethinking Out-of-Distribution (OOD) Detection: Masked Image Modeling Is All You Need |
 | [064](topic-064.md) | 长尾 / classes / curvature / balanced | 16 | 0.68% | 计算机视觉 | `long-tailed / classes / curvature / balanced` | No One Left Behind: Improving the Worst Categories in Long-Tailed Learning |
 | [065](topic-065.md) | crowd / semi-supervised / ssl / unlabeled | 16 | 0.68% | 系统/效率/压缩 | `crowd / semi-supervised / ssl / unlabeled` | MarginMatch: Improving Semi-Supervised Learning with Pseudo-Margins |
-| [066](topic-066.md) | 目标检测与图像分割 | 16 | 0.68% | 计算机视觉 | `calibration / uncertainty / mixup / salient object` | Modeling the Distributional Uncertainty for Salient Object Detection Models |
+| [066](topic-066.md) | 机器人视觉目标检测与域适应 | 16 | 0.68% | 计算机视觉 | `calibration / uncertainty / mixup / salient object` | Modeling the Distributional Uncertainty for Salient Object Detection Models |
 | [067](topic-067.md) | human / pose / 运动建模 / egocentric | 16 | 0.68% | 计算机视觉 | `human / pose / motion / egocentric` | SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments |
 | [068](topic-068.md) | 多模态学习与跨模态理解 | 16 | 0.68% | 多模态/VLM | `modality / multimodal / modalities / cross-modal` | Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens |
 | [071](topic-071.md) | 目标检测与图像分割 | 15 | 0.64% | 计算机视觉 | `segmentation / zero-shot / background / instance` | Primitive Generation and Semantic-Related Alignment for Universal Zero-Shot Segmentation |
 | [069](topic-069.md) | 推理 / compositional / language / concepts | 15 | 0.64% | 计算机视觉 | `reasoning / compositional / language / concepts` | Divide and Conquer: Answering Questions With Object Factorization and Compositional Reasoning |
 | [075](topic-075.md) | noisy labels / learning noisy / multi-label / noise samples | 15 | 0.64% | 可信/安全/公平 | `noisy labels / learning noisy / multi-label / noise samples` | Fine-Grained Classification With Noisy Labels |
 | [072](topic-072.md) | 视频理解/生成 / masked / shadow / temporal | 15 | 0.64% | 计算机视觉 | `video / masked / shadow / temporal` | Masked Video Distillation: Rethinking Masked Feature Modeling for Self-Supervised Video Representation Learning |
-| [070](topic-070.md) | NeRF 与神经渲染 | 15 | 0.64% | 计算机视觉 | `inversion / gan / editing / latent` | High-Fidelity 3D GAN Inversion by Pseudo-Multi-View Optimization |
+| [070](topic-070.md) | NeRF 与神经渲染 | 15 | 0.64% | 3D/具身/机器人 | `inversion / gan / editing / latent` | High-Fidelity 3D GAN Inversion by Pseudo-Multi-View Optimization |
 | [074](topic-074.md) | 语音/音频语言模型 | 15 | 0.64% | 生成模型 | `motion / gestures / dance / diffusion` | Executing Your Commands via Motion Diffusion in Latent Space |
 | [076](topic-076.md) | 语音/音频语言模型 | 15 | 0.64% | 生成模型 | `talking / face / lip / audio` | LipFormer: High-Fidelity and Generalizable Talking Face Generation With a Pre-Learned Facial Codebook |
 | [077](topic-077.md) | relighting / albedo / facial / face | 15 | 0.64% | 系统/效率/压缩 | `relighting / albedo / facial / face` | FaceLit: Neural 3D Relightable Faces |
@@ -102,10 +102,10 @@
 | [088](topic-088.md) | 公平性、偏见与可信 AI | 12 | 0.51% | 可信/安全/公平 | `bias / subnetworks / augmentation / attribute` | BiasBed - Rigorous Texture Bias Evaluation |
 | [089](topic-089.md) | assessment / image quality / aesthetic / face | 12 | 0.51% | 多模态/VLM | `assessment / image quality / aesthetic / face` | An Image Quality Assessment Dataset for Portraits |
 | [090](topic-090.md) | 自动驾驶感知与世界模型 | 12 | 0.51% | 3D/具身/机器人 | `driving / perception / autonomous / cooperative` | Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving |
-| [092](topic-092.md) | 查询理解与检索优化 | 12 | 0.51% | 多模态/VLM | `grounding / video / temporal / sentence` | WINNER: Weakly-Supervised hIerarchical decompositioN and aligNment for Spatio-tEmporal Video gRounding |
+| [092](topic-092.md) | grounding / 视频理解/生成 / temporal / sentence | 12 | 0.51% | 多模态/VLM | `grounding / video / temporal / sentence` | WINNER: Weakly-Supervised hIerarchical decompositioN and aligNment for Spatio-tEmporal Video gRounding |
 | [087](topic-087.md) | NeRF 与神经渲染 | 12 | 0.51% | 计算机视觉 | `generative / scene / aware image synthesis / intrinsics` | Patch-Based 3D Natural Scene Generation From a Single Example |
 | [093](topic-093.md) | 视频动作生成与运动控制 | 12 | 0.51% | 系统/效率/压缩 | `coding / video compression / motion / videos` | Towards Scalable Neural Representation for Diverse Videos |
-| [094](topic-094.md) | 目标检测与图像分割 | 12 | 0.51% | 计算机视觉 | `segmentation / cross-category / parts / semantic image` | Towards Open-World Segmentation of Parts |
+| [094](topic-094.md) | 目标检测与图像分割 | 12 | 0.51% | 3D/具身/机器人 | `segmentation / cross-category / parts / semantic image` | Towards Open-World Segmentation of Parts |
 | [095](topic-095.md) | 多智能体协作与规划 | 12 | 0.51% | 强化学习/决策 | `trajectory prediction / multi-agent / motion prediction / future trajectories` | MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion |
 | [096](topic-096.md) | 深度估计与立体匹配 | 11 | 0.47% | 其他/交叉主题 | `imaging / measurements / scattering / scanning` | Role of Transients in Two-Bounce Non-Line-of-Sight Imaging |
 | [097](topic-097.md) | spectral / burst / resampling / isp | 11 | 0.47% | 计算机视觉 | `spectral / burst / resampling / isp` | Kernel Aware Resampler |

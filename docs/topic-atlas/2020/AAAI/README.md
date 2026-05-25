@@ -46,7 +46,7 @@
 | [032](topic-032.md) | language / sentence / simplification / mixup | 19 | 1.19% | LLM/语言模型 | `language / sentence / simplification / mixup` | Rethinking Generalization of Neural Models: A Named Entity Recognition Case Study |
 | [033](topic-033.md) | 隐私保护与安全学习 | 18 | 1.12% | 可信/安全/公平 | `road / imagery / sensor / gait` | RoadTagger: Robust Road Attribute Inference with Graph Neural Networks |
 | [034](topic-034.md) | 医疗健康与临床 AI | 18 | 1.12% | AI4Science/医疗 | `clinical / patients / medical / health` | Doctor2Vec: Dynamic Doctor Representation Learning for Clinical Trial Recruitment |
-| [035](topic-035.md) | 机器人操作与具身智能 | 17 | 1.06% | 强化学习/决策 | `reinforcement learning / policy / value / cancer` | Count-Based Exploration with the Successor Representation |
+| [035](topic-035.md) | 机器人操作与具身智能 | 17 | 1.06% | 3D/具身/机器人 | `reinforcement learning / policy / value / cancer` | Count-Based Exploration with the Successor Representation |
 | [036](topic-036.md) | active learning / labeling / instances / option | 17 | 1.06% | 其他/交叉主题 | `active learning / labeling / instances / option` | Asking the Right Questions to the Right Users: Active Learning with Imperfect Oracles |
 | [037](topic-037.md) | continual / sharing / forgetting / brain | 17 | 1.06% | 系统/效率/压缩 | `continual / sharing / forgetting / brain` | DNNs as Layers of Cooperating Classifiers |
 | [038](topic-038.md) | tracking / tracker / object / 运动建模 | 17 | 1.06% | 计算机视觉 | `tracking / tracker / object / motion` | SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines |
@@ -62,10 +62,10 @@
 | [050](topic-050.md) | 问答生成、阅读理解与答案选择 | 15 | 0.94% | NLP任务 | `answer / question / selection / medical` | Generating Well-Formed Answers by Machine Reading with Stochastic Selector Networks |
 | [051](topic-051.md) | pruning / weight / compression / structured | 15 | 0.94% | 系统/效率/压缩 | `pruning / weight / compression / structured` | DARB: A Density-Adaptive Regular-Block Pruning for Deep Neural Networks |
 | [047](topic-047.md) | sat / solvers / constraints / canonical | 15 | 0.94% | 推荐/检索/排序 | `sat / solvers / constraints / canonical` | FourierSAT: A Fourier Expansion-Based Algebraic Framework for Solving Hybrid Boolean Constraints |
-| [048](topic-048.md) | 代码生成与程序理解 | 15 | 0.94% | LLM/语言模型 | `logic / programs / programming / forgetting` | Structural Decompositions of Epistemic Logic Programs |
+| [048](topic-048.md) | logic / programs / programming / forgetting | 15 | 0.94% | LLM/语言模型 | `logic / programs / programming / forgetting` | Structural Decompositions of Epistemic Logic Programs |
 | [055](topic-055.md) | 细粒度视觉分类与识别 | 14 | 0.87% | 计算机视觉 | `fine-grained / image / teaching / classification` | Fine-Grained Recognition: Accounting for Subtle Differences between Similar Classes |
 | [054](topic-054.md) | 多模态学习与跨模态理解 | 14 | 0.87% | 多模态/VLM | `retrieval / image / cross-modal / multimodal` | Learning Cross-Aligned Latent Embeddings for Zero-Shot Cross-Modal Retrieval |
-| [053](topic-053.md) | 查询理解与检索优化 | 14 | 0.87% | 推荐/检索/排序 | `query / ontology / ontologies / answers` | Query Rewriting for Ontology-Mediated Conditional Answers |
+| [053](topic-053.md) | query / ontology / ontologies / answers | 14 | 0.87% | 推荐/检索/排序 | `query / ontology / ontologies / answers` | Query Rewriting for Ontology-Mediated Conditional Answers |
 | [052](topic-052.md) | spiking / spectrum / recurrent / gate | 14 | 0.87% | 生成模型 | `spiking / spectrum / recurrent / gate` | Temporal Pyramid Recurrent Neural Network |
 | [056](topic-056.md) | 公平性、偏见与可信 AI | 13 | 0.81% | 可信/安全/公平 | `fairness / discrimination / hiring / biases` | A General Approach to Fairness with Optimal Transport |
 | [057](topic-057.md) | 强化学习算法与理论 | 13 | 0.81% | 强化学习/决策 | `attack / adversary / defender / security` | Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning |

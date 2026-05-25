@@ -1,4 +1,4 @@
-# NeurIPS 2023: object / detection / detectors / category
+# NeurIPS 2023: 机器人视觉目标检测与域适应
 
 - Topic ID: `107`
 - Papers: **12** (0.37%)

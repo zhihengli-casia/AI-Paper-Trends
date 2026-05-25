@@ -1,8 +1,8 @@
-# IROS 2021: 自动驾驶感知与世界模型
+# IROS 2021: navigation / avoidance / obstacle / deep
 
 - Topic ID: `5`
 - Papers: **32** (3.14%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / avoidance / obstacle / deep`
 - Keyword pool: navigation; avoidance; obstacle; deep; autonomous; barrier functions; control barrier; environments; prediction; learning; pedestrian; reinforcement
 

@@ -1,4 +1,4 @@
-# AIJ 2023: 查询理解与检索优化
+# AIJ 2023: query / answer / problems / diagnosis
 
 - Topic ID: `2`
 - Papers: **13** (10.48%)

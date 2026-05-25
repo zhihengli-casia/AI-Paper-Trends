@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **19** (1.39%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / nonlinear / learning / neural`
 - Keyword pool: control; nonlinear; learning; neural; visual servoing; identification; robotic; inertial; surface; predictive; estimation; dynamics
 

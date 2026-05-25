@@ -1,8 +1,8 @@
-# IROS 2023: learning / manipulation / grasp / object
+# IROS 2023: 机器人操作与抓取
 
 - Topic ID: `3`
 - Papers: **34** (2.87%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / manipulation / grasp / object`
 - Keyword pool: learning; manipulation; grasp; object; robotic; deep; reinforcement; prediction; multi-fingered; affordances; instructions; pose
 

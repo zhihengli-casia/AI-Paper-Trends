@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **24** (1.01%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `agent / embodied / reinforcement learning / planning`
 - Keyword pool: agent; embodied; reinforcement learning; planning; robot; navigation; environment; reasoning; executable; instructions; reward; actions
 

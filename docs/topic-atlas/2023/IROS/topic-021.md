@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **22** (1.86%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-agent / reinforcement / learning / planning`
 - Keyword pool: multi-agent; reinforcement; learning; planning; vehicle; electric; constrained; path; coverage; scalable; optimization; global
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **17** (1.62%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `agent / embodied / language / negotiation`
 - Keyword pool: agent; embodied; language; negotiation; llms; planning; llm-based; proactive; manufacturing; tool; computer; dialogue
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **31** (4.49%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `style / stylized / sketch / editing`
 - Keyword pool: style; stylized; sketch; editing; manipulation; content; synthesis; characters; face; attribute; few-shot; latent
 

@@ -1,8 +1,8 @@
-# IROS 2025: haptic / teleoperation / immersive / feedback
+# IROS 2025: 机器人触觉感知与操作
 
 - Topic ID: `75`
 - Papers: **12** (0.61%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `haptic / teleoperation / immersive / feedback`
 - Keyword pool: haptic; teleoperation; immersive; feedback; robotic; tactile; virtual reality; device; interface; interaction; human-machine; exploration dynamic
 

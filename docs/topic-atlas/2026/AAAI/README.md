@@ -21,7 +21,7 @@
 | [007](topic-007.md) | 视频扩散生成与运动控制 | 72 | 1.74% | 生成模型 | `mesh / reconstruction / avatar / geometry` | Deep Inverse Shading: Consistent Albedo and Surface Detail Recovery via Generative Refinement |
 | [008](topic-008.md) | 视频扩散生成与运动控制 | 72 | 1.74% | 生成模型 | `video / diffusion / motion / flow` | MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models |
 | [009](topic-009.md) | LLM Agent 与工具使用 | 69 | 1.66% | 系统/效率/压缩 | `agents / fairness / goods / valuations` | Computing Approximately Proportional Allocations of Indivisible Goods: Beyond Additive and Monotone Valuations |
-| [010](topic-010.md) | 视频动作生成与运动控制 | 69 | 1.66% | 多模态/VLM | `motion / pose / action / hoi` | MotionCharacter: Fine-Grained Motion Controllable Human Video Generation |
+| [010](topic-010.md) | 人形机器人与全身控制 | 69 | 1.66% | 多模态/VLM | `motion / pose / action / hoi` | MotionCharacter: Fine-Grained Motion Controllable Human Video Generation |
 | [011](topic-011.md) | 视觉语言模型与多模态理解 | 68 | 1.64% | 多模态/VLM | `clip / prompt / vision-language / vlms` | Generalizing Vision-Language Models with Dedicated Prompt Guidance |
 | [012](topic-012.md) | 多模态情感理解 | 67 | 1.61% | 多模态/VLM | `emotional / sentiment / multimodal / modality` | Enhancing Meme Emotion Understanding with Multi-Level Modality Enhancement and Dual-Stage Modal Fusion |
 | [013](topic-013.md) | 推荐系统与用户建模 | 67 | 1.61% | 推荐/检索/排序 | `recommendation / user / recommender / item` | SGP4SR: Separated-Modality Guided User Preference Learning for Multimodal Sequential Recommendation |
@@ -44,11 +44,11 @@
 | [030](topic-030.md) | 多语言建模与跨语言迁移 | 46 | 1.11% | LLM/语言模型 | `llms / multilingual / languages / chinese` | Multi-level Style Preference Optimization: An Adaptive Detection Framework for Human-Machine Hybrid Text |
 | [031](topic-031.md) | 点云表示与 3D 感知 | 45 | 1.08% | 多模态/VLM | `point cloud / geometric / clouds / scene` | PointMC: Multi-view Consistent Encoding and Center-Global Feature Fusion for Point Clouds Understanding |
 | [032](topic-032.md) | 病理图像与临床 AI | 45 | 1.08% | 多模态/VLM | `medical / clinical / diagnosis / diagnostic` | MedOmni-45°: A Safety–Performance Benchmark for Reasoning-Oriented LLMs in Medicine |
-| [035](topic-035.md) | forgery / image / ai-generated / deepfake | 43 | 1.04% | 多模态/VLM | `forgery / image / ai-generated / deepfake` | Identity-Aware Vision-Language Model for Explainable Face Forgery Detection |
-| [036](topic-036.md) | 具身智能与物理交互 | 43 | 1.04% | 强化学习/决策 | `gui / agents / embodied / grounding` | How Foundational Skills Influence VLM-based Embodied Agents: A Native Perspective |
+| [035](topic-035.md) | forgery / image / ai-generated / deepfake | 43 | 1.04% | 3D/具身/机器人 | `forgery / image / ai-generated / deepfake` | Identity-Aware Vision-Language Model for Explainable Face Forgery Detection |
+| [036](topic-036.md) | 具身智能与物理交互 | 43 | 1.04% | 3D/具身/机器人 | `gui / agents / embodied / grounding` | How Foundational Skills Influence VLM-based Embodied Agents: A Native Perspective |
 | [033](topic-033.md) | asp / proof / sat / ltlf | 43 | 1.04% | 系统/效率/压缩 | `asp / proof / sat / ltlf` | Proof Systems That Tightly Characterise Model Counting Algorithms |
 | [034](topic-034.md) | 扩散生成模型 | 43 | 1.04% | 生成模型 | `diffusion / image / vein / autoregressive` | Towards Spatially Consistent Image Generation: On Incorporating Intrinsic Scene Properties into Diffusion Models |
-| [037](topic-037.md) | 视频动作生成与运动控制 | 42 | 1.01% | 多模态/VLM | `motion / tracking / trackers / multi-object` | Motion-Aware Object Tracking via Motion and Geometry-Aware Cues |
+| [037](topic-037.md) | 无人机/四旋翼规划与控制 | 42 | 1.01% | 3D/具身/机器人 | `motion / tracking / trackers / multi-object` | Motion-Aware Object Tracking via Motion and Geometry-Aware Cues |
 | [038](topic-038.md) | 规划搜索与决策推理 | 42 | 1.01% | LLM/语言模型 | `solvers / problems / branching / combinatorial optimization` | UCPO: A Universal Constrained Combinatorial Optimization Method via Preference Optimization |
 | [039](topic-039.md) | spiking / snns / spike / neural networks | 41 | 0.99% | 系统/效率/压缩 | `spiking / snns / spike / neural networks` | Activation-wise Propagation: A One-Timestep Strategy for Spiking Neural Networks |
 | [040](topic-040.md) | 规划搜索与决策推理 | 40 | 0.96% | 强化学习/决策 | `planning / policies / policy / markov` | Good-for-MDP State Reduction for Stochastic LTL Planning |
@@ -68,7 +68,7 @@
 | [054](topic-054.md) | 强化学习算法与理论 | 33 | 0.80% | 强化学习/决策 | `marl / multi-agent / agents / cooperative` | CAMAR: Continuous Actions Multi-Agent Routing |
 | [055](topic-055.md) | 目标检测与图像分割 | 33 | 0.80% | 计算机视觉 | `remote sensing / change detection / segmentation / vfms` | Any-Optical-Model: A Universal Foundation Model for Optical Remote Sensing |
 | [056](topic-056.md) | 医疗健康与临床 AI | 32 | 0.77% | 多模态/VLM | `report generation / clinical / radiology / medical` | S2D-Align: Shallow-to-Deep Auxiliary Learning for Anatomically-Grounded Radiology Report Generation |
-| [057](topic-057.md) | 具身智能与物理交互 | 32 | 0.77% | 多模态/VLM | `navigation / instructions / vln / vision-and-language` | CoT-VLNBench: A Benchmark for Visual Chain-of-Thought Reasoning in Vision-Language-Navigation Robots |
+| [057](topic-057.md) | 视觉语言导航与具身指令跟随 | 32 | 0.77% | 3D/具身/机器人 | `navigation / instructions / vln / vision-and-language` | CoT-VLNBench: A Benchmark for Visual Chain-of-Thought Reasoning in Vision-Language-Navigation Robots |
 | [058](topic-058.md) | 多模态学习与跨模态理解 | 32 | 0.77% | 多模态/VLM | `multimodal / modalities / modality / cross-modal` | To Align or Not to Align: Strategic Multimodal Representation Alignment for Optimal Performance |
 | [059](topic-059.md) | gene / cell / biological / expression | 32 | 0.77% | 多模态/VLM | `gene / cell / biological / expression` | Learning to Cluster Rare Cell Types: Implicit Semantic Data Augmentation for Spatial Multi-modal Omics Analysis |
 | [060](topic-060.md) | 机器翻译与跨语言对齐 | 32 | 0.77% | 语音/音频/音乐 | `speech / tts / acoustic / audio` | Multi-Metric Preference Alignment for Generative Speech Restoration |
@@ -76,7 +76,7 @@
 | [062](topic-062.md) | moe / expert / merging / routing | 31 | 0.75% | 系统/效率/压缩 | `moe / expert / merging / routing` | FIRM-MoE:Fine-GrainedExpert Decomposition for Resource-Adaptive MoE Inference |
 | [063](topic-063.md) | 目标检测与图像分割 | 30 | 0.72% | 计算机视觉 | `segmentation / sam / image / css` | X-SAM: From Segment Anything to Any Segmentation |
 | [064](topic-064.md) | shape / geometric / deformation / geometry | 30 | 0.72% | 3D/具身/机器人 | `shape / geometric / deformation / geometry` | Probabilistic Deformation Consistency for Unsupervised Shape Matching |
-| [065](topic-065.md) | manipulation / grasping / dexterous / robotic | 29 | 0.70% | 多模态/VLM | `manipulation / grasping / dexterous / robotic` | Learning Object-Centric Motion Priors from Human for Robotic Dexterous Manipulation |
+| [065](topic-065.md) | 机器人操作与抓取 | 29 | 0.70% | 3D/具身/机器人 | `manipulation / grasping / dexterous / robotic` | Learning Object-Centric Motion Priors from Human for Robotic Dexterous Manipulation |
 | [066](topic-066.md) | underwater / image / quality assessment / aesthetic | 29 | 0.70% | 多模态/VLM | `underwater / image / quality assessment / aesthetic` | UQ-Bench: A Benchmark for Evaluating Multimodal LLMs on Underwater Image Quality Assessment |
 | [067](topic-067.md) | 扩散生成模型 | 28 | 0.67% | 系统/效率/压缩 | `diffusion / image / restoration / reconstruction` | Realism Control One-step Diffusion for Real-world Image Super Resolution |
 | [068](topic-068.md) | 扩散生成模型 | 28 | 0.67% | 生成模型 | `traffic / spatio-temporal / urban / trajectory` | Meta Dynamic Graph for Traffic Flow Prediction |
@@ -99,7 +99,7 @@
 | [085](topic-085.md) | 文档摘要与信息压缩 | 22 | 0.53% | 推荐/检索/排序 | `argumentation / arguments / logics / explanations` | Under-Approximating Semantics in Clustered Assumption-Based Argumentation |
 | [086](topic-086.md) | 多模态大模型与视觉语言推理 | 22 | 0.53% | 多模态/VLM | `concepts / copyright / image / vision-language` | Retrieval-driven Reasoning for Deliberative Visual Classification |
 | [087](topic-087.md) | 多模态大模型与视觉语言推理 | 22 | 0.53% | LLM/语言模型 | `multimodal / mllms / creativity / chart` | MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models |
-| [088](topic-088.md) | 视觉语言动作模型与具身操作 | 22 | 0.53% | LLM/语言模型 | `vla / action / robotic / manipulation` | Towards Efficient and Robust Manipulation via Multi-Frame Vision-Language-Action Modeling |
+| [088](topic-088.md) | 机器人操作与抓取 | 22 | 0.53% | 3D/具身/机器人 | `vla / action / robotic / manipulation` | Towards Efficient and Robust Manipulation via Multi-Frame Vision-Language-Action Modeling |
 | [090](topic-090.md) | 检索 / cir / cross-modal / composed image | 21 | 0.51% | 多模态/VLM | `retrieval / cir / cross-modal / composed image` | INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval |
 | [089](topic-089.md) | 目标检测与图像分割 | 21 | 0.51% | 计算机视觉 | `scene / segmentation / gaze / cross-view` | PC-CrossDiff: Point-Cluster Dual-Level Cross-Modal Differential Attention for Unified 3D Referring and Segmentation |
 | [092](topic-092.md) | LiDAR 点云与 3D 感知 | 21 | 0.51% | 3D/具身/机器人 | `radar / lidar / weather / motion` | RadarMP: Motion Perception for 4D mmWave Radar in Autonomous Driving |

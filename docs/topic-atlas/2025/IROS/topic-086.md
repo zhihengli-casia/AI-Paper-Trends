@@ -1,8 +1,8 @@
-# IROS 2025: grasping / fabric / manipulation / learning generalizable
+# IROS 2025: 机器人操作与抓取
 
 - Topic ID: `86`
 - Papers: **11** (0.56%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasping / fabric / manipulation / learning generalizable`
 - Keyword pool: grasping; fabric; manipulation; learning generalizable; bimanual; robotic; demonstrations learning; capture; structure learning; language-conditioned; low-light conditions; long
 

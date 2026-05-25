@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **18** (1.52%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `object / cluttered / manipulation planning / manipulators`
 - Keyword pool: object; cluttered; manipulation planning; manipulators; optimal; heterogeneous; mobile; context-aware; graph neural networks; materials; carlo tree; learning visual
 

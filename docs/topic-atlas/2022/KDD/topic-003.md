@@ -1,4 +1,4 @@
-# KDD 2022: 查询理解与检索优化
+# KDD 2022: extraction / explanation / urban / momentum
 
 - Topic ID: `3`
 - Papers: **22** (8.70%)

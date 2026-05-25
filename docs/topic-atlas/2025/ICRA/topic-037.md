@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **20** (1.26%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / reinforcement / object / learning`
 - Keyword pool: manipulation; reinforcement; object; learning; pushing; diffusion policy; deep; transport; impedance control; dynamic; generalizable; interactive
 

@@ -1,8 +1,8 @@
-# ICRA 2025: 自动驾驶感知与世界模型
+# ICRA 2025: 水下机器人与海洋自主系统
 
 - Topic ID: `38`
 - Papers: **19** (1.19%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `underwater / control / vehicle / sensor fusion`
 - Keyword pool: underwater; control; vehicle; sensor fusion; autonomous; mode; fault; velocity; learning; robot; hybrid; reinforcement
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `55`
 - Papers: **14** (0.80%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `motion forecasting / pedestrian / prediction / trajectory`
 - Keyword pool: motion forecasting; pedestrian; prediction; trajectory; crowd; behaviors; multi-agent; human; network; learning; spatial-temporal; future
 

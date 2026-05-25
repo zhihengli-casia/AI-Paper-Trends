@@ -2,7 +2,7 @@
 
 - Topic ID: `94`
 - Papers: **10** (0.51%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `semantic segmentation / coarse / rgb-t / space`
 - Keyword pool: semantic segmentation; coarse; rgb-t; space; furnace; scene semantic; area; text-driven; labels; semantic enhancement; unification; rgb-d
 

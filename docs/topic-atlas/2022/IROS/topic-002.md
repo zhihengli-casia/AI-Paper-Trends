@@ -1,8 +1,8 @@
-# IROS 2022: 规划搜索与决策推理
+# IROS 2022: 时序逻辑约束下的机器人任务规划
 
 - Topic ID: `2`
 - Papers: **32** (2.66%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / temporal logic / path / belief`
 - Keyword pool: planning; temporal logic; path; belief; probabilistic; tree; dynamic; receding; stochastic; transition; horizon; roadmap
 

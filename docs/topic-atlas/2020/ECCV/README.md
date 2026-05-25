@@ -30,7 +30,7 @@
 | [015](topic-015.md) | 查询理解与检索优化 | 24 | 1.77% | 推荐/检索/排序 | `metric learning / deep metric / negatives / cross-entropy` | Learning and Aggregating Deep Local Descriptors for Instance-level Recognition |
 | [019](topic-019.md) | 对抗攻击、鲁棒性与安全 | 24 | 1.77% | 计算机视觉 | `tracking / trackers / attack / gaze` | Tracking Objects as Points |
 | [017](topic-017.md) | facial / face / expression / editing | 24 | 1.77% | 生成模型 | `facial / face / expression / editing` | Learning to Generate Customized Dynamic 3D Facial Expressions |
-| [018](topic-018.md) | 查询理解与检索优化 | 24 | 1.77% | NLP任务 | `segmentation / instance / mask / r-cnn` | SOLO: Segmenting Objects by Locations |
+| [018](topic-018.md) | 目标检测与图像分割 | 24 | 1.77% | NLP任务 | `segmentation / instance / mask / r-cnn` | SOLO: Segmenting Objects by Locations |
 | [020](topic-020.md) | forgetting / incremental / catastrophic / continual learning | 23 | 1.69% | 系统/效率/压缩 | `forgetting / incremental / catastrophic / continual learning` | Adversarial Continual Learning |
 | [021](topic-021.md) | polarization / imaging / light / reconstruction | 22 | 1.62% | 计算机视觉 | `polarization / imaging / light / reconstruction` | Reflection Separation via Multi-bounce Polarization State Tracing |
 | [024](topic-024.md) | layout / room / road / planes | 22 | 1.62% | 计算机视觉 | `layout / room / road / planes` | Vectorizing World Buildings: Planar Graph Reconstruction by Primitive Detection and Relationship Inference |
@@ -43,7 +43,7 @@
 | [031](topic-031.md) | 图像复原与超分辨率 | 18 | 1.33% | 多模态/VLM | `super-resolution / degradation / low-resolution / sisr` | Fast Adaptation to Super-Resolution Networks via Meta-Learning |
 | [032](topic-032.md) | 句法语义解析与结构化表示 | 18 | 1.33% | 图学习/数据挖掘 | `scene graph / parsing / graphs / grammar` | GINet: Graph Interaction Network for Scene Parsing |
 | [033](topic-033.md) | 目标检测与图像分割 | 18 | 1.33% | 计算机视觉 | `segmentation / weakly supervised / image-level / boundary` | Weakly Supervised Semantic Segmentation with Boundary Exploration |
-| [029](topic-029.md) | 具身智能与物理交互 | 18 | 1.33% | 多模态/VLM | `navigation / agent / environments / policy` | Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments |
+| [029](topic-029.md) | 视觉语言导航与具身指令跟随 | 18 | 1.33% | 3D/具身/机器人 | `navigation / agent / environments / policy` | Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments |
 | [030](topic-030.md) | 运动建模 / human / crowd / trajectory | 18 | 1.33% | 计算机视觉 | `motion / human / crowd / trajectory` | Contact and Human Dynamics from Monocular Video |
 | [034](topic-034.md) | 深度估计与立体匹配 | 17 | 1.25% | 计算机视觉 | `salient object detection / depth / rgb-d / saliency` | Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection |
 | [035](topic-035.md) | 多模态学习与跨模态理解 | 17 | 1.25% | 多模态/VLM | `story / video / movie / captions` | MovieNet: A Holistic Dataset for Movie Understanding |
@@ -77,7 +77,7 @@
 | [063](topic-063.md) | captioning / captions / language / sign | 11 | 0.81% | 计算机视觉 | `captioning / captions / language / sign` | Towards Unique and Informative Captioning of Images |
 | [064](topic-064.md) | 视觉语言模型与多模态理解 | 11 | 0.81% | 多模态/VLM | `image-text / retrieval / attributes / fashion` | Learning Joint Visual Semantic Matching Embeddings for Language-guided Retrieval |
 | [065](topic-065.md) | 机器翻译与跨语言对齐 | 10 | 0.74% | 生成模型 | `gans / rules / generative / compression` | High-Fidelity Synthesis with Disentangled Representation |
-| [066](topic-066.md) | semantic maps / conditional image / inpainting / editing | 10 | 0.74% | 生成模型 | `semantic maps / conditional image / inpainting / editing` | Controlling Style and Semantics in Weakly-Supervised Image Generation |
+| [066](topic-066.md) | semantic maps / conditional image / inpainting / editing | 10 | 0.74% | 3D/具身/机器人 | `semantic maps / conditional image / inpainting / editing` | Controlling Style and Semantics in Weakly-Supervised Image Generation |
 | [067](topic-067.md) | 句法语义解析与结构化表示 | 10 | 0.74% | 多模态/VLM | `audio / sound / video / scene recognition` | Multiple Sound Sources Localization from Coarse to Fine |
 | [068](topic-068.md) | 深度估计与立体匹配 | 9 | 0.66% | 3D/具身/机器人 | `view synthesis / depth / rendering / colorization` | Free View Synthesis |
 | [069](topic-069.md) | crowd / counting / density / pedestrian | 9 | 0.66% | 其他/交叉主题 | `crowd / counting / density / pedestrian` | Semi-Supervised Crowd Counting via Self-Training on Surrogate Tasks |

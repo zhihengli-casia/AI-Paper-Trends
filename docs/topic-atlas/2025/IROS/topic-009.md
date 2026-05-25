@@ -1,8 +1,8 @@
-# IROS 2025: 自动驾驶感知与世界模型
+# IROS 2025: slam / parking / mapping / indoor environments
 
 - Topic ID: `9`
 - Papers: **31** (1.57%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `slam / parking / mapping / indoor environments`
 - Keyword pool: slam; parking; mapping; indoor environments; semantic; visual; dense; autonomous; hd map construction; robust; large-scale; loop closure
 

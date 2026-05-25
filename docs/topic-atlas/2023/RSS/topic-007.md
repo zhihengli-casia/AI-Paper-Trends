@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **8** (7.27%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `objects / contact / manipulation / control`
 - Keyword pool: objects; contact; manipulation; control; adaptive; trajectory; scale; real-world; optimization; unknown; mobile; fleet
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **31** (2.96%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `agents / cooperation / social / norms`
 - Keyword pool: agents; cooperation; social; norms; human; advice; robot; competition; recourse; dilemma; multi-agent; games
 

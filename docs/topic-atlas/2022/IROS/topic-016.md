@@ -1,8 +1,8 @@
-# IROS 2022: 机器人操作与具身智能
+# IROS 2022: 机器人操作与抓取
 
 - Topic ID: `16`
 - Papers: **23** (1.91%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / reinforcement / robotic manipulation / skill`
 - Keyword pool: learning; reinforcement; robotic manipulation; skill; policy; multi-level; demonstration; action; robot manipulation; manipulator; trajectory; offline
 

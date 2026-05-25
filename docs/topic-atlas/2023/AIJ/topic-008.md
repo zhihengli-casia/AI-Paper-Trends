@@ -1,4 +1,4 @@
-# AIJ 2023: 查询理解与检索优化
+# AIJ 2023: schema / language / contrastive / family
 
 - Topic ID: `8`
 - Papers: **7** (5.65%)

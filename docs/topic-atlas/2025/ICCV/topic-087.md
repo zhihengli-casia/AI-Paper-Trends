@@ -2,7 +2,7 @@
 
 - Topic ID: `87`
 - Papers: **14** (0.52%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `attack / adversarial / safety / t2i`
 - Keyword pool: attack; adversarial; safety; t2i; vlp; vulnerabilities; success rates; gleam; robotic; vlms; vla; transferability
 

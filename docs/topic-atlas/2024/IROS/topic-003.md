@@ -1,8 +1,8 @@
-# IROS 2024: 自动驾驶感知与世界模型
+# IROS 2024: 强化学习算法与理论
 
 - Topic ID: `3`
 - Papers: **37** (2.35%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / exploration / autonomous / terrain`
 - Keyword pool: navigation; exploration; autonomous; terrain; environments; unknown; planning; bayesian; reinforcement learning; traversability; mapless; environmental
 

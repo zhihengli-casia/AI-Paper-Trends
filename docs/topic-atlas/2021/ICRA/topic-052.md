@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **13** (0.95%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 3D/具身/机器人
 - English keywords: `radar / localization mapping / learning / driving`
 - Keyword pool: radar; localization mapping; learning; driving; image; vehicles; sound; detect; map fusion; reject; federated; automotive
 

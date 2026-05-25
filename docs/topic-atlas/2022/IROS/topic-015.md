@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **25** (2.08%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / optimal / optimization / rigid`
 - Keyword pool: control; optimal; optimization; rigid; trajectory; linear; manipulators; contact; time; predictive; dynamics; robots
 

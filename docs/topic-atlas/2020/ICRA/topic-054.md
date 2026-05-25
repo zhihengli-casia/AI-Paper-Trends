@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **10** (0.94%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `surgical / recognition / gesture / multi-task`
 - Keyword pool: surgical; recognition; gesture; multi-task; segmentation; progress; instruments; robot-assisted surgery; kinematic; tissue; medical; ultrasound
 

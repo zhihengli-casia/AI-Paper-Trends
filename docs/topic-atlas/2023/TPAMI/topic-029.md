@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **11** (1.62%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `face / attacks / biometric / database`
 - Keyword pool: face; attacks; biometric; database; adversarial; manipulation; recognition; verification; facial; gan; media; acquisition
 

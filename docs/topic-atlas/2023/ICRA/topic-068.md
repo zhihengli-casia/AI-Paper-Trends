@@ -1,8 +1,8 @@
-# ICRA 2023: 强化学习算法与理论
+# ICRA 2023: 足式机器人与运动控制
 
 - Topic ID: `68`
 - Papers: **10** (0.75%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / uav / swarm / multi-agent`
 - Keyword pool: control; uav; swarm; multi-agent; predictive; distributed; reinforcement learning; task-driven; optimizer; collective; quadcopters; quadruped robots
 

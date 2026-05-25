@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **43** (1.04%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `gui / agents / embodied / grounding`
 - Keyword pool: gui; agents; embodied; grounding; tom; graphical user; long-horizon; instructions; user interface; planning; mobile; multi-agent
 

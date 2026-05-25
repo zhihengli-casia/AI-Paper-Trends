@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **18** (1.31%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `odometry / visual-inertial / monocular / direct`
 - Keyword pool: odometry; visual-inertial; monocular; direct; visual inertial; stereo; deep; learned; robust; algorithms; raw; feature-based
 

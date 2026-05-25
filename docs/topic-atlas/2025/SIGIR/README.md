@@ -17,7 +17,7 @@
 | [003](topic-003.md) | 推荐系统与用户建模 | 18 | 7.53% | 生成模型 | `recommendation / sequential / diffusion / items` | Adaptive User Dynamic Interest Guidance for Generative Sequential Recommendation |
 | [004](topic-004.md) | 搜索排序与相关性建模 | 15 | 6.28% | LLM/语言模型 | `ranking / document / relevance / source bias` | Optimizing Compound Retrieval Systems |
 | [005](topic-005.md) | 推荐系统与用户建模 | 15 | 6.28% | 多模态/VLM | `modality / recommendation / multi-modal / noise` | Collaborative Diffusion Models for Recommendation |
-| [006](topic-006.md) | 查询理解与检索优化 | 14 | 5.86% | 推荐/检索/排序 | `search / query / queries / control` | Classifying Term Variants in Query Formulation |
+| [006](topic-006.md) | 新闻文本、虚假信息与安全检测 | 14 | 5.86% | 推荐/检索/排序 | `search / query / queries / control` | Classifying Term Variants in Query Formulation |
 | [007](topic-007.md) | 知识图谱推理与表示学习 | 13 | 5.44% | LLM/语言模型 | `kgs / relation / knowledge graph / reasoning` | LIGHT: Enhancing Learning Path Recommendation via Knowledge Topology-Aware Sequence Optimization |
 | [008](topic-008.md) | RAG 与检索增强生成 | 12 | 5.02% | LLM/语言模型 | `rag / agents / reasoning / retrieval-augmented` | Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing |
 | [009](topic-009.md) | music / unseen / objects / generalization | 12 | 5.02% | 生成模型 | `music / unseen / objects / generalization` | Rethinking Pseudo Word Learning in Zero-Shot Composed Image Retrieval: From an Object-Aware Perspective |

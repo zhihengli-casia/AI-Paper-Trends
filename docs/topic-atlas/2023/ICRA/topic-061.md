@@ -1,8 +1,8 @@
-# ICRA 2023: 强化学习算法与理论
+# ICRA 2023: 机器人操作与抓取
 
 - Topic ID: `61`
 - Papers: **11** (0.83%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement learning / robotic / continuous / manipulation`
 - Keyword pool: reinforcement learning; robotic; continuous; manipulation; exploration; off-policy; table; remote; parallel manipulator; articulated objects; non-holonomic; laser
 

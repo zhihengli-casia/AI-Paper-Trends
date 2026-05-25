@@ -1,8 +1,8 @@
-# IROS 2022: haptic / wrist / perception / feedback
+# IROS 2022: 灵巧机器人操作
 
 - Topic ID: `61`
 - Papers: **10** (0.83%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `haptic / wrist / perception / feedback`
 - Keyword pool: haptic; wrist; perception; feedback; virtual reality; hand; dexterous; manipulation; effect; force torque; influence; comparing
 

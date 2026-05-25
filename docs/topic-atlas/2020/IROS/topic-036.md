@@ -1,4 +1,4 @@
-# IROS 2020: 自动驾驶感知与世界模型
+# IROS 2020: modular / assembly / robots / reconfigurable
 
 - Topic ID: `36`
 - Papers: **15** (1.35%)

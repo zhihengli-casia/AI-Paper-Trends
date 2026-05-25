@@ -1,8 +1,8 @@
-# IROS 2024: 机器人操作与具身智能
+# IROS 2024: 人机交互与协作机器人
 
 - Topic ID: `35`
 - Papers: **20** (1.27%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `human-robot / behaviors / interactions / humans`
 - Keyword pool: human-robot; behaviors; interactions; humans; collaboration; communication; teams; help; impact; social; understanding; robots
 

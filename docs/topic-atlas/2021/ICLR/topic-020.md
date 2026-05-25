@@ -1,8 +1,8 @@
-# ICLR 2021: 具身智能与物理交互
+# ICLR 2021: 视觉导航与语义地图
 
 - Topic ID: `20`
 - Papers: **18** (2.10%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement / agent / navigation / action`
 - Keyword pool: reinforcement; agent; navigation; action; representation learning; visual; atari; embodied; world; environments; bandit; imitation
 

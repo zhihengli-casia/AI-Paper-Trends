@@ -33,7 +33,7 @@
 | [020](topic-020.md) | 强化学习算法与理论 | 36 | 1.08% | LLM/语言模型 | `llms / agents / planning / reasoning` | LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models |
 | [019](topic-019.md) | sft / fine-tuning / 大语言模型 / pretraining | 36 | 1.08% | LLM/语言模型 | `sft / fine-tuning / llms / pretraining` | Data Mixing Optimization for Supervised Fine-Tuning of Large Language Models |
 | [021](topic-021.md) | 强化学习算法与理论 | 35 | 1.05% | 强化学习/决策 | `reinforcement learning / policy / skill / agents` | Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration |
-| [022](topic-022.md) | 扩散生成模型 | 35 | 1.05% | 强化学习/决策 | `policy / robotic / diffusion / action` | One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation |
+| [022](topic-022.md) | 机器人操作与抓取 | 35 | 1.05% | 3D/具身/机器人 | `policy / robotic / diffusion / action` | One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation |
 | [023](topic-023.md) | 偏好优化、RLHF 与 DPO | 33 | 0.99% | LLM/语言模型 | `preference / alignment / reward / dpo` | Reward-Augmented Data Enhances Direct Preference Alignment of LLMs |
 | [024](topic-024.md) | LoRA 与参数高效微调 | 33 | 0.99% | 系统/效率/压缩 | `lora / fine-tuning / low-rank / adapters` | Flat-LoRA: Low-Rank Adaptation over a Flat Loss Landscape |
 | [025](topic-025.md) | games / equilibria / nash / equilibrium | 32 | 0.96% | 强化学习/决策 | `games / equilibria / nash / equilibrium` | Convex Markov Games: A New Frontier for Multi-Agent Reinforcement Learning |
@@ -68,7 +68,7 @@
 | [054](topic-054.md) | revenue / auction / market / pricing | 24 | 0.72% | 其他/交叉主题 | `revenue / auction / market / pricing` | Safely Learning Optimal Auctions: A Testable Learning Framework for Mechanism Design |
 | [055](topic-055.md) | 扩散生成模型 | 24 | 0.72% | 理论/优化 | `diffusion / guidance / cfg / score` | Inference-Time Alignment of Diffusion Models with Direct Noise Optimization |
 | [056](topic-056.md) | 医疗健康与临床 AI | 24 | 0.72% | 计算机视觉 | `brain / ecg / decoding / clinical` | MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data |
-| [057](topic-057.md) | 自动驾驶感知与世界模型 | 23 | 0.69% | 强化学习/决策 | `world / planning / agent / driving` | General agents need world models |
+| [057](topic-057.md) | 自动驾驶感知与世界模型 | 23 | 0.69% | 3D/具身/机器人 | `world / planning / agent / driving` | General agents need world models |
 | [058](topic-058.md) | 时间序列建模与预测 | 22 | 0.66% | 图学习/数据挖掘 | `causal / discovery / intervention / observational` | Local Identifying Causal Relations in the Presence of Latent Variables |
 | [059](topic-059.md) | 强化学习算法与理论 | 22 | 0.66% | 强化学习/决策 | `safety / policy / mcts / reinforcement learning` | Embedding Safety into RL: A New Take on Trust Region Methods |
 | [060](topic-060.md) | Bandit 与 regret 理论 | 22 | 0.66% | 强化学习/决策 | `bandit / arm / regret / bound` | The Batch Complexity of Bandit Pure Exploration |
@@ -112,7 +112,7 @@
 | [098](topic-098.md) | 强化学习算法与理论 | 17 | 0.51% | 强化学习/决策 | `offline / online / policy / reinforcement learning` | Stealing That Free Lunch: Exposing the Limits of Dyna-Style Reinforcement Learning |
 | [104](topic-104.md) | quantization / weights activations / bit / ptq | 16 | 0.48% | LLM/语言模型 | `quantization / weights activations / bit / ptq` | FlatQuant: Flatness Matters for LLM Quantization |
 | [100](topic-100.md) | 在线学习与 regret 理论 | 16 | 0.48% | 理论/优化 | `decentralized / private / regret / differentially` | Revisiting Differentially Private Algorithms for Decentralized Online Learning |
-| [101](topic-101.md) | 自动驾驶感知与世界模型 | 16 | 0.48% | LLM/语言模型 | `agents / virtual / reasoning / software` | Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale |
+| [101](topic-101.md) | 具身智能与物理交互 | 16 | 0.48% | 3D/具身/机器人 | `agents / virtual / reasoning / software` | Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale |
 | [099](topic-099.md) | 多智能体协作与规划 | 16 | 0.48% | 强化学习/决策 | `agentic / multi-agent / llm / agents` | Multi-agent Architecture Search via Agentic Supernet |
 | [103](topic-103.md) | 扩散生成模型 | 16 | 0.48% | 强化学习/决策 | `policy / diffusion / reinforcement learning / entropy` | Maximum Entropy Reinforcement Learning with Diffusion Policy |
 | [102](topic-102.md) | 随机优化与收敛理论 | 16 | 0.48% | 理论/优化 | `sgd / langevin / stochastic / epoch` | Generalization of noisy SGD in unbounded non-convex settings |

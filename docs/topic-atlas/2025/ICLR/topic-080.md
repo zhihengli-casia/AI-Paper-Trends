@@ -1,8 +1,8 @@
-# ICLR 2025: 视觉语言模型与多模态理解
+# ICLR 2025: 视觉语言驱动的机器人操作
 
 - Topic ID: `80`
 - Papers: **21** (0.57%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `robot / action / navigation / vla`
 - Keyword pool: robot; action; navigation; vla; manipulation; vln; visual; vision-language; instruction; vlm; video; speech
 

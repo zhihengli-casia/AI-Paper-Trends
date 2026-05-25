@@ -29,7 +29,7 @@
 | [015](topic-015.md) | labels / ssl / 长尾 / class | 38 | 1.76% | 其他/交叉主题 | `labels / ssl / long-tailed / class` | RankMatch: Fostering Confidence and Consistency in Learning with Noisy Labels |
 | [016](topic-016.md) | 目标检测与图像分割 | 35 | 1.62% | 计算机视觉 | `open-vocabulary / grounding / referring / image segmentation` | Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation |
 | [017](topic-017.md) | 语音/音频语言模型 | 35 | 1.62% | 语音/音频/音乐 | `speech / audio / sound / lip` | Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors |
-| [020](topic-020.md) | 目标检测与图像分割 | 34 | 1.58% | 计算机视觉 | `manipulation / contrastive learning / incremental / uncertainty` | Multi-Label Self-Supervised Learning with Scene Images |
+| [020](topic-020.md) | 目标检测与图像分割 | 34 | 1.58% | 3D/具身/机器人 | `manipulation / contrastive learning / incremental / uncertainty` | Multi-Label Self-Supervised Learning with Scene Images |
 | [018](topic-018.md) | face / stylegan / inversion / facial | 34 | 1.58% | 生成模型 | `face / stylegan / inversion / facial` | Conceptual and Hierarchical Latent Space Decomposition for Face Editing |
 | [019](topic-019.md) | 机器人操作与具身智能 | 34 | 1.58% | 3D/具身/机器人 | `navigation / embodied / agent / environment` | Scaling Data Generation in Vision-and-Language Navigation |
 | [021](topic-021.md) | 扩散生成模型 | 33 | 1.53% | 生成模型 | `diffusion / denoising / aging / guidance` | Improving Sample Quality of Diffusion Models Using Self-Attention Guidance |
@@ -48,7 +48,7 @@
 | [034](topic-034.md) | NeRF 与神经渲染 | 26 | 1.21% | 计算机视觉 | `nerf / radiance / view synthesis / fields` | Efficient View Synthesis with Neural Radiance Distribution Field |
 | [035](topic-035.md) | 文生图生成与个性化编辑 | 26 | 1.21% | 生成模型 | `text-to-image / diffusion / concepts / style` | A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis |
 | [036](topic-036.md) | compression / pruning / underwater / 视频理解/生成 | 26 | 1.21% | 系统/效率/压缩 | `compression / pruning / underwater / video` | Unified Data-Free Compression: Pruning and Quantization without Fine-Tuning |
-| [037](topic-037.md) | hand / pose / contact / interaction | 26 | 1.21% | 计算机视觉 | `hand / pose / contact / interaction` | RenderIH: A Large-Scale Synthetic Dataset for 3D Interacting Hand Pose Estimation |
+| [037](topic-037.md) | hand / pose / contact / interaction | 26 | 1.21% | 3D/具身/机器人 | `hand / pose / contact / interaction` | RenderIH: A Large-Scale Synthetic Dataset for 3D Interacting Hand Pose Estimation |
 | [038](topic-038.md) | 深度估计与立体匹配 | 26 | 1.21% | 生成模型 | `stereo / mvs / surfaces / reconstruction` | S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces |
 | [039](topic-039.md) | 语音/音频语言模型 | 24 | 1.11% | 计算机视觉 | `video / temporal / audio-visual / class-incremental` | Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning |
 | [040](topic-040.md) | 自动驾驶感知与世界模型 | 23 | 1.07% | 强化学习/决策 | `trajectory / forecasting / driving / trajectories` | MotionLM: Multi-Agent Motion Forecasting as Language Modeling |

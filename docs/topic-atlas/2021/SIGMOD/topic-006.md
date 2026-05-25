@@ -1,4 +1,4 @@
-# SIGMOD 2021: 查询理解与检索优化
+# SIGMOD 2021: 图学习 / clustering / parallel / algorithms
 
 - Topic ID: `6`
 - Papers: **12** (5.91%)

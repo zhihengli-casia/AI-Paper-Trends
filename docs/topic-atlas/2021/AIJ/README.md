@@ -17,5 +17,5 @@
 | [003](topic-003.md) | 可解释机器学习与数据科学工具 | 14 | 13.21% | 图学习/数据挖掘 | `explanations / machine learning / complex / knowledge` | Explaining black-box classifiers using post-hoc explanations-by-example: The effect of explanations and error-rates in XAI user studies |
 | [004](topic-004.md) | xai / explanations / personalized / 智能体 | 11 | 10.38% | 强化学习/决策 | `xai / explanations / personalized / agent` | The quest of parsimonious XAI: A human-agent architecture for explanation formulation |
 | [005](topic-005.md) | problems / abstraction / contracts / afs | 9 | 8.49% | 其他/交叉主题 | `problems / abstraction / contracts / afs` | Exact stochastic constraint optimisation with applications in network analysis |
-| [006](topic-006.md) | 自动驾驶感知与世界模型 | 8 | 7.55% | 3D/具身/机器人 | `sensory / visual / kandinsky / input` | Making sense of sensory input |
+| [006](topic-006.md) | 机器人操作与具身智能 | 8 | 7.55% | 3D/具身/机器人 | `sensory / visual / kandinsky / input` | Making sense of sensory input |
 | [007](topic-007.md) | sat / 图学习 / clauses / treewidth | 8 | 7.55% | 图学习/数据挖掘 | `sat / graph / clauses / treewidth` | SAT encodings for Pseudo-Boolean constraints together with at-most-one constraints |

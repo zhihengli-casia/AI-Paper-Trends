@@ -1,4 +1,4 @@
-# IJCAI 2023: 视觉理解 / navigation / semantic / local context
+# IJCAI 2023: 视觉导航与语义地图
 
 - Topic ID: `34`
 - Papers: **11** (1.29%)

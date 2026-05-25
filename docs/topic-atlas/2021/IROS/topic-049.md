@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **9** (0.88%)
-- Macro topic: 理论/优化
+- Macro topic: 3D/具身/机器人
 - English keywords: `walking / gait / speeds / human locomotion`
 - Keyword pool: walking; gait; speeds; human locomotion; chain; muscle; mechanical; transformable; trajectory estimation; exoskeleton; pathological; optimization
 

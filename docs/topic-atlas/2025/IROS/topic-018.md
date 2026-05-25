@@ -1,8 +1,8 @@
-# IROS 2025: manipulation / robotic / language / dexterous
+# IROS 2025: 机器人操作与抓取
 
 - Topic ID: `18`
 - Papers: **29** (1.47%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / robotic / language / dexterous`
 - Keyword pool: manipulation; robotic; language; dexterous; mobile; grasping; video; learning; long-horizon; reasoning; multi-task; humanoid
 

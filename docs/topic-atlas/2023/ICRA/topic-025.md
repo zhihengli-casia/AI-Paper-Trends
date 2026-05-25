@@ -1,8 +1,8 @@
-# ICRA 2023: 目标检测与图像分割
+# ICRA 2023: 机器人视觉目标检测与域适应
 
 - Topic ID: `25`
 - Papers: **19** (1.43%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `domain / object detection / unsupervised / adaptation`
 - Keyword pool: domain; object detection; unsupervised; adaptation; segmentation; semantic; transformers; feature; path; image; network; labels
 

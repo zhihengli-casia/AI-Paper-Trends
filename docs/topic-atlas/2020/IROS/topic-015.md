@@ -2,7 +2,7 @@
 
 - Topic ID: `15`
 - Papers: **22** (1.97%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 3D/具身/机器人
 - English keywords: `exoskeleton / joint / prosthetic / inverse kinematics`
 - Keyword pool: exoskeleton; joint; prosthetic; inverse kinematics; limb; force; active; motion; parallel; wearable; human; arm
 

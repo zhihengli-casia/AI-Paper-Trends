@@ -2,7 +2,7 @@
 
 - Topic ID: `46`
 - Papers: **11** (0.93%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `knee / robotic / ankle / transitions`
 - Keyword pool: knee; robotic; ankle; transitions; stair; control; compliant; walking; variable; daily living; kinematics; intuitive
 

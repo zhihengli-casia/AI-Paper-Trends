@@ -1,4 +1,4 @@
-# SIGMOD 2020: 查询理解与检索优化
+# SIGMOD 2020: sql / queries / declarative / facilitating
 
 - Topic ID: `9`
 - Papers: **8** (5.03%)

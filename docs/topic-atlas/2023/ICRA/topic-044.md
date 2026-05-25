@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **14** (1.05%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `stiffness / variable / sensor / energy`
 - Keyword pool: stiffness; variable; sensor; energy; finger; actuator; design; force; piezoelectric; memory; repetitive; jamming
 

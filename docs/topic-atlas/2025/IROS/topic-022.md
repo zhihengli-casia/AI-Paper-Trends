@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **27** (1.37%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement learning / multi-agent / inverse reinforcement / game`
 - Keyword pool: reinforcement learning; multi-agent; inverse reinforcement; game; deep; llm; guided; cooperative; control; simulator; pursuit-evasion; specifications
 

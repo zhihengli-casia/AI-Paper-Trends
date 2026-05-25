@@ -17,7 +17,7 @@
 | [003](topic-003.md) | 对抗攻击、鲁棒性与安全 | 19 | 8.76% | 强化学习/决策 | `attacks / adversarial / cross-modal / interpretation` | RayS: A Ray Searching Method for Hard-label Adversarial Attack |
 | [004](topic-004.md) | 社交媒体与社会计算 | 18 | 8.29% | 图学习/数据挖掘 | `temporal / series / dynamics / graphs` | A Data-Driven Graph Generative Model for Temporal Interaction Networks |
 | [005](topic-005.md) | 深度估计与立体匹配 | 15 | 6.91% | 强化学习/决策 | `transfer / pruning / domains / pipeline` | Rethinking Pruning for Accelerating Deep Inference At the Edge |
-| [006](topic-006.md) | 查询理解与检索优化 | 15 | 6.91% | 推荐/检索/排序 | `kernel / patterns / time series / graphs` | HOPS: Probabilistic Subtree Mining for Small and Large Graphs |
+| [006](topic-006.md) | 时间序列建模与预测 | 15 | 6.91% | 推荐/检索/排序 | `kernel / patterns / time series / graphs` | HOPS: Probabilistic Subtree Mining for Small and Large Graphs |
 | [007](topic-007.md) | spatial / user / urban / 智能体 | 10 | 4.61% | 推荐/检索/排序 | `spatial / user / urban / agent` | AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction |
 | [008](topic-008.md) | topic / distant / alignment / expansion | 10 | 4.61% | NLP任务 | `topic / distant / alignment / expansion` | CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring |
 | [009](topic-009.md) | 医疗健康与临床 AI | 10 | 4.61% | AI4Science/医疗 | `patient / medical / clinical / treatment` | HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records |

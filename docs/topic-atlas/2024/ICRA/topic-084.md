@@ -2,7 +2,7 @@
 
 - Topic ID: `84`
 - Papers: **10** (0.57%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `occupancy / prediction / object localization / unstructured`
 - Keyword pool: occupancy; prediction; object localization; unstructured; view; intersection; texture; rendering; vision-centric; dynamic object; occlusion; bird s-eye
 

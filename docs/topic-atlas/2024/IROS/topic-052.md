@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **15** (0.95%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `place recognition / visual / structural / lidar-based`
 - Keyword pool: place recognition; visual; structural; lidar-based; fast; enhancing; positive; pooling; traversability; orchards; length; forests
 

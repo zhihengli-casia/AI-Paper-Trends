@@ -1,8 +1,8 @@
-# ICML 2025: 自动驾驶感知与世界模型
+# ICML 2025: 具身智能与物理交互
 
 - Topic ID: `101`
 - Papers: **16** (0.48%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `agents / virtual / reasoning / software`
 - Keyword pool: agents; virtual; reasoning; software; autonomous; navigation; human; foundation; embodied; demonstrations; desktop; planning
 

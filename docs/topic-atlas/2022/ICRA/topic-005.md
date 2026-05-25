@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **32** (3.47%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `object / learning / segmentation / search`
 - Keyword pool: object; learning; segmentation; search; picking; clutter; classification; detection; automatic; vision; tool; contrastive
 

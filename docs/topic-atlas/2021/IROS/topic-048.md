@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **9** (0.88%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `radar / odometry / inertial / environments`
 - Keyword pool: radar; odometry; inertial; environments; thermal; target tracking; mavs; correction; visual; maps; continuous-time; conditions
 

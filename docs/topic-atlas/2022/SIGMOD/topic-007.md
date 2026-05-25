@@ -1,4 +1,4 @@
-# SIGMOD 2022: 查询理解与检索优化
+# SIGMOD 2022: database / tuning / cloud / online
 
 - Topic ID: `7`
 - Papers: **10** (6.54%)

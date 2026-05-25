@@ -1,8 +1,8 @@
-# IROS 2021: estimation / payload / multirotor / suspended
+# IROS 2021: 无人机/四旋翼规划与控制
 
 - Topic ID: `31`
 - Papers: **15** (1.47%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `estimation / payload / multirotor / suspended`
 - Keyword pool: estimation; payload; multirotor; suspended; quadrotor; manipulators; underwater; sensor; joint; fast; online; vehicles
 

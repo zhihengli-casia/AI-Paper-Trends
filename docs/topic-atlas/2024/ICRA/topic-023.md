@@ -1,4 +1,4 @@
-# ICRA 2024: learning / imitation / manipulation / robotic
+# ICRA 2024: 机器人操作与抓取
 
 - Topic ID: `23`
 - Papers: **24** (1.38%)

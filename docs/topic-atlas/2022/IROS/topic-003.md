@@ -1,8 +1,8 @@
-# IROS 2022: 目标检测与图像分割
+# IROS 2022: 机器人视觉目标检测与域适应
 
 - Topic ID: `3`
 - Papers: **30** (2.50%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `domain / object / detection / feature`
 - Keyword pool: domain; object; detection; feature; semantic; learning; unsupervised; attention; segmentation; scenes; adaptation; change
 

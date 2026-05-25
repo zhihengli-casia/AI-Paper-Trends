@@ -1,8 +1,8 @@
-# ICRA 2021: 句法语义解析与结构化表示
+# ICRA 2021: 手术机器人与医学机器人
 
 - Topic ID: `53`
 - Papers: **12** (0.88%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `surgical / learning / surgery / instrument`
 - Keyword pool: surgical; learning; surgery; instrument; gesture recognition; feature extraction; robot-assisted; deep; robotic; perception; adaptation; parsing
 

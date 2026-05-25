@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **20** (1.79%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `tactile / classification / material / texture`
 - Keyword pool: tactile; classification; material; texture; learning; sensor; resolution; in-hand; spiking; spatio-temporal; neural; object
 

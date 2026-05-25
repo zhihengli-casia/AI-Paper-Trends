@@ -1,8 +1,8 @@
-# ICRA 2025: bilateral / teleoperation / force / cartesian
+# ICRA 2025: 机器人遥操作与触觉交互
 
 - Topic ID: `63`
 - Papers: **11** (0.69%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `bilateral / teleoperation / force / cartesian`
 - Keyword pool: bilateral; teleoperation; force; cartesian; haptic; continuum; stiffness; space; physical; estimation; control; human
 

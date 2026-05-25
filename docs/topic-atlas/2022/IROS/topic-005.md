@@ -1,8 +1,8 @@
-# IROS 2022: teleoperation / haptic / control / feedback
+# IROS 2022: 机器人遥操作与触觉交互
 
 - Topic ID: `5`
 - Papers: **28** (2.33%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `teleoperation / haptic / control / feedback`
 - Keyword pool: teleoperation; haptic; control; feedback; wearable; force; impedance; variable; movement; limb; prosthesis; bilateral
 

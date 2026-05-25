@@ -1,4 +1,4 @@
-# SIGMOD 2021: 查询理解与检索优化
+# SIGMOD 2021: learning / queries / query / execution
 
 - Topic ID: `3`
 - Papers: **14** (6.90%)

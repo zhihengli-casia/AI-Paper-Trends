@@ -1,8 +1,8 @@
-# ICRA 2025: imitation / learning / demonstrations / symbolic
+# ICRA 2025: 模仿学习与机器人示教
 
 - Topic ID: `13`
 - Papers: **30** (1.88%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `imitation / learning / demonstrations / symbolic`
 - Keyword pool: imitation; learning; demonstrations; symbolic; augmentation; one-shot; imperfect; videos; multi-task; contrastive; execution; self-supervised
 

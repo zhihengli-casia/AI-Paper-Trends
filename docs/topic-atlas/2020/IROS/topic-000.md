@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **40** (3.59%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / learning / local / robot`
 - Keyword pool: navigation; learning; local; robot; indoor; reinforcement; crowded; autonomous; fusion; environments; multimodal; avoidance
 

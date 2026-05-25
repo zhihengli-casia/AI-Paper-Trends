@@ -1,8 +1,8 @@
-# ICLR 2025: 机器人操作与具身智能
+# ICLR 2025: 人形机器人与全身控制
 
 - Topic ID: `42`
 - Papers: **29** (0.78%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `skill / reinforcement learning / policies / policy`
 - Keyword pool: skill; reinforcement learning; policies; policy; robot; demonstrations; embodied; control; environments; agents; humanoid; behaviors
 

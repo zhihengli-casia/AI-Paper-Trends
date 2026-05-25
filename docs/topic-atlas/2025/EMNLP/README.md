@@ -41,10 +41,10 @@
 | [027](topic-027.md) | 机器翻译与跨语言对齐 | 21 | 1.16% | LLM/语言模型 | `gender / bias / stereotypes / languages` | Blind Men and the Elephant: Diverse Perspectives on Gender Stereotypes in Benchmark Datasets |
 | [028](topic-028.md) | routing / experts / moe / router | 21 | 1.16% | LLM/语言模型 | `routing / experts / moe / router` | L o RAC o E : Improving Large Language Model via Composition-based L o RA Expert |
 | [029](topic-029.md) | logical / steps / llm reasoning / inductive | 21 | 1.16% | LLM/语言模型 | `logical / steps / llm reasoning / inductive` | Logical Reasoning with Outcome Reward Models for Test-Time Scaling |
-| [030](topic-030.md) | 视觉语言模型与多模态理解 | 20 | 1.11% | 多模态/VLM | `spatial / vlms / visual / navigation` | Jigsaw-Puzzles: From Seeing to Understanding to Reasoning in Vision-Language Models |
+| [030](topic-030.md) | 视觉语言模型与多模态理解 | 20 | 1.11% | 3D/具身/机器人 | `spatial / vlms / visual / navigation` | Jigsaw-Puzzles: From Seeing to Understanding to Reasoning in Vision-Language Models |
 | [031](topic-031.md) | 机器翻译与跨语言对齐 | 20 | 1.11% | LLM/语言模型 | `translation / machine / aesthetics / literary` | L i T rans P ro QA : An LLM -based Literary Translation Evaluation Metric with Professional Question Answering |
 | [038](topic-038.md) | 查询理解与检索优化 | 19 | 1.05% | 推荐/检索/排序 | `sql / schema / table / databases` | Weaver: Interweaving SQL and LLM for Table Reasoning |
-| [033](topic-033.md) | 多模态学习与跨模态理解 | 19 | 1.05% | LLM/语言模型 | `safety / jailbreak / attack / mcp` | SURE : Safety Understanding and Reasoning Enhancement for Multimodal Large Language Models |
+| [033](topic-033.md) | 多模态学习与跨模态理解 | 19 | 1.05% | 3D/具身/机器人 | `safety / jailbreak / attack / mcp` | SURE : Safety Understanding and Reasoning Enhancement for Multimodal Large Language Models |
 | [032](topic-032.md) | 隐私保护与安全学习 | 19 | 1.05% | LLM/语言模型 | `unlearning / forget / unlearned / attacks` | Intrinsic Test of Unlearning Using Parametric Knowledge Traces |
 | [035](topic-035.md) | speculative / quantization / draft / decoding | 19 | 1.05% | 系统/效率/压缩 | `speculative / quantization / draft / decoding` | QS pec: Speculative Decoding with Complementary Quantization Schemes |
 | [036](topic-036.md) | 多语言建模与跨语言迁移 | 19 | 1.05% | LLM/语言模型 | `languages / morphological / morphology / tokenization` | Exploring morphology-aware tokenization: A case study on S panish language modeling |
@@ -57,7 +57,7 @@
 | [046](topic-046.md) | contamination / backdoor / detection / fingerprinting | 17 | 0.94% | LLM/语言模型 | `contamination / backdoor / detection / fingerprinting` | S im M ark: A Robust Sentence-Level Similarity-Based Watermarking Algorithm for Large Language Models |
 | [045](topic-045.md) | LoRA 与参数高效微调 | 17 | 0.94% | LLM/语言模型 | `lora / low-rank / orthogonal / adaptation` | L o S i A : Efficient High-Rank Fine-Tuning via Subnet Localization and Optimization |
 | [044](topic-044.md) | writing / creativity / ideas / creative | 17 | 0.94% | LLM/语言模型 | `writing / creativity / ideas / creative` | Deep Associations, High Creativity: A Simple yet Effective Metric for Evaluating Large Language Models |
-| [043](topic-043.md) | 视觉语言模型与多模态理解 | 17 | 0.94% | LLM/语言模型 | `reward / grpo / policy / preference` | Reinforcement Learning for Large Language Models via Group Preference Reward Shaping |
+| [043](topic-043.md) | 视觉语言模型与多模态理解 | 17 | 0.94% | 3D/具身/机器人 | `reward / grpo / policy / preference` | Reinforcement Learning for Large Language Models via Group Preference Reward Shaping |
 | [049](topic-049.md) | 语音/音频语言模型 | 17 | 0.94% | LLM/语言模型 | `toxic / moderation / hate speech / online` | M odel C itizens: Representing Community Voices in Online Safety |
 | [050](topic-050.md) | 视频理解/生成 / token / compression / 视觉理解 | 17 | 0.94% | LLM/语言模型 | `video / token / compression / visual` | Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models |
 | [047](topic-047.md) | 社交媒体与社会计算 | 17 | 0.94% | LLM/语言模型 | `stance / news / political / detection` | Are Stereotypes Leading LLM s’ Zero-Shot Stance Detection ? |
@@ -96,7 +96,7 @@
 | [080](topic-080.md) | 推荐系统与用户建模 | 11 | 0.61% | LLM/语言模型 | `personalization / user / personalized / recommendation` | C o PL : Collaborative Preference Learning for Personalizing LLM s |
 | [083](topic-083.md) | 时间序列预测 | 11 | 0.61% | LLM/语言模型 | `event / extraction / forecasting / triggers` | Multi-Document Event Extraction Using Large and Small Language Models |
 | [085](topic-085.md) | sentiment / opinion / document / structural | 11 | 0.61% | NLP任务 | `sentiment / opinion / document / structural` | Context-Aware Hierarchical Taxonomy Generation for Scientific Papers via LLM -Guided Multi-Aspect Clustering |
-| [082](topic-082.md) | 多模态大模型与视觉语言推理 | 11 | 0.61% | 多模态/VLM | `multimodal / robot / visual / relational reasoning` | C hat VLA : Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model |
+| [082](topic-082.md) | 多模态大模型与视觉语言推理 | 11 | 0.61% | 3D/具身/机器人 | `multimodal / robot / visual / relational reasoning` | C hat VLA : Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model |
 | [086](topic-086.md) | figurative / prompts / prompt sensitivity / expressions | 10 | 0.55% | LLM/语言模型 | `figurative / prompts / prompt sensitivity / expressions` | Easy as PIE ? Identifying Multi-Word Expressions with LLM s |
 | [087](topic-087.md) | LLM Agent 与工具使用 | 10 | 0.55% | LLM/语言模型 | `materials / discovery / scientific / enterprise` | LMR - BENCH : Evaluating LLM Agent’s Ability on Reproducing Language Modeling Research |
 | [088](topic-088.md) | 文档摘要与信息压缩 | 9 | 0.50% | LLM/语言模型 | `argumentative / rhetorical / crisis / arguments` | Argument Summarization and its Evaluation in the Era of Large Language Models |

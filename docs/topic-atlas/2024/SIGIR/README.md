@@ -15,7 +15,7 @@
 | [001](topic-001.md) | 推荐系统与用户建模 | 23 | 10.75% | 多模态/VLM | `recommendation / users / multi-modal / sequential` | CMCLRec: Cross-modal Contrastive Learning for User Cold-start Sequential Recommendation |
 | [002](topic-002.md) | 搜索排序与相关性建模 | 13 | 6.07% | 生成模型 | `generative retrieval / dense / ai-generated / re-ranking` | Generative Retrieval as Multi-Vector Dense Retrieval |
 | [003](topic-003.md) | 推荐系统与用户建模 | 13 | 6.07% | 推荐/检索/排序 | `graph / collaborative / recommendation / denoising` | Graph Signal Diffusion Model for Collaborative Filtering |
-| [004](topic-004.md) | 查询理解与检索优化 | 13 | 6.07% | 多模态/VLM | `image / query / cross-modal / multimodal` | LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval |
+| [004](topic-004.md) | 多模态学习与跨模态理解 | 13 | 6.07% | 多模态/VLM | `image / query / cross-modal / multimodal` | LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval |
 | [005](topic-005.md) | 推荐系统与用户建模 | 13 | 6.07% | LLM/语言模型 | `recommendation / sequential / llms / recommender` | LLaRA: Large Language-Recommendation Assistant |
 | [006](topic-006.md) | 推荐系统与用户建模 | 12 | 5.61% | 推荐/检索/排序 | `community / graph / nodes / networks` | Scalable Community Search over Large-scale Graphs based on Graph Transformer |
 | [007](topic-007.md) | 搜索排序与相关性建模 | 11 | 5.14% | 推荐/检索/排序 | `ranking / allocation / propensity / fair` | Unbiased Learning-to-Rank Needs Unconfounded Propensity Estimation |

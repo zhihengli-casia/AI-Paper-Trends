@@ -1,8 +1,8 @@
-# TNNLS 2025: 视频动作生成与运动控制
+# TNNLS 2025: 机器人操作与抓取
 
 - Topic ID: `8`
 - Papers: **29** (3.64%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `video / action / tracking / temporal`
 - Keyword pool: video; action; tracking; temporal; motion; recognition; pose; robot; object; manipulation; vision-based; visual
 

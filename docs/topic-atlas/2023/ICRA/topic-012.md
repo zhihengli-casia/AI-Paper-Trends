@@ -1,8 +1,8 @@
-# ICRA 2023: surgery / minimally / robotic / development
+# ICRA 2023: 手术机器人与医学机器人
 
 - Topic ID: `12`
 - Papers: **25** (1.88%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `surgery / minimally / robotic / development`
 - Keyword pool: surgery; minimally; robotic; development; magnetic; surgical; endoscopic; tools; needle; pose; dynamic; feedback
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `84`
 - Papers: **16** (0.56%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `editing / instruction-based / text-guided image / shadow`
 - Keyword pool: editing; instruction-based; text-guided image; shadow; instructions; image manipulation; background consistency; edits; source image; t2i; edited; requests
 

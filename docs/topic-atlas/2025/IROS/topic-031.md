@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **23** (1.16%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `tactile / sensor / vision-based / magnetic`
 - Keyword pool: tactile; sensor; vision-based; magnetic; sensing; shape reconstruction; high-resolution; flexible; digital; array; perception; force
 

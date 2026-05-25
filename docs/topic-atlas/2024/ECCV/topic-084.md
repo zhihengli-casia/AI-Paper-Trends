@@ -2,7 +2,7 @@
 
 - Topic ID: `84`
 - Papers: **13** (0.54%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `gaussian / splatting / geometry / surface`
 - Keyword pool: gaussian; splatting; geometry; surface; slam; object removal; segmentation; reconstruction; scene; texture; primitives; appearance
 

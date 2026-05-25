@@ -1,4 +1,4 @@
-# ICRA 2022: tactile / sensor / sensing / manipulation
+# ICRA 2022: 机器人触觉感知与操作
 
 - Topic ID: `4`
 - Papers: **32** (3.47%)

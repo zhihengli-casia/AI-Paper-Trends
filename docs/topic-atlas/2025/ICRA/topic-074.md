@@ -1,4 +1,4 @@
-# ICRA 2025: endoscopic / tissue / assistance / flexible
+# ICRA 2025: 机器人操作与抓取
 
 - Topic ID: `74`
 - Papers: **8** (0.50%)

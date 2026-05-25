@@ -32,7 +32,7 @@
 | [018](topic-018.md) | 文档摘要与信息压缩 | 19 | 1.77% | LLM/语言模型 | `summarization / summaries / meeting / abstractive` | U ni S umm and S umm Z oo: Unified Model and Diverse Benchmark for Few-Shot Summarization |
 | [019](topic-019.md) | materials science / tables / edits / attribute | 19 | 1.77% | LLM/语言模型 | `materials science / tables / edits / attribute` | Few-Shot Data-to-Text Generation via Unified Representation and Multi-Source Learning |
 | [020](topic-020.md) | instructions / curriculum / instruction tuning / curricula | 19 | 1.77% | LLM/语言模型 | `instructions / curriculum / instruction tuning / curricula` | Instruction Induction: From Few Examples to Natural Language Task Descriptions |
-| [021](topic-021.md) | 查询理解与检索优化 | 17 | 1.58% | 推荐/检索/排序 | `conversational / question generation / dialogue / query` | Query Enhanced Knowledge-Intensive Conversation via Unsupervised Joint Modeling |
+| [021](topic-021.md) | conversational / question generation / dialogue / query | 17 | 1.58% | 推荐/检索/排序 | `conversational / question generation / dialogue / query` | Query Enhanced Knowledge-Intensive Conversation via Unsupervised Joint Modeling |
 | [022](topic-022.md) | 公平性、偏见与可信 AI | 17 | 1.58% | LLM/语言模型 | `bias / social / gender / harms` | Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions |
 | [023](topic-023.md) | 文档摘要与信息压缩 | 17 | 1.58% | 强化学习/决策 | `summarization / factual / summaries / omission` | Understanding Factual Errors in Summarization: Errors, Summarizers, Datasets, Error Detectors |
 | [024](topic-024.md) | Chain-of-Thought 与大模型推理 | 17 | 1.58% | LLM/语言模型 | `commonsense / reasoning / nmt / abductive` | Free Lunch for Efficient Textual Commonsense Integration in Language Models |

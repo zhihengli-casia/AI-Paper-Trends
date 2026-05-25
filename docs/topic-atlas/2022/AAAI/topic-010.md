@@ -1,4 +1,4 @@
-# AAAI 2022: 查询理解与检索优化
+# AAAI 2022: logic / revision / belief / argumentation
 
 - Topic ID: `10`
 - Papers: **27** (2.05%)

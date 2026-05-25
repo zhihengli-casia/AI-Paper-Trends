@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **25** (2.44%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `transformer / video / vision / visual`
 - Keyword pool: transformer; video; vision; visual; image; grasping; medical; spatial; temporal; patches; self-attention; frames
 

@@ -1,8 +1,8 @@
-# IROS 2023: tactile / transparent / sensing / touch
+# IROS 2023: 机器人遥操作与触觉交互
 
 - Topic ID: `40`
 - Papers: **15** (1.27%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 3D/具身/机器人
 - English keywords: `tactile / transparent / sensing / touch`
 - Keyword pool: tactile; transparent; sensing; touch; object; placing; active; haptic; shape; prediction; defect; representation learning
 

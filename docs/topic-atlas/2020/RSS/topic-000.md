@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **14** (14.29%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `online / uncertainty / adaptation / multi-fidelity`
 - Keyword pool: online; uncertainty; adaptation; multi-fidelity; videos; underwater; surface; scene; probabilistic; belief; visual; graph
 

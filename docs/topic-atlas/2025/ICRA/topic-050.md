@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **15** (0.94%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / aerial / quadrotors / safe`
 - Keyword pool: control; aerial; quadrotors; safe; planning; collision avoidance; predictive; agile; barrier functions; trajectory; environment; online
 

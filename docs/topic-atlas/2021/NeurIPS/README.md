@@ -29,7 +29,7 @@
 | [015](topic-015.md) | 搜索排序与相关性建模 | 37 | 1.59% | 系统/效率/压缩 | `active learning / label / ssl / acquisition` | Online Active Learning with Surrogate Loss Functions |
 | [016](topic-016.md) | brain / neurons / synaptic / plasticity | 35 | 1.50% | 计算机视觉 | `brain / neurons / synaptic / plasticity` | Online Learning Of Neural Computations From Sparse Temporal Feedback |
 | [017](topic-017.md) | 强化学习策略与奖励建模 | 35 | 1.50% | 强化学习/决策 | `reward / reinforcement learning / policies / policy` | Replacing Rewards with Examples: Example-Based Policy Search via Recursive Classification |
-| [018](topic-018.md) | 查询理解与检索优化 | 33 | 1.41% | 图学习/数据挖掘 | `clustering / coreset / means / points` | Uniform Concentration Bounds toward a Unified Framework for Robust Clustering |
+| [018](topic-018.md) | 公平性、偏见与可信 AI | 33 | 1.41% | 图学习/数据挖掘 | `clustering / coreset / means / points` | Uniform Concentration Bounds toward a Unified Framework for Robust Clustering |
 | [020](topic-020.md) | 凸/非凸优化理论 | 32 | 1.37% | 理论/优化 | `convex / smooth / quasi-newton / stochastic` | On the Second-order Convergence Properties of Random Search Methods |
 | [019](topic-019.md) | 对抗攻击、鲁棒性与安全 | 32 | 1.37% | 可信/安全/公平 | `attacks / backdoor / adversarial / poisoning` | Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training |
 | [022](topic-022.md) | 强化学习算法与理论 | 32 | 1.37% | 强化学习/决策 | `reinforcement learning / imitation / policy / atari` | Pretraining Representations for Data-Efficient Reinforcement Learning |
@@ -52,7 +52,7 @@
 | [038](topic-038.md) | 对抗攻击、鲁棒性与安全 | 23 | 0.99% | 生成模型 | `gan / discriminator / adversarial networks / generator` | Data-Efficient GAN Training Beyond (Just) Augmentations: A Lottery Ticket Perspective |
 | [039](topic-039.md) | LiDAR 点云与 3D 感知 | 22 | 0.94% | 3D/具身/机器人 | `pose / detection / object / clouds` | Object DGCNN: 3D Object Detection using Dynamic Graphs |
 | [040](topic-040.md) | explanations / shapley / attribution / visualizations | 22 | 0.94% | 计算机视觉 | `explanations / shapley / attribution / visualizations` | Do Input Gradients Highlight Discriminative Features? |
-| [041](topic-041.md) | transformer / attention / positional / low-rank | 22 | 0.94% | 系统/效率/压缩 | `transformer / attention / positional / low-rank` | Combiner: Full Attention Transformer with Sparse Computation Cost |
+| [041](topic-041.md) | 无人机/四旋翼规划与控制 | 22 | 0.94% | 3D/具身/机器人 | `transformer / attention / positional / low-rank` | Combiner: Full Attention Transformer with Sparse Computation Cost |
 | [045](topic-045.md) | 蛋白质建模与 AI4Science | 21 | 0.90% | 理论/优化 | `equivariant / symmetries / dna / equivariance` | Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent |
 | [042](topic-042.md) | 在线学习与 regret 理论 | 21 | 0.90% | 其他/交叉主题 | `regret / online / convex / bounds` | Best-case lower bounds in online learning |
 | [043](topic-043.md) | 随机优化与收敛理论 | 21 | 0.90% | 理论/优化 | `stochastic / bilevel / momentum / convex` | Minibatch and Momentum Model-based Methods for Stochastic Weakly Convex Optimization |
@@ -60,7 +60,7 @@
 | [044](topic-044.md) | activity / brain / variability / recordings | 21 | 0.90% | 生成模型 | `activity / brain / variability / recordings` | Scalable Bayesian GPFA with automatic relevance determination and discrete noise models |
 | [047](topic-047.md) | 对抗攻击、鲁棒性与安全 | 20 | 0.86% | 可信/安全/公平 | `robustness / adversarial / perturbations / surrogate losses` | On the Existence of The Adversarial Bayes Classifier |
 | [048](topic-048.md) | 强化学习算法与理论 | 20 | 0.86% | 理论/优化 | `safety / control / policy / mdps` | Derivative-Free Policy Optimization for Linear Risk-Sensitive and Robust Control Design: Implicit Regularization and Sample Complexity |
-| [049](topic-049.md) | 多模态学习与跨模态理解 | 20 | 0.86% | 多模态/VLM | `visual / video / event / language` | Probing Inter-modality: Visual Parsing with Self-Attention for Vision-and-Language Pre-training |
+| [049](topic-049.md) | 视觉导航与语义地图 | 20 | 0.86% | 多模态/VLM | `visual / video / event / language` | Probing Inter-modality: Visual Parsing with Self-Attention for Vision-and-Language Pre-training |
 | [050](topic-050.md) | 凸/非凸优化理论 | 20 | 0.86% | 理论/优化 | `lipschitz / optimizers / proxy / robust optimization` | Differentiable Optimization of Generalized Nondecomposable Functions using Linear Programs |
 | [051](topic-051.md) | 搜索排序与相关性建模 | 20 | 0.86% | 系统/效率/压缩 | `search / architecture / latency / supernet` | How Powerful are Performance Predictors in Neural Architecture Search? |
 | [052](topic-052.md) | program / imperative / symbolic / synthesis | 20 | 0.86% | 生成模型 | `program / imperative / symbolic / synthesis` | Neural Program Generation Modulo Static Analysis |
@@ -82,12 +82,12 @@
 | [068](topic-068.md) | 语音/音频语言模型 | 15 | 0.64% | 语音/音频/音乐 | `recurrent / rnns / speech / integration` | Learning and Generalization in RNNs |
 | [071](topic-071.md) | 扩散生成模型 | 14 | 0.60% | 生成模型 | `diffusion / score-based / normalizing flow / generative` | Variational Diffusion Models |
 | [072](topic-072.md) | 多模态学习与跨模态理解 | 14 | 0.60% | 多模态/VLM | `ensemble / trustworthy / predictions / categorical` | Backward-Compatible Prediction Updates: A Probabilistic Approach |
-| [073](topic-073.md) | 强化学习算法与理论 | 14 | 0.60% | 强化学习/决策 | `imitation / demonstrations / policy / expert` | IQ-Learn: Inverse soft-Q Learning for Imitation |
+| [073](topic-073.md) | 模仿学习与机器人示教 | 14 | 0.60% | 强化学习/决策 | `imitation / demonstrations / policy / expert` | IQ-Learn: Inverse soft-Q Learning for Imitation |
 | [069](topic-069.md) | 图神经网络与图表示学习 | 14 | 0.60% | AI4Science/医疗 | `molecular / molecules / protein / drug` | Motif-based Graph Self-Supervised Learning for Molecular Property Prediction |
 | [070](topic-070.md) | 随机优化与收敛理论 | 14 | 0.60% | 理论/优化 | `decentralized / communication / distributed / workers` | Asynchronous Decentralized SGD with Quantized and Local Updates |
 | [076](topic-076.md) | 搜索排序与相关性建模 | 13 | 0.56% | 理论/优化 | `cvar / regret / feedback / jobs` | Regret Bounds for Gaussian-Process Optimization in Large Domains |
 | [075](topic-075.md) | pca / principal component / amp / matrix | 13 | 0.56% | 理论/优化 | `pca / principal component / amp / matrix` | PCA Initialization for Approximate Message Passing in Rotationally Invariant Models |
-| [074](topic-074.md) | 代码生成与程序理解 | 13 | 0.56% | 生成模型 | `routing / combinatorial / solutions / heuristics` | Learning to delegate for large-scale vehicle routing |
+| [074](topic-074.md) | routing / combinatorial / solutions / heuristics | 13 | 0.56% | 生成模型 | `routing / combinatorial / solutions / heuristics` | Learning to delegate for large-scale vehicle routing |
 | [079](topic-079.md) | scene / relations / objects / multi-view | 13 | 0.56% | 计算机视觉 | `scene / relations / objects / multi-view` | Learning to Compose Visual Relations |
 | [078](topic-078.md) | 多智能体协作与规划 | 13 | 0.56% | 强化学习/决策 | `games / human / agents / marl` | Collaborating with Humans without Human Data |
 | [077](topic-077.md) | 公平性、偏见与可信 AI | 13 | 0.56% | 可信/安全/公平 | `fairness / post-processing / valuation / debiasing` | Fair Classification with Adversarial Perturbations |

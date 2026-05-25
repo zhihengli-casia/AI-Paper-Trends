@@ -22,7 +22,7 @@
 | [008](topic-008.md) | 对抗攻击、鲁棒性与安全 | 18 | 4.47% | 生成模型 | `face / facial / generative / age` | Recurrent Generative Adversarial Network for Face Completion |
 | [009](topic-009.md) | 多视图聚类与图学习 | 18 | 4.47% | 图学习/数据挖掘 | `clustering / multi-view / subspace / tensor` | On Reliable Multi-View Affinity Learning for Subspace Clustering |
 | [010](topic-010.md) | 多模态学习与跨模态理解 | 17 | 4.22% | 计算机视觉 | `multimodal / question / segmentation / language` | PFAN++: Bi-Directional Image-Text Retrieval With Position Focused Attention Network |
-| [011](topic-011.md) | tracking / uav / real-time / filter | 15 | 3.72% | 计算机视觉 | `tracking / uav / real-time / filter` | Adaptive Multi-Feature Reliability Re-Determinative Correlation Filter for Visual Tracking |
+| [011](topic-011.md) | 无人机/四旋翼规划与控制 | 15 | 3.72% | 3D/具身/机器人 | `tracking / uav / real-time / filter` | Adaptive Multi-Feature Reliability Re-Determinative Correlation Filter for Visual Tracking |
 | [012](topic-012.md) | 对抗攻击、鲁棒性与安全 | 14 | 3.47% | 可信/安全/公平 | `encrypted / attacks / image representation / adversarial` | A Recursive Reversible Data Hiding in Encrypted Images Method With a Very High Payload |
 | [013](topic-013.md) | 点云表示与 3D 感知 | 14 | 3.47% | 3D/具身/机器人 | `quality / assessment / rendering / stereoscopic` | Quality Index for View Synthesis by Measuring Instance Degradation and Global Appearance |
 | [014](topic-014.md) | 多模态情感理解 | 12 | 2.98% | 多模态/VLM | `emotion / facial / classification / affective` | Weakly Supervised Emotion Intensity Prediction for Recognition of Emotions in Images |

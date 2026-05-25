@@ -1,8 +1,8 @@
-# IROS 2024: pneumatic / soft / actuators / bending
+# IROS 2024: 软体机器人与柔性执行器
 
 - Topic ID: `66`
 - Papers: **11** (0.70%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `pneumatic / soft / actuators / bending`
 - Keyword pool: pneumatic; soft; actuators; bending; sensing; control; robotic fish; pouch; muscle; motors; fractional; fiber
 

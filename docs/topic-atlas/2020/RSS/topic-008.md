@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **7** (7.14%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `robot / learning / bayesian / domain`
 - Keyword pool: robot; learning; bayesian; domain; inference; language; simulations; user
 

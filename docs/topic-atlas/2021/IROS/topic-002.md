@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **33** (3.24%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `object / scene / detection / indoor`
 - Keyword pool: object; scene; detection; indoor; segmentation; monitoring; images; perception; classification; search; fusion; automatic
 

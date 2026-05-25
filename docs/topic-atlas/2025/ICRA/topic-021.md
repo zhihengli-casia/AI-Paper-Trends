@@ -1,8 +1,8 @@
-# ICRA 2025: 机器人操作与具身智能
+# ICRA 2025: 机器人操作与抓取
 
 - Topic ID: `21`
 - Papers: **26** (1.63%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `whole-body / humanoid / control / mobile manipulation`
 - Keyword pool: whole-body; humanoid; control; mobile manipulation; motion; predictive; learning-based; robot; transition; assistance; reinforcement learning; integrating
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **15** (1.13%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning predictive / goal / plan / reinforcement learning`
 - Keyword pool: learning predictive; goal; plan; reinforcement learning; policy; behavior; representation; memory-based; horizon; objectives; language instructions; long
 

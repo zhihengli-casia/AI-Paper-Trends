@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **22** (1.38%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `optimization / path / integral / control`
 - Keyword pool: optimization; path; integral; control; optimal; planning; predictive; orientation; stable; multi-objective; ergodic; smooth
 

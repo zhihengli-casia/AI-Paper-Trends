@@ -2,7 +2,7 @@
 
 - Topic ID: `50`
 - Papers: **23** (0.88%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `agents / llms / language / planning`
 - Keyword pool: agents; llms; language; planning; reasoning; web; environment; skill; embodied; plans; llm-based; competition
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **27** (1.69%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `odometry / enhanced / depth / fusion`
 - Keyword pool: odometry; enhanced; depth; fusion; point; recognition; slam; human; object detection; velocity; cloud; feature
 

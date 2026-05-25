@@ -1,8 +1,8 @@
-# IROS 2024: quadrotors / landing / data-driven / uav
+# IROS 2024: 无人机/四旋翼规划与控制
 
 - Topic ID: `68`
 - Papers: **11** (0.70%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `quadrotors / landing / data-driven / uav`
 - Keyword pool: quadrotors; landing; data-driven; uav; vertical; multi-rotor; sensor; online; movement primitives; isolation; fault; error-state kalman filter
 

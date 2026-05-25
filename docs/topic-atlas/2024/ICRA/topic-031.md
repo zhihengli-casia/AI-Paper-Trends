@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **21** (1.21%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / open-vocabulary / scene / visual`
 - Keyword pool: language; open-vocabulary; scene; visual; graphs; knowledge; perception; semantic; grounding; distillation; map; action recognition
 

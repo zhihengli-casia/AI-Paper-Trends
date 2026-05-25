@@ -1,8 +1,8 @@
-# IROS 2024: 机器人操作与具身智能
+# IROS 2024: 多机器人路径规划与协同导航
 
 - Topic ID: `13`
 - Papers: **29** (1.84%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement learning / multi-agent / multi-robot / decentralized`
 - Keyword pool: reinforcement learning; multi-agent; multi-robot; decentralized; coordination; collaboration; manipulation; human-robot; formation; inverse reinforcement; learning robot; heterogeneous
 

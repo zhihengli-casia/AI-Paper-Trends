@@ -1,8 +1,8 @@
-# IROS 2021: learning / skill / domain / adaptation
+# IROS 2021: 机器人操作与抓取
 
 - Topic ID: `45`
 - Papers: **11** (1.08%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / skill / domain / adaptation`
 - Keyword pool: learning; skill; domain; adaptation; hand-eye; shared control; multiple robotic; collection; knowledge distillation; curiosity; sample-efficient; robotic grasping
 

@@ -1,8 +1,8 @@
-# ICRA 2024: 机器人操作与具身智能
+# ICRA 2024: 多机器人路径规划与协同导航
 
 - Topic ID: `41`
 - Papers: **17** (0.98%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-robot / allocation / heterogeneous / teams`
 - Keyword pool: multi-robot; allocation; heterogeneous; teams; coordination; asynchronous; time; multi-agent; dynamic; reinforcement learning; behavior tree; behaviour
 

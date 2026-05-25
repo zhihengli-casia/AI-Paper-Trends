@@ -1,8 +1,8 @@
-# ECCV 2022: 具身智能与物理交互
+# ECCV 2022: 视觉语言导航与具身指令跟随
 
 - Topic ID: `68`
 - Papers: **11** (0.67%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / agent / vision-and-language / instruction`
 - Keyword pool: navigation; agent; vision-and-language; instruction; environment; feasibility; unseen; navigate; embodied; motif; assistive; natural language
 

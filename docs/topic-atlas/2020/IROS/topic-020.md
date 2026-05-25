@@ -1,8 +1,8 @@
-# IROS 2020: 机器人操作与具身智能
+# IROS 2020: 足式机器人与运动控制
 
 - Topic ID: `20`
 - Papers: **20** (1.79%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `quadruped / locomotion / robot / decentralized`
 - Keyword pool: quadruped; locomotion; robot; decentralized; snake; control; running; decomposition; walking; stable; deep reinforcement; learning
 

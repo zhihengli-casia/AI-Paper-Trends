@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **31** (1.97%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement learning / policy / safe / dynamics`
 - Keyword pool: reinforcement learning; policy; safe; dynamics; offline; planner; model-based; imitation learning; constraint; decision; planning; transformer
 

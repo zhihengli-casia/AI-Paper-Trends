@@ -1,8 +1,8 @@
-# CHI 2020: 自动驾驶感知与世界模型
+# CHI 2020: 无人机/四旋翼规划与控制
 
 - Topic ID: `25`
 - Papers: **15** (2.03%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `smartphones / support / evaluating / device`
 - Keyword pool: smartphones; support; evaluating; device; awareness; white; driving; maternal; influences perception; indoor; human-drone interaction; pictorial
 

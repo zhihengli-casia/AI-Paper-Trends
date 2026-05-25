@@ -1,8 +1,8 @@
-# ICRA 2024: 规划搜索与决策推理
+# ICRA 2024: 时序逻辑约束下的机器人任务规划
 
 - Topic ID: `2`
 - Papers: **45** (2.58%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / temporal / logic / motion`
 - Keyword pool: planning; temporal; logic; motion; specifications; policies; learning; observability; explanations; optimal; generating; llms
 

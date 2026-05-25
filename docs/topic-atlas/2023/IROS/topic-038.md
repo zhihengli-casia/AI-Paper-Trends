@@ -1,8 +1,8 @@
-# IROS 2023: 机器人操作与具身智能
+# IROS 2023: 足式机器人与运动控制
 
 - Topic ID: `38`
 - Papers: **16** (1.35%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `locomotion / quadrupedal / bipedal / learning`
 - Keyword pool: locomotion; quadrupedal; bipedal; learning; quadruped robot; behaviors; safety-critical; reinforcement; control; robust; planning; policy
 

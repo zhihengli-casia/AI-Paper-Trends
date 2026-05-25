@@ -2,7 +2,7 @@
 
 - Topic ID: `4`
 - Papers: **32** (3.00%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / algorithm / path / computing`
 - Keyword pool: planning; algorithm; path; computing; rrt; sampling-based; search; optimal; coverage; informed; planner; energy
 

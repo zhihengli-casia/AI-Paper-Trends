@@ -1,8 +1,8 @@
-# IROS 2022: LiDAR 点云与 3D 感知
+# IROS 2022: 机器人 SLAM 与定位建图
 
 - Topic ID: `8`
 - Papers: **27** (2.25%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `localization / slam / lidar / mapping`
 - Keyword pool: localization; slam; lidar; mapping; long-term; robust; maps; changing; gas; degradation; resilient; multi-modal
 

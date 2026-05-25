@@ -176,14 +176,25 @@ MACRO_KEYWORDS = {
     "3D/具身/机器人": {
         "3d",
         "robot",
+        "robotic",
         "robotics",
+        "multi-robot",
+        "human-robot",
         "embodied",
+        "manipulation",
+        "grasping",
+        "locomotion",
         "navigation",
         "autonomous driving",
         "driving",
         "point cloud",
         "nerf",
         "slam",
+        "quadrotor",
+        "uav",
+        "drone",
+        "teleoperation",
+        "haptic",
     },
     "强化学习/决策": {
         "reinforcement learning",
@@ -493,9 +504,26 @@ def assign_macro_topic(terms: list[str], representative_titles: list[str]) -> st
     ):
         scores["多模态/VLM"] += 3
     if scores.get("3D/具身/机器人") and any(
-        marker in text for marker in ("embodied", "robot", "robotics", "autonomous driving", "point cloud")
+        marker in text
+        for marker in (
+            "embodied",
+            "robot",
+            "robotic",
+            "robotics",
+            "multi-robot",
+            "human-robot",
+            "manipulation",
+            "locomotion",
+            "slam",
+            "autonomous driving",
+            "point cloud",
+        )
     ):
-        scores["3D/具身/机器人"] += 2
+        scores["3D/具身/机器人"] += 4
+    if scores.get("3D/具身/机器人") and scores.get("LLM/语言模型") and any(
+        marker in text for marker in ("planning", "navigation", "commands", "behavior tree", "robot")
+    ):
+        scores["3D/具身/机器人"] += 4
     if not scores:
         return "其他/交叉主题"
     return max(scores.items(), key=lambda item: (item[1], item[0]))[0]

@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **15** (1.93%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `portfolio / market / manipulation / trading`
 - Keyword pool: portfolio; market; manipulation; trading; risk; reinforcement; streams; financial; returns; policy; gan; order
 

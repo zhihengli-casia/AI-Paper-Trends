@@ -1,8 +1,8 @@
-# IROS 2020: 机器人操作与具身智能
+# IROS 2020: 多机器人路径规划与协同导航
 
 - Topic ID: `42`
 - Papers: **14** (1.26%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-robot / teams / multi-agent / communication`
 - Keyword pool: multi-robot; teams; multi-agent; communication; adaptive; sampling; sparse; heterogeneous; learning; discrete; modeling dynamic; removal
 

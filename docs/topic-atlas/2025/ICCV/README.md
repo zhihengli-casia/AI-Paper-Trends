@@ -19,7 +19,7 @@
 | [005](topic-005.md) | scene / views / multi-view / reconstruction | 54 | 2.00% | 计算机视觉 | `scene / views / multi-view / reconstruction` | Bolt3D: Generating 3D Scenes in Seconds |
 | [006](topic-006.md) | 深度估计与立体匹配 | 54 | 2.00% | LLM/语言模型 | `depth / stereo / monocular / matching` | S2M2: Scalable Stereo Matching Model for Reliable Depth Estimation |
 | [007](topic-007.md) | 对抗攻击、鲁棒性与安全 | 49 | 1.81% | 生成模型 | `backdoor / attacks / watermarking / copyright` | CopyrightShield: Enhancing Diffusion Model Security Against Copyright Infringement Attacks |
-| [008](topic-008.md) | 机器人操作与具身智能 | 47 | 1.74% | 3D/具身/机器人 | `robot / action / manipulation / policy` | Learning 4D Embodied World Models |
+| [008](topic-008.md) | 机器人操作与抓取 | 47 | 1.74% | 3D/具身/机器人 | `robot / action / manipulation / policy` | Learning 4D Embodied World Models |
 | [009](topic-009.md) | 文生图生成与个性化编辑 | 46 | 1.70% | 生成模型 | `text-to-image / t2i / ocr / captions` | DIMCIM: A Quantitative Evaluation Framework for Default-mode Diversity and Generalization in Text-to-Image Generative Models |
 | [010](topic-010.md) | 图像复原与超分辨率 | 45 | 1.67% | 计算机视觉 | `restoration / degradations / blind / degraded` | UniRes: Universal Image Restoration for Complex Degradations |
 | [011](topic-011.md) | LiDAR 点云与 3D 感知 | 44 | 1.63% | 多模态/VLM | `lidar / object detection / localization / pose` | Perspective-Invariant 3D Object Detection |
@@ -34,10 +34,10 @@
 | [020](topic-020.md) | 多模态大模型与视觉语言推理 | 38 | 1.41% | 多模态/VLM | `mllms / multimodal / tokens / sign` | Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs |
 | [021](topic-021.md) | 运动建模 / gait / monster / soccer | 37 | 1.37% | 多模态/VLM | `motion / gait / monster / soccer` | Motion-2-to-3: Leveraging 2D Motion Data for 3D Motion Generations |
 | [022](topic-022.md) | 自动驾驶感知与世界模型 | 33 | 1.22% | 3D/具身/机器人 | `driving / trajectory / autonomous / planning` | World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model |
-| [023](topic-023.md) | 具身智能与物理交互 | 32 | 1.18% | 3D/具身/机器人 | `navigation / gui / agents / embodied` | RoboTrom-Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction |
+| [023](topic-023.md) | 视觉语言导航与具身指令跟随 | 32 | 1.18% | 3D/具身/机器人 | `navigation / gui / agents / embodied` | RoboTrom-Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction |
 | [024](topic-024.md) | 隐私保护与安全学习 | 32 | 1.18% | 可信/安全/公平 | `forgery / deepfake / detection / traces` | Seeing Through Deepfakes: A Human-Inspired Framework for Multi-Face Detection |
 | [025](topic-025.md) | 多模态大模型与视觉语言推理 | 31 | 1.15% | 多模态/VLM | `pruning / tokens / lvlms / acceleration` | Growing a Twig to Accelerate Large Vision-Language Models |
-| [026](topic-026.md) | 目标检测与图像分割 | 31 | 1.15% | 多模态/VLM | `domain / object detection / source / adaptation` | Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability |
+| [026](topic-026.md) | 机器人视觉目标检测与域适应 | 31 | 1.15% | 多模态/VLM | `domain / object detection / source / adaptation` | Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability |
 | [027](topic-027.md) | mesh / cad / shape / geometry | 30 | 1.11% | 生成模型 | `mesh / cad / shape / geometry` | Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation |
 | [028](topic-028.md) | 文生图生成与个性化编辑 | 30 | 1.11% | 生成模型 | `text-to-image / prompt / golden / noise` | Reusing Computation in Text-to-Image Diffusion for Efficient Generation of Image Sets |
 | [029](topic-029.md) | 视觉语言模型与多模态理解 | 29 | 1.07% | 计算机视觉 | `hoi / amodal / relation / human-object` | Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models |
@@ -69,7 +69,7 @@
 | [055](topic-055.md) | 多视图聚类与图学习 | 21 | 0.78% | 多模态/VLM | `medical / brain / anatomical / chest` | CoSMIC: Continual Self-supervised Learning for Multi-Domain Medical Imaging via Conditional Mutual Information Maximization |
 | [056](topic-056.md) | 多模态学习与跨模态理解 | 21 | 0.78% | 多模态/VLM | `modality / modalities / multimodal / unimodal` | Boosting Multimodal Learning via Disentangled Gradient Learning |
 | [057](topic-057.md) | assembly / shape / pose / parametric | 21 | 0.78% | 计算机视觉 | `assembly / shape / pose / parametric` | Combinative Matching for Geometric Shape Assembly |
-| [058](topic-058.md) | affordance / grasp / dexterous / robotic | 20 | 0.74% | 3D/具身/机器人 | `affordance / grasp / dexterous / robotic` | RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping |
+| [058](topic-058.md) | 机器人操作与抓取 | 20 | 0.74% | 3D/具身/机器人 | `affordance / grasp / dexterous / robotic` | RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping |
 | [059](topic-059.md) | illumination / color / relighting / low-light | 20 | 0.74% | 计算机视觉 | `illumination / color / relighting / low-light` | After the Party: Navigating the Mapping From Color to Ambient Lighting |
 | [060](topic-060.md) | vits / linear attention / vision transformers / self-attention | 20 | 0.74% | 系统/效率/压缩 | `vits / linear attention / vision transformers / self-attention` | ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models |
 | [061](topic-061.md) | 文生图生成与个性化编辑 | 19 | 0.70% | 生成模型 | `style / stylization / artistic / stylized` | Co-Painter: Fine-Grained Controllable Image Stylization via Implicit Decoupling and Adaptive Injection |
@@ -86,9 +86,9 @@
 | [072](topic-072.md) | 点云表示与 3D 感知 | 17 | 0.63% | 3D/具身/机器人 | `point / cloud / surface / tree` | Revisiting Point Cloud Completion: Are We Ready For The Real-World? |
 | [073](topic-073.md) | 图像复原与超分辨率 | 16 | 0.59% | 理论/优化 | `polarization / optics / imaging / polarimetric` | Generalizable Non-Line-of-Sight Imaging with Learnable Physical Priors |
 | [074](topic-074.md) | 深度估计与立体匹配 | 16 | 0.59% | 计算机视觉 | `rendering / light / inverse / sar` | Inverse Image-Based Rendering for Light Field Generation from Single Images |
-| [075](topic-075.md) | 3D Gaussian Splatting 与场景重建 | 16 | 0.59% | 多模态/VLM | `occupancy / splatting / gaussian / vision-based` | EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding |
+| [075](topic-075.md) | 3D Gaussian Splatting 与场景重建 | 16 | 0.59% | 3D/具身/机器人 | `occupancy / splatting / gaussian / vision-based` | EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding |
 | [076](topic-076.md) | 运动建模 / game / skill / interaction | 16 | 0.59% | 生成模型 | `motion / game / skill / interaction` | PRIMAL: Physically Reactive and Interactive Motor Model for Avatar Learning |
-| [077](topic-077.md) | 3D Gaussian Splatting 与场景重建 | 16 | 0.59% | 计算机视觉 | `gaussian splatting / reconstruction / rendering / scene` | S3R-GS: Streamlining the Pipeline for Large-Scale Street Scene Reconstruction |
+| [077](topic-077.md) | 3D Gaussian Splatting 与场景重建 | 16 | 0.59% | 3D/具身/机器人 | `gaussian splatting / reconstruction / rendering / scene` | S3R-GS: Streamlining the Pipeline for Large-Scale Street Scene Reconstruction |
 | [078](topic-078.md) | 视频动作生成与运动控制 | 16 | 0.59% | 生成模型 | `identity / facial / swapping / text-to-video` | PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation |
 | [081](topic-081.md) | 点云表示与 3D 感知 | 15 | 0.56% | 3D/具身/机器人 | `registration / point / correspondences / spherical` | RARE: Refine Any Registration of Pairwise Point Clouds via Zero-Shot Learning |
 | [080](topic-080.md) | 多模态大模型与视觉语言推理 | 15 | 0.56% | 多模态/VLM | `video-llms / frame selection / questions / candidate` | From Trial to Triumph: Advancing Long Video Understanding via Visual Context Sample Scaling and Self-reward Alignment |
@@ -98,7 +98,7 @@
 | [084](topic-084.md) | 隐私保护与安全学习 | 14 | 0.52% | 可信/安全/公平 | `federated / client / heterogeneity / privacy` | Client2Vec: Improving Federated Learning by Distribution Shifts Aware Client Indexing |
 | [085](topic-085.md) | 多模态学习与跨模态理解 | 14 | 0.52% | 多模态/VLM | `geo-localization / visual localization / satellite / photos` | Where am I? Cross-View Geo-localization with Natural Language Descriptions |
 | [086](topic-086.md) | 语音/音频语言模型 | 14 | 0.52% | 语音/音频/音乐 | `dance / gesture / music / motion` | Music-Aligned Holistic 3D Dance Generation via Hierarchical Motion Modeling |
-| [087](topic-087.md) | 视觉语言模型与多模态理解 | 14 | 0.52% | 多模态/VLM | `attack / adversarial / safety / t2i` | Automated Red Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models |
+| [087](topic-087.md) | 视觉语言模型与多模态理解 | 14 | 0.52% | 3D/具身/机器人 | `attack / adversarial / safety / t2i` | Automated Red Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models |
 | [088](topic-088.md) | 视频动作生成与运动控制 | 14 | 0.52% | 生成模型 | `motion / control / character / animation` | I2V3D: Controllable Image-to-video Generation with 3D Guidance |
 | [089](topic-089.md) | merging / multi-task learning / early stages / gradient | 14 | 0.52% | 理论/优化 | `merging / multi-task learning / early stages / gradient` | FW-Merging: Scaling Model Merging with Frank-Wolfe Optimization |
 | [090](topic-090.md) | graphic / layered / editing / layout | 14 | 0.52% | 生成模型 | `graphic / layered / editing / layout` | DreamLayer: Simultaneous Multi-Layer Generation via Diffusion Model |

@@ -1,8 +1,8 @@
-# ICRA 2022: 攻击、防御与模型安全
+# ICRA 2022: 无人机/四旋翼规划与控制
 
 - Topic ID: `32`
 - Papers: **14** (1.52%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `quadrotors / tracking / control / trajectory`
 - Keyword pool: quadrotors; tracking; control; trajectory; attack; collision avoidance; elastic; uav; predictive; adaptive; learning; spatio-temporal
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **36** (2.07%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `control barrier / neural / learning / safety`
 - Keyword pool: control barrier; neural; learning; safety; barrier functions; motion; dynamical; dynamics; vision-based; planning; attacks; manifolds
 

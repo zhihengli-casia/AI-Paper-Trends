@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **26** (1.21%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `hand / pose / contact / interaction`
 - Keyword pool: hand; pose; contact; interaction; interacting; body; egocentric; grasping; estimation; hyperbolic; reconstruction; motion
 

@@ -21,7 +21,7 @@
 | [007](topic-007.md) | 多模态大模型与视觉语言推理 | 46 | 1.60% | LLM/语言模型 | `retrieval / document / composed image / query` | CoLLM: A Large Language Model for Composed Image Retrieval |
 | [008](topic-008.md) | 多模态大模型与视觉语言推理 | 43 | 1.50% | 多模态/VLM | `tokens / pruning / language / vlms` | Accelerating Multimodal Large Language Models by Searching Optimal Vision Token Reduction |
 | [009](topic-009.md) | 视频动作生成与运动控制 | 40 | 1.39% | 生成模型 | `motion / body / action / video` | Move-in-2D: 2D-Conditioned Human Motion Generation |
-| [010](topic-010.md) | reconstruction / sfm / camera / slam | 38 | 1.32% | 计算机视觉 | `reconstruction / sfm / camera / slam` | 4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians |
+| [010](topic-010.md) | reconstruction / sfm / camera / slam | 38 | 1.32% | 3D/具身/机器人 | `reconstruction / sfm / camera / slam` | 4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians |
 | [011](topic-011.md) | 视频动作生成与运动控制 | 38 | 1.32% | 生成模型 | `video / motion / camera / editing` | Motion Prompting: Controlling Video Generation with Motion Trajectories |
 | [012](topic-012.md) | 多模态学习与跨模态理解 | 37 | 1.29% | 生成模型 | `autoregressive / visual generation / auto-regressive / understanding generation` | TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation |
 | [013](topic-013.md) | 多模态大模型与视觉语言推理 | 37 | 1.29% | 多模态/VLM | `backdoor / attack / safety / adversarial` | Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift |
@@ -42,7 +42,7 @@
 | [027](topic-027.md) | 深度估计与立体匹配 | 29 | 1.01% | 计算机视觉 | `deblurring / stereo / imaging / motion` | Quad-Pixel Image Defocus Deblurring: A New Benchmark and Model |
 | [028](topic-028.md) | 图像复原与超分辨率 | 29 | 1.01% | 计算机视觉 | `restoration / denoising / noise / pnp` | Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond) |
 | [031](topic-031.md) | 3D Gaussian Splatting 与场景重建 | 29 | 1.01% | 计算机视觉 | `splatting / gaussian / rendering / reconstruction` | SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis |
-| [032](topic-032.md) | hand / bimanual / dexterous / grasping | 29 | 1.01% | 生成模型 | `hand / bimanual / dexterous / grasping` | FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation |
+| [032](topic-032.md) | 机器人操作与抓取 | 29 | 1.01% | 3D/具身/机器人 | `hand / bimanual / dexterous / grasping` | FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation |
 | [033](topic-033.md) | cad / mesh / shape / reconstruction | 29 | 1.01% | 生成模型 | `cad / mesh / shape / reconstruction` | CADDreamer: CAD Object Generation from Single-view Images |
 | [029](topic-029.md) | vits / quantization / vision transformers / neural | 29 | 1.01% | 系统/效率/压缩 | `vits / quantization / vision transformers / neural` | Quantization without Tears |
 | [034](topic-034.md) | pose / body / human mesh / reconstruction | 28 | 0.98% | 计算机视觉 | `pose / body / human mesh / reconstruction` | Reconstructing People, Places, and Cameras |
@@ -58,12 +58,12 @@
 | [044](topic-044.md) | 文生图生成与个性化编辑 | 26 | 0.91% | 生成模型 | `erasure / concept / unlearning / text-to-image` | Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters |
 | [045](topic-045.md) | 社交媒体与社会计算 | 26 | 0.91% | 生成模型 | `video / narratives / temporal / quality assessment` | Video-Bench: Human-Aligned Video Generation Benchmark |
 | [046](topic-046.md) | text-to-3d / scene / assets / editing | 26 | 0.91% | 计算机视觉 | `text-to-3d / scene / assets / editing` | LT3SD: Latent Trees for 3D Scene Diffusion |
-| [047](topic-047.md) | tracking / uav / fusion / association | 26 | 0.91% | 多模态/VLM | `tracking / uav / fusion / association` | SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking |
-| [048](topic-048.md) | 视觉语言模型与多模态理解 | 26 | 0.91% | 多模态/VLM | `agents / gait / gui / embodied` | TANGO: Training-free Embodied AI Agents for Open-world Tasks |
+| [047](topic-047.md) | 无人机/四旋翼规划与控制 | 26 | 0.91% | 3D/具身/机器人 | `tracking / uav / fusion / association` | SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking |
+| [048](topic-048.md) | 视觉语言模型与多模态理解 | 26 | 0.91% | 3D/具身/机器人 | `agents / gait / gui / embodied` | TANGO: Training-free Embodied AI Agents for Open-world Tasks |
 | [049](topic-049.md) | 文生图生成与个性化编辑 | 25 | 0.87% | 生成模型 | `quantization / dit / diffusion transformers / fid` | D^2iT: Dynamic Diffusion Transformer for Accurate Image Generation |
 | [050](topic-050.md) | 多模态大模型与视觉语言推理 | 24 | 0.84% | LLM/语言模型 | `mllms / multimodal / language / question` | Lifting the Veil on Visual Information Flow in MLLMs: Unlocking Pathways to Faster Inference |
 | [051](topic-051.md) | hoi / human-object / contact / interaction | 24 | 0.84% | LLM/语言模型 | `hoi / human-object / contact / interaction` | InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation |
-| [052](topic-052.md) | 具身智能与物理交互 | 23 | 0.80% | 多模态/VLM | `affordance / grounding / gui / scene` | Chain of Semantics Programming in 3D Gaussian Splatting Representation for 3D Vision Grounding |
+| [052](topic-052.md) | 具身智能与物理交互 | 23 | 0.80% | 3D/具身/机器人 | `affordance / grounding / gui / scene` | Chain of Semantics Programming in 3D Gaussian Splatting Representation for 3D Vision Grounding |
 | [053](topic-053.md) | 文生图生成与个性化编辑 | 23 | 0.80% | 生成模型 | `style / inpainting / subject / content` | Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator |
 | [054](topic-054.md) | pose / estimation / category-level / shape | 23 | 0.80% | 计算机视觉 | `pose / estimation / category-level / shape` | Co-op: Correspondence-based Novel Object Pose Estimation |
 | [055](topic-055.md) | 语音/音频语言模型 | 23 | 0.80% | 语音/音频/音乐 | `facial / talking / audio / head` | Diffusion-based Realistic Listening Head Generation via Hybrid Motion Modeling |
@@ -86,14 +86,14 @@
 | [072](topic-072.md) | NeRF 与神经渲染 | 18 | 0.63% | 理论/优化 | `neural / nerf / rendering / radiance` | GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis |
 | [073](topic-073.md) | concept / bottleneck / interpretable / explanations | 18 | 0.63% | 计算机视觉 | `concept / bottleneck / interpretable / explanations` | Show and Tell: Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models |
 | [075](topic-075.md) | 视觉语言模型与多模态理解 | 17 | 0.59% | 多模态/VLM | `distillation / teachers / vlms / merging` | VL2Lite: Task-Specific Knowledge Distillation from Large Vision-Language Models to Lightweight Networks |
-| [074](topic-074.md) | 视觉语言动作模型与具身操作 | 17 | 0.59% | 多模态/VLM | `manipulation / robotic / policy / skills` | MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation |
+| [074](topic-074.md) | 机器人操作与抓取 | 17 | 0.59% | 3D/具身/机器人 | `manipulation / robotic / policy / skills` | MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation |
 | [076](topic-076.md) | 视觉语言模型与多模态理解 | 17 | 0.59% | 多模态/VLM | `clip / language-image pre-training / v-l / retrieval` | SmartCLIP: Modular Vision-language Alignment with Identification Guarantees |
 | [078](topic-078.md) | NeRF 与神经渲染 | 17 | 0.59% | 生成模型 | `inverse rendering / material / reconstruction / light` | Neural Inverse Rendering from Propagating Light |
 | [077](topic-077.md) | 多模态大模型与视觉语言推理 | 17 | 0.59% | 多模态/VLM | `hallucination / lvlms / mllms / hallucinated` | Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention |
 | [081](topic-081.md) | 参数高效微调与模型适配 | 16 | 0.56% | 多模态/VLM | `peft / fine-tuning / parameter-efficient / pet` | Lessons and Insights from a Unifying Study of Parameter-Efficient Fine-Tuning (PEFT) in Visual Recognition |
 | [082](topic-082.md) | sampling / timestep / steps / ssd | 16 | 0.56% | 系统/效率/压缩 | `sampling / timestep / steps / ssd` | Adaptive Non-Uniform Timestep Sampling for Accelerating Diffusion Model Training |
 | [083](topic-083.md) | garment / try-on / virtual / clothing | 16 | 0.56% | 生成模型 | `garment / try-on / virtual / clothing` | AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models |
-| [084](topic-084.md) | 文生图生成与个性化编辑 | 16 | 0.56% | LLM/语言模型 | `editing / instruction-based / text-guided image / shadow` | InsightEdit: Towards Better Instruction Following for Image Editing |
+| [084](topic-084.md) | 文生图生成与个性化编辑 | 16 | 0.56% | 3D/具身/机器人 | `editing / instruction-based / text-guided image / shadow` | InsightEdit: Towards Better Instruction Following for Image Editing |
 | [085](topic-085.md) | inr / neural / dropout / implicit | 16 | 0.56% | 系统/效率/压缩 | `inr / neural / dropout / implicit` | MIRE: Matched Implicit Neural Representations |
 | [086](topic-086.md) | relative pose / cameras / distortion / solver | 16 | 0.56% | 计算机视觉 | `relative pose / cameras / distortion / solver` | Practical Solutions to the Relative Pose of Three Calibrated Cameras |
 | [087](topic-087.md) | physics / physical / material / simulation | 16 | 0.56% | 多模态/VLM | `physics / physical / material / simulation` | FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity |
@@ -114,7 +114,7 @@
 | [100](topic-100.md) | 机器人操作与具身智能 | 14 | 0.49% | 3D/具身/机器人 | `navigation / urban / agents / policy` | Navigation World Models |
 | [101](topic-101.md) | distillation / dms / matching / expert | 14 | 0.49% | 生成模型 | `distillation / dms / matching / expert` | Enhancing Dataset Distillation via Non-Critical Region Refinement |
 | [107](topic-107.md) | ood / detection / out-of-distribution / in-distribution | 13 | 0.45% | 多模态/VLM | `ood / detection / out-of-distribution / in-distribution` | Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection |
-| [102](topic-102.md) | manipulation / robotic / action / assembly | 13 | 0.45% | 3D/具身/机器人 | `manipulation / robotic / action / assembly` | FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation |
+| [102](topic-102.md) | 机器人操作与抓取 | 13 | 0.45% | 3D/具身/机器人 | `manipulation / robotic / action / assembly` | FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation |
 | [104](topic-104.md) | 视觉语言模型与多模态理解 | 13 | 0.45% | LLM/语言模型 | `reasoning / video / question / answering` | VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection |
 | [103](topic-103.md) | symmetry / equivariance / equivariant / rotation | 13 | 0.45% | 计算机视觉 | `symmetry / equivariance / equivariant / rotation` | A Regularization-Guided Equivariant Approach for Image Restoration |
 | [106](topic-106.md) | sketch / animation / colorization / creation | 13 | 0.45% | 生成模型 | `sketch / animation / colorization / creation` | Image Referenced Sketch Colorization Based on Animation Creation Workflow |

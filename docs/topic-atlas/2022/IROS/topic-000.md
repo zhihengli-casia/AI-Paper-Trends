@@ -1,4 +1,4 @@
-# IROS 2022: walking / humanoid / balance / whole-body
+# IROS 2022: 人形机器人与全身控制
 
 - Topic ID: `0`
 - Papers: **33** (2.75%)

@@ -1,4 +1,4 @@
-# SIGMOD 2020: 查询理解与检索优化
+# SIGMOD 2020: queries / join / 图学习 / query
 
 - Topic ID: `0`
 - Papers: **17** (10.69%)

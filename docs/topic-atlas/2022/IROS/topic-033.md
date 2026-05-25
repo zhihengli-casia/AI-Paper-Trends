@@ -1,8 +1,8 @@
-# IROS 2022: 规划搜索与决策推理
+# IROS 2022: 视觉导航与语义地图
 
 - Topic ID: `33`
 - Papers: **16** (1.33%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / deep / learning / reinforcement`
 - Keyword pool: navigation; deep; learning; reinforcement; neural; representations; visual; motion; planning; gradient; guidewire; insect-scale
 

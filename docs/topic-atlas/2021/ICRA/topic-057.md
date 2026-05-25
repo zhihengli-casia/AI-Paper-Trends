@@ -1,8 +1,8 @@
-# ICRA 2021: 规划搜索与决策推理
+# ICRA 2021: 时序逻辑约束下的机器人任务规划
 
 - Topic ID: `57`
 - Papers: **11** (0.80%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / planning / probabilistic / scene graphs`
 - Keyword pool: manipulation; planning; probabilistic; scene graphs; logic specifications; rotary; scenario; optimization-based motion; near-optimal; general-purpose; signal temporal; symbolic
 

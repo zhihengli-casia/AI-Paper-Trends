@@ -1,8 +1,8 @@
-# IROS 2022: 代码生成与程序理解
+# IROS 2022: 人机交互与协作机器人
 
 - Topic ID: `41`
 - Papers: **14** (1.16%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `collaboration / human-robot / action / safe`
 - Keyword pool: collaboration; human-robot; action; safe; proximity; hierarchical quadratic programming; object manipulation; operator; environment perception; planning considering; probabilistic motion planning; inspection robot
 

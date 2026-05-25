@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **13** (2.05%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 3D/具身/机器人
 - English keywords: `mechanisms / textile / sliders / passive`
 - Keyword pool: mechanisms; textile; sliders; passive; fabrication; robotic; interactive; everyday; force; on-body; form factors; actuation
 

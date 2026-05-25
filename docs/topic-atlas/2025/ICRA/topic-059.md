@@ -2,7 +2,7 @@
 
 - Topic ID: `59`
 - Papers: **11** (0.69%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `driving / language / diffusion / autonomous`
 - Keyword pool: driving; language; diffusion; autonomous; occupancy; video; scene; generative; multimodal; generation; emergency; off-road navigation
 

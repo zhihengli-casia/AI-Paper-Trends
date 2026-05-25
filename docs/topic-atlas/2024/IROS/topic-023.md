@@ -1,8 +1,8 @@
-# IROS 2024: 凸/非凸优化理论
+# IROS 2024: 机器人操作与抓取
 
 - Topic ID: `23`
 - Papers: **24** (1.53%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / contact / unified / collision`
 - Keyword pool: manipulation; contact; unified; collision; object; control; bodies; robotic; rigid; one-shot; robots; convex
 

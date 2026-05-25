@@ -1,8 +1,8 @@
-# CHI 2020: haptic / interactive / fabrication / interfaces
+# CHI 2020: 机器人遥操作与触觉交互
 
 - Topic ID: `4`
 - Papers: **32** (4.32%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `haptic / interactive / fabrication / interfaces`
 - Keyword pool: haptic; interactive; fabrication; interfaces; sensing; sensors; touch; printed; expressive; food; tactile; rapid
 

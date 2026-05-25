@@ -1,4 +1,4 @@
-# EMNLP 2023: 查询理解与检索优化
+# EMNLP 2023: table / sql / tabular / schema
 
 - Topic ID: `33`
 - Papers: **14** (1.34%)

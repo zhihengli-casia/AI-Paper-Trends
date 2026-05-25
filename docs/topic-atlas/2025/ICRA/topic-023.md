@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **24** (1.51%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `segmentation / semantic / instance / open-vocabulary`
 - Keyword pool: segmentation; semantic; instance; open-vocabulary; label; zero-shot; open-world; task-oriented; distillation; knowledge; object; transformer
 

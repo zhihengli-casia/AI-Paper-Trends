@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **11** (1.03%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasping / detection / depth / object`
 - Keyword pool: grasping; detection; depth; object; network; multi-task; deep; segmentation; synthetic; single; ensemble; poking
 

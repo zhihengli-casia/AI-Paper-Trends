@@ -1,8 +1,8 @@
-# IROS 2023: manipulation / contact / object / sim-to-real transfer
+# IROS 2023: 机器人操作与抓取
 
 - Topic ID: `10`
 - Papers: **29** (2.45%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / contact / object / sim-to-real transfer`
 - Keyword pool: manipulation; contact; object; sim-to-real transfer; assembly; learning; force; differentiable; robotic; cloth; pushing; distribution
 

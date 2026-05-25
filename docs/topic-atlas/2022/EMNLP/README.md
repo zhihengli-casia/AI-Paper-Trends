@@ -22,7 +22,7 @@
 | [008](topic-008.md) | 多语言建模与跨语言迁移 | 25 | 3.02% | LLM/语言模型 | `multilingual / languages / cross-lingual / word` | Improving Low-Resource Languages in Pre-Trained Multilingual Language Models |
 | [009](topic-009.md) | transformer / linear / computation / attention heads | 24 | 2.90% | 系统/效率/压缩 | `transformer / linear / computation / attention heads` | H ash F ormers: Towards Vocabulary-independent Pre-trained Transformers |
 | [010](topic-010.md) | 少样本分类与开放集识别 | 22 | 2.66% | 强化学习/决策 | `prompt / tuning / few-shot / parameter-efficient` | Continued Pretraining for Better Zero- and Few-Shot Promptability |
-| [011](topic-011.md) | 查询理解与检索优化 | 21 | 2.54% | 图学习/数据挖掘 | `temporal / reasoning / logical / knowledge graphs` | DSM : Question Generation over Knowledge Base via Modeling Diverse Subgraphs with Meta-learner |
+| [011](topic-011.md) | temporal / 推理 / logical / knowledge graphs | 21 | 2.54% | 图学习/数据挖掘 | `temporal / reasoning / logical / knowledge graphs` | DSM : Question Generation over Knowledge Base via Modeling Diverse Subgraphs with Meta-learner |
 | [012](topic-012.md) | 查询理解与检索优化 | 21 | 2.54% | 推荐/检索/排序 | `query / retrieval / dense / conversational` | CODER : An efficient framework for improving retrieval through CO ntextual Document Embedding Reranking |
 | [015](topic-015.md) | 多模态学习与跨模态理解 | 20 | 2.42% | 多模态/VLM | `image / captioning / captions / multimodal` | Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset |
 | [016](topic-016.md) | distillation / student / teacher / masking | 20 | 2.42% | LLM/语言模型 | `distillation / student / teacher / masking` | Hard Gate Knowledge Distillation - Leverage Calibration for Robust and Reliable Language Model |
@@ -54,7 +54,7 @@
 | [040](topic-040.md) | 社交媒体与社会计算 | 10 | 1.21% | LLM/语言模型 | `mental / media / social / bias` | Unifying Data Perspectivism and Personalization: An Application to Social Norms |
 | [041](topic-041.md) | 具身智能与物理交互 | 10 | 1.21% | 3D/具身/机器人 | `embodied / dialogue / agent / asr` | Don’t Copy the Teacher: Data and Model Challenges in Embodied Dialogue |
 | [042](topic-042.md) | code search / commit / program / code-switched | 10 | 1.21% | 理论/优化 | `code search / commit / program / code-switched` | Exploring Representation-level Augmentation for Code Search |
-| [043](topic-043.md) | 查询理解与检索优化 | 9 | 1.09% | 多模态/VLM | `dialogue / response / multimodal / selection` | JDDC 2.1: A Multimodal C hinese Dialogue Dataset with Joint Tasks of Query Rewriting, Response Generation, Discourse Parsing, and Summarization |
+| [043](topic-043.md) | 多模态学习与跨模态理解 | 9 | 1.09% | 多模态/VLM | `dialogue / response / multimodal / selection` | JDDC 2.1: A Multimodal C hinese Dialogue Dataset with Joint Tasks of Query Rewriting, Response Generation, Discourse Parsing, and Summarization |
 | [044](topic-044.md) | 语音/音频语言模型 | 9 | 1.09% | 多模态/VLM | `hate / speech / detection / classification` | “It’s Not Just Hate”: A Multi-Dimensional Perspective on Detecting Harmful Speech Online |
 | [045](topic-045.md) | 文档摘要与信息压缩 | 9 | 1.09% | 推荐/检索/排序 | `summarization / summary / headline / summaries` | H ydra S um: Disentangling Style Features in Text Summarization with Multi-Decoder Models |
 | [046](topic-046.md) | 机器翻译与跨语言对齐 | 8 | 0.97% | LLM/语言模型 | `non-autoregressive / translation / arabic / nat` | Non-Autoregressive Neural Machine Translation: A Call for Clarity |

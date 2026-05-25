@@ -1,4 +1,4 @@
-# ICDE 2020: 查询理解与检索优化
+# ICDE 2020: spatial / query / search / queries
 
 - Topic ID: `1`
 - Papers: **26** (11.21%)

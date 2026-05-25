@@ -20,11 +20,11 @@
 | [006](topic-006.md) | scene graph / expression / object / relation | 21 | 4.44% | 计算机视觉 | `scene graph / expression / object / relation` | One-shot Scene Graph Generation |
 | [007](topic-007.md) | 查询理解与检索优化 | 20 | 4.23% | 计算机视觉 | `hashing / clustering / retrieval / codes` | Learning Modality-Invariant Latent Representations for Generalized Zero-shot Learning |
 | [008](topic-008.md) | 机器翻译与跨语言对齐 | 19 | 4.02% | NLP任务 | `domain / adaptation / shape / source` | Domain-Specific Alignment Network for Multi-Domain Image-Based 3D Object Retrieval |
-| [009](topic-009.md) | 隐私保护与安全学习 | 19 | 4.02% | 可信/安全/公平 | `occlusion / vehicle / pedestrian / small-scale` | CODAN: Counting-driven Attention Network for Vehicle Detection in Congested Scenes |
+| [009](topic-009.md) | 无人机/四旋翼规划与控制 | 19 | 4.02% | 3D/具身/机器人 | `occlusion / vehicle / pedestrian / small-scale` | CODAN: Counting-driven Attention Network for Vehicle Detection in Congested Scenes |
 | [010](topic-010.md) | streaming / reality / bandwidth / live | 18 | 3.81% | 3D/具身/机器人 | `streaming / reality / bandwidth / live` | An Analysis of Delay in Live 360° Video Streaming Systems |
 | [011](topic-011.md) | music / synthesis / style / rhythmic | 17 | 3.59% | 语音/音频/音乐 | `music / synthesis / style / rhythmic` | Scene-Aware Background Music Synthesis |
 | [012](topic-012.md) | 目标检测与图像分割 | 17 | 3.59% | 计算机视觉 | `few-shot / segmentation / classes / metric` | Meta Parsing Networks: Towards Generalized Few-shot Scene Parsing with Adaptive Metric Learning |
-| [013](topic-013.md) | 点云表示与 3D 感知 | 16 | 3.38% | 计算机视觉 | `point / localization / object / cloud` | RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization |
+| [013](topic-013.md) | 无人机/四旋翼规划与控制 | 16 | 3.38% | 3D/具身/机器人 | `point / localization / object / cloud` | RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization |
 | [014](topic-014.md) | facial / expression / recognition / face | 15 | 3.17% | 计算机视觉 | `facial / expression / recognition / face` | DFEW: A Large-Scale Database for Recognizing Dynamic Facial Expressions in the Wild |
 | [015](topic-015.md) | 多模态情感理解 | 15 | 3.17% | 多模态/VLM | `emotion / multimodal / affective / sentiment` | Transformer-based Label Set Generation for Multi-modal Multi-label Emotion Detection |
 | [016](topic-016.md) | 零样本分类与跨模态识别 | 13 | 2.75% | 计算机视觉 | `fine-grained / web / recognition / zero-shot` | Bridging the Web Data and Fine-Grained Visual Recognition via Alleviating Label Noise and Domain Mismatch |

@@ -1,8 +1,8 @@
-# ICRA 2021: 代码生成与程序理解
+# ICRA 2021: control / predictive / optimal / differential
 
 - Topic ID: `15`
 - Papers: **26** (1.90%)
-- Macro topic: 理论/优化
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / predictive / optimal / differential`
 - Keyword pool: control; predictive; optimal; differential; programming; learning; constrained; forward; dynamics; differentiable; optimization; active
 

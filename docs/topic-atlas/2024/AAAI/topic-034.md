@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **26** (1.12%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `deepfake / forgery / attribution / attack`
 - Keyword pool: deepfake; forgery; attribution; attack; unsafe; detection; manipulation; video; stitching; images; protection; regions
 

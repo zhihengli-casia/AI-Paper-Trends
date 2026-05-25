@@ -1,4 +1,4 @@
-# SIGMOD 2020: 查询理解与检索优化
+# SIGMOD 2020: queries / query / 优化 / spatial
 
 - Topic ID: `3`
 - Papers: **15** (9.43%)

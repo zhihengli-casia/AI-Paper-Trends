@@ -1,8 +1,8 @@
-# IROS 2025: uav / navigation / drones / outdoor environments
+# IROS 2025: 无人机/四旋翼规划与控制
 
 - Topic ID: `73`
 - Papers: **13** (0.66%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `uav / navigation / drones / outdoor environments`
 - Keyword pool: uav; navigation; drones; outdoor environments; off-road; enabling; virtual; zero-shot; vehicle; control; adaptive; laboratory
 

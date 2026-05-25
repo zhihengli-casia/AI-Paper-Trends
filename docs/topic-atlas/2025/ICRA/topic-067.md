@@ -2,7 +2,7 @@
 
 - Topic ID: `67`
 - Papers: **10** (0.63%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `occupancy prediction / map / structure / building`
 - Keyword pool: occupancy prediction; map; structure; building; probabilistic; indoor; information; semantic; representation; decoupling; uncertainty quantification; height
 

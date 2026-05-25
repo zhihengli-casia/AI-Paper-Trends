@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **13** (0.75%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `gripper / sensor / picking / harvesting`
 - Keyword pool: gripper; sensor; picking; harvesting; force; compliant; soft; control; harvested; settings; fruit; module
 

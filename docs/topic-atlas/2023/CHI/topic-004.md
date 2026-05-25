@@ -1,4 +1,4 @@
-# CHI 2023: blind / accessibility / low / vision
+# CHI 2023: 视觉导航与语义地图
 
 - Topic ID: `4`
 - Papers: **36** (4.13%)

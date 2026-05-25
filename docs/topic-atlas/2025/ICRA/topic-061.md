@@ -2,7 +2,7 @@
 
 - Topic ID: `61`
 - Papers: **11** (0.69%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `off-road / terrain / navigation / self-supervised`
 - Keyword pool: off-road; terrain; navigation; self-supervised; adaptive; adaptation; feature tracking; self-reflective; perceptual; low-rank; kinodynamic; changing
 

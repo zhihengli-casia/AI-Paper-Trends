@@ -1,4 +1,4 @@
-# SIGMOD 2022: 查询理解与检索优化
+# SIGMOD 2022: query / incremental / storage / streams
 
 - Topic ID: `11`
 - Papers: **6** (3.92%)

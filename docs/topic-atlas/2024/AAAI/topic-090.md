@@ -1,8 +1,8 @@
-# AAAI 2024: 机器人操作与具身智能
+# AAAI 2024: 多机器人路径规划与协同导航
 
 - Topic ID: `90`
 - Papers: **11** (0.47%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `agents / multi-agent / path / min-max`
 - Keyword pool: agents; multi-agent; path; min-max; planning; makespan; search; lifelong; finding; coverage; graph; multi-robot
 

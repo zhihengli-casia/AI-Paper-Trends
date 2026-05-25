@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **24** (1.45%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `editing / latent / gans / attribute`
 - Keyword pool: editing; latent; gans; attribute; adversarial networks; generative; facial; semantics; manipulation; real images; generator; stylegan
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **13** (1.67%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 3D/具身/机器人
 - English keywords: `committee / voting / voters / rules`
 - Keyword pool: committee; voting; voters; rules; candidates; social; winners; ranking; individuals; preferences; manipulation; complexity
 

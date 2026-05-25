@@ -1,8 +1,8 @@
-# IROS 2021: 多智能体协作与规划
+# IROS 2021: 无人机/四旋翼规划与控制
 
 - Topic ID: `36`
 - Papers: **14** (1.38%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `distributed / collision / multi-agent / avoidance`
 - Keyword pool: distributed; collision; multi-agent; avoidance; obstacles; uav; control; trajectory; connected; compensation; management; handling
 

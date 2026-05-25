@@ -1,8 +1,8 @@
-# ICRA 2024: locomotion / legged / body / robots
+# ICRA 2024: 足式机器人与运动控制
 
 - Topic ID: `9`
 - Papers: **33** (1.89%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `locomotion / legged / body / robots`
 - Keyword pool: locomotion; legged; body; robots; control; dynamic; transformable; planar; quadrupedal; mechanism; walking; gait
 

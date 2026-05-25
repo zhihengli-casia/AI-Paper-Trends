@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **12** (1.12%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / graph / natural / landmarks`
 - Keyword pool: language; graph; natural; landmarks; multi-robot; reasoning; topological; understand; manhattan; objects; relations; correspondence
 

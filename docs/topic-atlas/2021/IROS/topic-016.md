@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **22** (2.16%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `depth / monocular / estimation / unsupervised`
 - Keyword pool: depth; monocular; estimation; unsupervised; stereo; visual odometry; self-supervised; segmentation; learning; deep; matching; cameras
 

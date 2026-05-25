@@ -1,4 +1,4 @@
-# ICRA 2025: legged / humanoid / locomotion / walking
+# ICRA 2025: 足式机器人与运动控制
 
 - Topic ID: `11`
 - Papers: **31** (1.95%)

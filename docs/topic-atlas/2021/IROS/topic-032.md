@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **15** (1.47%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / trajectory / predictive / spherical`
 - Keyword pool: control; trajectory; predictive; spherical; ground vehicles; planning; model-based; real-time; robots; prediction; tracking; sliding
 

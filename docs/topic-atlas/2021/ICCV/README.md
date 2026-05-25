@@ -28,7 +28,7 @@
 | [014](topic-014.md) | 点云表示与 3D 感知 | 26 | 1.61% | 3D/具身/机器人 | `point / cloud / completion / shape` | Unsupervised Point Cloud Pre-Training via Occlusion Completion |
 | [015](topic-015.md) | pose / body / human / estimation | 26 | 1.61% | 计算机视觉 | `pose / body / human / estimation` | Shape-Aware Multi-Person Pose Estimation From Multi-View Images |
 | [016](topic-016.md) | clustering / table / 图学习 / seed | 25 | 1.55% | 计算机视觉 | `clustering / table / graph / seed` | Learning Hierarchical Graph Neural Networks for Image Clustering |
-| [020](topic-020.md) | 具身智能与物理交互 | 24 | 1.49% | 强化学习/决策 | `navigation / agent / embodied / environment` | Pathdreamer: A World Model for Indoor Navigation |
+| [020](topic-020.md) | 具身智能与物理交互 | 24 | 1.49% | 3D/具身/机器人 | `navigation / agent / embodied / environment` | Pathdreamer: A World Model for Indoor Navigation |
 | [017](topic-017.md) | style / tensor / painting / shadow | 24 | 1.49% | 计算机视觉 | `style / tensor / painting / shadow` | Learning a Sketch Tensor Space for Image Inpainting of Man-Made Scenes |
 | [018](topic-018.md) | 对抗攻击、鲁棒性与安全 | 24 | 1.49% | 计算机视觉 | `face / deepfake / detection / facial` | Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data |
 | [021](topic-021.md) | saliency / gaze / salient / detection | 24 | 1.49% | 计算机视觉 | `saliency / gaze / salient / detection` | RGB-D Saliency Detection via Cascaded Mutual Information Minimization |
@@ -71,11 +71,11 @@
 | [057](topic-057.md) | 深度估计与立体匹配 | 13 | 0.81% | 计算机视觉 | `domain / adaptation / semantic segmentation / uda` | Multi-Target Adversarial Frameworks for Domain Adaptation in Semantic Segmentation |
 | [058](topic-058.md) | 多智能体协作与规划 | 13 | 0.81% | 强化学习/决策 | `trajectory / forecasting / trajectories / agents` | Where Are You Heading? Dynamic Trajectory Prediction With Expert Goal Examples |
 | [059](topic-059.md) | 查询理解与检索优化 | 13 | 0.81% | LLM/语言模型 | `retrieval / product / cross-modal / query` | Image Retrieval on Real-Life Images With Pre-Trained Vision-and-Language Models |
-| [060](topic-060.md) | domain / adaptation / detection / detectors | 13 | 0.81% | 计算机视觉 | `domain / adaptation / detection / detectors` | Seeking Similarities Over Differences: Similarity-Based Domain Alignment for Adaptive Object Detection |
+| [060](topic-060.md) | 机器人视觉目标检测与域适应 | 13 | 0.81% | 计算机视觉 | `domain / adaptation / detection / detectors` | Seeking Similarities Over Differences: Similarity-Based Domain Alignment for Adaptive Object Detection |
 | [061](topic-061.md) | 自动驾驶感知与世界模型 | 13 | 0.81% | 3D/具身/机器人 | `motion / driving / vehicles / autonomous` | Prediction by Anticipation: An Action-Conditional Prediction Method Based on Interaction Learning |
 | [065](topic-065.md) | style / transfer / artistic / content | 12 | 0.74% | 生成模型 | `style / transfer / artistic / content` | StyleFormer: Real-Time Arbitrary Style Transfer via Parametric Style Composition |
 | [064](topic-064.md) | 目标检测与图像分割 | 12 | 0.74% | 计算机视觉 | `semantic segmentation / semi-supervised / contrastive / labeled` | Pixel Contrastive-Consistent Semi-Supervised Semantic Segmentation |
-| [062](topic-062.md) | 运动建模 / flow / optical / transparent objects | 12 | 0.74% | 计算机视觉 | `motion / flow / optical / transparent objects` | Sensor-Guided Optical Flow |
+| [062](topic-062.md) | 运动建模 / flow / optical / transparent objects | 12 | 0.74% | 3D/具身/机器人 | `motion / flow / optical / transparent objects` | Sensor-Guided Optical Flow |
 | [068](topic-068.md) | inpainting / texture / shadow / frequency | 12 | 0.74% | 生成模型 | `inpainting / texture / shadow / frequency` | Image Inpainting via Conditional Texture and Structure Dual Generation |
 | [063](topic-063.md) | 视频动作生成与运动控制 | 12 | 0.74% | 计算机视觉 | `video / frame / inpainting / flow` | Flow-Guided Video Inpainting With Scene Templates |
 | [066](topic-066.md) | 对抗攻击、鲁棒性与安全 | 12 | 0.74% | 理论/优化 | `adversarial / robustness / examples / attacks` | Robustness and Generalization via Generative Adversarial Training |
@@ -88,9 +88,9 @@
 | [073](topic-073.md) | tomography / scattering / reconstruction / volumetric | 10 | 0.62% | 其他/交叉主题 | `tomography / scattering / reconstruction / volumetric` | 3DeepCT: Learning Volumetric Scattering Tomography of Clouds |
 | [074](topic-074.md) | 长尾 / classes / recognition / head | 10 | 0.62% | 计算机视觉 | `long-tailed / classes / recognition / head` | Self Supervision to Distillation for Long-Tailed Visual Recognition |
 | [076](topic-076.md) | pose / category-level / objects / estimation | 10 | 0.62% | 3D/具身/机器人 | `pose / category-level / objects / estimation` | Holistic Pose Graph: Modeling Geometric Structure Among Objects in a Scene Using Graph Inference for 3D Object Prediction |
-| [079](topic-079.md) | editing / latent / directions / gan | 10 | 0.62% | 生成模型 | `editing / latent / directions / gan` | Latent Transformations via NeuralODEs for GAN-Based Image Editing |
+| [079](topic-079.md) | editing / latent / directions / gan | 10 | 0.62% | 3D/具身/机器人 | `editing / latent / directions / gan` | Latent Transformations via NeuralODEs for GAN-Based Image Editing |
 | [078](topic-078.md) | 文档摘要与信息压缩 | 10 | 0.62% | 计算机视觉 | `highlight / video / detection / temporal` | Temporal Cue Guided Video Highlight Detection With Low-Rank Audio-Visual Fusion |
-| [080](topic-080.md) | 查询理解与检索优化 | 10 | 0.62% | 多模态/VLM | `captioning / change / transformer / co-attention` | Generic Attention-Model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers |
+| [080](topic-080.md) | 多模态学习与跨模态理解 | 10 | 0.62% | 多模态/VLM | `captioning / change / transformer / co-attention` | Generic Attention-Model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers |
 | [077](topic-077.md) | human-object / interaction / hoi / detection | 10 | 0.62% | 图学习/数据挖掘 | `human-object / interaction / hoi / detection` | Detecting Human-Object Relationships in Videos |
 | [081](topic-081.md) | recognition / boundary / linguistic information / arbitrary shape | 9 | 0.56% | 多模态/VLM | `recognition / boundary / linguistic information / arbitrary shape` | Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition |
 | [082](topic-082.md) | sfm / structure motion / rotation / camera | 9 | 0.56% | 计算机视觉 | `sfm / structure motion / rotation / camera` | Pixel-Perfect Structure-From-Motion With Featuremetric Refinement |

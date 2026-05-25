@@ -16,7 +16,7 @@
 | [002](topic-002.md) | 强化学习策略与奖励建模 | 38 | 3.21% | 强化学习/决策 | `policy / reinforcement learning / exploration / function approximation` | Beyond Variance Reduction: Understanding the True Impact of Baselines on Policy Optimization |
 | [003](topic-003.md) | 在线学习与 regret 理论 | 36 | 3.04% | 强化学习/决策 | `regret / bandits / arm / reward` | An Algorithm for Stochastic and Adversarial Bandits with Switching Costs |
 | [004](topic-004.md) | 多智能体协作与规划 | 31 | 2.62% | 强化学习/决策 | `agents / multi-agent / reinforcement / coordination` | A New Formalism, Method and Open Issues for Zero-Shot Coordination |
-| [005](topic-005.md) | 强化学习策略与奖励建模 | 31 | 2.62% | 强化学习/决策 | `imitation / demonstrations / reward / agents` | PsiPhi-Learning: Reinforcement Learning with Demonstrations using Successor Features and Inverse Temporal Difference Learning |
+| [005](topic-005.md) | 模仿学习与机器人示教 | 31 | 2.62% | 强化学习/决策 | `imitation / demonstrations / reward / agents` | PsiPhi-Learning: Reinforcement Learning with Demonstrations using Successor Features and Inverse Temporal Difference Learning |
 | [006](topic-006.md) | 强化学习策略与奖励建模 | 29 | 2.45% | 强化学习/决策 | `off-policy / offline / reinforcement / meta-rl` | OptiDICE: Offline Policy Optimization via Stationary Distribution Correction Estimation |
 | [007](topic-007.md) | 隐私保护与安全学习 | 29 | 2.45% | 理论/优化 | `private / privacy / differential / secure` | Private Alternating Least Squares: Practical Private Matrix Completion with Tighter Rates |
 | [008](topic-008.md) | 随机优化与收敛理论 | 29 | 2.45% | 理论/优化 | `decentralized / distributed / communication / federated` | Distributed Second Order Methods with Fast Rates and Compressed Communication |
@@ -34,7 +34,7 @@
 | [020](topic-020.md) | pruning / sparse / winning / pruned | 19 | 1.61% | 系统/效率/压缩 | `pruning / sparse / winning / pruned` | Dense for the Price of Sparse: Improved Performance of Sparsely Initialized Networks via a Subspace Offset |
 | [021](topic-021.md) | clustering / submodular / medians / indices | 19 | 1.61% | 图学习/数据挖掘 | `clustering / submodular / medians / indices` | Correlation Clustering in Constant Many Parallel Rounds |
 | [022](topic-022.md) | label / 分类 / weak supervision / weakly supervised | 19 | 1.61% | 理论/优化 | `label / classification / weak supervision / weakly supervised` | Lower-Bounded Proper Losses for Weakly Supervised Classification |
-| [023](topic-023.md) | instructions / reinforcement / 策略优化 / 视觉理解 | 19 | 1.61% | 强化学习/决策 | `instructions / reinforcement / policy / visual` | Actionable Models: Unsupervised Offline Reinforcement Learning of Robotic Skills |
+| [023](topic-023.md) | instructions / reinforcement / 策略优化 / 视觉理解 | 19 | 1.61% | 3D/具身/机器人 | `instructions / reinforcement / policy / visual` | Actionable Models: Unsupervised Offline Reinforcement Learning of Robotic Skills |
 | [024](topic-024.md) | nas / search / architecture / accelerators | 19 | 1.61% | 理论/优化 | `nas / search / architecture / accelerators` | Neural Architecture Search without Training |
 | [025](topic-025.md) | contrastive / self-supervised / ssl / saliency | 18 | 1.52% | 其他/交叉主题 | `contrastive / self-supervised / ssl / saliency` | Toward Understanding the Feature Learning Process of Self-supervised Contrastive Learning |
 | [026](topic-026.md) | LLM Agent 与工具使用 | 18 | 1.52% | 强化学习/决策 | `games / mean-field / zero-sum / nash` | Decentralized Single-Timescale Actor-Critic on Zero-Sum Two-Player Stochastic Games |
@@ -57,11 +57,11 @@
 | [042](topic-042.md) | carlo / monte / sampling / hmc | 13 | 1.10% | 理论/优化 | `carlo / monte / sampling / hmc` | Oops I Took A Gradient: Scalable Sampling for Discrete Distributions |
 | [044](topic-044.md) | program / 推理 / synthesis / repair | 13 | 1.10% | 推荐/检索/排序 | `program / reasoning / synthesis / repair` | A large-scale benchmark for few-shot program induction and synthesis |
 | [043](topic-043.md) | 目标检测与图像分割 | 13 | 1.10% | 多模态/VLM | `visual / image / transformer / video` | Learning Transferable Visual Models From Natural Language Supervision |
-| [046](topic-046.md) | 查询理解与检索优化 | 13 | 1.10% | 系统/效率/压缩 | `active / label / drift / query` | Improved Algorithms for Agnostic Pool-based Active Classification |
+| [046](topic-046.md) | active / label / drift / query | 13 | 1.10% | 系统/效率/压缩 | `active / label / drift / query` | Improved Algorithms for Agnostic Pool-based Active Classification |
 | [048](topic-048.md) | attention / steerable / receptive / convolutional | 13 | 1.10% | 计算机视觉 | `attention / steerable / receptive / convolutional` | SimAM: A Simple, Parameter-Free Attention Module for Convolutional Neural Networks |
 | [049](topic-049.md) | posterior / variational / bayesian / inference | 13 | 1.10% | 其他/交叉主题 | `posterior / variational / bayesian / inference` | Global inducing point variational posteriors for Bayesian neural networks and deep Gaussian processes |
 | [045](topic-045.md) | 联邦学习与分布式训练 | 13 | 1.10% | 推荐/检索/排序 | `federated / clients / personalized / server` | Exploiting Shared Representations for Personalized Federated Learning |
-| [050](topic-050.md) | 代码生成与程序理解 | 12 | 1.01% | 可信/安全/公平 | `trees / explanations / constraints / rules` | Learning Binary Decision Trees by Argmin Differentiation |
+| [050](topic-050.md) | trees / explanations / constraints / rules | 12 | 1.01% | 可信/安全/公平 | `trees / explanations / constraints / rules` | Learning Binary Decision Trees by Argmin Differentiation |
 | [051](topic-051.md) | 强化学习策略与奖励建模 | 11 | 0.93% | 强化学习/决策 | `policy / reinforcement / safe / constraints` | Inverse Constrained Reinforcement Learning |
 | [052](topic-052.md) | 在线学习与 regret 理论 | 11 | 0.93% | 强化学习/决策 | `bandits / regret / contextual / arms` | Leveraging Good Representations in Linear Contextual Bandits |
 | [053](topic-053.md) | sketch / kernel / regression / running time | 11 | 0.93% | 理论/优化 | `sketch / kernel / regression / running time` | Fast Sketching of Polynomial Kernels of Polynomial Degree |
@@ -70,6 +70,6 @@
 | [056](topic-056.md) | 强化学习算法与理论 | 11 | 0.93% | 强化学习/决策 | `planning / reinforcement learning / environment / skill` | World Model as a Graph: Learning Latent Landmarks for Planning |
 | [057](topic-057.md) | ood / detection / anomaly / out-of-distribution | 10 | 0.85% | 生成模型 | `ood / detection / anomaly / out-of-distribution` | Understanding Failures in Out-of-Distribution Detection with Deep Generative Models |
 | [058](topic-058.md) | 神经网络理论、NTK 与宽度分析 | 10 | 0.85% | 理论/优化 | `ntk / tangent / kernel / lipschitz` | On the Proof of Global Convergence of Gradient Descent for Deep ReLU Networks with Linear Widths |
-| [059](topic-059.md) | 代码生成与程序理解 | 9 | 0.76% | 系统/效率/压缩 | `programs / conditioning / branching / probabilistic` | Nonparametric Hamiltonian Monte Carlo |
+| [059](topic-059.md) | programs / conditioning / branching / probabilistic | 9 | 0.76% | 系统/效率/压缩 | `programs / conditioning / branching / probabilistic` | Nonparametric Hamiltonian Monte Carlo |
 | [060](topic-060.md) | 强化学习策略与奖励建模 | 9 | 0.76% | 强化学习/决策 | `model-based / control / value iteration / regret` | Learning and Planning in Average-Reward Markov Decision Processes |
 | [061](topic-061.md) | noisy / transition matrix / labels / anchor | 8 | 0.68% | 其他/交叉主题 | `noisy / transition matrix / labels / anchor` | Provably End-to-end Label-noise Learning without Anchor Points |

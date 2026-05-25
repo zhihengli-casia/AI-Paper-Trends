@@ -22,9 +22,9 @@
 | [008](topic-008.md) | 目标检测与图像分割 | 43 | 2.07% | 计算机视觉 | `segmentation / instance / contour / mask` | Point-Level Region Contrast for Object Detection Pre-Training |
 | [009](topic-009.md) | 深度估计与立体匹配 | 41 | 1.98% | 3D/具身/机器人 | `lighting / rendering / mesh / materials` | Multi-View Mesh Reconstruction With Neural Deferred Shading |
 | [010](topic-010.md) | 视频动作生成与运动控制 | 39 | 1.88% | LLM/语言模型 | `super-resolution / video / temporal / burst` | Look Back and Forth: Video Super-Resolution With Explicit Temporal Difference Modeling |
-| [011](topic-011.md) | 目标检测与图像分割 | 39 | 1.88% | 计算机视觉 | `segmentation / adaptation / source domain / pseudo labels` | ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation |
+| [011](topic-011.md) | 机器人视觉目标检测与域适应 | 39 | 1.88% | 计算机视觉 | `segmentation / adaptation / source domain / pseudo labels` | ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation |
 | [012](topic-012.md) | 深度估计与立体匹配 | 38 | 1.83% | 系统/效率/压缩 | `stereo / depth / multi-view / matching` | Generalized Binary Search Network for Highly-Efficient Multi-View Stereo |
-| [013](topic-013.md) | 文生图生成与个性化编辑 | 35 | 1.69% | 生成模型 | `style / text-to-image / font / generation` | StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis |
+| [013](topic-013.md) | 文生图生成与个性化编辑 | 35 | 1.69% | 3D/具身/机器人 | `style / text-to-image / font / generation` | StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis |
 | [014](topic-014.md) | 对抗攻击、鲁棒性与安全 | 35 | 1.69% | 可信/安全/公平 | `attack / adversarial / black-box / examples` | Practical Evaluation of Adversarial Robustness via Adaptive Auto Attack |
 | [015](topic-015.md) | causal / ood / domain generalization / domains | 34 | 1.64% | 理论/优化 | `causal / ood / domain generalization / domains` | Failure Modes of Domain Generalization Algorithms |
 | [016](topic-016.md) | continual / forgetting / incremental / classes | 33 | 1.59% | 其他/交叉主题 | `continual / forgetting / incremental / classes` | General Incremental Learning With Domain-Aware Categorical Representations |
@@ -43,7 +43,7 @@
 | [029](topic-029.md) | 视频动作生成与运动控制 | 24 | 1.16% | 计算机视觉 | `event / cameras / motion / temporal resolution` | Discrete Time Convolution for Fast Event-Based Stereo |
 | [030](topic-030.md) | 多模态学习与跨模态理解 | 24 | 1.16% | 多模态/VLM | `reasoning / question / answering / vqa` | WebQA: Multihop and Multimodal QA |
 | [031](topic-031.md) | 点云表示与 3D 感知 | 23 | 1.11% | 3D/具身/机器人 | `point cloud / dof / registration / rotation` | 3DeformRS: Certifying Spatial Deformations on Point Clouds |
-| [032](topic-032.md) | 机器人操作与具身智能 | 23 | 1.11% | 多模态/VLM | `navigation / agent / environments / embodied` | Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation |
+| [032](topic-032.md) | 视觉语言导航与具身指令跟随 | 23 | 1.11% | 3D/具身/机器人 | `navigation / agent / environments / embodied` | Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation |
 | [033](topic-033.md) | nas / search / neural architecture / supernet | 23 | 1.11% | 系统/效率/压缩 | `nas / search / neural architecture / supernet` | Distribution Consistent Neural Architecture Search |
 | [034](topic-034.md) | person / re-identification / modality / gait | 23 | 1.11% | 系统/效率/压缩 | `person / re-identification / modality / gait` | Large-Scale Pre-Training for Person Re-Identification With Noisy Labels |
 | [035](topic-035.md) | localization / inertial / geospatial / camera | 22 | 1.06% | 计算机视觉 | `localization / inertial / geospatial / camera` | CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data |
@@ -56,12 +56,12 @@
 | [041](topic-041.md) | 深度估计与立体匹配 | 21 | 1.01% | 计算机视觉 | `inpainting / restoration / matting / masked` | MAT: Mask-Aware Transformer for Large Hole Image Inpainting |
 | [043](topic-043.md) | 点云表示与 3D 感知 | 20 | 0.96% | 3D/具身/机器人 | `point / cloud / segmentation / object detection` | Weakly Supervised Segmentation on Outdoor 4D Point Clouds With Temporal Matching and Spatial Graph Propagation |
 | [044](topic-044.md) | imaging / hsi / reconstruction / spectral | 20 | 0.96% | 系统/效率/压缩 | `imaging / hsi / reconstruction / spectral` | Quantization-Aware Deep Optics for Diffractive Snapshot Hyperspectral Imaging |
-| [045](topic-045.md) | 对抗攻击、鲁棒性与安全 | 20 | 0.96% | 计算机视觉 | `face / fake / adversarial / detectors` | PatchNet: A Simple Face Anti-Spoofing Framework via Fine-Grained Patch Recognition |
+| [045](topic-045.md) | 对抗攻击、鲁棒性与安全 | 20 | 0.96% | 3D/具身/机器人 | `face / fake / adversarial / detectors` | PatchNet: A Simple Face Anti-Spoofing Framework via Fine-Grained Patch Recognition |
 | [046](topic-046.md) | 图像复原与超分辨率 | 20 | 0.96% | 计算机视觉 | `fog / dehazing / image restoration / rain` | Unsupervised Deraining: Where Contrastive Learning Meets Self-Similarity |
 | [047](topic-047.md) | distillation / student / teacher / inductive | 20 | 0.96% | 系统/效率/压缩 | `distillation / student / teacher / inductive` | Knowledge Distillation: A Good Teacher Is Patient and Consistent |
 | [048](topic-048.md) | scene graph / sgg / graph generation / predicate | 19 | 0.92% | 图学习/数据挖掘 | `scene graph / sgg / graph generation / predicate` | Not All Relations Are Equal: Mining Informative Labels for Scene Graph Generation |
 | [049](topic-049.md) | hands / hand-object / contact / pose | 19 | 0.92% | 图学习/数据挖掘 | `hands / hand-object / contact / pose` | Collaborative Learning for Hand and Object Reconstruction With Attention-Guided Graph Convolution |
-| [050](topic-050.md) | 查询理解与检索优化 | 19 | 0.92% | 计算机视觉 | `few-shot / fsl / samples / classes` | Pushing the Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make a Difference |
+| [050](topic-050.md) | 少样本 / fsl / samples / classes | 19 | 0.92% | 计算机视觉 | `few-shot / fsl / samples / classes` | Pushing the Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make a Difference |
 | [051](topic-051.md) | 运动建模 / contact / body / pose | 18 | 0.87% | 3D/具身/机器人 | `motion / contact / body / pose` | Trajectory Optimization for Physics-Based Reconstruction of 3D Human Pose From Monocular Video |
 | [052](topic-052.md) | 隐私保护与安全学习 | 18 | 0.87% | 理论/优化 | `federated / clients / privacy / heterogeneity` | Local Learning Matters: Rethinking Data Heterogeneity in Federated Learning |
 | [053](topic-053.md) | outpainting / scene / colorization / style | 17 | 0.82% | 生成模型 | `outpainting / scene / colorization / style` | Modeling Image Composition for Complex Scene Generation |

@@ -1,8 +1,8 @@
-# ICRA 2023: continuum / robots / inverse / actuated
+# ICRA 2023: 软体机器人与柔性执行器
 
 - Topic ID: `24`
 - Papers: **19** (1.43%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 3D/具身/机器人
 - English keywords: `continuum / robots / inverse / actuated`
 - Keyword pool: continuum; robots; inverse; actuated; kinematics; fast; joints; computational; modeling; robotic; soft; concentric tube
 

@@ -1,8 +1,8 @@
-# NeurIPS 2021: transformer / attention / positional / low-rank
+# NeurIPS 2021: 无人机/四旋翼规划与控制
 
 - Topic ID: `41`
 - Papers: **22** (0.94%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `transformer / attention / positional / low-rank`
 - Keyword pool: transformer; attention; positional; low-rank; long sequences; language; softmax; memory; sparse; layers; drone; linear complexity
 

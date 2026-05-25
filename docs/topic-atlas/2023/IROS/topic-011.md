@@ -1,8 +1,8 @@
-# IROS 2023: 代码生成与程序理解
+# IROS 2023: 多机器人路径规划与协同导航
 
 - Topic ID: `11`
 - Papers: **28** (2.36%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `swarm / multi-robot / formation / control`
 - Keyword pool: swarm; multi-robot; formation; control; planning; multi-agent; cluttered environments; algorithm; presence; sharing; path; programming
 

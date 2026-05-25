@@ -1,8 +1,8 @@
-# CHI 2022: virtual / haptic / objects / reality
+# CHI 2022: 机器人遥操作与触觉交互
 
 - Topic ID: `23`
 - Papers: **12** (1.89%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `virtual / haptic / objects / reality`
 - Keyword pool: virtual; haptic; objects; reality; feedback; force; rendering; perceptual; hand; pointing; proxies; realistic
 

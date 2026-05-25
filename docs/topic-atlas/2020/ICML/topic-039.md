@@ -1,4 +1,4 @@
-# ICML 2020: 奖励建模 / imitation / demonstrations / 智能体
+# ICML 2020: 模仿学习与机器人示教
 
 - Topic ID: `39`
 - Papers: **13** (1.20%)

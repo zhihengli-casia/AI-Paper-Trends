@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **18** (1.23%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `synthesis / generation / semantic / scene`
 - Keyword pool: synthesis; generation; semantic; scene; manipulation; conditional image; generative; layout; normalization; generator network; class-specific; compositing
 

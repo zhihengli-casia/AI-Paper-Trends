@@ -2,7 +2,7 @@
 
 - Topic ID: `63`
 - Papers: **12** (0.76%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / plans / subgoals / agent`
 - Keyword pool: planning; plans; subgoals; agent; environment; instructions; language; action; reasoning; embodied; flawed; compositional
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **17** (1.84%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement / learning / offline / deep`
 - Keyword pool: reinforcement; learning; offline; deep; exploration; search; policy; hierarchical; trajectory; planning; environments; predictions
 

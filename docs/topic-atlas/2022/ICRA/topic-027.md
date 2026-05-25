@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **16** (1.73%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 3D/具身/机器人
 - English keywords: `soft / robots / actuators / design`
 - Keyword pool: soft; robots; actuators; design; modular; simulation; expanding; library; knee; joints; increased; grippers
 

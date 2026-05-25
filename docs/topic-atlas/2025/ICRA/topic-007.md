@@ -1,8 +1,8 @@
-# ICRA 2025: 机器翻译与跨语言对齐
+# ICRA 2025: 语言模型驱动的机器人任务规划
 
 - Topic ID: `7`
 - Papers: **37** (2.32%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / planning / learning / robot`
 - Keyword pool: language; planning; learning; robot; decomposition; knowledge; reinforcement; translation; commands; specifications; behavior tree; generating
 

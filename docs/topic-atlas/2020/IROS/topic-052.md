@@ -2,7 +2,7 @@
 
 - Topic ID: `52`
 - Papers: **11** (0.99%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `slam / visual / semantic / depth`
 - Keyword pool: slam; visual; semantic; depth; maps; localization; tracking; appearance; positioning; limits; lot; parking
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `93`
 - Papers: **10** (0.51%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `vision-language / action / vision language / forecasting`
 - Keyword pool: vision-language; action; vision language; forecasting; reinforcement learning; robot; feedback; human; chunking; decoding; self-improving; motion planner
 

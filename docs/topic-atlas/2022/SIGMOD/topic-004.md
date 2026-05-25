@@ -1,4 +1,4 @@
-# SIGMOD 2022: 查询理解与检索优化
+# SIGMOD 2022: queries / query / answering / sql
 
 - Topic ID: `4`
 - Papers: **15** (9.80%)

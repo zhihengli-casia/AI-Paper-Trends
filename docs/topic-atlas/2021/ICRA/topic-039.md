@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **16** (1.17%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `calibration / extrinsic / localization autonomous / radar`
 - Keyword pool: calibration; extrinsic; localization autonomous; radar; lidar; unstructured; arbitrary; imu; range; autonomous vehicles; camera; normal
 

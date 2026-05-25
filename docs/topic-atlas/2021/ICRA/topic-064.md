@@ -2,7 +2,7 @@
 
 - Topic ID: `64`
 - Papers: **9** (0.66%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `trajectory prediction / pedestrian / graph / interaction`
 - Keyword pool: trajectory prediction; pedestrian; graph; interaction; robust trajectory; computationally-efficient; adaptive; chains; smoothing; spatiotemporal; action prediction; generic
 

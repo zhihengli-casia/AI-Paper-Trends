@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **21** (1.21%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement / learning / reward / real-world`
 - Keyword pool: reinforcement; learning; reward; real-world; preference-based; functions; semi-supervised; offline-to-online; game; online decision; solve; episodic
 

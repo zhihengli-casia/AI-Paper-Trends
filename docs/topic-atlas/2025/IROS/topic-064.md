@@ -1,8 +1,8 @@
-# IROS 2025: 规划搜索与决策推理
+# IROS 2025: 无人机/四旋翼规划与控制
 
 - Topic ID: `64`
 - Papers: **14** (0.71%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `quadrotor / control / morphing / flight`
 - Keyword pool: quadrotor; control; morphing; flight; planning; dynamics; guaranteed; modeling agile; effect; passive fault-tolerant; wing; close-proximity
 

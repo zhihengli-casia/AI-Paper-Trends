@@ -2,7 +2,7 @@
 
 - Topic ID: `38`
 - Papers: **16** (1.20%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `tactile / sensing / sensor / vision-based`
 - Keyword pool: tactile; sensing; sensor; vision-based; skins; object; recognition; force; localization; reconstruction; soft; closed-loop
 

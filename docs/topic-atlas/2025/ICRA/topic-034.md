@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **22** (1.38%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `augmentation / anomaly / detection / adversarial`
 - Keyword pool: augmentation; anomaly; detection; adversarial; diffusion; federated; lunar; attacks; instance; aggregation; depth; low
 

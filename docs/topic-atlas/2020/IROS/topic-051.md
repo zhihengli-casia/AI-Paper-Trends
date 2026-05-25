@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **11** (0.99%)
-- Macro topic: 图学习/数据挖掘
+- Macro topic: 3D/具身/机器人
 - English keywords: `tendon-driven / friction / joint / cable-driven`
 - Keyword pool: tendon-driven; friction; joint; cable-driven; parallel; modeling; frequency; reliable; solving; scaling; maximum; series
 

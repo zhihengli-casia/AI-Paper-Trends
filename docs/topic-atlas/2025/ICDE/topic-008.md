@@ -1,4 +1,4 @@
-# ICDE 2025: 查询理解与检索优化
+# ICDE 2025: stream / iot / queries / online
 
 - Topic ID: `8`
 - Papers: **15** (3.85%)

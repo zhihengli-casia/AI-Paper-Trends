@@ -1,8 +1,8 @@
-# RSS 2024: 凸/非凸优化理论
+# RSS 2024: 机器人操作的 Sim-to-Real 迁移
 
 - Topic ID: `8`
 - Papers: **8** (6.11%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / shape / control / arm`
 - Keyword pool: manipulation; shape; control; arm; surface; sim-to-real; scenes; pushing; multiple; deformable; convex; compliant
 

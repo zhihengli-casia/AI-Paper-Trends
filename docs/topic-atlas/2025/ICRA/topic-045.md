@@ -1,8 +1,8 @@
-# ICRA 2025: 机器人操作与具身智能
+# ICRA 2025: 社交导航与人机交互
 
 - Topic ID: `45`
 - Papers: **15** (0.94%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / social / human-robot / crowd`
 - Keyword pool: navigation; social; human-robot; crowd; prediction; interaction; multi-robot; planning; hybrid; trajectory; human-centric; intuitive
 

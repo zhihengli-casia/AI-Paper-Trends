@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **19** (1.24%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `exploration / reinforcement / agents / skills`
 - Keyword pool: exploration; reinforcement; agents; skills; rewards; navigation; action; flow; intrinsic; embodied; environment; lifelong
 

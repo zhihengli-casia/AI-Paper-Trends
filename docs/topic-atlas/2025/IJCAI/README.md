@@ -29,7 +29,7 @@
 | [015](topic-015.md) | 多智能体协作与规划 | 22 | 1.72% | 强化学习/决策 | `agents / synthesis / logics / actions` | Strategies, Credences, and Shannon Entropy: Reasoning about Strategic Uncertainty in Stochastic Environments |
 | [016](topic-016.md) | 视频动作生成与运动控制 | 22 | 1.72% | 生成模型 | `video / editing / temporal / teeth` | FancyVideo: Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance |
 | [017](topic-017.md) | equations / differential / weather / heat | 21 | 1.64% | 理论/优化 | `equations / differential / weather / heat` | KP-PINNs: Kernel Packet Accelerated Physics Informed Neural Networks |
-| [018](topic-018.md) | 代码生成与程序理解 | 21 | 1.64% | LLM/语言模型 | `agents / llms / game / language` | A Survey on the Feedback Mechanism of LLM-based AI Agents |
+| [018](topic-018.md) | LLM Agent 与工具使用 | 21 | 1.64% | LLM/语言模型 | `agents / llms / game / language` | A Survey on the Feedback Mechanism of LLM-based AI Agents |
 | [019](topic-019.md) | 语音/音频语言模型 | 20 | 1.56% | 多模态/VLM | `emotion / multimodal / sentiment / modalities` | Hybrid Relational Graphs with Sentiment-laden Semantic Alignment for Multimodal Emotion Recognition in Conversation |
 | [020](topic-020.md) | 图神经网络与图表示学习 | 20 | 1.56% | 图学习/数据挖掘 | `graph / node / gnns / heterogeneous` | All Roads Lead to Rome: Exploring Edge Distribution Shifts for Heterophilic Graph Learning |
 | [023](topic-023.md) | circuit / 大语言模型 / api / compilation | 19 | 1.48% | LLM/语言模型 | `circuit / llms / api / compilation` | POLO: An LLM-Powered Project-Level Code Performance Optimization Framework |
@@ -37,7 +37,7 @@
 | [021](topic-021.md) | LLM Agent 与工具使用 | 19 | 1.48% | 强化学习/决策 | `allocation / agents / goods / valuations` | Dividing Conflicting Items Fairly |
 | [022](topic-022.md) | 时间序列建模与预测 | 19 | 1.48% | 系统/效率/压缩 | `causal / discovery / variables / carbon` | Hybrid Local Causal Discovery |
 | [025](topic-025.md) | 时间序列预测 | 18 | 1.41% | 图学习/数据挖掘 | `spatio-temporal / traffic / forecasting / urban` | Spatio-temporal Prototype-based Hierarchical Learning for OD Demand Prediction |
-| [026](topic-026.md) | 代码生成与程序理解 | 17 | 1.33% | LLM/语言模型 | `logic / argumentation / semantics / programs` | Initial Models and Serialisability in Abstract Dialectical Frameworks |
+| [026](topic-026.md) | logic / argumentation / semantics / programs | 17 | 1.33% | LLM/语言模型 | `logic / argumentation / semantics / programs` | Initial Models and Serialisability in Abstract Dialectical Frameworks |
 | [027](topic-027.md) | 知识图谱推理与表示学习 | 17 | 1.33% | LLM/语言模型 | `relation / entity / entities / few-shot` | Hierarchy Knowledge Graph for Parameter-Efficient Entity Embedding |
 | [028](topic-028.md) | 强化学习算法与理论 | 17 | 1.33% | LLM/语言模型 | `feature / reinforcement learning / policy / demonstrations` | Grounding Open-Domain Knowledge from LLMs to Real-World Reinforcement Learning Tasks: A Survey |
 | [029](topic-029.md) | person / 视觉理解 / camouflaged / forgery | 17 | 1.33% | 多模态/VLM | `person / visual / camouflaged / forgery` | Understanding Visual Detail Hallucinations of Large Vision-Language Models |
@@ -55,7 +55,7 @@
 | [041](topic-041.md) | 对抗攻击、鲁棒性与安全 | 15 | 1.17% | 可信/安全/公平 | `attack / fraud / graph / backdoor` | Sanitizing Backdoored Graph Neural Networks: A Multidimensional Approach |
 | [042](topic-042.md) | 扩散生成模型 | 15 | 1.17% | 生成模型 | `forecasting / time series / temporal / trend` | Dynamic Higher-Order Relations and Event-Driven Temporal Modeling for Stock Price Forecasting |
 | [040](topic-040.md) | 时间序列建模与预测 | 15 | 1.17% | 图学习/数据挖掘 | `time series / forecasting / multivariate time / imputation` | Non-collective Calibrating Strategy for Time Series Forecasting |
-| [044](topic-044.md) | 强化学习策略与奖励建模 | 14 | 1.09% | 强化学习/决策 | `reward / reinforcement learning / policy / deep reinforcement` | Reward Models in Deep Reinforcement Learning: A Survey |
+| [044](topic-044.md) | 模仿学习与机器人示教 | 14 | 1.09% | 强化学习/决策 | `reward / reinforcement learning / policy / deep reinforcement` | Reward Models in Deep Reinforcement Learning: A Survey |
 | [045](topic-045.md) | LLM Agent 与工具使用 | 14 | 1.09% | LLM/语言模型 | `homelessness / llms / social / media` | An Ethical Dataset from Real-World Interactions Between Users and Large Language Models |
 | [046](topic-046.md) | 图像复原与超分辨率 | 14 | 1.09% | 强化学习/决策 | `stations / demand / energy / scheduling` | Optimizing the Battery-Swapping Problem in Urban E-Bike Systems with Reinforcement Learning |
 | [047](topic-047.md) | 语音/音频语言模型 | 13 | 1.02% | 多模态/VLM | `brain / speech / signals / coupling` | Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding |
@@ -73,7 +73,7 @@
 | [060](topic-060.md) | 目标检测与图像分割 | 11 | 0.86% | 生成模型 | `anomaly / industrial / detection / segmentation` | Free Lunch of Image-mask Alignment for Anomaly Image Generation and Segmentation |
 | [058](topic-058.md) | nesy / neurosymbolic / neuro-symbolic / 推理 | 11 | 0.86% | LLM/语言模型 | `nesy / neurosymbolic / neuro-symbolic / reasoning` | Neuro-Symbolic Artificial Intelligence: A Task-Directed Survey in the Black-Box Models Era |
 | [061](topic-061.md) | spiking / edge devices / neural networks / energy | 10 | 0.78% | 理论/优化 | `spiking / edge devices / neural networks / energy` | Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing |
-| [062](topic-062.md) | 代码生成与程序理解 | 10 | 0.78% | LLM/语言模型 | `asp / language / llms / planning` | Integrating Answer Set Programming and Large Language Models for Enhanced Structured Representation of Complex Knowledge in Natural Language |
+| [062](topic-062.md) | 规划搜索与决策推理 | 10 | 0.78% | LLM/语言模型 | `asp / language / llms / planning` | Integrating Answer Set Programming and Large Language Models for Enhanced Structured Representation of Complex Knowledge in Natural Language |
 | [063](topic-063.md) | gene / spatial / multi-omics / cell | 10 | 0.78% | 图学习/数据挖掘 | `gene / spatial / multi-omics / cell` | Spatially Resolved Transcriptomics Data Clustering with Tailored Spatial-scale Modulation |
 | [064](topic-064.md) | 联邦学习与分布式训练 | 10 | 0.78% | 图学习/数据挖掘 | `federated / attacks / clients / defense` | FedHAN: A Cache-Based Semi-Asynchronous Federated Learning Framework Defending Against Poisoning Attacks in Heterogeneous Clients |
 | [065](topic-065.md) | anomaly / detection / anomalous / 图学习 | 10 | 0.78% | 系统/效率/压缩 | `anomaly / detection / anomalous / graph` | MEGAD: A Memory-Efficient Framework for Large-Scale Attributed Graph Anomaly Detection |

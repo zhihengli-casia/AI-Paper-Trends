@@ -1,8 +1,8 @@
-# IROS 2024: tactile / learning / manipulation / transfer
+# IROS 2024: 机器人触觉感知与操作
 
 - Topic ID: `33`
 - Papers: **20** (1.27%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `tactile / learning / manipulation / transfer`
 - Keyword pool: tactile; learning; manipulation; transfer; recognition; multi-fingered; fine; in-hand; deep; cross-modal; force; simulation
 

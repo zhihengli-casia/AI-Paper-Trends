@@ -1,8 +1,8 @@
-# ICRA 2021: 自动驾驶感知与世界模型
+# ICRA 2021: 无人机/四旋翼规划与控制
 
 - Topic ID: `6`
 - Papers: **35** (2.55%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `quadrotor / uavs / planning / neuromorphic`
 - Keyword pool: quadrotor; uavs; planning; neuromorphic; robust; trajectory; energy; control; autonomous; vehicles; generation; path
 

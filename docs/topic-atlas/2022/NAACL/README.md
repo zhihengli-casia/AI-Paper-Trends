@@ -28,7 +28,7 @@
 | [014](topic-014.md) | hyperbolic / amr / coreference / noun | 15 | 3.39% | 其他/交叉主题 | `hyperbolic / amr / coreference / noun` | Improving Constituent Representation with Hypertree Neural Networks |
 | [015](topic-015.md) | 医疗健康与临床 AI | 14 | 3.17% | AI4Science/医疗 | `explanations / clinical / rationales / mental` | Explaining Why: How Instructions and User Interfaces Impact Annotator Rationales When Labeling Text Data |
 | [016](topic-016.md) | 对抗攻击、鲁棒性与安全 | 13 | 2.94% | 可信/安全/公平 | `attacks / privacy / adversarial / rationale` | Triggerless Backdoor Attack for NLP Tasks with Clean Labels |
-| [017](topic-017.md) | 多模态学习与跨模态理解 | 12 | 2.71% | 多模态/VLM | `visual / scene / multimodal / dialogue` | VGNMN : Video-grounded Neural Module Networks for Video-Grounded Dialogue Systems |
+| [017](topic-017.md) | 视觉导航与语义地图 | 12 | 2.71% | 多模态/VLM | `visual / scene / multimodal / dialogue` | VGNMN : Video-grounded Neural Module Networks for Video-Grounded Dialogue Systems |
 | [018](topic-018.md) | memory / sequence / semi-supervised / temporal | 12 | 2.71% | LLM/语言模型 | `memory / sequence / semi-supervised / temporal` | Lifelong Pretraining: Continually Adapting Language Models to Emerging Corpora |
 | [019](topic-019.md) | 句法语义解析与结构化表示 | 11 | 2.49% | NLP任务 | `augmentation / compositional / mixup / parsing` | T ree M ix: Compositional Constituency-based Data Augmentation for Natural Language Understanding |
 | [020](topic-020.md) | event / extraction / arguments / 图学习 | 11 | 2.49% | 系统/效率/压缩 | `event / extraction / arguments / graph` | Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies |

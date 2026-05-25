@@ -2,7 +2,7 @@
 
 - Topic ID: `64`
 - Papers: **12** (0.76%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / social / crowd-aware / learning`
 - Keyword pool: navigation; social; crowd-aware; learning; robot; deep; predictive control; behavior; environments; safe; human; reinforcement
 

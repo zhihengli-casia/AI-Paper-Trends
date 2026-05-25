@@ -1,8 +1,8 @@
-# ICRA 2022: visual-inertial / odometry / filter / estimation
+# ICRA 2022: 视觉导航与语义地图
 
 - Topic ID: `13`
 - Papers: **20** (2.17%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `visual-inertial / odometry / filter / estimation`
 - Keyword pool: visual-inertial; odometry; filter; estimation; navigation; localization; input; design; limb; kalman; kernel; measurement
 

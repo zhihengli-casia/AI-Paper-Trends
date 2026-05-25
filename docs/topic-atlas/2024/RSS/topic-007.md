@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **8** (6.11%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `object / semantic / compositional / dynamics`
 - Keyword pool: object; semantic; compositional; dynamics; functional; multi-modal; online; prediction; retrieval; set; mapping; world
 

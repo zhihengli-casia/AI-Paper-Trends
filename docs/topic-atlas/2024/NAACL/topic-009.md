@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **18** (3.20%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `instruction / tuning / confidence / replay`
 - Keyword pool: instruction; tuning; confidence; replay; continual; tools; embodied; memory; cross-lingual; library; environment; forgetting
 

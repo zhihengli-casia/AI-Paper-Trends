@@ -1,8 +1,8 @@
-# ICRA 2022: 查询理解与检索优化
+# ICRA 2022: 视觉导航与语义地图
 
 - Topic ID: `45`
 - Papers: **9** (0.98%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / scene / occupancy grid / exploration`
 - Keyword pool: navigation; scene; occupancy grid; exploration; attention; learning; deep reinforcement; network; visual; memory; query; spatiotemporal
 

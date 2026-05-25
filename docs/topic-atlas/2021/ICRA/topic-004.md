@@ -1,8 +1,8 @@
-# ICRA 2021: magnetic / actuation / robotic / manipulation
+# ICRA 2021: 机器人操作与抓取
 
 - Topic ID: `4`
 - Papers: **36** (2.63%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 3D/具身/机器人
 - English keywords: `magnetic / actuation / robotic / manipulation`
 - Keyword pool: magnetic; actuation; robotic; manipulation; continuum; design; sensor; safe; capsule; imaging; microrobot; actuated
 

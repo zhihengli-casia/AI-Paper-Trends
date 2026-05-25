@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **25** (3.80%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `recognition / parsing / character / fusion`
 - Keyword pool: recognition; parsing; character; fusion; images; detection; gan; zero-shot; structure; layout; manipulation; learning multi-view
 

@@ -1,8 +1,8 @@
-# ICRA 2023: 规划搜索与决策推理
+# ICRA 2023: 无人机/四旋翼规划与控制
 
 - Topic ID: `64`
 - Papers: **11** (0.83%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `avoidance / planning / quadrotor / obstacle`
 - Keyword pool: avoidance; planning; quadrotor; obstacle; topological; motion; trajectory; collision; local planner; rates; b-spline; aerial vehicles
 

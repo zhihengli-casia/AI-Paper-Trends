@@ -1,4 +1,4 @@
-# ICDE 2024: 查询理解与检索优化
+# ICDE 2024: query / 优化 / uncertain / cost
 
 - Topic ID: `13`
 - Papers: **15** (3.11%)

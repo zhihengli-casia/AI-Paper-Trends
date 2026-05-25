@@ -1,4 +1,4 @@
-# CVPR 2025: manipulation / robotic / action / assembly
+# CVPR 2025: 机器人操作与抓取
 
 - Topic ID: `102`
 - Papers: **13** (0.45%)

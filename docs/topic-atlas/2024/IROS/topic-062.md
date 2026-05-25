@@ -2,7 +2,7 @@
 
 - Topic ID: `62`
 - Papers: **12** (0.76%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `lidar / grid map / multi-task / occupancy`
 - Keyword pool: lidar; grid map; multi-task; occupancy; detection; dense; carla; non-repetitive; perception cross-modal; perception-aware; point-based; points
 

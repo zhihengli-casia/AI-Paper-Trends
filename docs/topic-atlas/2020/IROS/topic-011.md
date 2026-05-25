@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **24** (2.15%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / motion / path / search`
 - Keyword pool: planning; motion; path; search; topological; sampling-based; distribution; learning; objects; constrained; exploration; constraints
 

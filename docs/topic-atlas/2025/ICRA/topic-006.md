@@ -1,8 +1,8 @@
-# ICRA 2025: 机器人操作与具身智能
+# ICRA 2025: 足式机器人与运动控制
 
 - Topic ID: `6`
 - Papers: **40** (2.51%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `quadruped / locomotion / learning / terrains`
 - Keyword pool: quadruped; locomotion; learning; terrains; legged; adaptation; diverse; jumping; robot; control; agile; gait
 

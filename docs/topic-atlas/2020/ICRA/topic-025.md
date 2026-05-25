@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **18** (1.69%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `reconstruction / segmentation / semantic / feature`
 - Keyword pool: reconstruction; segmentation; semantic; feature; fusion; convolutions; depth; point; deep; scene; probabilistic; weakly supervised
 

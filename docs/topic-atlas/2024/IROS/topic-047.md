@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **16** (1.02%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `recognition / segmentation / action / human`
 - Keyword pool: recognition; segmentation; action; human; features; motion; optical flow; transformers; self-supervised; video; object; moving
 

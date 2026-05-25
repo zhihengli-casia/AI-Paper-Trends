@@ -1,8 +1,8 @@
-# ICRA 2024: locomotion / learning / bipedal / agile
+# ICRA 2024: 足式机器人与运动控制
 
 - Topic ID: `60`
 - Papers: **14** (0.80%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `locomotion / learning / bipedal / agile`
 - Keyword pool: locomotion; learning; bipedal; agile; transitions; confined spaces; reinforcement; humanoid; legged; representation; loco-manipulation; maximizing
 

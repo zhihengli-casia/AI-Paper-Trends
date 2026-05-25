@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **16** (1.53%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `agent / embodied / simulations / sequence modeling`
 - Keyword pool: agent; embodied; simulations; sequence modeling; instructions; plan; environment; observations; game; actions; respond; mind
 

@@ -1,8 +1,8 @@
-# ICRA 2025: bimanual / manipulation / catch / active vision
+# ICRA 2025: 灵巧机器人操作
 
 - Topic ID: `60`
 - Papers: **11** (0.69%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `bimanual / manipulation / catch / active vision`
 - Keyword pool: bimanual; manipulation; catch; active vision; dexterous; object; learning; online; electromyography; multi-fingered; nonprehensile; folding
 

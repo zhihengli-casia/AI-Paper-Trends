@@ -1,4 +1,4 @@
-# CVPR 2021: 查询理解与检索优化
+# CVPR 2021: moment / 视频理解/生成 / event / sentence
 
 - Topic ID: `65`
 - Papers: **13** (0.78%)

@@ -39,14 +39,14 @@
 | [027](topic-027.md) | LLM Agent 与工具使用 | 14 | 1.65% | 强化学习/决策 | `mechanisms / agents / private / auction` | Learning Efficient Truthful Mechanisms for Trading Networks |
 | [025](topic-025.md) | gradient / generalization / descent / top-k | 14 | 1.65% | 理论/优化 | `gradient / generalization / descent / top-k` | Towards Sharp Analysis for Distributed Learning with Random Features |
 | [026](topic-026.md) | 文档摘要与信息压缩 | 14 | 1.65% | NLP任务 | `video / captioning / visual / prompt` | From Association to Generation: Text-only Captioning by Unsupervised Cross-modal Mapping |
-| [028](topic-028.md) | 规划搜索与决策推理 | 13 | 1.53% | 强化学习/决策 | `logic / verification / planning / abstraction` | Scalable Verification of Strategy Logic through Three-Valued Abstraction |
+| [028](topic-028.md) | 时序逻辑约束下的机器人任务规划 | 13 | 1.53% | 强化学习/决策 | `logic / verification / planning / abstraction` | Scalable Verification of Strategy Logic through Three-Valued Abstraction |
 | [029](topic-029.md) | 社交媒体与社会计算 | 13 | 1.53% | 其他/交叉主题 | `voting / budgeting / rules / participatory` | An Experimental Comparison of Multiwinner Voting Rules on Approval Elections |
 | [030](topic-030.md) | causal / 推理 / counterfactual / semantics | 12 | 1.41% | NLP任务 | `causal / reasoning / counterfactual / semantics` | A Rule-Based Modal View of Causal Reasoning |
 | [031](topic-031.md) | multi-objective / pareto / evolutionary / search | 12 | 1.41% | 系统/效率/压缩 | `multi-objective / pareto / evolutionary / search` | Runtime Analyses of Multi-Objective Evolutionary Algorithms in the Presence of Noise |
 | [032](topic-032.md) | 推荐系统与用户建模 | 12 | 1.41% | 推荐/检索/排序 | `recommendation / items / recommender / user` | Self-supervised Graph Disentangled Networks for Review-based Recommendation |
 | [033](topic-033.md) | 目标检测与图像分割 | 12 | 1.41% | 计算机视觉 | `segmentation / semantic / nighttime / feature` | FGNet: Towards Filling the Intra-class and Inter-class Gaps for Few-shot Segmentation |
 | [035](topic-035.md) | 语音/音频语言模型 | 11 | 1.29% | 语音/音频/音乐 | `audio / monitoring / tracking / interactive` | A Human-in-the-Loop Tool for Annotating Passive Acoustic Monitoring Datasets |
-| [034](topic-034.md) | 视觉理解 / navigation / semantic / local context | 11 | 1.29% | 计算机视觉 | `visual / navigation / semantic / local context` | A Dual Semantic-Aware Recurrent Global-Adaptive Network for Vision-and-Language Navigation |
+| [034](topic-034.md) | 视觉导航与语义地图 | 11 | 1.29% | 计算机视觉 | `visual / navigation / semantic / local context` | A Dual Semantic-Aware Recurrent Global-Adaptive Network for Vision-and-Language Navigation |
 | [037](topic-037.md) | cad / detection / solid / reconstruction | 11 | 1.29% | 生成模型 | `cad / detection / solid / reconstruction` | Towards Robust Gan-Generated Image Detection: A Multi-View Completion Representation |
 | [036](topic-036.md) | 多智能体协作与规划 | 11 | 1.29% | 强化学习/决策 | `agents / multi-agent / coalition / temporal` | Multi-Agent Systems with Quantitative Satisficing Goals |
 | [038](topic-038.md) | style / images / gesture / transfer | 10 | 1.18% | 强化学习/决策 | `style / images / gesture / transfer` | Controlling Neural Style Transfer with Deep Reinforcement Learning |

@@ -40,7 +40,7 @@
 | [026](topic-026.md) | editing / gan / facial / generative | 14 | 2.06% | 生成模型 | `editing / gan / facial / generative` | Fine Detailed Texture Learning for 3D Meshes With Generative Models |
 | [027](topic-027.md) | 脑电信号表征与解码 | 13 | 1.91% | HCI/社会计算 | `explanations / latent structure / eeg / cognitive` | A Generalized Explanation Framework for Visualization of Deep Learning Model Predictions |
 | [028](topic-028.md) | 目标检测与图像分割 | 12 | 1.76% | 计算机视觉 | `medical / diagnosis / segmentation / motion` | Unsupervised Local Discrimination for Medical Images |
-| [029](topic-029.md) | 对抗攻击、鲁棒性与安全 | 11 | 1.62% | 生成模型 | `face / attacks / biometric / database` | Comprehensive Vulnerability Evaluation of Face Recognition Systems to Template Inversion Attacks via 3D Face Reconstruction |
+| [029](topic-029.md) | 对抗攻击、鲁棒性与安全 | 11 | 1.62% | 3D/具身/机器人 | `face / attacks / biometric / database` | Comprehensive Vulnerability Evaluation of Face Recognition Systems to Template Inversion Attacks via 3D Face Reconstruction |
 | [030](topic-030.md) | multi-view / views / feature selection / kernel | 11 | 1.62% | 生成模型 | `multi-view / views / feature selection / kernel` | Few-Shot Partial Multi-View Learning |
 | [031](topic-031.md) | 扩散生成模型 | 11 | 1.62% | 生成模型 | `differential / equations / tensor / physics` | Deep Efficient Continuous Manifold Learning for Time Series Modeling |
 | [032](topic-032.md) | 多模态学习与跨模态理解 | 10 | 1.47% | 多模态/VLM | `trajectory / motion / forecasting / trajectories` | Modality Exploration, Retrieval and Adaptation for Trajectory Prediction |

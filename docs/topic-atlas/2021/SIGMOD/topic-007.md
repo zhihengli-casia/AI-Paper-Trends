@@ -1,4 +1,4 @@
-# SIGMOD 2021: 查询理解与检索优化
+# SIGMOD 2021: workloads / analytics / query / cloud
 
 - Topic ID: `7`
 - Papers: **12** (5.91%)

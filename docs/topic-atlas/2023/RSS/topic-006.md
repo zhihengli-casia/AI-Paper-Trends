@@ -1,8 +1,8 @@
-# RSS 2023: objects / simulation / manipulation / adaptive
+# RSS 2023: 机器人操作与抓取
 
 - Topic ID: `6`
 - Papers: **9** (8.18%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `objects / simulation / manipulation / adaptive`
 - Keyword pool: objects; simulation; manipulation; adaptive; enables; few-shot; learned; network; transferring; policy; unseen; robotic
 

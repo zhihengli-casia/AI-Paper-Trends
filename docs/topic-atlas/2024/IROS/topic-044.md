@@ -1,8 +1,8 @@
-# IROS 2024: flight / aerial / unmanned / vehicles
+# IROS 2024: 无人机/四旋翼规划与控制
 
 - Topic ID: `44`
 - Papers: **17** (1.08%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `flight / aerial / unmanned / vehicles`
 - Keyword pool: flight; aerial; unmanned; vehicles; control; uav; quadrotors; time-optimal; landing; tracking; trajectory; minimum
 

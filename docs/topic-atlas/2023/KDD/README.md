@@ -17,7 +17,7 @@
 | [003](topic-003.md) | 时间序列建模与预测 | 20 | 6.39% | AI4Science/医疗 | `time series / forecasting / multivariate / temporal` | Parameter-free Spikelet: Discovering Different Length and Warped Time Series Motifs using an Adaptive Time Series Representation |
 | [004](topic-004.md) | 推荐系统与用户建模 | 20 | 6.39% | 推荐/检索/排序 | `allocation / recommendation / user / fair` | Who Should Be Given Incentives? Counterfactual Optimal Treatment Regimes Learning for Recommendation |
 | [005](topic-005.md) | 多智能体协作与规划 | 18 | 5.75% | 可信/安全/公平 | `causal / fairness / counterfactual / explanations` | Learning for Counterfactual Fairness from Observational Data |
-| [006](topic-006.md) | 查询理解与检索优化 | 17 | 5.43% | 图学习/数据挖掘 | `node / query / algorithms / clustering` | Efficient Distributed Approximate k-Nearest Neighbor Graph Construction by Multiway Random Division Forest |
+| [006](topic-006.md) | 节点表示 / query / algorithms / clustering | 17 | 5.43% | 图学习/数据挖掘 | `node / query / algorithms / clustering` | Efficient Distributed Approximate k-Nearest Neighbor Graph Construction by Multiway Random Division Forest |
 | [007](topic-007.md) | 扩散生成模型 | 17 | 5.43% | 生成模型 | `spatio-temporal / spatial / spatiotemporal / causal` | Graph Neural Processes for Spatio-Temporal Extrapolation |
 | [008](topic-008.md) | 知识图谱推理与表示学习 | 14 | 4.47% | 多模态/VLM | `knowledge graph / reasoning / numerical / entities` | Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning |
 | [009](topic-009.md) | style / token / topic / hierarchy | 12 | 3.83% | 图学习/数据挖掘 | `style / token / topic / hierarchy` | Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks |
@@ -27,7 +27,7 @@
 | [013](topic-013.md) | 强化学习算法与理论 | 9 | 2.88% | 强化学习/决策 | `reinforcement learning / agent / demonstrations / schedule` | Adversarial Constrained Bidding via Minimax Regret Optimization with Causality-Aware Reinforcement Learning |
 | [014](topic-014.md) | 图神经网络与图表示学习 | 9 | 2.88% | 图学习/数据挖掘 | `spatial / gnns / urban / graph neural` | Node Classification Beyond Homophily: Towards a General Solution |
 | [015](topic-015.md) | 社交媒体与社会计算 | 9 | 2.88% | 理论/优化 | `news / fake / detection / social` | A Sublinear Time Algorithm for Opinion Optimization in Directed Social Networks via Edge Recommendation |
-| [016](topic-016.md) | 查询理解与检索优化 | 9 | 2.88% | 推荐/检索/排序 | `subset / query / estimation / items` | Finding Favourite Tuples on Data Streams with Provably Few Comparisons |
+| [016](topic-016.md) | subset / query / estimation / items | 9 | 2.88% | 推荐/检索/排序 | `subset / query / estimation / items` | Finding Favourite Tuples on Data Streams with Provably Few Comparisons |
 | [017](topic-017.md) | 对抗攻击、鲁棒性与安全 | 9 | 2.88% | 图学习/数据挖掘 | `contrastive / node / views / adversarial` | HomoGCL: Rethinking Homophily in Graph Contrastive Learning |
 | [018](topic-018.md) | 图神经网络与节点表示学习 | 9 | 2.88% | 图学习/数据挖掘 | `subgraph / heterogeneous / node / edge` | Less is More: SlimG for Accurate, Robust, and Interpretable Graph Mining |
 | [019](topic-019.md) | 对抗攻击、鲁棒性与安全 | 8 | 2.56% | 多模态/VLM | `traffic / control / forecasting / pattern` | Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning |

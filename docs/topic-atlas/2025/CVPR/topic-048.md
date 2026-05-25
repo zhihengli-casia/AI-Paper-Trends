@@ -2,7 +2,7 @@
 
 - Topic ID: `48`
 - Papers: **26** (0.91%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `agents / gait / gui / embodied`
 - Keyword pool: agents; gait; gui; embodied; robotic; llms; navigation; language; planning; reasoning; vlms; low-level
 

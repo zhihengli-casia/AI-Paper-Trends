@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **11** (1.08%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `tactile / sensing / sensor / gesture recognition`
 - Keyword pool: tactile; sensing; sensor; gesture recognition; skin; proximity; wearable; low-cost; slip detection; strain; suit; touch
 

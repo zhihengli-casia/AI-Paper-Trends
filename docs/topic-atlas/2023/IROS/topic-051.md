@@ -2,7 +2,7 @@
 
 - Topic ID: `51`
 - Papers: **10** (0.84%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `symbolic / planning / push / partially`
 - Keyword pool: symbolic; planning; push; partially; plans; quantitative; recurrent; generator; complete; generating; discovering; logic
 

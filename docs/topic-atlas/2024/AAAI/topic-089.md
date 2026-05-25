@@ -1,4 +1,4 @@
-# AAAI 2024: 查询理解与检索优化
+# AAAI 2024: 少样本 / counting / fss / fine-tuning
 
 - Topic ID: `89`
 - Papers: **11** (0.47%)

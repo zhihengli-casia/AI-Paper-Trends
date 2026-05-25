@@ -1,8 +1,8 @@
-# ICRA 2024: 规划搜索与决策推理
+# ICRA 2024: 无人机/四旋翼规划与控制
 
 - Topic ID: `6`
 - Papers: **35** (2.01%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `uav / aerial / drone / planning`
 - Keyword pool: uav; aerial; drone; planning; quadrotor; navigation; environments; racing; field; vehicles; collaborative; motion
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **27** (2.42%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `object / learning / deep / multimodal`
 - Keyword pool: object; learning; deep; multimodal; recognition; density; detection; video; prediction; activity; guided; network
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **26** (0.86%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / navigation / embodied / llms`
 - Keyword pool: planning; navigation; embodied; llms; action; agents; language; apis; planner; reasoning; plans; robots
 

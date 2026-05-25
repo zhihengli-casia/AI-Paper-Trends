@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **14** (1.26%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `actuator / soft / pneumatic / polymer`
 - Keyword pool: actuator; soft; pneumatic; polymer; design; driven; actuation; memory; shape; development; lateral; morphology
 

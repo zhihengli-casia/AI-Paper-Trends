@@ -1,8 +1,8 @@
-# ICRA 2023: 多模态学习与跨模态理解
+# ICRA 2023: 机器人触觉感知与操作
 
 - Topic ID: `65`
 - Papers: **11** (0.83%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `tactile / sensor / contact / sensing`
 - Keyword pool: tactile; sensor; contact; sensing; extrinsic; robotic; multimodal; simultaneous; flexible; identification; force; identifying
 

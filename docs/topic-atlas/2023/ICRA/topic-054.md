@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **13** (0.98%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `segmentation / modeling / object / rgb-d`
 - Keyword pool: segmentation; modeling; object; rgb-d; cluttered; shape; semantic; appearance; videos; test-time; road anomaly; retinal
 

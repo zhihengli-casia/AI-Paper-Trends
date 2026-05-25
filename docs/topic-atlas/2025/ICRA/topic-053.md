@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **13** (0.82%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `assembly / digital / robotic / foundation`
 - Keyword pool: assembly; digital; robotic; foundation; planning; order; physics simulation; operation; modular structures; initial; geometry; complex robot
 

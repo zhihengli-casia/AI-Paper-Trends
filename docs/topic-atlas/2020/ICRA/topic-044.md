@@ -2,7 +2,7 @@
 
 - Topic ID: `44`
 - Papers: **12** (1.12%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement / mapless / multi-objective / stochastic`
 - Keyword pool: reinforcement; mapless; multi-objective; stochastic; policy; safe; functions; flight control; robust predictive; hierarchical deep; attacks; navigation dynamic
 

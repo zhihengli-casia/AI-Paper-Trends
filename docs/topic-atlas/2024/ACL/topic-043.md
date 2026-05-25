@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **9** (0.96%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `agents / web / mobile / embodied`
 - Keyword pool: agents; web; mobile; embodied; user; instructions; multimodal; autonomous; visual; grounding; execution; planning
 

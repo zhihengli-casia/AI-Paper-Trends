@@ -1,8 +1,8 @@
-# IROS 2023: LiDAR 点云与 3D 感知
+# IROS 2023: 机器人 SLAM 与定位建图
 
 - Topic ID: `4`
 - Papers: **34** (2.87%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `slam / odometry / visual / lidar`
 - Keyword pool: slam; odometry; visual; lidar; line; initialization; loop; mapping; localization; graph; fast; monocular
 

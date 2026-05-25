@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **15** (11.45%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / planning / action / interactive`
 - Keyword pool: language; planning; action; interactive; sim-to-real; real-time; open-world; multi-modal; leveraging; collaboration; in-context; heterogeneous
 

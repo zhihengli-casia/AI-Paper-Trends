@@ -1,8 +1,8 @@
-# IROS 2024: grasp / dexterous / robustness / harnessing
+# IROS 2024: 机器人操作与抓取
 
 - Topic ID: `60`
 - Papers: **12** (0.76%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasp / dexterous / robustness / harnessing`
 - Keyword pool: grasp; dexterous; robustness; harnessing; hands; gripper; robotic; manipulation; generation; misalignment; logic; boundary
 

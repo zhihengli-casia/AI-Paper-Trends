@@ -1,8 +1,8 @@
-# ICLR 2024: 机器人操作与具身智能
+# ICLR 2024: 机器人操作与抓取
 
 - Topic ID: `27`
 - Papers: **27** (1.19%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / action / embodied / robot`
 - Keyword pool: planning; action; embodied; robot; policy; manipulation; agents; low-level; llms; policies; dialogue; plans
 

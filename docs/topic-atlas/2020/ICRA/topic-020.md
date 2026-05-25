@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **21** (1.97%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `optimization / trajectory / mpc / control`
 - Keyword pool: optimization; trajectory; mpc; control; path; collision; convex; avoidance; tension; inner; predictive; non-holonomic
 

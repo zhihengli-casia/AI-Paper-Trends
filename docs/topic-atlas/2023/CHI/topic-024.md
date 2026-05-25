@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **16** (1.84%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 3D/具身/机器人
 - English keywords: `selection / spatial / abilities / movement`
 - Keyword pool: selection; spatial; abilities; movement; coordination; reality; object; modeling; virtual; law; manipulation; optical
 

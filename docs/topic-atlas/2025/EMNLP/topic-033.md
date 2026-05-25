@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **19** (1.05%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `safety / jailbreak / attack / mcp`
 - Keyword pool: safety; jailbreak; attack; mcp; harmful; refusal; visual; risks; unsafe; multimodal; embodied; benign
 

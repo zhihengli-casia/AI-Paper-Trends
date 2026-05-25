@@ -1,8 +1,8 @@
-# ICRA 2020: 规划搜索与决策推理
+# ICRA 2020: 视觉导航与语义地图
 
 - Topic ID: `57`
 - Papers: **8** (0.75%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / visual / real robots / paths`
 - Keyword pool: navigation; visual; real robots; paths; topological; planning; servoing; deep; monocular vision; sparse; network; real-world environments
 

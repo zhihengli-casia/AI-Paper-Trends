@@ -1,4 +1,4 @@
-# AIJ 2025: 查询理解与检索优化
+# AIJ 2025: propagation / semantics / module / query
 
 - Topic ID: `3`
 - Papers: **9** (9.78%)

@@ -1,8 +1,8 @@
-# IROS 2023: 机器人操作与具身智能
+# IROS 2023: 足式机器人与运动控制
 
 - Topic ID: `5`
 - Papers: **33** (2.79%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `locomotion / robot / terrain / legged`
 - Keyword pool: locomotion; robot; terrain; legged; walking; climbing; quadrupedal; gait; passive; control; design; pendulum
 

@@ -1,8 +1,8 @@
-# CHI 2025: 社交媒体与社会计算
+# CHI 2025: 机器人遥操作与触觉交互
 
 - Topic ID: `18`
 - Papers: **24** (1.93%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `social / reality / virtual / haptic`
 - Keyword pool: social; reality; virtual; haptic; effects; vr experiences; presence; augmented; self-disclosure; non-verbal; expression; influence
 

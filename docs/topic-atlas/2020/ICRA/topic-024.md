@@ -1,4 +1,4 @@
-# ICRA 2020: radar / uav / aerial / detection
+# ICRA 2020: 无人机/四旋翼规划与控制
 
 - Topic ID: `24`
 - Papers: **19** (1.78%)

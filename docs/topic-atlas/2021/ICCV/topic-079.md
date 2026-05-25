@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **10** (0.62%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `editing / latent / directions / gan`
 - Keyword pool: editing; latent; directions; gan; paths; attributes; facial; dimensions; manipulation; interpretable; linear; dialog
 

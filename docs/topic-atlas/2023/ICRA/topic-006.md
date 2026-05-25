@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **27** (2.03%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `odometry / visual-inertial / filter / monocular`
 - Keyword pool: odometry; visual-inertial; filter; monocular; camera; depth; estimation; angular; propagation; moving; measurement; vehicle
 

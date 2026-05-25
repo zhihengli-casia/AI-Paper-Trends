@@ -37,7 +37,7 @@
 | [023](topic-023.md) | labels / semi-supervised / labeled / 图学习 | 20 | 1.36% | 计算机视觉 | `labels / semi-supervised / labeled / graph` | Interactive Multi-Label CNN Learning With Partial Labels |
 | [024](topic-024.md) | 新闻文本、虚假信息与安全检测 | 19 | 1.30% | NLP任务 | `video / grounding / action / reasoning` | Local-Global Video-Text Interactions for Temporal Grounding |
 | [025](topic-025.md) | 少样本分类与开放集识别 | 19 | 1.30% | 计算机视觉 | `few-shot / open-set / classes / classification` | Improved Few-Shot Visual Classification |
-| [026](topic-026.md) | synthesis / generation / semantic / scene | 18 | 1.23% | 多模态/VLM | `synthesis / generation / semantic / scene` | Semantic Pyramid for Image Generation |
+| [026](topic-026.md) | synthesis / generation / semantic / scene | 18 | 1.23% | 3D/具身/机器人 | `synthesis / generation / semantic / scene` | Semantic Pyramid for Image Generation |
 | [027](topic-027.md) | person / re-id / reid / clothes | 18 | 1.23% | 系统/效率/压缩 | `person / re-id / reid / clothes` | Style Normalization and Restitution for Generalizable Person Re-Identification |
 | [028](topic-028.md) | face / deepfake / anti-spoofing / domains | 18 | 1.23% | 计算机视觉 | `face / deepfake / anti-spoofing / domains` | Learning Meta Face Recognition in Unseen Domains |
 | [029](topic-029.md) | tail / anomaly / classes / explanations | 18 | 1.23% | 计算机视觉 | `tail / anomaly / classes / explanations` | Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition From a Domain Adaptation Perspective |
@@ -55,7 +55,7 @@
 | [041](topic-041.md) | convolution / cnns / computational / sparse | 16 | 1.09% | 其他/交叉主题 | `convolution / cnns / computational / sparse` | Rethinking Depthwise Separable Convolutions: How Intra-Kernel Correlations Lead to Improved MobileNets |
 | [043](topic-043.md) | 检索 / metric learning / similarity / deep metric | 16 | 1.09% | 系统/效率/压缩 | `retrieval / metric learning / similarity / deep metric` | Cross-Batch Memory for Embedding Learning |
 | [042](topic-042.md) | editing / makeup / facial / face | 16 | 1.09% | 生成模型 | `editing / makeup / facial / face` | Editing in Style: Uncovering the Local Semantics of GANs |
-| [048](topic-048.md) | 具身智能与物理交互 | 15 | 1.02% | 多模态/VLM | `navigation / language / agent / embodied` | Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation |
+| [048](topic-048.md) | 具身智能与物理交互 | 15 | 1.02% | 3D/具身/机器人 | `navigation / language / agent / embodied` | Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation |
 | [044](topic-044.md) | 深度估计与立体匹配 | 15 | 1.02% | 计算机视觉 | `scene / depth / completion / indoor` | RevealNet: Seeing Behind Objects in RGB-D Scans |
 | [045](topic-045.md) | 凸/非凸优化理论 | 15 | 1.02% | 理论/优化 | `minima / outliers / relaxation / shape` | In Perfect Shape: Certifiably Optimal 3D Shape Reconstruction From 2D Landmarks |
 | [046](topic-046.md) | 语音/音频语言模型 | 15 | 1.02% | 生成模型 | `video / synthesis / lip / speech` | Non-Adversarial Video Synthesis With Learned Priors |

@@ -1,8 +1,8 @@
-# IROS 2020: 机器人操作与具身智能
+# IROS 2020: 机器人遥操作与触觉交互
 
 - Topic ID: `38`
 - Papers: **15** (1.35%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `teleoperation / reality / haptic / interface`
 - Keyword pool: teleoperation; reality; haptic; interface; mobile; interaction; augmented; heterogeneous; human-robot; robotic; robots; head
 

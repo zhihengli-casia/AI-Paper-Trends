@@ -29,21 +29,21 @@
 | [015](topic-015.md) | facial / expression / emotion / recognition | 26 | 1.72% | 计算机视觉 | `facial / expression / emotion / recognition` | Text-guided weakly supervised framework for dynamic facial expression recognition |
 | [016](topic-016.md) | 时间序列预测 | 25 | 1.65% | 图学习/数据挖掘 | `series / forecasting / time / multivariate` | DTFPNet: Temporal and frequency dynamic graph neural network for time series classification |
 | [017](topic-017.md) | recognition / action / activity / skeleton | 25 | 1.65% | 计算机视觉 | `recognition / action / activity / skeleton` | Fast distance-enhanced graph convolutional network for skeleton-based action recognition |
-| [018](topic-018.md) | hyperspectral / image classification / object tracking / unmixing | 24 | 1.59% | 计算机视觉 | `hyperspectral / image classification / object tracking / unmixing` | Cross-domain hyperspectral image classification |
+| [018](topic-018.md) | 机器人视觉目标检测与域适应 | 24 | 1.59% | 计算机视觉 | `hyperspectral / image classification / object tracking / unmixing` | Cross-domain hyperspectral image classification |
 | [021](topic-021.md) | 少样本分类与开放集识别 | 22 | 1.46% | 系统/效率/压缩 | `memory / parameters / pruning / reid` | DDS-NAS: Dynamic data selection within neural architecture search via on-line hard example mining applied to image classification |
 | [019](topic-019.md) | 扩散生成模型 | 22 | 1.46% | 3D/具身/机器人 | `point / cloud / geometrical / graph` | CoMPR: Efficient point cloud dataset condensation via bidirectional matching and point recycling |
 | [020](topic-020.md) | 目标检测与图像分割 | 22 | 1.46% | 计算机视觉 | `image / video / enhancement / contour` | Underwater image compression for human and machine visions with hybrid priors embedding |
-| [022](topic-022.md) | 代码生成与程序理解 | 21 | 1.39% | 计算机视觉 | `long-tailed / imbalanced / classification / medical image` | DBL: Dual-Level balanced learning for long-Tailed classification |
+| [022](topic-022.md) | 长尾视觉识别与分类 | 21 | 1.39% | 计算机视觉 | `long-tailed / imbalanced / classification / medical image` | DBL: Dual-Level balanced learning for long-Tailed classification |
 | [023](topic-023.md) | 深度估计与立体匹配 | 20 | 1.32% | 计算机视觉 | `depth / estimation / features / age` | Implicit face model: Depth super-resolution for 3D face recognition |
 | [024](topic-024.md) | 攻击、防御与模型安全 | 20 | 1.32% | 可信/安全/公平 | `face / deepfake detection / authentication / presentation` | Robust face anti-spoofing with Dual Probabilistic Modeling |
 | [025](topic-025.md) | brain / mri / functional / disease | 20 | 1.32% | 图学习/数据挖掘 | `brain / mri / functional / disease` | Multi-task dynamic graph learning for brain disorder identification with functional MRI |
 | [026](topic-026.md) | 分子表示学习与药物发现 | 19 | 1.26% | 多模态/VLM | `molecular / property / prediction / mml` | MORSE: Molecular representation learning via structured semantic extraction across hierarchical and asymmetric biological modalities |
 | [028](topic-028.md) | instances / positive / 分类 / unlabeled | 19 | 1.26% | LLM/语言模型 | `instances / positive / classification / unlabeled` | Learning from not-all-negative N-tuples and unlabeled data |
-| [027](topic-027.md) | 视觉语言模型与多模态理解 | 19 | 1.26% | LLM/语言模型 | `prompt / vision-language / llm / fine-tuning` | Mixture of coarse and fine-grained prompt tuning for vision-language model |
+| [027](topic-027.md) | 视觉语言模型与多模态理解 | 19 | 1.26% | 3D/具身/机器人 | `prompt / vision-language / llm / fine-tuning` | Mixture of coarse and fine-grained prompt tuning for vision-language model |
 | [030](topic-030.md) | 病理图像与临床 AI | 19 | 1.26% | 多模态/VLM | `tumor / segmentation / brain / pathology` | A segmentation knowledge-based global-local attention network for tumor classification in breast ultrasound images |
 | [029](topic-029.md) | clustering / clusters / spectral / 图学习 | 19 | 1.26% | 图学习/数据挖掘 | `clustering / clusters / spectral / graph` | UniForCE: The Unimodality Forest method for Clustering and Estimation of the number of clusters |
 | [031](topic-031.md) | 多视图聚类与图学习 | 19 | 1.26% | 图学习/数据挖掘 | `multi-view / clustering / graph / discrete` | Full-combination contrastive learning for multi-view clustering |
-| [032](topic-032.md) | LiDAR 点云与 3D 感知 | 18 | 1.19% | 多模态/VLM | `smoke / matching / point cloud / adversarial` | Multi-modal integration with adversarial mutual distribution matching |
+| [032](topic-032.md) | LiDAR 点云与 3D 感知 | 18 | 1.19% | 3D/具身/机器人 | `smoke / matching / point cloud / adversarial` | Multi-modal integration with adversarial mutual distribution matching |
 | [033](topic-033.md) | 多模态学习与跨模态理解 | 18 | 1.19% | 多模态/VLM | `retrieval / hashing / cross-modal / image` | Boundary mutual information hashing for cross-modal retrieval |
 | [034](topic-034.md) | 扩散生成模型 | 18 | 1.19% | 生成模型 | `diffusion / noise / presented / image` | Closing the training-sampling gap in conditional diffusion models for versatile image restoration |
 | [035](topic-035.md) | correspondence / object / image / localization | 18 | 1.19% | 计算机视觉 | `correspondence / object / image / localization` | Implicit neural representation model for camera relocalization in multiple scenes |
@@ -75,8 +75,8 @@
 | [061](topic-061.md) | 多模态学习与跨模态理解 | 12 | 0.79% | 多模态/VLM | `change / remote sensing / sar / sensing images` | ChangeViT: Unleashing plain vision transformers for change detection in remote sensing images |
 | [062](topic-062.md) | 目标检测与图像分割 | 11 | 0.73% | 计算机视觉 | `grading / segmentation / vessel / enhancement` | MTD-Net: A robust multi-task discriminative network for choroidal neovascularization segmentation |
 | [063](topic-063.md) | scene / 图学习 / visual grounding / occupancy | 11 | 0.73% | 多模态/VLM | `scene / graph / visual grounding / occupancy` | LSVG: Language-Guided Scene Graphs with 2D-Assisted Multi-Modal Encoding for 3D Visual Grounding |
-| [064](topic-064.md) | 目标检测与图像分割 | 11 | 0.73% | 计算机视觉 | `object detection / small object / tiny / wavelet` | Tiny object detection based on dynamic scale-awareness label assignment and contextual enhancement |
-| [065](topic-065.md) | counting / transformer network / multi-modal / drone | 11 | 0.73% | 多模态/VLM | `counting / transformer network / multi-modal / drone` | Multi-modal mamba framework for RGB-T crowd counting with linear complexity |
+| [064](topic-064.md) | 无人机/四旋翼规划与控制 | 11 | 0.73% | 3D/具身/机器人 | `object detection / small object / tiny / wavelet` | Tiny object detection based on dynamic scale-awareness label assignment and contextual enhancement |
+| [065](topic-065.md) | 无人机/四旋翼规划与控制 | 11 | 0.73% | 3D/具身/机器人 | `counting / transformer network / multi-modal / drone` | Multi-modal mamba framework for RGB-T crowd counting with linear complexity |
 | [066](topic-066.md) | 强化学习算法与理论 | 11 | 0.73% | 强化学习/决策 | `reinforcement learning / action / sequential / anomaly detection` | Compact exploration for continuous action reinforcement learning |
 | [067](topic-067.md) | 多模态学习与跨模态理解 | 11 | 0.73% | 多模态/VLM | `object detection / fusion / radar / salient` | Mambafusion: State-space model-driven object-scene fusion for multi-modal 3D object detection |
 | [068](topic-068.md) | 图像复原与超分辨率 | 11 | 0.73% | 计算机视觉 | `super-resolution / transformer / frequency / image` | Cross-domain aggregation frequency fusion transformer for lightweight image super-resolution |

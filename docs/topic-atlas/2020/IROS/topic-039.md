@@ -1,8 +1,8 @@
-# IROS 2020: 自动驾驶感知与世界模型
+# IROS 2020: 规划搜索与决策推理
 
 - Topic ID: `39`
 - Papers: **15** (1.35%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `uavs / planning / trajectory / planner`
 - Keyword pool: uavs; planning; trajectory; planner; coverage path; inspection; unmanned; avoidance; collision; semantic; autonomous; environments
 

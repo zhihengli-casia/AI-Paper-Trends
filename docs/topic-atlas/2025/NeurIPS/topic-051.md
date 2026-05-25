@@ -1,8 +1,8 @@
-# NeurIPS 2025: 扩散生成模型
+# NeurIPS 2025: 模仿学习与机器人示教
 
 - Topic ID: `51`
 - Papers: **41** (0.78%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `imitation / policy / demonstrations / policies`
 - Keyword pool: imitation; policy; demonstrations; policies; expert; cloning; action; multi-agent; robot; whole-body; skill; diffusion
 

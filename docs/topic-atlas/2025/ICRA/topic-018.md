@@ -1,8 +1,8 @@
-# ICRA 2025: dexterous / magnetic / control / gripper
+# ICRA 2025: 灵巧操作与夹爪控制
 
 - Topic ID: `18`
 - Papers: **27** (1.69%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `dexterous / magnetic / control / gripper`
 - Keyword pool: dexterous; magnetic; control; gripper; miniature; underactuated; manipulation; reconfigurable; force; elastomer; dielectric; modes
 

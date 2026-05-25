@@ -2,7 +2,7 @@
 
 - Topic ID: `57`
 - Papers: **23** (0.69%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `world / planning / agent / driving`
 - Keyword pool: world; planning; agent; driving; stl; environments; policy; behaviour; novelty; embodied; specifications; cross-domain
 

@@ -31,7 +31,7 @@
 | [017](topic-017.md) | 对抗攻击、鲁棒性与安全 | 35 | 1.29% | 多模态/VLM | `adversarial / attacks / gradient / fas` | On the Robustness of Large Multimodal Models Against Image Adversarial Attacks |
 | [018](topic-018.md) | 视频扩散生成与运动控制 | 35 | 1.29% | 生成模型 | `video / diffusion / temporal / t2v` | BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models |
 | [019](topic-019.md) | 深度估计与立体匹配 | 35 | 1.29% | 3D/具身/机器人 | `radar / lidar / depth / object detection` | Weak-to-Strong 3D Object Detection with X-Ray Distillation |
-| [020](topic-020.md) | 扩散生成模型 | 35 | 1.29% | 生成模型 | `hand / grasp / mesh / reconstruction` | G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis |
+| [020](topic-020.md) | 扩散生成模型 | 35 | 1.29% | 3D/具身/机器人 | `hand / grasp / mesh / reconstruction` | G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis |
 | [021](topic-021.md) | 语音/音频语言模型 | 35 | 1.29% | 语音/音频/音乐 | `emotion / music / gestures / speech` | Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion |
 | [022](topic-022.md) | 文档摘要与信息压缩 | 35 | 1.29% | LLM/语言模型 | `video / summarization / captioning / captions` | Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers |
 | [023](topic-023.md) | 文生图生成与个性化编辑 | 35 | 1.29% | 生成模型 | `diffusion / text-to-image / font / t2i` | Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models |
@@ -70,19 +70,19 @@
 | [056](topic-056.md) | 目标检测与图像分割 | 22 | 0.81% | 计算机视觉 | `concept / hierarchy / hierarchical / explanations` | Deciphering 'What' and 'Where' Visual Pathways from Spectral Clustering of Layer-Distributed Neural Representations |
 | [057](topic-057.md) | 运动建模 / gait / animal / person | 21 | 0.77% | LLM/语言模型 | `motion / gait / animal / person` | MoMask: Generative Masked Modeling of 3D Human Motions |
 | [058](topic-058.md) | shape / mesh / deformation / functional | 21 | 0.77% | 3D/具身/机器人 | `shape / mesh / deformation / functional` | Spectral Meets Spatial: Harmonising 3D Shape Matching and Interpolation |
-| [059](topic-059.md) | 查询理解与检索优化 | 20 | 0.74% | 计算机视觉 | `action / temporal / video / untrimmed` | End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames |
+| [059](topic-059.md) | 目标检测与图像分割 | 20 | 0.74% | 计算机视觉 | `action / temporal / video / untrimmed` | End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames |
 | [060](topic-060.md) | 语音/音频语言模型 | 20 | 0.74% | LLM/语言模型 | `multimodal / modalities / modality / audio` | OneLLM: One Framework to Align All Modalities with Language |
 | [061](topic-061.md) | NeRF 与神经渲染 | 20 | 0.74% | 3D/具身/机器人 | `photometric stereo / rendering / light / reflectance` | Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields |
-| [062](topic-062.md) | 具身智能与物理交互 | 19 | 0.70% | LLM/语言模型 | `embodied / agent / motion control / skill` | Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld |
+| [062](topic-062.md) | 具身智能与物理交互 | 19 | 0.70% | 3D/具身/机器人 | `embodied / agent / motion control / skill` | Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld |
 | [068](topic-068.md) | 目标检测与图像分割 | 18 | 0.66% | 计算机视觉 | `few-shot / zero-shot learning / classes / fsl` | Context-based and Diversity-driven Specificity in Compositional Zero-Shot Learning |
 | [063](topic-063.md) | hdr / low-light / underwater / ldr | 18 | 0.66% | 计算机视觉 | `hdr / low-light / underwater / ldr` | Zero-Shot Structure-Preserving Diffusion Model for High Dynamic Range Tone Mapping |
 | [065](topic-065.md) | domain adaptation / domain generalization / domains / source-free | 18 | 0.66% | 多模态/VLM | `domain adaptation / domain generalization / domains / source-free` | Universal Semi-Supervised Domain Adaptation by Mitigating Common-Class Bias |
 | [064](topic-064.md) | 视频理解/生成 / coding / codec / compression | 18 | 0.66% | 系统/效率/压缩 | `video / coding / codec / compression` | Boosting Neural Representations for Videos with a Conditional Decoder |
-| [067](topic-067.md) | 具身智能与物理交互 | 18 | 0.66% | 多模态/VLM | `navigation / agent / navigate / embodied` | Instance-aware Exploration-Verification-Exploitation for Instance ImageGoal Navigation |
+| [067](topic-067.md) | 具身智能与物理交互 | 18 | 0.66% | 3D/具身/机器人 | `navigation / agent / navigate / embodied` | Instance-aware Exploration-Verification-Exploitation for Instance ImageGoal Navigation |
 | [069](topic-069.md) | cad / shape / cnc / assembly | 18 | 0.66% | 3D/具身/机器人 | `cad / shape / cnc / assembly` | SfmCAD: Unsupervised CAD Reconstruction by Learning Sketch-based Feature Modeling Operations |
 | [066](topic-066.md) | 目标检测与图像分割 | 18 | 0.66% | 多模态/VLM | `open-vocabulary / object detection / ood / lvis` | The Devil is in the Fine-Grained Details: Evaluating Open-Vocabulary Object Detectors for Fine-Grained Understanding |
 | [070](topic-070.md) | LiDAR 点云与 3D 感知 | 17 | 0.63% | 计算机视觉 | `localization / place / omnidirectional / cross-image` | Fully Geometric Panoramic Localization |
-| [071](topic-071.md) | slam / mapping / tracking / camera | 17 | 0.63% | 计算机视觉 | `slam / mapping / tracking / camera` | GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting |
+| [071](topic-071.md) | slam / mapping / tracking / camera | 17 | 0.63% | 3D/具身/机器人 | `slam / mapping / tracking / camera` | GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting |
 | [072](topic-072.md) | 目标检测与图像分割 | 16 | 0.59% | 计算机视觉 | `segmentation / clip / prompting / zero-shot semantic` | Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation |
 | [073](topic-073.md) | 深度估计与立体匹配 | 16 | 0.59% | 多模态/VLM | `tta / test-time adaptation / shifts / distribution` | Domain-Specific Block Selection and Paired-View Pseudo-Labeling for Online Test-Time Adaptation |
 | [074](topic-074.md) | 神经网络理论、NTK 与宽度分析 | 16 | 0.59% | 系统/效率/压缩 | `pruning / channel / nas / decentralized` | BilevelPruning: Unified Dynamic and Static Channel Pruning for Convolutional Neural Networks |
@@ -94,19 +94,19 @@
 | [080](topic-080.md) | surface / distance / normal / mesh | 15 | 0.55% | 可信/安全/公平 | `surface / distance / normal / mesh` | Unsigned Orthogonal Distance Fields: An Accurate Neural Implicit Representation for Diverse 3D Shapes |
 | [081](topic-081.md) | 3D Gaussian Splatting 与场景重建 | 15 | 0.55% | HCI/社会计算 | `gaussian / animatable / avatars / splatting` | 3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting |
 | [082](topic-082.md) | pose / relative / correspondences / estimation | 15 | 0.55% | 计算机视觉 | `pose / relative / correspondences / estimation` | From Correspondences to Pose: Non-minimal Certifiably Optimal Relative Pose without Disambiguation |
-| [083](topic-083.md) | LiDAR 点云与 3D 感知 | 15 | 0.55% | 3D/具身/机器人 | `occupancy / lidar / autonomous / slam` | Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory |
+| [083](topic-083.md) | 机器人 SLAM 与定位建图 | 15 | 0.55% | 3D/具身/机器人 | `occupancy / lidar / autonomous / slam` | Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory |
 | [084](topic-084.md) | 多模态学习与跨模态理解 | 15 | 0.55% | 多模态/VLM | `reasoning / question / answering / llms` | Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models |
 | [085](topic-085.md) | class incremental / incremental learning / cil / classes | 15 | 0.55% | 理论/优化 | `class incremental / incremental learning / cil / classes` | FCS: Feature Calibration and Separation for Non-Exemplar Class Incremental Learning |
 | [086](topic-086.md) | LiDAR 点云与 3D 感知 | 14 | 0.52% | 3D/具身/机器人 | `lidar / scene flow / motion / point` | ICP-Flow: LiDAR Scene Flow Estimation with ICP |
 | [087](topic-087.md) | quantization / quantized / quantum / snns | 14 | 0.52% | 系统/效率/压缩 | `quantization / quantized / quantum / snns` | Retraining-Free Model Quantization via One-Shot Weight-Coupling Learning |
 | [088](topic-088.md) | anomaly / anomalies / industrial / ood | 14 | 0.52% | 生成模型 | `anomaly / anomalies / industrial / ood` | Supervised Anomaly Detection for Complex Industrial Images |
 | [089](topic-089.md) | scene graph / graph generation / open-vocabulary / predicate | 14 | 0.52% | LLM/语言模型 | `scene graph / graph generation / open-vocabulary / predicate` | From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models |
-| [095](topic-095.md) | 查询理解与检索优化 | 13 | 0.48% | 计算机视觉 | `bev / bird / aerial / eye view` | BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection |
+| [095](topic-095.md) | 目标检测与图像分割 | 13 | 0.48% | 计算机视觉 | `bev / bird / aerial / eye view` | BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection |
 | [090](topic-090.md) | 多智能体协作与规划 | 13 | 0.48% | 多模态/VLM | `forecasting / social / motion / human pose` | FutureHuman3D: Forecasting Complex Long-Term 3D Human Behavior from Video Observations |
 | [091](topic-091.md) | action / egocentric / procedural / 视频理解/生成 | 13 | 0.48% | LLM/语言模型 | `action / egocentric / procedural / video` | Action Scene Graphs for Long-Form Understanding of Egocentric Videos |
 | [092](topic-092.md) | deblurring / blurry / isp / 运动建模 | 13 | 0.48% | 计算机视觉 | `deblurring / blurry / isp / motion` | Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains |
 | [093](topic-093.md) | 目标检测与图像分割 | 13 | 0.48% | 计算机视觉 | `sam / segmentation / semantic priors / marine` | EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything |
-| [096](topic-096.md) | 自动驾驶感知与世界模型 | 13 | 0.48% | 多模态/VLM | `perception / roadside / collaborative / gaze` | RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception |
+| [096](topic-096.md) | perception / roadside / collaborative / gaze | 13 | 0.48% | 多模态/VLM | `perception / roadside / collaborative / gaze` | RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception |
 | [097](topic-097.md) | 目标检测与图像分割 | 13 | 0.48% | LLM/语言模型 | `referring / ris / segmentation / expression` | Mask Grounding for Referring Image Segmentation |
 | [098](topic-098.md) | multi-task / dense prediction / experts / mtl | 13 | 0.48% | 计算机视觉 | `multi-task / dense prediction / experts / mtl` | Going Beyond Multi-Task Dense Prediction with Synergy Embedding Models |
 | [094](topic-094.md) | 文生图生成与个性化编辑 | 13 | 0.48% | 生成模型 | `concepts / text-to-image / customization / erasure` | FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition |

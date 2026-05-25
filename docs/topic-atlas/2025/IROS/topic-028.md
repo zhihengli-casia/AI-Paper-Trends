@@ -1,8 +1,8 @@
-# IROS 2025: 目标检测与图像分割
+# IROS 2025: 机器人视觉目标检测与域适应
 
 - Topic ID: `28`
 - Papers: **24** (1.21%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `segmentation / detection / object / instance`
 - Keyword pool: segmentation; detection; object; instance; image; closure; semantic; loop; classification; deep; interactive; domain
 

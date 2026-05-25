@@ -2,7 +2,7 @@
 
 - Topic ID: `8`
 - Papers: **33** (1.89%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `representations / object / visual / segmentation`
 - Keyword pool: representations; object; visual; segmentation; robustness; action; self-supervised; keypoint; perception; recognition; learning; pre-trained
 

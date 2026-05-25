@@ -1,4 +1,4 @@
-# KDD 2023: 查询理解与检索优化
+# KDD 2023: subset / query / estimation / items
 
 - Topic ID: `16`
 - Papers: **9** (2.88%)

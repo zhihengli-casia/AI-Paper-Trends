@@ -29,7 +29,7 @@
 | [015](topic-015.md) | 扩散生成模型 | 42 | 1.61% | 生成模型 | `diffusion / sampling / denoising / sampler` | Particle Denoising Diffusion Sampler |
 | [016](topic-016.md) | 公平性、偏见与可信 AI | 42 | 1.61% | 可信/安全/公平 | `fairness / bias / rankings / predictions` | Fair Classification with Partial Feedback: An Exploration-Based Data Collection Approach |
 | [017](topic-017.md) | 时间序列建模与预测 | 41 | 1.57% | LLM/语言模型 | `time series / forecasting / time-series / multivariate` | Multi-Patch Prediction: Adapting Language Models for Time Series Representation Learning |
-| [018](topic-018.md) | 代码生成与程序理解 | 41 | 1.57% | 系统/效率/压缩 | `trees / submodular / scheduling / programming` | Tackling Prevalent Conditions in Unsupervised Combinatorial Optimization: Cardinality, Minimum, Covering, and More |
+| [018](topic-018.md) | trees / submodular / scheduling / programming | 41 | 1.57% | 系统/效率/压缩 | `trees / submodular / scheduling / programming` | Tackling Prevalent Conditions in Unsupervised Combinatorial Optimization: Cardinality, Minimum, Covering, and More |
 | [019](topic-019.md) | label / semi-supervised / ssl / auc | 41 | 1.57% | 其他/交叉主题 | `label / semi-supervised / ssl / auc` | Learning with Complementary Labels Revisited: The Selected-Completely-at-Random Setting Is More Practical |
 | [020](topic-020.md) | Bandit 与 regret 理论 | 40 | 1.53% | 强化学习/决策 | `online / regret / convex / equilibrium` | Online Learning under Budget and ROI Constraints via Weak Adaptivity |
 | [021](topic-021.md) | 大语言模型 / language / cell / 检索 | 39 | 1.49% | LLM/语言模型 | `llms / language / cell / retrieval` | Flextron: Many-in-One Flexible Large Language Model |
@@ -49,7 +49,7 @@
 | [037](topic-037.md) | 对抗攻击、鲁棒性与安全 | 27 | 1.03% | LLM/语言模型 | `llms / safety / language / attack` | PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition |
 | [036](topic-036.md) | 多模态大模型与视觉语言推理 | 27 | 1.03% | 多模态/VLM | `visual / multimodal / vlms / vision-language` | Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models |
 | [038](topic-038.md) | 扩散生成模型 | 27 | 1.03% | LLM/语言模型 | `protein / rna / sequence / structure` | CarbonNovo: Joint Design of Protein Structure and Sequence Using a Unified Energy-based Model |
-| [035](topic-035.md) | 视觉语言模型与多模态理解 | 27 | 1.03% | 多模态/VLM | `embodied / multimodal / robotic / language` | Bridging Environments and Language with Rendering Functions and Vision-Language Models |
+| [035](topic-035.md) | 视觉语言模型与多模态理解 | 27 | 1.03% | 3D/具身/机器人 | `embodied / multimodal / robotic / language` | Bridging Environments and Language with Rendering Functions and Vision-Language Models |
 | [039](topic-039.md) | 视觉语言模型与多模态理解 | 27 | 1.03% | 多模态/VLM | `clip / vision-language / prompt / visual` | Amend to Alignment: Decoupled Prompt Tuning for Mitigating Spurious Correlation in Vision-Language Models |
 | [040](topic-040.md) | 强化学习算法与理论 | 25 | 0.96% | 强化学习/决策 | `marl / multi-agent / agents / cooperative` | FightLadder: A Benchmark for Competitive Multi-Agent Reinforcement Learning |
 | [041](topic-041.md) | 在线学习与 regret 理论 | 25 | 0.96% | 理论/优化 | `bayesian optimization / offline / surrogate / moo` | Boundary Exploration for Bayesian Optimization With Unknown Physical Constraints |
@@ -61,7 +61,7 @@
 | [048](topic-048.md) | LLM Agent 与工具使用 | 23 | 0.88% | LLM/语言模型 | `llms / language / humans / people` | Improving Factuality and Reasoning in Language Models through Multiagent Debate |
 | [047](topic-047.md) | 语音/音频语言模型 | 23 | 0.88% | 语音/音频/音乐 | `audio / music / speech / sound` | Creative Text-to-Audio Generation via Synthesizer Programming |
 | [049](topic-049.md) | LoRA 与参数高效微调 | 23 | 0.88% | 系统/效率/压缩 | `lora / low-rank / fine-tuning / adaptation` | LoRA+: Efficient Low Rank Adaptation of Large Models |
-| [050](topic-050.md) | 具身智能与物理交互 | 23 | 0.88% | LLM/语言模型 | `agents / llms / language / planning` | Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models |
+| [050](topic-050.md) | 具身智能与物理交互 | 23 | 0.88% | 3D/具身/机器人 | `agents / llms / language / planning` | Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models |
 | [051](topic-051.md) | collapse / mutual information / entropy / 分类 | 22 | 0.84% | 理论/优化 | `collapse / mutual information / entropy / classification` | Unveiling the Dynamics of Information Interplay in Supervised Learning |
 | [052](topic-052.md) | 随机优化与收敛理论 | 22 | 0.84% | 理论/优化 | `curvature / sgd / memorization / adam` | No Wrong Turns: The Simple Geometry Of Neural Networks Optimization Paths |
 | [053](topic-053.md) | interpretability / explanations / xai / feature visualizations | 22 | 0.84% | 其他/交叉主题 | `interpretability / explanations / xai / feature visualizations` | Linear Explanations for Individual Neurons |
@@ -94,7 +94,7 @@
 | [080](topic-080.md) | 强化学习策略与奖励建模 | 15 | 0.57% | 强化学习/决策 | `exploration / reward-free / reinforcement / planning` | Scalable Online Exploration via Coverability |
 | [081](topic-081.md) | 在线学习与 regret 理论 | 15 | 0.57% | 强化学习/决策 | `games / player / zero-sum / equilibrium` | Improving Sample Efficiency of Model-Free Algorithms for Zero-Sum Markov Games |
 | [082](topic-082.md) | 偏好优化、RLHF 与 DPO | 15 | 0.57% | 强化学习/决策 | `reward / rlhf / human feedback / preference` | Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences |
-| [083](topic-083.md) | 强化学习策略与奖励建模 | 15 | 0.57% | 强化学习/决策 | `demonstrations / imitation / expert / imperfect` | Mimicking Better by Matching the Approximate Action Distribution |
+| [083](topic-083.md) | 模仿学习与机器人示教 | 15 | 0.57% | 强化学习/决策 | `demonstrations / imitation / expert / imperfect` | Mimicking Better by Matching the Approximate Action Distribution |
 | [084](topic-084.md) | 深度估计与立体匹配 | 15 | 0.57% | 理论/优化 | `continual learning / forgetting / catastrophic / rehearsal` | Understanding Forgetting in Continual Learning with Linear Regression |
 | [085](topic-085.md) | topological / algebraic / homology / descriptors | 15 | 0.57% | LLM/语言模型 | `topological / algebraic / homology / descriptors` | Topological Neural Networks go Persistent, Equivariant, and Continuous |
 | [086](topic-086.md) | 隐私保护与安全学习 | 15 | 0.57% | LLM/语言模型 | `private / privacy / differentially / dp synthetic` | Differentially Private Synthetic Data via Foundation Model APIs 2: Text |

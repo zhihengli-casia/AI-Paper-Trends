@@ -19,7 +19,7 @@
 | [005](topic-005.md) | 社交媒体与社会计算 | 34 | 4.01% | LLM/语言模型 | `gender / emotion / bias / demographic` | V al N orm Quantifies Semantics to Reveal Consistent Valence Biases Across Languages and Over Centuries |
 | [006](topic-006.md) | 对抗攻击、鲁棒性与安全 | 34 | 4.01% | 可信/安全/公平 | `attacks / adversarial / backdoor / privacy` | Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution |
 | [007](topic-007.md) | nlg / metrics / morphological / gec | 31 | 3.66% | 系统/效率/压缩 | `nlg / metrics / morphological / gec` | Compression, Transduction, and Creation: A Unified Framework for Evaluating Natural Language Generation |
-| [008](topic-008.md) | 查询理解与检索优化 | 30 | 3.54% | 图学习/数据挖掘 | `question / answering / answers / vqa` | Answering Open-Domain Questions of Varying Reasoning Steps from Text |
+| [008](topic-008.md) | question / answering / answers / vqa | 30 | 3.54% | 图学习/数据挖掘 | `question / answering / answers / vqa` | Answering Open-Domain Questions of Varying Reasoning Steps from Text |
 | [009](topic-009.md) | causal / attribution / spurious / certainty | 29 | 3.42% | 可信/安全/公平 | `causal / attribution / spurious / certainty` | Text Counterfactuals via Latent Optimization and S hapley-Guided Search |
 | [010](topic-010.md) | 文档摘要与信息压缩 | 27 | 3.19% | NLP任务 | `summarization / extractive / sentences / graph` | M assive S umm: a very large-scale, very multilingual, news summarisation dataset |
 | [011](topic-011.md) | pre-training / mlm / domain / pretraining | 26 | 3.07% | LLM/语言模型 | `pre-training / mlm / domain / pretraining` | Masked Language Modeling and the Distributional Hypothesis: Order Word Matters Pre-training for Little |
@@ -39,7 +39,7 @@
 | [025](topic-025.md) | 少样本 / self-training / examples / intent | 14 | 1.65% | NLP任务 | `few-shot / self-training / examples / intent` | ST ra TA : Self-Training with Task Augmentation for Better Few-shot Learning |
 | [026](topic-026.md) | grounding / 视频理解/生成 / proposals / images | 13 | 1.53% | 计算机视觉 | `grounding / video / proposals / images` | Improving Pre-trained Vision-and-Language Embeddings for Phrase Grounding |
 | [027](topic-027.md) | 多语言建模与跨语言迁移 | 12 | 1.42% | LLM/语言模型 | `cross-lingual / multilingual / languages / monolingual` | Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation |
-| [028](topic-028.md) | 多模态学习与跨模态理解 | 12 | 1.42% | 多模态/VLM | `dialogues / visual / navigation / agent` | Looking for Confirmations: An Effective and Human-Like Visual Dialogue Strategy |
+| [028](topic-028.md) | 视觉导航与语义地图 | 12 | 1.42% | 多模态/VLM | `dialogues / visual / navigation / agent` | Looking for Confirmations: An Effective and Human-Like Visual Dialogue Strategy |
 | [029](topic-029.md) | ner / entity / recognition / named | 12 | 1.42% | 可信/安全/公平 | `ner / entity / recognition / named` | Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training |
 | [031](topic-031.md) | 医疗健康与临床 AI | 11 | 1.30% | AI4Science/医疗 | `medical / clinical / multi-label / outcome` | C o PHE : A Count-Preserving Hierarchical Evaluation Metric in Large-Scale Multi-Label Text Classification |
 | [030](topic-030.md) | dialogue / conversation / response generation / knowledge-grounded | 11 | 1.30% | 生成模型 | `dialogue / conversation / response generation / knowledge-grounded` | C o LV : A Collaborative Latent Variable Model for Knowledge-Grounded Dialogue Generation |

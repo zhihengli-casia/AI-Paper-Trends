@@ -2,7 +2,7 @@
 
 - Topic ID: `13`
 - Papers: **35** (1.69%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `style / text-to-image / font / generation`
 - Keyword pool: style; text-to-image; font; generation; synthesis; content; transfer; sketch; stylization; clip; manipulation; shape
 

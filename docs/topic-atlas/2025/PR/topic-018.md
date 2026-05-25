@@ -1,4 +1,4 @@
-# PR 2025: hyperspectral / image classification / object tracking / unmixing
+# PR 2025: 机器人视觉目标检测与域适应
 
 - Topic ID: `18`
 - Papers: **24** (1.59%)

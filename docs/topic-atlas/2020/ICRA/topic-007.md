@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **28** (2.62%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `slam / localization / visual / odometry`
 - Keyword pool: slam; localization; visual; odometry; monocular; dense; audience; indoor; international; graph; optical flow; semantic
 

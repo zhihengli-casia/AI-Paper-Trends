@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **13** (1.08%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `terrain / navigation / self-supervised / off-road`
 - Keyword pool: terrain; navigation; self-supervised; off-road; uneven; learning; learned; locomotion; environments; mapping; multi-class; transform
 

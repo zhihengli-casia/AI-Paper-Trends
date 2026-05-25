@@ -62,13 +62,13 @@
 | [048](topic-048.md) | 长上下文建模与压缩 | 43 | 0.81% | LLM/语言模型 | `cache / eviction / compression / llm inference` | KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse |
 | [049](topic-049.md) | 样本复杂度与统计学习理论 | 42 | 0.79% | 理论/优化 | `quantum / matrix / multi-index / pca` | Algorithms and SQ Lower Bounds for Robustly Learning Real-valued Multi-Index Models |
 | [050](topic-050.md) | brain / activity / neurons / neuronal | 41 | 0.78% | 计算机视觉 | `brain / activity / neurons / neuronal` | Modeling Dynamic Neural Activity by combining Naturalistic Video Stimuli and Stimulus-independent Latent Factors |
-| [051](topic-051.md) | 扩散生成模型 | 41 | 0.78% | 生成模型 | `imitation / policy / demonstrations / policies` | Improving Generative Behavior Cloning via Self-Guidance and Adaptive Chunking |
+| [051](topic-051.md) | 模仿学习与机器人示教 | 41 | 0.78% | 3D/具身/机器人 | `imitation / policy / demonstrations / policies` | Improving Generative Behavior Cloning via Self-Guidance and Adaptive Chunking |
 | [052](topic-052.md) | rnns / synaptic / brain / recurrent neural | 41 | 0.78% | 系统/效率/压缩 | `rnns / synaptic / brain / recurrent neural` | Learning Dynamics of RNNs in Closed-Loop Environments |
 | [053](topic-053.md) | label / semi-supervised / 长尾 / noisy | 40 | 0.76% | 生成模型 | `label / semi-supervised / long-tailed / noisy` | Statistical Analysis of an Adversarial Bayesian Weak Supervision Method |
 | [054](topic-054.md) | 在线学习与 regret 理论 | 38 | 0.72% | 强化学习/决策 | `bayesian optimization / black-box optimization / gaussian process / pareto` | BayeSQP: Bayesian Optimization through Sequential Quadratic Programming |
 | [055](topic-055.md) | unlearning / erasure / forget / remove | 38 | 0.72% | LLM/语言模型 | `unlearning / erasure / forget / remove` | LLM Unlearning via Neural Activation Redirection |
 | [056](topic-056.md) | Chain-of-Thought 与大模型推理 | 38 | 0.72% | LLM/语言模型 | `reasoning / lrms / thinking / cot` | Don’t Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models |
-| [057](topic-057.md) | 自动驾驶感知与世界模型 | 38 | 0.72% | 强化学习/决策 | `agents / multi-agent / llm / collaboration` | How to Train Your LLM Web Agent: A Statistical Diagnosis |
+| [057](topic-057.md) | 多智能体协作与规划 | 38 | 0.72% | 强化学习/决策 | `agents / multi-agent / llm / collaboration` | How to Train Your LLM Web Agent: A Statistical Diagnosis |
 | [058](topic-058.md) | RAG 与检索增强生成 | 38 | 0.72% | LLM/语言模型 | `rag / retrieval / documents / retrieved` | RAGRouter: Learning to Route Queries to Multiple Retrieval-Augmented Language Models |
 | [060](topic-060.md) | 在线学习与 regret 理论 | 37 | 0.70% | 强化学习/决策 | `pricing / auctions / price / regret` | Near-Optimal Regret-Queue Length Tradeoff in Online Learning for Two-Sided Markets |
 | [059](topic-059.md) | kernel / conditional / regression / ridge | 37 | 0.70% | 系统/效率/压缩 | `kernel / conditional / regression / ridge` | Kernel conditional tests from learning-theoretic bounds |
@@ -82,7 +82,7 @@
 | [068](topic-068.md) | 扩散生成模型 | 35 | 0.66% | 生成模型 | `diffusion / score / discrete / manifold` | Algorithm- and Data-Dependent Generalization Bounds for Diffusion Models |
 | [069](topic-069.md) | LLM Agent 与工具使用 | 35 | 0.66% | 强化学习/决策 | `submodular / fairness / allocations / matroid` | Fair Continuous Resource Allocation with Equality of Impact |
 | [070](topic-070.md) | 多模态大模型与视觉语言推理 | 35 | 0.66% | LLM/语言模型 | `hallucination / visual / contrastive decoding / lvlms` | Discovering Compositional Hallucinations in LVLMs |
-| [073](topic-073.md) | 具身智能与物理交互 | 34 | 0.64% | LLM/语言模型 | `navigation / embodied / underwater / agents` | NavBench: Probing Multimodal Large Language Models for Embodied Navigation |
+| [073](topic-073.md) | 视觉导航与语义地图 | 34 | 0.64% | 3D/具身/机器人 | `navigation / embodied / underwater / agents` | NavBench: Probing Multimodal Large Language Models for Embodied Navigation |
 | [075](topic-075.md) | 多语言建模与跨语言迁移 | 34 | 0.64% | LLM/语言模型 | `moe / expert / multilingual / gating` | Advancing Expert Specialization for Better MoE |
 | [071](topic-071.md) | 视频动作生成与运动控制 | 34 | 0.64% | 3D/具身/机器人 | `world / video / motion / physical` | Learning 3D Persistent Embodied World Models |
 | [076](topic-076.md) | 扩散生成模型 | 34 | 0.64% | 生成模型 | `editing / diffusion / inversion / color` | EditInfinity: Image Editing with Binary-Quantized Generative Models |
@@ -91,7 +91,7 @@
 | [072](topic-072.md) | 扩散生成模型 | 34 | 0.64% | LLM/语言模型 | `diffusion / autoregressive / discrete / token` | Theoretical Benefit and Limitation of Diffusion Language Model |
 | [078](topic-078.md) | 强化学习策略与奖励建模 | 33 | 0.62% | 强化学习/决策 | `policy / reinforcement learning / privileged / regularization` | Counteractive RL: Rethinking Core Principles for Efficient and Scalable Deep Reinforcement Learning |
 | [079](topic-079.md) | 扩散生成模型 | 33 | 0.62% | 生成模型 | `schr / dinger / energy / diffusion` | Learning non-equilibrium diffusions with Schrödinger bridges: from exactly solvable to simulation-free |
-| [080](topic-080.md) | 代码生成与程序理解 | 32 | 0.61% | 生成模型 | `constraint / optimization problems / convex / programming` | Conformal Mixed-Integer Constraint Learning with Feasibility Guarantees |
+| [080](topic-080.md) | 在线学习与 regret 理论 | 32 | 0.61% | 生成模型 | `constraint / optimization problems / convex / programming` | Conformal Mixed-Integer Constraint Learning with Feasibility Guarantees |
 | [081](topic-081.md) | 随机优化与收敛理论 | 32 | 0.61% | 理论/优化 | `adam / sgd / momentum / optimizers` | Understanding the Generalization of Stochastic Gradient Adam in Learning Neural Networks |
 | [082](topic-082.md) | 多模态大模型与视觉语言推理 | 32 | 0.61% | 多模态/VLM | `spatial / reasoning / mllms / scene` | Struct2D: A Perception-Guided Framework for Spatial Reasoning in MLLMs |
 | [083](topic-083.md) | vits / vision / register / tone | 32 | 0.61% | 计算机视觉 | `vits / vision / register / tone` | Vision Transformers with Self-Distilled Registers |
@@ -110,7 +110,7 @@
 | [096](topic-096.md) | 强化学习算法与理论 | 27 | 0.51% | 强化学习/决策 | `marl / multi-agent / policy / agents` | Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective |
 | [097](topic-097.md) | 公平性、偏见与可信 AI | 27 | 0.51% | 可信/安全/公平 | `fairness / demographic / groups / bias amplification` | Understanding Fairness and Prediction Error through Subspace Decomposition and Influence Analysis |
 | [098](topic-098.md) | uncertainty / epistemic / quantum / carbon | 27 | 0.51% | 可信/安全/公平 | `uncertainty / epistemic / quantum / carbon` | Uncertainty Quantification with the Empirical Neural Tangent Kernel |
-| [099](topic-099.md) | manipulation / dexterous / tactile / contact | 26 | 0.49% | LLM/语言模型 | `manipulation / dexterous / tactile / contact` | Scaffolding Dexterous Manipulation with Vision-Language Models |
+| [099](topic-099.md) | 机器人触觉感知与操作 | 26 | 0.49% | 3D/具身/机器人 | `manipulation / dexterous / tactile / contact` | Scaffolding Dexterous Manipulation with Vision-Language Models |
 | [100](topic-100.md) | 时间序列预测 | 26 | 0.49% | 系统/效率/压缩 | `forecasting / climate / weather / assimilation` | DAWP: A framework for global observation forecasting via Data Assimilation and Weather Prediction in satellite observation space |
 | [101](topic-101.md) | 深度估计与立体匹配 | 26 | 0.49% | LLM/语言模型 | `layers / layernorm / transformer / subnetworks` | Bigram Subnetworks: Mapping to Next Tokens in Transformer Language Models |
 | [102](topic-102.md) | clustering / coreset / approximation / local search | 25 | 0.47% | 推荐/检索/排序 | `clustering / coreset / approximation / local search` | Fast Local Search Algorithms for Clustering with Adaptive Sampling and Bandit Strategies |
@@ -119,8 +119,8 @@
 | [103](topic-103.md) | speculative / draft / decoding / lossless | 24 | 0.45% | 系统/效率/压缩 | `speculative / draft / decoding / lossless` | Speculate Deep and Accurate: Lossless and Training-Free Acceleration for Offloaded LLMs via Substitute Speculative Decoding |
 | [106](topic-106.md) | gene / single-cell / dna / regulatory | 24 | 0.45% | 图学习/数据挖掘 | `gene / single-cell / dna / regulatory` | JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model |
 | [105](topic-105.md) | 多语言建模与跨语言迁移 | 24 | 0.45% | LLM/语言模型 | `brain / llms / reasoning / cognitive` | Far from the Shallow: Brain-Predictive Reasoning Embedding through Residual Disentanglement |
-| [108](topic-108.md) | geospatial / geographic / aerial / object | 23 | 0.44% | 多模态/VLM | `geospatial / geographic / aerial / object` | Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models |
-| [109](topic-109.md) | 视觉语言模型与多模态理解 | 22 | 0.42% | 多模态/VLM | `vla / vision-language-action / manipulation / robot` | Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better |
+| [108](topic-108.md) | 无人机/四旋翼规划与控制 | 23 | 0.44% | 3D/具身/机器人 | `geospatial / geographic / aerial / object` | Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models |
+| [109](topic-109.md) | 视觉语言驱动的机器人操作 | 22 | 0.42% | 3D/具身/机器人 | `vla / vision-language-action / manipulation / robot` | Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better |
 | [110](topic-110.md) | Conformal Prediction 与不确定性校准 | 22 | 0.42% | 生成模型 | `conformal / coverage / prediction sets / calibration` | Sample-Conditional Coverage in Split-Conformal Prediction |
 | [111](topic-111.md) | icl / in-context / demonstrations / transformers | 22 | 0.42% | LLM/语言模型 | `icl / in-context / demonstrations / transformers` | Technical Debt in In-Context Learning: Diminishing Efficiency in Long Context |
 | [112](topic-112.md) | Chain-of-Thought 与大模型推理 | 21 | 0.40% | LLM/语言模型 | `transformers / length generalization / memorization / depth` | A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers |

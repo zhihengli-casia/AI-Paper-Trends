@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **22** (1.83%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `slam / monocular / semantic / mapping`
 - Keyword pool: slam; monocular; semantic; mapping; sparse; loop; closure; visual; scale; association; localization; global
 

@@ -1,8 +1,8 @@
-# ICRA 2020: gaits / walking / terrain / locomotion
+# ICRA 2020: 足式机器人与运动控制
 
 - Topic ID: `18`
 - Papers: **22** (2.06%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `gaits / walking / terrain / locomotion`
 - Keyword pool: gaits; walking; terrain; locomotion; control; dynamic; legged; optimization; running; trajectory; wheel; bipedal
 

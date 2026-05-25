@@ -1,4 +1,4 @@
-# IJCAI 2020: 查询理解与检索优化
+# IJCAI 2020: query answering / logics / axioms / ontology
 
 - Topic ID: `33`
 - Papers: **13** (1.67%)

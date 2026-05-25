@@ -1,8 +1,8 @@
-# ICRA 2024: locomotion / quadruped / learning / 策略优化
+# ICRA 2024: 足式机器人与运动控制
 
 - Topic ID: `59`
 - Papers: **14** (0.80%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `locomotion / quadruped / learning / policy`
 - Keyword pool: locomotion; quadruped; learning; policy; highly dynamic; robots; predictive control; maximizing; two-stage; masking; impaired; dynamic motions
 

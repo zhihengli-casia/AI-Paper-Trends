@@ -1,4 +1,4 @@
-# TKDE 2026: 查询理解与检索优化
+# TKDE 2026: query / spatio-temporal / storage / queries
 
 - Topic ID: `11`
 - Papers: **12** (4.80%)

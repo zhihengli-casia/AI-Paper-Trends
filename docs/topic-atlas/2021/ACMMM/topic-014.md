@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **16** (2.95%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `face / facial / portrait / latent space`
 - Keyword pool: face; facial; portrait; latent space; shadow; manipulation; identity; matting; hallucination; real image; landmarks; style
 

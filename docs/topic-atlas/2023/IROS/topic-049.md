@@ -1,8 +1,8 @@
-# IROS 2023: humanoid / control / body / landing
+# IROS 2023: 人形机器人与全身控制
 
 - Topic ID: `49`
 - Papers: **11** (0.93%)
-- Macro topic: 理论/优化
+- Macro topic: 3D/具身/机器人
 - English keywords: `humanoid / control / body / landing`
 - Keyword pool: humanoid; control; body; landing; bipedal; torque; robots; design; human arm; joint position; investigations; kinodynamic
 

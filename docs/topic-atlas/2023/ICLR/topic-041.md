@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **17** (1.11%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `diffusion / image / editing / generation`
 - Keyword pool: diffusion; image; editing; generation; harmonization; synthesis; semantic; generative; manipulation; entities; guidance; motion
 

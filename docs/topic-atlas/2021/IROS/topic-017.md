@@ -1,8 +1,8 @@
-# IROS 2021: 机器人操作与具身智能
+# IROS 2021: 多机器人路径规划与协同导航
 
 - Topic ID: `17`
 - Papers: **22** (2.16%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-agent / learning / reinforcement / decentralized`
 - Keyword pool: multi-agent; learning; reinforcement; decentralized; moving; multi-robot; graph; navigation; networks; planning; collaborative; stochastic
 

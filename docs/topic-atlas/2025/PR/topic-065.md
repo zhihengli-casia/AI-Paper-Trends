@@ -1,8 +1,8 @@
-# PR 2025: counting / transformer network / multi-modal / drone
+# PR 2025: 无人机/四旋翼规划与控制
 
 - Topic ID: `65`
 - Papers: **11** (0.73%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `counting / transformer network / multi-modal / drone`
 - Keyword pool: counting; transformer network; multi-modal; drone; memory-efficient; inception; behavior recognition; modal fusion; rgb-x; proxy; cross-modal attention; network video
 

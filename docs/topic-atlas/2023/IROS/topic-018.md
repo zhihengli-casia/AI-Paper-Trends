@@ -2,7 +2,7 @@
 
 - Topic ID: `18`
 - Papers: **24** (2.03%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `trajectory / optimization / fast / time-optimal`
 - Keyword pool: trajectory; optimization; fast; time-optimal; uncertain; planning; optimal control; solver; path; air; risk-aware; approximation
 

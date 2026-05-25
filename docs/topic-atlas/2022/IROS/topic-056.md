@@ -2,7 +2,7 @@
 
 - Topic ID: `56`
 - Papers: **11** (0.92%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `harvesting / detection / segmentation / reconstruction`
 - Keyword pool: harvesting; detection; segmentation; reconstruction; flow-based; monitoring; strawberry; retrieval; integration; employing; compact; view planning
 

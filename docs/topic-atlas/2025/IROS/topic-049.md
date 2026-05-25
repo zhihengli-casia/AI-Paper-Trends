@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **17** (0.86%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `driving / multimodal / autonomous / understanding`
 - Keyword pool: driving; multimodal; autonomous; understanding; cooperative; domain; learning; large-scale; generative world; like; lanes; generate
 

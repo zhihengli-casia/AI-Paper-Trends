@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **23** (1.32%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `odometry / lidar / inertial / radar`
 - Keyword pool: odometry; lidar; inertial; radar; localization; estimation; resilient; monocular; global; vehicles; point; multiple
 

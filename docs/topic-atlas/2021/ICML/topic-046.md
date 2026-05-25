@@ -1,4 +1,4 @@
-# ICML 2021: 查询理解与检索优化
+# ICML 2021: active / label / drift / query
 
 - Topic ID: `46`
 - Papers: **13** (1.10%)

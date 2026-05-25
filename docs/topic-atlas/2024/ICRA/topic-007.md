@@ -2,7 +2,7 @@
 
 - Topic ID: `7`
 - Papers: **33** (1.89%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `exoskeleton / walking / design / prosthesis`
 - Keyword pool: exoskeleton; walking; design; prosthesis; control; dof; upper-limb; torque; actuators; computation; impedance; pneumatic
 

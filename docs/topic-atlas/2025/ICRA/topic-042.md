@@ -1,8 +1,8 @@
-# ICRA 2025: tracking / multi-object / event / camera
+# ICRA 2025: 无人机/四旋翼规划与控制
 
 - Topic ID: `42`
 - Papers: **16** (1.00%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `tracking / multi-object / event / camera`
 - Keyword pool: tracking; multi-object; event; camera; scenarios; cloud; fast; asynchronous; ellipse; drone detection; cues; crowded
 

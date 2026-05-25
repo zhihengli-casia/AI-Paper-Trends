@@ -1,4 +1,4 @@
-# CHI 2020: virtual / reality / haptic / feedback
+# CHI 2020: 机器人遥操作与触觉交互
 
 - Topic ID: `20`
 - Papers: **17** (2.30%)

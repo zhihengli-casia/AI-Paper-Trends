@@ -22,7 +22,7 @@
 | [008](topic-008.md) | 机器翻译与跨语言对齐 | 18 | 4.46% | LLM/语言模型 | `llms / translation / entity / completion` | Consistency Guided Knowledge Retrieval and Denoising in LLMs for Zero-shot Document-level Relation Triplet Extraction |
 | [009](topic-009.md) | 查询理解与检索优化 | 18 | 4.46% | LLM/语言模型 | `search / retrieval / llms / query` | Query in Your Tongue: Reinforce Large Language Models with Retrievers for Cross-lingual Search Generative Experience |
 | [010](topic-010.md) | 图神经网络与图表示学习 | 16 | 3.96% | 图学习/数据挖掘 | `gnns / node / graph neural / imbalance` | Game-theoretic Counterfactual Explanation for Graph Neural Networks |
-| [011](topic-011.md) | 查询理解与检索优化 | 14 | 3.47% | 图学习/数据挖掘 | `query / reasoning / ontology / queries` | NPCS: Native Provenance Computation for SPARQL |
+| [011](topic-011.md) | query / 推理 / ontology / queries | 14 | 3.47% | 图学习/数据挖掘 | `query / reasoning / ontology / queries` | NPCS: Native Provenance Computation for SPARQL |
 | [012](topic-012.md) | 推荐系统与用户建模 | 14 | 3.47% | LLM/语言模型 | `llms / news / comment / personalized` | Harnessing Large Language Models for Text-Rich Sequential Recommendation |
 | [013](topic-013.md) | 零样本分类与跨模态识别 | 14 | 3.47% | NLP任务 | `image / pretraining / urban / zero-shot` | Aligning Out-of-Distribution Web Images and Caption Semantics via Evidential Learning |
 | [014](topic-014.md) | 区块链生态与风险分析 | 13 | 3.22% | 图学习/数据挖掘 | `blockchain / smart / transactions / security` | Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets |

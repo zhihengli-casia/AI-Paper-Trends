@@ -2,7 +2,7 @@
 
 - Topic ID: `66`
 - Papers: **10** (0.74%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `semantic maps / conditional image / inpainting / editing`
 - Keyword pool: semantic maps; conditional image; inpainting; editing; objects; generation; semantics; user; scene; manipulation; discriminator; mixed
 

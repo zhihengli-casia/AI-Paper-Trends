@@ -1,8 +1,8 @@
-# ICLR 2022: 机器人操作与具身智能
+# ICLR 2022: 机器人运动控制与移动能力
 
 - Topic ID: `20`
 - Papers: **20** (1.89%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `imitation / policy / policies / robot`
 - Keyword pool: imitation; policy; policies; robot; expert; reinforcement learning; skills; locomotion; modular; agent; trajectories; human
 

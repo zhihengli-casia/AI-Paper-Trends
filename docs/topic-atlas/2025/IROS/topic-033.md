@@ -2,7 +2,7 @@
 
 - Topic ID: `33`
 - Papers: **23** (1.16%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `trajectory prediction / forecasting / traffic / spatial-temporal`
 - Keyword pool: trajectory prediction; forecasting; traffic; spatial-temporal; modeling; multi-modal; motion prediction; context-aware; pedestrian; multi-agent; uncertainty; automated
 

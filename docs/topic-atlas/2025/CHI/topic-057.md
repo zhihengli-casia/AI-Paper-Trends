@@ -1,4 +1,4 @@
-# CHI 2025: 代码生成与程序理解
+# CHI 2025: software / automation / code / developers
 
 - Topic ID: `57`
 - Papers: **10** (0.80%)

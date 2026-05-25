@@ -1,4 +1,4 @@
-# NAACL 2024: 查询理解与检索优化
+# NAACL 2024: tables / sql / 推理 / tabular
 
 - Topic ID: `31`
 - Papers: **9** (1.60%)

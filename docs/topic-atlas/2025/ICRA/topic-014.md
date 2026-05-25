@@ -2,7 +2,7 @@
 
 - Topic ID: `14`
 - Papers: **30** (1.88%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement learning / policy / preference / diffusion`
 - Keyword pool: reinforcement learning; policy; preference; diffusion; policies; human; games; adaptation; deep; sequential; dynamics; interactions
 

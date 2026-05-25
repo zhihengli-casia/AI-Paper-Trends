@@ -1,4 +1,4 @@
-# ICRA 2024: 自动驾驶感知与世界模型
+# ICRA 2024: predictive / control / mpc / racing
 
 - Topic ID: `17`
 - Papers: **28** (1.61%)

@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **18** (1.03%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `tactile / sensor / array / sensing`
 - Keyword pool: tactile; sensor; array; sensing; optical; aerial; feedback; contact; force; estimation; interaction; perception
 

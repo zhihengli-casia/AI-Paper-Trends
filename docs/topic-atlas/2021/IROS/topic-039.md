@@ -2,7 +2,7 @@
 
 - Topic ID: `39`
 - Papers: **12** (1.18%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `segmentation / attention / semantic / network`
 - Keyword pool: segmentation; attention; semantic; network; prediction; detection; removal; saliency; loop closure; weed; consistent; ensemble-based
 

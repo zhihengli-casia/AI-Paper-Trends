@@ -1,4 +1,4 @@
-# IROS 2020: gripper / manipulation / variable stiffness / grasping
+# IROS 2020: 机器人操作与抓取
 
 - Topic ID: `27`
 - Papers: **18** (1.61%)

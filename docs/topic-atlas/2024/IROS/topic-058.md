@@ -2,7 +2,7 @@
 
 - Topic ID: `58`
 - Papers: **13** (0.83%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `embodied / capture / preference / embodiment`
 - Keyword pool: embodied; capture; preference; embodiment; prompts; vision-language; reasoning; enhancing; grounded; planning online; randomization; response
 

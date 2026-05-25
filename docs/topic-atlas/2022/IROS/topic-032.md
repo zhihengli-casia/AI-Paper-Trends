@@ -1,4 +1,4 @@
-# IROS 2022: tactile / sensing / contact / 分类
+# IROS 2022: 机器人触觉感知与操作
 
 - Topic ID: `32`
 - Papers: **16** (1.33%)

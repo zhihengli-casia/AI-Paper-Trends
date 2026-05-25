@@ -1,4 +1,4 @@
-# NeurIPS 2022: 代码生成与程序理解
+# NeurIPS 2022: logic / symbolic / 推理 / probabilistic
 
 - Topic ID: `57`
 - Papers: **20** (0.75%)

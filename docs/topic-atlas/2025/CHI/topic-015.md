@@ -1,4 +1,4 @@
-# CHI 2025: augmented / reality / displays / user
+# CHI 2025: 视觉导航与语义地图
 
 - Topic ID: `15`
 - Papers: **25** (2.01%)

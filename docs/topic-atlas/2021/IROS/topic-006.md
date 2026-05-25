@@ -2,7 +2,7 @@
 
 - Topic ID: `6`
 - Papers: **30** (2.95%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / motion / exploration / trajectory`
 - Keyword pool: planning; motion; exploration; trajectory; environments; generation; reactive; unknown; path; reachability; rrt; robust
 

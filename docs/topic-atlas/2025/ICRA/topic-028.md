@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **23** (1.44%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `reconstruction / stereo / multi-view / underwater`
 - Keyword pool: reconstruction; stereo; multi-view; underwater; matching; scene; image; ultrasound; high-quality; knowledge; constraints; dense
 

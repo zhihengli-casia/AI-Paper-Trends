@@ -2,7 +2,7 @@
 
 - Topic ID: `70`
 - Papers: **12** (0.69%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `lidar / transformer-based / network / unified`
 - Keyword pool: lidar; transformer-based; network; unified; multi-task; calibration; perception; geometry compression; map generation; recurrent; instance-aware; neural radiance fields
 

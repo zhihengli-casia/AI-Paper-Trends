@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **10** (0.94%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `localization / localisation / global / cnn`
 - Keyword pool: localization; localisation; global; cnn; iot; techniques; pose; urban; ekf; fusion; images; integrated
 

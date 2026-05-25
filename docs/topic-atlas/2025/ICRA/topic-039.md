@@ -1,8 +1,8 @@
-# ICRA 2025: quadrotors / uavs / drone / control
+# ICRA 2025: 无人机/四旋翼规划与控制
 
 - Topic ID: `39`
 - Papers: **19** (1.19%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `quadrotors / uavs / drone / control`
 - Keyword pool: quadrotors; uavs; drone; control; flight; fixed-wing; tracking; aerial; dynamic; simulation; visual servoing; imperfect demonstrations
 

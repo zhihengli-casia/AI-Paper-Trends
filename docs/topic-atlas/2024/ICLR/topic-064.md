@@ -2,7 +2,7 @@
 
 - Topic ID: `64`
 - Papers: **17** (0.75%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement learning / world / environments / model-based`
 - Keyword pool: reinforcement learning; world; environments; model-based; policy; distributed; in-context; robot; learning rl; agents; scalable; recurrent
 

@@ -1,4 +1,4 @@
-# AAAI 2020: 代码生成与程序理解
+# AAAI 2020: logic / programs / programming / forgetting
 
 - Topic ID: `48`
 - Papers: **15** (0.94%)

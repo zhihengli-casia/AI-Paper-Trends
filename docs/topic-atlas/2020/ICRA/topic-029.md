@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **16** (1.50%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasp / parts / assembly / gripper`
 - Keyword pool: grasp; parts; assembly; gripper; force; objects; metric; slip; sub; contact; friction; w3 org
 

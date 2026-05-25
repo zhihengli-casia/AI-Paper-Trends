@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **21** (1.34%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `forecasting / trajectory / prediction / motion`
 - Keyword pool: forecasting; trajectory; prediction; motion; trajectories; human; stochastic; flow; generation; representations; neural; daily
 

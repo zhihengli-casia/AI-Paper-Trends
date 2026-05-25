@@ -1,8 +1,8 @@
-# IROS 2021: learning / manipulation / hand / robotic
+# IROS 2021: 机器人操作与抓取
 
 - Topic ID: `21`
 - Papers: **20** (1.96%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / manipulation / hand / robotic`
 - Keyword pool: learning; manipulation; hand; robotic; deep; arm; neural; demonstrations; deformable; contact-rich; policy; graph
 

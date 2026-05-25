@@ -1,8 +1,8 @@
-# IROS 2022: 机器人操作与具身智能
+# IROS 2022: 人形机器人与全身控制
 
 - Topic ID: `46`
 - Papers: **13** (1.08%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `locomotion / reinforcement learning / deep reinforcement / quadrupedal`
 - Keyword pool: locomotion; reinforcement learning; deep reinforcement; quadrupedal; hybrid; policies; control; skills; humanoid robot; centroidal; residual; motion primitives
 

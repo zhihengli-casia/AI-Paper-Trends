@@ -1,4 +1,4 @@
-# TKDE 2020: 查询理解与检索优化
+# TKDE 2020: entity / knowledge / entities / graphs
 
 - Topic ID: `22`
 - Papers: **9** (2.24%)

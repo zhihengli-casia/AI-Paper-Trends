@@ -1,4 +1,4 @@
-# EMNLP 2022: 查询理解与检索优化
+# EMNLP 2022: temporal / 推理 / logical / knowledge graphs
 
 - Topic ID: `11`
 - Papers: **21** (2.54%)

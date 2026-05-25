@@ -1,8 +1,8 @@
-# CVPR 2025: 视觉语言动作模型与具身操作
+# CVPR 2025: 机器人操作与抓取
 
 - Topic ID: `74`
 - Papers: **17** (0.59%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / robotic / policy / skills`
 - Keyword pool: manipulation; robotic; policy; skills; actions; policies; object-centric; embodied; vla; mobile; robots; human-robot
 

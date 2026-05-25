@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **14** (1.52%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `actuator / stiffness / soft / underactuated`
 - Keyword pool: actuator; stiffness; soft; underactuated; elastic; variable; identification; control; adaptive; design; compliant; in-hand manipulation
 

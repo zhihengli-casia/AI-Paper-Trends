@@ -54,8 +54,8 @@
 | [040](topic-040.md) | 强化学习算法与理论 | 28 | 0.92% | 强化学习/决策 | `multi-agent / agents / marl / policies` | Offline Multi-Agent Reinforcement Learning via In-Sample Sequential Policy Optimization |
 | [041](topic-041.md) | LLM Agent 与工具使用 | 27 | 0.89% | 理论/优化 | `games / equilibrium / equilibria / players` | Beyond Monotonicity: On the Convergence of Learning Algorithms in Standard Auction Games |
 | [042](topic-042.md) | 图神经网络与图表示学习 | 26 | 0.86% | 图学习/数据挖掘 | `graph / fraud / attacks / gnns` | Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection |
-| [043](topic-043.md) | 规划搜索与决策推理 | 26 | 0.86% | 强化学习/决策 | `planning / numeric / reasoning / calculus` | Situation Calculus Temporally Lifted Abstractions for Generalized Planning |
-| [044](topic-044.md) | 具身智能与物理交互 | 26 | 0.86% | LLM/语言模型 | `planning / navigation / embodied / llms` | Multi-Modal Grounded Planning and Efficient Replanning for Learning Embodied Agents with a Few Examples |
+| [043](topic-043.md) | 时序逻辑约束下的机器人任务规划 | 26 | 0.86% | 强化学习/决策 | `planning / numeric / reasoning / calculus` | Situation Calculus Temporally Lifted Abstractions for Generalized Planning |
+| [044](topic-044.md) | 具身智能与物理交互 | 26 | 0.86% | 3D/具身/机器人 | `planning / navigation / embodied / llms` | Multi-Modal Grounded Planning and Efficient Replanning for Learning Embodied Agents with a Few Examples |
 | [045](topic-045.md) | 目标检测与图像分割 | 26 | 0.86% | 计算机视觉 | `mamba / object detection / sod / salient object` | Mamba YOLO: A Simple Baseline for Object Detection with State Space Model |
 | [049](topic-049.md) | pareto / multi-objective / bayesian optimization / solutions | 25 | 0.83% | 生成模型 | `pareto / multi-objective / bayesian optimization / solutions` | Improving Pareto Set Learning for Expensive Multi-objective Optimization via Stein Variational Hypernetworks |
 | [047](topic-047.md) | neural networks / kan / dnn / certificate | 25 | 0.83% | 系统/效率/压缩 | `neural networks / kan / dnn / certificate` | On the Hardness of Training Deep Neural Networks Discretely |
@@ -68,14 +68,14 @@
 | [054](topic-054.md) | 多模态学习与跨模态理解 | 24 | 0.79% | LLM/语言模型 | `news / hallucination / fake / detection` | Zero-resource Hallucination Detection for Text Generation via Graph-based Contextual Knowledge Triples Modeling |
 | [055](topic-055.md) | 推荐系统与用户建模 | 24 | 0.79% | 推荐/检索/排序 | `recommendation / sequential / items / poi` | Future Sight and Tough Fights: Revolutionizing Sequential Recommendation with FENRec |
 | [056](topic-056.md) | Chain-of-Thought 与大模型推理 | 23 | 0.76% | LLM/语言模型 | `reasoning / llms / cot / language` | Enhancing Chain of Thought Prompting in Large Language Models via Reasoning Patterns |
-| [057](topic-057.md) | 代码生成与程序理解 | 23 | 0.76% | LLM/语言模型 | `search / heuristics / runtime / mutation` | Runtime Analysis for Multi-Objective Evolutionary Algorithms in Unbounded Integer Spaces |
+| [057](topic-057.md) | search / heuristics / runtime / mutation | 23 | 0.76% | LLM/语言模型 | `search / heuristics / runtime / mutation` | Runtime Analysis for Multi-Objective Evolutionary Algorithms in Unbounded Integer Spaces |
 | [058](topic-058.md) | instruction / 大语言模型 / language / latex | 23 | 0.76% | LLM/语言模型 | `instruction / llms / language / latex` | Improving Natural Language Understanding for LLMs via Large-Scale Instruction Synthesis |
 | [061](topic-061.md) | 强化学习策略与奖励建模 | 22 | 0.73% | 强化学习/决策 | `markov / mdps / policy / decision processes` | Solving Robust Markov Decision Processes: Generic, Reliable, Efficient |
-| [060](topic-060.md) | 状态空间模型与高效序列建模 | 22 | 0.73% | 计算机视觉 | `pose / human / estimation / body` | PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model |
+| [060](topic-060.md) | 状态空间模型与高效序列建模 | 22 | 0.73% | 3D/具身/机器人 | `pose / human / estimation / body` | PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model |
 | [062](topic-062.md) | 多语言建模与跨语言迁移 | 22 | 0.73% | LLM/语言模型 | `languages / llms / translation / vietnamese` | Enhancing Non-English Capabilities of English-Centric Large Language Models Through Deep Supervision Fine-Tuning |
 | [059](topic-059.md) | LLM Agent 与工具使用 | 22 | 0.73% | 系统/效率/压缩 | `allocations / valuations / fairness / agents` | The Complexity of Extending Fair Allocations of Indivisible Goods |
 | [063](topic-063.md) | traffic / trajectory / road / spatio-temporal | 22 | 0.73% | 系统/效率/压缩 | `traffic / trajectory / road / spatio-temporal` | SSL-STMFormer Self-Supervised Learning Spatio-Temporal Entanglement Transformer for Traffic Flow Prediction |
-| [064](topic-064.md) | forgery / image / manipulation / tampered | 21 | 0.69% | 计算机视觉 | `forgery / image / manipulation / tampered` | M²RL-Net: Multi-View and Multi-Level Relation Learning Network for Weakly-Supervised Image Forgery Detection |
+| [064](topic-064.md) | forgery / image / manipulation / tampered | 21 | 0.69% | 3D/具身/机器人 | `forgery / image / manipulation / tampered` | M²RL-Net: Multi-View and Multi-Level Relation Learning Network for Weakly-Supervised Image Forgery Detection |
 | [065](topic-065.md) | 点云表示与 3D 感知 | 21 | 0.69% | 3D/具身/机器人 | `spiking / snns / spike / neural networks` | Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks |
 | [066](topic-066.md) | 点云表示与 3D 感知 | 21 | 0.69% | 多模态/VLM | `grounding / referring / expression / rec` | Look Around Before Locating: Considering Content and Structure Information for Visual Grounding |
 | [067](topic-067.md) | mathematical reasoning / 大语言模型 / language / problems | 20 | 0.66% | LLM/语言模型 | `mathematical reasoning / llms / language / problems` | Learning Theorem Rationale for Improving the Mathematical Reasoning Capability of Large Language Models |
@@ -91,13 +91,13 @@
 | [079](topic-079.md) | 强化学习算法与理论 | 18 | 0.59% | 强化学习/决策 | `offline / policy / uncertainty / reinforcement learning` | Dynamic Uncertainty Estimation for Offline Reinforcement Learning |
 | [076](topic-076.md) | 少样本细粒度视觉识别 | 18 | 0.59% | LLM/语言模型 | `visual / zsl / image / zero-shot` | Making Large Vision Language Models to Be Good Few-Shot Learners |
 | [077](topic-077.md) | code / 大语言模型 / program / repair | 18 | 0.59% | LLM/语言模型 | `code / llms / program / repair` | Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting |
-| [080](topic-080.md) | 查询理解与检索优化 | 17 | 0.56% | 系统/效率/压缩 | `attacks / substitute / defense / data-free` | HoneypotNet: Backdoor Attacks Against Model Extraction |
+| [080](topic-080.md) | attacks / substitute / defense / data-free | 17 | 0.56% | 系统/效率/压缩 | `attacks / substitute / defense / data-free` | HoneypotNet: Backdoor Attacks Against Model Extraction |
 | [081](topic-081.md) | circuits / pcs / compilation / bayes | 17 | 0.56% | 理论/优化 | `circuits / pcs / compilation / bayes` | New Compilation Languages Based on Restricted Weak Decomposability |
 | [082](topic-082.md) | 对抗攻击、鲁棒性与安全 | 17 | 0.56% | 可信/安全/公平 | `backdoor / attacks / private / defense` | Two Sides of the Same Coin: Learning the Backdoor to Remove the Backdoor |
 | [083](topic-083.md) | editing / 大语言模型 / neurons / language | 17 | 0.56% | LLM/语言模型 | `editing / llms / neurons / language` | Editing Memories Through Few Targeted Neurons |
 | [084](topic-084.md) | 强化学习策略与奖励建模 | 17 | 0.56% | 强化学习/决策 | `policy / reward / policies / skill` | Efficient Language-instructed Skill Acquisition via Reward-Policy Co-Evolution |
 | [085](topic-085.md) | facial / identity / face / hair | 17 | 0.56% | 生成模型 | `facial / identity / face / hair` | FaceA-Net: Facial Attribute-Driven ID Preserving Image Generation Network |
-| [086](topic-086.md) | 扩散生成模型 | 17 | 0.56% | 生成模型 | `hands / palm / object / diffusion` | Single-view Image to Novel-view Generation for Hand-Object Interactions |
+| [086](topic-086.md) | 扩散生成模型 | 17 | 0.56% | 3D/具身/机器人 | `hands / palm / object / diffusion` | Single-view Image to Novel-view Generation for Hand-Object Interactions |
 | [090](topic-090.md) | chart / vqa / question / 视觉理解 | 16 | 0.53% | 多模态/VLM | `chart / vqa / question / visual` | Multimodal Hypothetical Summary for Retrieval-based Multi-image Question Answering |
 | [087](topic-087.md) | 视频扩散生成与运动控制 | 16 | 0.53% | 多模态/VLM | `anomaly / detection / defect / anomalies` | Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning |
 | [088](topic-088.md) | 视频动作生成与运动控制 | 16 | 0.53% | 计算机视觉 | `event / motion / cameras / hdr` | EventZoom: A Progressive Approach to Event-Based Data Augmentation for Enhanced Neuromorphic Vision |
@@ -126,7 +126,7 @@
 | [112](topic-112.md) | 扩散生成模型 | 11 | 0.36% | 可信/安全/公平 | `attacks / diffusion / adversarial / defense` | Pixel Is Not a Barrier: An Effective Evasion Attack for Pixel-Domain Diffusion Models |
 | [113](topic-113.md) | re-identification / camera / person / nighttime | 11 | 0.36% | 多模态/VLM | `re-identification / camera / person / nighttime` | Towards Efficient Object Re-Identification with a Novel Cloud-Edge Collaborative Framework |
 | [114](topic-114.md) | 视频扩散生成与运动控制 | 11 | 0.36% | 计算机视觉 | `try-on / clothing / virtual / fashion` | Cascaded Diffusion Models for Virtual Try-On: Improving Control and Resolution |
-| [115](topic-115.md) | 运动建模 / infrared / detection / uav | 10 | 0.33% | 计算机视觉 | `motion / infrared / detection / uav` | Pinwheel-shaped Convolution and Scale-based Dynamic Loss for Infrared Small Target Detection |
+| [115](topic-115.md) | 无人机/四旋翼规划与控制 | 10 | 0.33% | 3D/具身/机器人 | `motion / infrared / detection / uav` | Pinwheel-shaped Convolution and Scale-based Dynamic Loss for Infrared Small Target Detection |
 | [116](topic-116.md) | quantum / bayesian / processor / circuit | 10 | 0.33% | 系统/效率/压缩 | `quantum / bayesian / processor / circuit` | Q-MAML: Quantum Model-Agnostic Meta-Learning for Variational Quantum Algorithms |
 | [117](topic-117.md) | 扩散生成模型 | 10 | 0.33% | 生成模型 | `influence / social / popularity prediction / cascade` | MSR: A Multifaceted Self-Retrieval Framework for Microscopic Cascade Prediction |
 | [118](topic-118.md) | 深度估计与立体匹配 | 10 | 0.33% | 计算机视觉 | `image compression / coding / dictionary / stereo` | GLIC: General Format Learned Image Compression |

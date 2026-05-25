@@ -1,8 +1,8 @@
-# ICRA 2024: slam / 视觉理解 / loop closure / inertial
+# ICRA 2024: 视觉导航与语义地图
 
 - Topic ID: `36`
 - Papers: **18** (1.03%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `slam / visual / loop closure / inertial`
 - Keyword pool: slam; visual; loop closure; inertial; dense; enhancing; pose; increasing; initialization; mav; navigation complex; outlier
 

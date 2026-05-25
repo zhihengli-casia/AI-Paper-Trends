@@ -2,7 +2,7 @@
 
 - Topic ID: `17`
 - Papers: **23** (1.73%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `walking / gait / exoskeleton / human`
 - Keyword pool: walking; gait; exoskeleton; human; bipedal; rehabilitation; recovery; control; movement; stiffness; assistance; robotic
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `16`
 - Papers: **22** (2.06%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `calibration / lidar / reconstruction / camera`
 - Keyword pool: calibration; lidar; reconstruction; camera; extrinsic; plant; sensor; depth; events; time; fusion; images
 

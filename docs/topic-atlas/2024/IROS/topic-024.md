@@ -2,7 +2,7 @@
 
 - Topic ID: `24`
 - Papers: **24** (1.53%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `odometry / visual-inertial / camera / satellite`
 - Keyword pool: odometry; visual-inertial; camera; satellite; initialization; monocular; event-based; tracking; pose; measurement; localization; filter
 

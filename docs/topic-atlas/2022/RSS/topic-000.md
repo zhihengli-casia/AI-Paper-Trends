@@ -1,8 +1,8 @@
-# RSS 2022: 自动驾驶感知与世界模型
+# RSS 2022: navigation / autonomous / mapping / detection
 
 - Topic ID: `0`
 - Papers: **16** (23.88%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / autonomous / mapping / detection`
 - Keyword pool: navigation; autonomous; mapping; detection; real-time; collision; traversability; information; unsupervised; perception; continuous; optimization
 

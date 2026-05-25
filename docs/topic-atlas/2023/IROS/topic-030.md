@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **20** (1.69%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `semantic segmentation / adaptation / domain / local`
 - Keyword pool: semantic segmentation; adaptation; domain; local; unsupervised; transformers; learning; feature; detection; vision; perception; network
 

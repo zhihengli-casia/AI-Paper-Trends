@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **15** (1.25%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 3D/具身/机器人
 - English keywords: `sound / teaching / learning / bimanual`
 - Keyword pool: sound; teaching; learning; bimanual; impact; imitation; surface; skills; manipulation; robots; space; human
 

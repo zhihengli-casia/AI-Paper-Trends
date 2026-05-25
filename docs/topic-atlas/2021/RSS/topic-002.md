@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **16** (18.18%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `representations / recognition / visual / estimation`
 - Keyword pool: representations; recognition; visual; estimation; place; graph; radar; localisation; pose; perception; probabilistic; semantic
 

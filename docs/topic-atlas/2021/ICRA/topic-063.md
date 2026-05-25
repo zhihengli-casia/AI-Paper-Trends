@@ -2,7 +2,7 @@
 
 - Topic ID: `63`
 - Papers: **9** (0.66%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `vehicle / self-supervised / cameras / detection`
 - Keyword pool: vehicle; self-supervised; cameras; detection; monocular; pose; estimation; weakly; walks; videos; vertical; scene reconstruction
 

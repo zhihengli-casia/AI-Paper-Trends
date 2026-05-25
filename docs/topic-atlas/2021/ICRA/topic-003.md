@@ -2,7 +2,7 @@
 
 - Topic ID: `3`
 - Papers: **40** (2.92%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `slam / mapping / semantic / visual`
 - Keyword pool: slam; mapping; semantic; visual; monocular; occupancy; distributed; tracking; rgb-d; underwater; robust; dense
 

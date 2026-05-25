@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **26** (2.44%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `surgical / magnetic / tissue / surgery`
 - Keyword pool: surgical; magnetic; tissue; surgery; forces; imaging; battery; instrument; endoscopic; flexible; patient; accuracy
 

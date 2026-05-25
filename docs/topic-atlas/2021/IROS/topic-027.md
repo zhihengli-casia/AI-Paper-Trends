@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **16** (1.57%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `pose / estimation / object / reconstruction`
 - Keyword pool: pose; estimation; object; reconstruction; recurrent; matching; distance; images; human; real-time; tracking; retrieval
 

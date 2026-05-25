@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **20** (0.96%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `face / fake / adversarial / detectors`
 - Keyword pool: face; fake; adversarial; detectors; attack; identity; frequency; real; authentication; steganography; presentation; manipulation
 

@@ -32,7 +32,7 @@
 | [017](topic-017.md) | 强化学习策略与奖励建模 | 41 | 1.27% | 强化学习/决策 | `reinforcement / policy / reward / preference` | Inverse Preference Learning: Preference-based RL without a Reward Function |
 | [019](topic-019.md) | 随机优化与收敛理论 | 40 | 1.24% | 理论/优化 | `sgd / convergence / adam / sam` | Rank-1 Matrix Completion with Gradient Descent and Small Random Initialization |
 | [020](topic-020.md) | 规划搜索与决策推理 | 40 | 1.24% | 强化学习/决策 | `combinatorial optimization / search / planning / solvers` | Combinatorial Optimization with Policy Adaptation using Latent Space Search |
-| [021](topic-021.md) | 强化学习策略与奖励建模 | 39 | 1.21% | 强化学习/决策 | `reinforcement learning / policy / plasticity / visual` | RePo: Resilient Model-Based Reinforcement Learning by Regularizing Posterior Predictability |
+| [021](topic-021.md) | 视觉导航与语义地图 | 39 | 1.21% | 强化学习/决策 | `reinforcement learning / policy / plasticity / visual` | RePo: Resilient Model-Based Reinforcement Learning by Regularizing Posterior Predictability |
 | [022](topic-022.md) | 点云表示与 3D 感知 | 38 | 1.18% | 计算机视觉 | `surface / reconstruction / scene / shape` | One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization |
 | [023](topic-023.md) | LLM Agent 与工具使用 | 38 | 1.18% | 推荐/检索/排序 | `welfare / signaling / valuation / agents` | Bicriteria Multidimensional Mechanism Design with Side Information |
 | [024](topic-024.md) | bounds / stability / losses / information-theoretic | 37 | 1.15% | 理论/优化 | `bounds / stability / losses / information-theoretic` | Tight Risk Bounds for Gradient Descent on Separable Data |
@@ -60,7 +60,7 @@
 | [046](topic-046.md) | 公平性、偏见与可信 AI | 28 | 0.87% | 可信/安全/公平 | `fairness / sensitive attributes / assignment / consent` | Aleatoric and Epistemic Discrimination: Fundamental Limits of Fairness Interventions |
 | [047](topic-047.md) | 视频动作生成与运动控制 | 28 | 0.87% | 计算机视觉 | `video / temporal / segmentation / object` | Self-supervised video pretraining yields robust and more human-aligned visual representations |
 | [048](topic-048.md) | 语音/音频语言模型 | 28 | 0.87% | LLM/语言模型 | `language / in-context / llms / prompt` | Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning |
-| [049](topic-049.md) | 文生图生成与个性化编辑 | 27 | 0.84% | LLM/语言模型 | `visual / language / vqa / llms` | Large Language Models are Visual Reasoning Coordinators |
+| [049](topic-049.md) | 视觉导航与语义地图 | 27 | 0.84% | LLM/语言模型 | `visual / language / vqa / llms` | Large Language Models are Visual Reasoning Coordinators |
 | [050](topic-050.md) | 联邦学习与分布式训练 | 27 | 0.84% | 理论/优化 | `federated / clients / learning fl / heterogeneity` | Fed-CO$_{2}$: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning |
 | [051](topic-051.md) | concept / disentangled / opinion / factors | 26 | 0.81% | 生成模型 | `concept / disentangled / opinion / factors` | Concept Algebra for (Score-Based) Text-Controlled Generative Models |
 | [052](topic-052.md) | 语音/音频语言模型 | 26 | 0.81% | 语音/音频/音乐 | `diffusion / denoising / audio / unet` | Leveraging Early-Stage Robustness in Diffusion Models for Efficient and High-Quality Image Synthesis |
@@ -69,7 +69,7 @@
 | [055](topic-055.md) | uncertainty / calibration / quantification / estimation | 26 | 0.81% | 可信/安全/公平 | `uncertainty / calibration / quantification / estimation` | Adaptive Uncertainty Estimation via High-Dimensional Testing on Latent Representations |
 | [056](topic-056.md) | pruning / sparsity / pai / sparse | 25 | 0.78% | 系统/效率/压缩 | `pruning / sparsity / pai / sparse` | Towards Data-Agnostic Pruning At Initialization: What Makes a Good Sparse Mask? |
 | [060](topic-060.md) | 图神经网络与节点表示学习 | 24 | 0.75% | 图学习/数据挖掘 | `graph / search / node / neural architecture` | Learning Large Graph Property Prediction via Graph Segment Training |
-| [059](topic-059.md) | 强化学习策略与奖励建模 | 24 | 0.75% | 强化学习/决策 | `imitation / expert / policy / demonstrations` | Imitation Learning from Imperfection: Theoretical Justifications and Algorithms |
+| [059](topic-059.md) | 模仿学习与机器人示教 | 24 | 0.75% | 强化学习/决策 | `imitation / expert / policy / demonstrations` | Imitation Learning from Imperfection: Theoretical Justifications and Algorithms |
 | [058](topic-058.md) | causal / treatment / confounding / observational | 24 | 0.75% | 理论/优化 | `causal / treatment / confounding / observational` | Intervention Generalization: A View from Factor Graph Models |
 | [061](topic-061.md) | compression / 视频理解/生成 / binarization / bandwidth | 24 | 0.75% | 计算机视觉 | `compression / video / binarization / bandwidth` | Neural Image Compression: Generalization, Robustness, and Spectral Biases |
 | [057](topic-057.md) | 双层优化与元学习 | 24 | 0.75% | 系统/效率/压缩 | `communication / federated / decentralized / distributed` | A Computation and Communication Efficient Method for Distributed Nonconvex Problems in the Partial Participation Setting |
@@ -77,7 +77,7 @@
 | [062](topic-062.md) | 对抗攻击、鲁棒性与安全 | 24 | 0.75% | 可信/安全/公平 | `adversarial / certified / lipschitz / robust generalization` | Robustness Guarantees for Adversarially Trained Neural Networks |
 | [064](topic-064.md) | 扩散生成模型 | 23 | 0.71% | 生成模型 | `protein / binding / gene / diffusion` | A Hierarchical Training Paradigm for Antibody Structure-sequence Co-design |
 | [065](topic-065.md) | 视觉理解 / in-context / vision / captioning | 22 | 0.68% | 多模态/VLM | `visual / in-context / vision / captioning` | What Makes Good Examples for Visual In-Context Learning? |
-| [066](topic-066.md) | object-centric / objects / 视频理解/生成 / egocentric | 22 | 0.68% | 强化学习/决策 | `object-centric / objects / video / egocentric` | Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos |
+| [066](topic-066.md) | 灵巧机器人操作 | 22 | 0.68% | 3D/具身/机器人 | `object-centric / objects / video / egocentric` | Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos |
 | [067](topic-067.md) | 在线学习与 regret 理论 | 21 | 0.65% | 系统/效率/压缩 | `online / experts / predictions / regret` | The Gain from Ordering in Online Learning |
 | [068](topic-068.md) | 参数高效微调与模型适配 | 21 | 0.65% | LLM/语言模型 | `memory / recursion / quantization / language` | Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model |
 | [069](topic-069.md) | activity / spike / neuronal / neurons | 21 | 0.65% | 计算机视觉 | `activity / spike / neuronal / neurons` | Trial matching: capturing variability with data-constrained spiking neural networks |
@@ -88,7 +88,7 @@
 | [072](topic-072.md) | two-sample / mutual information / testing / tests | 20 | 0.62% | 其他/交叉主题 | `two-sample / mutual information / testing / tests` | K-Nearest-Neighbor Local Sampling Based Conditional Independence Testing |
 | [076](topic-076.md) | domain adaptation / target domain / uda / domains | 20 | 0.62% | LLM/语言模型 | `domain adaptation / target domain / uda / domains` | Subspace Identification for Multi-Source Domain Adaptation |
 | [078](topic-078.md) | reinforcement / world / memory / 智能体 | 20 | 0.62% | 强化学习/决策 | `reinforcement / world / memory / agent` | Structured State Space Models for In-Context Reinforcement Learning |
-| [075](topic-075.md) | 具身智能与物理交互 | 20 | 0.62% | LLM/语言模型 | `language / planning / llms / embodied` | Language Models can Solve Computer Tasks |
+| [075](topic-075.md) | 具身智能与物理交互 | 20 | 0.62% | 3D/具身/机器人 | `language / planning / llms / embodied` | Language Models can Solve Computer Tasks |
 | [077](topic-077.md) | matrix / low rank / matrices / sensing | 20 | 0.62% | 理论/优化 | `matrix / low rank / matrices / sensing` | Robust Matrix Sensing in the Semi-Random Model |
 | [079](topic-079.md) | 在线学习与 regret 理论 | 19 | 0.59% | 系统/效率/压缩 | `online / regret / convex / performative` | Online Convex Optimization with Unbounded Memory |
 | [080](topic-080.md) | 视觉语言模型与多模态理解 | 19 | 0.59% | 多模态/VLM | `clip / zero-shot / prompt / vision-language` | Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP |
@@ -118,7 +118,7 @@
 | [104](topic-104.md) | 视频动作生成与运动控制 | 14 | 0.44% | 计算机视觉 | `stylization / body / animation / motion` | Generalizable One-shot 3D Neural Head Avatar |
 | [105](topic-105.md) | 脑电信号表征与解码 | 12 | 0.37% | 其他/交叉主题 | `eeg / brain / fmri / swift` | Brant: Foundation Model for Intracranial Neural Signal |
 | [106](topic-106.md) | spiking / spike / pointnet / number timesteps | 12 | 0.37% | 3D/具身/机器人 | `spiking / spike / pointnet / number timesteps` | SEENN: Towards Temporal Spiking Early Exit Neural Networks |
-| [107](topic-107.md) | object / detection / detectors / category | 12 | 0.37% | 多模态/VLM | `object / detection / detectors / category` | Described Object Detection: Liberating Object Detection with Flexible Expressions |
+| [107](topic-107.md) | 机器人视觉目标检测与域适应 | 12 | 0.37% | 多模态/VLM | `object / detection / detectors / category` | Described Object Detection: Liberating Object Detection with Flexible Expressions |
 | [108](topic-108.md) | distance / wasserstein / riemannian / chamfer | 11 | 0.34% | 3D/具身/机器人 | `distance / wasserstein / riemannian / chamfer` | Fast Optimal Transport through Sliced Generalized Wasserstein Geodesics |
 | [109](topic-109.md) | active learning / species / instances / agnostic | 11 | 0.34% | 其他/交叉主题 | `active learning / species / instances / agnostic` | Agnostic Multi-Group Active Learning |
 | [110](topic-110.md) | 扩散生成模型 | 11 | 0.34% | 3D/具身/机器人 | `diffusion / trajectory / trajectories / planning` | Adaptive Online Replanning with Diffusion Models |

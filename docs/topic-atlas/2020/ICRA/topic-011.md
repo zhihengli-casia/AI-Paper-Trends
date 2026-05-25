@@ -2,7 +2,7 @@
 
 - Topic ID: `11`
 - Papers: **25** (2.34%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `picking / object / visual / demonstration`
 - Keyword pool: picking; object; visual; demonstration; prediction; manipulation; act; perception; skill; finding; articulated; effects
 

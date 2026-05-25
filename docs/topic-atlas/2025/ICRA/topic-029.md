@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **23** (1.44%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / reinforcement / control / adaptive`
 - Keyword pool: learning; reinforcement; control; adaptive; reachability; lyapunov; games; black-box; gaps; neural; rewards; sample
 

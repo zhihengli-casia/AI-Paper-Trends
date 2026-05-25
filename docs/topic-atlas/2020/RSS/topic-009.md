@@ -2,7 +2,7 @@
 
 - Topic ID: `9`
 - Papers: **6** (6.12%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / skills / robots / generalized`
 - Keyword pool: learning; skills; robots; generalized; demonstrations; mobile; reinforcement; robotic; control
 

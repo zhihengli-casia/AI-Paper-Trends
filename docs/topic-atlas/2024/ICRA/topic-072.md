@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **12** (0.69%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `calibration / camera / marker / extrinsic`
 - Keyword pool: calibration; camera; marker; extrinsic; vins; fixture; square-root; baseline; hierarchical refinement; ultrafast; filter-based; curved
 

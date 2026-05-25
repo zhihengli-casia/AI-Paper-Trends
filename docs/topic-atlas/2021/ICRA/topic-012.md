@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **29** (2.12%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `depth / completion / monocular / stereo`
 - Keyword pool: depth; completion; monocular; stereo; estimation; network; loss; image; self-supervised; enhancement; unsupervised; consistency
 

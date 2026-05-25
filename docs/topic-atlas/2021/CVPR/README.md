@@ -27,7 +27,7 @@
 | [013](topic-013.md) | LiDAR 点云与 3D 感知 | 26 | 1.57% | 3D/具身/机器人 | `point / cloud / registration / equivariant` | PointNetLK Revisited |
 | [014](topic-014.md) | shape / deformation / reconstruction / implicit | 26 | 1.57% | 理论/优化 | `shape / deformation / reconstruction / implicit` | Joint Learning of 3D Shape Retrieval and Deformation |
 | [015](topic-015.md) | 视频动作生成与运动控制 | 25 | 1.51% | 计算机视觉 | `object segmentation / video / frames / instance` | Weakly Supervised Instance Segmentation for Videos With Temporal Mask Consistency |
-| [016](topic-016.md) | 对抗攻击、鲁棒性与安全 | 24 | 1.45% | 生成模型 | `editing / latent / gans / attribute` | Navigating the GAN Parameter Space for Semantic Image Editing |
+| [016](topic-016.md) | 对抗攻击、鲁棒性与安全 | 24 | 1.45% | 3D/具身/机器人 | `editing / latent / gans / attribute` | Navigating the GAN Parameter Space for Semantic Image Editing |
 | [017](topic-017.md) | vqa / 推理 / question / answering | 23 | 1.39% | 多模态/VLM | `vqa / reasoning / question / answering` | How Transferable Are Reasoning Patterns in VQA? |
 | [018](topic-018.md) | 深度估计与立体匹配 | 23 | 1.39% | 计算机视觉 | `flow / motion / optical / scene` | Learning Optical Flow From Still Images |
 | [024](topic-024.md) | 多语言建模与跨语言迁移 | 22 | 1.33% | 多模态/VLM | `language / captioning / pre-training / multimodal` | Seeing Out of the Box: End-to-End Pre-Training for Vision-Language Representation Learning |
@@ -51,7 +51,7 @@
 | [037](topic-037.md) | 图像复原与超分辨率 | 18 | 1.08% | 计算机视觉 | `low-light / flash / restoration / enhancement` | Restoring Extremely Dark Images in Real Time |
 | [038](topic-038.md) | 对抗攻击、鲁棒性与安全 | 17 | 1.02% | 生成模型 | `gan / generative / adversarial networks / discriminator` | Training Generative Adversarial Networks in One Stage |
 | [039](topic-039.md) | 对抗攻击、鲁棒性与安全 | 17 | 1.02% | 可信/安全/公平 | `adversarial / robustness / attacks / capsnet` | Architectural Adversarial Robustness: The Case for Deep Pursuit |
-| [040](topic-040.md) | 查询理解与检索优化 | 17 | 1.02% | 计算机视觉 | `object detection / semi-supervised object / learning object / labeled` | Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework |
+| [040](topic-040.md) | 目标检测与图像分割 | 17 | 1.02% | 计算机视觉 | `object detection / semi-supervised object / learning object / labeled` | Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework |
 | [041](topic-041.md) | 公平性、偏见与可信 AI | 17 | 1.02% | 可信/安全/公平 | `face / recognition / age / identities` | MagFace: A Universal Representation for Face Recognition and Quality Assessment |
 | [042](topic-042.md) | 对抗攻击、鲁棒性与安全 | 17 | 1.02% | 图学习/数据挖掘 | `face / fake / swapping / manipulated` | Face Forensics in the Wild |
 | [043](topic-043.md) | 视频动作生成与运动控制 | 16 | 0.96% | 其他/交叉主题 | `video / temporal / motion / clip` | Spatiotemporal Contrastive Video Representation Learning |
@@ -62,7 +62,7 @@
 | [048](topic-048.md) | 目标检测与图像分割 | 15 | 0.90% | 计算机视觉 | `convolution / self-attention / fpn / object detection` | Scaling Local Self-Attention for Parameter Efficient Visual Backbones |
 | [051](topic-051.md) | 目标检测与图像分割 | 15 | 0.90% | 计算机视觉 | `panoptic / segmentation / cityscapes / stuff` | Fully Convolutional Networks for Panoptic Segmentation |
 | [050](topic-050.md) | trackers / tracking / siamese / lasot | 15 | 0.90% | 计算机视觉 | `trackers / tracking / siamese / lasot` | Learning To Filter: Siamese Relation Network for Robust Tracking |
-| [049](topic-049.md) | 规划搜索与决策推理 | 15 | 0.90% | 多模态/VLM | `navigation / agent / navigate / room` | Visual Navigation With Spatial Attention |
+| [049](topic-049.md) | 视觉语言导航与具身指令跟随 | 15 | 0.90% | 3D/具身/机器人 | `navigation / agent / navigate / room` | Visual Navigation With Spatial Attention |
 | [052](topic-052.md) | 目标检测与图像分割 | 15 | 0.90% | 计算机视觉 | `domain / adaptation / semantic segmentation / uda` | Source-Free Domain Adaptation for Semantic Segmentation |
 | [053](topic-053.md) | 分子表示学习与药物发现 | 14 | 0.84% | 生成模型 | `generative / continuous / synthesis / generators` | Image Generators With Conditionally-Independent Pixel Synthesis |
 | [054](topic-054.md) | 联邦学习与分布式训练 | 14 | 0.84% | 理论/优化 | `domain / generalization / source / unseen` | Adaptive Methods for Real-World Domain Generalization |
@@ -75,13 +75,13 @@
 | [060](topic-060.md) | 视频理解/生成 / temporal / upscaling / selfie | 13 | 0.78% | 计算机视觉 | `video / temporal / upscaling / selfie` | 2D or not 2D? Adaptive 3D Convolution Selection for Efficient Video Recognition |
 | [061](topic-061.md) | 医学影像病灶分析 | 13 | 0.78% | 计算机视觉 | `disease / lesion / medical / surgical` | Learning Calibrated Medical Image Segmentation via Multi-Rater Agreement Modeling |
 | [064](topic-064.md) | 搜索排序与相关性建模 | 13 | 0.78% | 计算机视觉 | `nms / ranking / camouflaged / object detection` | RankDetNet: Delving Into Ranking Constraints for Object Detection |
-| [065](topic-065.md) | 查询理解与检索优化 | 13 | 0.78% | 语音/音频/音乐 | `moment / video / event / sentence` | Structured Multi-Level Interaction Network for Video Moment Localization via Language Query |
+| [065](topic-065.md) | moment / 视频理解/生成 / event / sentence | 13 | 0.78% | 语音/音频/音乐 | `moment / video / event / sentence` | Structured Multi-Level Interaction Network for Video Moment Localization via Language Query |
 | [063](topic-063.md) | 少样本分类与开放集识别 | 13 | 0.78% | 计算机视觉 | `few-shot / distillation / object detection / student` | Generalized Few-Shot Object Detection Without Forgetting |
 | [066](topic-066.md) | LiDAR 点云与 3D 感知 | 12 | 0.72% | 3D/具身/机器人 | `lidar / panoptic / point / segmentation` | LiDAR R-CNN: An Efficient and Universal 3D Object Detector |
 | [067](topic-067.md) | gaze / interaction / human-object / affordance | 11 | 0.66% | HCI/社会计算 | `gaze / interaction / human-object / affordance` | Reformulating HOI Detection As Adaptive Set Prediction |
 | [068](topic-068.md) | 深度估计与立体匹配 | 11 | 0.66% | 多模态/VLM | `saliency / salient object / rgb-d / mesh` | CAMERAS: Enhanced Resolution and Sanity Preserving Class Activation Mapping for Image Saliency |
 | [069](topic-069.md) | rain / removal / synthetic / fog | 11 | 0.66% | 计算机视觉 | `rain / removal / synthetic / fog` | Memory Oriented Transfer Learning for Semi-Supervised Image Deraining |
-| [070](topic-070.md) | 目标检测与图像分割 | 11 | 0.66% | 计算机视觉 | `domain / rpn / adaptation / biomedical` | Domain-Specific Suppression for Adaptive Object Detection |
+| [070](topic-070.md) | 机器人视觉目标检测与域适应 | 11 | 0.66% | 计算机视觉 | `domain / rpn / adaptation / biomedical` | Domain-Specific Suppression for Adaptive Object Detection |
 | [072](topic-072.md) | label noise / noisy / labels / meta | 10 | 0.60% | 计算机视觉 | `label noise / noisy / labels / meta` | Augmentation Strategies for Learning With Noisy Labels |
 | [073](topic-073.md) | quantization / quantized / bit / ste | 10 | 0.60% | 系统/效率/压缩 | `quantization / quantized / bit / ste` | Learnable Companding Quantization for Accurate Low-Bit Neural Networks |
 | [071](topic-071.md) | 图神经网络与图表示学习 | 10 | 0.60% | 图学习/数据挖掘 | `hyperbolic / graph / opt / node` | Bi-GCN: Binary Graph Convolutional Network |

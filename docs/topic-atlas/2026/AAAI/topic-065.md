@@ -1,8 +1,8 @@
-# AAAI 2026: manipulation / grasping / dexterous / robotic
+# AAAI 2026: 机器人操作与抓取
 
 - Topic ID: `65`
 - Papers: **29** (0.70%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / grasping / dexterous / robotic`
 - Keyword pool: manipulation; grasping; dexterous; robotic; cloth; action; skills; long-horizon; contact; object; task-oriented; policy
 

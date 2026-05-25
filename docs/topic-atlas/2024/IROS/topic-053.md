@@ -2,7 +2,7 @@
 
 - Topic ID: `53`
 - Papers: **15** (0.95%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `bev / cross-view / relocalization / bird`
 - Keyword pool: bev; cross-view; relocalization; bird; registration; camera; re-localization; segmentation; transformation; temporal; scene; map
 

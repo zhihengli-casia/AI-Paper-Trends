@@ -1,8 +1,8 @@
-# RSS 2022: manipulation / objects / deformable / dynamics
+# RSS 2022: 机器人触觉感知与操作
 
 - Topic ID: `1`
 - Papers: **15** (22.39%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / objects / deformable / dynamics`
 - Keyword pool: manipulation; objects; deformable; dynamics; control; learning; precise; compliant; tactile; design; iterative; prediction
 

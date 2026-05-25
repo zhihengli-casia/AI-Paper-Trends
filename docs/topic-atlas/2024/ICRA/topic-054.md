@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **14** (0.80%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement learning / policy optimization / offline / safe`
 - Keyword pool: reinforcement learning; policy optimization; offline; safe; online; optimized; simulators; promoting; verifiable; compositional; inaccurate; trajectories
 

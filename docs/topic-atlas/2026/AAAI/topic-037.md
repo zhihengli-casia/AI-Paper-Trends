@@ -1,8 +1,8 @@
-# AAAI 2026: 视频动作生成与运动控制
+# AAAI 2026: 无人机/四旋翼规划与控制
 
 - Topic ID: `37`
 - Papers: **42** (1.01%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `motion / tracking / trackers / multi-object`
 - Keyword pool: motion; tracking; trackers; multi-object; event; video; uav; glass; perception; spatio-temporal; objects; mamba
 

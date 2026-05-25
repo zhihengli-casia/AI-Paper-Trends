@@ -2,7 +2,7 @@
 
 - Topic ID: `10`
 - Papers: **6** (5.45%)
-- Macro topic: 其他/交叉主题
+- Macro topic: 3D/具身/机器人
 - English keywords: `object / dexterity / features / follow`
 - Keyword pool: object; dexterity; features; follow; optical; perception; poses; self-supervised; complex; contact; estimation; simulation
 

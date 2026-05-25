@@ -1,8 +1,8 @@
-# ICRA 2023: 自动驾驶感知与世界模型
+# ICRA 2023: 强化学习算法与理论
 
 - Topic ID: `57`
 - Papers: **12** (0.90%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-agent / search / observable / reinforcement learning`
 - Keyword pool: multi-agent; search; observable; reinforcement learning; active; accelerating; planning heterogeneous; lossless; on-demand; explainable action; learning autonomous; bounded
 

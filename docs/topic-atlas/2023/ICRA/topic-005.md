@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **27** (2.03%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `assembly / printing / robot / visual servoing`
 - Keyword pool: assembly; printing; robot; visual servoing; peg-in-hole; cable; machines; insertion; industrial; automated; tracking; shape
 

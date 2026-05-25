@@ -2,7 +2,7 @@
 
 - Topic ID: `72`
 - Papers: **8** (0.51%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasp / language-driven / reasoning / detection`
 - Keyword pool: grasp; language-driven; reasoning; detection; language-based; open vocabulary; prompt; object-oriented; multi-modal language; liquid; relationship; tuning
 

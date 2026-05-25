@@ -1,8 +1,8 @@
-# IROS 2022: 深度估计与立体匹配
+# IROS 2022: 无人机/四旋翼规划与控制
 
 - Topic ID: `14`
 - Papers: **25** (2.08%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `odometry / visual-inertial / monocular / slam`
 - Keyword pool: odometry; visual-inertial; monocular; slam; real-time visual; fusion; mapping; stereo; hybrid; cameras; uav; indoor
 

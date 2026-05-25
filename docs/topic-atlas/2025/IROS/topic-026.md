@@ -1,8 +1,8 @@
-# IROS 2025: grasping / cluttered / object / robotic
+# IROS 2025: 机器人操作与抓取
 
 - Topic ID: `26`
 - Papers: **25** (1.27%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasping / cluttered / object / robotic`
 - Keyword pool: grasping; cluttered; object; robotic; detection; grasp pose; language-driven; industrial; rgb; hand; uncertainty; learning
 

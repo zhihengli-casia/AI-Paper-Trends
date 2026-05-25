@@ -1,8 +1,8 @@
-# RSS 2021: 多模态学习与跨模态理解
+# RSS 2021: 机器人操作与抓取
 
 - Topic ID: `3`
 - Papers: **11** (12.50%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `robotic / human / planning / manipulation`
 - Keyword pool: robotic; human; planning; manipulation; generalizable; environments; actions; n-ary; mqa answering question; multimodal; online robot; operating
 

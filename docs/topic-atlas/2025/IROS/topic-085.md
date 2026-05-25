@@ -1,8 +1,8 @@
-# IROS 2025: 自动驾驶感知与世界模型
+# IROS 2025: 视觉导航与语义地图
 
 - Topic ID: `85`
 - Papers: **11** (0.56%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `exploration / navigation / resilient / environments`
 - Keyword pool: exploration; navigation; resilient; environments; unknown; lunar; convex optimization; odometry extreme; mapless; visual odometry; walking; autonomous
 

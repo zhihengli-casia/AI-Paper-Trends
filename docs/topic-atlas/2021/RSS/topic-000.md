@@ -2,7 +2,7 @@
 
 - Topic ID: `0`
 - Papers: **23** (26.14%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / continuous / dynamic / autonomous`
 - Keyword pool: control; continuous; dynamic; autonomous; safe; reinforcement; guarantees; games; observable; variational; driving; partially
 

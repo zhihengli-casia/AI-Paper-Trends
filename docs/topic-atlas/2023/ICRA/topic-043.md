@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **15** (1.13%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `place / recognition / lidar / neural networks`
 - Keyword pool: place; recognition; lidar; neural networks; learnable; visual; descriptor; event-based; large-scale; representations; hierarchical; quality prediction
 

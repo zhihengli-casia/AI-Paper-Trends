@@ -1,4 +1,4 @@
-# CVPR 2024: 自动驾驶感知与世界模型
+# CVPR 2024: perception / roadside / collaborative / gaze
 
 - Topic ID: `96`
 - Papers: **13** (0.48%)

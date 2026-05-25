@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **23** (1.32%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `radiance / fields / neural / uncertainty`
 - Keyword pool: radiance; fields; neural; uncertainty; image; synthetic; low-light; enhancement; priors; mapping; masked; gap
 

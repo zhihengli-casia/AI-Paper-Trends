@@ -1,8 +1,8 @@
-# RSS 2020: 规划搜索与决策推理
+# RSS 2020: 机器人操作与抓取
 
 - Topic ID: `2`
 - Papers: **11** (11.22%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / optimization / robotic / planning`
 - Keyword pool: manipulation; optimization; robotic; planning; trajectory; synthesis; scalable; real-time; vision-based; online; observability; differentiable
 

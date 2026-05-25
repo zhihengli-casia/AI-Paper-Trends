@@ -2,7 +2,7 @@
 
 - Topic ID: `21`
 - Papers: **26** (1.49%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `language / lifelong / planning / reasoning`
 - Keyword pool: language; lifelong; planning; reasoning; collaboration; long-horizon; robotics; instruction; actions; continual learning; embodied; trees
 

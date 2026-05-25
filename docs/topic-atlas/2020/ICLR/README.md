@@ -25,7 +25,7 @@
 | [011](topic-011.md) | 图神经网络与节点表示学习 | 20 | 2.91% | 图学习/数据挖掘 | `graph / node / embedding / clustering` | Inductive and Unsupervised Representation Learning on Graph Structured Objects |
 | [012](topic-012.md) | 多智能体协作与规划 | 18 | 2.62% | 强化学习/决策 | `agents / multi-agent / curriculum / action` | On the interaction between supervision and self-play in emergent communication |
 | [013](topic-013.md) | 规划搜索与决策推理 | 18 | 2.62% | 生成模型 | `video / scenes / objects / generative` | Scaling Autoregressive Video Models |
-| [014](topic-014.md) | 机器人操作与具身智能 | 17 | 2.47% | 强化学习/决策 | `reinforcement / skills / primitives / hierarchical` | Dynamics-Aware Unsupervised Discovery of Skills |
+| [014](topic-014.md) | 机器人操作与抓取 | 17 | 2.47% | 3D/具身/机器人 | `reinforcement / skills / primitives / hierarchical` | Dynamics-Aware Unsupervised Discovery of Skills |
 | [015](topic-015.md) | continual / forgetting / memory / catastrophic | 17 | 2.47% | 系统/效率/压缩 | `continual / forgetting / memory / catastrophic` | A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning |
 | [016](topic-016.md) | bottleneck / mutual information / representation learning / contrastive | 17 | 2.47% | 理论/优化 | `bottleneck / mutual information / representation learning / contrastive` | Mutual Information Gradient Estimation for Representation Learning |
 | [019](topic-019.md) | 图神经网络与图表示学习 | 16 | 2.33% | 图学习/数据挖掘 | `graph / protein / gnns / message` | Strategies for Pre-training Graph Neural Networks |
@@ -38,7 +38,7 @@
 | [024](topic-024.md) | quantization / compression / precision / quantized | 14 | 2.04% | 系统/效率/压缩 | `quantization / compression / precision / quantized` | Mixed Precision DNNs: All you need is a good parametrization |
 | [025](topic-025.md) | 机器翻译与跨语言对齐 | 13 | 1.89% | 计算机视觉 | `translation / bert / word / nmt` | Cross-lingual Alignment vs Joint Training: A Comparative Study and A Simple Unified Framework |
 | [026](topic-026.md) | equivariant / equivariance / capsule / routing | 13 | 1.89% | 计算机视觉 | `equivariant / equivariance / capsule / routing` | Co-Attentive Equivariant Neural Networks: Focusing Equivariance On Transformations Co-Occurring in Data |
-| [027](topic-027.md) | 强化学习策略与奖励建模 | 13 | 1.89% | 强化学习/决策 | `imitation / demonstrations / expert / reward` | State-only Imitation with Transition Dynamics Mismatch |
+| [027](topic-027.md) | 模仿学习与机器人示教 | 13 | 1.89% | 强化学习/决策 | `imitation / demonstrations / expert / reward` | State-only Imitation with Transition Dynamics Mismatch |
 | [028](topic-028.md) | 随机优化与收敛理论 | 12 | 1.75% | 理论/优化 | `sgd / federated / momentum / asynchronous` | SlowMo: Improving Communication-Efficient Distributed SGD with Slow Momentum |
 | [029](topic-029.md) | 在线学习与 regret 理论 | 11 | 1.60% | 理论/优化 | `games / regret / communication / minimax` | A Generalized Training Approach for Multiagent Learning |
 | [030](topic-030.md) | 强化学习算法与理论 | 11 | 1.60% | 强化学习/决策 | `reinforcement learning / policy / q-learning / model-based` | Combining Q-Learning and Search with Amortized Value Estimates |

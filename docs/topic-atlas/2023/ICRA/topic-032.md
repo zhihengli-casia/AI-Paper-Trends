@@ -2,7 +2,7 @@
 
 - Topic ID: `32`
 - Papers: **17** (1.28%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `depth / monocular / estimation / transparent`
 - Keyword pool: depth; monocular; estimation; transparent; self-supervised; test-time; transformer; enhancement; lightweight; objects; image; unsupervised
 

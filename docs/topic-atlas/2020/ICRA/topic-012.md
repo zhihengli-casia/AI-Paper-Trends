@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **24** (2.25%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `visual-inertial / imu / estimation / measurements`
 - Keyword pool: visual-inertial; imu; estimation; measurements; sensor; initialization; extrinsic; slam; calibration; odometry; gps; inertial measurement
 

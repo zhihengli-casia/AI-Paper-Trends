@@ -1,8 +1,8 @@
-# ICRA 2025: odometry / visual-inertial / underwater / estimation
+# ICRA 2025: 视觉导航与语义地图
 
 - Topic ID: `32`
 - Papers: **22** (1.38%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `odometry / visual-inertial / underwater / estimation`
 - Keyword pool: odometry; visual-inertial; underwater; estimation; tracking; feature; navigation; deep; robust; filter; data-driven; motion
 

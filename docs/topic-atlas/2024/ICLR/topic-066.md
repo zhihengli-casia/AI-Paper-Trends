@@ -1,8 +1,8 @@
-# ICLR 2024: 机器人操作与具身智能
+# ICLR 2024: 机器人操作与抓取
 
 - Topic ID: `66`
 - Papers: **17** (0.75%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `robot / motion / manipulation / humanoid`
 - Keyword pool: robot; motion; manipulation; humanoid; privileged; simulation; reinforcement learning; physics; contact; control; policies; action
 

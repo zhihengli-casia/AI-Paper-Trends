@@ -1,4 +1,4 @@
-# IJCAI 2022: 查询理解与检索优化
+# IJCAI 2022: entity / linking / entities / question
 
 - Topic ID: `44`
 - Papers: **10** (1.16%)

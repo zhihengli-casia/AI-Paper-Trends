@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **19** (1.44%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `games / equilibrium / dice / strategic`
 - Keyword pool: games; equilibrium; dice; strategic; team; adversary; split; moves; nested; manipulation; agent; player
 

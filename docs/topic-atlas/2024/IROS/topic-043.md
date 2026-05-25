@@ -2,7 +2,7 @@
 
 - Topic ID: `43`
 - Papers: **17** (1.08%)
-- Macro topic: 语音/音频/音乐
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / demonstration / bimanual / imitation`
 - Keyword pool: learning; demonstration; bimanual; imitation; skills; human; temporal; trajectory; transformer; manipulation; generation; action
 

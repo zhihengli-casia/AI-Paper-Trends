@@ -2,7 +2,7 @@
 
 - Topic ID: `81`
 - Papers: **10** (0.57%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `calibration / lidar / extrinsic / scans`
 - Keyword pool: calibration; lidar; extrinsic; scans; geometric; estimation sparse; intensity; gnss; fast robust; normal; eye view; bird eye
 

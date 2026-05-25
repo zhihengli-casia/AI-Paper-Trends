@@ -1,8 +1,8 @@
-# IROS 2025: 机器人操作与具身智能
+# IROS 2025: 机器人运动控制与移动能力
 
 - Topic ID: `19`
 - Papers: **28** (1.42%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `robot / design / underwater / swimming`
 - Keyword pool: robot; design; underwater; swimming; locomotion; propulsion; stiffness; insect-scale; piezoelectric; fish; maneuverability; snake
 

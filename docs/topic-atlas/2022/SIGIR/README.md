@@ -15,7 +15,7 @@
 | [001](topic-001.md) | 推荐系统与用户建模 | 25 | 15.53% | 推荐/检索/排序 | `recommendation / sequential / recommender / loss` | Deployable and Continuable Meta-learning-Based Recommender System with Fast User-Incremental Updates |
 | [002](topic-002.md) | 多模态学习与跨模态理解 | 16 | 9.94% | 多模态/VLM | `graph / multimodal / event / inductive` | Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding |
 | [003](topic-003.md) | 查询理解与检索优化 | 14 | 8.70% | 推荐/检索/排序 | `retrieval / entity / bert / dense` | Webformer: Pre-training with Web Pages for Information Retrieval |
-| [004](topic-004.md) | 查询理解与检索优化 | 12 | 7.45% | 推荐/检索/排序 | `question / logical / legal / query` | PTAU: Prompt Tuning for Attributing Unanswerable Questions |
+| [004](topic-004.md) | question / logical / legal / query | 12 | 7.45% | 推荐/检索/排序 | `question / logical / legal / query` | PTAU: Prompt Tuning for Attributing Unanswerable Questions |
 | [005](topic-005.md) | 推荐系统与用户建模 | 12 | 7.45% | 推荐/检索/排序 | `feedback / bias / recommendation / opinion` | Bilateral Self-unbiased Learning from Biased Implicit Feedback |
 | [006](topic-006.md) | 搜索排序与相关性建模 | 11 | 6.83% | 推荐/检索/排序 | `retrieval / ranking / query / documents` | Offline Retrieval Evaluation Without Evaluation Metrics |
 | [007](topic-007.md) | 查询理解与检索优化 | 11 | 6.83% | 多模态/VLM | `retrieval / image / multi-modal / missing` | Bit-aware Semantic Transformer Hashing for Multi-modal Retrieval |

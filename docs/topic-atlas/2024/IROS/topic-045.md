@@ -2,7 +2,7 @@
 
 - Topic ID: `45`
 - Papers: **16** (1.02%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `splatting / gaussian / localization / slam`
 - Keyword pool: splatting; gaussian; localization; slam; multi-modal fusion; pose; reconstruction; view; depth; street; renderable; ray
 

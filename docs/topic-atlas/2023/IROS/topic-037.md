@@ -2,7 +2,7 @@
 
 - Topic ID: `37`
 - Papers: **16** (1.35%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `depth / monocular / estimation / view`
 - Keyword pool: depth; monocular; estimation; view; stereo; neural radiance fields; driving; self-supervised; prediction; suit; dynamic scenes; learnable
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `77`
 - Papers: **10** (0.59%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `spatial / navigation / embodied / vlms`
 - Keyword pool: spatial; navigation; embodied; vlms; image; geographic; vision-language; hierarchical; visual; environments; motion; long-horizon
 

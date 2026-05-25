@@ -1,4 +1,4 @@
-# ICLR 2025: 查询理解与检索优化
+# ICLR 2025: tta / test-time adaptation / shift / entropy
 
 - Topic ID: `103`
 - Papers: **17** (0.46%)

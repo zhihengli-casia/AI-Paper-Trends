@@ -2,7 +2,7 @@
 
 - Topic ID: `22`
 - Papers: **19** (1.86%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / reinforcement / planning / policy`
 - Keyword pool: control; reinforcement; planning; policy; impedance; safety; robot; motion; repetitive; ensemble; objectives; closed-loop
 

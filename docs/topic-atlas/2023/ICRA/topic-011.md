@@ -1,8 +1,8 @@
-# ICRA 2023: legged / locomotion / quadruped / robots
+# ICRA 2023: 足式机器人与运动控制
 
 - Topic ID: `11`
 - Papers: **25** (1.88%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `legged / locomotion / quadruped / robots`
 - Keyword pool: legged; locomotion; quadruped; robots; control; contact; force; gait; landing; enhanced; driven; inertial
 

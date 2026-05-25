@@ -2,7 +2,7 @@
 
 - Topic ID: `31`
 - Papers: **15** (1.41%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / unknown environments / path / uncertainty`
 - Keyword pool: planning; unknown environments; path; uncertainty; residual; mapping; sparse; exploration; estimating motion; long-horizon; monte carlo tree; pitch angle
 

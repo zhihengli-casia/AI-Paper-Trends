@@ -2,7 +2,7 @@
 
 - Topic ID: `34`
 - Papers: **18** (1.52%)
-- Macro topic: 推荐/检索/排序
+- Macro topic: 3D/具身/机器人
 - English keywords: `planning / multi-goal / motion / path`
 - Keyword pool: planning; multi-goal; motion; path; assignment; diffusion; search; constraints; space; symbolic; link; integration
 

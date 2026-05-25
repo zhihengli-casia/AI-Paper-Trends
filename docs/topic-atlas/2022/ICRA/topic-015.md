@@ -1,8 +1,8 @@
-# ICRA 2022: 对抗攻击、鲁棒性与安全
+# ICRA 2022: 模仿学习与机器人示教
 
 - Topic ID: `15`
 - Papers: **19** (2.06%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `imitation / learning / demonstrations / adversarial`
 - Keyword pool: imitation; learning; demonstrations; adversarial; visual; human; generalizable; stable; primitives; representation; manipulation; library
 

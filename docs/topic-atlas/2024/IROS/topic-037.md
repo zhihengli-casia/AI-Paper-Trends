@@ -1,4 +1,4 @@
-# IROS 2024: 自动驾驶感知与世界模型
+# IROS 2024: inspection / cable / robotic / intelligent
 
 - Topic ID: `37`
 - Papers: **19** (1.21%)

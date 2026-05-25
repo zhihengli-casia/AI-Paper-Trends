@@ -2,7 +2,7 @@
 
 - Topic ID: `27`
 - Papers: **24** (1.21%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `recognition / action / human / flow matching`
 - Keyword pool: recognition; action; human; flow matching; graph convolutional; activity; language; network; priors; prediction; neural; features
 

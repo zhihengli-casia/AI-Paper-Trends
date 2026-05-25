@@ -40,7 +40,7 @@
 | [026](topic-026.md) | experts / moe / routing / router | 34 | 0.92% | LLM/语言模型 | `experts / moe / routing / router` | Layerwise Recurrent Router for Mixture-of-Experts |
 | [029](topic-029.md) | 强化学习策略与奖励建模 | 33 | 0.89% | 强化学习/决策 | `bandits / regret / arm / reward` | Almost Optimal Batch-Regret Tradeoff for Batch Linear Contextual Bandits |
 | [027](topic-027.md) | 扩散生成模型 | 33 | 0.89% | 生成模型 | `editing / diffusion / mesh / layout` | A3D: Does Diffusion Dream about 3D Alignment? |
-| [031](topic-031.md) | 自动驾驶感知与世界模型 | 33 | 0.89% | 强化学习/决策 | `agents / web / planning / llms` | AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents |
+| [031](topic-031.md) | 规划搜索与决策推理 | 33 | 0.89% | 强化学习/决策 | `agents / web / planning / llms` | AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents |
 | [028](topic-028.md) | LLM Agent 与工具使用 | 33 | 0.89% | LLM/语言模型 | `llms / political / personality / human` | Do LLMs have Consistent Values? |
 | [030](topic-030.md) | 扩散生成模型 | 33 | 0.89% | 生成模型 | `molecular / crystal / molecules / equivariant` | E(3)-equivariant models cannot learn chirality: Field-based molecular generation |
 | [032](topic-032.md) | memorization / 大语言模型 / pretraining / episodic | 32 | 0.86% | LLM/语言模型 | `memorization / llms / pretraining / episodic` | Generalization v.s. Memorization: Tracing Language Models’ Capabilities Back to Pretraining Data |
@@ -53,14 +53,14 @@
 | [038](topic-038.md) | 脑电信号表征与解码 | 31 | 0.84% | 多模态/VLM | `brain / eeg / visual / fmri` | Multi-modal brain encoding models for multi-modal stimuli |
 | [040](topic-040.md) | LLM Agent 与工具使用 | 30 | 0.81% | LLM/语言模型 | `attacks / llms / safety / agents` | On Evaluating the Durability of Safeguards for Open-Weight LLMs |
 | [041](topic-041.md) | 时间序列建模与预测 | 30 | 0.81% | 3D/具身/机器人 | `time series / forecasting / imputation / anomaly` | TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis |
-| [042](topic-042.md) | 机器人操作与具身智能 | 29 | 0.78% | 强化学习/决策 | `skill / reinforcement learning / policies / policy` | Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models |
+| [042](topic-042.md) | 人形机器人与全身控制 | 29 | 0.78% | 3D/具身/机器人 | `skill / reinforcement learning / policies / policy` | Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models |
 | [043](topic-043.md) | 语音/音频语言模型 | 29 | 0.78% | 语音/音频/音乐 | `audio / speech / music / sound` | SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes |
 | [044](topic-044.md) | Mamba 与状态空间视觉模型 | 29 | 0.78% | 系统/效率/压缩 | `ssms / mamba / transformers / sequence` | Longhorn: State Space Models are Amortized Online Learners |
 | [048](topic-048.md) | 随机优化与收敛理论 | 28 | 0.76% | 理论/优化 | `convex / convergence / gradient / smooth` | Complexity Lower Bounds of Adaptive Gradient Algorithms for Non-convex Stochastic Optimization under Relaxed Smoothness |
 | [045](topic-045.md) | 长上下文建模与压缩 | 28 | 0.76% | LLM/语言模型 | `cache / compression / long-context / memory` | A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts |
 | [046](topic-046.md) | RAG 与检索增强生成 | 28 | 0.76% | LLM/语言模型 | `llms / long-context / documents / retrieval` | Needle Threading: Can LLMs Follow Threads Through Near-Million-Scale Haystacks? |
 | [049](topic-049.md) | RAG 与检索增强生成 | 28 | 0.76% | LLM/语言模型 | `rag / retrieval / llms / documents` | Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG |
-| [047](topic-047.md) | 代码生成与程序理解 | 28 | 0.76% | 理论/优化 | `combinatorial optimization / problems / solvers / programming` | UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP |
+| [047](topic-047.md) | combinatorial optimization / problems / solvers / programming | 28 | 0.76% | 理论/优化 | `combinatorial optimization / problems / solvers / programming` | UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP |
 | [050](topic-050.md) | 多模态大模型与视觉语言推理 | 27 | 0.73% | LLM/语言模型 | `mllms / visual / multimodal / tokens` | MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning |
 | [051](topic-051.md) | reconstruction / scene / gaussians / Splatting | 27 | 0.73% | 计算机视觉 | `reconstruction / scene / gaussians / splatting` | ReMatching Dynamic Reconstruction Flow |
 | [052](topic-052.md) | 强化学习策略与奖励建模 | 27 | 0.73% | 强化学习/决策 | `reinforcement learning / policy / reward / policies` | Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF |
@@ -77,7 +77,7 @@
 | [063](topic-063.md) | 长尾视觉识别与分类 | 25 | 0.68% | 计算机视觉 | `label / long-tailed / spurious / mixup` | For Better or For Worse? Learning Minimum Variance Features With Label Augmentation |
 | [064](topic-064.md) | quantization / ptq / bit / binarization | 25 | 0.68% | LLM/语言模型 | `quantization / ptq / bit / binarization` | CBQ: Cross-Block Quantization for Large Language Models |
 | [065](topic-065.md) | 扩散生成模型 | 25 | 0.68% | 生成模型 | `watermarking / watermarks / purification / ai-generated` | An Undetectable Watermark for Generative Image Models |
-| [066](topic-066.md) | 机器人操作与具身智能 | 25 | 0.68% | 3D/具身/机器人 | `manipulation / robot / dexterous / objects` | Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation |
+| [066](topic-066.md) | 机器人操作与抓取 | 25 | 0.68% | 3D/具身/机器人 | `manipulation / robot / dexterous / objects` | Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation |
 | [067](topic-067.md) | 联邦学习与分布式训练 | 25 | 0.68% | 理论/优化 | `continual learning / coreset / forgetting / catastrophic` | LoRanPAC: Low-rank Random Features and Pre-trained Models for Bridging Theory and Practice in Continual Learning |
 | [068](topic-068.md) | bayesian / 高斯表示 / kernels / posterior | 25 | 0.68% | 理论/优化 | `bayesian / gaussian / kernels / posterior` | Bayesian Optimization via Continual Variational Last Layer Training |
 | [069](topic-069.md) | 图神经网络与图表示学习 | 25 | 0.68% | 图学习/数据挖掘 | `graph / gnns / neural networks / expressivity` | Generalization, Expressivity, and Universality of Graph Neural Networks on Attributed Graphs |
@@ -91,7 +91,7 @@
 | [077](topic-077.md) | 公平性、偏见与可信 AI | 23 | 0.62% | 理论/优化 | `clustering / approximation / submodular / algorithms` | Approximation algorithms for combinatorial optimization with predictions |
 | [078](topic-078.md) | editing / 大语言模型 / localization / interventions | 22 | 0.59% | LLM/语言模型 | `editing / llms / localization / interventions` | Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning |
 | [079](topic-079.md) | 视觉语言模型与多模态理解 | 21 | 0.57% | 多模态/VLM | `medical / ehr / pathology / multimodal` | MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine |
-| [080](topic-080.md) | 视觉语言模型与多模态理解 | 21 | 0.57% | 多模态/VLM | `robot / action / navigation / vla` | Latent Action Pretraining from Videos |
+| [080](topic-080.md) | 视觉语言驱动的机器人操作 | 21 | 0.57% | 3D/具身/机器人 | `robot / action / navigation / vla` | Latent Action Pretraining from Videos |
 | [081](topic-081.md) | brain / activity / dynamics / dynamical | 21 | 0.57% | 其他/交叉主题 | `brain / activity / dynamics / dynamical` | NetFormer: An interpretable model for recovering dynamical connectivity in neuronal population dynamics |
 | [082](topic-082.md) | 视频动作生成与运动控制 | 21 | 0.57% | 生成模型 | `motion / human / pedestrian / game` | DartControl: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control |
 | [086](topic-086.md) | 目标检测与图像分割 | 20 | 0.54% | NLP任务 | `object-centric / segmentation / counting / objects` | On the Transfer of Object-Centric Representation Learning |
@@ -108,7 +108,7 @@
 | [094](topic-094.md) | 攻击、防御与模型安全 | 19 | 0.51% | 理论/优化 | `backdoor / defense / attacks / poisoned` | Protecting against simultaneous data poisoning attacks |
 | [095](topic-095.md) | 语音/音频语言模型 | 19 | 0.51% | 语音/音频/音乐 | `speech / audio / codec / tts` | PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation |
 | [096](topic-096.md) | in-context / icl / transformers / causal | 19 | 0.51% | LLM/语言模型 | `in-context / icl / transformers / causal` | Understanding the Generalization of In-Context Learning in Transformers: An Empirical Study |
-| [097](topic-097.md) | 强化学习算法与理论 | 18 | 0.49% | 强化学习/决策 | `imitation / expert / policy / reinforcement learning` | Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching |
+| [097](topic-097.md) | 模仿学习与机器人示教 | 18 | 0.49% | 强化学习/决策 | `imitation / expert / policy / reinforcement learning` | Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching |
 | [098](topic-098.md) | 人类反馈对齐与偏好优化 | 18 | 0.49% | 强化学习/决策 | `rlhf / reward / human / preference` | SELF-EVOLVED REWARD LEARNING FOR LLMS |
 | [099](topic-099.md) | 公平性、偏见与可信 AI | 18 | 0.49% | 可信/安全/公平 | `treatment / counterfactual / causal / effect` | Doubly robust identification of treatment effects from multiple environments |
 | [106](topic-106.md) | icl / in-context / 大语言模型 / cgm | 17 | 0.46% | LLM/语言模型 | `icl / in-context / llms / cgm` | Competition Dynamics Shape Algorithmic Phases of In-Context Learning |
@@ -116,12 +116,12 @@
 | [102](topic-102.md) | 目标检测与图像分割 | 17 | 0.46% | 多模态/VLM | `gcd / domain / source-free / adaptation` | Is Large-scale Pretraining the Secret to Good Domain Generalization? |
 | [101](topic-101.md) | 强化学习算法与理论 | 17 | 0.46% | 强化学习/决策 | `offline / reinforcement learning / model-based / risk-sensitive` | Model-Free Offline Reinforcement Learning with Enhanced Robustness |
 | [104](topic-104.md) | 扩散生成模型 | 17 | 0.46% | 生成模型 | `topological / graph / homology / oversquashing` | Topological Zigzag Spaghetti for Diffusion-based Generation and Prediction on Graphs |
-| [103](topic-103.md) | 查询理解与检索优化 | 17 | 0.46% | 多模态/VLM | `tta / test-time adaptation / shift / entropy` | Smoothing the Shift: Towards Stable Test-Time Adaptation under Complex Multimodal Noises |
+| [103](topic-103.md) | tta / test-time adaptation / shift / entropy | 17 | 0.46% | 多模态/VLM | `tta / test-time adaptation / shift / entropy` | Smoothing the Shift: Towards Stable Test-Time Adaptation under Complex Multimodal Noises |
 | [105](topic-105.md) | 推荐系统与用户建模 | 17 | 0.46% | LLM/语言模型 | `speculative / draft / decoding / verification` | Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment |
 | [107](topic-107.md) | 强化学习算法与理论 | 16 | 0.43% | 强化学习/决策 | `policy / mdps / regret / pareto` | Global Convergence of Policy Gradient in Average Reward MDPs |
 | [108](topic-108.md) | 视觉语言模型与多模态理解 | 16 | 0.43% | 多模态/VLM | `clip / modality gap / vision-language / image-text` | Mitigate the Gap: Improving Cross-Modal Alignment in CLIP |
 | [109](topic-109.md) | Chain-of-Thought 与大模型推理 | 16 | 0.43% | LLM/语言模型 | `cot / transformers / reasoning / chain-of-thought` | Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis |
-| [110](topic-110.md) | 机器人操作与具身智能 | 16 | 0.43% | 强化学习/决策 | `causal / reinforcement learning / environments / agents` | Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning |
+| [110](topic-110.md) | 机器人操作与具身智能 | 16 | 0.43% | 3D/具身/机器人 | `causal / reinforcement learning / environments / agents` | Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning |
 | [111](topic-111.md) | 隐私保护与安全学习 | 16 | 0.43% | 可信/安全/公平 | `unlearning / machine / certified / privacy` | Machine Unlearning via Simulated Oracle Matching |
 | [112](topic-112.md) | 扩散生成模型 | 16 | 0.43% | 生成模型 | `cfg / diffusion / guidance / distillation` | Guided Score identity Distillation for Data-Free One-Step Text-to-Image Generation |
 | [113](topic-113.md) | 视觉语言模型与多模态理解 | 16 | 0.43% | 多模态/VLM | `cad / diagrams / visual / geometric` | Can Large Language Models Understand Symbolic Graphics Programs? |

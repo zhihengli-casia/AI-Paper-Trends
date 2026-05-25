@@ -1,8 +1,8 @@
-# ICRA 2022: 代码生成与程序理解
+# ICRA 2022: control / differential / predictive / programming
 
 - Topic ID: `21`
 - Papers: **18** (1.95%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / differential / predictive / programming`
 - Keyword pool: control; differential; predictive; programming; optimal; dynamic; parameter; impedance; policy; robust; optimization; guided
 

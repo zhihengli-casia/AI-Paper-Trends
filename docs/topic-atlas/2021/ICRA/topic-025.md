@@ -2,7 +2,7 @@
 
 - Topic ID: `25`
 - Papers: **21** (1.53%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `segmentation / instance / learning / detection`
 - Keyword pool: segmentation; instance; learning; detection; place recognition; object; fast; scene; few-shot; cnn; feature; semantic
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `20`
 - Papers: **24** (1.49%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / agent / embodied / environment`
 - Keyword pool: navigation; agent; embodied; environment; communication; policy; navigate; actions; rewards; spl; planning; reinforcement learning
 

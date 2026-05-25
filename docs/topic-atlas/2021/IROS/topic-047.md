@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **10** (0.98%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `indoor / navigation / walk / maps`
 - Keyword pool: indoor; navigation; walk; maps; exploration; inference; frequency; grounding; cognitive; contexts; environments; synthesis
 

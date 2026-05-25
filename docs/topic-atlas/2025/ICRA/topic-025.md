@@ -1,8 +1,8 @@
-# ICRA 2025: 机器人操作与具身智能
+# ICRA 2025: 机器人操作与抓取
 
 - Topic ID: `25`
 - Papers: **24** (1.51%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / learning / skill / bimanual`
 - Keyword pool: manipulation; learning; skill; bimanual; imitation; dexterous; contact; data-efficient; in-hand; robot; bridging; long-horizon
 

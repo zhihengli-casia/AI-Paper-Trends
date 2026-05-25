@@ -1,8 +1,8 @@
-# ICRA 2025: 视觉语言模型与多模态理解
+# ICRA 2025: 视觉语言驱动的机器人操作
 
 - Topic ID: `0`
 - Papers: **50** (3.14%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / robotic / videos / vision-language`
 - Keyword pool: manipulation; robotic; videos; vision-language; learning; policy; action; mobile; skills; reasoning; human; object
 

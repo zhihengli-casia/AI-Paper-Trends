@@ -2,7 +2,7 @@
 
 - Topic ID: `29`
 - Papers: **21** (1.34%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `depth / estimation / monocular / self-supervised`
 - Keyword pool: depth; estimation; monocular; self-supervised; diffusion; camera; priors; simultaneous; reconstruction; completion; stereo; images
 

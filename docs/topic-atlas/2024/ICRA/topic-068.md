@@ -1,8 +1,8 @@
-# ICRA 2024: 机器人操作与具身智能
+# ICRA 2024: 人机交互与协作机器人
 
 - Topic ID: `68`
 - Papers: **13** (0.75%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `human-robot / collaboration / mind / comparison`
 - Keyword pool: human-robot; collaboration; mind; comparison; theory; temporal; learning; recency; robust collaborative; motor; household; feasibility
 

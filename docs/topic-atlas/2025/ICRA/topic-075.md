@@ -1,8 +1,8 @@
-# ICRA 2025: 自动驾驶感知与世界模型
+# ICRA 2025: perception / collaborative / domain generalization / vehicles
 
 - Topic ID: `75`
 - Papers: **8** (0.50%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `perception / collaborative / domain generalization / vehicles`
 - Keyword pool: perception; collaborative; domain generalization; vehicles; cooperative; weather; directed; connected autonomous; asynchronous; correspondence; need; spatiotemporal
 

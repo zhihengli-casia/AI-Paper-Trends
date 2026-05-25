@@ -2,7 +2,7 @@
 
 - Topic ID: `59`
 - Papers: **10** (0.73%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `control / distributed / swarm / reinforcement learning`
 - Keyword pool: control; distributed; swarm; reinforcement learning; density; bearing; behaviors; circle; adaptive; networked; grid; uncertain
 

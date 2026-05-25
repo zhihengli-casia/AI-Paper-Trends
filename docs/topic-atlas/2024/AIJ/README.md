@@ -15,7 +15,7 @@
 | [001](topic-001.md) | operators / observations / profiles / measures | 13 | 11.30% | 理论/优化 | `operators / observations / profiles / measures` | Revision operators with compact representations |
 | [002](topic-002.md) | 对抗攻击、鲁棒性与安全 | 11 | 9.57% | 图学习/数据挖掘 | `graphs / neural / adversarial / belief` | Polarized message-passing in graph neural networks |
 | [003](topic-003.md) | 在线学习与 regret 理论 | 11 | 9.57% | 强化学习/决策 | `agents / social / regret / games` | Formal verification and synthesis of mechanisms for social choice |
-| [004](topic-004.md) | 查询理解与检索优化 | 10 | 8.70% | 计算机视觉 | `series / detection / lifted / time` | Hyperbolic Secant representation of the logistic function: Application to probabilistic Multiple Instance Learning for CT intracranial hemorrhage detection |
+| [004](topic-004.md) | 目标检测与图像分割 | 10 | 8.70% | 计算机视觉 | `series / detection / lifted / time` | Hyperbolic Secant representation of the logistic function: Application to probabilistic Multiple Instance Learning for CT intracranial hemorrhage detection |
 | [005](topic-005.md) | 强化学习算法与理论 | 9 | 7.83% | 强化学习/决策 | `learning / representations / neurosymbolic / reinforcement` | Investigating the properties of neural network representations in reinforcement learning |
 | [006](topic-006.md) | 机器翻译与跨语言对齐 | 9 | 7.83% | 理论/优化 | `answering / query / research / weighted` | aspmc: New frontiers of algebraic answer set counting |
 | [007](topic-007.md) | 社交媒体与社会计算 | 8 | 6.96% | LLM/语言模型 | `abstract / modeling / constraints / reasoning` | On generalized notions of consistency and reinstatement and their preservation in formal argumentation |

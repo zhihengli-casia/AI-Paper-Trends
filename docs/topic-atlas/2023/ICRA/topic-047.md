@@ -2,7 +2,7 @@
 
 - Topic ID: `47`
 - Papers: **14** (1.05%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement learning / reward / sparse / active`
 - Keyword pool: reinforcement learning; reward; sparse; active; policy; predictive; dynamics; control; solution; techniques; partially observable; open-loop
 

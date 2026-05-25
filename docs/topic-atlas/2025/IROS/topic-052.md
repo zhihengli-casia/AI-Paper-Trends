@@ -1,8 +1,8 @@
-# IROS 2025: 机器人操作与具身智能
+# IROS 2025: 手术机器人与医学机器人
 
 - Topic ID: `52`
 - Papers: **16** (0.81%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `surgical / deformation / pose estimation / monocular`
 - Keyword pool: surgical; deformation; pose estimation; monocular; medical; robot learning; action; robotic; segmentation; reconstruction; recurrent; instrument
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `78`
 - Papers: **12** (0.61%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `gaze / human-robot / memory / reality`
 - Keyword pool: gaze; human-robot; memory; reality; decoding; household; gear; imagination; immersive; interfaces; older; designing
 

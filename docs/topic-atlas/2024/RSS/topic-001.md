@@ -1,8 +1,8 @@
-# RSS 2024: 机器人操作与具身智能
+# RSS 2024: 机器人操作与抓取
 
 - Topic ID: `1`
 - Papers: **18** (13.74%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `demonstrating / robot / human / interaction`
 - Keyword pool: demonstrating; robot; human; interaction; in-the-wild; simulation; policies; environments; dynamic; manipulation; policy; large-scale
 

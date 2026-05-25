@@ -2,7 +2,7 @@
 
 - Topic ID: `30`
 - Papers: **17** (1.52%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / imitation / dynamics / human`
 - Keyword pool: learning; imitation; dynamics; human; classification; trajectories; space; perspective; manifolds; few-shot; relations; series
 

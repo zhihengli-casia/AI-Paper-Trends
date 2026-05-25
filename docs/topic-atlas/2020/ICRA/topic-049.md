@@ -2,7 +2,7 @@
 
 - Topic ID: `49`
 - Papers: **10** (0.94%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `omnidirectional / depth / self-supervised / networks`
 - Keyword pool: omnidirectional; depth; self-supervised; networks; estimation; monocular; stereo; disparity; images; deep; panoramas; odometry
 

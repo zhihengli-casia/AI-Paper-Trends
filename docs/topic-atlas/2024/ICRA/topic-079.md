@@ -2,7 +2,7 @@
 
 - Topic ID: `79`
 - Papers: **11** (0.63%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `grasp / hand / learning / human-to-robot`
 - Keyword pool: grasp; hand; learning; human-to-robot; single; interactive; poses; mesh; reconstruct; rgb image; policy gradient; adversarial attacks
 

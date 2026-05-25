@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **27** (1.03%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `embodied / multimodal / robotic / language`
 - Keyword pool: embodied; multimodal; robotic; language; video; visual; world; vlms; action; agents; manipulation; reward
 

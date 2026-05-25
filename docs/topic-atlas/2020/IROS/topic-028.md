@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **17** (1.52%)
-- Macro topic: 生成模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `gait / generation / learning / optimization`
 - Keyword pool: gait; generation; learning; optimization; adaptive; exoskeleton; pattern; changing; foot; movement; human; locomotion
 

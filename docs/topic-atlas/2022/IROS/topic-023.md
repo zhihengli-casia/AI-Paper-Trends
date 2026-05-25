@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **20** (1.66%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `detection / articulated / distance / fields`
 - Keyword pool: detection; articulated; distance; fields; object; human motion; grid; online planning; need; fiducial; out-of-distribution; reactive motion
 

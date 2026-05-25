@@ -1,8 +1,8 @@
-# CHI 2022: haptic / interaction / users / investigating
+# CHI 2022: 机器人遥操作与触觉交互
 
 - Topic ID: `31`
 - Papers: **10** (1.58%)
-- Macro topic: 系统/效率/压缩
+- Macro topic: 3D/具身/机器人
 - English keywords: `haptic / interaction / users / investigating`
 - Keyword pool: haptic; interaction; users; investigating; characteristics; shape; latency; transmission; intensity; imaging; conveying; handheld
 

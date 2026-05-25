@@ -2,7 +2,7 @@
 
 - Topic ID: `54`
 - Papers: **13** (0.83%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `trajectory / planning / following / path`
 - Keyword pool: trajectory; planning; following; path; constrained; optimization; robots; vehicles; control; uneven terrains; convex sets; bi-level
 

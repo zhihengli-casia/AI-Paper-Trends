@@ -2,7 +2,7 @@
 
 - Topic ID: `36`
 - Papers: **19** (1.21%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `neural radiance / radiance field / fields / descriptor`
 - Keyword pool: neural radiance; radiance field; fields; descriptor; scene; vision; rgb; reconstruction; camera; representation; implicit; image
 

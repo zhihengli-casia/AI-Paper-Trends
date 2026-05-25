@@ -2,7 +2,7 @@
 
 - Topic ID: `75`
 - Papers: **16** (0.59%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `occupancy / splatting / gaussian / vision-based`
 - Keyword pool: occupancy; splatting; gaussian; vision-based; embodied; to-3d; satellite; open-ended semantic; lidars; scene; vision-only; voxel
 

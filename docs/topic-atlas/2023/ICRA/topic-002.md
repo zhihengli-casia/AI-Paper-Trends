@@ -2,7 +2,7 @@
 
 - Topic ID: `2`
 - Papers: **30** (2.25%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `point / cloud / registration / segmentation`
 - Keyword pool: point; cloud; registration; segmentation; semantic; occluded; transformer; plant; agricultural; inspection; completion; knowledge
 

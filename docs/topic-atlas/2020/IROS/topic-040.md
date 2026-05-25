@@ -2,7 +2,7 @@
 
 - Topic ID: `40`
 - Papers: **14** (1.26%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `learning / reinforcement / mobile manipulators / optimal robot`
 - Keyword pool: learning; reinforcement; mobile manipulators; optimal robot; robot motion; model-free; trajectory; adaptation; velocity; online; control; optimization
 

@@ -1,8 +1,8 @@
-# ICRA 2023: 机器人操作与具身智能
+# ICRA 2023: 人机交互与协作机器人
 
 - Topic ID: `62`
 - Papers: **11** (0.83%)
-- Macro topic: HCI/社会计算
+- Macro topic: 3D/具身/机器人
 - English keywords: `human-robot / collaboration / reality / planning`
 - Keyword pool: human-robot; collaboration; reality; planning; collaborative; intuitive; indoor scenes; workspaces; limb; robotic arm; role; trust
 

@@ -1,8 +1,8 @@
-# ICRA 2022: 机器人操作与具身智能
+# ICRA 2022: 多机器人路径规划与协同导航
 
 - Topic ID: `1`
 - Papers: **40** (4.33%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `multi-robot / multi-agent / swarm / reinforcement learning`
 - Keyword pool: multi-robot; multi-agent; swarm; reinforcement learning; navigation; networks; decentralized; graphs; cooperative; control; distributed; safe
 

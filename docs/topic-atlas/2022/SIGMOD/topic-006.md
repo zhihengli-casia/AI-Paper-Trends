@@ -1,4 +1,4 @@
-# SIGMOD 2022: 查询理解与检索优化
+# SIGMOD 2022: queries / parallel / query / optimizing
 
 - Topic ID: `6`
 - Papers: **12** (7.84%)

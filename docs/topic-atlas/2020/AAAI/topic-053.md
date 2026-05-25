@@ -1,4 +1,4 @@
-# AAAI 2020: 查询理解与检索优化
+# AAAI 2020: query / ontology / ontologies / answers
 
 - Topic ID: `53`
 - Papers: **14** (0.87%)

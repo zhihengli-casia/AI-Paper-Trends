@@ -2,7 +2,7 @@
 
 - Topic ID: `23`
 - Papers: **21** (1.77%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `reinforcement / learning / bayesian / uncertainty`
 - Keyword pool: reinforcement; learning; bayesian; uncertainty; robots; safe; robotic; decision; monitoring; control; probabilistic; time
 

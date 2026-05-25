@@ -36,7 +36,7 @@
 | [022](topic-022.md) | 多语言建模与跨语言迁移 | 18 | 1.72% | LLM/语言模型 | `languages / arabic / multilingual / dutch` | MEGA : Multilingual Evaluation of Generative AI |
 | [023](topic-023.md) | simplification / coherence / stylistic / simplicity | 17 | 1.62% | LLM/语言模型 | `simplification / coherence / stylistic / simplicity` | Don’t Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting |
 | [024](topic-024.md) | Chain-of-Thought 与大模型推理 | 17 | 1.62% | LLM/语言模型 | `reasoning / cot / chain-of-thought / prompting` | D ial C o T Meets PPO : Decomposing and Exploring Reasoning Paths in Smaller Language Models |
-| [025](topic-025.md) | 具身智能与物理交互 | 16 | 1.53% | LLM/语言模型 | `agent / embodied / simulations / sequence modeling` | Human Learning by Model Feedback: The Dynamics of Iterative Prompting with Midjourney |
+| [025](topic-025.md) | 具身智能与物理交互 | 16 | 1.53% | 3D/具身/机器人 | `agent / embodied / simulations / sequence modeling` | Human Learning by Model Feedback: The Dynamics of Iterative Prompting with Midjourney |
 | [026](topic-026.md) | mathematical / expression / 推理 / tree | 15 | 1.43% | LLM/语言模型 | `mathematical / expression / reasoning / tree` | It Ain’t Over: A Multi-aspect Diverse Math Word Problem Dataset |
 | [027](topic-027.md) | 少样本分类与开放集识别 | 15 | 1.43% | NLP任务 | `classification / label / classes / mixup` | Semantic matching for text classification with complex class descriptions |
 | [028](topic-028.md) | 图神经网络与图表示学习 | 15 | 1.43% | LLM/语言模型 | `commonsense / verification / reasoning / exemplars` | E pi K -Eval: Evaluation for Language Models as Epistemic Models |
@@ -44,7 +44,7 @@
 | [030](topic-030.md) | 细粒度视觉分类与识别 | 15 | 1.43% | NLP任务 | `ner / entity / recognition / named` | Enhancing Low-resource Fine-grained Named Entity Recognition by Leveraging Coarse-grained Datasets |
 | [031](topic-031.md) | 代码生成与程序理解 | 15 | 1.43% | LLM/语言模型 | `program / repair / translation / code generation` | Exploring Distributional Shifts in Large Language Models for Code Analysis |
 | [032](topic-032.md) | 视觉语言模型与多模态理解 | 14 | 1.34% | 多模态/VLM | `visual / video / reasoning / vqa` | Let’s Think Frame by Frame with VIP : A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought |
-| [033](topic-033.md) | 查询理解与检索优化 | 14 | 1.34% | NLP任务 | `table / sql / tabular / schema` | API -Assisted Code Generation for Question Answering on Varied Table Structures |
+| [033](topic-033.md) | table / sql / tabular / schema | 14 | 1.34% | NLP任务 | `table / sql / tabular / schema` | API -Assisted Code Generation for Question Answering on Varied Table Structures |
 | [034](topic-034.md) | 时间序列预测 | 14 | 1.34% | LLM/语言模型 | `temporal / question / answering / facts` | Best of Both Worlds: Towards Improving Temporal Knowledge Base Question Answering via Targeted Fact Extraction |
 | [035](topic-035.md) | hallucination / hallucinated / object / faithfulness | 14 | 1.34% | LLM/语言模型 | `hallucination / hallucinated / object / faithfulness` | H alu E val: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models |
 | [036](topic-036.md) | linguistic / teachers / markers / lms | 13 | 1.24% | LLM/语言模型 | `linguistic / teachers / markers / lms` | Prompting is not a substitute for probability measurements in large language models |

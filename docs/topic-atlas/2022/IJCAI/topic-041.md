@@ -2,7 +2,7 @@
 
 - Topic ID: `41`
 - Papers: **10** (1.16%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `abstraction / symbolic / reinforcement learning / environment`
 - Keyword pool: abstraction; symbolic; reinforcement learning; environment; robot; policy; options; interface; transfer; designers; drl; target
 

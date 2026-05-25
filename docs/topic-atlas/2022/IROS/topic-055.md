@@ -1,8 +1,8 @@
-# IROS 2022: robotic / surgery / control / design
+# IROS 2022: 手术机器人与医学机器人
 
 - Topic ID: `55`
 - Papers: **11** (0.92%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `robotic / surgery / control / design`
 - Keyword pool: robotic; surgery; control; design; flexible; shape; development; magnetically-actuated; structural; laparoscopic; light; assist
 

@@ -2,7 +2,7 @@
 
 - Topic ID: `71`
 - Papers: **8** (0.51%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `radar / fusion / bev / map`
 - Keyword pool: radar; fusion; bev; map; vision; place recognition; panoptic; asymmetric; inputs; mmwave; detection tracking; boundary
 

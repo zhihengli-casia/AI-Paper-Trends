@@ -2,7 +2,7 @@
 
 - Topic ID: `28`
 - Papers: **22** (1.26%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `navigation / maps / interactive / semantic`
 - Keyword pool: navigation; maps; interactive; semantic; environments; learning; local; scans; scene; goal; vision-language; outdoor
 

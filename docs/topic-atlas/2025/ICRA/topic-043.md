@@ -1,8 +1,8 @@
-# ICRA 2025: soft / gripper / pneumatic / stiffness
+# ICRA 2025: 机器人操作与抓取
 
 - Topic ID: `43`
 - Papers: **16** (1.00%)
-- Macro topic: 可信/安全/公平
+- Macro topic: 3D/具身/机器人
 - English keywords: `soft / gripper / pneumatic / stiffness`
 - Keyword pool: soft; gripper; pneumatic; stiffness; mechanism; compliant; validation; passive; variable; robotic; design; grasping
 

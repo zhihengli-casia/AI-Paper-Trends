@@ -2,7 +2,7 @@
 
 - Topic ID: `35`
 - Papers: **13** (1.22%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `transfer / visuomotor / real / policies`
 - Keyword pool: transfer; visuomotor; real; policies; reinforcement; domain; adaptation; embedding; representation; loss; adversarial; skill
 

@@ -1,8 +1,8 @@
-# RSS 2024: 自动驾驶感知与世界模型
+# RSS 2024: 机器人操作与抓取
 
 - Topic ID: `5`
 - Papers: **10** (7.63%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / robotic / locomotion / simulation`
 - Keyword pool: manipulation; robotic; locomotion; simulation; control; advancing; autonomous; visual; terrain; space; open-world; articulated
 

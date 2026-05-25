@@ -2,7 +2,7 @@
 
 - Topic ID: `26`
 - Papers: **20** (1.46%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `pose / estimation / object / network`
 - Keyword pool: pose; estimation; object; network; images; human; graph; fast; layers; multi-level; relative; baseline
 

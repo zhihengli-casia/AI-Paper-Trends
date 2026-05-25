@@ -1,8 +1,8 @@
-# IROS 2023: 机器人操作与具身智能
+# IROS 2023: 手术机器人与医学机器人
 
 - Topic ID: `44`
 - Papers: **11** (0.93%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `segmentation / surgical / robot-assisted / surgery`
 - Keyword pool: segmentation; surgical; robot-assisted; surgery; registration; robotic; graph; network; action detection; planning automated; reducing; multi-modality
 

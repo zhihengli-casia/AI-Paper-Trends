@@ -1,8 +1,8 @@
-# PR 2026: 目标检测与图像分割
+# PR 2026: 机器人视觉目标检测与域适应
 
 - Topic ID: `3`
 - Papers: **33** (3.57%)
-- Macro topic: 计算机视觉
+- Macro topic: 3D/具身/机器人
 - English keywords: `object detection / sensing / remote / small`
 - Keyword pool: object detection; sensing; remote; small; transformer; vision; feature; attention; domain; multi-scale; fusion; uav
 

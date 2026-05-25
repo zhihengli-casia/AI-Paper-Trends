@@ -2,7 +2,7 @@
 
 - Topic ID: `5`
 - Papers: **6** (6.82%)
-- Macro topic: 多模态/VLM
+- Macro topic: 3D/具身/机器人
 - English keywords: `composable / policy / policies / reinforcement`
 - Keyword pool: composable; policy; policies; reinforcement; abstract; plan; online pomdp; multi-modal; motion generation; magic learning macro-actions; robot learning; visual dynamics
 

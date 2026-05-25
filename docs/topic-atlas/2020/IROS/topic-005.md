@@ -1,8 +1,8 @@
-# IROS 2020: 规划搜索与决策推理
+# IROS 2020: 机器人操作与抓取
 
 - Topic ID: `5`
 - Papers: **28** (2.51%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `manipulation / grasp / learning / skills`
 - Keyword pool: manipulation; grasp; learning; skills; planning; network; residual; dexterous; hand; robotic; primitives; human
 

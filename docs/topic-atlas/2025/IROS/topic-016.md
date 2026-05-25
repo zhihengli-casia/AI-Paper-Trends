@@ -1,8 +1,8 @@
-# IROS 2025: 自动驾驶感知与世界模型
+# IROS 2025: 无人机/四旋翼规划与控制
 
 - Topic ID: `16`
 - Papers: **29** (1.47%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `trajectory / flight / quadrotor / control`
 - Keyword pool: trajectory; flight; quadrotor; control; uav; reinforcement; learning; planning; autonomous; optimization-based; safe; avoidance
 

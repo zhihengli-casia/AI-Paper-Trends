@@ -2,7 +2,7 @@
 
 - Topic ID: `12`
 - Papers: **7** (4.55%)
-- Macro topic: LLM/语言模型
+- Macro topic: 3D/具身/机器人
 - English keywords: `reasoning / agents / llms / personalized`
 - Keyword pool: reasoning; agents; llms; personalized; language; dot; manipulation; local; human; llm-based; logical; multi-agent
 

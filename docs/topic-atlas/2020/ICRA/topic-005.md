@@ -1,8 +1,8 @@
-# ICRA 2020: flight / control / aerial / thrust
+# ICRA 2020: 无人机/四旋翼规划与控制
 
 - Topic ID: `5`
 - Papers: **29** (2.72%)
-- Macro topic: 强化学习/决策
+- Macro topic: 3D/具身/机器人
 - English keywords: `flight / control / aerial / thrust`
 - Keyword pool: flight; control; aerial; thrust; quadcopter; attitude; battery; vehicles; rotors; manipulator; multirotor; quadrotor
 

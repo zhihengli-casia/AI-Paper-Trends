@@ -1,4 +1,4 @@
-# ICRA 2020: human / demonstrations / assistive / latent
+# ICRA 2020: 模仿学习与机器人示教
 
 - Topic ID: `13`
 - Papers: **24** (2.25%)
