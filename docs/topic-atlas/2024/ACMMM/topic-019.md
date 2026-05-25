@@ -1,4 +1,4 @@
-# ACMMM 2024: 扩散生成模型
+# ACMMM 2024: 扩散生成模型：distillation / teacher
 
 - Topic ID: `19`
 - Papers: **20** (1.74%)

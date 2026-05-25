@@ -1,4 +1,4 @@
-# ECCV 2022: 领域自适应与迁移学习
+# ECCV 2022: 领域自适应与迁移学习：adaptation / source
 
 - Topic ID: `41`
 - Papers: **18** (1.09%)

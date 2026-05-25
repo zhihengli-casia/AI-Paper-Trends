@@ -1,4 +1,4 @@
-# ICLR 2025: 3D Gaussian Splatting 与场景重建
+# ICLR 2025: 3D Gaussian Splatting 与场景重建：Splatting / 高斯表示
 
 - Topic ID: `75`
 - Papers: **23** (0.62%)

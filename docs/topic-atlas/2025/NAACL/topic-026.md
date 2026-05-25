@@ -1,4 +1,4 @@
-# NAACL 2025: 社交媒体与社会计算
+# NAACL 2025: 社交媒体与社会计算：cultural / cultures
 
 - Topic ID: `26`
 - Papers: **13** (1.81%)

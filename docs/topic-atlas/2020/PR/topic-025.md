@@ -1,4 +1,4 @@
-# PR 2020: 图像分割、语义分割与场景解析
+# PR 2020: 图像分割、语义分割与场景解析：segmentation / image
 
 - Topic ID: `25`
 - Papers: **11** (2.22%)

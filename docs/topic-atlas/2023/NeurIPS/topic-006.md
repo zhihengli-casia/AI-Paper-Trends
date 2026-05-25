@@ -1,4 +1,4 @@
-# NeurIPS 2023: 扩散生成模型
+# NeurIPS 2023: 扩散生成模型：扩散 / generative
 
 - Topic ID: `6`
 - Papers: **55** (1.71%)

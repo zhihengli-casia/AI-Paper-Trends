@@ -1,4 +1,4 @@
-# EMNLP 2025: 语音合成与音频生成
+# EMNLP 2025: 语音合成与音频生成：speech / audio
 
 - Topic ID: `0`
 - Papers: **48** (2.65%)

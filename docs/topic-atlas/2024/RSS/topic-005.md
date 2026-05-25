@@ -1,4 +1,4 @@
-# RSS 2024: 机器人操作与抓取
+# RSS 2024: 机器人操作与抓取：manipulation / 运动控制
 
 - Topic ID: `5`
 - Papers: **10** (7.63%)

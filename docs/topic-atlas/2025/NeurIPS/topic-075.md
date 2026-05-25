@@ -1,4 +1,4 @@
-# NeurIPS 2025: 多语言建模与跨语言迁移
+# NeurIPS 2025: 多语言建模与跨语言迁移：moe / expert
 
 - Topic ID: `75`
 - Papers: **34** (0.64%)

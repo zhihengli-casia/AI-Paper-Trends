@@ -1,4 +1,4 @@
-# ECCV 2024: 扩散生成模型
+# ECCV 2024: 扩散生成模型：avatar / facial
 
 - Topic ID: `102`
 - Papers: **10** (0.42%)

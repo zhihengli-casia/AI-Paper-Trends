@@ -1,4 +1,4 @@
-# IJCAI 2024: 在线学习与 regret 理论
+# IJCAI 2024: 在线学习与 regret 理论：games / regret
 
 - Topic ID: `54`
 - Papers: **9** (0.86%)

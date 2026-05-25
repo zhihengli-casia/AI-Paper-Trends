@@ -1,4 +1,4 @@
-# IJCAI 2025: 联邦学习与分布式训练
+# IJCAI 2025: 联邦学习与分布式训练：federated / clients
 
 - Topic ID: `11`
 - Papers: **25** (1.95%)

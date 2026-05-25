@@ -1,4 +1,4 @@
-# ICRA 2020: stiffness / soft / actuators / continuum
+# ICRA 2020: 连续体机械臂与柔顺控制
 
 - Topic ID: `2`
 - Papers: **37** (3.47%)

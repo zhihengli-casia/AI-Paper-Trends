@@ -1,4 +1,4 @@
-# ICLR 2023: 强化学习策略与奖励建模
+# ICLR 2023: 强化学习策略与奖励建模：reinforcement learning / regret
 
 - Topic ID: `47`
 - Papers: **15** (0.98%)

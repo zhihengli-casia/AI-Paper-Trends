@@ -1,4 +1,4 @@
-# IJCAI 2025: 时间序列建模与预测
+# IJCAI 2025: 时间序列建模与预测：causal / discovery
 
 - Topic ID: `22`
 - Papers: **19** (1.48%)

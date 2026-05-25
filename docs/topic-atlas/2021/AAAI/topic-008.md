@@ -1,4 +1,4 @@
-# AAAI 2021: 规划搜索与决策推理
+# AAAI 2021: 规划搜索与决策推理：planning / plans
 
 - Topic ID: `8`
 - Papers: **30** (1.83%)

@@ -1,4 +1,4 @@
-# CVPR 2020: 实例分割与开放词汇分割
+# CVPR 2020: 实例分割与开放词汇分割：instance segmentation / mask
 
 - Topic ID: `30`
 - Papers: **18** (1.23%)

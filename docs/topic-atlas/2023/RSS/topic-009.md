@@ -1,4 +1,4 @@
-# RSS 2023: 强化学习算法与理论
+# RSS 2023: 强化学习算法与理论：motion planning / deep reinforcement
 
 - Topic ID: `9`
 - Papers: **7** (6.36%)

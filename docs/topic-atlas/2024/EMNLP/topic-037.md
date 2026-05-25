@@ -1,4 +1,4 @@
-# EMNLP 2024: 参数高效微调与模型适配
+# EMNLP 2024: 参数高效微调与模型适配：peft / memory
 
 - Topic ID: `37`
 - Papers: **16** (1.26%)

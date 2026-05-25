@@ -1,4 +1,4 @@
-# CHI 2024: 机器人遥操作与触觉交互
+# CHI 2024: 机器人遥操作与触觉交互：virtual / reality
 
 - Topic ID: `46`
 - Papers: **12** (1.14%)

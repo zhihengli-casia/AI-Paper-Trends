@@ -1,4 +1,4 @@
-# SIGIR 2024: 搜索排序与相关性建模
+# SIGIR 2024: 搜索排序与相关性建模：generative retrieval / dense
 
 - Topic ID: `2`
 - Papers: **13** (6.07%)

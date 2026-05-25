@@ -1,4 +1,4 @@
-# ICLR 2024: 在线学习与 regret 理论
+# ICLR 2024: 在线学习与 regret 理论：games / equilibria
 
 - Topic ID: `73`
 - Papers: **15** (0.66%)

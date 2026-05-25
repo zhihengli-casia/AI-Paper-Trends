@@ -1,4 +1,4 @@
-# ACL 2021: 句法知识与语言学分析
+# ACL 2021: 句法知识与语言学分析：self-attention / convolutions
 
 - Topic ID: `20`
 - Papers: **15** (2.11%)

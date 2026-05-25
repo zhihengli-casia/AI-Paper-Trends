@@ -1,4 +1,4 @@
-# ICCV 2023: 视觉语言模型与多模态理解
+# ICCV 2023: 视觉语言模型与多模态理解：vision-language / vlms
 
 - Topic ID: `41`
 - Papers: **23** (1.07%)

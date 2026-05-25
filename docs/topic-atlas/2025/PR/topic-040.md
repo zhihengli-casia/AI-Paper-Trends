@@ -1,4 +1,4 @@
-# PR 2025: 扩散生成模型
+# PR 2025: 扩散生成模型：super-resolution / image
 
 - Topic ID: `40`
 - Papers: **16** (1.06%)

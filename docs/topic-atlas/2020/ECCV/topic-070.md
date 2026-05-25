@@ -1,4 +1,4 @@
-# ECCV 2020: LiDAR 点云与 3D 感知
+# ECCV 2020: LiDAR 点云与 3D 感知：LiDAR 语义分割
 
 - Topic ID: `70`
 - Papers: **9** (0.66%)

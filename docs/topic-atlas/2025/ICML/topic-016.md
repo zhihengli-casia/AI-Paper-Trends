@@ -1,4 +1,4 @@
-# ICML 2025: 随机优化与收敛理论
+# ICML 2025: 随机优化与收敛理论：adam / gradient
 
 - Topic ID: `16`
 - Papers: **37** (1.11%)

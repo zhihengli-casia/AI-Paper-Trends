@@ -1,4 +1,4 @@
-# IROS 2021: 机器人操作与具身智能
+# IROS 2021: 机器人操作与具身智能：social / collaborative
 
 - Topic ID: `20`
 - Papers: **20** (1.96%)

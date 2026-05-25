@@ -1,4 +1,4 @@
-# CVPR 2024: 语义分割与场景解析
+# CVPR 2024: 语义分割与场景解析：segmentation / wsss
 
 - Topic ID: `41`
 - Papers: **28** (1.03%)

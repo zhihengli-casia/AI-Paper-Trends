@@ -1,4 +1,4 @@
-# ECCV 2022: 图像复原与超分辨率
+# ECCV 2022: 图像复原与超分辨率：rain / shadow
 
 - Topic ID: `7`
 - Papers: **34** (2.07%)

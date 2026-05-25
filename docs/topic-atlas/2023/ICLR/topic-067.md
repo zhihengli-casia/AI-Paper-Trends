@@ -1,4 +1,4 @@
-# ICLR 2023: 在线学习与 regret 理论
+# ICLR 2023: 在线学习与 regret 理论：bandits / regret
 
 - Topic ID: `67`
 - Papers: **11** (0.72%)

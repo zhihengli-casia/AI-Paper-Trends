@@ -1,4 +1,4 @@
-# ICLR 2025: 扩散生成模型
+# ICLR 2025: 扩散生成模型：tabular / anomaly
 
 - Topic ID: `133`
 - Papers: **12** (0.32%)

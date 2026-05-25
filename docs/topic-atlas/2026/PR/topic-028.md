@@ -1,4 +1,4 @@
-# PR 2026: 行人重识别与人群计数
+# PR 2026: 行人重识别与人群计数：infrared / re-identification
 
 - Topic ID: `28`
 - Papers: **16** (1.73%)

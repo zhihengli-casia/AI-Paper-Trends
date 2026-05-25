@@ -1,4 +1,4 @@
-# ICCV 2021: 图像复原与超分辨率
+# ICCV 2021: 图像复原与超分辨率：event / spike
 
 - Topic ID: `42`
 - Papers: **17** (1.05%)

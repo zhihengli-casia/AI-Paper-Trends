@@ -1,4 +1,4 @@
-# ICRA 2022: 视觉导航与语义地图
+# ICRA 2022: 视觉导航与语义地图：visual-inertial / odometry
 
 - Topic ID: `13`
 - Papers: **20** (2.17%)

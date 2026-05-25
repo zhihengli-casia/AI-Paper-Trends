@@ -1,4 +1,4 @@
-# ICRA 2024: NeRF 与神经渲染
+# ICRA 2024: NeRF 与神经渲染：odometry / visual-inertial
 
 - Topic ID: `76`
 - Papers: **11** (0.63%)

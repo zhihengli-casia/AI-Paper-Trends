@@ -1,4 +1,4 @@
-# AAAI 2023: 强化学习算法与理论
+# AAAI 2023: 强化学习算法与理论：bandits / quantum
 
 - Topic ID: `6`
 - Papers: **30** (1.91%)

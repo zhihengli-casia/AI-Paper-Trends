@@ -1,4 +1,4 @@
-# ICDE 2025: 扩散生成模型
+# ICDE 2025: 扩散生成模型：graph neural / extended abstract
 
 - Topic ID: `7`
 - Papers: **16** (4.10%)

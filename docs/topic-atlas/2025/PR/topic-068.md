@@ -1,4 +1,4 @@
-# PR 2025: 图像复原与超分辨率
+# PR 2025: 图像复原与超分辨率：super-resolution / transformer
 
 - Topic ID: `68`
 - Papers: **11** (0.73%)

@@ -1,4 +1,4 @@
-# PR 2025: 多视图聚类与图学习
+# PR 2025: 多视图聚类与图学习：multi-view / clustering
 
 - Topic ID: `31`
 - Papers: **19** (1.26%)

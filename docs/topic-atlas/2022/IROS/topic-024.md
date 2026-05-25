@@ -1,4 +1,4 @@
-# IROS 2022: 规划搜索与决策推理
+# IROS 2022: 规划搜索与决策推理：planning / path
 
 - Topic ID: `24`
 - Papers: **20** (1.66%)

@@ -1,4 +1,4 @@
-# ICCV 2023: NeRF 与神经渲染
+# ICCV 2023: NeRF 与神经渲染：nerf / radiance
 
 - Topic ID: `33`
 - Papers: **27** (1.25%)

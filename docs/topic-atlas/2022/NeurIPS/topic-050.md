@@ -1,4 +1,4 @@
-# NeurIPS 2022: 强化学习策略与奖励建模
+# NeurIPS 2022: 强化学习策略与奖励建模：智能体 / language
 
 - Topic ID: `50`
 - Papers: **22** (0.82%)

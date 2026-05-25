@@ -1,4 +1,4 @@
-# ICCV 2023: NeRF 与神经渲染
+# ICCV 2023: NeRF 与神经渲染：event / cameras
 
 - Topic ID: `48`
 - Papers: **20** (0.93%)

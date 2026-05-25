@@ -1,4 +1,4 @@
-# CVPR 2021: 3D 形状重建与隐式表示
+# CVPR 2021: 3D 形状重建与隐式表示：shape / deformation
 
 - Topic ID: `14`
 - Papers: **26** (1.57%)

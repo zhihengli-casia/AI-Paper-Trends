@@ -1,4 +1,4 @@
-# CVPR 2020: 实例分割与开放词汇分割
+# CVPR 2020: 实例分割与开放词汇分割：segmentation / panoptic
 
 - Topic ID: `7`
 - Papers: **27** (1.84%)

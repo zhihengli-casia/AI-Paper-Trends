@@ -1,4 +1,4 @@
-# CHI 2025: 社交媒体与社会计算
+# CHI 2025: 社交媒体与社会计算：dance / expressions
 
 - Topic ID: `9`
 - Papers: **28** (2.25%)

@@ -1,4 +1,4 @@
-# EMNLP 2022: 音乐与音频生成/理解
+# EMNLP 2022: 音乐与音频生成/理解：mental / media
 
 - Topic ID: `40`
 - Papers: **10** (1.21%)

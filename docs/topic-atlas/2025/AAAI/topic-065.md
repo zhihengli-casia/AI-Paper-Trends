@@ -1,4 +1,4 @@
-# AAAI 2025: 点云表示与 3D 感知
+# AAAI 2025: 点云表示与 3D 感知：spiking / snns
 
 - Topic ID: `65`
 - Papers: **21** (0.69%)

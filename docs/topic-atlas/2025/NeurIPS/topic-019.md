@@ -1,4 +1,4 @@
-# NeurIPS 2025: Chain-of-Thought 与大模型推理
+# NeurIPS 2025: Chain-of-Thought 与大模型推理：思维链推理
 
 - Topic ID: `19`
 - Papers: **62** (1.17%)

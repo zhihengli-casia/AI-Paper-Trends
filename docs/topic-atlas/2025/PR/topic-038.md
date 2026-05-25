@@ -1,4 +1,4 @@
-# PR 2025: 人体姿态估计与运动理解
+# PR 2025: 人体姿态估计与运动理解：pose / estimation
 
 - Topic ID: `38`
 - Papers: **17** (1.12%)

@@ -1,4 +1,4 @@
-# AAAI 2025: 目标检测与开放世界检测
+# AAAI 2025: 目标检测与开放世界检测：student / teacher
 
 - Topic ID: `20`
 - Papers: **35** (1.16%)

@@ -1,4 +1,4 @@
-# ICRA 2020: 规划搜索与决策推理
+# ICRA 2020: 规划搜索与决策推理：planning / heuristic
 
 - Topic ID: `33`
 - Papers: **13** (1.22%)

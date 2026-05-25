@@ -1,4 +1,4 @@
-# ICRA 2024: 机器人操作与抓取
+# ICRA 2024: 机器人操作与抓取：automated / imaging
 
 - Topic ID: `80`
 - Papers: **10** (0.57%)

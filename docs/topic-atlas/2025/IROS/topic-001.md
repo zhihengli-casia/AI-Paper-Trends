@@ -1,4 +1,4 @@
-# IROS 2025: continuum / manipulator / cable-driven / control
+# IROS 2025: 连续体机械臂与柔顺控制
 
 - Topic ID: `1`
 - Papers: **58** (2.94%)

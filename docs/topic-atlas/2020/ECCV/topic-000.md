@@ -1,4 +1,4 @@
-# ECCV 2020: 图像复原与超分辨率
+# ECCV 2020: 图像复原与超分辨率：deblurring / restoration
 
 - Topic ID: `0`
 - Papers: **46** (3.39%)

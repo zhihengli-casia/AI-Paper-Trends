@@ -1,4 +1,4 @@
-# NeurIPS 2025: 随机优化与收敛理论
+# NeurIPS 2025: 随机优化与收敛理论：adam / sgd
 
 - Topic ID: `81`
 - Papers: **32** (0.61%)

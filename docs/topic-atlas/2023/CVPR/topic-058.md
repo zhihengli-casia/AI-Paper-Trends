@@ -1,4 +1,4 @@
-# CVPR 2023: 行人重识别与人群计数
+# CVPR 2023: 行人重识别与人群计数：person re-identification / recognition
 
 - Topic ID: `58`
 - Papers: **17** (0.72%)

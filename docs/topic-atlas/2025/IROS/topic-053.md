@@ -1,4 +1,4 @@
-# IROS 2025: 足式机器人与运动控制
+# IROS 2025: 足式机器人与运动控制：legged / inertial
 
 - Topic ID: `53`
 - Papers: **15** (0.76%)

@@ -1,4 +1,4 @@
-# ACMMM 2023: 视频动作识别与时序定位
+# ACMMM 2023: 视频动作识别与时序定位：action / temporal
 
 - Topic ID: `12`
 - Papers: **20** (2.22%)

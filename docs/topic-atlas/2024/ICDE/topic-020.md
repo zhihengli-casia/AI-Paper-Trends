@@ -1,4 +1,4 @@
-# ICDE 2024: 时间序列建模与预测
+# ICDE 2024: 时间序列建模与预测：anomaly / detection
 
 - Topic ID: `20`
 - Papers: **11** (2.28%)

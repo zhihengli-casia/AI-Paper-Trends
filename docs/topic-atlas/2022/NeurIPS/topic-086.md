@@ -1,4 +1,4 @@
-# NeurIPS 2022: 图像复原与超分辨率
+# NeurIPS 2022: 图像复原与超分辨率：attacks / adversarial
 
 - Topic ID: `86`
 - Papers: **14** (0.52%)

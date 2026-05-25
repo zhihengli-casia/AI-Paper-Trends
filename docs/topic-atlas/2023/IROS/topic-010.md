@@ -1,4 +1,4 @@
-# IROS 2023: 机器人操作与抓取
+# IROS 2023: 机器人操作与抓取：manipulation / contact
 
 - Topic ID: `10`
 - Papers: **29** (2.45%)

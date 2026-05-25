@@ -1,4 +1,4 @@
-# NeurIPS 2024: 深度估计与立体匹配
+# NeurIPS 2024: 深度估计与立体匹配：ssms / scaling
 
 - Topic ID: `34`
 - Papers: **44** (1.09%)

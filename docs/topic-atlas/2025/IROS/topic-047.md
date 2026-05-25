@@ -1,4 +1,4 @@
-# IROS 2025: 规划搜索与决策推理
+# IROS 2025: 规划搜索与决策推理：avoidance / obstacle
 
 - Topic ID: `47`
 - Papers: **17** (0.86%)

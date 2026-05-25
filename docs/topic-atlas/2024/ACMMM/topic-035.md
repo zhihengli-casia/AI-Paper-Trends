@@ -1,4 +1,4 @@
-# ACMMM 2024: 图像分割、语义分割与场景解析
+# ACMMM 2024: 图像分割、语义分割与场景解析：self-attention / transformer
 
 - Topic ID: `35`
 - Papers: **15** (1.31%)

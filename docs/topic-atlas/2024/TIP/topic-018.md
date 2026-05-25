@@ -1,4 +1,4 @@
-# TIP 2024: 视频动作识别与时序定位
+# TIP 2024: 视频动作识别与时序定位：action / expression
 
 - Topic ID: `18`
 - Papers: **12** (2.51%)

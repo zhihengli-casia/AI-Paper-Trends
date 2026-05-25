@@ -1,4 +1,4 @@
-# ICDE 2024: 规划搜索与决策推理
+# ICDE 2024: 规划搜索与决策推理：trajectory / tracing
 
 - Topic ID: `18`
 - Papers: **13** (2.69%)

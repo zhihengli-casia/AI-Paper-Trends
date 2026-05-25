@@ -1,4 +1,4 @@
-# AAAI 2023: 机器翻译与跨语言对齐
+# AAAI 2023: 机器翻译与跨语言对齐：translation / topic
 
 - Topic ID: `39`
 - Papers: **17** (1.08%)

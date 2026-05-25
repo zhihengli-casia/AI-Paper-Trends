@@ -1,4 +1,4 @@
-# EMNLP 2025: 跨域转换与序列转换
+# EMNLP 2025: 跨域转换与序列转换：translation / machine
 
 - Topic ID: `31`
 - Papers: **20** (1.11%)

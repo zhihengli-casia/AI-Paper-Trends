@@ -1,4 +1,4 @@
-# SIGGRAPH-Asia 2024: 扩散生成模型
+# SIGGRAPH-Asia 2024: 扩散生成模型：视频扩散
 
 - Topic ID: `1`
 - Papers: **16** (11.35%)

@@ -1,4 +1,4 @@
-# CVPR 2023: 图像分割、语义分割与场景解析
+# CVPR 2023: 图像分割、语义分割与场景解析：vits / vision transformers
 
 - Topic ID: `0`
 - Papers: **57** (2.42%)

@@ -1,4 +1,4 @@
-# SIGGRAPH-Asia 2024: 扩散生成模型
+# SIGGRAPH-Asia 2024: 扩散生成模型：transfer / images
 
 - Topic ID: `12`
 - Papers: **6** (4.26%)

@@ -1,4 +1,4 @@
-# ICLR 2026: 扩散生成模型
+# ICLR 2026: 扩散生成模型：causal / discovery
 
 - Topic ID: `114`
 - Papers: **22** (0.41%)

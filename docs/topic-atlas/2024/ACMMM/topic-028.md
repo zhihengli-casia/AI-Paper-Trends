@@ -1,4 +1,4 @@
-# ACMMM 2024: 自动驾驶感知与世界模型
+# ACMMM 2024: 自动驾驶感知与世界模型：object / bev
 
 - Topic ID: `28`
 - Papers: **17** (1.48%)

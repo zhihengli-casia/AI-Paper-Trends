@@ -1,4 +1,4 @@
-# PR 2021: 医学影像分割
+# PR 2021: 医学影像分割：chest / images
 
 - Topic ID: `4`
 - Papers: **26** (4.41%)

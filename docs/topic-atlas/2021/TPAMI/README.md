@@ -20,11 +20,11 @@
 | [006](topic-006.md) | 图像复原与超分辨率 | 23 | 4.17% | 可信/安全/公平 | `restoration / deblurring / spatially / smoothing` | DWDN: Deep Wiener Deconvolution Network for Non-Blind Image Deblurring |
 | [007](topic-007.md) | svm / rules / kernel / tex-math | 19 | 3.45% | 系统/效率/压缩 | `svm / rules / kernel / tex-math` | Random Features for Kernel Approximation: A Survey on Algorithms, Theory, and Beyond |
 | [008](topic-008.md) | 领域自适应与迁移学习 | 19 | 3.45% | 可信/安全/公平 | `domain / adaptation / target / source` | Generalized Domain Conditioned Adaptation Network |
-| [009](topic-009.md) | 视频动作识别与时序定位 | 19 | 3.45% | 计算机视觉 | `action / temporal / video / localization` | Two-Branch Relational Prototypical Network for Weakly Supervised Temporal Action Localization |
+| [009](topic-009.md) | 视频动作识别与时序定位：action / temporal | 19 | 3.45% | 计算机视觉 | `action / temporal / video / localization` | Two-Branch Relational Prototypical Network for Weakly Supervised Temporal Action Localization |
 | [010](topic-010.md) | inline-formula / tex-math / tensor / notation latex | 18 | 3.27% | 理论/优化 | `inline-formula / tex-math / tensor / notation latex` | Improved Variance Reduction Methods for Riemannian Non-Convex Optimization |
 | [011](topic-011.md) | 对抗攻击、鲁棒性与安全 | 18 | 3.27% | 可信/安全/公平 | `adversarial / attack / dnn / verification` | Privacy Preserving Defense For Black Box Classifiers Against On-Line Adversarial Attacks |
 | [012](topic-012.md) | 时间序列建模与预测 | 17 | 3.09% | 理论/优化 | `causal / policies / bayesian / artificial intelligence` | Shell Theory: A Statistical Model of Reality |
-| [013](topic-013.md) | 视频动作识别与时序定位 | 17 | 3.09% | 计算机视觉 | `action / trajectory / videos / camera` | Multi-Dataset, Multitask Learning of Egocentric Vision Tasks |
+| [013](topic-013.md) | 视频动作识别与时序定位：action / trajectory | 17 | 3.09% | 计算机视觉 | `action / trajectory / videos / camera` | Multi-Dataset, Multitask Learning of Egocentric Vision Tasks |
 | [014](topic-014.md) | 材质、光照与反射率估计 | 17 | 3.09% | 计算机视觉 | `surface / shading / underwater / shape` | Uncalibrated, Two Source Photo-Polarimetric Stereo |
 | [015](topic-015.md) | object / vehicle / localization / detectors | 17 | 3.09% | 多模态/VLM | `object / vehicle / localization / detectors` | Weakly Supervised Object Localization and Detection: A Survey |
 | [016](topic-016.md) | label / 分类 / affinity / rankers | 16 | 2.90% | 计算机视觉 | `label / classification / affinity / rankers` | A Concise Yet Effective Model for Non-Aligned Incomplete Multi-View and Missing Multi-Label Learning |
@@ -39,8 +39,8 @@
 | [025](topic-025.md) | 视频动作生成与运动控制 | 11 | 2.00% | 计算机视觉 | `event / cameras / abnormal / resolution` | Joint Framework for Single Image Reconstruction and Super-Resolution With an Event Camera |
 | [026](topic-026.md) | 蛋白质建模与 AI4Science | 11 | 2.00% | 系统/效率/压缩 | `automl / automated / machine learning / search` | AutoML for Multi-Label Classification: Overview and Empirical Evaluation |
 | [027](topic-027.md) | clustering / inline-formula / tex-math / http www w3 | 11 | 2.00% | 图学习/数据挖掘 | `clustering / inline-formula / tex-math / http www w3` | Low-Rank Riemannian Optimization for Graph-Based Clustering Applications |
-| [028](topic-028.md) | 深度估计与立体匹配 | 11 | 2.00% | 计算机视觉 | `depth / stereo / monocular / disparity` | On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey |
+| [028](topic-028.md) | 深度估计与立体匹配：单目深度 | 11 | 2.00% | 计算机视觉 | `depth / stereo / monocular / disparity` | On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey |
 | [029](topic-029.md) | editorial / ieee / year / journal | 11 | 2.00% | AI4Science/医疗 | `editorial / ieee / year / journal` | IEEE Computer Society Jobs Board |
-| [030](topic-030.md) | 深度估计与立体匹配 | 10 | 1.81% | 其他/交叉主题 | `depth / reconstruction / imaging / light` | Non-line-of-Sight Imaging via Neural Transient Fields |
+| [030](topic-030.md) | 深度估计与立体匹配：depth / reconstruction | 10 | 1.81% | 其他/交叉主题 | `depth / reconstruction / imaging / light` | Non-line-of-Sight Imaging via Neural Transient Fields |
 | [031](topic-031.md) | 医学影像分割 | 9 | 1.63% | AI4Science/医疗 | `diagnosis / segmentation / clinical / reasoning` | Diagnose Like a Radiologist: Hybrid Neuro-Probabilistic Reasoning for Attribute-Based Medical Image Diagnosis |
 | [032](topic-032.md) | low-light / optical flow / fourier / hdr | 9 | 1.63% | 计算机视觉 | `low-light / optical flow / fourier / hdr` | Physics-based Noise Modeling for Extreme Low-light Photography |

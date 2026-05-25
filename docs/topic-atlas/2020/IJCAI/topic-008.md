@@ -1,4 +1,4 @@
-# IJCAI 2020: 领域自适应与迁移学习
+# IJCAI 2020: 领域自适应与迁移学习：domain / species
 
 - Topic ID: `8`
 - Papers: **20** (2.57%)

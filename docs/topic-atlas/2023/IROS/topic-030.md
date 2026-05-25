@@ -1,4 +1,4 @@
-# IROS 2023: 领域自适应与迁移学习
+# IROS 2023: 领域自适应与迁移学习：semantic segmentation / adaptation
 
 - Topic ID: `30`
 - Papers: **20** (1.69%)

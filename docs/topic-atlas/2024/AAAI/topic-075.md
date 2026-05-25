@@ -1,4 +1,4 @@
-# AAAI 2024: 信息抽取、实体识别与关系抽取
+# AAAI 2024: 信息抽取、实体识别与关系抽取：knowledge graph / facts
 
 - Topic ID: `75`
 - Papers: **14** (0.60%)

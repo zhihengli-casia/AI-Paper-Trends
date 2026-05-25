@@ -1,4 +1,4 @@
-# IROS 2020: 规划搜索与决策推理
+# IROS 2020: 规划搜索与决策推理：whole-body / wheeled
 
 - Topic ID: `48`
 - Papers: **12** (1.08%)

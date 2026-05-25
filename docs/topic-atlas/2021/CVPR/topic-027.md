@@ -1,4 +1,4 @@
-# CVPR 2021: 行人重识别与人群计数
+# CVPR 2021: 行人重识别与人群计数：tracking / mot
 
 - Topic ID: `27`
 - Papers: **21** (1.27%)

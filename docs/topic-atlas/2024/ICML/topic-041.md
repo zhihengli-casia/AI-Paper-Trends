@@ -1,4 +1,4 @@
-# ICML 2024: 在线学习与 regret 理论
+# ICML 2024: 在线学习与 regret 理论：bayesian optimization / 离线
 
 - Topic ID: `41`
 - Papers: **25** (0.96%)

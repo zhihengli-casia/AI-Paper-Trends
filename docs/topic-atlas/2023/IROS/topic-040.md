@@ -1,4 +1,4 @@
-# IROS 2023: 机器人遥操作与触觉交互
+# IROS 2023: 机器人遥操作与触觉交互：tactile / transparent
 
 - Topic ID: `40`
 - Papers: **15** (1.27%)

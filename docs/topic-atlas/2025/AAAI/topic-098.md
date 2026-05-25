@@ -1,4 +1,4 @@
-# AAAI 2025: 图神经网络与节点表示学习
+# AAAI 2025: 图神经网络与节点表示学习：gcl / graph contrastive learning
 
 - Topic ID: `98`
 - Papers: **13** (0.43%)

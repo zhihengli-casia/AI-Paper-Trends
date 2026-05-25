@@ -1,4 +1,4 @@
-# AAAI 2023: 具身智能与物理交互
+# AAAI 2023: 具身智能与物理交互：layout / document
 
 - Topic ID: `70`
 - Papers: **11** (0.70%)

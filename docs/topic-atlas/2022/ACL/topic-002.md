@@ -1,4 +1,4 @@
-# ACL 2022: 机器翻译与跨语言对齐
+# ACL 2022: 机器翻译与跨语言对齐：translation / nmt
 
 - Topic ID: `2`
 - Papers: **33** (4.71%)

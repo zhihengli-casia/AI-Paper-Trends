@@ -1,4 +1,4 @@
-# RSS 2022: 规划搜索与决策推理
+# RSS 2022: 规划搜索与决策推理：reinforcement / safe
 
 - Topic ID: `2`
 - Papers: **12** (17.91%)

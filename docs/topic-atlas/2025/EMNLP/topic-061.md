@@ -1,4 +1,4 @@
-# EMNLP 2025: 多模态大模型与视觉语言推理
+# EMNLP 2025: 多模态大模型与视觉语言推理：chart / diagrams
 
 - Topic ID: `61`
 - Papers: **14** (0.77%)

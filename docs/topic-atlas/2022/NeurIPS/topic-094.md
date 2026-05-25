@@ -1,4 +1,4 @@
-# NeurIPS 2022: 在线学习与 regret 理论
+# NeurIPS 2022: 在线学习与 regret 理论：online / predictions
 
 - Topic ID: `94`
 - Papers: **12** (0.45%)

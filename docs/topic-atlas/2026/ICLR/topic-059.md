@@ -1,4 +1,4 @@
-# ICLR 2026: 扩散生成模型
+# ICLR 2026: 扩散生成模型：扩散 / langevin
 
 - Topic ID: `59`
 - Papers: **40** (0.75%)

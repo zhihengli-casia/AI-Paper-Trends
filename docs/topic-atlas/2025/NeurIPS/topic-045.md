@@ -1,4 +1,4 @@
-# NeurIPS 2025: LoRA 与参数高效微调
+# NeurIPS 2025: LoRA 与参数高效微调：lora / low-rank
 
 - Topic ID: `45`
 - Papers: **43** (0.81%)

@@ -1,4 +1,4 @@
-# NeurIPS 2025: 扩散生成模型
+# NeurIPS 2025: 扩散生成模型：langevin / carlo
 
 - Topic ID: `93`
 - Papers: **27** (0.51%)

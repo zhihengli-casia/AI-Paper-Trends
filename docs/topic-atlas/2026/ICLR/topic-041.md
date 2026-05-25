@@ -1,4 +1,4 @@
-# ICLR 2026: 视觉语言模型与多模态理解
+# ICLR 2026: 视觉语言模型与多模态理解：continual / forgetting
 
 - Topic ID: `41`
 - Papers: **48** (0.90%)

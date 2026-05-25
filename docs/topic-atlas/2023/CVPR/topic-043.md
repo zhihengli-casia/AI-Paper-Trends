@@ -1,4 +1,4 @@
-# CVPR 2023: 图像分割、语义分割与场景解析
+# CVPR 2023: 图像分割、语义分割与场景解析：anomalies / normal
 
 - Topic ID: `43`
 - Papers: **22** (0.93%)

@@ -1,4 +1,4 @@
-# AAAI 2023: 噪声标签学习与半监督鲁棒训练
+# AAAI 2023: 噪声标签学习与半监督鲁棒训练：anomaly / detection
 
 - Topic ID: `48`
 - Papers: **15** (0.95%)

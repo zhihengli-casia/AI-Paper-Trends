@@ -1,4 +1,4 @@
-# EMNLP 2021: 句法知识与语言学分析
+# EMNLP 2021: 句法知识与语言学分析：paraphrase / syntactic
 
 - Topic ID: `35`
 - Papers: **10** (1.18%)

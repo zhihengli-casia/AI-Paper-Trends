@@ -1,4 +1,4 @@
-# NeurIPS 2021: 图神经网络与图表示学习
+# NeurIPS 2021: 图神经网络与图表示学习：图学习 / contrastive
 
 - Topic ID: `85`
 - Papers: **11** (0.47%)

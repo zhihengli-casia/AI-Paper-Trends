@@ -1,4 +1,4 @@
-# ACL 2023: 机器翻译与跨语言对齐
+# ACL 2023: 机器翻译与跨语言对齐：distillation / translation
 
 - Topic ID: `11`
 - Papers: **23** (2.14%)

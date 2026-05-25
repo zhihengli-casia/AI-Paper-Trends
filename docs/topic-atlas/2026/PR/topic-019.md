@@ -1,4 +1,4 @@
-# PR 2026: 语义分割与场景解析
+# PR 2026: 语义分割与场景解析：sensing / remote
 
 - Topic ID: `19`
 - Papers: **18** (1.95%)

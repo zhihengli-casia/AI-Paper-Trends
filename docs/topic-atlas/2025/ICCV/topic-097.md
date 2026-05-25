@@ -1,4 +1,4 @@
-# ICCV 2025: 自动驾驶感知与世界模型
+# ICCV 2025: 自动驾驶感知与世界模型：driving / scene generation
 
 - Topic ID: `97`
 - Papers: **12** (0.44%)

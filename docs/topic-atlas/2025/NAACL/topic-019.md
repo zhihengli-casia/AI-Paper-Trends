@@ -1,4 +1,4 @@
-# NAACL 2025: 机器翻译与跨语言对齐
+# NAACL 2025: 机器翻译与跨语言对齐：languages / persian
 
 - Topic ID: `19`
 - Papers: **17** (2.37%)

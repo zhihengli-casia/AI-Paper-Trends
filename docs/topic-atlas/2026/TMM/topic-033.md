@@ -1,4 +1,4 @@
-# TMM 2026: 图像复原与超分辨率
+# TMM 2026: 图像复原与超分辨率：removal / separation
 
 - Topic ID: `33`
 - Papers: **9** (1.52%)

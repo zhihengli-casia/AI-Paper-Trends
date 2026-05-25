@@ -1,4 +1,4 @@
-# ICLR 2026: Chain-of-Thought 与大模型推理
+# ICLR 2026: Chain-of-Thought 与大模型推理：思维链推理（Topic 062）
 
 - Topic ID: `62`
 - Papers: **39** (0.73%)

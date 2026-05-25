@@ -1,4 +1,4 @@
-# ICLR 2025: 多模态大模型与视觉语言推理
+# ICLR 2025: 多模态大模型与视觉语言推理：teacher / distillation
 
 - Topic ID: `134`
 - Papers: **12** (0.32%)

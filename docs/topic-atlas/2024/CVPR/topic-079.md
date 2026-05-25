@@ -1,4 +1,4 @@
-# CVPR 2024: 点云表示与 3D 感知
+# CVPR 2024: 点云表示与 3D 感知：point / cloud
 
 - Topic ID: `79`
 - Papers: **16** (0.59%)

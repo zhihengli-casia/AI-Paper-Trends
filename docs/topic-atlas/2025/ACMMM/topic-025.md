@@ -1,4 +1,4 @@
-# ACMMM 2025: 多视图聚类与图学习
+# ACMMM 2025: 多视图聚类与图学习：clustering / multi-view
 
 - Topic ID: `25`
 - Papers: **19** (1.52%)

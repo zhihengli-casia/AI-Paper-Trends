@@ -1,4 +1,4 @@
-# ICML 2024: Bandit 与 regret 理论
+# ICML 2024: Bandit 与 regret 理论：Bandit（Topic 074）
 
 - Topic ID: `74`
 - Papers: **16** (0.61%)

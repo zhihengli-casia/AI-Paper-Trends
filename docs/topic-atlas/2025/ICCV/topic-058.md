@@ -1,4 +1,4 @@
-# ICCV 2025: 机器人操作与抓取
+# ICCV 2025: 机器人操作与抓取：affordance / grasp
 
 - Topic ID: `58`
 - Papers: **20** (0.74%)

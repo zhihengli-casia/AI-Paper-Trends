@@ -1,4 +1,4 @@
-# ICRA 2022: 规划搜索与决策推理
+# ICRA 2022: 规划搜索与决策推理：trajectory / risk
 
 - Topic ID: `38`
 - Papers: **13** (1.41%)

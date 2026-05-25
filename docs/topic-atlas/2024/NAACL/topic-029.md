@@ -1,4 +1,4 @@
-# NAACL 2024: 多模态学习与跨模态理解
+# NAACL 2024: 多模态学习与跨模态理解：hallucinations / objects
 
 - Topic ID: `29`
 - Papers: **9** (1.60%)

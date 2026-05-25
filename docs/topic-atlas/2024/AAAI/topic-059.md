@@ -1,4 +1,4 @@
-# AAAI 2024: 时间序列建模与预测
+# AAAI 2024: 时间序列建模与预测：spatiotemporal / traffic
 
 - Topic ID: `59`
 - Papers: **18** (0.77%)

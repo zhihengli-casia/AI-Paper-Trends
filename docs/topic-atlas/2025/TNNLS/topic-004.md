@@ -1,4 +1,4 @@
-# TNNLS 2025: 语音理解、识别与交互
+# TNNLS 2025: 语音理解、识别与交互：speech / language
 
 - Topic ID: `4`
 - Papers: **35** (4.40%)

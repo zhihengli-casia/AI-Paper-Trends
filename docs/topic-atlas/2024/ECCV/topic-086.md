@@ -1,4 +1,4 @@
-# ECCV 2024: 图像复原与超分辨率
+# ECCV 2024: 图像复原与超分辨率：restoration / degradations
 
 - Topic ID: `86`
 - Papers: **12** (0.50%)

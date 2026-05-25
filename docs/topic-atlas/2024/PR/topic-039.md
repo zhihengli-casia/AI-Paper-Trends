@@ -1,4 +1,4 @@
-# PR 2024: 对抗攻击、鲁棒性与安全
+# PR 2024: 对抗攻击、鲁棒性与安全：adversarial / attacks
 
 - Topic ID: `39`
 - Papers: **12** (1.25%)

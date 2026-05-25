@@ -1,4 +1,4 @@
-# ICCV 2025: 3D Gaussian Splatting 与场景重建
+# ICCV 2025: 3D Gaussian Splatting 与场景重建：scene / 高斯表示
 
 - Topic ID: `15`
 - Papers: **40** (1.48%)

@@ -1,4 +1,4 @@
-# ICCV 2023: 领域自适应与迁移学习
+# ICCV 2023: 领域自适应与迁移学习：adaptation / semantic segmentation
 
 - Topic ID: `72`
 - Papers: **14** (0.65%)

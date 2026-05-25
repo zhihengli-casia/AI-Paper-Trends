@@ -1,4 +1,4 @@
-# AAAI 2025: 多智能体博弈、机制设计与社会选择
+# AAAI 2025: 多智能体博弈、机制设计与社会选择：games / equilibrium
 
 - Topic ID: `41`
 - Papers: **27** (0.89%)

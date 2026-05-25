@@ -1,4 +1,4 @@
-# NeurIPS 2025: Chain-of-Thought 与大模型推理
+# NeurIPS 2025: Chain-of-Thought 与大模型推理：grpo / 推理
 
 - Topic ID: `116`
 - Papers: **20** (0.38%)

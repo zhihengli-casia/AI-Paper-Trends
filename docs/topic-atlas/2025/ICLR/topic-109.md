@@ -1,4 +1,4 @@
-# ICLR 2025: Chain-of-Thought 与大模型推理
+# ICLR 2025: Chain-of-Thought 与大模型推理：思维链推理（Topic 109）
 
 - Topic ID: `109`
 - Papers: **16** (0.43%)

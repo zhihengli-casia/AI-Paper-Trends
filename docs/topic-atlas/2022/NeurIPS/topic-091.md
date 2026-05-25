@@ -1,4 +1,4 @@
-# NeurIPS 2022: 扩散生成模型
+# NeurIPS 2022: 扩散生成模型：score-based generative / sgms
 
 - Topic ID: `91`
 - Papers: **13** (0.49%)

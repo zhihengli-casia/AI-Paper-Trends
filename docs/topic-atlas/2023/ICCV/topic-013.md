@@ -1,4 +1,4 @@
-# ICCV 2023: 图像复原与超分辨率
+# ICCV 2023: 图像复原与超分辨率：restoration / hsi
 
 - Topic ID: `13`
 - Papers: **39** (1.81%)

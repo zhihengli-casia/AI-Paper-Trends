@@ -1,4 +1,4 @@
-# EMNLP 2022: 摘要生成与信息压缩
+# EMNLP 2022: 摘要生成与信息压缩：summarization / summaries
 
 - Topic ID: `35`
 - Papers: **11** (1.33%)

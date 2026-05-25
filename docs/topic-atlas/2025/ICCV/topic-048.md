@@ -1,4 +1,4 @@
-# ICCV 2025: 视觉语言模型与多模态理解
+# ICCV 2025: 视觉语言模型与多模态理解：counting / detection
 
 - Topic ID: `48`
 - Papers: **23** (0.85%)

@@ -1,4 +1,4 @@
-# ICRA 2024: tactile / sensor / array / sensing
+# ICRA 2024: 机器人触觉传感与力感知
 
 - Topic ID: `37`
 - Papers: **18** (1.03%)

@@ -1,4 +1,4 @@
-# CVPR 2023: 人脸分析、表情与属性建模
+# CVPR 2023: 人脸分析、表情与属性建模：talking / face
 
 - Topic ID: `76`
 - Papers: **15** (0.64%)

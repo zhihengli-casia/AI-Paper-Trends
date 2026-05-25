@@ -1,4 +1,4 @@
-# NeurIPS 2022: 凸/非凸优化理论
+# NeurIPS 2022: 凸/非凸优化理论：active learning / label
 
 - Topic ID: `52`
 - Papers: **21** (0.79%)

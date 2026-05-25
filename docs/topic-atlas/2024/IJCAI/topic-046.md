@@ -1,4 +1,4 @@
-# IJCAI 2024: 强化学习策略与奖励建模
+# IJCAI 2024: 强化学习策略与奖励建模：mdp / markov
 
 - Topic ID: `46`
 - Papers: **12** (1.15%)

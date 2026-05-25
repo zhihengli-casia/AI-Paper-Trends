@@ -1,4 +1,4 @@
-# AAAI 2025: 人脸分析、表情与属性建模
+# AAAI 2025: 人脸分析、表情与属性建模：facial / identity
 
 - Topic ID: `85`
 - Papers: **17** (0.56%)

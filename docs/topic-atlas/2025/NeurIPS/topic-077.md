@@ -1,4 +1,4 @@
-# NeurIPS 2025: 扩散生成模型
+# NeurIPS 2025: 扩散生成模型：watermarking / watermarks
 
 - Topic ID: `77`
 - Papers: **34** (0.64%)

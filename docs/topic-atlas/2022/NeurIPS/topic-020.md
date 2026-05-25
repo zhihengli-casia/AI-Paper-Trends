@@ -1,4 +1,4 @@
-# NeurIPS 2022: 神经网络理论、NTK 与宽度分析
+# NeurIPS 2022: 神经网络理论、NTK 与宽度分析：kernel / ntk
 
 - Topic ID: `20`
 - Papers: **37** (1.39%)

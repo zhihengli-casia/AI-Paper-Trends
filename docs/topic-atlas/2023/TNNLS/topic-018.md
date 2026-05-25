@@ -1,4 +1,4 @@
-# TNNLS 2023: 图神经网络与节点表示学习
+# TNNLS 2023: 图神经网络与节点表示学习：图学习 / contrastive
 
 - Topic ID: `18`
 - Papers: **20** (1.95%)

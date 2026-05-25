@@ -1,4 +1,4 @@
-# CVPR 2023: 深度估计与立体匹配
+# CVPR 2023: 深度估计与立体匹配：view synthesis / 立体
 
 - Topic ID: `78`
 - Papers: **14** (0.59%)

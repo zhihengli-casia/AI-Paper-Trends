@@ -1,4 +1,4 @@
-# IJCAI 2024: 多模态学习与跨模态理解
+# IJCAI 2024: 多模态学习与跨模态理解：news / causal
 
 - Topic ID: `32`
 - Papers: **15** (1.43%)

@@ -1,4 +1,4 @@
-# EMNLP 2024: 机器翻译与跨语言对齐
+# EMNLP 2024: 机器翻译与跨语言对齐：translation / multilingual
 
 - Topic ID: `24`
 - Papers: **19** (1.50%)

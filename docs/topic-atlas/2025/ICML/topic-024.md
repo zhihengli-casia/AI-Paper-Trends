@@ -1,4 +1,4 @@
-# ICML 2025: LoRA 与参数高效微调
+# ICML 2025: LoRA 与参数高效微调：lora / fine-tuning
 
 - Topic ID: `24`
 - Papers: **33** (0.99%)

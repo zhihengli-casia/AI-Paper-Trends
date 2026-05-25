@@ -1,4 +1,4 @@
-# ICML 2025: 强化学习算法与理论
+# ICML 2025: 强化学习算法与理论：quantum / classical
 
 - Topic ID: `109`
 - Papers: **15** (0.45%)

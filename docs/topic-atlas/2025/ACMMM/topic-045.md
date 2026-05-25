@@ -1,4 +1,4 @@
-# ACMMM 2025: 多模态大模型与视觉语言推理
+# ACMMM 2025: 多模态大模型与视觉语言推理：detection / ai-generated
 
 - Topic ID: `45`
 - Papers: **12** (0.96%)

@@ -1,4 +1,4 @@
-# NeurIPS 2024: 强化学习策略与奖励建模
+# NeurIPS 2024: 强化学习策略与奖励建模：reinforcement learning / 策略优化
 
 - Topic ID: `45`
 - Papers: **39** (0.97%)

@@ -1,4 +1,4 @@
-# ECCV 2020: 场景图、关系推理与视觉理解
+# ECCV 2020: 场景图、关系推理与视觉理解：scene graph / parsing
 
 - Topic ID: `32`
 - Papers: **18** (1.33%)

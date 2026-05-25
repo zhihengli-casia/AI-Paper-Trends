@@ -1,4 +1,4 @@
-# NeurIPS 2020: 对抗攻击、鲁棒性与安全
+# NeurIPS 2020: 对抗攻击、鲁棒性与安全：robustness / verification
 
 - Topic ID: `46`
 - Papers: **17** (0.90%)

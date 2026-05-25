@@ -1,4 +1,4 @@
-# ECCV 2024: 领域自适应与迁移学习
+# ECCV 2024: 领域自适应与迁移学习：domain adaptation / target domain
 
 - Topic ID: `77`
 - Papers: **14** (0.59%)

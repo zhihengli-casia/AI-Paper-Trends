@@ -1,4 +1,4 @@
-# CVPR 2025: 医疗健康与临床 AI
+# CVPR 2025: 医疗健康与临床 AI：医学AI / report generation
 
 - Topic ID: `64`
 - Papers: **20** (0.70%)

@@ -1,4 +1,4 @@
-# ACL 2023: 推荐系统与用户建模
+# ACL 2023: 推荐系统与用户建模：sentence / contrastive
 
 - Topic ID: `39`
 - Papers: **14** (1.30%)

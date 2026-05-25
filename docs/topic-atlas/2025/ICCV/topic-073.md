@@ -1,4 +1,4 @@
-# ICCV 2025: 图像复原与超分辨率
+# ICCV 2025: 图像复原与超分辨率：polarization / optics
 
 - Topic ID: `73`
 - Papers: **16** (0.59%)

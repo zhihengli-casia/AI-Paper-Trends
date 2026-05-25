@@ -1,4 +1,4 @@
-# ICML 2025: Chain-of-Thought 与大模型推理
+# ICML 2025: Chain-of-Thought 与大模型推理：code generation / 大语言模型
 
 - Topic ID: `36`
 - Papers: **29** (0.87%)

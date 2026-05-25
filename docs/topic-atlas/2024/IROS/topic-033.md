@@ -1,4 +1,4 @@
-# IROS 2024: 机器人触觉感知与操作
+# IROS 2024: 机器人触觉感知与操作：tactile / manipulation
 
 - Topic ID: `33`
 - Papers: **20** (1.27%)

@@ -1,4 +1,4 @@
-# ICCV 2021: 行人重识别与人群计数
+# ICCV 2021: 行人重识别与人群计数：semi-supervised / active learning
 
 - Topic ID: `10`
 - Papers: **31** (1.92%)

@@ -1,4 +1,4 @@
-# ICCV 2025: 图像复原与超分辨率
+# ICCV 2025: 图像复原与超分辨率：restoration / degradations
 
 - Topic ID: `10`
 - Papers: **45** (1.67%)

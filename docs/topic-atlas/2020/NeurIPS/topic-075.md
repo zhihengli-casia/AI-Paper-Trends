@@ -1,4 +1,4 @@
-# NeurIPS 2020: 强化学习策略与奖励建模
+# NeurIPS 2020: 强化学习策略与奖励建模：off-policy / policies
 
 - Topic ID: `75`
 - Papers: **12** (0.63%)

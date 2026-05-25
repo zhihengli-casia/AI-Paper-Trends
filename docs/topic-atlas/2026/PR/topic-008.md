@@ -1,4 +1,4 @@
-# PR 2026: 视觉语言模型与多模态理解
+# PR 2026: 视觉语言模型与多模态理解：emotion / recognition
 
 - Topic ID: `8`
 - Papers: **25** (2.70%)

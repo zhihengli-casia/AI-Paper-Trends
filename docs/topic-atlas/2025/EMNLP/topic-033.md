@@ -1,4 +1,4 @@
-# EMNLP 2025: 多模态学习与跨模态理解
+# EMNLP 2025: 多模态学习与跨模态理解：safety / jailbreak
 
 - Topic ID: `33`
 - Papers: **19** (1.05%)

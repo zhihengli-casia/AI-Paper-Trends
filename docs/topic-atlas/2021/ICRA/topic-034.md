@@ -1,4 +1,4 @@
-# ICRA 2021: 机器人操作与具身智能
+# ICRA 2021: 机器人操作与具身智能：motion planning / sampling-based
 
 - Topic ID: `34`
 - Papers: **18** (1.31%)

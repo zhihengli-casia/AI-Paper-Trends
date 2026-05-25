@@ -1,4 +1,4 @@
-# NeurIPS 2022: 语义分割与场景解析
+# NeurIPS 2022: 语义分割与场景解析：object / segmentation
 
 - Topic ID: `46`
 - Papers: **23** (0.86%)

@@ -1,4 +1,4 @@
-# ICML 2023: 在线学习与 regret 理论
+# ICML 2023: 在线学习与 regret 理论：bayesian / black-box
 
 - Topic ID: `63`
 - Papers: **14** (0.77%)

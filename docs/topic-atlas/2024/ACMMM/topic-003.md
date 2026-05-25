@@ -1,4 +1,4 @@
-# ACMMM 2024: NeRF 与神经渲染
+# ACMMM 2024: NeRF 与神经渲染：视频理解/生成 / streaming
 
 - Topic ID: `3`
 - Papers: **32** (2.79%)

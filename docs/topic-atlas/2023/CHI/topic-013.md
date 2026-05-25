@@ -1,4 +1,4 @@
-# CHI 2023: 社交媒体与社会计算
+# CHI 2023: 社交媒体与社会计算：autoethnography / social
 
 - Topic ID: `13`
 - Papers: **22** (2.53%)

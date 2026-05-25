@@ -1,4 +1,4 @@
-# AAAI 2020: 在线学习与 regret 理论
+# AAAI 2020: 在线学习与 regret 理论：regret / distributed
 
 - Topic ID: `77`
 - Papers: **10** (0.62%)

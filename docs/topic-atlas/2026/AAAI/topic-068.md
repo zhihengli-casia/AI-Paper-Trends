@@ -1,4 +1,4 @@
-# AAAI 2026: 扩散生成模型
+# AAAI 2026: 扩散生成模型：traffic / spatio-temporal
 
 - Topic ID: `68`
 - Papers: **28** (0.67%)

@@ -1,4 +1,4 @@
-# ICLR 2026: 扩散生成模型
+# ICLR 2026: 扩散生成模型：optimal transport / dinger
 
 - Topic ID: `127`
 - Papers: **17** (0.32%)

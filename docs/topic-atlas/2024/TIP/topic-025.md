@@ -1,4 +1,4 @@
-# TIP 2024: 多视图聚类与图学习
+# TIP 2024: 多视图聚类与图学习：tensor / low-rank
 
 - Topic ID: `25`
 - Papers: **9** (1.88%)

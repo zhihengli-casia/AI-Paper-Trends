@@ -1,4 +1,4 @@
-# ICML 2025: Chain-of-Thought 与大模型推理
+# ICML 2025: Chain-of-Thought 与大模型推理：推理 / cot
 
 - Topic ID: `110`
 - Papers: **15** (0.45%)

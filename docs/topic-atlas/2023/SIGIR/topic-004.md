@@ -1,4 +1,4 @@
-# SIGIR 2023: 推荐系统与用户建模
+# SIGIR 2023: 推荐系统与用户建模：exposure / recommender
 
 - Topic ID: `4`
 - Papers: **12** (7.27%)

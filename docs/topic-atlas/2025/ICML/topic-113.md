@@ -1,4 +1,4 @@
-# ICML 2025: 在线学习与 regret 理论
+# ICML 2025: 在线学习与 regret 理论：regret / online
 
 - Topic ID: `113`
 - Papers: **15** (0.45%)

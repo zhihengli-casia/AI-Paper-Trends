@@ -1,4 +1,4 @@
-# ICCV 2021: 行人重识别与人群计数
+# ICCV 2021: 行人重识别与人群计数：person / re-identification
 
 - Topic ID: `84`
 - Papers: **8** (0.50%)

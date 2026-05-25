@@ -1,4 +1,4 @@
-# NeurIPS 2020: 强化学习策略与奖励建模
+# NeurIPS 2020: 强化学习策略与奖励建模：q-learning / function approximation
 
 - Topic ID: `41`
 - Papers: **18** (0.95%)

@@ -1,4 +1,4 @@
-# CVPR 2021: 实例分割与开放词汇分割
+# CVPR 2021: 实例分割与开放词汇分割：segmentation / instance
 
 - Topic ID: `1`
 - Papers: **46** (2.77%)

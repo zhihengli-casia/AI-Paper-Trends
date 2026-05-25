@@ -1,4 +1,4 @@
-# ECCV 2020: 视频动作生成与运动控制
+# ECCV 2020: 视频动作生成与运动控制：shadow / relighting
 
 - Topic ID: `38`
 - Papers: **15** (1.10%)

@@ -1,4 +1,4 @@
-# NeurIPS 2020: 随机优化与收敛理论
+# NeurIPS 2020: 随机优化与收敛理论：federated / distributed
 
 - Topic ID: `9`
 - Papers: **33** (1.74%)

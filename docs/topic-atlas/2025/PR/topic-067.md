@@ -1,4 +1,4 @@
-# PR 2025: 多模态融合与跨模态表示
+# PR 2025: 多模态融合与跨模态表示：object detection / fusion
 
 - Topic ID: `67`
 - Papers: **11** (0.73%)

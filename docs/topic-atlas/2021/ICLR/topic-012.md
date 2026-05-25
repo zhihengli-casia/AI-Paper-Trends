@@ -1,4 +1,4 @@
-# ICLR 2021: 强化学习算法与理论
+# ICLR 2021: 强化学习算法与理论：策略优化 / reinforcement learning
 
 - Topic ID: `12`
 - Papers: **23** (2.68%)

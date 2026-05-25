@@ -1,4 +1,4 @@
-# PR 2024: 对抗攻击、鲁棒性与安全
+# PR 2024: 对抗攻击、鲁棒性与安全：zero-shot learning / compositional
 
 - Topic ID: `42`
 - Papers: **11** (1.14%)

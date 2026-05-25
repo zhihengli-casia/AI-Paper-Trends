@@ -8,6 +8,7 @@ import json
 import os
 import re
 import shutil
+from collections import Counter
 from pathlib import Path
 from urllib.parse import quote
 
@@ -54,6 +55,28 @@ CN_TOPIC_RULES: list[tuple[tuple[str, ...], str]] = [
     (("human-robot", "social"), "社交导航与人机交互"),
     (("agricultural", "robotic"), "农业机器人与自主采摘"),
     (("harvesting", "robotic"), "农业机器人与自主采摘"),
+    (("continuum", "manipulator"), "连续体机械臂与柔顺控制"),
+    (("cable-driven", "control"), "绳驱连续体机器人控制"),
+    (("magnetic", "microrobots"), "磁控微纳机器人"),
+    (("micro", "nano", "robots"), "微纳机器人与微尺度操控"),
+    (("slam", "mapping"), "机器人 SLAM 与定位建图"),
+    (("parking", "mapping"), "停车场与室内场景建图"),
+    (("tactile", "sensor"), "机器人触觉传感与力感知"),
+    (("inverse kinematics", "manipulators"), "机器人逆运动学与机械臂控制"),
+    (("planetary", "tracking"), "空间机器人与在轨装配"),
+    (("pose estimation", "object pose"), "物体姿态估计与机器人感知"),
+    (("predictive", "vehicles", "autonomous"), "自动驾驶预测控制"),
+    (("gait", "exoskeleton"), "外骨骼步态与假肢控制"),
+    (("path integral", "mpc"), "MPC 与安全路径规划"),
+    (("underwater", "communication"), "水下机器人通信与识别"),
+    (("underwater", "control", "vessels"), "水下/海洋机器人控制"),
+    (("open-vocabulary", "graphs"), "开放词汇场景图与语义建图"),
+    (("exoskeleton", "actuators"), "外骨骼执行器与力反馈"),
+    (("visual servoing",), "视觉伺服与物理仿真"),
+    (("optical flow", "event-based"), "事件相机光流与运动估计"),
+    (("behaviors", "robots"), "机器人行为识别与人机交互"),
+    (("underwater", "target", "localization"), "水下目标定位与 AUV 协同"),
+    (("tracking", "object pose"), "高速目标跟踪与姿态估计"),
     (("detection", "domain", "object"), "机器人视觉目标检测与域适应"),
     (("navigation", "zero-shot", "visual"), "视觉语义导航与开放词汇定位"),
     (("navigation", "visual"), "视觉导航与语义地图"),
@@ -388,6 +411,171 @@ TERM_CN = {
     "forecasting": "预测",
 }
 
+QUALIFIER_RULES: list[tuple[tuple[str, ...], str]] = [
+    (("locomotion", "bipedal"), "双足步态控制"),
+    (("locomotion", "quadruped"), "四足步态控制"),
+    (("locomotion", "humanoid"), "人形越野运动"),
+    (("terrain", "learning"), "复杂地形学习"),
+    (("continuum", "manipulator"), "连续体机械臂"),
+    (("cable-driven",), "绳驱机构"),
+    (("magnetic", "microrobots"), "磁控微纳机器人"),
+    (("cell", "microrobots"), "细胞/微尺度机器人"),
+    (("surgical", "endoscopic"), "内窥镜手术器械"),
+    (("steerable", "instrument"), "可转向手术器械"),
+    (("soft", "actuators"), "软体执行器"),
+    (("soft", "grasping"), "软体夹爪抓取"),
+    (("hand", "dexterous"), "灵巧手操作"),
+    (("bimanual",), "双手协作"),
+    (("grasping", "gripper"), "夹爪与抓取"),
+    (("manipulation", "language"), "语言引导操作"),
+    (("manipulation", "diffusion"), "扩散策略操作"),
+    (("imitation", "visuomotor"), "视觉运动模仿"),
+    (("navigation", "reinforcement"), "强化学习导航"),
+    (("navigation", "language"), "语言引导导航"),
+    (("grounding", "object"), "语义接地与物体感知"),
+    (("slam", "mapping"), "SLAM 与建图"),
+    (("lidar", "segmentation"), "LiDAR 语义分割"),
+    (("lidar", "detection"), "LiDAR 目标检测"),
+    (("trajectory", "quadrotor"), "四旋翼轨迹规划"),
+    (("uav", "detection"), "无人机检测感知"),
+    (("multi-agent", "path"), "多智能体路径规划"),
+    (("multi-robot", "exploration"), "多机器人协同探索"),
+    (("grasping", "cluttered"), "杂乱场景抓取"),
+    (("localization", "camera"), "相机定位"),
+    (("odometry", "lidar"), "LiDAR 里程计"),
+    (("calibration", "extrinsic"), "外参标定"),
+    (("decentralized", "multi-robot"), "分布式多机器人编队"),
+    (("multi-robot", "allocation"), "多机器人任务分配"),
+    (("trajectory prediction", "forecasting"), "轨迹预测"),
+    (("underwater", "swimming"), "水下游动机器人"),
+    (("driving", "traffic"), "交通交互与自动驾驶"),
+    (("diffusion", "video"), "视频扩散"),
+    (("diffusion", "denoising"), "去噪扩散"),
+    (("diffusion", "editing"), "扩散编辑"),
+    (("diffusion", "policy"), "扩散策略"),
+    (("diffusion", "text-to-image"), "文生图"),
+    (("diffusion", "audio"), "音频扩散"),
+    (("diffusion", "molecular"), "分子扩散"),
+    (("depth", "monocular"), "单目深度"),
+    (("depth", "stereo"), "双目/立体深度"),
+    (("depth", "completion"), "深度补全"),
+    (("recommendation", "sequential"), "序列推荐"),
+    (("recommendation", "cold-start"), "冷启动推荐"),
+    (("recommendation", "graph"), "图推荐"),
+    (("recommendation", "fairness"), "公平推荐"),
+    (("retrieval", "cross-modal"), "跨模态检索"),
+    (("retrieval", "video"), "视频检索"),
+    (("ranking", "query"), "查询排序"),
+    (("vision-language", "reasoning"), "视觉语言推理"),
+    (("vision-language", "segmentation"), "视觉语言分割"),
+    (("vision-language", "retrieval"), "视觉语言检索"),
+    (("captioning",), "图像/视频描述"),
+    (("vqa",), "视觉问答"),
+    (("open-vocabulary",), "开放词汇"),
+    (("prompt", "tuning"), "提示调优"),
+    (("chain-of-thought",), "思维链推理"),
+    (("agent", "tool"), "工具使用"),
+    (("agent", "web"), "网页任务"),
+    (("agent", "gui"), "GUI 操作"),
+    (("multi-agent", "game"), "多智能体博弈"),
+    (("bandit",), "Bandit"),
+    (("offline", "reinforcement"), "离线强化学习"),
+    (("reward", "preference"), "奖励/偏好建模"),
+    (("privacy",), "隐私保护"),
+    (("fairness",), "公平性"),
+    (("adversarial", "attack"), "对抗攻击"),
+    (("backdoor",), "后门安全"),
+    (("time series", "forecasting"), "时间序列预测"),
+    (("protein",), "蛋白质建模"),
+    (("molecule",), "分子建模"),
+    (("medical", "segmentation"), "医学分割"),
+    (("clinical", "prediction"), "临床预测"),
+]
+
+QUALIFIER_TERM_CN = TERM_CN | {
+    "humanoid": "人形",
+    "quadruped": "四足",
+    "bipedal": "双足",
+    "locomotion": "运动控制",
+    "terrain": "地形",
+    "continuum": "连续体",
+    "manipulator": "机械臂",
+    "cable-driven": "绳驱",
+    "magnetic": "磁控",
+    "microrobots": "微纳机器人",
+    "micro": "微尺度",
+    "nano": "纳米",
+    "surgical": "手术",
+    "endoscopic": "内窥镜",
+    "steerable": "可转向",
+    "soft": "软体",
+    "actuators": "执行器",
+    "dexterous": "灵巧",
+    "bimanual": "双手",
+    "grasping": "抓取",
+    "gripper": "夹爪",
+    "navigation": "导航",
+    "grounding": "语义接地",
+    "semantic": "语义",
+    "slam": "SLAM",
+    "mapping": "建图",
+    "lidar": "LiDAR",
+    "quadrotor": "四旋翼",
+    "uav": "无人机",
+    "drone": "无人机",
+    "underwater": "水下",
+    "swimming": "游动",
+    "diffusion": "扩散",
+    "denoising": "去噪",
+    "editing": "编辑",
+    "text-to-image": "文生图",
+    "monocular": "单目",
+    "stereo": "立体",
+    "completion": "补全",
+    "sequential": "序列",
+    "cold-start": "冷启动",
+    "cross-modal": "跨模态",
+    "open-vocabulary": "开放词汇",
+    "captioning": "图像/视频描述",
+    "vqa": "视觉问答",
+    "prompt": "提示",
+    "tuning": "调优",
+    "tool": "工具",
+    "gui": "GUI",
+    "web": "网页",
+    "offline": "离线",
+    "bandit": "Bandit",
+    "backdoor": "后门",
+    "clinical": "临床",
+}
+
+GENERIC_QUALIFIER_TERMS = {
+    "learning",
+    "model",
+    "models",
+    "method",
+    "methods",
+    "data",
+    "task",
+    "tasks",
+    "deep",
+    "neural",
+    "network",
+    "networks",
+    "using",
+    "based",
+    "control",
+    "robot",
+    "robots",
+    "robotic",
+    "system",
+    "systems",
+    "efficient",
+    "robust",
+    "improving",
+    "new",
+}
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
@@ -591,6 +779,58 @@ def topic_name_cn(row: pd.Series) -> str:
     return f"{display_macro_topic(row) or '主题'}细分方向"
 
 
+def topic_qualifier_cn(row: pd.Series) -> str:
+    text = topic_text(row)
+    label_text = str(row.get("topic_label", "")).lower()
+    for required_terms, qualifier in QUALIFIER_RULES:
+        if all(contains_term(label_text, term) for term in required_terms):
+            return qualifier
+    for required_terms, qualifier in QUALIFIER_RULES:
+        if all(contains_term(text, term) for term in required_terms):
+            return qualifier
+
+    candidates: list[str] = []
+    for raw_part in str(row.get("topic_label", "")).split("/"):
+        candidates.append(raw_part.strip().lower())
+    for raw_part in str(row.get("keywords", "")).split(";"):
+        candidates.append(raw_part.strip().lower())
+
+    translated: list[str] = []
+    seen: set[str] = set()
+    for term in candidates:
+        if not term or term in seen or term in GENERIC_QUALIFIER_TERMS:
+            continue
+        seen.add(term)
+        cn = QUALIFIER_TERM_CN.get(term, term)
+        if len(cn) > 28:
+            continue
+        translated.append(cn)
+        if len(translated) >= 2:
+            break
+
+    if translated:
+        return " / ".join(translated)
+    return f"Topic {int(row.get('topic_id', 0)):03d}"
+
+
+def unique_topic_names(topics: pd.DataFrame) -> dict[int, str]:
+    base_names = {idx: topic_name_cn(topic) for idx, topic in topics.iterrows()}
+    duplicate_counts = Counter(base_names.values())
+    used: set[str] = set()
+    names: dict[int, str] = {}
+    for idx, topic in topics.iterrows():
+        topic_id = int(topic["topic_id"])
+        base_name = base_names[idx]
+        name = base_name
+        if duplicate_counts[base_name] > 1:
+            name = f"{base_name}：{topic_qualifier_cn(topic)}"
+        if name in used:
+            name = f"{name}（Topic {topic_id:03d}）"
+        used.add(name)
+        names[topic_id] = name
+    return names
+
+
 def contains_term(text: str, term: str) -> bool:
     return re.search(rf"(?<![a-z0-9]){re.escape(term.lower())}(?![a-z0-9])", text) is not None
 
@@ -640,10 +880,11 @@ def build_topic_page(
     topic_row: pd.Series,
     records: list[dict],
     topic_path: Path,
+    cn_name: str | None = None,
 ) -> None:
     topic_id = int(topic_row["topic_id"])
     topic_records = [record for record in records if int(record.get("fine_topic", -999999)) == topic_id]
-    cn_name = topic_name_cn(topic_row)
+    cn_name = cn_name or topic_name_cn(topic_row)
     lines = [
         f"# {venue} {year}: {cn_name}",
         "",
@@ -698,6 +939,7 @@ def build_venue_page(
     summary_row: pd.Series,
     topics: pd.DataFrame,
     venue_path: Path,
+    topic_names: dict[int, str],
 ) -> None:
     lines = [
         f"# {venue} {year} Topic Atlas",
@@ -717,7 +959,7 @@ def build_venue_page(
     for _, topic in topics.iterrows():
         topic_file = Path(f"topic-{int(topic['topic_id']):03d}.md")
         topic_link = f"[{int(topic['topic_id']):03d}]({quote(str(topic_file), safe='/#.-_')})"
-        cn_name = topic_name_cn(topic)
+        cn_name = topic_names[int(topic["topic_id"])]
         representative = str(topic.get("representative_titles", "")).split(" || ")[0]
         lines.append(
             "| "
@@ -773,14 +1015,17 @@ def build_home_page(output_root: Path, summary: pd.DataFrame, topic_index: pd.Da
     lines = [
         "# AI Paper Topic Atlas",
         "",
-        "Fine-grained topic index generated from AI conference and journal papers.",
+        "Continuously updated fine-grained topic index generated from AI conference and journal papers.",
         "",
         "Navigation pattern: **year -> venue -> topic -> paper**.",
         "",
-        f"- Venue-year groups: **{len(summary)}**",
-        f"- Papers: **{int(summary['papers'].sum()):,}**",
-        f"- Fine topics: **{int(summary['final_topics'].sum()):,}**",
-        f"- Final outliers: **{int(summary['final_outliers'].sum())}**",
+        "The numbers below describe the current checked-in index. They are expected to grow as new "
+        "venues, years, and proceedings are added.",
+        "",
+        f"- Indexed venue-year groups: **{len(summary)}**",
+        f"- Indexed papers: **{int(summary['papers'].sum()):,}**",
+        f"- Fine-grained topic pages: **{int(summary['final_topics'].sum()):,}**",
+        f"- Unassigned papers after reassignment: **{int(summary['final_outliers'].sum())}**",
         "",
         "## Years",
         "",
@@ -818,7 +1063,8 @@ def build_home_page(output_root: Path, summary: pd.DataFrame, topic_index: pd.Da
             "- [topic_index.csv](data/topic_index.csv)",
             "",
             "Topic labels include a reproducible English keyword label and a heuristic Chinese display name. "
-            "The Chinese name is designed for browsing and visualization; use representative paper titles for audit.",
+            "Chinese display names are disambiguated within each venue-year when multiple fine topics share "
+            "the same base label. Use representative paper titles for audit.",
         ]
     )
     write(output_root / "README.md", "\n".join(lines))
@@ -848,20 +1094,22 @@ def main() -> None:
             raise SystemExit(f"Missing topic outputs for {venue} {year}")
 
         topics = pd.read_csv(topic_summary_path).sort_values("paper_count", ascending=False)
+        topic_names = unique_topic_names(topics)
         records = read_jsonl(papers_path)
         venue_output_dir = output_root / str(year) / venue
         venue_page = venue_output_dir / "README.md"
 
         for _, topic in topics.iterrows():
             topic_file = venue_output_dir / f"topic-{int(topic['topic_id']):03d}.md"
-            build_topic_page(output_root, year, venue, topic, records, topic_file)
+            topic_id = int(topic["topic_id"])
+            build_topic_page(output_root, year, venue, topic, records, topic_file, topic_names[topic_id])
             topic_record = topic.to_dict()
             topic_record["macro_topic"] = display_macro_topic(topic)
-            topic_record["topic_name_cn"] = topic_name_cn(topic)
+            topic_record["topic_name_cn"] = topic_names[topic_id]
             topic_record["topic_page"] = str(topic_file.relative_to(output_root)).replace("\\", "/")
             topic_rows.append(topic_record)
 
-        build_venue_page(output_root, year, venue, group, topics, venue_page)
+        build_venue_page(output_root, year, venue, group, topics, venue_page, topic_names)
 
     for year, rows in summary.groupby("year"):
         build_year_page(output_root, int(year), rows, output_root / str(int(year)) / "README.md")

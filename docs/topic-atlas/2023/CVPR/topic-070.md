@@ -1,4 +1,4 @@
-# CVPR 2023: NeRF 与神经渲染
+# CVPR 2023: NeRF 与神经渲染：inversion / gan
 
 - Topic ID: `70`
 - Papers: **15** (0.64%)

@@ -1,4 +1,4 @@
-# EMNLP 2025: 摘要生成与信息压缩
+# EMNLP 2025: 摘要生成与信息压缩：reviews / pls
 
 - Topic ID: `78`
 - Papers: **12** (0.66%)

@@ -1,4 +1,4 @@
-# ICML 2025: 扩散生成模型
+# ICML 2025: 扩散生成模型：扩散 / generative
 
 - Topic ID: `66`
 - Papers: **21** (0.63%)

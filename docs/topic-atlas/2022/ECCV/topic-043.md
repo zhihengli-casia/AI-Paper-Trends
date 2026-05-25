@@ -1,4 +1,4 @@
-# ECCV 2022: 行人重识别与人群计数
+# ECCV 2022: 行人重识别与人群计数：reid / person
 
 - Topic ID: `43`
 - Papers: **16** (0.97%)

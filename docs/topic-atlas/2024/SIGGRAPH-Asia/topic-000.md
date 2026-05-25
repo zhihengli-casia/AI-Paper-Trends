@@ -1,4 +1,4 @@
-# SIGGRAPH-Asia 2024: NeRF 与神经渲染
+# SIGGRAPH-Asia 2024: NeRF 与神经渲染：高斯表示 / consistent
 
 - Topic ID: `0`
 - Papers: **19** (13.48%)

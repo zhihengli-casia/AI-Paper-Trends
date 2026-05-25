@@ -1,4 +1,4 @@
-# IROS 2024: LiDAR 点云与 3D 感知
+# IROS 2024: LiDAR 点云与 3D 感知：外参标定
 
 - Topic ID: `67`
 - Papers: **11** (0.70%)

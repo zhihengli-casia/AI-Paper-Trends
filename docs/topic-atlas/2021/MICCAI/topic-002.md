@@ -1,4 +1,4 @@
-# MICCAI 2021: 医学影像分割
+# MICCAI 2021: 医学影像分割：polyp / attention
 
 - Topic ID: `2`
 - Papers: **11** (16.18%)

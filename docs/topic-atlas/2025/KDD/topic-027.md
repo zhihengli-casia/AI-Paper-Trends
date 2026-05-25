@@ -1,4 +1,4 @@
-# KDD 2025: 图神经网络与图表示学习
+# KDD 2025: 图神经网络与图表示学习：graph contrastive / graphs
 
 - Topic ID: `27`
 - Papers: **8** (1.45%)

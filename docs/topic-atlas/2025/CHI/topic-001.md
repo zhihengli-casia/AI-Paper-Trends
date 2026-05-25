@@ -1,4 +1,4 @@
-# CHI 2025: 多模态学习与跨模态理解
+# CHI 2025: 多模态学习与跨模态理解：low vision / people
 
 - Topic ID: `1`
 - Papers: **43** (3.46%)

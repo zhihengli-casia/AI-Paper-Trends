@@ -1,4 +1,4 @@
-# CHI 2025: 社交媒体与社会计算
+# CHI 2025: 社交媒体与社会计算：technology / events
 
 - Topic ID: `61`
 - Papers: **8** (0.64%)

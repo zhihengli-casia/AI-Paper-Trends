@@ -1,4 +1,4 @@
-# IJCAI 2020: 领域自适应与迁移学习
+# IJCAI 2020: 领域自适应与迁移学习：adversarial / anomaly
 
 - Topic ID: `14`
 - Papers: **17** (2.19%)

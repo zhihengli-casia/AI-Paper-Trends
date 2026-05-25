@@ -1,4 +1,4 @@
-# CVPR 2022: 领域自适应与迁移学习
+# CVPR 2022: 领域自适应与迁移学习：adaptation / uda
 
 - Topic ID: `80`
 - Papers: **11** (0.53%)

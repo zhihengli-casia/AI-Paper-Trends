@@ -1,4 +1,4 @@
-# ICLR 2024: 机器人操作与抓取
+# ICLR 2024: 机器人操作与抓取：运动建模 / manipulation
 
 - Topic ID: `66`
 - Papers: **17** (0.75%)

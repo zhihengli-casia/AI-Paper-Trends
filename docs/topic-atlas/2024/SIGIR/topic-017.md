@@ -1,4 +1,4 @@
-# SIGIR 2024: 摘要生成与信息压缩
+# SIGIR 2024: 摘要生成与信息压缩：legal / case
 
 - Topic ID: `17`
 - Papers: **6** (2.80%)

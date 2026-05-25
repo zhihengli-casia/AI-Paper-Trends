@@ -1,4 +1,4 @@
-# CHI 2024: 社交媒体与社会计算
+# CHI 2024: 社交媒体与社会计算：smartphone / mobile
 
 - Topic ID: `37`
 - Papers: **16** (1.52%)

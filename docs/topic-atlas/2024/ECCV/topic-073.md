@@ -1,4 +1,4 @@
-# ECCV 2024: 视频动作识别与时序定位
+# ECCV 2024: 视频动作识别与时序定位：egocentric / action
 
 - Topic ID: `73`
 - Papers: **14** (0.59%)

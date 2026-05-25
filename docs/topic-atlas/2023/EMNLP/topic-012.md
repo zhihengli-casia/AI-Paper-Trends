@@ -1,4 +1,4 @@
-# EMNLP 2023: 社交媒体与社会计算
+# EMNLP 2023: 社交媒体与社会计算：detection / copyright
 
 - Topic ID: `12`
 - Papers: **24** (2.29%)

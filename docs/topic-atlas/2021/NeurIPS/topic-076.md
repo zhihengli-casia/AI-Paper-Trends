@@ -1,4 +1,4 @@
-# NeurIPS 2021: 搜索排序与相关性建模
+# NeurIPS 2021: 搜索排序与相关性建模：cvar / regret
 
 - Topic ID: `76`
 - Papers: **13** (0.56%)

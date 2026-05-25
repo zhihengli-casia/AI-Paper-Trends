@@ -1,4 +1,4 @@
-# CVPR 2025: 视频动作生成与运动控制
+# CVPR 2025: 视频动作生成与运动控制：egocentric / gaze
 
 - Topic ID: `89`
 - Papers: **15** (0.52%)

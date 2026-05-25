@@ -1,4 +1,4 @@
-# CVPR 2024: 医学影像分割
+# CVPR 2024: 医学影像分割：concept / hierarchy
 
 - Topic ID: `56`
 - Papers: **22** (0.81%)

@@ -1,4 +1,4 @@
-# ACMMM 2023: 图像分割、语义分割与场景解析
+# ACMMM 2023: 图像分割、语义分割与场景解析：scene / recognition
 
 - Topic ID: `8`
 - Papers: **23** (2.55%)

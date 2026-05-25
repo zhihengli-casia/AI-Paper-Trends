@@ -1,4 +1,4 @@
-# CVPR 2024: 语义分割与场景解析
+# CVPR 2024: 语义分割与场景解析：segmentation / clip
 
 - Topic ID: `72`
 - Papers: **16** (0.59%)

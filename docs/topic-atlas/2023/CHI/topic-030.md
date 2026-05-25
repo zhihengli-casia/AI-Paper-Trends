@@ -1,4 +1,4 @@
-# CHI 2023: 社交媒体与社会计算
+# CHI 2023: 社交媒体与社会计算：social / media
 
 - Topic ID: `30`
 - Papers: **13** (1.49%)

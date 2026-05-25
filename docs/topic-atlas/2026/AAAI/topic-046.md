@@ -1,4 +1,4 @@
-# AAAI 2026: Deepfake 检测、多媒体取证与内容安全
+# AAAI 2026: Deepfake 检测、多媒体取证与内容安全：音频扩散
 
 - Topic ID: `46`
 - Papers: **35** (0.84%)

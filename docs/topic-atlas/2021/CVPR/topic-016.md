@@ -1,4 +1,4 @@
-# CVPR 2021: GAN 与图像生成
+# CVPR 2021: GAN 与图像生成：编辑 / latent
 
 - Topic ID: `16`
 - Papers: **24** (1.45%)

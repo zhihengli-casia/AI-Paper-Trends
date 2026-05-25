@@ -1,4 +1,4 @@
-# IROS 2020: 机器人操作与具身智能
+# IROS 2020: 机器人操作与具身智能：inspection / joints
 
 - Topic ID: `45`
 - Papers: **13** (1.17%)

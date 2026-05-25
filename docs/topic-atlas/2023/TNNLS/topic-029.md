@@ -1,4 +1,4 @@
-# TNNLS 2023: 多模态学习与跨模态理解
+# TNNLS 2023: 多模态学习与跨模态理解：object / detection
 
 - Topic ID: `29`
 - Papers: **18** (1.76%)

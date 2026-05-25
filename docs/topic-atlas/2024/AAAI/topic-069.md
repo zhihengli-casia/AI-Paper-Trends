@@ -1,4 +1,4 @@
-# AAAI 2024: 视频动作生成与运动控制
+# AAAI 2024: 视频动作生成与运动控制：tracking / object
 
 - Topic ID: `69`
 - Papers: **16** (0.69%)

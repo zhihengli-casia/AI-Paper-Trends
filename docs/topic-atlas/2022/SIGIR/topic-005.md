@@ -1,4 +1,4 @@
-# SIGIR 2022: 推荐系统与用户建模
+# SIGIR 2022: 推荐系统与用户建模：feedback / bias
 
 - Topic ID: `5`
 - Papers: **12** (7.45%)

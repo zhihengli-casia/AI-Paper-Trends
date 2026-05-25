@@ -1,4 +1,4 @@
-# ICCV 2023: 视频动作识别与时序定位
+# ICCV 2023: 视频动作识别与时序定位：skeleton-based / gait
 
 - Topic ID: `64`
 - Papers: **16** (0.74%)

@@ -1,4 +1,4 @@
-# ICRA 2024: 足式机器人与运动控制
+# ICRA 2024: 足式机器人与运动控制：reinforcement / physics-informed
 
 - Topic ID: `52`
 - Papers: **15** (0.86%)

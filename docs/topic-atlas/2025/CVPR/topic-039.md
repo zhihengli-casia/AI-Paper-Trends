@@ -1,4 +1,4 @@
-# CVPR 2025: 图像复原与超分辨率
+# CVPR 2025: 图像复原与超分辨率：degradation / dehazing
 
 - Topic ID: `39`
 - Papers: **27** (0.94%)

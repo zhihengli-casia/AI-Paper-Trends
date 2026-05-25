@@ -1,4 +1,4 @@
-# CVPR 2023: 领域自适应与迁移学习
+# CVPR 2023: 领域自适应与迁移学习：test-time adaptation / test time
 
 - Topic ID: `83`
 - Papers: **13** (0.55%)

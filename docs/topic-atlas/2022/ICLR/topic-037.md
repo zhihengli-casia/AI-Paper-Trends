@@ -1,4 +1,4 @@
-# ICLR 2022: 智能体决策与多智能体系统
+# ICLR 2022: 智能体决策与多智能体系统：reinforcement / model-based
 
 - Topic ID: `37`
 - Papers: **13** (1.23%)

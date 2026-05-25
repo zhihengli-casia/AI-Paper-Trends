@@ -1,4 +1,4 @@
-# EMNLP 2022: 多模态学习与跨模态理解
+# EMNLP 2022: 多模态学习与跨模态理解：sentiment / 多模态
 
 - Topic ID: `5`
 - Papers: **27** (3.26%)

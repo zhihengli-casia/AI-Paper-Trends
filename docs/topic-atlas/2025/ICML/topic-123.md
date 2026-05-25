@@ -1,4 +1,4 @@
-# ICML 2025: 强化学习策略与奖励建模
+# ICML 2025: 强化学习策略与奖励建模：inference-time / test-time compute
 
 - Topic ID: `123`
 - Papers: **14** (0.42%)

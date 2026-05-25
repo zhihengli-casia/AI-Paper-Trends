@@ -1,4 +1,4 @@
-# IROS 2021: 无人机/空中机器人规划与控制
+# IROS 2021: 无人机/空中机器人规划与控制：aerial / trajectory
 
 - Topic ID: `34`
 - Papers: **14** (1.38%)

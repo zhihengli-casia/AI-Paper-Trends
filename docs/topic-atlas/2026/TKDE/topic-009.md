@@ -1,4 +1,4 @@
-# TKDE 2026: 社交媒体与社会计算
+# TKDE 2026: 社交媒体与社会计算：fake / detection
 
 - Topic ID: `9`
 - Papers: **13** (5.20%)

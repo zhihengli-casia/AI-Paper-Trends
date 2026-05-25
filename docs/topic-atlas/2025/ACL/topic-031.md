@@ -1,4 +1,4 @@
-# ACL 2025: Mamba 与状态空间视觉模型
+# ACL 2025: Mamba 与状态空间视觉模型：topic / embedding
 
 - Topic ID: `31`
 - Papers: **20** (1.18%)

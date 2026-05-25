@@ -1,4 +1,4 @@
-# CVPR 2020: 人脸分析、表情与属性建模
+# CVPR 2020: 人脸分析、表情与属性建模：clustering / face
 
 - Topic ID: `20`
 - Papers: **21** (1.43%)

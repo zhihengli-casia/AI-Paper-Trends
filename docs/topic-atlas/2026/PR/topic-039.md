@@ -1,4 +1,4 @@
-# PR 2026: 行人重识别与人群计数
+# PR 2026: 行人重识别与人群计数：person / re-identification
 
 - Topic ID: `39`
 - Papers: **12** (1.30%)

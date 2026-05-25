@@ -1,4 +1,4 @@
-# EMNLP 2025: 视觉语言模型与多模态理解
+# EMNLP 2025: 视觉语言模型与多模态理解：hallucination / lvlms
 
 - Topic ID: `19`
 - Papers: **24** (1.33%)

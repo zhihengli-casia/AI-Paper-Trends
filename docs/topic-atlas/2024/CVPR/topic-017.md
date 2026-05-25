@@ -1,4 +1,4 @@
-# CVPR 2024: 对抗攻击、鲁棒性与安全
+# CVPR 2024: 对抗攻击、鲁棒性与安全：adversarial / attacks
 
 - Topic ID: `17`
 - Papers: **35** (1.29%)

@@ -1,4 +1,4 @@
-# EMNLP 2024: 多模态大模型与视觉语言推理
+# EMNLP 2024: 多模态大模型与视觉语言推理：多模态 / recognition
 
 - Topic ID: `51`
 - Papers: **11** (0.87%)

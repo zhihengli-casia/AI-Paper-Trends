@@ -1,4 +1,4 @@
-# ECCV 2020: 目标检测与开放世界检测
+# ECCV 2020: 目标检测与开放世界检测：object detection / detectors
 
 - Topic ID: `36`
 - Papers: **17** (1.25%)

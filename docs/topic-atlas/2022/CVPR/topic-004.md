@@ -1,4 +1,4 @@
-# CVPR 2022: 行人重识别与人群计数
+# CVPR 2022: 行人重识别与人群计数：object detection / counting
 
 - Topic ID: `4`
 - Papers: **56** (2.70%)

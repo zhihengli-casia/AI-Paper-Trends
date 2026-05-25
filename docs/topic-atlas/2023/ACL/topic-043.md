@@ -1,4 +1,4 @@
-# ACL 2023: Chain-of-Thought 与大模型推理
+# ACL 2023: Chain-of-Thought 与大模型推理：思维链推理
 
 - Topic ID: `43`
 - Papers: **14** (1.30%)

@@ -1,4 +1,4 @@
-# IROS 2021: 机器人操作与抓取
+# IROS 2021: 机器人操作与抓取：planning / path
 
 - Topic ID: `23`
 - Papers: **18** (1.77%)

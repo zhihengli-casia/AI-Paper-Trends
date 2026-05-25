@@ -1,4 +1,4 @@
-# ICRA 2024: 机器人操作与具身智能
+# ICRA 2024: 机器人操作与具身智能：modular / growing
 
 - Topic ID: `18`
 - Papers: **28** (1.61%)

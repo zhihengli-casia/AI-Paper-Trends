@@ -1,4 +1,4 @@
-# IJCAI 2025: 医疗健康与临床 AI
+# IJCAI 2025: 医疗健康与临床 AI：医学AI / patient
 
 - Topic ID: `14`
 - Papers: **22** (1.72%)

@@ -1,4 +1,4 @@
-# NeurIPS 2025: 语音合成与音频生成
+# NeurIPS 2025: 语音合成与音频生成：speech / audio
 
 - Topic ID: `40`
 - Papers: **46** (0.87%)

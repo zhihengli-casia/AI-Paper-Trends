@@ -1,4 +1,4 @@
-# ECCV 2024: 联邦学习与分布式训练
+# ECCV 2024: 联邦学习与分布式训练：continual / old
 
 - Topic ID: `14`
 - Papers: **38** (1.59%)

@@ -1,4 +1,4 @@
-# IROS 2022: 机器人操作与具身智能
+# IROS 2022: 机器人操作与具身智能：knowledge / imitation
 
 - Topic ID: `12`
 - Papers: **26** (2.16%)

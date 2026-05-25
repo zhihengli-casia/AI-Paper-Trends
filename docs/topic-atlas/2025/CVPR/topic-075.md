@@ -1,4 +1,4 @@
-# CVPR 2025: 视觉语言模型与多模态理解
+# CVPR 2025: 视觉语言模型与多模态理解：distillation / teachers
 
 - Topic ID: `75`
 - Papers: **17** (0.59%)

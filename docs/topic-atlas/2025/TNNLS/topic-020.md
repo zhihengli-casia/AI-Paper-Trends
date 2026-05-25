@@ -1,4 +1,4 @@
-# TNNLS 2025: 多模态融合与跨模态表示
+# TNNLS 2025: 多模态融合与跨模态表示：registration / cross-modality
 
 - Topic ID: `20`
 - Papers: **16** (2.01%)

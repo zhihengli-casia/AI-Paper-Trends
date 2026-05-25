@@ -1,4 +1,4 @@
-# PR 2025: 少样本分类与开放集识别
+# PR 2025: 少样本分类与开放集识别：memory / parameters
 
 - Topic ID: `21`
 - Papers: **22** (1.46%)

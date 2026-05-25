@@ -1,4 +1,4 @@
-# NeurIPS 2025: 扩散生成模型
+# NeurIPS 2025: 扩散生成模型：扩散 / autoregressive
 
 - Topic ID: `72`
 - Papers: **34** (0.64%)

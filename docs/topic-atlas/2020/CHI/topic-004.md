@@ -1,4 +1,4 @@
-# CHI 2020: 机器人遥操作与触觉交互
+# CHI 2020: 机器人遥操作与触觉交互：haptic / interactive
 
 - Topic ID: `4`
 - Papers: **32** (4.32%)

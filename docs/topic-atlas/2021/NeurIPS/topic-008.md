@@ -1,4 +1,4 @@
-# NeurIPS 2021: 随机优化与收敛理论
+# NeurIPS 2021: 随机优化与收敛理论：regression / ridge
 
 - Topic ID: `8`
 - Papers: **45** (1.93%)

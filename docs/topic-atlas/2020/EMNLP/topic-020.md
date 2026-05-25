@@ -1,4 +1,4 @@
-# EMNLP 2020: 机器翻译与跨语言对齐
+# EMNLP 2020: 机器翻译与跨语言对齐：translation / nmt（Topic 020）
 
 - Topic ID: `20`
 - Papers: **17** (2.26%)

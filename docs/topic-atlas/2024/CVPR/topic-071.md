@@ -1,4 +1,4 @@
-# CVPR 2024: slam / mapping / tracking / camera
+# CVPR 2024: 机器人 SLAM 与定位建图：SLAM 与建图
 
 - Topic ID: `71`
 - Papers: **17** (0.63%)

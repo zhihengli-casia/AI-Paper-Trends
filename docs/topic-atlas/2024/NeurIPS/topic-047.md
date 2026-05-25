@@ -1,4 +1,4 @@
-# NeurIPS 2024: 视觉语言模型与多模态理解
+# NeurIPS 2024: 视觉语言模型与多模态理解：clip / vision-language
 
 - Topic ID: `47`
 - Papers: **37** (0.92%)

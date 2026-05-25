@@ -1,4 +1,4 @@
-# ICDE 2025: 扩散生成模型
+# ICDE 2025: 扩散生成模型：community / search
 
 - Topic ID: `23`
 - Papers: **9** (2.31%)

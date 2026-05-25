@@ -1,4 +1,4 @@
-# ACL 2022: 社交媒体与社会计算
+# ACL 2022: 社交媒体与社会计算：toxic / detection
 
 - Topic ID: `22`
 - Papers: **15** (2.14%)

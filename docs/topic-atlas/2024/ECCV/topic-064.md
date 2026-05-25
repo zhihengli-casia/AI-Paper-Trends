@@ -1,4 +1,4 @@
-# ECCV 2024: 行人重识别与人群计数
+# ECCV 2024: 行人重识别与人群计数：camouflaged / cod
 
 - Topic ID: `64`
 - Papers: **16** (0.67%)

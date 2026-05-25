@@ -1,4 +1,4 @@
-# EMNLP 2022: 机器翻译与跨语言对齐
+# EMNLP 2022: 机器翻译与跨语言对齐：non-autoregressive / translation
 
 - Topic ID: `46`
 - Papers: **8** (0.97%)

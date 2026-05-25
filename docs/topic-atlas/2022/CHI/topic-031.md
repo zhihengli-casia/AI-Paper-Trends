@@ -1,4 +1,4 @@
-# CHI 2022: 机器人遥操作与触觉交互
+# CHI 2022: 机器人遥操作与触觉交互：haptic / interaction
 
 - Topic ID: `31`
 - Papers: **10** (1.58%)

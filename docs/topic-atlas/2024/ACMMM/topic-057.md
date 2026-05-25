@@ -1,4 +1,4 @@
-# ACMMM 2024: 情感识别与多模态情绪理解
+# ACMMM 2024: 情感识别与多模态情绪理解：facial / expression
 
 - Topic ID: `57`
 - Papers: **10** (0.87%)

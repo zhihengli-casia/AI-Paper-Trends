@@ -1,4 +1,4 @@
-# CVPR 2025: 医疗健康与临床 AI
+# CVPR 2025: 医疗健康与临床 AI：anatomical / vascular
 
 - Topic ID: `88`
 - Papers: **15** (0.52%)

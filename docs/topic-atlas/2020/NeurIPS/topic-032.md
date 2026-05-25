@@ -1,4 +1,4 @@
-# NeurIPS 2020: 对抗攻击、鲁棒性与安全
+# NeurIPS 2020: 对抗攻击、鲁棒性与安全：contrastive / self-supervised
 
 - Topic ID: `32`
 - Papers: **21** (1.11%)

@@ -1,4 +1,4 @@
-# KDD 2022: 图神经网络与图表示学习
+# KDD 2022: 图神经网络与图表示学习：图神经网络 / graph neural networks
 
 - Topic ID: `12`
 - Papers: **12** (4.74%)

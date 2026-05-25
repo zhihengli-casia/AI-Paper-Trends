@@ -1,4 +1,4 @@
-# NeurIPS 2025: Chain-of-Thought 与大模型推理
+# NeurIPS 2025: Chain-of-Thought 与大模型推理：transformers / length generalization
 
 - Topic ID: `112`
 - Papers: **21** (0.40%)

@@ -1,4 +1,4 @@
-# ICCV 2025: 文生图生成与个性化编辑
+# ICCV 2025: 文生图生成与个性化编辑：style / stylization
 
 - Topic ID: `61`
 - Papers: **19** (0.70%)

@@ -18,7 +18,7 @@
 | [004](topic-004.md) | 图神经网络与节点表示学习 | 21 | 4.24% | 图学习/数据挖掘 | `graph / embedding / semi-supervised / feature` | Low-rank adaptive graph embedding for unsupervised feature extraction |
 | [005](topic-005.md) | 目标检测与开放世界检测 | 20 | 4.04% | 计算机视觉 | `object detection / network / video / attention` | Overview of deep-learning based methods for salient object detection in videos |
 | [006](topic-006.md) | face / recognition / deep / alignment | 19 | 3.84% | 计算机视觉 | `face / recognition / deep / alignment` | Heterogenous output regression network for direct face alignment |
-| [007](topic-007.md) | 图像分割、语义分割与场景解析 | 19 | 3.84% | 计算机视觉 | `probabilistic / homogeneity / segmentation / scene` | TextMountain: Accurate scene text detection via instance segmentation |
+| [007](topic-007.md) | 图像分割、语义分割与场景解析：probabilistic / homogeneity | 19 | 3.84% | 计算机视觉 | `probabilistic / homogeneity / segmentation / scene` | TextMountain: Accurate scene text detection via instance segmentation |
 | [008](topic-008.md) | 视频动作识别与时序定位 | 19 | 3.84% | 计算机视觉 | `action / temporal / recognition / network` | Learning motion representation for real-time spatio-temporal action localization |
 | [009](topic-009.md) | 数据摘要、聚类与原型选择 | 18 | 3.64% | NLP任务 | `clustering / density / nearest / algorithm` | LG: A clustering framework supported by point proximity relations |
 | [010](topic-010.md) | low-rank / tensor / regression / completion | 18 | 3.64% | 计算机视觉 | `low-rank / tensor / regression / completion` | Exponential sparsity preserving projection with applications to image recognition |
@@ -36,7 +36,7 @@
 | [022](topic-022.md) | 多视图聚类与图学习 | 12 | 2.42% | 计算机视觉 | `clustering / spectral / subspace / matrix factorization` | Multi-view subspace clustering via simultaneously learning the representation tensor and affinity matrix |
 | [023](topic-023.md) | pr pr / time / family / relationship | 11 | 2.22% | 其他/交叉主题 | `pr pr / time / family / relationship` | 인플루언서 마케팅과 PR전략 |
 | [024](topic-024.md) | 领域自适应与迁移学习 | 11 | 2.22% | LLM/语言模型 | `domain / mml / adaptation / unsupervised` | Challenging tough samples in unsupervised domain adaptation |
-| [025](topic-025.md) | 图像分割、语义分割与场景解析 | 11 | 2.22% | 计算机视觉 | `segmentation / image / adaptation / automatic` | Scale variance minimization for unsupervised domain adaptation in image segmentation |
+| [025](topic-025.md) | 图像分割、语义分割与场景解析：segmentation / image | 11 | 2.22% | 计算机视觉 | `segmentation / image / adaptation / automatic` | Scale variance minimization for unsupervised domain adaptation in image segmentation |
 | [026](topic-026.md) | image / prior / representation / sparse | 10 | 2.02% | 计算机视觉 | `image / prior / representation / sparse` | Joint image deblurring and matching with feature-based sparse representation prior |
 | [027](topic-027.md) | 深度估计与立体匹配 | 10 | 2.02% | 计算机视觉 | `template / problems / strategy / super-resolution` | Hierarchical dense recursive network for image super-resolution |
 | [028](topic-028.md) | chinese / handwritten / recognition / documents | 10 | 2.02% | 强化学习/决策 | `chinese / handwritten / recognition / documents` | Deep Matching Network for Handwritten Chinese Character Recognition |

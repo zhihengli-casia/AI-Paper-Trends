@@ -1,4 +1,4 @@
-# EMNLP 2024: 多语言建模与跨语言迁移
+# EMNLP 2024: 多语言建模与跨语言迁移：neurons / activation
 
 - Topic ID: `32`
 - Papers: **17** (1.34%)

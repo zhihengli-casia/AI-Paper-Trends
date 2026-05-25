@@ -1,4 +1,4 @@
-# ACMMM 2025: 文生图生成与个性化编辑
+# ACMMM 2025: 文生图生成与个性化编辑：t2i / harmful
 
 - Topic ID: `46`
 - Papers: **11** (0.88%)

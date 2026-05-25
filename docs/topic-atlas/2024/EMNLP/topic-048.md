@@ -1,4 +1,4 @@
-# EMNLP 2024: 多语言建模与跨语言迁移
+# EMNLP 2024: 多语言建模与跨语言迁移：alignment / preference
 
 - Topic ID: `48`
 - Papers: **13** (1.03%)

@@ -1,4 +1,4 @@
-# ICML 2023: 凸/非凸优化理论
+# ICML 2023: 凸/非凸优化理论：convex / gradient
 
 - Topic ID: `1`
 - Papers: **55** (3.01%)

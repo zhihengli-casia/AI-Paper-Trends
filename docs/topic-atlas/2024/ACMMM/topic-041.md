@@ -1,4 +1,4 @@
-# ACMMM 2024: NeRF 与神经渲染
+# ACMMM 2024: NeRF 与神经渲染：radiance / views
 
 - Topic ID: `41`
 - Papers: **13** (1.13%)

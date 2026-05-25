@@ -1,4 +1,4 @@
-# NeurIPS 2025: 时间序列建模与预测
+# NeurIPS 2025: 时间序列建模与预测：anomaly / ood
 
 - Topic ID: `39`
 - Papers: **46** (0.87%)

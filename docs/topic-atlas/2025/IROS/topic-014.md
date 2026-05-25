@@ -1,4 +1,4 @@
-# IROS 2025: LiDAR 点云与 3D 感知
+# IROS 2025: LiDAR 点云与 3D 感知：LiDAR 语义分割
 
 - Topic ID: `14`
 - Papers: **30** (1.52%)

@@ -1,4 +1,4 @@
-# RSS 2023: 机器人操作与抓取
+# RSS 2023: 机器人操作与抓取：objects / simulation
 
 - Topic ID: `6`
 - Papers: **9** (8.18%)

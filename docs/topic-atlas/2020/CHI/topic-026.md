@@ -1,4 +1,4 @@
-# CHI 2020: 多模态学习与跨模态理解
+# CHI 2020: 多模态学习与跨模态理解：visualization / documents
 
 - Topic ID: `26`
 - Papers: **15** (2.03%)

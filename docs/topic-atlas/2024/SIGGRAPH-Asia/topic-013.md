@@ -1,4 +1,4 @@
-# SIGGRAPH-Asia 2024: NeRF 与神经渲染
+# SIGGRAPH-Asia 2024: NeRF 与神经渲染：fields / view
 
 - Topic ID: `13`
 - Papers: **6** (4.26%)

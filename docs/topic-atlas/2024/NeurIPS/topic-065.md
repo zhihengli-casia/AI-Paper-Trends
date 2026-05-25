@@ -1,4 +1,4 @@
-# NeurIPS 2024: 强化学习算法与理论
+# NeurIPS 2024: 强化学习算法与理论：multi-agent / 智能体
 
 - Topic ID: `65`
 - Papers: **29** (0.72%)

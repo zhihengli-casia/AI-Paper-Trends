@@ -1,4 +1,4 @@
-# AAAI 2020: 机器翻译与跨语言对齐
+# AAAI 2020: 机器翻译与跨语言对齐：translation / nmt
 
 - Topic ID: `1`
 - Papers: **42** (2.62%)

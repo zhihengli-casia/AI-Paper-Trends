@@ -1,4 +1,4 @@
-# AAAI 2023: 语义分割与场景解析
+# AAAI 2023: 语义分割与场景解析：segmentation / 语义（Topic 077）
 
 - Topic ID: `77`
 - Papers: **10** (0.64%)

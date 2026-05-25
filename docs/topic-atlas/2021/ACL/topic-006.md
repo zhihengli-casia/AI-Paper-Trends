@@ -1,4 +1,4 @@
-# ACL 2021: 机器翻译与跨语言对齐
+# ACL 2021: 机器翻译与跨语言对齐：translation / neural machine
 
 - Topic ID: `6`
 - Papers: **25** (3.52%)

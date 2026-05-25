@@ -1,4 +1,4 @@
-# AAAI 2026: 机器人操作与抓取
+# AAAI 2026: 机器人操作与抓取：manipulation / 抓取
 
 - Topic ID: `65`
 - Papers: **29** (0.70%)

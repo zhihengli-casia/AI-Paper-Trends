@@ -1,4 +1,4 @@
-# AAAI 2026: 多模态大模型与视觉语言推理
+# AAAI 2026: 多模态大模型与视觉语言推理：hallucination / lvlms
 
 - Topic ID: `94`
 - Papers: **20** (0.48%)

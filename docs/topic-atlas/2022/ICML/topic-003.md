@@ -1,4 +1,4 @@
-# ICML 2022: 凸/非凸优化理论
+# ICML 2022: 凸/非凸优化理论：accelerated / convex
 
 - Topic ID: `3`
 - Papers: **35** (2.84%)

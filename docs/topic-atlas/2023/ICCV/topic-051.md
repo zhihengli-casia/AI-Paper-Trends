@@ -1,4 +1,4 @@
-# ICCV 2023: 图像复原与超分辨率
+# ICCV 2023: 图像复原与超分辨率：super-resolution / animation
 
 - Topic ID: `51`
 - Papers: **20** (0.93%)

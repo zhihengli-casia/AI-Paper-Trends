@@ -1,4 +1,4 @@
-# CVPR 2022: NeRF 与神经渲染
+# CVPR 2022: NeRF 与神经渲染：rendering / hair
 
 - Topic ID: `56`
 - Papers: **17** (0.82%)

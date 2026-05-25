@@ -1,4 +1,4 @@
-# SIGIR 2024: 搜索排序与相关性建模
+# SIGIR 2024: 搜索排序与相关性建模：排序 / allocation
 
 - Topic ID: `7`
 - Papers: **11** (5.14%)

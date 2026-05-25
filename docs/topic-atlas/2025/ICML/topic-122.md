@@ -1,4 +1,4 @@
-# ICML 2025: 领域自适应与迁移学习
+# ICML 2025: 领域自适应与迁移学习：tta / test-time adaptation
 
 - Topic ID: `122`
 - Papers: **14** (0.42%)

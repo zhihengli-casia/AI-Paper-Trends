@@ -1,4 +1,4 @@
-# EMNLP 2025: RAG 与检索增强生成
+# EMNLP 2025: RAG 与检索增强生成：RAG / search
 
 - Topic ID: `25`
 - Papers: **22** (1.22%)

@@ -1,4 +1,4 @@
-# AAAI 2026: Conformal Prediction 与不确定性校准
+# AAAI 2026: Conformal Prediction 与不确定性校准：conformal / 长尾
 
 - Topic ID: `26`
 - Papers: **50** (1.21%)

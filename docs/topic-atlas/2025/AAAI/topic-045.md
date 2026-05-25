@@ -1,4 +1,4 @@
-# AAAI 2025: 目标检测与开放世界检测
+# AAAI 2025: 目标检测与开放世界检测：mamba / object detection
 
 - Topic ID: `45`
 - Papers: **26** (0.86%)

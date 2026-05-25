@@ -1,4 +1,4 @@
-# ICML 2022: 在线学习与 regret 理论
+# ICML 2022: 在线学习与 regret 理论：bandits / regret
 
 - Topic ID: `25`
 - Papers: **19** (1.54%)

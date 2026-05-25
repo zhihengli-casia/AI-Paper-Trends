@@ -1,4 +1,4 @@
-# SIGGRAPH-Asia 2025: NeRF 与神经渲染
+# SIGGRAPH-Asia 2025: NeRF 与神经渲染：高斯表示 / view synthesis
 
 - Topic ID: `8`
 - Papers: **11** (5.73%)

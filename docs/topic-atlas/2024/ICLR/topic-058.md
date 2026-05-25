@@ -1,4 +1,4 @@
-# ICLR 2024: 强化学习算法与理论
+# ICLR 2024: 强化学习算法与理论：marl / multi-agent
 
 - Topic ID: `58`
 - Papers: **18** (0.80%)

@@ -1,4 +1,4 @@
-# ICML 2022: 对抗攻击、鲁棒性与安全
+# ICML 2022: 对抗攻击、鲁棒性与安全：adversarial / attacks
 
 - Topic ID: `7`
 - Papers: **32** (2.60%)

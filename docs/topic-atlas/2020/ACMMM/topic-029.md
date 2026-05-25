@@ -1,4 +1,4 @@
-# ACMMM 2020: 多模态学习与跨模态理解
+# ACMMM 2020: 多模态学习与跨模态理解：inpainting / description
 
 - Topic ID: `29`
 - Papers: **8** (1.69%)

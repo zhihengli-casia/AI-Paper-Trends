@@ -1,4 +1,4 @@
-# IROS 2020: 多机器人路径规划与协同导航
+# IROS 2020: 多机器人路径规划与协同导航：multi-robot / teams
 
 - Topic ID: `42`
 - Papers: **14** (1.26%)

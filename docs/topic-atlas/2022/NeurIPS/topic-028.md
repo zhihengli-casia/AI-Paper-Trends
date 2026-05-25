@@ -1,4 +1,4 @@
-# NeurIPS 2022: 图像复原与超分辨率
+# NeurIPS 2022: 图像复原与超分辨率：vits / vision
 
 - Topic ID: `28`
 - Papers: **31** (1.16%)

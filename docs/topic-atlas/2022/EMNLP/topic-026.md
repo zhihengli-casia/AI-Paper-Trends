@@ -1,4 +1,4 @@
-# EMNLP 2022: 结构化解析与表示学习
+# EMNLP 2022: 结构化解析与表示学习：compositional / recipe
 
 - Topic ID: `26`
 - Papers: **15** (1.81%)

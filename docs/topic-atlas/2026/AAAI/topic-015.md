@@ -1,4 +1,4 @@
-# AAAI 2026: 多模态大模型与视觉语言推理
+# AAAI 2026: 多模态大模型与视觉语言推理：token / pruning
 
 - Topic ID: `15`
 - Papers: **66** (1.59%)

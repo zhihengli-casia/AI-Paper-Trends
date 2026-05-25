@@ -1,4 +1,4 @@
-# ACMMM 2025: 视觉语言模型与多模态理解
+# ACMMM 2025: 视觉语言模型与多模态理解：hallucination / lvlms
 
 - Topic ID: `16`
 - Papers: **27** (2.16%)

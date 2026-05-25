@@ -1,4 +1,4 @@
-# ICML 2024: 时间序列建模与预测
+# ICML 2024: 时间序列建模与预测：snns / spike
 
 - Topic ID: `58`
 - Papers: **21** (0.80%)

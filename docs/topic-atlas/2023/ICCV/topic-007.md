@@ -1,4 +1,4 @@
-# ICCV 2023: 视频动作生成与运动控制
+# ICCV 2023: 视频动作生成与运动控制：tracking / multi-object
 
 - Topic ID: `7`
 - Papers: **43** (1.99%)

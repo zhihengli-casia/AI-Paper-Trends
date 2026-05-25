@@ -1,4 +1,4 @@
-# ACL 2020: 机器翻译与跨语言对齐
+# ACL 2020: 机器翻译与跨语言对齐：speech / curriculum
 
 - Topic ID: `36`
 - Papers: **10** (1.29%)

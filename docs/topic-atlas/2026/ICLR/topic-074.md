@@ -1,4 +1,4 @@
-# ICLR 2026: 扩散生成模型
+# ICLR 2026: 扩散生成模型：watermarking / fingerprinting
 
 - Topic ID: `74`
 - Papers: **35** (0.65%)

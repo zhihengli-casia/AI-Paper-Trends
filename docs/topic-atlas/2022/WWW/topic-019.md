@@ -1,4 +1,4 @@
-# WWW 2022: 图神经网络与图表示学习
+# WWW 2022: 图神经网络与图表示学习：recommendations / graph neural
 
 - Topic ID: `19`
 - Papers: **9** (2.47%)

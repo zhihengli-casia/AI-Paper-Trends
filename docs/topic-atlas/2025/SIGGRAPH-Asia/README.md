@@ -18,8 +18,8 @@
 | [004](topic-004.md) | neural / rendering / fields / autoregressive | 14 | 7.29% | 计算机视觉 | `neural / rendering / fields / autoregressive` | Adaptive Neural Kernels for Gradient-domain Rendering |
 | [005](topic-005.md) | 高斯表示 / large-scale / transfer / videos | 13 | 6.77% | 计算机视觉 | `gaussian / large-scale / transfer / videos` | TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction |
 | [006](topic-006.md) | 视觉语言模型与多模态理解 | 12 | 6.25% | 多模态/VLM | `semantic / representation / vlm-assisted / shape` | Surface-Aware Distilled 3D Semantic Features |
-| [007](topic-007.md) | NeRF 与神经渲染 | 12 | 6.25% | 系统/效率/压缩 | `rendering / reconstruction / object / differentiable` | Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields |
-| [008](topic-008.md) | NeRF 与神经渲染 | 11 | 5.73% | 理论/优化 | `gaussian / view synthesis / dynamic / feature` | Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy |
+| [007](topic-007.md) | NeRF 与神经渲染：rendering / reconstruction | 12 | 6.25% | 系统/效率/压缩 | `rendering / reconstruction / object / differentiable` | Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields |
+| [008](topic-008.md) | NeRF 与神经渲染：高斯表示 / view synthesis | 11 | 5.73% | 理论/优化 | `gaussian / view synthesis / dynamic / feature` | Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy |
 | [009](topic-009.md) | 3D Avatar 与人脸头部建模 | 11 | 5.73% | 计算机视觉 | `object / generating / single / video` | FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion |
 | [010](topic-010.md) | 视频动作生成与运动控制 | 11 | 5.73% | 计算机视觉 | `video / generation / camera / precise` | CamCloneMaster: Enabling Reference-based Camera Control for Video Generation |
 | [011](topic-011.md) | scene reconstruction / images / view / single-shot | 10 | 5.21% | 生成模型 | `scene reconstruction / images / view / single-shot` | Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images |

@@ -1,4 +1,4 @@
-# AAAI 2023: 机器翻译与跨语言对齐
+# AAAI 2023: 机器翻译与跨语言对齐：autoregressive / 医学AI
 
 - Topic ID: `81`
 - Papers: **9** (0.57%)

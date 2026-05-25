@@ -1,4 +1,4 @@
-# NeurIPS 2020: 在线学习与 regret 理论
+# NeurIPS 2020: 在线学习与 regret 理论：games / equilibria
 
 - Topic ID: `12`
 - Papers: **33** (1.74%)

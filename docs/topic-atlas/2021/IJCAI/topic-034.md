@@ -1,4 +1,4 @@
-# IJCAI 2021: 推荐系统与用户建模
+# IJCAI 2021: 推荐系统与用户建模：molecular / interaction
 
 - Topic ID: `34`
 - Papers: **9** (1.25%)

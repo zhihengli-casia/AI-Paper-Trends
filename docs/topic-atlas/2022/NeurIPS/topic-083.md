@@ -1,4 +1,4 @@
-# NeurIPS 2022: 多智能体协作与规划
+# NeurIPS 2022: 多智能体协作与规划：智能体 / performative
 
 - Topic ID: `83`
 - Papers: **15** (0.56%)

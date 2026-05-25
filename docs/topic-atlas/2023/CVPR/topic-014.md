@@ -1,4 +1,4 @@
-# CVPR 2023: 机器人视觉目标检测与域适应
+# CVPR 2023: 机器人视觉目标检测与域适应：detr / object detection
 
 - Topic ID: `14`
 - Papers: **35** (1.49%)

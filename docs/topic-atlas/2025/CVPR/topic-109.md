@@ -1,4 +1,4 @@
-# CVPR 2025: 自动驾驶感知与世界模型
+# CVPR 2025: 自动驾驶感知与世界模型：occupancy / scene flow
 
 - Topic ID: `109`
 - Papers: **12** (0.42%)

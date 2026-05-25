@@ -1,4 +1,4 @@
-# CVPR 2025: 视觉语言模型与多模态理解
+# CVPR 2025: 视觉语言模型与多模态理解：compositional / captions
 
 - Topic ID: `56`
 - Papers: **23** (0.80%)

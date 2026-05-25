@@ -1,4 +1,4 @@
-# PR 2026: 图像复原与超分辨率
+# PR 2026: 图像复原与超分辨率：image / restoration
 
 - Topic ID: `49`
 - Papers: **9** (0.97%)

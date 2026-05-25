@@ -1,4 +1,4 @@
-# ICCV 2021: 多模态学习与跨模态理解
+# ICCV 2021: 多模态学习与跨模态理解：distillation / student
 
 - Topic ID: `29`
 - Papers: **21** (1.30%)

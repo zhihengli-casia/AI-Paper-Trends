@@ -1,4 +1,4 @@
-# NeurIPS 2021: 随机优化与收敛理论
+# NeurIPS 2021: 随机优化与收敛理论：sgd / bounds
 
 - Topic ID: `57`
 - Papers: **17** (0.73%)

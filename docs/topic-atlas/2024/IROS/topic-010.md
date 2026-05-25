@@ -1,4 +1,4 @@
-# IROS 2024: 机器人操作与具身智能
+# IROS 2024: 机器人操作与具身智能：manipulators / joints
 
 - Topic ID: `10`
 - Papers: **32** (2.03%)

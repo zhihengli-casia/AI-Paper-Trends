@@ -1,4 +1,4 @@
-# AAAI 2024: 推荐系统与用户建模
+# AAAI 2024: 推荐系统与用户建模：human / reinforcement learning
 
 - Topic ID: `57`
 - Papers: **19** (0.82%)

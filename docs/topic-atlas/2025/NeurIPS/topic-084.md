@@ -1,4 +1,4 @@
-# NeurIPS 2025: LoRA 与参数高效微调
+# NeurIPS 2025: LoRA 与参数高效微调：quantization / bit
 
 - Topic ID: `84`
 - Papers: **32** (0.61%)

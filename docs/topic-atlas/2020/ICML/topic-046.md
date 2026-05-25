@@ -1,4 +1,4 @@
-# ICML 2020: 少样本分类与开放集识别
+# ICML 2020: 少样本分类与开放集识别：meta-learning / 少样本
 
 - Topic ID: `46`
 - Papers: **12** (1.11%)

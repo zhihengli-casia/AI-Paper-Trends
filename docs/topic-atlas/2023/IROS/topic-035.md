@@ -1,4 +1,4 @@
-# IROS 2023: 机器人操作与抓取
+# IROS 2023: 机器人操作与抓取：assembly / planning
 
 - Topic ID: `35`
 - Papers: **17** (1.44%)

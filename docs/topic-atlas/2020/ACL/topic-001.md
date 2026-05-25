@@ -1,4 +1,4 @@
-# ACL 2020: 社交媒体与社会计算
+# ACL 2020: 社交媒体与社会计算：bias / social
 
 - Topic ID: `1`
 - Papers: **39** (5.01%)

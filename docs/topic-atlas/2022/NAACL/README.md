@@ -23,7 +23,7 @@
 | [009](topic-009.md) | 社交媒体与社会计算 | 18 | 4.07% | HCI/社会计算 | `news / media / detection / political` | TWEETSPIN : Fine-grained Propaganda Detection in Social Media Using Multi-View Representations |
 | [010](topic-010.md) | 多语言建模与跨语言迁移 | 16 | 3.62% | NLP任务 | `cross-lingual / languages / transfer / word` | WECHSEL : Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models |
 | [011](topic-011.md) | commonsense / 推理 / kgs / symbolic | 16 | 3.62% | LLM/语言模型 | `commonsense / reasoning / kgs / symbolic` | C o S e-Co: Text Conditioned Generative C ommon S ense Contextualizer |
-| [012](topic-012.md) | 摘要生成与信息压缩 | 16 | 3.62% | NLP任务 | `summarization / summaries / automatic / essay` | Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics |
+| [012](topic-012.md) | 摘要生成与信息压缩：summarization / summaries | 16 | 3.62% | NLP任务 | `summarization / summaries / automatic / essay` | Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics |
 | [013](topic-013.md) | 语音理解、识别与交互 | 16 | 3.62% | 语音/音频/音乐 | `hate / speech / dark / toxic` | Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection |
 | [014](topic-014.md) | hyperbolic / amr / coreference / noun | 15 | 3.39% | 其他/交叉主题 | `hyperbolic / amr / coreference / noun` | Improving Constituent Representation with Hypertree Neural Networks |
 | [015](topic-015.md) | 医疗健康与临床 AI | 14 | 3.17% | AI4Science/医疗 | `explanations / clinical / rationales / mental` | Explaining Why: How Instructions and User Interfaces Impact Annotator Rationales When Labeling Text Data |
@@ -34,4 +34,4 @@
 | [020](topic-020.md) | event / extraction / arguments / 图学习 | 11 | 2.49% | NLP任务 | `event / extraction / arguments / graph` | Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies |
 | [021](topic-021.md) | 句法解析与语言结构建模 | 11 | 2.49% | NLP任务 | `probing / syntactic / syntax / probes` | Linguistic Frameworks Go Toe-to-Toe at Neuro-Symbolic Language Modeling |
 | [022](topic-022.md) | 公平性、偏见与可信 AI | 11 | 2.49% | 可信/安全/公平 | `bias / gender / fairness / pronouns` | Benchmarking Intersectional Biases in NLP |
-| [023](topic-023.md) | 摘要生成与信息压缩 | 10 | 2.26% | NLP任务 | `factual / summarization / dialogue / consistency` | Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization |
+| [023](topic-023.md) | 摘要生成与信息压缩：factual / summarization | 10 | 2.26% | NLP任务 | `factual / summarization / dialogue / consistency` | Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization |

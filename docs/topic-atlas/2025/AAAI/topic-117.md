@@ -1,4 +1,4 @@
-# AAAI 2025: 扩散生成模型
+# AAAI 2025: 扩散生成模型：influence / social
 
 - Topic ID: `117`
 - Papers: **10** (0.33%)

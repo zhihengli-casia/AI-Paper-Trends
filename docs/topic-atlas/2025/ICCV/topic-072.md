@@ -1,4 +1,4 @@
-# ICCV 2025: 点云表示与 3D 感知
+# ICCV 2025: 点云表示与 3D 感知：point / cloud
 
 - Topic ID: `72`
 - Papers: **17** (0.63%)

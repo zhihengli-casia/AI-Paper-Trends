@@ -1,4 +1,4 @@
-# AAAI 2026: 图像分割、语义分割与场景解析
+# AAAI 2026: 图像分割、语义分割与场景解析：remote sensing / change detection
 
 - Topic ID: `55`
 - Papers: **33** (0.80%)

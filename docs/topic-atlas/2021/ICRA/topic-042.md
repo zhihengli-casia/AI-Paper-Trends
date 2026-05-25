@@ -1,4 +1,4 @@
-# ICRA 2021: 足式机器人与运动控制
+# ICRA 2021: 足式机器人与运动控制：legged / design
 
 - Topic ID: `42`
 - Papers: **16** (1.17%)

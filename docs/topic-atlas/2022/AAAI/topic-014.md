@@ -1,4 +1,4 @@
-# AAAI 2022: 对抗攻击、鲁棒性与安全
+# AAAI 2022: 对抗攻击、鲁棒性与安全：adversarial / attacks
 
 - Topic ID: `14`
 - Papers: **24** (1.83%)

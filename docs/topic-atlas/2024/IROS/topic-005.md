@@ -1,4 +1,4 @@
-# IROS 2024: 机器人操作与抓取
+# IROS 2024: 机器人操作与抓取：manipulation / imitation
 
 - Topic ID: `5`
 - Papers: **35** (2.23%)

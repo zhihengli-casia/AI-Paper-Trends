@@ -1,4 +1,4 @@
-# IROS 2025: 视觉导航与语义地图
+# IROS 2025: 视觉导航与语义地图：visual-inertial / odometry
 
 - Topic ID: `48`
 - Papers: **17** (0.86%)

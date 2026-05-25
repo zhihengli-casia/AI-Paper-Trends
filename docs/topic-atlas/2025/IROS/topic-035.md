@@ -1,4 +1,4 @@
-# IROS 2025: inverse kinematics / manipulators / parallel / redundant
+# IROS 2025: 机器人逆运动学与机械臂控制
 
 - Topic ID: `35`
 - Papers: **22** (1.11%)

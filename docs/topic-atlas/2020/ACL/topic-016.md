@@ -1,4 +1,4 @@
-# ACL 2020: 医疗健康与临床 AI
+# ACL 2020: 医疗健康与临床 AI：reading / comprehension
 
 - Topic ID: `16`
 - Papers: **17** (2.19%)

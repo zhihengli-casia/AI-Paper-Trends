@@ -1,4 +1,4 @@
-# PR 2024: 少样本分类与开放集识别
+# PR 2024: 少样本分类与开放集识别：image classification / deep metric
 
 - Topic ID: `29`
 - Papers: **16** (1.66%)

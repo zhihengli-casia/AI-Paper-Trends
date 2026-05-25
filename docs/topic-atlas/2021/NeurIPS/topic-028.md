@@ -1,4 +1,4 @@
-# NeurIPS 2021: 强化学习策略与奖励建模
+# NeurIPS 2021: 强化学习策略与奖励建模：regret / mdps
 
 - Topic ID: `28`
 - Papers: **28** (1.20%)

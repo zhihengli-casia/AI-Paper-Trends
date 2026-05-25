@@ -1,4 +1,4 @@
-# CVPR 2024: 扩散生成模型
+# CVPR 2024: 扩散生成模型：materials / lighting
 
 - Topic ID: `13`
 - Papers: **38** (1.40%)

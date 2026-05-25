@@ -1,4 +1,4 @@
-# NAACL 2024: 摘要生成与信息压缩
+# NAACL 2024: 摘要生成与信息压缩：factual / coherence
 
 - Topic ID: `30`
 - Papers: **9** (1.60%)

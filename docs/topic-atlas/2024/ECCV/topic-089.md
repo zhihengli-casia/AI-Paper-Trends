@@ -1,4 +1,4 @@
-# ECCV 2024: 扩散生成模型
+# ECCV 2024: 扩散生成模型：kernel / super-resolution
 
 - Topic ID: `89`
 - Papers: **12** (0.50%)

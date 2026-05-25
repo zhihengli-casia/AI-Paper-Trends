@@ -1,4 +1,4 @@
-# ACMMM 2020: 结构化解析与表示学习
+# ACMMM 2020: 结构化解析与表示学习：pose / estimation
 
 - Topic ID: `25`
 - Papers: **10** (2.11%)

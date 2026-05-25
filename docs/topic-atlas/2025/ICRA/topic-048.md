@@ -1,4 +1,4 @@
-# ICRA 2025: 机器人 SLAM 与定位建图
+# ICRA 2025: 机器人 SLAM 与定位建图：place recognition / LiDAR
 
 - Topic ID: `48`
 - Papers: **15** (0.94%)

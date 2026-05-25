@@ -1,4 +1,4 @@
-# NAACL 2024: 摘要生成与信息压缩
+# NAACL 2024: 摘要生成与信息压缩：event / moral
 
 - Topic ID: `4`
 - Papers: **27** (4.80%)

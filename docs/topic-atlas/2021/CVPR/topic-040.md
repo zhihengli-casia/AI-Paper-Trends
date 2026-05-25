@@ -1,4 +1,4 @@
-# CVPR 2021: 目标检测与开放世界检测
+# CVPR 2021: 目标检测与开放世界检测：object detection / semi-supervised object
 
 - Topic ID: `40`
 - Papers: **17** (1.02%)

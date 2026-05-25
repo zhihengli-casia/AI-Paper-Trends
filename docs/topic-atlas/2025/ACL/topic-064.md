@@ -1,4 +1,4 @@
-# ACL 2025: 社交媒体与社会计算
+# ACL 2025: 社交媒体与社会计算：political / bias
 
 - Topic ID: `64`
 - Papers: **13** (0.77%)

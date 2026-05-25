@@ -1,4 +1,4 @@
-# ICML 2020: 随机优化与收敛理论
+# ICML 2020: 随机优化与收敛理论：sgd / stochastic gradient
 
 - Topic ID: `15`
 - Papers: **22** (2.03%)

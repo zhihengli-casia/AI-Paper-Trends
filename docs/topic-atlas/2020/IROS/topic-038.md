@@ -1,4 +1,4 @@
-# IROS 2020: 机器人遥操作与触觉交互
+# IROS 2020: 机器人遥操作与触觉交互：teleoperation / reality
 
 - Topic ID: `38`
 - Papers: **15** (1.35%)

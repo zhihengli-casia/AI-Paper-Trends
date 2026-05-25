@@ -1,4 +1,4 @@
-# ICML 2025: LoRA 与参数高效微调
+# ICML 2025: LoRA 与参数高效微调：文生图
 
 - Topic ID: `81`
 - Papers: **19** (0.57%)

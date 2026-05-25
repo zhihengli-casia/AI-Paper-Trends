@@ -1,4 +1,4 @@
-# CVPR 2022: 行人重识别与人群计数
+# CVPR 2022: 行人重识别与人群计数：person / re-identification
 
 - Topic ID: `34`
 - Papers: **23** (1.11%)

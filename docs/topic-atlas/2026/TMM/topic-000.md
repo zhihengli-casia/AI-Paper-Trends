@@ -1,4 +1,4 @@
-# TMM 2026: 图像分割、语义分割与场景解析
+# TMM 2026: 图像分割、语义分割与场景解析：image fusion / infrared
 
 - Topic ID: `0`
 - Papers: **51** (8.59%)

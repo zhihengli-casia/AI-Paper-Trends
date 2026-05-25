@@ -1,4 +1,4 @@
-# NeurIPS 2021: 强化学习算法与理论
+# NeurIPS 2021: 强化学习算法与理论：reinforcement learning / imitation
 
 - Topic ID: `22`
 - Papers: **32** (1.37%)

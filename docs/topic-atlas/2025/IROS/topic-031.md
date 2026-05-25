@@ -1,4 +1,4 @@
-# IROS 2025: tactile / sensor / vision-based / magnetic
+# IROS 2025: 机器人触觉传感与力感知
 
 - Topic ID: `31`
 - Papers: **23** (1.16%)

@@ -1,4 +1,4 @@
-# AAAI 2021: 领域自适应与迁移学习
+# AAAI 2021: 领域自适应与迁移学习：person / re-identification
 
 - Topic ID: `29`
 - Papers: **20** (1.22%)

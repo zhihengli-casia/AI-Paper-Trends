@@ -1,4 +1,4 @@
-# SIGGRAPH 2025: 扩散生成模型
+# SIGGRAPH 2025: 扩散生成模型：扩散编辑
 
 - Topic ID: `7`
 - Papers: **10** (6.21%)

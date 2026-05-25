@@ -1,4 +1,4 @@
-# ICRA 2024: NeRF 与神经渲染
+# ICRA 2024: NeRF 与神经渲染：radiance / fields
 
 - Topic ID: `25`
 - Papers: **23** (1.32%)

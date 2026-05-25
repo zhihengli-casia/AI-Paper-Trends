@@ -1,4 +1,4 @@
-# CVPR 2025: 图像复原与超分辨率
+# CVPR 2025: 图像复原与超分辨率：super-resolution / perceptual
 
 - Topic ID: `60`
 - Papers: **21** (0.73%)

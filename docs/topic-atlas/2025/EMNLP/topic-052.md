@@ -1,4 +1,4 @@
-# EMNLP 2025: 长上下文建模与压缩
+# EMNLP 2025: 长上下文建模与压缩：transformer / softmax
 
 - Topic ID: `52`
 - Papers: **16** (0.88%)

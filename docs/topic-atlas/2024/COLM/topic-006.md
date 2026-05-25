@@ -1,4 +1,4 @@
-# COLM 2024: Mamba 与状态空间视觉模型
+# COLM 2024: Mamba 与状态空间视觉模型：causal / mental
 
 - Topic ID: `6`
 - Papers: **20** (6.69%)

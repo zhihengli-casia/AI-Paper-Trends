@@ -1,4 +1,4 @@
-# NeurIPS 2024: 对抗攻击、鲁棒性与安全
+# NeurIPS 2024: 对抗攻击、鲁棒性与安全：adversarial / attacks
 
 - Topic ID: `14`
 - Papers: **60** (1.49%)

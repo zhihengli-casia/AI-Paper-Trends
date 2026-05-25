@@ -1,4 +1,4 @@
-# CHI 2020: 社交媒体与社会计算
+# CHI 2020: 社交媒体与社会计算：social / participatory
 
 - Topic ID: `3`
 - Papers: **36** (4.86%)

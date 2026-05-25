@@ -1,4 +1,4 @@
-# ACL 2020: 社交媒体与社会计算
+# ACL 2020: 社交媒体与社会计算：stance / political
 
 - Topic ID: `34`
 - Papers: **11** (1.41%)

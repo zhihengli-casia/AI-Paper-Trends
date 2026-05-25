@@ -1,4 +1,4 @@
-# ICCV 2025: 图像分割、语义分割与场景解析
+# ICCV 2025: 图像分割、语义分割与场景解析：referring / expression
 
 - Topic ID: `98`
 - Papers: **12** (0.44%)

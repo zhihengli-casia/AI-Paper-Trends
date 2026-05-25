@@ -1,4 +1,4 @@
-# ACL 2025: 多语言建模与跨语言迁移
+# ACL 2025: 多语言建模与跨语言迁移：cultural / languages
 
 - Topic ID: `7`
 - Papers: **35** (2.06%)

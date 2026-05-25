@@ -1,4 +1,4 @@
-# ICML 2020: 凸/非凸优化理论
+# ICML 2020: 凸/非凸优化理论：convex / coordinate
 
 - Topic ID: `40`
 - Papers: **13** (1.20%)

@@ -1,4 +1,4 @@
-# ICRA 2022: continuum / manipulator / sliding / kinematics
+# ICRA 2022: 连续体机械臂与柔顺控制
 
 - Topic ID: `36`
 - Papers: **13** (1.41%)

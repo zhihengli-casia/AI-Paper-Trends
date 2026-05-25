@@ -1,4 +1,4 @@
-# ICML 2022: 强化学习与 MDP 理论
+# ICML 2022: 强化学习与 MDP 理论：regret / mdps
 
 - Topic ID: `15`
 - Papers: **26** (2.11%)

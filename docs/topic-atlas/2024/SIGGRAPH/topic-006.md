@@ -1,4 +1,4 @@
-# SIGGRAPH 2024: 扩散生成模型
+# SIGGRAPH 2024: 扩散生成模型：扩散 / 运动建模
 
 - Topic ID: `6`
 - Papers: **10** (8.26%)

@@ -1,4 +1,4 @@
-# IROS 2020: 规划搜索与决策推理
+# IROS 2020: 规划搜索与决策推理：运动控制 / motion planning
 
 - Topic ID: `31`
 - Papers: **17** (1.52%)

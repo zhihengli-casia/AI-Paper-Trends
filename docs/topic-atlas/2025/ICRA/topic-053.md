@@ -1,4 +1,4 @@
-# ICRA 2025: 机器人操作与具身智能
+# ICRA 2025: 机器人操作与具身智能：assembly / digital
 
 - Topic ID: `53`
 - Papers: **13** (0.82%)

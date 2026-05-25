@@ -1,4 +1,4 @@
-# IROS 2025: 机器人触觉感知与操作
+# IROS 2025: 机器人触觉感知与操作：manipulation / in-hand
 
 - Topic ID: `83`
 - Papers: **11** (0.56%)

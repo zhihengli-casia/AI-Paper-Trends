@@ -1,4 +1,4 @@
-# ICLR 2026: 扩散生成模型
+# ICLR 2026: 扩散生成模型：扩散 / inverse problems
 
 - Topic ID: `82`
 - Papers: **32** (0.60%)

@@ -1,4 +1,4 @@
-# ICLR 2022: 强化学习策略与奖励建模
+# ICLR 2022: 强化学习策略与奖励建模：bandits / exploration
 
 - Topic ID: `23`
 - Papers: **19** (1.79%)

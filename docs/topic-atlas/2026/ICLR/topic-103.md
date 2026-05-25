@@ -1,4 +1,4 @@
-# ICLR 2026: 组合优化与神经求解
+# ICLR 2026: 组合优化与神经求解：bayesian optimization / acquisition
 
 - Topic ID: `103`
 - Papers: **25** (0.47%)

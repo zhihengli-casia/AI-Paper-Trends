@@ -1,4 +1,4 @@
-# TNNLS 2025: 语音理解、识别与交互
+# TNNLS 2025: 语音理解、识别与交互：spiking / snns
 
 - Topic ID: `24`
 - Papers: **15** (1.88%)

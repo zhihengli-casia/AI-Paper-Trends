@@ -1,4 +1,4 @@
-# ICML 2021: 在线学习与 regret 理论
+# ICML 2021: 在线学习与 regret 理论：公平性
 
 - Topic ID: `52`
 - Papers: **11** (0.93%)

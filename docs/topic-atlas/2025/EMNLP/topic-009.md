@@ -1,4 +1,4 @@
-# EMNLP 2025: 社交媒体与社会计算
+# EMNLP 2025: 社交媒体与社会计算：emotional / mental
 
 - Topic ID: `9`
 - Papers: **30** (1.66%)

@@ -1,4 +1,4 @@
-# EMNLP 2025: 多语言建模与跨语言迁移
+# EMNLP 2025: 多语言建模与跨语言迁移：cultural / multilingual
 
 - Topic ID: `12`
 - Papers: **28** (1.55%)

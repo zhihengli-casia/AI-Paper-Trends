@@ -1,4 +1,4 @@
-# ICRA 2024: 机器人操作与抓取
+# ICRA 2024: 机器人操作与抓取：manipulation / deformable
 
 - Topic ID: `0`
 - Papers: **64** (3.67%)

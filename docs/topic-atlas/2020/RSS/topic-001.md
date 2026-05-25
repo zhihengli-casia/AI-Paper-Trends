@@ -1,4 +1,4 @@
-# RSS 2020: 机器人操作与具身智能
+# RSS 2020: 机器人操作与具身智能：reinforcement / latent
 
 - Topic ID: `1`
 - Papers: **13** (13.27%)

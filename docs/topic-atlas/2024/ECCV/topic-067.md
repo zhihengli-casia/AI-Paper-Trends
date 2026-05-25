@@ -1,4 +1,4 @@
-# ECCV 2024: 图像复原与超分辨率
+# ECCV 2024: 图像复原与超分辨率：weather / restoration
 
 - Topic ID: `67`
 - Papers: **15** (0.63%)

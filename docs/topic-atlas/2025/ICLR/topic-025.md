@@ -1,4 +1,4 @@
-# ICLR 2025: 蛋白质建模与 AI4Science
+# ICLR 2025: 蛋白质建模与 AI4Science：蛋白质建模
 
 - Topic ID: `25`
 - Papers: **34** (0.92%)

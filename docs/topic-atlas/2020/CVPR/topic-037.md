@@ -1,4 +1,4 @@
-# CVPR 2020: 目标检测与开放世界检测
+# CVPR 2020: 目标检测与开放世界检测：localization / anchors
 
 - Topic ID: `37`
 - Papers: **17** (1.16%)

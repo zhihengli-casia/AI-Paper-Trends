@@ -1,4 +1,4 @@
-# AAAI 2021: 时间序列预测
+# AAAI 2021: 时间序列预测：covid-19 / pandemic
 
 - Topic ID: `78`
 - Papers: **10** (0.61%)

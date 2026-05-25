@@ -1,4 +1,4 @@
-# IROS 2022: 机器人触觉感知与操作
+# IROS 2022: 机器人触觉感知与操作：grasp / stability
 
 - Topic ID: `62`
 - Papers: **10** (0.83%)

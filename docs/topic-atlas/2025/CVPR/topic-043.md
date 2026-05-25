@@ -1,4 +1,4 @@
-# CVPR 2025: 点云表示与 3D 感知
+# CVPR 2025: 点云表示与 3D 感知：object detection / mid-level
 
 - Topic ID: `43`
 - Papers: **26** (0.91%)

@@ -1,4 +1,4 @@
-# ACL 2023: 推荐系统与用户建模
+# ACL 2023: 推荐系统与用户建模：plms / pretraining
 
 - Topic ID: `15`
 - Papers: **21** (1.95%)

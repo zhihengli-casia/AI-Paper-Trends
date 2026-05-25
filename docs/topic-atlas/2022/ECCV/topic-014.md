@@ -1,4 +1,4 @@
-# ECCV 2022: LiDAR 点云与 3D 感知
+# ECCV 2022: LiDAR 点云与 3D 感知：LiDAR 语义分割
 
 - Topic ID: `14`
 - Papers: **26** (1.58%)

@@ -1,4 +1,4 @@
-# EMNLP 2023: 机器翻译与跨语言对齐
+# EMNLP 2023: 机器翻译与跨语言对齐：multilingual / cross-lingual
 
 - Topic ID: `8`
 - Papers: **28** (2.67%)

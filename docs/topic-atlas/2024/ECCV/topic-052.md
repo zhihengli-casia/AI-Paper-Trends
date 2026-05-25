@@ -1,4 +1,4 @@
-# ECCV 2024: 深度估计与立体匹配
+# ECCV 2024: 深度估计与立体匹配：rendering / thermal
 
 - Topic ID: `52`
 - Papers: **19** (0.80%)

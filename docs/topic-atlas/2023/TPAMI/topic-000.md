@@ -1,4 +1,4 @@
-# TPAMI 2023: 脑电信号表征与解码
+# TPAMI 2023: 脑电信号表征与解码：label / noisy
 
 - Topic ID: `0`
 - Papers: **41** (6.02%)

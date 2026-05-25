@@ -1,4 +1,4 @@
-# IROS 2024: 扩散生成模型
+# IROS 2024: 扩散生成模型：path planning / tree search
 
 - Topic ID: `20`
 - Papers: **25** (1.59%)

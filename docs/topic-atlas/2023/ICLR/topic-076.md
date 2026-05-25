@@ -1,4 +1,4 @@
-# ICLR 2023: 扩散生成模型
+# ICLR 2023: 扩散生成模型：tabular / feature
 
 - Topic ID: `76`
 - Papers: **10** (0.65%)

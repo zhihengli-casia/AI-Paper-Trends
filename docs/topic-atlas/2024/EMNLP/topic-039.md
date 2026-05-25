@@ -1,4 +1,4 @@
-# EMNLP 2024: 多模态大模型与视觉语言推理
+# EMNLP 2024: 多模态大模型与视觉语言推理：hallucination / premise
 
 - Topic ID: `39`
 - Papers: **16** (1.26%)

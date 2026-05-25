@@ -1,4 +1,4 @@
-# AAAI 2026: 图像分割、语义分割与场景解析
+# AAAI 2026: 图像分割、语义分割与场景解析：segmentation / sam
 
 - Topic ID: `63`
 - Papers: **30** (0.72%)

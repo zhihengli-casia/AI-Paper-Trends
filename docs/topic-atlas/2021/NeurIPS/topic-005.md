@@ -1,4 +1,4 @@
-# NeurIPS 2021: 强化学习策略与奖励建模
+# NeurIPS 2021: 强化学习策略与奖励建模：reinforcement learning / planning
 
 - Topic ID: `5`
 - Papers: **52** (2.23%)

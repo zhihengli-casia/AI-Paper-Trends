@@ -1,4 +1,4 @@
-# ICRA 2024: 视觉导航与语义地图
+# ICRA 2024: 视觉导航与语义地图：recognition / 视觉理解
 
 - Topic ID: `27`
 - Papers: **22** (1.26%)

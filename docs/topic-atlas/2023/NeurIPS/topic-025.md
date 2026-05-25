@@ -1,4 +1,4 @@
-# NeurIPS 2023: 图神经网络与图表示学习
+# NeurIPS 2023: 图神经网络与图表示学习：molecular / molecules
 
 - Topic ID: `25`
 - Papers: **37** (1.15%)

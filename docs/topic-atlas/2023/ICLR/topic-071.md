@@ -1,4 +1,4 @@
-# ICLR 2023: 图像复原与超分辨率
+# ICLR 2023: 图像复原与超分辨率：image / restoration
 
 - Topic ID: `71`
 - Papers: **10** (0.65%)

@@ -1,4 +1,4 @@
-# ICCV 2023: 人脸分析、表情与属性建模
+# ICCV 2023: 人脸分析、表情与属性建模：face / stylegan
 
 - Topic ID: `18`
 - Papers: **34** (1.58%)

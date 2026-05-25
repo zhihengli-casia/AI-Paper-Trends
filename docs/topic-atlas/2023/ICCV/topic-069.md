@@ -1,4 +1,4 @@
-# ICCV 2023: NeRF 与神经渲染
+# ICCV 2023: NeRF 与神经渲染：rendering / nerf
 
 - Topic ID: `69`
 - Papers: **15** (0.70%)

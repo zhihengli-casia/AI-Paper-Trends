@@ -1,4 +1,4 @@
-# IROS 2024: 扩散生成模型
+# IROS 2024: 扩散生成模型：inference / stirring
 
 - Topic ID: `69`
 - Papers: **10** (0.64%)

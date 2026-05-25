@@ -1,4 +1,4 @@
-# NeurIPS 2022: 领域自适应与迁移学习
+# NeurIPS 2022: 领域自适应与迁移学习：gans / generative
 
 - Topic ID: `39`
 - Papers: **27** (1.01%)

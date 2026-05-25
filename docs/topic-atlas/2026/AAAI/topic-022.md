@@ -1,4 +1,4 @@
-# AAAI 2026: Conformal Prediction 与不确定性校准
+# AAAI 2026: Conformal Prediction 与不确定性校准：公平性
 
 - Topic ID: `22`
 - Papers: **53** (1.28%)

@@ -1,4 +1,4 @@
-# AAAI 2025: 扩散生成模型
+# AAAI 2025: 扩散生成模型：hands / palm
 
 - Topic ID: `86`
 - Papers: **17** (0.56%)

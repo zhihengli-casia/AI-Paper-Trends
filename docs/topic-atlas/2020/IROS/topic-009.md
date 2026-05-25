@@ -1,4 +1,4 @@
-# IROS 2020: LiDAR 点云与 3D 感知
+# IROS 2020: LiDAR 点云与 3D 感知：LiDAR 目标检测
 
 - Topic ID: `9`
 - Papers: **25** (2.24%)

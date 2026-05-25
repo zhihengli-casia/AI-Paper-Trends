@@ -1,4 +1,4 @@
-# AAAI 2021: 时间序列建模与预测
+# AAAI 2021: 时间序列建模与预测：time series / series classification
 
 - Topic ID: `72`
 - Papers: **11** (0.67%)

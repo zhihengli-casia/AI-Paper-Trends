@@ -1,4 +1,4 @@
-# ICRA 2023: 多机器人路径规划与协同导航
+# ICRA 2023: 多机器人路径规划与协同导航：functions / safety
 
 - Topic ID: `15`
 - Papers: **23** (1.73%)

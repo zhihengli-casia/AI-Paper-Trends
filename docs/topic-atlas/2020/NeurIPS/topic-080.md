@@ -1,4 +1,4 @@
-# NeurIPS 2020: 凸/非凸优化理论
+# NeurIPS 2020: 凸/非凸优化理论：regression / coresets
 
 - Topic ID: `80`
 - Papers: **11** (0.58%)

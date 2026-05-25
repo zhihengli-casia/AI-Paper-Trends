@@ -1,4 +1,4 @@
-# ACL 2025: 代码生成与程序理解
+# ACL 2025: 代码生成与程序理解：code generation / repetition
 
 - Topic ID: `54`
 - Papers: **15** (0.88%)

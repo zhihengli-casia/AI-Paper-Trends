@@ -1,4 +1,4 @@
-# ECCV 2024: 3D Gaussian Splatting 与场景重建
+# ECCV 2024: 3D Gaussian Splatting 与场景重建：高斯表示 / Splatting
 
 - Topic ID: `3`
 - Papers: **56** (2.35%)

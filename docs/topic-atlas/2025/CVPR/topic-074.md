@@ -1,4 +1,4 @@
-# CVPR 2025: 机器人操作与抓取
+# CVPR 2025: 机器人操作与抓取：manipulation / 策略优化
 
 - Topic ID: `74`
 - Papers: **17** (0.59%)

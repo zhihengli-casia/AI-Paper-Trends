@@ -1,4 +1,4 @@
-# TNNLS 2023: 图像复原与超分辨率
+# TNNLS 2023: 图像复原与超分辨率：image / hyperspectral
 
 - Topic ID: `35`
 - Papers: **15** (1.46%)

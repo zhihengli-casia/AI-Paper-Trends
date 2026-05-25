@@ -1,4 +1,4 @@
-# IJCAI 2025: 强化学习算法与理论
+# IJCAI 2025: 强化学习算法与理论：feature / reinforcement learning
 
 - Topic ID: `28`
 - Papers: **17** (1.33%)

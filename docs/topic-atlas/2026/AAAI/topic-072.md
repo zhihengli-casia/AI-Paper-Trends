@@ -1,4 +1,4 @@
-# AAAI 2026: 联邦学习与分布式训练
+# AAAI 2026: 联邦学习与分布式训练：label / semi-supervised
 
 - Topic ID: `72`
 - Papers: **26** (0.63%)

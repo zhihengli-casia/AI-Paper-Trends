@@ -1,4 +1,4 @@
-# ICLR 2022: 强化学习策略与奖励建模
+# ICLR 2022: 强化学习策略与奖励建模：reinforcement learning / action
 
 - Topic ID: `8`
 - Papers: **27** (2.54%)

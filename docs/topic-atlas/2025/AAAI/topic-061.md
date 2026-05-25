@@ -1,4 +1,4 @@
-# AAAI 2025: 强化学习策略与奖励建模
+# AAAI 2025: 强化学习策略与奖励建模：markov / mdps
 
 - Topic ID: `61`
 - Papers: **22** (0.73%)

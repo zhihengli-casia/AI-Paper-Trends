@@ -1,4 +1,4 @@
-# CVPR 2020: 神经架构搜索与模型设计
+# CVPR 2020: 神经架构搜索与模型设计：search / pyramid
 
 - Topic ID: `66`
 - Papers: **12** (0.82%)

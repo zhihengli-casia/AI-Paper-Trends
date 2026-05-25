@@ -1,4 +1,4 @@
-# ICRA 2023: 机器人操作与具身智能
+# ICRA 2023: 机器人操作与具身智能：social / gaze
 
 - Topic ID: `41`
 - Papers: **15** (1.13%)

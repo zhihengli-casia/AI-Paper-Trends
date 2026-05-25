@@ -1,4 +1,4 @@
-# CVPR 2022: 视频动作生成与运动控制
+# CVPR 2022: 视频动作生成与运动控制：视频理解/生成 / interpolation
 
 - Topic ID: `58`
 - Papers: **17** (0.82%)

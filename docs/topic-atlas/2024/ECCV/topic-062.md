@@ -1,4 +1,4 @@
-# ECCV 2024: 扩散生成模型
+# ECCV 2024: 扩散生成模型：clothing / garment
 
 - Topic ID: `62`
 - Papers: **17** (0.71%)

@@ -1,4 +1,4 @@
-# ICML 2021: 在线学习与 regret 理论
+# ICML 2021: 在线学习与 regret 理论：bayesian / regret
 
 - Topic ID: `47`
 - Papers: **13** (1.10%)

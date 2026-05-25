@@ -1,4 +1,4 @@
-# AAAI 2024: 信息抽取、实体识别与关系抽取
+# AAAI 2024: 信息抽取、实体识别与关系抽取：relation extraction / document-level
 
 - Topic ID: `72`
 - Papers: **14** (0.60%)

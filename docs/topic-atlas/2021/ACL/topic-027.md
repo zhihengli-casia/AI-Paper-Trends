@@ -1,4 +1,4 @@
-# ACL 2021: 信息抽取、实体识别与关系抽取
+# ACL 2021: 信息抽取、实体识别与关系抽取：relation / extraction
 
 - Topic ID: `27`
 - Papers: **12** (1.69%)

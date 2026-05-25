@@ -1,4 +1,4 @@
-# NeurIPS 2022: 强化学习策略与奖励建模
+# NeurIPS 2022: 强化学习策略与奖励建模：multi-agent / marl
 
 - Topic ID: `18`
 - Papers: **39** (1.46%)

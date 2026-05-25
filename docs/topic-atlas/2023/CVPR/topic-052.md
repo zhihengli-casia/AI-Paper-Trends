@@ -1,4 +1,4 @@
-# CVPR 2023: 图像复原与超分辨率
+# CVPR 2023: 图像复原与超分辨率：bit / super-resolution
 
 - Topic ID: `52`
 - Papers: **20** (0.85%)

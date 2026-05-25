@@ -1,4 +1,4 @@
-# TKDE 2026: 社交媒体与社会计算
+# TKDE 2026: 社交媒体与社会计算：influence / tex-math
 
 - Topic ID: `10`
 - Papers: **12** (4.80%)

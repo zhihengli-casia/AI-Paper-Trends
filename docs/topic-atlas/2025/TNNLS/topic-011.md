@@ -1,4 +1,4 @@
-# TNNLS 2025: 强化学习算法与理论
+# TNNLS 2025: 强化学习算法与理论：multiagent / reinforcement learning
 
 - Topic ID: `11`
 - Papers: **21** (2.64%)

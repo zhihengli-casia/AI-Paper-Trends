@@ -1,4 +1,4 @@
-# TNNLS 2023: 随机优化与收敛理论
+# TNNLS 2023: 随机优化与收敛理论：momentum / online
 
 - Topic ID: `2`
 - Papers: **29** (2.83%)

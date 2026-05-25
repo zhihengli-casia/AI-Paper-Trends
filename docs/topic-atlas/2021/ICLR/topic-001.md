@@ -1,4 +1,4 @@
-# ICLR 2021: 强化学习策略与奖励建模
+# ICLR 2021: 强化学习策略与奖励建模：reinforcement learning / 奖励建模
 
 - Topic ID: `1`
 - Papers: **37** (4.31%)

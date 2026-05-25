@@ -1,4 +1,4 @@
-# CVPR 2022: 神经架构搜索与模型设计
+# CVPR 2022: 神经架构搜索与模型设计：fog / dehazing
 
 - Topic ID: `46`
 - Papers: **20** (0.96%)

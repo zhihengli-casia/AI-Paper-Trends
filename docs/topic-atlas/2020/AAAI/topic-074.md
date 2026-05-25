@@ -1,4 +1,4 @@
-# AAAI 2020: 在线学习与 regret 理论
+# AAAI 2020: 在线学习与 regret 理论：quantum / 优化
 
 - Topic ID: `74`
 - Papers: **11** (0.69%)

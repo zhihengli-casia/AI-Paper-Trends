@@ -1,4 +1,4 @@
-# NeurIPS 2023: 在线学习与 regret 理论
+# NeurIPS 2023: 在线学习与 regret 理论：online / regret
 
 - Topic ID: `79`
 - Papers: **19** (0.59%)

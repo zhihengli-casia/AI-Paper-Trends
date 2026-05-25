@@ -1,4 +1,4 @@
-# ICLR 2025: 强化学习算法与理论
+# ICLR 2025: 强化学习算法与理论：planning / search
 
 - Topic ID: `22`
 - Papers: **36** (0.97%)

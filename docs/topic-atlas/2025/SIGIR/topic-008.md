@@ -1,4 +1,4 @@
-# SIGIR 2025: RAG 与检索增强生成
+# SIGIR 2025: RAG 与检索增强生成：RAG / 智能体
 
 - Topic ID: `8`
 - Papers: **12** (5.02%)

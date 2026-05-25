@@ -1,4 +1,4 @@
-# ACMMM 2024: 图像复原与超分辨率
+# ACMMM 2024: 图像复原与超分辨率：mobile / degradation
 
 - Topic ID: `24`
 - Papers: **19** (1.65%)

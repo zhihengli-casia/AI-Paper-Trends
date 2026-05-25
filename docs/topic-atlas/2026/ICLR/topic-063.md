@@ -1,4 +1,4 @@
-# ICLR 2026: LLM Agent 与工具使用
+# ICLR 2026: LLM Agent 与工具使用：智能体 / deep research
 
 - Topic ID: `63`
 - Papers: **38** (0.71%)

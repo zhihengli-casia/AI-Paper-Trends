@@ -1,4 +1,4 @@
-# ECCV 2022: NeRF 与神经渲染
+# ECCV 2022: NeRF 与神经渲染：lighting / shadows
 
 - Topic ID: `16`
 - Papers: **26** (1.58%)

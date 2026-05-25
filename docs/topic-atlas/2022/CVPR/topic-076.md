@@ -1,4 +1,4 @@
-# CVPR 2022: 领域自适应与迁移学习
+# CVPR 2022: 领域自适应与迁移学习：calibration / meta-learning
 
 - Topic ID: `76`
 - Papers: **12** (0.58%)

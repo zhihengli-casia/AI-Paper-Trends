@@ -1,4 +1,4 @@
-# NeurIPS 2021: 卷积网络结构与训练
+# NeurIPS 2021: 卷积网络结构与训练：transformers / vision
 
 - Topic ID: `13`
 - Papers: **41** (1.76%)

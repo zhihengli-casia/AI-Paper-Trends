@@ -1,4 +1,4 @@
-# CVPR 2020: 图像复原与超分辨率
+# CVPR 2020: 图像复原与超分辨率：deblurring / deconvolution
 
 - Topic ID: `77`
 - Papers: **10** (0.68%)

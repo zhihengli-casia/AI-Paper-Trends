@@ -1,4 +1,4 @@
-# CVPR 2022: 实例分割与开放词汇分割
+# CVPR 2022: 实例分割与开放词汇分割：point / cloud
 
 - Topic ID: `43`
 - Papers: **20** (0.96%)

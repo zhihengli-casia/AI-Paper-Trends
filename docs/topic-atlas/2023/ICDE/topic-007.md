@@ -1,4 +1,4 @@
-# ICDE 2023: 时间序列预测
+# ICDE 2023: 时间序列预测：temporal / series
 
 - Topic ID: `7`
 - Papers: **19** (5.12%)

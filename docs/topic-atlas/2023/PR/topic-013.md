@@ -1,4 +1,4 @@
-# PR 2023: 领域自适应与迁移学习
+# PR 2023: 领域自适应与迁移学习：domain / adaptation
 
 - Topic ID: `13`
 - Papers: **20** (2.49%)

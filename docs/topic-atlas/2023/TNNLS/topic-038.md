@@ -1,4 +1,4 @@
-# TNNLS 2023: 随机优化与收敛理论
+# TNNLS 2023: 随机优化与收敛理论：quantum / dynamics
 
 - Topic ID: `38`
 - Papers: **14** (1.37%)

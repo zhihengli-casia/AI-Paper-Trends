@@ -1,4 +1,4 @@
-# IJCAI 2022: 多智能体博弈、机制设计与社会选择
+# IJCAI 2022: 多智能体博弈、机制设计与社会选择：auctions / mechanisms
 
 - Topic ID: `21`
 - Papers: **16** (1.86%)

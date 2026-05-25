@@ -1,4 +1,4 @@
-# ICRA 2021: 机器人操作与具身智能
+# ICRA 2021: 机器人操作与具身智能：gait / wearable
 
 - Topic ID: `62`
 - Papers: **9** (0.66%)

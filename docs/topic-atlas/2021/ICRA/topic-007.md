@@ -1,4 +1,4 @@
-# ICRA 2021: 多机器人路径规划与协同导航
+# ICRA 2021: 多机器人路径规划与协同导航：coverage / multi-robot
 
 - Topic ID: `7`
 - Papers: **34** (2.48%)

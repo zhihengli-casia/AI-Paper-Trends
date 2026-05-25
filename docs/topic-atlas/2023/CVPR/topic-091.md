@@ -1,4 +1,4 @@
-# CVPR 2023: 扩散生成模型
+# CVPR 2023: 扩散生成模型：vector / characters
 
 - Topic ID: `91`
 - Papers: **12** (0.51%)

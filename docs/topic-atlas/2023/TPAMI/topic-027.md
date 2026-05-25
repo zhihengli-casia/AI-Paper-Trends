@@ -1,4 +1,4 @@
-# TPAMI 2023: 脑电信号表征与解码
+# TPAMI 2023: 脑电信号表征与解码：explanations / latent structure
 
 - Topic ID: `27`
 - Papers: **13** (1.91%)

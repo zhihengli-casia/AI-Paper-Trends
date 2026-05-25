@@ -1,4 +1,4 @@
-# ICRA 2024: 机器人操作与抓取
+# ICRA 2024: 机器人操作与抓取：grasp / dof
 
 - Topic ID: `29`
 - Papers: **21** (1.21%)

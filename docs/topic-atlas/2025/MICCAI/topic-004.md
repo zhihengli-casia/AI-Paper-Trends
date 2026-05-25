@@ -1,4 +1,4 @@
-# MICCAI 2025: 医学影像病灶分析
+# MICCAI 2025: 医学影像病灶分析：multiple instance learning / slide image
 
 - Topic ID: `4`
 - Papers: **8** (12.31%)

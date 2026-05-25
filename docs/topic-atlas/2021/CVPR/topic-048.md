@@ -1,4 +1,4 @@
-# CVPR 2021: 图像分割、语义分割与场景解析
+# CVPR 2021: 图像分割、语义分割与场景解析：convolution / self-attention
 
 - Topic ID: `48`
 - Papers: **15** (0.90%)

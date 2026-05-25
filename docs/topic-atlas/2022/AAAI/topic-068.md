@@ -1,4 +1,4 @@
-# AAAI 2022: 图神经网络与图表示学习
+# AAAI 2022: 图神经网络与图表示学习：图学习 / contrastive
 
 - Topic ID: `68`
 - Papers: **8** (0.61%)

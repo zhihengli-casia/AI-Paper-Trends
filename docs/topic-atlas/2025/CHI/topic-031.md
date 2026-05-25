@@ -1,4 +1,4 @@
-# CHI 2025: 多模态学习与跨模态理解
+# CHI 2025: 多模态学习与跨模态理解：design / human-ai
 
 - Topic ID: `31`
 - Papers: **16** (1.29%)

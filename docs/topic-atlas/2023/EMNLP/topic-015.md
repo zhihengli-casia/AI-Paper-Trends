@@ -1,4 +1,4 @@
-# EMNLP 2023: 机器翻译与跨语言对齐
+# EMNLP 2023: 机器翻译与跨语言对齐：gender / bias
 
 - Topic ID: `15`
 - Papers: **22** (2.10%)

@@ -1,4 +1,4 @@
-# AAAI 2020: 信息抽取、实体识别与关系抽取
+# AAAI 2020: 信息抽取、实体识别与关系抽取：entity / entities
 
 - Topic ID: `4`
 - Papers: **36** (2.25%)

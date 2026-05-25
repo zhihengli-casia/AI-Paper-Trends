@@ -1,4 +1,4 @@
-# IROS 2020: 机器人操作与抓取
+# IROS 2020: 机器人操作与抓取：semantic segmentation / understanding
 
 - Topic ID: `57`
 - Papers: **10** (0.90%)

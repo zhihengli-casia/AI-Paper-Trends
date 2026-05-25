@@ -1,4 +1,4 @@
-# SIGIR 2024: 推荐系统与用户建模
+# SIGIR 2024: 推荐系统与用户建模：推荐 / long-term
 
 - Topic ID: `12`
 - Papers: **8** (3.74%)

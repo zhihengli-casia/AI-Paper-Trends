@@ -1,4 +1,4 @@
-# ICLR 2025: 随机优化与收敛理论
+# ICLR 2025: 随机优化与收敛理论：momentum / sgd
 
 - Topic ID: `132`
 - Papers: **12** (0.32%)

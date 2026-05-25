@@ -1,4 +1,4 @@
-# ACL 2022: 摘要生成与信息压缩
+# ACL 2022: 摘要生成与信息压缩：summarization / summaries
 
 - Topic ID: `1`
 - Papers: **37** (5.29%)

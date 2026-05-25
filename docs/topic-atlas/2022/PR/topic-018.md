@@ -1,4 +1,4 @@
-# PR 2022: 语义分割与场景解析
+# PR 2022: 语义分割与场景解析：localization / weakly supervised
 
 - Topic ID: `18`
 - Papers: **16** (2.43%)

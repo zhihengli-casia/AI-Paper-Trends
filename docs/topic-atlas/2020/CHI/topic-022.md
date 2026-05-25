@@ -1,4 +1,4 @@
-# CHI 2020: 多模态学习与跨模态理解
+# CHI 2020: 多模态学习与跨模态理解：sensor / enabling
 
 - Topic ID: `22`
 - Papers: **16** (2.16%)

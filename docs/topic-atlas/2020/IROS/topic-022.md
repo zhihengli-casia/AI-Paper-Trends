@@ -1,4 +1,4 @@
-# IROS 2020: 机器人操作与具身智能
+# IROS 2020: 机器人操作与具身智能：action / latent
 
 - Topic ID: `22`
 - Papers: **20** (1.79%)

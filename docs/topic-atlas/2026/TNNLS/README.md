@@ -21,8 +21,8 @@
 | [007](topic-007.md) | 多模态融合与跨模态表示 | 11 | 4.95% | 多模态/VLM | `multimodal / fusion / modalities / modality` | Incomplete Multimodal Federated Learning via Masking and Contrasting Prototypes |
 | [008](topic-008.md) | 推荐系统与用户建模 | 9 | 4.05% | 推荐/检索/排序 | `llms / language / few-shot / fsl` | Evaluating Large Language Models on Named Entity Recognition |
 | [009](topic-009.md) | control / 运动建模 / robots / survey | 9 | 4.05% | 强化学习/决策 | `control / motion / robots / survey` | A Survey on Learning Motion Planning and Control for Mobile Robots: Toward Embodied Intelligence |
-| [010](topic-010.md) | 隐私保护与安全学习 | 8 | 3.60% | 可信/安全/公平 | `federated / decentralized / privacy / communication` | Byzantine-Robust and Communication-Efficient Distributed Learning via Compressed Momentum Filtering |
-| [011](topic-011.md) | 隐私保护与安全学习 | 8 | 3.60% | AI4Science/医疗 | `federated / clients / knowledge / aggregation` | Using Class and Domain Information to Address Domain Shift in Federated Learning |
+| [010](topic-010.md) | 隐私保护与安全学习：隐私保护 | 8 | 3.60% | 可信/安全/公平 | `federated / decentralized / privacy / communication` | Byzantine-Robust and Communication-Efficient Distributed Learning via Compressed Momentum Filtering |
+| [011](topic-011.md) | 隐私保护与安全学习：隐私保护（Topic 011） | 8 | 3.60% | AI4Science/医疗 | `federated / clients / knowledge / aggregation` | Using Class and Domain Information to Address Domain Shift in Federated Learning |
 | [012](topic-012.md) | xlink / www w3 org / http / xmlns | 8 | 3.60% | 图学习/数据挖掘 | `xlink / www w3 org / http / xmlns` | Fusion of Supervised Feature Selection and Unsupervised Clustering for Multinuclei Classification of MER Signals in DBS for Parkinson’s Disease |
 | [013](topic-013.md) | ieee / intelligence / transactions neural / publication information | 8 | 3.60% | 其他/交叉主题 | `ieee / intelligence / transactions neural / publication information` | IEEE Computational Intelligence Society |
 | [014](topic-014.md) | hardware / digital / sigmoid / blocks | 7 | 3.15% | 系统/效率/压缩 | `hardware / digital / sigmoid / blocks` | A High-Accuracy Probabilistic-Based Sigmoid Approximator Incorporating Memory-Saving and Time-Efficient Strategies |

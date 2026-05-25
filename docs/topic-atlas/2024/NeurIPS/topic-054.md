@@ -1,4 +1,4 @@
-# NeurIPS 2024: 扩散生成模型
+# NeurIPS 2024: 扩散生成模型：flow matching / 扩散
 
 - Topic ID: `54`
 - Papers: **35** (0.87%)

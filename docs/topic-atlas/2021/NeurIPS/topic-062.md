@@ -1,4 +1,4 @@
-# NeurIPS 2021: 时间序列建模与预测
+# NeurIPS 2021: 时间序列建模与预测：change point / point detection
 
 - Topic ID: `62`
 - Papers: **16** (0.69%)

@@ -1,4 +1,4 @@
-# CVPR 2020: 图像复原与超分辨率
+# CVPR 2020: 图像复原与超分辨率：super-resolution / low-resolution
 
 - Topic ID: `8`
 - Papers: **27** (1.84%)

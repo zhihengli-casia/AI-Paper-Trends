@@ -1,4 +1,4 @@
-# IROS 2024: 机器人操作与抓取
+# IROS 2024: 机器人操作与抓取：grasp / manipulation
 
 - Topic ID: `16`
 - Papers: **27** (1.72%)

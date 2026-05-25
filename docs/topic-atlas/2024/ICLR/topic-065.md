@@ -1,4 +1,4 @@
-# ICLR 2024: 随机优化与收敛理论
+# ICLR 2024: 随机优化与收敛理论：fine-tuning / parameter-efficient
 
 - Topic ID: `65`
 - Papers: **17** (0.75%)

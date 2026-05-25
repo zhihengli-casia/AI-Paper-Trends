@@ -1,4 +1,4 @@
-# ICML 2025: 扩散生成模型
+# ICML 2025: 扩散生成模型：watermarking / watermarks
 
 - Topic ID: `95`
 - Papers: **17** (0.51%)

@@ -1,4 +1,4 @@
-# NeurIPS 2022: 强化学习策略与奖励建模
+# NeurIPS 2022: 强化学习策略与奖励建模：safe / cup
 
 - Topic ID: `99`
 - Papers: **11** (0.41%)

@@ -1,4 +1,4 @@
-# PR 2026: 时间序列建模与预测
+# PR 2026: 时间序列建模与预测：anomaly detection / series anomaly
 
 - Topic ID: `32`
 - Papers: **14** (1.51%)

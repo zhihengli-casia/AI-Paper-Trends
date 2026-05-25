@@ -1,4 +1,4 @@
-# ICLR 2026: 偏好优化、RLHF 与 DPO
+# ICLR 2026: 偏好优化、RLHF 与 DPO：文生图
 
 - Topic ID: `76`
 - Papers: **33** (0.62%)

@@ -1,4 +1,4 @@
-# EMNLP 2024: 多模态大模型与视觉语言推理
+# EMNLP 2024: 多模态大模型与视觉语言推理：attacks / adversarial
 
 - Topic ID: `26`
 - Papers: **19** (1.50%)

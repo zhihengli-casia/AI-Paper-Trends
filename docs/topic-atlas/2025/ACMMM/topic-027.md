@@ -1,4 +1,4 @@
-# ACMMM 2025: 多模态大模型与视觉语言推理
+# ACMMM 2025: 多模态大模型与视觉语言推理：document / RAG
 
 - Topic ID: `27`
 - Papers: **19** (1.52%)

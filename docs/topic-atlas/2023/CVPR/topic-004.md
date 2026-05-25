@@ -1,4 +1,4 @@
-# CVPR 2023: NeRF 与神经渲染
+# CVPR 2023: NeRF 与神经渲染：nerf / radiance
 
 - Topic ID: `4`
 - Papers: **47** (2.00%)

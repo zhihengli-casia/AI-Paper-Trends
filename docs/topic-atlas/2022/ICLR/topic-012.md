@@ -1,4 +1,4 @@
-# ICLR 2022: 随机优化与收敛理论
+# ICLR 2022: 随机优化与收敛理论：sgd / convergence
 
 - Topic ID: `12`
 - Papers: **22** (2.07%)

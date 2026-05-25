@@ -1,4 +1,4 @@
-# EMNLP 2022: 多模态学习与跨模态理解
+# EMNLP 2022: 多模态学习与跨模态理解：entity / ner
 
 - Topic ID: `39`
 - Papers: **10** (1.21%)

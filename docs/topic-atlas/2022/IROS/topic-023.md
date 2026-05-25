@@ -1,4 +1,4 @@
-# IROS 2022: 规划搜索与决策推理
+# IROS 2022: 规划搜索与决策推理：detection / articulated
 
 - Topic ID: `23`
 - Papers: **20** (1.66%)

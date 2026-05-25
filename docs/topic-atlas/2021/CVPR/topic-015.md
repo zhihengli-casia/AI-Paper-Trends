@@ -1,4 +1,4 @@
-# CVPR 2021: 实例分割与开放词汇分割
+# CVPR 2021: 实例分割与开放词汇分割：object segmentation / 视频理解/生成
 
 - Topic ID: `15`
 - Papers: **25** (1.51%)

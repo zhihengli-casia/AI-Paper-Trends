@@ -1,4 +1,4 @@
-# CVPR 2024: 扩散生成模型
+# CVPR 2024: 扩散生成模型：clothed / clothing
 
 - Topic ID: `7`
 - Papers: **47** (1.73%)

@@ -1,4 +1,4 @@
-# IROS 2022: 机器人遥操作与触觉交互
+# IROS 2022: 机器人遥操作与触觉交互：teleoperation / haptic
 
 - Topic ID: `5`
 - Papers: **28** (2.33%)

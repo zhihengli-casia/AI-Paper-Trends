@@ -1,4 +1,4 @@
-# CVPR 2022: 视频动作生成与运动控制
+# CVPR 2022: 视频动作生成与运动控制：event / cameras
 
 - Topic ID: `29`
 - Papers: **24** (1.16%)

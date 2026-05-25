@@ -1,4 +1,4 @@
-# PR 2025: 多模态学习与跨模态理解
+# PR 2025: 多模态学习与跨模态理解：disease / prediction
 
 - Topic ID: `46`
 - Papers: **15** (0.99%)

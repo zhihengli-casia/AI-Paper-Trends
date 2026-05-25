@@ -1,4 +1,4 @@
-# ICRA 2023: 点云表示与 3D 感知
+# ICRA 2023: 点云表示与 3D 感知：point / cloud
 
 - Topic ID: `2`
 - Papers: **30** (2.25%)

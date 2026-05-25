@@ -1,4 +1,4 @@
-# TKDE 2020: 推荐系统与用户建模
+# TKDE 2020: 推荐系统与用户建模：event / social
 
 - Topic ID: `19`
 - Papers: **12** (2.99%)

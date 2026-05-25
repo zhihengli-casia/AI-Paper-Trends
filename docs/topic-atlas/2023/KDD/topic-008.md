@@ -1,4 +1,4 @@
-# KDD 2023: 知识图谱推理与表示学习
+# KDD 2023: 知识图谱推理与表示学习：knowledge graph / 推理
 
 - Topic ID: `8`
 - Papers: **14** (4.47%)

@@ -1,4 +1,4 @@
-# ICML 2021: 随机优化与收敛理论
+# ICML 2021: 随机优化与收敛理论：decentralized / distributed
 
 - Topic ID: `8`
 - Papers: **29** (2.45%)

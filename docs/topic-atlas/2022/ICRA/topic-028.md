@@ -1,4 +1,4 @@
-# ICRA 2022: 机器人操作与具身智能
+# ICRA 2022: 机器人操作与具身智能：modular / self-reconfigurable
 
 - Topic ID: `28`
 - Papers: **16** (1.73%)

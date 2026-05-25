@@ -1,4 +1,4 @@
-# ACL 2023: 摘要生成与信息压缩
+# ACL 2023: 摘要生成与信息压缩：summarization / summaries
 
 - Topic ID: `18`
 - Papers: **19** (1.77%)

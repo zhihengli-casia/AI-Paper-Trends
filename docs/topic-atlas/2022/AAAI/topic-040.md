@@ -1,4 +1,4 @@
-# AAAI 2022: 深度估计与立体匹配
+# AAAI 2022: 深度估计与立体匹配：light / image
 
 - Topic ID: `40`
 - Papers: **15** (1.14%)

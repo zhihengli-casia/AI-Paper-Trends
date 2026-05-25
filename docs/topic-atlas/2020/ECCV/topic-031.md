@@ -1,4 +1,4 @@
-# ECCV 2020: 图像复原与超分辨率
+# ECCV 2020: 图像复原与超分辨率：super-resolution / degradation
 
 - Topic ID: `31`
 - Papers: **18** (1.33%)

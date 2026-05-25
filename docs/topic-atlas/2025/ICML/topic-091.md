@@ -1,4 +1,4 @@
-# ICML 2025: 扩散生成模型
+# ICML 2025: 扩散生成模型：扩散 / sampling
 
 - Topic ID: `91`
 - Papers: **18** (0.54%)

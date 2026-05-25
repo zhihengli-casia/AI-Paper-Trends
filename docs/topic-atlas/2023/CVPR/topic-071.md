@@ -1,4 +1,4 @@
-# CVPR 2023: 零样本分类与开放集识别
+# CVPR 2023: 零样本分类与开放集识别：segmentation / 零样本
 
 - Topic ID: `71`
 - Papers: **15** (0.64%)

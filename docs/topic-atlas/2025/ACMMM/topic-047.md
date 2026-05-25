@@ -1,4 +1,4 @@
-# ACMMM 2025: 多模态大模型与视觉语言推理
+# ACMMM 2025: 多模态大模型与视觉语言推理：anomaly / detection
 
 - Topic ID: `47`
 - Papers: **11** (0.88%)

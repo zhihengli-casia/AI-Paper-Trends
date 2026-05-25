@@ -1,4 +1,4 @@
-# ACL 2020: 对话系统与会话建模
+# ACL 2020: 对话系统与会话建模：dialogue / response
 
 - Topic ID: `7`
 - Papers: **28** (3.60%)

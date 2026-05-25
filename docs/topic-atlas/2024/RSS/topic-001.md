@@ -1,4 +1,4 @@
-# RSS 2024: 机器人操作与抓取
+# RSS 2024: 机器人操作与抓取：demonstrating / human
 
 - Topic ID: `1`
 - Papers: **18** (13.74%)

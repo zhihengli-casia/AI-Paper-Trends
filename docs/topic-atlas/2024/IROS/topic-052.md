@@ -1,4 +1,4 @@
-# IROS 2024: LiDAR 点云与 3D 感知
+# IROS 2024: LiDAR 点云与 3D 感知：place recognition / 视觉理解
 
 - Topic ID: `52`
 - Papers: **15** (0.95%)

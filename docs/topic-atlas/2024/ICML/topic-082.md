@@ -1,4 +1,4 @@
-# ICML 2024: 偏好优化、RLHF 与 DPO
+# ICML 2024: 偏好优化、RLHF 与 DPO：奖励/偏好建模（Topic 082）
 
 - Topic ID: `82`
 - Papers: **15** (0.57%)

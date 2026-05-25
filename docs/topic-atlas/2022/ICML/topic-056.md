@@ -1,4 +1,4 @@
-# ICML 2022: 随机优化与收敛理论
+# ICML 2022: 随机优化与收敛理论：sgd / gradient descent
 
 - Topic ID: `56`
 - Papers: **10** (0.81%)

@@ -1,4 +1,4 @@
-# ICML 2025: 随机优化与收敛理论
+# ICML 2025: 随机优化与收敛理论：sgd / langevin
 
 - Topic ID: `102`
 - Papers: **16** (0.48%)

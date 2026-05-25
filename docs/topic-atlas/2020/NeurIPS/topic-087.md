@@ -1,4 +1,4 @@
-# NeurIPS 2020: 对抗攻击、鲁棒性与安全
+# NeurIPS 2020: 对抗攻击、鲁棒性与安全：certified / smoothing
 
 - Topic ID: `87`
 - Papers: **9** (0.47%)

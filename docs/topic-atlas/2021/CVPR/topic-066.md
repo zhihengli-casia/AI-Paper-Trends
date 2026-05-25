@@ -1,4 +1,4 @@
-# CVPR 2021: LiDAR 点云与 3D 感知
+# CVPR 2021: LiDAR 点云与 3D 感知：LiDAR 语义分割
 
 - Topic ID: `66`
 - Papers: **12** (0.72%)

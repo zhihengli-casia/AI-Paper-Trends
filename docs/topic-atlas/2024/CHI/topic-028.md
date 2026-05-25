@@ -1,4 +1,4 @@
-# CHI 2024: 社交媒体与社会计算
+# CHI 2024: 社交媒体与社会计算：chatgpt / education
 
 - Topic ID: `28`
 - Papers: **18** (1.71%)

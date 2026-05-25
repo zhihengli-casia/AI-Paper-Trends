@@ -1,4 +1,4 @@
-# CVPR 2024: 领域自适应与迁移学习
+# CVPR 2024: 领域自适应与迁移学习：domain adaptation / domain generalization
 
 - Topic ID: `65`
 - Papers: **18** (0.66%)

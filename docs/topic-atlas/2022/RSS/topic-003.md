@@ -1,4 +1,4 @@
-# RSS 2022: 规划搜索与决策推理
+# RSS 2022: 规划搜索与决策推理：imitation / demonstration
 
 - Topic ID: `3`
 - Papers: **10** (14.93%)

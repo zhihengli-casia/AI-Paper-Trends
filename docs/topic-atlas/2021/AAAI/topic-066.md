@@ -1,4 +1,4 @@
-# AAAI 2021: 在线学习与 regret 理论
+# AAAI 2021: 在线学习与 regret 理论：regret / online
 
 - Topic ID: `66`
 - Papers: **12** (0.73%)

@@ -1,4 +1,4 @@
-# AAAI 2020: 在线学习与 regret 理论
+# AAAI 2020: 在线学习与 regret 理论：regret / arms
 
 - Topic ID: `41`
 - Papers: **16** (1.00%)

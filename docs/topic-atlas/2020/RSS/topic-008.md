@@ -1,4 +1,4 @@
-# RSS 2020: 机器人操作与具身智能
+# RSS 2020: 机器人操作与具身智能：bayesian / domain
 
 - Topic ID: `8`
 - Papers: **7** (7.14%)

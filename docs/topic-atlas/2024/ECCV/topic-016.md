@@ -1,4 +1,4 @@
-# ECCV 2024: 联邦学习与分布式训练
+# ECCV 2024: 联邦学习与分布式训练：pruning / weights
 
 - Topic ID: `16`
 - Papers: **34** (1.42%)

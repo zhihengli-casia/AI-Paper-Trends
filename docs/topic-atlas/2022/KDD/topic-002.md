@@ -1,4 +1,4 @@
-# KDD 2022: 时间序列建模与预测
+# KDD 2022: 时间序列建模与预测：causal / anomaly detection
 
 - Topic ID: `2`
 - Papers: **23** (9.09%)

@@ -1,4 +1,4 @@
-# RSS 2023: 强化学习算法与理论
+# RSS 2023: 强化学习算法与理论：reinforcement learning / experience
 
 - Topic ID: `2`
 - Papers: **11** (10.00%)

@@ -1,4 +1,4 @@
-# PR 2025: 医学影像分割
+# PR 2025: 医学影像分割：tumor / segmentation
 
 - Topic ID: `30`
 - Papers: **19** (1.26%)

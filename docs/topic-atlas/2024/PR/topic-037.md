@@ -1,4 +1,4 @@
-# PR 2024: 视频动作识别与时序定位
+# PR 2024: 视频动作识别与时序定位：recognition / activity
 
 - Topic ID: `37`
 - Papers: **13** (1.35%)

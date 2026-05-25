@@ -1,4 +1,4 @@
-# CVPR 2023: 图像复原与超分辨率
+# CVPR 2023: 图像复原与超分辨率：super-resolution / arbitrary-scale
 
 - Topic ID: `46`
 - Papers: **22** (0.93%)

@@ -1,4 +1,4 @@
-# EMNLP 2025: Chain-of-Thought 与大模型推理
+# EMNLP 2025: Chain-of-Thought 与大模型推理：思维链推理
 
 - Topic ID: `3`
 - Papers: **40** (2.21%)

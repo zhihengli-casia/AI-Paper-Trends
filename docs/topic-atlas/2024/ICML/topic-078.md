@@ -1,4 +1,4 @@
-# ICML 2024: 扩散生成模型
+# ICML 2024: 扩散生成模型：扩散 / purification
 
 - Topic ID: `78`
 - Papers: **16** (0.61%)

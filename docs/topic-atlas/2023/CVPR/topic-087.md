@@ -1,4 +1,4 @@
-# CVPR 2023: NeRF 与神经渲染
+# CVPR 2023: NeRF 与神经渲染：generative / scene
 
 - Topic ID: `87`
 - Papers: **12** (0.51%)

@@ -1,4 +1,4 @@
-# IJCAI 2022: 推荐系统与用户建模
+# IJCAI 2022: 推荐系统与用户建模：causal / infection
 
 - Topic ID: `38`
 - Papers: **11** (1.28%)

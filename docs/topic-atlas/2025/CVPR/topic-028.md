@@ -1,4 +1,4 @@
-# CVPR 2025: 图像复原与超分辨率
+# CVPR 2025: 图像复原与超分辨率：restoration / 去噪
 
 - Topic ID: `28`
 - Papers: **29** (1.01%)

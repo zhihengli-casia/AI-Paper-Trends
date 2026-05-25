@@ -1,4 +1,4 @@
-# NAACL 2025: 机器翻译与跨语言对齐
+# NAACL 2025: 机器翻译与跨语言对齐：financial / translation
 
 - Topic ID: `7`
 - Papers: **23** (3.20%)

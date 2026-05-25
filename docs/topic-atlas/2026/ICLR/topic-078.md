@@ -1,4 +1,4 @@
-# ICLR 2026: 随机优化与收敛理论
+# ICLR 2026: 随机优化与收敛理论：convex / stochastic
 
 - Topic ID: `78`
 - Papers: **33** (0.62%)

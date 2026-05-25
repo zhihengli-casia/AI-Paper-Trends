@@ -1,4 +1,4 @@
-# ACMMM 2023: 领域自适应与迁移学习
+# ACMMM 2023: 领域自适应与迁移学习：domain / adaptation
 
 - Topic ID: `34`
 - Papers: **13** (1.44%)

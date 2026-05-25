@@ -1,4 +1,4 @@
-# ICRA 2021: 机器人操作与具身智能
+# ICRA 2021: 机器人操作与具身智能：behavior / automated
 
 - Topic ID: `43`
 - Papers: **16** (1.17%)

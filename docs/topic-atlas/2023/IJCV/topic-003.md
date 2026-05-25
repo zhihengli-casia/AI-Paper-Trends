@@ -1,4 +1,4 @@
-# IJCV 2023: 语义分割与场景解析
+# IJCV 2023: 语义分割与场景解析：segmentation / 语义
 
 - Topic ID: `3`
 - Papers: **19** (8.56%)

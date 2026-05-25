@@ -1,4 +1,4 @@
-# NeurIPS 2021: 扩散生成模型
+# NeurIPS 2021: 扩散生成模型：mcmc / langevin
 
 - Topic ID: `36`
 - Papers: **25** (1.07%)

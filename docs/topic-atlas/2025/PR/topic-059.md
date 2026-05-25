@@ -1,4 +1,4 @@
-# PR 2025: 少样本分类与开放集识别
+# PR 2025: 少样本分类与开放集识别：multi-label / partial
 
 - Topic ID: `59`
 - Papers: **13** (0.86%)

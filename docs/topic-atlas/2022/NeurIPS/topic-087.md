@@ -1,4 +1,4 @@
-# NeurIPS 2022: 图神经网络与图表示学习
+# NeurIPS 2022: 图神经网络与图表示学习：图学习 / contrastive
 
 - Topic ID: `87`
 - Papers: **14** (0.52%)

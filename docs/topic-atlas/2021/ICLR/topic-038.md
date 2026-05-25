@@ -1,4 +1,4 @@
-# ICLR 2021: 凸/非凸优化理论
+# ICLR 2021: 凸/非凸优化理论：games / convergence
 
 - Topic ID: `38`
 - Papers: **11** (1.28%)

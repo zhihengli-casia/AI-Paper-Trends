@@ -1,4 +1,4 @@
-# SIGGRAPH-Asia 2025: NeRF 与神经渲染
+# SIGGRAPH-Asia 2025: NeRF 与神经渲染：rendering / reconstruction
 
 - Topic ID: `7`
 - Papers: **12** (6.25%)

@@ -1,4 +1,4 @@
-# AAAI 2024: 图像复原与超分辨率
+# AAAI 2024: 图像复原与超分辨率：color / shadow
 
 - Topic ID: `76`
 - Papers: **14** (0.60%)

@@ -1,4 +1,4 @@
-# IROS 2024: 规划搜索与决策推理
+# IROS 2024: 规划搜索与决策推理：trajectory / planning
 
 - Topic ID: `54`
 - Papers: **13** (0.83%)

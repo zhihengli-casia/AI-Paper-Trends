@@ -1,4 +1,4 @@
-# ACMMM 2020: 视频动作识别与时序定位
+# ACMMM 2020: 视频动作识别与时序定位：action / temporal
 
 - Topic ID: `23`
 - Papers: **11** (2.33%)

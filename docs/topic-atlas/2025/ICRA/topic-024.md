@@ -1,4 +1,4 @@
-# ICRA 2025: 扩散生成模型
+# ICRA 2025: 扩散生成模型：pose / estimation
 
 - Topic ID: `24`
 - Papers: **24** (1.51%)

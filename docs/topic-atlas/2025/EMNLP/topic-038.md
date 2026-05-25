@@ -1,4 +1,4 @@
-# EMNLP 2025: 查询理解与检索优化
+# EMNLP 2025: 查询理解与检索优化：sql / schema
 
 - Topic ID: `38`
 - Papers: **19** (1.05%)

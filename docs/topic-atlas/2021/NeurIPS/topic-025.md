@@ -1,4 +1,4 @@
-# NeurIPS 2021: 随机优化与收敛理论
+# NeurIPS 2021: 随机优化与收敛理论：descent / landscape
 
 - Topic ID: `25`
 - Papers: **29** (1.24%)

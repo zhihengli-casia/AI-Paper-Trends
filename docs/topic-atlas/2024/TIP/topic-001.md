@@ -1,4 +1,4 @@
-# TIP 2024: 图像复原与超分辨率
+# TIP 2024: 图像复原与超分辨率：restoration / degradations
 
 - Topic ID: `1`
 - Papers: **32** (6.69%)

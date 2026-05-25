@@ -1,4 +1,4 @@
-# ICML 2023: 强化学习策略与奖励建模
+# ICML 2023: 强化学习策略与奖励建模：off-policy / actor-critic
 
 - Topic ID: `69`
 - Papers: **12** (0.66%)

@@ -1,4 +1,4 @@
-# ICML 2021: 随机优化与收敛理论
+# ICML 2021: 随机优化与收敛理论：momentum / sgd
 
 - Topic ID: `18`
 - Papers: **20** (1.69%)

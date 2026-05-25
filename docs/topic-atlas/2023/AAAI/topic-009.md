@@ -1,4 +1,4 @@
-# AAAI 2023: 强化学习策略与奖励建模
+# AAAI 2023: 强化学习策略与奖励建模：reinforcement learning / 策略优化
 
 - Topic ID: `9`
 - Papers: **29** (1.84%)

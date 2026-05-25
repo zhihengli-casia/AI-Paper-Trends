@@ -1,4 +1,4 @@
-# AAAI 2020: 信息抽取、实体识别与关系抽取
+# AAAI 2020: 信息抽取、实体识别与关系抽取：entity / knowledge graph
 
 - Topic ID: `39`
 - Papers: **17** (1.06%)

@@ -1,4 +1,4 @@
-# PR 2025: 多模态学习与跨模态理解
+# PR 2025: 多模态学习与跨模态理解：change / remote sensing
 
 - Topic ID: `61`
 - Papers: **12** (0.79%)

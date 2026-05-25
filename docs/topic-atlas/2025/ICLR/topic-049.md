@@ -1,4 +1,4 @@
-# ICLR 2025: RAG 与检索增强生成
+# ICLR 2025: RAG 与检索增强生成：RAG / 检索
 
 - Topic ID: `49`
 - Papers: **28** (0.76%)

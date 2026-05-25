@@ -1,4 +1,4 @@
-# IROS 2025: scene / open-vocabulary / understanding / graphs
+# IROS 2025: 开放词汇场景图与语义建图
 
 - Topic ID: `69`
 - Papers: **14** (0.71%)

@@ -1,4 +1,4 @@
-# IROS 2022: 自动驾驶感知与世界模型
+# IROS 2022: 自动驾驶感知与世界模型：prediction / trajectory
 
 - Topic ID: `29`
 - Papers: **17** (1.41%)

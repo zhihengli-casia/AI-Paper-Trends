@@ -1,4 +1,4 @@
-# ICDE 2025: 社交媒体与社会计算
+# ICDE 2025: 社交媒体与社会计算：bipartite graphs / maximum
 
 - Topic ID: `25`
 - Papers: **9** (2.31%)

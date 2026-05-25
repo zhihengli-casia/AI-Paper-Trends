@@ -1,4 +1,4 @@
-# ICRA 2025: 规划搜索与决策推理
+# ICRA 2025: 规划搜索与决策推理：planning / path
 
 - Topic ID: `4`
 - Papers: **41** (2.57%)

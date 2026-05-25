@@ -1,4 +1,4 @@
-# CVPR 2025: 行人重识别与人群计数
+# CVPR 2025: 行人重识别与人群计数：counting / crowd
 
 - Topic ID: `115`
 - Papers: **11** (0.38%)

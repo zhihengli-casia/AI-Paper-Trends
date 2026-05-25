@@ -1,4 +1,4 @@
-# ICCV 2025: 多模态大模型与视觉语言推理
+# ICCV 2025: 多模态大模型与视觉语言推理：instruction / continual
 
 - Topic ID: `62`
 - Papers: **19** (0.70%)

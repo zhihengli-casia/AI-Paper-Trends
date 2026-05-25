@@ -1,4 +1,4 @@
-# PR 2025: 对抗攻击、鲁棒性与安全
+# PR 2025: 对抗攻击、鲁棒性与安全：adversarial / uncertainty
 
 - Topic ID: `78`
 - Papers: **8** (0.53%)

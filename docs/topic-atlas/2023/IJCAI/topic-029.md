@@ -1,4 +1,4 @@
-# IJCAI 2023: 社交媒体与社会计算
+# IJCAI 2023: 社交媒体与社会计算：voting / budgeting
 
 - Topic ID: `29`
 - Papers: **13** (1.53%)

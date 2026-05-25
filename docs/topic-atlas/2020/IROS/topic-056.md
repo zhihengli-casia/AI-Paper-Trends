@@ -1,4 +1,4 @@
-# IROS 2020: 人形机器人与全身控制
+# IROS 2020: 人形机器人与全身控制：impedance / multi-contact
 
 - Topic ID: `56`
 - Papers: **10** (0.90%)

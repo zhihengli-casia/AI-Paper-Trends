@@ -1,4 +1,4 @@
-# AAAI 2021: 信息抽取、实体识别与关系抽取
+# AAAI 2021: 信息抽取、实体识别与关系抽取：link prediction / knowledge graph
 
 - Topic ID: `52`
 - Papers: **15** (0.91%)

@@ -1,4 +1,4 @@
-# ICRA 2025: 机器人操作与抓取
+# ICRA 2025: 机器人操作与抓取：whole-body / 人形
 
 - Topic ID: `21`
 - Papers: **26** (1.63%)

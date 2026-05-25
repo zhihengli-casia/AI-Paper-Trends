@@ -1,4 +1,4 @@
-# EMNLP 2024: Chain-of-Thought 与大模型推理
+# EMNLP 2024: Chain-of-Thought 与大模型推理：cot / analogies
 
 - Topic ID: `38`
 - Papers: **16** (1.26%)

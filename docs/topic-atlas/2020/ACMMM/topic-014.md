@@ -1,4 +1,4 @@
-# ACMMM 2020: 人脸分析、表情与属性建模
+# ACMMM 2020: 人脸分析、表情与属性建模：facial / expression
 
 - Topic ID: `14`
 - Papers: **15** (3.17%)

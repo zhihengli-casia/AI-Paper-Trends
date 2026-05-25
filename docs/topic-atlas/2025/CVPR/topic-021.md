@@ -1,4 +1,4 @@
-# CVPR 2025: 时间序列预测
+# CVPR 2025: 时间序列预测：change detection / satellite
 
 - Topic ID: `21`
 - Papers: **32** (1.11%)

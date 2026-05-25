@@ -1,4 +1,4 @@
-# CVPR 2023: 人脸分析、表情与属性建模
+# CVPR 2023: 人脸分析、表情与属性建模：assessment / image quality
 
 - Topic ID: `89`
 - Papers: **12** (0.51%)

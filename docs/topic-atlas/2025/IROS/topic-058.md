@@ -1,4 +1,4 @@
-# IROS 2025: predictive path / path integral / mpc / mobile
+# IROS 2025: MPC 与安全路径规划
 
 - Topic ID: `58`
 - Papers: **15** (0.76%)

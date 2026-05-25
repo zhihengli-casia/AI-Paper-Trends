@@ -1,4 +1,4 @@
-# AAAI 2025: NeRF 与神经渲染
+# AAAI 2025: NeRF 与神经渲染：watermark / erasure
 
 - Topic ID: `103`
 - Papers: **13** (0.43%)

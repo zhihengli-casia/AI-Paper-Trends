@@ -1,4 +1,4 @@
-# CHI 2025: 机器人遥操作与触觉交互
+# CHI 2025: 机器人遥操作与触觉交互：social / reality
 
 - Topic ID: `18`
 - Papers: **24** (1.93%)

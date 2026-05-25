@@ -1,4 +1,4 @@
-# AAAI 2024: 图像复原与超分辨率
+# AAAI 2024: 图像复原与超分辨率：restoration / rain
 
 - Topic ID: `47`
 - Papers: **21** (0.90%)

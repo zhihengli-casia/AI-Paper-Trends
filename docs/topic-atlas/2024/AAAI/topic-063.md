@@ -1,4 +1,4 @@
-# AAAI 2024: 扩散生成模型
+# AAAI 2024: 扩散生成模型：style / artistic
 
 - Topic ID: `63`
 - Papers: **17** (0.73%)

@@ -1,4 +1,4 @@
-# EMNLP 2025: Mamba 与状态空间视觉模型
+# EMNLP 2025: Mamba 与状态空间视觉模型：nli / arithmetic
 
 - Topic ID: `22`
 - Papers: **23** (1.27%)

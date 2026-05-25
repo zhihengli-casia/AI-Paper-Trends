@@ -1,4 +1,4 @@
-# PR 2020: 图像分割、语义分割与场景解析
+# PR 2020: 图像分割、语义分割与场景解析：probabilistic / homogeneity
 
 - Topic ID: `7`
 - Papers: **19** (3.84%)

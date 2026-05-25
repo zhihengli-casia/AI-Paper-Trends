@@ -1,4 +1,4 @@
-# ACL 2023: Chain-of-Thought 与大模型推理
+# ACL 2023: Chain-of-Thought 与大模型推理：commonsense / 推理
 
 - Topic ID: `24`
 - Papers: **17** (1.58%)

@@ -1,4 +1,4 @@
-# ICDE 2025: 摘要生成与信息压缩
+# ICDE 2025: 摘要生成与信息压缩：图学习 / query processing
 
 - Topic ID: `9`
 - Papers: **14** (3.59%)

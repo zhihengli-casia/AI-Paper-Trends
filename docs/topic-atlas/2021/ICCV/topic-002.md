@@ -1,4 +1,4 @@
-# ICCV 2021: 点云表示与 3D 感知
+# ICCV 2021: 点云表示与 3D 感知：registration / point
 
 - Topic ID: `2`
 - Papers: **40** (2.48%)

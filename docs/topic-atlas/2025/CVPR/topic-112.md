@@ -1,4 +1,4 @@
-# CVPR 2025: 时间序列预测
+# CVPR 2025: 时间序列预测：trajectory / 预测
 
 - Topic ID: `112`
 - Papers: **12** (0.42%)

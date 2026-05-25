@@ -1,4 +1,4 @@
-# ICLR 2026: 长上下文建模与压缩
+# ICLR 2026: 长上下文建模与压缩：sparse attention / linear attention
 
 - Topic ID: `40`
 - Papers: **48** (0.90%)

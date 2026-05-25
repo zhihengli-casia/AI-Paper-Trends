@@ -1,4 +1,4 @@
-# ICLR 2025: 扩散生成模型
+# ICLR 2025: 扩散生成模型：topological / 图学习
 
 - Topic ID: `104`
 - Papers: **17** (0.46%)

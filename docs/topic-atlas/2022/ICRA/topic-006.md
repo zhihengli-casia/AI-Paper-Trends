@@ -1,4 +1,4 @@
-# ICRA 2022: walking / gait / assistance / passive
+# ICRA 2022: 外骨骼步态与假肢控制
 
 - Topic ID: `6`
 - Papers: **27** (2.93%)

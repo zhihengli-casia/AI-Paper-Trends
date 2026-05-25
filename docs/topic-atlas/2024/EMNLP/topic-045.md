@@ -1,4 +1,4 @@
-# EMNLP 2024: 医疗健康与临床 AI
+# EMNLP 2024: 医疗健康与临床 AI：编辑 / lifelong
 
 - Topic ID: `45`
 - Papers: **15** (1.18%)

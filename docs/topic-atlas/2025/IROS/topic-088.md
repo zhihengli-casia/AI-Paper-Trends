@@ -1,4 +1,4 @@
-# IROS 2025: 规划搜索与决策推理
+# IROS 2025: 规划搜索与决策推理：dual-arm / plant
 
 - Topic ID: `88`
 - Papers: **10** (0.51%)

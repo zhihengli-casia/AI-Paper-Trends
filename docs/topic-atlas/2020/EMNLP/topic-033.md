@@ -1,4 +1,4 @@
-# EMNLP 2020: 多语言建模与跨语言迁移
+# EMNLP 2020: 多语言建模与跨语言迁移：parser / multilingual
 
 - Topic ID: `33`
 - Papers: **10** (1.33%)

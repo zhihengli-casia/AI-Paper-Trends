@@ -1,4 +1,4 @@
-# CVPR 2025: 多模态大模型与视觉语言推理
+# CVPR 2025: 多模态大模型与视觉语言推理：hallucination / lvlms
 
 - Topic ID: `77`
 - Papers: **17** (0.59%)

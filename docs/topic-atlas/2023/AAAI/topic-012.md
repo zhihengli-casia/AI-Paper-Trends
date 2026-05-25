@@ -1,4 +1,4 @@
-# AAAI 2023: 领域自适应与迁移学习
+# AAAI 2023: 领域自适应与迁移学习：domain / adaptation
 
 - Topic ID: `12`
 - Papers: **28** (1.78%)

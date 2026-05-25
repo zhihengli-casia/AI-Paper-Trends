@@ -1,4 +1,4 @@
-# ICRA 2025: 机器人遥操作与触觉交互
+# ICRA 2025: 机器人遥操作与触觉交互：bilateral / teleoperation
 
 - Topic ID: `63`
 - Papers: **11** (0.69%)

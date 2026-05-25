@@ -1,4 +1,4 @@
-# AAAI 2024: 扩散生成模型
+# AAAI 2024: 扩散生成模型：differential / pde
 
 - Topic ID: `36`
 - Papers: **25** (1.07%)

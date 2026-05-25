@@ -1,4 +1,4 @@
-# ICLR 2023: 图像分割、语义分割与场景解析
+# ICLR 2023: 图像分割、语义分割与场景解析：uncertainty / active learning
 
 - Topic ID: `70`
 - Papers: **10** (0.65%)

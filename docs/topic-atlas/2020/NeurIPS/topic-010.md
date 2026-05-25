@@ -1,4 +1,4 @@
-# NeurIPS 2020: 在线学习与 regret 理论
+# NeurIPS 2020: 在线学习与 regret 理论：regret / online
 
 - Topic ID: `10`
 - Papers: **33** (1.74%)

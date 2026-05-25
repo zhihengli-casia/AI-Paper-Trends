@@ -1,4 +1,4 @@
-# ACL 2020: 医疗健康与临床 AI
+# ACL 2020: 医疗健康与临床 AI：医学AI / entity
 
 - Topic ID: `31`
 - Papers: **11** (1.41%)

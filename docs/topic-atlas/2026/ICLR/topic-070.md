@@ -1,4 +1,4 @@
-# ICLR 2026: 偏好优化、RLHF 与 DPO
+# ICLR 2026: 偏好优化、RLHF 与 DPO：奖励/偏好建模
 
 - Topic ID: `70`
 - Papers: **36** (0.67%)

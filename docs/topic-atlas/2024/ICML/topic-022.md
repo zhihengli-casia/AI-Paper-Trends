@@ -1,4 +1,4 @@
-# ICML 2024: 时间序列建模与预测
+# ICML 2024: 时间序列建模与预测：causal / variables
 
 - Topic ID: `22`
 - Papers: **38** (1.46%)

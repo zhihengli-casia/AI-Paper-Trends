@@ -1,4 +1,4 @@
-# ACMMM 2021: 人脸分析、表情与属性建模
+# ACMMM 2021: 人脸分析、表情与属性建模：face / facial
 
 - Topic ID: `14`
 - Papers: **16** (2.95%)

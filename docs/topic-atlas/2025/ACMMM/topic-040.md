@@ -1,4 +1,4 @@
-# ACMMM 2025: 多模态学习与跨模态理解
+# ACMMM 2025: 多模态学习与跨模态理解：anomaly / detection
 
 - Topic ID: `40`
 - Papers: **13** (1.04%)

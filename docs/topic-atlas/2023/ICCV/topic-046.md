@@ -1,4 +1,4 @@
-# ICCV 2023: 领域自适应与迁移学习
+# ICCV 2023: 领域自适应与迁移学习：domain generalization / domains
 
 - Topic ID: `46`
 - Papers: **22** (1.02%)

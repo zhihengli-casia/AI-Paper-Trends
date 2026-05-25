@@ -1,4 +1,4 @@
-# WWW 2024: 图神经网络与图表示学习
+# WWW 2024: 图神经网络与图表示学习：graph contrastive / 图神经网络
 
 - Topic ID: `7`
 - Papers: **18** (4.46%)

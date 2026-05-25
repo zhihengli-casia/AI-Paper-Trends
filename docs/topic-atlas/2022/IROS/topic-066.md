@@ -1,4 +1,4 @@
-# IROS 2022: 机器人操作与具身智能
+# IROS 2022: 机器人操作与具身智能：trajectory / 优化
 
 - Topic ID: `66`
 - Papers: **8** (0.67%)

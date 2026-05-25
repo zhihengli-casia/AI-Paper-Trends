@@ -1,4 +1,4 @@
-# ICCV 2021: NeRF 与神经渲染
+# ICCV 2021: NeRF 与神经渲染：nerf / radiance
 
 - Topic ID: `75`
 - Papers: **10** (0.62%)

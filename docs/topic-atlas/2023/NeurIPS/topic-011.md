@@ -1,4 +1,4 @@
-# NeurIPS 2023: 在线学习与 regret 理论
+# NeurIPS 2023: 在线学习与 regret 理论：games / zero-sum
 
 - Topic ID: `11`
 - Papers: **45** (1.40%)

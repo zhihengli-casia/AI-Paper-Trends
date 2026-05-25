@@ -1,4 +1,4 @@
-# ICRA 2021: 人机交互与协作机器人
+# ICRA 2021: 人机交互与协作机器人：collision / avoidance
 
 - Topic ID: `56`
 - Papers: **11** (0.80%)

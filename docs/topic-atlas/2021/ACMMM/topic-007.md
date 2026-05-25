@@ -1,4 +1,4 @@
-# ACMMM 2021: 图像复原与超分辨率
+# ACMMM 2021: 图像复原与超分辨率：inpainting / shadow
 
 - Topic ID: `7`
 - Papers: **19** (3.51%)

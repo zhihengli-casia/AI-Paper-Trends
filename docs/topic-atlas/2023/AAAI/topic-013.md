@@ -1,4 +1,4 @@
-# AAAI 2023: 信息抽取、实体识别与关系抽取
+# AAAI 2023: 信息抽取、实体识别与关系抽取：entities / entity
 
 - Topic ID: `13`
 - Papers: **27** (1.72%)

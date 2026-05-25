@@ -1,4 +1,4 @@
-# CVPR 2025: 3D Gaussian Splatting 与场景重建
+# CVPR 2025: 3D Gaussian Splatting 与场景重建：Splatting / 高斯表示
 
 - Topic ID: `31`
 - Papers: **29** (1.01%)

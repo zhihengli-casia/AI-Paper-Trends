@@ -1,4 +1,4 @@
-# ICML 2020: 随机优化与收敛理论
+# ICML 2020: 随机优化与收敛理论：decentralized / sgd
 
 - Topic ID: `36`
 - Papers: **13** (1.20%)

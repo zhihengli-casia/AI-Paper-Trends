@@ -1,4 +1,4 @@
-# EMNLP 2025: 代码生成与程序理解
+# EMNLP 2025: 代码生成与程序理解：debugging / code generation
 
 - Topic ID: `24`
 - Papers: **23** (1.27%)

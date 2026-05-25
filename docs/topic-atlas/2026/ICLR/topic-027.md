@@ -1,4 +1,4 @@
-# ICLR 2026: 组合优化与神经求解
+# ICLR 2026: 组合优化与神经求解：combinatorial optimization / routing
 
 - Topic ID: `27`
 - Papers: **54** (1.01%)

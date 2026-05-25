@@ -1,4 +1,4 @@
-# PR 2023: 对抗攻击、鲁棒性与安全
+# PR 2023: 对抗攻击、鲁棒性与安全：anomaly / detection
 
 - Topic ID: `38`
 - Papers: **11** (1.37%)

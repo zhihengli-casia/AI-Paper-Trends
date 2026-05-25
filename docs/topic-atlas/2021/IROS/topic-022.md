@@ -1,4 +1,4 @@
-# IROS 2021: 机器人 SLAM 与定位建图
+# IROS 2021: 机器人 SLAM 与定位建图：LiDAR 目标检测
 
 - Topic ID: `22`
 - Papers: **20** (1.96%)

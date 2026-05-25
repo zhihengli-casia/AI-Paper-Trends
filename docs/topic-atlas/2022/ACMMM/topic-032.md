@@ -1,4 +1,4 @@
-# ACMMM 2022: 行人重识别与人群计数
+# ACMMM 2022: 行人重识别与人群计数：person / re-identification
 
 - Topic ID: `32`
 - Papers: **10** (1.45%)

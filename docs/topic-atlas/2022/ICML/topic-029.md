@@ -1,4 +1,4 @@
-# ICML 2022: 强化学习与 MDP 理论
+# ICML 2022: 强化学习与 MDP 理论：bellman / dynamics
 
 - Topic ID: `29`
 - Papers: **17** (1.38%)

@@ -1,4 +1,4 @@
-# AIJ 2024: 规划搜索与决策推理
+# AIJ 2024: 规划搜索与决策推理：planning / open
 
 - Topic ID: `10`
 - Papers: **7** (6.09%)

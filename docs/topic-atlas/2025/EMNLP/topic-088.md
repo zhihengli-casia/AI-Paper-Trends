@@ -1,4 +1,4 @@
-# EMNLP 2025: 摘要生成与信息压缩
+# EMNLP 2025: 摘要生成与信息压缩：argumentative / rhetorical
 
 - Topic ID: `88`
 - Papers: **9** (0.50%)

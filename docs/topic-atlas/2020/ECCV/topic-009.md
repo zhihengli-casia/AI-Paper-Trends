@@ -1,4 +1,4 @@
-# ECCV 2020: 领域自适应与迁移学习
+# ECCV 2020: 领域自适应与迁移学习：domain / adaptation
 
 - Topic ID: `9`
 - Papers: **27** (1.99%)

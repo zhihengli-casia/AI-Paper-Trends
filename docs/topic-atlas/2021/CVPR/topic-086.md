@@ -1,4 +1,4 @@
-# CVPR 2021: 行人重识别与人群计数
+# CVPR 2021: 行人重识别与人群计数：person / reid
 
 - Topic ID: `86`
 - Papers: **9** (0.54%)

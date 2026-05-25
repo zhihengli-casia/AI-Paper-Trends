@@ -1,4 +1,4 @@
-# ICML 2021: 强化学习策略与奖励建模
+# ICML 2021: 强化学习策略与奖励建模：策略优化 / reinforcement learning
 
 - Topic ID: `2`
 - Papers: **38** (3.21%)

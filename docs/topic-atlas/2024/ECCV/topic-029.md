@@ -1,4 +1,4 @@
-# ECCV 2024: 视频动作识别与时序定位
+# ECCV 2024: 视频动作识别与时序定位：action / temporal
 
 - Topic ID: `29`
 - Papers: **24** (1.01%)

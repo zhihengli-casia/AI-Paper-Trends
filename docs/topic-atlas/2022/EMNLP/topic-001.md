@@ -1,4 +1,4 @@
-# EMNLP 2022: 语音识别与语音理解
+# EMNLP 2022: 语音识别与语音理解：claim / fact-checking
 
 - Topic ID: `1`
 - Papers: **34** (4.11%)

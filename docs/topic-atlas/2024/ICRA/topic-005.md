@@ -1,4 +1,4 @@
-# ICRA 2024: 规划搜索与决策推理
+# ICRA 2024: 规划搜索与决策推理：control barrier / safety
 
 - Topic ID: `5`
 - Papers: **36** (2.07%)

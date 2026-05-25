@@ -1,4 +1,4 @@
-# AAAI 2026: 3D Gaussian Splatting 与场景重建
+# AAAI 2026: 3D Gaussian Splatting 与场景重建：Splatting / 高斯表示
 
 - Topic ID: `48`
 - Papers: **34** (0.82%)

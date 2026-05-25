@@ -1,4 +1,4 @@
-# CHI 2024: 医疗健康与临床 AI
+# CHI 2024: 医疗健康与临床 AI：chronic / patient
 
 - Topic ID: `24`
 - Papers: **19** (1.81%)

@@ -1,4 +1,4 @@
-# ACMMM 2023: 联邦学习与分布式训练
+# ACMMM 2023: 联邦学习与分布式训练：federated / clients
 
 - Topic ID: `46`
 - Papers: **9** (1.00%)

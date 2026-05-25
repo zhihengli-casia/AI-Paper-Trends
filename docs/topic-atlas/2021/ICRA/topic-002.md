@@ -1,4 +1,4 @@
-# ICRA 2021: 规划搜索与决策推理
+# ICRA 2021: 规划搜索与决策推理：assembly / manipulation
 
 - Topic ID: `2`
 - Papers: **43** (3.14%)

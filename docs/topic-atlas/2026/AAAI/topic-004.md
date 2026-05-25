@@ -1,4 +1,4 @@
-# AAAI 2026: 规划搜索与决策推理
+# AAAI 2026: 规划搜索与决策推理：智能体 / multi-agent
 
 - Topic ID: `4`
 - Papers: **83** (2.00%)

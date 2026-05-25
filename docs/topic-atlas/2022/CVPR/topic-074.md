@@ -1,4 +1,4 @@
-# CVPR 2022: 人脸分析、表情与属性建模
+# CVPR 2022: 人脸分析、表情与属性建模：face / facial（Topic 074）
 
 - Topic ID: `74`
 - Papers: **13** (0.63%)

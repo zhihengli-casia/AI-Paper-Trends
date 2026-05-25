@@ -1,4 +1,4 @@
-# ICRA 2024: 机器人操作与具身智能
+# ICRA 2024: 机器人操作与具身智能：predictive / actuator
 
 - Topic ID: `74`
 - Papers: **11** (0.63%)

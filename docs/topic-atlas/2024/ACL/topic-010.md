@@ -1,4 +1,4 @@
-# ACL 2024: 机器翻译与跨语言对齐
+# ACL 2024: 机器翻译与跨语言对齐：translation / machine
 
 - Topic ID: `10`
 - Papers: **27** (2.87%)

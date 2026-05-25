@@ -1,4 +1,4 @@
-# ICML 2024: 随机优化与收敛理论
+# ICML 2024: 随机优化与收敛理论：stochastic / sgd
 
 - Topic ID: `28`
 - Papers: **31** (1.19%)

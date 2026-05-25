@@ -1,4 +1,4 @@
-# EMNLP 2022: 查询理解与检索优化
+# EMNLP 2022: 查询理解与检索优化：检索 / answering
 
 - Topic ID: `22`
 - Papers: **17** (2.05%)

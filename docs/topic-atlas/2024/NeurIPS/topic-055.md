@@ -1,4 +1,4 @@
-# NeurIPS 2024: 在线学习与 regret 理论
+# NeurIPS 2024: 在线学习与 regret 理论：regret / bandits
 
 - Topic ID: `55`
 - Papers: **34** (0.84%)

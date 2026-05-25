@@ -1,4 +1,4 @@
-# PR 2025: 语义分割与场景解析
+# PR 2025: 语义分割与场景解析：semantic segmentation / weakly supervised semantic
 
 - Topic ID: `72`
 - Papers: **9** (0.60%)

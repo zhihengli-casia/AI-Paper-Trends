@@ -1,4 +1,4 @@
-# ICRA 2023: 机器人操作与具身智能
+# ICRA 2023: 机器人操作与具身智能：motion generation / collision detection
 
 - Topic ID: `16`
 - Papers: **23** (1.73%)

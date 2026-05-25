@@ -1,4 +1,4 @@
-# CVPR 2024: LiDAR 点云与 3D 感知
+# CVPR 2024: LiDAR 点云与 3D 感知：localization / place
 
 - Topic ID: `70`
 - Papers: **17** (0.63%)

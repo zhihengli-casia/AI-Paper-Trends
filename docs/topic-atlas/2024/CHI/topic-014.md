@@ -1,4 +1,4 @@
-# CHI 2024: 医疗健康与临床 AI
+# CHI 2024: 医疗健康与临床 AI：patients / language
 
 - Topic ID: `14`
 - Papers: **22** (2.10%)

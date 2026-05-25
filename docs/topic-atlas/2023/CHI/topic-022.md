@@ -1,4 +1,4 @@
-# CHI 2023: 社交媒体与社会计算
+# CHI 2023: 社交媒体与社会计算：virtual reality / social
 
 - Topic ID: `22`
 - Papers: **17** (1.95%)

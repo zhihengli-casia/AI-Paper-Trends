@@ -1,4 +1,4 @@
-# ACL 2024: 多模态大模型与视觉语言推理
+# ACL 2024: 多模态大模型与视觉语言推理：hallucination / lvlms
 
 - Topic ID: `23`
 - Papers: **16** (1.70%)

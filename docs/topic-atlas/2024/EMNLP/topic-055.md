@@ -1,4 +1,4 @@
-# EMNLP 2024: 医疗健康与临床 AI
+# EMNLP 2024: 医疗健康与临床 AI：医学AI / 健康AI
 
 - Topic ID: `55`
 - Papers: **10** (0.79%)

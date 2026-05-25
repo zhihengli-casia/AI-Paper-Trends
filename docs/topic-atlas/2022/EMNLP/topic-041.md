@@ -1,4 +1,4 @@
-# EMNLP 2022: 语音识别与语音理解
+# EMNLP 2022: 语音识别与语音理解：embodied / dialogue
 
 - Topic ID: `41`
 - Papers: **10** (1.21%)

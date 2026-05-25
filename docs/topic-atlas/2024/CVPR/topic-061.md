@@ -1,4 +1,4 @@
-# CVPR 2024: NeRF 与神经渲染
+# CVPR 2024: NeRF 与神经渲染：photometric stereo / rendering
 
 - Topic ID: `61`
 - Papers: **20** (0.74%)

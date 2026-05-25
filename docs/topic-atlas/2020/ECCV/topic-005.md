@@ -1,4 +1,4 @@
-# ECCV 2020: LiDAR 点云与 3D 感知
+# ECCV 2020: LiDAR 点云与 3D 感知：LiDAR 目标检测
 
 - Topic ID: `5`
 - Papers: **29** (2.14%)

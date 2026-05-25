@@ -1,4 +1,4 @@
-# AAAI 2024: 图像复原与超分辨率
+# AAAI 2024: 图像复原与超分辨率：super-resolution / vsr
 
 - Topic ID: `32`
 - Papers: **27** (1.16%)

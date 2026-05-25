@@ -1,4 +1,4 @@
-# ICML 2025: 长上下文建模与压缩
+# ICML 2025: 长上下文建模与压缩：long-context / length generalization
 
 - Topic ID: `41`
 - Papers: **27** (0.81%)

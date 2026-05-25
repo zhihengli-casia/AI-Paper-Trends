@@ -1,4 +1,4 @@
-# CHI 2025: 多模态学习与跨模态理解
+# CHI 2025: 多模态学习与跨模态理解：generative / images
 
 - Topic ID: `32`
 - Papers: **15** (1.21%)

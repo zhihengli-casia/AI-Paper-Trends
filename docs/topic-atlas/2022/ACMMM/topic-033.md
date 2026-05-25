@@ -1,4 +1,4 @@
-# ACMMM 2022: 点云表示与 3D 感知
+# ACMMM 2022: 点云表示与 3D 感知：point / cloud
 
 - Topic ID: `33`
 - Papers: **10** (1.45%)

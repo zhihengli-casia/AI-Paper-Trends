@@ -1,4 +1,4 @@
-# PR 2025: 无人机/四旋翼规划与控制
+# PR 2025: 无人机/四旋翼规划与控制：object detection / small object
 
 - Topic ID: `64`
 - Papers: **11** (0.73%)

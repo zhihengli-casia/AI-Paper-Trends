@@ -1,4 +1,4 @@
-# ACL 2024: Chain-of-Thought 与大模型推理
+# ACL 2024: Chain-of-Thought 与大模型推理：lms / numeric
 
 - Topic ID: `31`
 - Papers: **14** (1.49%)

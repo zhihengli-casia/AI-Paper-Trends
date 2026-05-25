@@ -1,4 +1,4 @@
-# ICRA 2024: 机器人遥操作与触觉交互
+# ICRA 2024: 机器人遥操作与触觉交互：teleoperation / human
 
 - Topic ID: `11`
 - Papers: **31** (1.78%)

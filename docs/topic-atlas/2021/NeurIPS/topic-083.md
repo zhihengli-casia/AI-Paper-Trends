@@ -1,4 +1,4 @@
-# NeurIPS 2021: 强化学习算法与理论
+# NeurIPS 2021: 强化学习算法与理论：reinforcement learning / sample-efficient
 
 - Topic ID: `83`
 - Papers: **12** (0.51%)

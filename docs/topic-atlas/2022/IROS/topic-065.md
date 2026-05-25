@@ -1,4 +1,4 @@
-# IROS 2022: 机器人操作与具身智能
+# IROS 2022: 机器人操作与具身智能：modular / reconfigurable
 
 - Topic ID: `65`
 - Papers: **9** (0.75%)

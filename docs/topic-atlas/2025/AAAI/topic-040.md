@@ -1,4 +1,4 @@
-# AAAI 2025: 强化学习算法与理论
+# AAAI 2025: 强化学习算法与理论：multi-agent / 智能体
 
 - Topic ID: `40`
 - Papers: **28** (0.92%)

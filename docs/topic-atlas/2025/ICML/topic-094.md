@@ -1,4 +1,4 @@
-# ICML 2025: 在线学习与 regret 理论
+# ICML 2025: 在线学习与 regret 理论：bayesian optimization / lower-level
 
 - Topic ID: `94`
 - Papers: **17** (0.51%)

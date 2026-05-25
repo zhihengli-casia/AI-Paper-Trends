@@ -1,4 +1,4 @@
-# NeurIPS 2025: 在线学习与 regret 理论
+# NeurIPS 2025: 在线学习与 regret 理论：bayesian optimization / black-box optimization
 
 - Topic ID: `54`
 - Papers: **38** (0.72%)

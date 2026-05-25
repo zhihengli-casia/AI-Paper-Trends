@@ -1,4 +1,4 @@
-# ICLR 2024: 机器人操作与抓取
+# ICLR 2024: 机器人操作与抓取：planning / action
 
 - Topic ID: `27`
 - Papers: **27** (1.19%)

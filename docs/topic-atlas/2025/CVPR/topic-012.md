@@ -1,4 +1,4 @@
-# CVPR 2025: 多模态学习与跨模态理解
+# CVPR 2025: 多模态学习与跨模态理解：autoregressive / visual generation
 
 - Topic ID: `12`
 - Papers: **37** (1.29%)

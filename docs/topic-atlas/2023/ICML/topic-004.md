@@ -1,4 +1,4 @@
-# ICML 2023: 多模态学习与跨模态理解
+# ICML 2023: 多模态学习与跨模态理解：clip / language
 
 - Topic ID: `4`
 - Papers: **39** (2.13%)

@@ -1,4 +1,4 @@
-# ICLR 2020: 随机优化与收敛理论
+# ICLR 2020: 随机优化与收敛理论：sgd / federated
 
 - Topic ID: `28`
 - Papers: **12** (1.75%)

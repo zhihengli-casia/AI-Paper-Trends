@@ -1,4 +1,4 @@
-# CVPR 2020: 实例分割与开放词汇分割
+# CVPR 2020: 实例分割与开放词汇分割：point / object detection
 
 - Topic ID: `22`
 - Papers: **20** (1.36%)

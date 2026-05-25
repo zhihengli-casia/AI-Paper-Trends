@@ -1,4 +1,4 @@
-# PR 2024: 少样本分类与开放集识别
+# PR 2024: 少样本分类与开放集识别：anomaly / detection
 
 - Topic ID: `15`
 - Papers: **21** (2.19%)

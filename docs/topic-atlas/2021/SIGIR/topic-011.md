@@ -1,4 +1,4 @@
-# SIGIR 2021: 推荐系统与用户建模
+# SIGIR 2021: 推荐系统与用户建模：序列 / sequences
 
 - Topic ID: `11`
 - Papers: **7** (4.64%)

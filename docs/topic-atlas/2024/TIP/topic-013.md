@@ -1,4 +1,4 @@
-# TIP 2024: 图像复原与超分辨率
+# TIP 2024: 图像复原与超分辨率：hyperspectral / change
 
 - Topic ID: `13`
 - Papers: **16** (3.35%)

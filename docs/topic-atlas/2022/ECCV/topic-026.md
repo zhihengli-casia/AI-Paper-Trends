@@ -1,4 +1,4 @@
-# ECCV 2022: 3D 形状重建与隐式表示
+# ECCV 2022: 3D 形状重建与隐式表示：shape / implicit
 
 - Topic ID: `26`
 - Papers: **22** (1.34%)

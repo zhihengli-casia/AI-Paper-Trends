@@ -1,4 +1,4 @@
-# NeurIPS 2024: 公平性、偏见与可信 AI
+# NeurIPS 2024: 公平性、偏见与可信 AI：公平性（Topic 086）
 
 - Topic ID: `86`
 - Papers: **20** (0.50%)

@@ -1,4 +1,4 @@
-# ECCV 2022: 点云表示与 3D 感知
+# ECCV 2022: 点云表示与 3D 感知：point / instance
 
 - Topic ID: `67`
 - Papers: **11** (0.67%)

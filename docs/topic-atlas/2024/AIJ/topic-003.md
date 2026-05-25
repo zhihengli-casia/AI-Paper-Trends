@@ -1,4 +1,4 @@
-# AIJ 2024: 在线学习与 regret 理论
+# AIJ 2024: 在线学习与 regret 理论：智能体 / social
 
 - Topic ID: `3`
 - Papers: **11** (9.57%)

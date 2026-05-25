@@ -1,4 +1,4 @@
-# IJCAI 2024: 强化学习策略与奖励建模
+# IJCAI 2024: 强化学习策略与奖励建模：multi-agent / marl
 
 - Topic ID: `9`
 - Papers: **24** (2.29%)

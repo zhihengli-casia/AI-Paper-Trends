@@ -1,4 +1,4 @@
-# ICRA 2021: 规划搜索与决策推理
+# ICRA 2021: 规划搜索与决策推理：reinforcement / 策略优化
 
 - Topic ID: `0`
 - Papers: **53** (3.87%)

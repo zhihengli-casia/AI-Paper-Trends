@@ -1,4 +1,4 @@
-# NeurIPS 2022: 随机优化与收敛理论
+# NeurIPS 2022: 随机优化与收敛理论：lyapunov / stability
 
 - Topic ID: `67`
 - Papers: **17** (0.64%)

@@ -1,4 +1,4 @@
-# TNNLS 2023: 时间序列预测
+# TNNLS 2023: 时间序列预测：power / 预测
 
 - Topic ID: `34`
 - Papers: **15** (1.46%)

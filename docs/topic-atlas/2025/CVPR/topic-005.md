@@ -1,4 +1,4 @@
-# CVPR 2025: 图像复原与超分辨率
+# CVPR 2025: 图像复原与超分辨率：mamba / scanning
 
 - Topic ID: `5`
 - Papers: **50** (1.74%)

@@ -1,4 +1,4 @@
-# EMNLP 2021: 多语言建模与跨语言迁移
+# EMNLP 2021: 多语言建模与跨语言迁移：cross-lingual / multilingual
 
 - Topic ID: `27`
 - Papers: **12** (1.42%)

@@ -1,4 +1,4 @@
-# NeurIPS 2022: 随机优化与收敛理论
+# NeurIPS 2022: 随机优化与收敛理论：sgd / stochastic
 
 - Topic ID: `14`
 - Papers: **40** (1.50%)

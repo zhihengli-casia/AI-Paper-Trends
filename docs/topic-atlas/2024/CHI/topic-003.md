@@ -1,4 +1,4 @@
-# CHI 2024: 机器人遥操作与触觉交互
+# CHI 2024: 机器人遥操作与触觉交互：haptic / interaction
 
 - Topic ID: `3`
 - Papers: **33** (3.14%)

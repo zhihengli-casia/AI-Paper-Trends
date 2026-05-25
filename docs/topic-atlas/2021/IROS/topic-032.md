@@ -1,4 +1,4 @@
-# IROS 2021: 规划搜索与决策推理
+# IROS 2021: 规划搜索与决策推理：trajectory / predictive
 
 - Topic ID: `32`
 - Papers: **15** (1.47%)

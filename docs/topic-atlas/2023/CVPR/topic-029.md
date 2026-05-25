@@ -1,4 +1,4 @@
-# CVPR 2023: NeRF 与神经渲染
+# CVPR 2023: NeRF 与神经渲染：inverse rendering / lighting
 
 - Topic ID: `29`
 - Papers: **28** (1.19%)

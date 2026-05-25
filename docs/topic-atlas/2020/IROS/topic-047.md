@@ -1,4 +1,4 @@
-# IROS 2020: 足式机器人与运动控制
+# IROS 2020: 足式机器人与运动控制：snake / autonomous navigation
 
 - Topic ID: `47`
 - Papers: **13** (1.17%)

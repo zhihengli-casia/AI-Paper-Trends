@@ -1,4 +1,4 @@
-# ACL 2024: Chain-of-Thought 与大模型推理
+# ACL 2024: Chain-of-Thought 与大模型推理：思维链推理
 
 - Topic ID: `2`
 - Papers: **44** (4.68%)

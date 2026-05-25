@@ -1,4 +1,4 @@
-# EMNLP 2024: 参数高效微调与模型适配
+# EMNLP 2024: 参数高效微调与模型适配：提示 / engineering
 
 - Topic ID: `17`
 - Papers: **24** (1.89%)

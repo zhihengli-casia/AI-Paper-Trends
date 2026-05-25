@@ -1,4 +1,4 @@
-# CHI 2024: 社交媒体与社会计算
+# CHI 2024: 社交媒体与社会计算：game / community
 
 - Topic ID: `21`
 - Papers: **19** (1.81%)

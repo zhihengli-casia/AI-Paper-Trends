@@ -1,4 +1,4 @@
-# ICRA 2023: 强化学习算法与理论
+# ICRA 2023: 强化学习算法与理论：learning predictive / goal
 
 - Topic ID: `40`
 - Papers: **15** (1.13%)

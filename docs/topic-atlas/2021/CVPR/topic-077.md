@@ -1,4 +1,4 @@
-# CVPR 2021: GAN 与图像生成
+# CVPR 2021: GAN 与图像生成：layout / generation
 
 - Topic ID: `77`
 - Papers: **10** (0.60%)

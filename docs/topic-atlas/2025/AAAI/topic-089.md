@@ -1,4 +1,4 @@
-# AAAI 2025: 深度估计与立体匹配
+# AAAI 2025: 深度估计与立体匹配：rain / shadow removal
 
 - Topic ID: `89`
 - Papers: **16** (0.53%)

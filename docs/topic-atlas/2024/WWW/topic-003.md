@@ -1,4 +1,4 @@
-# WWW 2024: 社交媒体与社会计算
+# WWW 2024: 社交媒体与社会计算：news / social
 
 - Topic ID: `3`
 - Papers: **22** (5.45%)

@@ -1,4 +1,4 @@
-# EMNLP 2023: 多语言建模与跨语言迁移
+# EMNLP 2023: 多语言建模与跨语言迁移：languages / arabic
 
 - Topic ID: `22`
 - Papers: **18** (1.72%)

@@ -1,4 +1,4 @@
-# ECCV 2020: 视频动作生成与运动控制
+# ECCV 2020: 视频动作生成与运动控制：event / cameras
 
 - Topic ID: `41`
 - Papers: **14** (1.03%)

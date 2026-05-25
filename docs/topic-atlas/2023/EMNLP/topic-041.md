@@ -1,4 +1,4 @@
-# EMNLP 2023: 信息抽取、实体识别与关系抽取
+# EMNLP 2023: 信息抽取、实体识别与关系抽取：relation / extraction
 
 - Topic ID: `41`
 - Papers: **11** (1.05%)

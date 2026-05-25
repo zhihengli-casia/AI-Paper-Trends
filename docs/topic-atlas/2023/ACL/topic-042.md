@@ -1,4 +1,4 @@
-# ACL 2023: 机器翻译与跨语言对齐
+# ACL 2023: 机器翻译与跨语言对齐：translation / scene
 
 - Topic ID: `42`
 - Papers: **14** (1.30%)

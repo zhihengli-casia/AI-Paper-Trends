@@ -1,4 +1,4 @@
-# CHI 2025: 机器人遥操作与触觉交互
+# CHI 2025: 机器人遥操作与触觉交互：sensors / sensing
 
 - Topic ID: `60`
 - Papers: **10** (0.80%)

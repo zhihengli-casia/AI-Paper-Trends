@@ -1,4 +1,4 @@
-# TNNLS 2025: 时间序列建模与预测
+# TNNLS 2025: 时间序列建模与预测：feature selection / causal
 
 - Topic ID: `26`
 - Papers: **13** (1.63%)

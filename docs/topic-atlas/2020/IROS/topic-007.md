@@ -1,4 +1,4 @@
-# IROS 2020: 机器人操作与具身智能
+# IROS 2020: 机器人操作与具身智能：temporal / programming
 
 - Topic ID: `7`
 - Papers: **26** (2.33%)

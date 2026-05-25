@@ -1,4 +1,4 @@
-# ICLR 2022: Conformal Prediction 与不确定性校准
+# ICLR 2022: Conformal Prediction 与不确定性校准：ood / uncertainty
 
 - Topic ID: `48`
 - Papers: **10** (0.94%)

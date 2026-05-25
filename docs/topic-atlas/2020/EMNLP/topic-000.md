@@ -1,4 +1,4 @@
-# EMNLP 2020: 句法知识与语言学分析
+# EMNLP 2020: 句法知识与语言学分析：languages / word
 
 - Topic ID: `0`
 - Papers: **43** (5.73%)

@@ -1,4 +1,4 @@
-# ACL 2025: Mamba 与状态空间视觉模型
+# ACL 2025: Mamba 与状态空间视觉模型：explanations / causal
 
 - Topic ID: `47`
 - Papers: **17** (1.00%)

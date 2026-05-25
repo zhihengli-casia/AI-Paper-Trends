@@ -1,4 +1,4 @@
-# NeurIPS 2021: 强化学习策略与奖励建模
+# NeurIPS 2021: 强化学习策略与奖励建模：Bandit
 
 - Topic ID: `2`
 - Papers: **78** (3.34%)

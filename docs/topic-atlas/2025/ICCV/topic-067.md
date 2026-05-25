@@ -1,4 +1,4 @@
-# ICCV 2025: 文生图生成与个性化编辑
+# ICCV 2025: 文生图生成与个性化编辑：layout / diffusion transformers
 
 - Topic ID: `67`
 - Papers: **18** (0.67%)

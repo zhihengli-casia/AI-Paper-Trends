@@ -1,4 +1,4 @@
-# ICML 2025: 扩散生成模型
+# ICML 2025: 扩散生成模型：tabular / tabpfn
 
 - Topic ID: `128`
 - Papers: **13** (0.39%)

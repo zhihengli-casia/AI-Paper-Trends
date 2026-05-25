@@ -1,4 +1,4 @@
-# NeurIPS 2025: 随机优化与收敛理论
+# NeurIPS 2025: 随机优化与收敛理论：sgd / convex
 
 - Topic ID: `2`
 - Papers: **96** (1.82%)

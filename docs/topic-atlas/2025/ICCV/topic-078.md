@@ -1,4 +1,4 @@
-# ICCV 2025: 视频动作生成与运动控制
+# ICCV 2025: 视频动作生成与运动控制：identity / facial
 
 - Topic ID: `78`
 - Papers: **16** (0.59%)

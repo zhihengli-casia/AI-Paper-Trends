@@ -1,4 +1,4 @@
-# EMNLP 2024: 多语言建模与跨语言迁移
+# EMNLP 2024: 多语言建模与跨语言迁移：speech / asr
 
 - Topic ID: `3`
 - Papers: **38** (3.00%)

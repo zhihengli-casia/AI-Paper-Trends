@@ -1,4 +1,4 @@
-# ICRA 2025: 扩散生成模型
+# ICRA 2025: 扩散生成模型：augmentation / anomaly
 
 - Topic ID: `34`
 - Papers: **22** (1.38%)

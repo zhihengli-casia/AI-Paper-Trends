@@ -1,4 +1,4 @@
-# IJCAI 2025: LLM Agent 与工具使用
+# IJCAI 2025: LLM Agent 与工具使用：智能体 / 大语言模型
 
 - Topic ID: `18`
 - Papers: **21** (1.64%)

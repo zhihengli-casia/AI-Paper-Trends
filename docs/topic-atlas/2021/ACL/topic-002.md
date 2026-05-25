@@ -1,4 +1,4 @@
-# ACL 2021: 多语言建模与跨语言迁移
+# ACL 2021: 多语言建模与跨语言迁移：fine-tuning / adapter
 
 - Topic ID: `2`
 - Papers: **36** (5.07%)

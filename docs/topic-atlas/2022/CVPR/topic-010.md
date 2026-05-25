@@ -1,4 +1,4 @@
-# CVPR 2022: 视频动作生成与运动控制
+# CVPR 2022: 视频动作生成与运动控制：super-resolution / 视频理解/生成
 
 - Topic ID: `10`
 - Papers: **39** (1.88%)

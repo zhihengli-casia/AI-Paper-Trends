@@ -1,4 +1,4 @@
-# ICML 2022: 联邦学习与分布式训练
+# ICML 2022: 联邦学习与分布式训练：federated / communication
 
 - Topic ID: `35`
 - Papers: **15** (1.22%)

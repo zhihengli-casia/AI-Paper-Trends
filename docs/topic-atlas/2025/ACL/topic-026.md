@@ -1,4 +1,4 @@
-# ACL 2025: 机器翻译与跨语言对齐
+# ACL 2025: 机器翻译与跨语言对齐：translation / low-resource
 
 - Topic ID: `26`
 - Papers: **21** (1.24%)

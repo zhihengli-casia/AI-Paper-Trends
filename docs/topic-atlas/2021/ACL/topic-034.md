@@ -1,4 +1,4 @@
-# ACL 2021: 机器翻译与跨语言对齐
+# ACL 2021: 机器翻译与跨语言对齐：translation / word-level
 
 - Topic ID: `34`
 - Papers: **9** (1.27%)

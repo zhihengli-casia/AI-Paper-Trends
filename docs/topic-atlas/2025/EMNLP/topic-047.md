@@ -1,4 +1,4 @@
-# EMNLP 2025: 社交媒体与社会计算
+# EMNLP 2025: 社交媒体与社会计算：stance / news
 
 - Topic ID: `47`
 - Papers: **17** (0.94%)

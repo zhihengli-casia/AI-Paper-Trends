@@ -1,4 +1,4 @@
-# ICML 2024: 强化学习算法与理论
+# ICML 2024: 强化学习算法与理论：策略优化 / reinforcement learning（Topic 071）
 
 - Topic ID: `71`
 - Papers: **17** (0.65%)

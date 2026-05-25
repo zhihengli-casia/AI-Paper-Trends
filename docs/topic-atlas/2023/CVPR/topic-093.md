@@ -1,4 +1,4 @@
-# CVPR 2023: 视频动作生成与运动控制
+# CVPR 2023: 视频动作生成与运动控制：coding / video compression
 
 - Topic ID: `93`
 - Papers: **12** (0.51%)

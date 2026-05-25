@@ -1,4 +1,4 @@
-# ACL 2020: 机器翻译与跨语言对齐
+# ACL 2020: 机器翻译与跨语言对齐：translation / nmt（Topic 013）
 
 - Topic ID: `13`
 - Papers: **20** (2.57%)

@@ -1,13 +1,15 @@
 # AI Paper Topic Atlas
 
-Fine-grained topic index generated from AI conference and journal papers.
+Continuously updated fine-grained topic index generated from AI conference and journal papers.
 
 Navigation pattern: **year -> venue -> topic -> paper**.
 
-- Venue-year groups: **160**
-- Papers: **155,662**
-- Fine topics: **7,378**
-- Final outliers: **25**
+The numbers below describe the current checked-in index. They are expected to grow as new venues, years, and proceedings are added.
+
+- Indexed venue-year groups: **160**
+- Indexed papers: **155,662**
+- Fine-grained topic pages: **7,378**
+- Unassigned papers after reassignment: **25**
 
 ## Years
 
@@ -63,4 +65,4 @@ Navigation pattern: **year -> venue -> topic -> paper**.
 - [venue_year_summary.csv](data/venue_year_summary.csv)
 - [topic_index.csv](data/topic_index.csv)
 
-Topic labels include a reproducible English keyword label and a heuristic Chinese display name. The Chinese name is designed for browsing and visualization; use representative paper titles for audit.
+Topic labels include a reproducible English keyword label and a heuristic Chinese display name. Chinese display names are disambiguated within each venue-year when multiple fine topics share the same base label. Use representative paper titles for audit.

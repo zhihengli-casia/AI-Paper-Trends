@@ -1,4 +1,4 @@
-# NeurIPS 2025: 在线学习与 regret 理论
+# NeurIPS 2025: 在线学习与 regret 理论：constraint / optimization problems
 
 - Topic ID: `80`
 - Papers: **32** (0.61%)

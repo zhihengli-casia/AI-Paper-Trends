@@ -1,4 +1,4 @@
-# ECCV 2024: 多模态学习与跨模态理解
+# ECCV 2024: 多模态学习与跨模态理解：animal / metadata
 
 - Topic ID: `72`
 - Papers: **14** (0.59%)

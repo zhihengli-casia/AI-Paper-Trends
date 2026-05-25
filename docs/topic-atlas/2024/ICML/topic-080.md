@@ -1,4 +1,4 @@
-# ICML 2024: 强化学习策略与奖励建模
+# ICML 2024: 强化学习策略与奖励建模：exploration / reward-free
 
 - Topic ID: `80`
 - Papers: **15** (0.57%)

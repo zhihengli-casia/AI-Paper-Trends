@@ -1,4 +1,4 @@
-# ICCV 2025: 多模态融合与跨模态表示
+# ICCV 2025: 多模态融合与跨模态表示：modality / modalities
 
 - Topic ID: `56`
 - Papers: **21** (0.78%)

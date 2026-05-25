@@ -1,4 +1,4 @@
-# NeurIPS 2024: 神经架构搜索与模型设计
+# NeurIPS 2024: 神经架构搜索与模型设计：circuits / merging
 
 - Topic ID: `79`
 - Papers: **23** (0.57%)

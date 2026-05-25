@@ -1,4 +1,4 @@
-# ICLR 2024: 扩散生成模型
+# ICLR 2024: 扩散生成模型：unlearning / concept bottleneck
 
 - Topic ID: `78`
 - Papers: **14** (0.62%)

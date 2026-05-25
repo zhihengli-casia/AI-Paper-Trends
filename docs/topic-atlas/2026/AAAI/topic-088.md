@@ -1,4 +1,4 @@
-# AAAI 2026: 机器人操作与抓取
+# AAAI 2026: 机器人操作与抓取：vla / action
 
 - Topic ID: `88`
 - Papers: **22** (0.53%)

@@ -1,4 +1,4 @@
-# ICCV 2025: 3D Gaussian Splatting 与场景重建
+# ICCV 2025: 3D Gaussian Splatting 与场景重建：occupancy / Splatting
 
 - Topic ID: `75`
 - Papers: **16** (0.59%)

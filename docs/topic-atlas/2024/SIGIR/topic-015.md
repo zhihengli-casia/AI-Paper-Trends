@@ -1,4 +1,4 @@
-# SIGIR 2024: 摘要生成与信息压缩
+# SIGIR 2024: 摘要生成与信息压缩：sentiment / entity
 
 - Topic ID: `15`
 - Papers: **7** (3.27%)

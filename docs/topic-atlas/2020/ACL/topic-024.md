@@ -1,4 +1,4 @@
-# ACL 2020: 社交媒体与社会计算
+# ACL 2020: 社交媒体与社会计算：claims / verification
 
 - Topic ID: `24`
 - Papers: **15** (1.93%)

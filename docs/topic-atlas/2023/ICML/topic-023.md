@@ -1,4 +1,4 @@
-# ICML 2023: 在线学习与 regret 理论
+# ICML 2023: 在线学习与 regret 理论：games / equilibrium
 
 - Topic ID: `23`
 - Papers: **25** (1.37%)

@@ -1,4 +1,4 @@
-# MICCAI 2025: 医学影像病灶分析
+# MICCAI 2025: 医学影像病灶分析：mamba / 医学AI
 
 - Topic ID: `2`
 - Papers: **10** (15.38%)

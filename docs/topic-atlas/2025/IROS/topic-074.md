@@ -1,4 +1,4 @@
-# IROS 2025: physics-informed / generation / visual servoing / scalable
+# IROS 2025: 视觉伺服与物理仿真
 
 - Topic ID: `74`
 - Papers: **12** (0.61%)

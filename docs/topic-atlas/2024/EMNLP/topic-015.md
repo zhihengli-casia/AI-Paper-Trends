@@ -1,4 +1,4 @@
-# EMNLP 2024: 多语言建模与跨语言迁移
+# EMNLP 2024: 多语言建模与跨语言迁移：instruction / 调优
 
 - Topic ID: `15`
 - Papers: **26** (2.05%)

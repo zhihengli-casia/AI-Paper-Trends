@@ -1,4 +1,4 @@
-# NAACL 2021: 跨域转换与序列转换
+# NAACL 2021: 跨域转换与序列转换：translation / machine
 
 - Topic ID: `16`
 - Papers: **17** (3.56%)

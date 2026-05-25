@@ -1,4 +1,4 @@
-# NeurIPS 2022: 神经网络理论、NTK 与宽度分析
+# NeurIPS 2022: 神经网络理论、NTK 与宽度分析：sharpness / relu
 
 - Topic ID: `1`
 - Papers: **62** (2.32%)

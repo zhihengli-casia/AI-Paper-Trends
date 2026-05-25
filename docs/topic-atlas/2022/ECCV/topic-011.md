@@ -1,4 +1,4 @@
-# ECCV 2022: 图像复原与超分辨率
+# ECCV 2022: 图像复原与超分辨率：restoration / degradation
 
 - Topic ID: `11`
 - Papers: **28** (1.70%)

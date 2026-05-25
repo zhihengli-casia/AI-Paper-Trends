@@ -1,4 +1,4 @@
-# NeurIPS 2021: 社交媒体与社会计算
+# NeurIPS 2021: 社交媒体与社会计算：vae / variational
 
 - Topic ID: `37`
 - Papers: **23** (0.99%)

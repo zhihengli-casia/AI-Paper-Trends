@@ -1,4 +1,4 @@
-# NeurIPS 2021: 随机优化与收敛理论
+# NeurIPS 2021: 随机优化与收敛理论：decentralized / communication
 
 - Topic ID: `70`
 - Papers: **14** (0.60%)

@@ -1,4 +1,4 @@
-# TMM 2020: 行人重识别与人群计数
+# TMM 2020: 行人重识别与人群计数：pedestrian / attribute
 
 - Topic ID: `17`
 - Papers: **10** (2.48%)

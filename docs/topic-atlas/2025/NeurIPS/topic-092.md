@@ -1,4 +1,4 @@
-# NeurIPS 2025: 视觉语言模型与多模态理解
+# NeurIPS 2025: 视觉语言模型与多模态理解：tta / test-time adaptation
 
 - Topic ID: `92`
 - Papers: **28** (0.53%)

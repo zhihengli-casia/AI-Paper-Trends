@@ -1,4 +1,4 @@
-# NeurIPS 2021: 社交媒体与社会计算
+# NeurIPS 2021: 社交媒体与社会计算：bounds / pac-bayes
 
 - Topic ID: `23`
 - Papers: **31** (1.33%)

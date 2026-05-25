@@ -1,4 +1,4 @@
-# ACMMM 2022: 细粒度视觉分类与识别
+# ACMMM 2022: 细粒度视觉分类与识别：action / temporal
 
 - Topic ID: `18`
 - Papers: **17** (2.46%)

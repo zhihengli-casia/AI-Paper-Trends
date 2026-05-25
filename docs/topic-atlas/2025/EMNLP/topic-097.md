@@ -1,4 +1,4 @@
-# EMNLP 2025: 跨域转换与序列转换
+# EMNLP 2025: 跨域转换与序列转换：disambiguation / sense
 
 - Topic ID: `97`
 - Papers: **8** (0.44%)

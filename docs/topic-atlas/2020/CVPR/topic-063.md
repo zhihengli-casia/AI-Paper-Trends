@@ -1,4 +1,4 @@
-# CVPR 2020: 实例分割与开放词汇分割
+# CVPR 2020: 实例分割与开放词汇分割：point / segmentation
 
 - Topic ID: `63`
 - Papers: **12** (0.82%)

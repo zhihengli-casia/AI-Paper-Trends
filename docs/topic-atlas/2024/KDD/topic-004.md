@@ -1,4 +1,4 @@
-# KDD 2024: 领域自适应与迁移学习
+# KDD 2024: 领域自适应与迁移学习：domain / feature
 
 - Topic ID: `4`
 - Papers: **24** (5.84%)

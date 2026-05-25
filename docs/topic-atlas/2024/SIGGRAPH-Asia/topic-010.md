@@ -1,4 +1,4 @@
-# SIGGRAPH-Asia 2024: 扩散生成模型
+# SIGGRAPH-Asia 2024: 扩散生成模型：sampling / acquisition
 
 - Topic ID: `10`
 - Papers: **6** (4.26%)

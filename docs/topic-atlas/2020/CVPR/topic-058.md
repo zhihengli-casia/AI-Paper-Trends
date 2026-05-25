@@ -1,4 +1,4 @@
-# CVPR 2020: 对抗攻击、鲁棒性与安全
+# CVPR 2020: 对抗攻击、鲁棒性与安全：adversarial / robustness
 
 - Topic ID: `58`
 - Papers: **13** (0.89%)

@@ -1,4 +1,4 @@
-# CVPR 2024: 实例分割与开放词汇分割
+# CVPR 2024: 实例分割与开放词汇分割：segmentation / instance
 
 - Topic ID: `3`
 - Papers: **59** (2.17%)

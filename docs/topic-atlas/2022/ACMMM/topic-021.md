@@ -1,4 +1,4 @@
-# ACMMM 2022: 点云表示与 3D 感知
+# ACMMM 2022: 点云表示与 3D 感知：lane / object
 
 - Topic ID: `21`
 - Papers: **14** (2.03%)

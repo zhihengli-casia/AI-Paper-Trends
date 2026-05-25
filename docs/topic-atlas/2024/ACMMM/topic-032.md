@@ -1,4 +1,4 @@
-# ACMMM 2024: 扩散生成模型
+# ACMMM 2024: 扩散生成模型：foreground / color
 
 - Topic ID: `32`
 - Papers: **16** (1.39%)

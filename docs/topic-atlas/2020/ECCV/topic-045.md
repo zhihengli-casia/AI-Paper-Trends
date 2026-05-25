@@ -1,4 +1,4 @@
-# ECCV 2020: 领域自适应与迁移学习
+# ECCV 2020: 领域自适应与迁移学习：domain / segmentation
 
 - Topic ID: `45`
 - Papers: **14** (1.03%)

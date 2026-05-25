@@ -1,4 +1,4 @@
-# ECCV 2020: 视频动作识别与时序定位
+# ECCV 2020: 视频动作识别与时序定位：activity / action
 
 - Topic ID: `23`
 - Papers: **22** (1.62%)

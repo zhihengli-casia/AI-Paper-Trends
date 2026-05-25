@@ -1,4 +1,4 @@
-# TMM 2021: 视频动作识别与时序定位
+# TMM 2021: 视频动作识别与时序定位：action / skeleton
 
 - Topic ID: `24`
 - Papers: **9** (2.06%)

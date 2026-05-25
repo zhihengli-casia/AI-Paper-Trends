@@ -1,4 +1,4 @@
-# NeurIPS 2023: 音频理解与生成
+# NeurIPS 2023: 音频理解与生成：多模态 / modalities
 
 - Topic ID: `30`
 - Papers: **36** (1.12%)

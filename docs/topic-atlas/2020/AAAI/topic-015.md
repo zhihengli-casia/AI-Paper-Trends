@@ -1,4 +1,4 @@
-# AAAI 2020: 社交媒体与社会计算
+# AAAI 2020: 社交媒体与社会计算：news / social media
 
 - Topic ID: `15`
 - Papers: **28** (1.75%)

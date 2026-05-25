@@ -1,4 +1,4 @@
-# ICML 2024: 随机优化与收敛理论
+# ICML 2024: 随机优化与收敛理论：curvature / sgd
 
 - Topic ID: `52`
 - Papers: **22** (0.84%)

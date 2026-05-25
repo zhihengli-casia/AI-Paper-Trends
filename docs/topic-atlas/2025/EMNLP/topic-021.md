@@ -1,4 +1,4 @@
-# EMNLP 2025: 对抗攻击、鲁棒性与安全
+# EMNLP 2025: 对抗攻击、鲁棒性与安全：misinformation / news
 
 - Topic ID: `21`
 - Papers: **23** (1.27%)

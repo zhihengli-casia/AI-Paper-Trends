@@ -1,4 +1,4 @@
-# CHI 2020: 社交媒体与社会计算
+# CHI 2020: 社交媒体与社会计算：hci / research
 
 - Topic ID: `24`
 - Papers: **15** (2.03%)

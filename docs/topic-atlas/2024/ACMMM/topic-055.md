@@ -1,4 +1,4 @@
-# ACMMM 2024: 图像复原与超分辨率
+# ACMMM 2024: 图像复原与超分辨率：restoration / all-in-one
 
 - Topic ID: `55`
 - Papers: **11** (0.96%)

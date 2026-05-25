@@ -1,4 +1,4 @@
-# AAAI 2025: 点云表示与 3D 感知
+# AAAI 2025: 点云表示与 3D 感知：point cloud / registration
 
 - Topic ID: `18`
 - Papers: **35** (1.16%)

@@ -12,20 +12,20 @@
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 领域自适应与迁移学习 | 41 | 7.56% | 可信/安全/公平 | `domain / adaptation / source / classes` | Few-shot Unsupervised Domain Adaptation with Image-to-Class Sparse Similarity Encoding |
-| [001](topic-001.md) | 视频动作识别与时序定位 | 33 | 6.09% | 计算机视觉 | `action / video / recognition / temporal` | Self-supervising Action Recognition by Statistical Moment and Subspace Descriptors |
-| [002](topic-002.md) | 深度估计与立体匹配 | 31 | 5.72% | 计算机视觉 | `depth / object / segmentation / detection` | RCNet: Reverse Feature Pyramid and Cross-scale Shift Network for Object Detection |
-| [003](topic-003.md) | 深度估计与立体匹配 | 28 | 5.17% | 3D/具身/机器人 | `point / cloud / depth / shape` | Single Image 3D Object Estimation with Primitive Graph Networks |
+| [001](topic-001.md) | 视频动作识别与时序定位：action / 视频理解/生成 | 33 | 6.09% | 计算机视觉 | `action / video / recognition / temporal` | Self-supervising Action Recognition by Statistical Moment and Subspace Descriptors |
+| [002](topic-002.md) | 深度估计与立体匹配：depth / object | 31 | 5.72% | 计算机视觉 | `depth / object / segmentation / detection` | RCNet: Reverse Feature Pyramid and Cross-scale Shift Network for Object Detection |
+| [003](topic-003.md) | 深度估计与立体匹配：深度补全 | 28 | 5.17% | 3D/具身/机器人 | `point / cloud / depth / shape` | Single Image 3D Object Estimation with Primitive Graph Networks |
 | [004](topic-004.md) | 问答生成、阅读理解与答案选择 | 27 | 4.98% | 多模态/VLM | `question / multimodal / vqa / answer` | Exploring Contextual-Aware Representation and Linguistic-Diverse Expression for Visual Dialog |
 | [005](topic-005.md) | layout / character / scene / generation | 24 | 4.43% | 生成模型 | `layout / character / scene / generation` | R-GAN: Exploring Human-like Way for Reasonable Text-to-Image Synthesis via Generative Adversarial Networks |
-| [006](topic-006.md) | 行人重识别与人群计数 | 21 | 3.87% | 计算机视觉 | `tracking / object / vehicle / detection` | Unsupervised Vehicle Search in the Wild: A New Benchmark |
-| [007](topic-007.md) | 图像复原与超分辨率 | 19 | 3.51% | 计算机视觉 | `inpainting / shadow / restoration / decomposition` | GCM-Net: Towards Effective Global Context Modeling for Image Inpainting |
+| [006](topic-006.md) | 行人重识别与人群计数：tracking / object | 21 | 3.87% | 计算机视觉 | `tracking / object / vehicle / detection` | Unsupervised Vehicle Search in the Wild: A New Benchmark |
+| [007](topic-007.md) | 图像复原与超分辨率：inpainting / shadow | 19 | 3.51% | 计算机视觉 | `inpainting / shadow / restoration / decomposition` | GCM-Net: Towards Effective Global Context Modeling for Image Inpainting |
 | [008](topic-008.md) | captioning / captions / 图学习 / 视频理解/生成 | 19 | 3.51% | 多模态/VLM | `captioning / captions / graph / video` | Distributed Attention for Grounded Image Captioning |
-| [009](topic-009.md) | 行人重识别与人群计数 | 18 | 3.32% | 可信/安全/公平 | `adversarial / attack / examples / robustness` | Adversarial Pixel Masking: A Defense against Physical Attacks for Pre-trained Object Detectors |
-| [010](topic-010.md) | 行人重识别与人群计数 | 18 | 3.32% | 可信/安全/公平 | `person / re-identification / reid / modality` | Camera-Agnostic Person Re-Identification via Adversarial Disentangling Learning |
-| [011](topic-011.md) | 视频动作识别与时序定位 | 18 | 3.32% | 计算机视觉 | `skeleton / motion / action / human` | Conditional Directed Graph Convolution for 3D Human Pose Estimation |
+| [009](topic-009.md) | 行人重识别与人群计数：对抗攻击 | 18 | 3.32% | 可信/安全/公平 | `adversarial / attack / examples / robustness` | Adversarial Pixel Masking: A Defense against Physical Attacks for Pre-trained Object Detectors |
+| [010](topic-010.md) | 行人重识别与人群计数：隐私保护 | 18 | 3.32% | 可信/安全/公平 | `person / re-identification / reid / modality` | Camera-Agnostic Person Re-Identification via Adversarial Disentangling Learning |
+| [011](topic-011.md) | 视频动作识别与时序定位：skeleton / 运动建模 | 18 | 3.32% | 计算机视觉 | `skeleton / motion / action / human` | Conditional Directed Graph Convolution for 3D Human Pose Estimation |
 | [012](topic-012.md) | 实例分割与开放词汇分割 | 17 | 3.14% | 计算机视觉 | `video / temporal / segmentation / frames` | Video Semantic Segmentation via Sparse Temporal Transformer |
-| [013](topic-013.md) | 图像复原与超分辨率 | 16 | 2.95% | 计算机视觉 | `super-resolution / fusion / low-light / matching` | Self-feature Learning: An Efficient Deep Lightweight Network for Image Super-resolution |
-| [014](topic-014.md) | 人脸分析、表情与属性建模 | 16 | 2.95% | 3D/具身/机器人 | `face / facial / portrait / latent space` | Attribute-specific Control Units in StyleGAN for Fine-grained Image Manipulation |
+| [013](topic-013.md) | 图像复原与超分辨率：super-resolution / fusion | 16 | 2.95% | 计算机视觉 | `super-resolution / fusion / low-light / matching` | Self-feature Learning: An Efficient Deep Lightweight Network for Image Super-resolution |
+| [014](topic-014.md) | 人脸分析、表情与属性建模：face / facial | 16 | 2.95% | 3D/具身/机器人 | `face / facial / portrait / latent space` | Attribute-specific Control Units in StyleGAN for Fine-grained Image Manipulation |
 | [015](topic-015.md) | 推荐系统与用户建模 | 15 | 2.77% | 可信/安全/公平 | `recommendation / news / item / product` | Mining Latent Structures for Multimedia Recommendation |
 | [016](topic-016.md) | compatibility / virtual / clothing / fashion | 15 | 2.77% | 计算机视觉 | `compatibility / virtual / clothing / fashion` | Shape Controllable Virtual Try-on for Underwear Models |
 | [017](topic-017.md) | 医学影像分割 | 14 | 2.58% | AI4Science/医疗 | `food / logo / detection / segmentation` | Cross-View Representation Learning for Multi-View Logo Classification with Information Bottleneck |
@@ -35,10 +35,10 @@
 | [021](topic-021.md) | 视频理解/生成 / streaming / bandwidth / cloud | 13 | 2.40% | 计算机视觉 | `video / streaming / bandwidth / cloud` | TBRA: Tiling and Bitrate Adaptation for Mobile 360-Degree Video Streaming |
 | [022](topic-022.md) | 少样本细粒度视觉识别 | 13 | 2.40% | 计算机视觉 | `classification / labels / few-shot / meta-learning` | Towards Cross-Granularity Few-Shot Learning: Coarse-to-Fine Pseudo-Labeling with Visual-Semantic Meta-Embedding |
 | [023](topic-023.md) | 情感识别与多模态情绪理解 | 12 | 2.21% | 多模态/VLM | `emotion / multimodal / recognition / personality` | Learning What and When to Drop: Adaptive Multimodal and Contextual Dynamics for Emotion Recognition in Conversation |
-| [024](topic-024.md) | 人脸分析、表情与属性建模 | 11 | 2.03% | 3D/具身/机器人 | `face / deepfake / detection / vocabulary` | Adaptive Normalized Representation Learning for Generalizable Face Anti-Spoofing |
+| [024](topic-024.md) | 人脸分析、表情与属性建模：face / deepfake | 11 | 2.03% | 3D/具身/机器人 | `face / deepfake / detection / vocabulary` | Adaptive Normalized Representation Learning for Generalizable Face Anti-Spoofing |
 | [025](topic-025.md) | compression / memory / discriminative power / learned image | 11 | 2.03% | 计算机视觉 | `compression / memory / discriminative power / learned image` | Semantic Scalable Image Compression with Cross-Layer Priors |
 | [026](topic-026.md) | 视频检索、时刻定位与事件理解 | 11 | 2.03% | 多模态/VLM | `video / alignment / moment / retrieval` | Visual Co-Occurrence Alignment Learning for Weakly-Supervised Video Moment Retrieval |
 | [027](topic-027.md) | 音乐与音频生成/理解 | 10 | 1.85% | 语音/音频/音乐 | `music / test / editing / sources` | Actions Speak Louder than Listening: Evaluating Music Style Transfer based on Editing Experience |
-| [028](topic-028.md) | 深度估计与立体匹配 | 10 | 1.85% | 计算机视觉 | `super-resolution / stereo / video / depth` | Stereo Video Super-Resolution via Exploiting View-Temporal Correlations |
+| [028](topic-028.md) | 深度估计与立体匹配：双目/立体深度 | 10 | 1.85% | 计算机视觉 | `super-resolution / stereo / video / depth` | Stereo Video Super-Resolution via Exploiting View-Temporal Correlations |
 | [029](topic-029.md) | 对抗攻击、鲁棒性与安全 | 9 | 1.66% | 可信/安全/公平 | `hashing / retrieval / ball / hash codes` | Two-pronged Strategy: Lightweight Augmented Graph Network Hashing for Scalable Image Retrieval |
 | [030](topic-030.md) | quality assessment / image quality / video quality / vqa | 9 | 1.66% | 多模态/VLM | `quality assessment / image quality / video quality / vqa` | Perceptual Quality Assessment of Internet Videos |

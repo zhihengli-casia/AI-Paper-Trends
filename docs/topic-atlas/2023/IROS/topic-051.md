@@ -1,4 +1,4 @@
-# IROS 2023: 规划搜索与决策推理
+# IROS 2023: 规划搜索与决策推理：symbolic / planning
 
 - Topic ID: `51`
 - Papers: **10** (0.84%)

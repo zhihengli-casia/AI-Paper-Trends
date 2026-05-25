@@ -1,4 +1,4 @@
-# ACL 2020: 机器翻译与跨语言对齐
+# ACL 2020: 机器翻译与跨语言对齐：translation / autoregressive
 
 - Topic ID: `30`
 - Papers: **12** (1.54%)

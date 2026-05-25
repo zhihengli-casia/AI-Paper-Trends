@@ -1,4 +1,4 @@
-# ICCV 2023: 视觉语言模型与多模态理解
+# ICCV 2023: 视觉语言模型与多模态理解：object localization / weakly
 
 - Topic ID: `74`
 - Papers: **13** (0.60%)

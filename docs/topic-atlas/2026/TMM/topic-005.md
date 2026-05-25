@@ -1,4 +1,4 @@
-# TMM 2026: 图像复原与超分辨率
+# TMM 2026: 图像复原与超分辨率：super-resolution / hyperspectral
 
 - Topic ID: `5`
 - Papers: **24** (4.04%)

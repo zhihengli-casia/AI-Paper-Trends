@@ -1,4 +1,4 @@
-# ICML 2022: 在线学习与 regret 理论
+# ICML 2022: 在线学习与 regret 理论：recourse / regret
 
 - Topic ID: `52`
 - Papers: **11** (0.89%)

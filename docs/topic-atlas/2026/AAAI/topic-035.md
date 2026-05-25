@@ -1,4 +1,4 @@
-# AAAI 2026: Deepfake 检测、多媒体取证与内容安全
+# AAAI 2026: Deepfake 检测、多媒体取证与内容安全：forgery / image
 
 - Topic ID: `35`
 - Papers: **43** (1.04%)

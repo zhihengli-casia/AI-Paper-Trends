@@ -1,4 +1,4 @@
-# ICLR 2026: 图神经网络与图表示学习
+# ICLR 2026: 图神经网络与图表示学习：explanations / counterfactual
 
 - Topic ID: `129`
 - Papers: **16** (0.30%)

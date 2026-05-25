@@ -1,4 +1,4 @@
-# EMNLP 2020: 句法知识与语言学分析
+# EMNLP 2020: 句法知识与语言学分析：sentiment / aspect
 
 - Topic ID: `11`
 - Papers: **22** (2.93%)

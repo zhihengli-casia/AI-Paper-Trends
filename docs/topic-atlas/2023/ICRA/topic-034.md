@@ -1,4 +1,4 @@
-# ICRA 2023: 点云表示与 3D 感知
+# ICRA 2023: 点云表示与 3D 感知：detection / object
 
 - Topic ID: `34`
 - Papers: **16** (1.20%)

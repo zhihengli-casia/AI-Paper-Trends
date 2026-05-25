@@ -1,4 +1,4 @@
-# IROS 2022: 机器人操作与抓取
+# IROS 2022: 机器人操作与抓取：assembly / human-robot collaborative
 
 - Topic ID: `44`
 - Papers: **13** (1.08%)

@@ -1,4 +1,4 @@
-# ACMMM 2025: 医学影像分割
+# ACMMM 2025: 医学影像分割：latent / age
 
 - Topic ID: `37`
 - Papers: **14** (1.12%)

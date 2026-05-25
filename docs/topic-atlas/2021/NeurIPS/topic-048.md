@@ -1,4 +1,4 @@
-# NeurIPS 2021: 强化学习算法与理论
+# NeurIPS 2021: 强化学习算法与理论：safety / 策略优化
 
 - Topic ID: `48`
 - Papers: **20** (0.86%)

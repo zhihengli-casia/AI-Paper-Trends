@@ -1,4 +1,4 @@
-# CVPR 2024: 视频动作识别与时序定位
+# CVPR 2024: 视频动作识别与时序定位：action / egocentric
 
 - Topic ID: `91`
 - Papers: **13** (0.48%)

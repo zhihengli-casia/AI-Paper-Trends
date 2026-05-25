@@ -1,4 +1,4 @@
-# ICML 2022: 随机优化与收敛理论
+# ICML 2022: 随机优化与收敛理论：sgd / stepsize
 
 - Topic ID: `60`
 - Papers: **9** (0.73%)

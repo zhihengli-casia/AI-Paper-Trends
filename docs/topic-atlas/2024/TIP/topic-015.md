@@ -1,4 +1,4 @@
-# TIP 2024: 多视图聚类与图学习
+# TIP 2024: 多视图聚类与图学习：multi-view / clustering
 
 - Topic ID: `15`
 - Papers: **16** (3.35%)

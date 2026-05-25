@@ -1,4 +1,4 @@
-# AAAI 2026: 规划搜索与决策推理
+# AAAI 2026: 规划搜索与决策推理：planning / policies
 
 - Topic ID: `40`
 - Papers: **40** (0.96%)

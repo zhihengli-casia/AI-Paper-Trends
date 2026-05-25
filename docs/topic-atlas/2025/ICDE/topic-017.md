@@ -1,4 +1,4 @@
-# ICDE 2025: 摘要生成与信息压缩
+# ICDE 2025: 摘要生成与信息压缩：图学习 / attributed
 
 - Topic ID: `17`
 - Papers: **11** (2.82%)

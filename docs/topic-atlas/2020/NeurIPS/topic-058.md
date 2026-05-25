@@ -1,4 +1,4 @@
-# NeurIPS 2020: 深度估计与立体匹配
+# NeurIPS 2020: 深度估计与立体匹配：recurrent / rnns
 
 - Topic ID: `58`
 - Papers: **16** (0.84%)

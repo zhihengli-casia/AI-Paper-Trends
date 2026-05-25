@@ -1,4 +1,4 @@
-# ICCV 2025: 图像复原与超分辨率
+# ICCV 2025: 图像复原与超分辨率：hdr / spectral
 
 - Topic ID: `46`
 - Papers: **23** (0.85%)

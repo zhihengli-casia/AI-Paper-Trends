@@ -1,4 +1,4 @@
-# ACMMM 2025: 3D Gaussian Splatting 与场景重建
+# ACMMM 2025: 3D Gaussian Splatting 与场景重建：高斯表示 / Splatting
 
 - Topic ID: `6`
 - Papers: **33** (2.64%)

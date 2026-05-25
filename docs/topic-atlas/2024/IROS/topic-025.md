@@ -1,4 +1,4 @@
-# IROS 2024: 机器人操作与具身智能
+# IROS 2024: 机器人操作与具身智能：assembly / human-robot
 
 - Topic ID: `25`
 - Papers: **23** (1.46%)

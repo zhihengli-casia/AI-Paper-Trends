@@ -1,4 +1,4 @@
-# ICLR 2024: 扩散生成模型
+# ICLR 2024: 扩散生成模型：gflownets / flows
 
 - Topic ID: `12`
 - Papers: **38** (1.68%)

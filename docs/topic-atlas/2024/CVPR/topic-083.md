@@ -1,4 +1,4 @@
-# CVPR 2024: 机器人 SLAM 与定位建图
+# CVPR 2024: 机器人 SLAM 与定位建图：LiDAR 语义分割
 
 - Topic ID: `83`
 - Papers: **15** (0.55%)

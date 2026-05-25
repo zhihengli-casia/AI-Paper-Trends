@@ -1,4 +1,4 @@
-# ACMMM 2024: 结构化解析与表示学习
+# ACMMM 2024: 结构化解析与表示学习：pose estimation / 运动建模
 
 - Topic ID: `8`
 - Papers: **25** (2.18%)

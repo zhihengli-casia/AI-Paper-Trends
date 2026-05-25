@@ -1,4 +1,4 @@
-# NAACL 2025: 长上下文建模与压缩
+# NAACL 2025: 长上下文建模与压缩：multilingual / 检索
 
 - Topic ID: `38`
 - Papers: **8** (1.11%)

@@ -1,4 +1,4 @@
-# ICML 2022: 强化学习策略与奖励建模
+# ICML 2022: 强化学习策略与奖励建模：multi-agent / marl
 
 - Topic ID: `22`
 - Papers: **21** (1.70%)

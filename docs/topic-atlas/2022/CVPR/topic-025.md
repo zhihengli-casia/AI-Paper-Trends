@@ -1,4 +1,4 @@
-# CVPR 2022: 深度估计与立体匹配
+# CVPR 2022: 深度估计与立体匹配：panoptic / segmentation
 
 - Topic ID: `25`
 - Papers: **28** (1.35%)

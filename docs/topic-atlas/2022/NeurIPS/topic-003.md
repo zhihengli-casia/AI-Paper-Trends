@@ -1,4 +1,4 @@
-# NeurIPS 2022: 强化学习算法与理论
+# NeurIPS 2022: 强化学习算法与理论：策略优化 / reinforcement learning
 
 - Topic ID: `3`
 - Papers: **51** (1.91%)

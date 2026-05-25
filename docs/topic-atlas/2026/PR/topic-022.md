@@ -1,4 +1,4 @@
-# PR 2026: 多模态学习与跨模态理解
+# PR 2026: 多模态学习与跨模态理解：multi-agent / reinforcement
 
 - Topic ID: `22`
 - Papers: **17** (1.84%)

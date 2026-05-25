@@ -1,4 +1,4 @@
-# ICLR 2020: 对抗攻击、鲁棒性与安全
+# ICLR 2020: 对抗攻击、鲁棒性与安全：certified / robustness
 
 - Topic ID: `35`
 - Papers: **10** (1.46%)

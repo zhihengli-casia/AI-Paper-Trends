@@ -1,4 +1,4 @@
-# IJCAI 2022: 时间序列建模与预测
+# IJCAI 2022: 时间序列建模与预测：anomaly / detection
 
 - Topic ID: `20`
 - Papers: **17** (1.97%)

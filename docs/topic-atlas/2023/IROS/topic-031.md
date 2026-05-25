@@ -1,4 +1,4 @@
-# IROS 2023: 机器人操作与具身智能
+# IROS 2023: 机器人操作与具身智能：human-robot / collaborative
 
 - Topic ID: `31`
 - Papers: **19** (1.60%)

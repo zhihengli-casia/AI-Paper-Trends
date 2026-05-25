@@ -1,4 +1,4 @@
-# CVPR 2025: 文生图生成与个性化编辑
+# CVPR 2025: 文生图生成与个性化编辑：编辑 / instruction-based
 
 - Topic ID: `84`
 - Papers: **16** (0.56%)

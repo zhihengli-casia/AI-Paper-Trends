@@ -1,4 +1,4 @@
-# NeurIPS 2020: 强化学习策略与奖励建模
+# NeurIPS 2020: 强化学习策略与奖励建模：planning / 策略优化
 
 - Topic ID: `26`
 - Papers: **23** (1.21%)

@@ -1,4 +1,4 @@
-# ICLR 2025: 联邦学习与分布式训练
+# ICLR 2025: 联邦学习与分布式训练：continual learning / coreset
 
 - Topic ID: `67`
 - Papers: **25** (0.68%)

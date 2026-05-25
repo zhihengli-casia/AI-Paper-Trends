@@ -1,4 +1,4 @@
-# NeurIPS 2024: 神经架构搜索与模型设计
+# NeurIPS 2024: 神经架构搜索与模型设计：logic / circuits
 
 - Topic ID: `43`
 - Papers: **40** (0.99%)

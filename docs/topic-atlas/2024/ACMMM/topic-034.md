@@ -1,4 +1,4 @@
-# ACMMM 2024: 多模态学习与跨模态理解
+# ACMMM 2024: 多模态学习与跨模态理解：news / fake
 
 - Topic ID: `34`
 - Papers: **15** (1.31%)

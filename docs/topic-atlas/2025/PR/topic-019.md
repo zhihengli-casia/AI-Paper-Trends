@@ -1,4 +1,4 @@
-# PR 2025: 扩散生成模型
+# PR 2025: 扩散生成模型：point / cloud
 
 - Topic ID: `19`
 - Papers: **22** (1.46%)

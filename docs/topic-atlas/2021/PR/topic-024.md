@@ -1,4 +1,4 @@
-# PR 2021: 领域自适应与迁移学习
+# PR 2021: 领域自适应与迁移学习：adaptation / domain
 
 - Topic ID: `24`
 - Papers: **13** (2.21%)

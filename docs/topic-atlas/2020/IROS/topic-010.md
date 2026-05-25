@@ -1,4 +1,4 @@
-# IROS 2020: 自动驾驶感知与世界模型
+# IROS 2020: 自动驾驶感知与世界模型：driving / trajectory prediction
 
 - Topic ID: `10`
 - Papers: **25** (2.24%)

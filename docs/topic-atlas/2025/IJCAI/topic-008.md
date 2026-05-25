@@ -1,4 +1,4 @@
-# IJCAI 2025: 规划搜索与决策推理
+# IJCAI 2025: 规划搜索与决策推理：planning / plans
 
 - Topic ID: `8`
 - Papers: **26** (2.03%)

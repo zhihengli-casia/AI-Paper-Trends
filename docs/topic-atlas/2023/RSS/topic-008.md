@@ -1,4 +1,4 @@
-# RSS 2023: 机器人操作与具身智能
+# RSS 2023: 机器人操作与具身智能：augmentation / embodied
 
 - Topic ID: `8`
 - Papers: **7** (6.36%)

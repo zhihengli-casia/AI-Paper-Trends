@@ -1,4 +1,4 @@
-# NeurIPS 2022: 在线学习与 regret 理论
+# NeurIPS 2022: 在线学习与 regret 理论：auctions / revenue
 
 - Topic ID: `65`
 - Papers: **18** (0.67%)

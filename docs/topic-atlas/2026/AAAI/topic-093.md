@@ -1,4 +1,4 @@
-# AAAI 2026: Bandit 与 regret 理论
+# AAAI 2026: Bandit 与 regret 理论：Bandit（Topic 093）
 
 - Topic ID: `93`
 - Papers: **20** (0.48%)

@@ -13,19 +13,19 @@
 |---|---|---:|---:|---|---|---|
 | [000](topic-000.md) | 扩散生成模型 | 40 | 5.14% | 可信/安全/公平 | `agents / social / allocation / fairness` | Maximum Nash Welfare and Other Stories About EFX |
 | [001](topic-001.md) | 视频动作生成与运动控制 | 36 | 4.63% | 计算机视觉 | `video / frames / reasoning / visual` | Hierarchical Attention Based Spatial-Temporal Graph-to-Sequence Learning for Grounded Video Description |
-| [002](topic-002.md) | 强化学习策略与奖励建模 | 33 | 4.24% | 强化学习/决策 | `policy / reinforcement learning / games / transfer` | Constrained Policy Improvement for Efficient Reinforcement Learning |
+| [002](topic-002.md) | 强化学习策略与奖励建模：策略优化 / reinforcement learning | 33 | 4.24% | 强化学习/决策 | `policy / reinforcement learning / games / transfer` | Constrained Policy Improvement for Efficient Reinforcement Learning |
 | [003](topic-003.md) | constraint / trees / sat / propagation | 27 | 3.47% | 系统/效率/压缩 | `constraint / trees / sat / propagation` | Semantic Width and the Fixed-Parameter Tractability of Constraint Satisfaction Problems |
 | [004](topic-004.md) | 推荐系统与用户建模 | 25 | 3.21% | 推荐/检索/排序 | `recommendation / news / user / preference` | A Survey on Representation Learning for User Modeling |
 | [005](topic-005.md) | 时间序列建模与预测 | 24 | 3.08% | NLP任务 | `financial / stock / risk / time series` | F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification |
 | [006](topic-006.md) | 多视图聚类与图学习 | 22 | 2.83% | 图学习/数据挖掘 | `clustering / subspace / workers / crowdsourcing` | Self-paced Consensus Clustering with Bipartite Graph |
 | [007](topic-007.md) | explanations / explainable / xai / counterfactual | 20 | 2.57% | 强化学习/决策 | `explanations / explainable / xai / counterfactual` | Explanation Perspectives from the Cognitive Sciences---A Survey |
-| [008](topic-008.md) | 领域自适应与迁移学习 | 20 | 2.57% | 其他/交叉主题 | `domain / species / distances / metric learning` | Batch Decorrelation for Active Metric Learning |
+| [008](topic-008.md) | 领域自适应与迁移学习：domain / species | 20 | 2.57% | 其他/交叉主题 | `domain / species / distances / metric learning` | Batch Decorrelation for Active Metric Learning |
 | [009](topic-009.md) | logic / formulas / inconsistency / semantics | 19 | 2.44% | NLP任务 | `logic / formulas / inconsistency / semantics` | On the Splitting Property for Epistemic Logic Programs (Extended Abstract) |
 | [010](topic-010.md) | question / legal / answering / reading | 18 | 2.31% | 推荐/检索/排序 | `question / legal / answering / reading` | Answer Generation through Unified Memories over Multiple Passages |
 | [011](topic-011.md) | positive / unlabeled / classifier / transition | 18 | 2.31% | 其他/交叉主题 | `positive / unlabeled / classifier / transition` | Positive Unlabeled Learning with Class-prior Approximation |
 | [012](topic-012.md) | 语义分割与场景解析 | 17 | 2.19% | 计算机视觉 | `segmentation / few-shot / object / semantic` | Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings |
 | [013](topic-013.md) | 零样本分类与跨模态识别 | 17 | 2.19% | AI4Science/医疗 | `brain / diagnosis / clinical / codes` | Multi-graph Fusion for Functional Neuroimaging Biomarker Detection |
-| [014](topic-014.md) | 领域自适应与迁移学习 | 17 | 2.19% | 生成模型 | `adversarial / anomaly / detection / generative` | Detecting Adversarial Attacks via Subset Scanning of Autoencoder Activations and Reconstruction Error |
+| [014](topic-014.md) | 领域自适应与迁移学习：adversarial / anomaly | 17 | 2.19% | 生成模型 | `adversarial / anomaly / detection / generative` | Detecting Adversarial Attacks via Subset Scanning of Autoencoder Activations and Reconstruction Error |
 | [015](topic-015.md) | 图神经网络与节点表示学习 | 17 | 2.19% | NLP任务 | `social / embedding / prediction / graph` | Heterogeneous Network Representation Learning |
 | [016](topic-016.md) | label / hashing / ground-truth / loss | 17 | 2.19% | 其他/交叉主题 | `label / hashing / ground-truth / loss` | Partial Multi-Label Learning via Multi-Subspace Representation |
 | [017](topic-017.md) | search / pruning / region / vertex | 16 | 2.06% | 系统/效率/压缩 | `search / pruning / region / vertex` | Bidirectional Heuristic Search: Expanding Nodes by a Lower Bound |
@@ -50,7 +50,7 @@
 | [037](topic-037.md) | online / offline / resource allocation / route | 12 | 1.54% | 强化学习/决策 | `online / offline / resource allocation / route` | A Unified Model for the Two-stage Offline-then-Online Resource Allocation |
 | [035](topic-035.md) | 语音与视觉对抗攻击 | 12 | 1.54% | 可信/安全/公平 | `speech / audio / temporal / signal` | Generating Robust Audio Adversarial Examples with Temporal Dependency |
 | [038](topic-038.md) | 医学影像分割 | 11 | 1.41% | AI4Science/医疗 | `domain / segmentation / retrieval / semantic` | Consistent Domain Structure Learning and Domain Alignment for 2D Image-Based 3D Objects Retrieval |
-| [039](topic-039.md) | 强化学习策略与奖励建模 | 11 | 1.41% | 强化学习/决策 | `exploration / reinforcement learning / reward / policy` | Towards High-Level Intrinsic Exploration in Reinforcement Learning |
+| [039](topic-039.md) | 强化学习策略与奖励建模：强化学习导航 | 11 | 1.41% | 强化学习/决策 | `exploration / reinforcement learning / reward / policy` | Towards High-Level Intrinsic Exploration in Reinforcement Learning |
 | [040](topic-040.md) | 图像复原与超分辨率 | 11 | 1.41% | 计算机视觉 | `image / feature maps / snn / patterns` | Bottom-up and Top-down: Bidirectional Additive Net for Edge Detection |
 | [041](topic-041.md) | 社交媒体与社会计算 | 10 | 1.29% | 强化学习/决策 | `trust / logic / agent / del` | Formalizing Group and Propagated Trust in Multi-Agent Systems |
 | [042](topic-042.md) | parking / urban / prediction / trajectory | 10 | 1.29% | 图学习/数据挖掘 | `parking / urban / prediction / trajectory` | Multi-View Joint Graph Representation Learning for Urban Region Embedding |

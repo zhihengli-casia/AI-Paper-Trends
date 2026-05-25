@@ -1,4 +1,4 @@
-# EMNLP 2022: 多模态学习与跨模态理解
+# EMNLP 2022: 多模态学习与跨模态理解：dialogue / response
 
 - Topic ID: `43`
 - Papers: **9** (1.09%)

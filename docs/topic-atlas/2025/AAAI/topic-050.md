@@ -1,4 +1,4 @@
-# AAAI 2025: NeRF 与神经渲染
+# AAAI 2025: NeRF 与神经渲染：compression / nerf
 
 - Topic ID: `50`
 - Papers: **25** (0.83%)

@@ -1,4 +1,4 @@
-# CHI 2020: 无人机/四旋翼规划与控制
+# CHI 2020: 无人机/四旋翼规划与控制：smartphones / support
 
 - Topic ID: `25`
 - Papers: **15** (2.03%)

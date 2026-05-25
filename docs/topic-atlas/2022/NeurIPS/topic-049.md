@@ -1,4 +1,4 @@
-# NeurIPS 2022: 领域自适应与迁移学习
+# NeurIPS 2022: 领域自适应与迁移学习：domain / adaptation
 
 - Topic ID: `49`
 - Papers: **22** (0.82%)

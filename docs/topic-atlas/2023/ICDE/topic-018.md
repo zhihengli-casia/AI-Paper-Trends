@@ -1,4 +1,4 @@
-# ICDE 2023: 联邦学习与分布式训练
+# ICDE 2023: 联邦学习与分布式训练：aggregation / achieving
 
 - Topic ID: `18`
 - Papers: **10** (2.70%)

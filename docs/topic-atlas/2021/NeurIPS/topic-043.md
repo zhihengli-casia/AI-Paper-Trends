@@ -1,4 +1,4 @@
-# NeurIPS 2021: 随机优化与收敛理论
+# NeurIPS 2021: 随机优化与收敛理论：stochastic / bilevel
 
 - Topic ID: `43`
 - Papers: **21** (0.90%)

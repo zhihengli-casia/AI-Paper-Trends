@@ -1,4 +1,4 @@
-# CVPR 2021: 实例分割与开放词汇分割
+# CVPR 2021: 实例分割与开放词汇分割：anomaly / anomalous
 
 - Topic ID: `90`
 - Papers: **8** (0.48%)

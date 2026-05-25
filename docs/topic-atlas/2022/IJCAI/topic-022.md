@@ -1,4 +1,4 @@
-# IJCAI 2022: 机器翻译与跨语言对齐
+# IJCAI 2022: 机器翻译与跨语言对齐：language / pre-training
 
 - Topic ID: `22`
 - Papers: **16** (1.86%)

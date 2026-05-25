@@ -1,4 +1,4 @@
-# NeurIPS 2025: LoRA 与参数高效微调
+# NeurIPS 2025: LoRA 与参数高效微调：隐私保护
 
 - Topic ID: `25`
 - Papers: **55** (1.04%)

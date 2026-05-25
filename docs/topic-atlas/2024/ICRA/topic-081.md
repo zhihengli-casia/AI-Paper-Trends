@@ -1,4 +1,4 @@
-# ICRA 2024: LiDAR 点云与 3D 感知
+# ICRA 2024: LiDAR 点云与 3D 感知：外参标定
 
 - Topic ID: `81`
 - Papers: **10** (0.57%)

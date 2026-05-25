@@ -1,4 +1,4 @@
-# CHI 2024: 社交媒体与社会计算
+# CHI 2024: 社交媒体与社会计算：workers / workplace
 
 - Topic ID: `7`
 - Papers: **28** (2.67%)

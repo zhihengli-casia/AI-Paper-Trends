@@ -1,4 +1,4 @@
-# NeurIPS 2020: 凸/非凸优化理论
+# NeurIPS 2020: 凸/非凸优化理论：convex / calls
 
 - Topic ID: `35`
 - Papers: **20** (1.05%)

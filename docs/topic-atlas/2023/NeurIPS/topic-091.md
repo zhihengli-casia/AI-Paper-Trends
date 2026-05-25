@@ -1,4 +1,4 @@
-# NeurIPS 2023: 在线学习与 regret 理论
+# NeurIPS 2023: 在线学习与 regret 理论：bayesian optimization / dro
 
 - Topic ID: `91`
 - Papers: **17** (0.53%)

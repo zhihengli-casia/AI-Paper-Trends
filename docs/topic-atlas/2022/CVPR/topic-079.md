@@ -1,4 +1,4 @@
-# CVPR 2022: 语义分割与场景解析
+# CVPR 2022: 语义分割与场景解析：cam / activation
 
 - Topic ID: `79`
 - Papers: **11** (0.53%)

@@ -1,4 +1,4 @@
-# NeurIPS 2022: 强化学习算法与理论
+# NeurIPS 2022: 强化学习算法与理论：regret / reinforcement learning
 
 - Topic ID: `84`
 - Papers: **15** (0.56%)

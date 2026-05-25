@@ -1,4 +1,4 @@
-# AAAI 2021: 领域自适应与迁移学习
+# AAAI 2021: 领域自适应与迁移学习：domain / adaptation
 
 - Topic ID: `24`
 - Papers: **21** (1.28%)

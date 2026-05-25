@@ -1,4 +1,4 @@
-# SIGIR 2025: RAG 与检索增强生成
+# SIGIR 2025: RAG 与检索增强生成：RAG / retrieval-augmented
 
 - Topic ID: `12`
 - Papers: **9** (3.77%)

@@ -1,4 +1,4 @@
-# ICRA 2023: 足式机器人与运动控制
+# ICRA 2023: 足式机器人与运动控制：quadrupedal / 运动控制
 
 - Topic ID: `53`
 - Papers: **13** (0.98%)

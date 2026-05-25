@@ -1,4 +1,4 @@
-# CVPR 2023: 视频动作生成与运动控制
+# CVPR 2023: 视频动作生成与运动控制：deblurring / kernel
 
 - Topic ID: `81`
 - Papers: **14** (0.59%)

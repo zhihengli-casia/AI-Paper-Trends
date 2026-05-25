@@ -1,4 +1,4 @@
-# CVPR 2020: 视频动作识别与时序定位
+# CVPR 2020: 视频动作识别与时序定位：action / recognition
 
 - Topic ID: `57`
 - Papers: **13** (0.89%)

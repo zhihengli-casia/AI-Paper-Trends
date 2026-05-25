@@ -1,4 +1,4 @@
-# SIGGRAPH 2025: 扩散生成模型
+# SIGGRAPH 2025: 扩散生成模型：sampling / rendering
 
 - Topic ID: `2`
 - Papers: **17** (10.56%)

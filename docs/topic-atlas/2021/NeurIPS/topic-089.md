@@ -1,4 +1,4 @@
-# NeurIPS 2021: 多智能体博弈、机制设计与社会选择
+# NeurIPS 2021: 多智能体博弈、机制设计与社会选择：communication / 智能体
 
 - Topic ID: `89`
 - Papers: **10** (0.43%)

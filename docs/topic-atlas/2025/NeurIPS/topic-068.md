@@ -1,4 +1,4 @@
-# NeurIPS 2025: 扩散生成模型
+# NeurIPS 2025: 扩散生成模型：去噪扩散（Topic 068）
 
 - Topic ID: `68`
 - Papers: **35** (0.66%)

@@ -1,4 +1,4 @@
-# TPAMI 2023: 扩散生成模型
+# TPAMI 2023: 扩散生成模型：differential / equations
 
 - Topic ID: `31`
 - Papers: **11** (1.62%)

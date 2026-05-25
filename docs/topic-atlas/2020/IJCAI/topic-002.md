@@ -1,4 +1,4 @@
-# IJCAI 2020: 强化学习策略与奖励建模
+# IJCAI 2020: 强化学习策略与奖励建模：策略优化 / reinforcement learning
 
 - Topic ID: `2`
 - Papers: **33** (4.24%)

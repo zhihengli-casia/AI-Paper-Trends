@@ -1,4 +1,4 @@
-# CVPR 2023: 领域自适应与迁移学习
+# CVPR 2023: 领域自适应与迁移学习：adaptation / domain
 
 - Topic ID: `38`
 - Papers: **24** (1.02%)

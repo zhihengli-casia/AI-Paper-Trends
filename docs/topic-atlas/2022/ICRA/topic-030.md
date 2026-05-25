@@ -1,4 +1,4 @@
-# ICRA 2022: 机器人操作与抓取
+# ICRA 2022: 机器人操作与抓取：surgery / minimally
 
 - Topic ID: `30`
 - Papers: **15** (1.63%)

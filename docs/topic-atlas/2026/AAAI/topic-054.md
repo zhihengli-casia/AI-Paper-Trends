@@ -1,4 +1,4 @@
-# AAAI 2026: 强化学习算法与理论
+# AAAI 2026: 强化学习算法与理论：marl / multi-agent
 
 - Topic ID: `54`
 - Papers: **33** (0.80%)

@@ -1,4 +1,4 @@
-# ACMMM 2025: 多模态学习与跨模态理解
+# ACMMM 2025: 多模态学习与跨模态理解：distillation / teacher
 
 - Topic ID: `9`
 - Papers: **31** (2.48%)

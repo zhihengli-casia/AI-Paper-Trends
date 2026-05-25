@@ -1,4 +1,4 @@
-# NeurIPS 2025: 在线学习与 regret 理论
+# NeurIPS 2025: 在线学习与 regret 理论：games / last-iterate
 
 - Topic ID: `86`
 - Papers: **30** (0.57%)

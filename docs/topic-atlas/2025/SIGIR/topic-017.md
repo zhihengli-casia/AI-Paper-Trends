@@ -1,4 +1,4 @@
-# SIGIR 2025: 推荐系统与用户建模
+# SIGIR 2025: 推荐系统与用户建模：cross-domain / domains
 
 - Topic ID: `17`
 - Papers: **7** (2.93%)

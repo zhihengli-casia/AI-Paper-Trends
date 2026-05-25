@@ -1,4 +1,4 @@
-# CVPR 2020: 点云表示与 3D 感知
+# CVPR 2020: 点云表示与 3D 感知：point / spherical
 
 - Topic ID: `13`
 - Papers: **23** (1.57%)

@@ -1,4 +1,4 @@
-# NeurIPS 2023: 神经架构搜索与模型设计
+# NeurIPS 2023: 神经架构搜索与模型设计：equivariant / equivariance
 
 - Topic ID: `8`
 - Papers: **49** (1.52%)

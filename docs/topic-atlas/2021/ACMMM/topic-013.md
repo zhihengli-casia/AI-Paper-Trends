@@ -1,4 +1,4 @@
-# ACMMM 2021: 图像复原与超分辨率
+# ACMMM 2021: 图像复原与超分辨率：super-resolution / fusion
 
 - Topic ID: `13`
 - Papers: **16** (2.95%)

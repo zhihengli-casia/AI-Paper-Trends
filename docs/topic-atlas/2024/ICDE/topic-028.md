@@ -1,4 +1,4 @@
-# ICDE 2024: 推荐系统与用户建模
+# ICDE 2024: 推荐系统与用户建模：推荐 / embeddings
 
 - Topic ID: `28`
 - Papers: **8** (1.66%)

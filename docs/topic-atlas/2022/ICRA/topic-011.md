@@ -1,4 +1,4 @@
-# ICRA 2022: 机器人操作与抓取
+# ICRA 2022: 机器人操作与抓取：manipulation / planning
 
 - Topic ID: `11`
 - Papers: **24** (2.60%)

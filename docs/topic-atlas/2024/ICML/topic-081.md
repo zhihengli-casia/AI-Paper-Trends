@@ -1,4 +1,4 @@
-# ICML 2024: 在线学习与 regret 理论
+# ICML 2024: 在线学习与 regret 理论：games / player
 
 - Topic ID: `81`
 - Papers: **15** (0.57%)

@@ -1,4 +1,4 @@
-# ICRA 2021: 运动建模 / tracking / visual servoing / loop closure
+# ICRA 2021: 视觉伺服与物理仿真：运动建模 / tracking
 
 - Topic ID: `32`
 - Papers: **18** (1.31%)

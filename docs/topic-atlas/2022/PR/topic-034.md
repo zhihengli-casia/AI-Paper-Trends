@@ -1,4 +1,4 @@
-# PR 2022: 医学影像分割
+# PR 2022: 医学影像分割：waves / effects
 
 - Topic ID: `34`
 - Papers: **8** (1.22%)

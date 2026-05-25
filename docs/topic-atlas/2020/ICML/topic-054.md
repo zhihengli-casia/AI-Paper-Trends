@@ -1,4 +1,4 @@
-# ICML 2020: 凸/非凸优化理论
+# ICML 2020: 凸/非凸优化理论：transport / sinkhorn
 
 - Topic ID: `54`
 - Papers: **9** (0.83%)

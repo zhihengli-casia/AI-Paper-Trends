@@ -1,4 +1,4 @@
-# ACL 2020: 文档摘要与信息压缩
+# ACL 2020: 文档摘要与信息压缩：summarization / abstractive
 
 - Topic ID: `6`
 - Papers: **29** (3.73%)

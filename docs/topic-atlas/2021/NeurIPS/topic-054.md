@@ -1,4 +1,4 @@
-# NeurIPS 2021: 强化学习算法与理论
+# NeurIPS 2021: 强化学习算法与理论：multi-agent / marl
 
 - Topic ID: `54`
 - Papers: **19** (0.81%)

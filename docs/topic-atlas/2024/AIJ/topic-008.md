@@ -1,4 +1,4 @@
-# AIJ 2024: 规划搜索与决策推理
+# AIJ 2024: 规划搜索与决策推理：heuristic / search
 
 - Topic ID: `8`
 - Papers: **8** (6.96%)

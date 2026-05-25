@@ -8,7 +8,7 @@
 
 **Start here: [AI Paper Topic Atlas](docs/topic-atlas/README.md)**
 
-Browse the paper database as **year -> venue -> topic -> paper**. The current index covers **155,662 conference and journal papers**, **160 venue-year groups**, and **7,378 fine-grained topics**.
+Browse the paper database as **year -> venue -> topic -> paper**. The checked-in index currently covers **155,662 conference and journal papers**, **160 venue-year groups**, and **7,378 fine-grained topics**. These counts describe the latest published repository snapshot and are expected to grow as additional venues, years, and proceedings are added.
 
 Quick links:
 
@@ -26,7 +26,7 @@ Example path:
 
 `2026 -> ICLR -> 可验证奖励驱动的大模型推理 -> Reinforcement Learning with Verifiable Rewards...`
 
-This repository provides a browsable AI paper database and fine-grained topic atlas across major conferences and selected journals. It also includes the original single-conference OpenReview pipeline for focused conference-level experiments.
+This repository provides a browsable, continuously expandable AI paper database and fine-grained topic atlas across major conferences and selected journals. It also includes the original single-conference OpenReview pipeline for focused conference-level experiments.
 
 ## 2020-2026 Conference Topic Snapshot
 

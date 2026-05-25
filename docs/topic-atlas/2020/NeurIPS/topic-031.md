@@ -1,4 +1,4 @@
-# NeurIPS 2020: 在线学习与 regret 理论
+# NeurIPS 2020: 在线学习与 regret 理论：arms / bandits
 
 - Topic ID: `31`
 - Papers: **21** (1.11%)

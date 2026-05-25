@@ -1,4 +1,4 @@
-# EMNLP 2022: 结构化解析与表示学习
+# EMNLP 2022: 结构化解析与表示学习：seq2seq / parser
 
 - Topic ID: `25`
 - Papers: **16** (1.93%)

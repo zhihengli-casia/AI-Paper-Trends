@@ -1,4 +1,4 @@
-# NeurIPS 2022: 模仿学习与机器人示教
+# NeurIPS 2022: 模仿学习与机器人示教：奖励建模 / reinforcement learning
 
 - Topic ID: `104`
 - Papers: **10** (0.37%)

@@ -1,4 +1,4 @@
-# ICML 2025: 搜索排序与相关性建模
+# ICML 2025: 搜索排序与相关性建模：teacher / distillation
 
 - Topic ID: `121`
 - Papers: **14** (0.42%)

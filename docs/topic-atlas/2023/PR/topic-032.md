@@ -1,4 +1,4 @@
-# PR 2023: 细粒度视觉分类与识别
+# PR 2023: 细粒度视觉分类与识别：长尾 / visual recognition
 
 - Topic ID: `32`
 - Papers: **13** (1.62%)

@@ -1,4 +1,4 @@
-# ICRA 2024: NeRF 与神经渲染
+# ICRA 2024: NeRF 与神经渲染：LiDAR / transformer-based
 
 - Topic ID: `70`
 - Papers: **12** (0.69%)

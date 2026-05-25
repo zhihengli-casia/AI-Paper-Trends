@@ -1,4 +1,4 @@
-# NeurIPS 2024: 在线学习与 regret 理论
+# NeurIPS 2024: 在线学习与 regret 理论：公平性
 
 - Topic ID: `62`
 - Papers: **31** (0.77%)

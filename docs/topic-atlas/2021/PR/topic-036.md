@@ -1,4 +1,4 @@
-# PR 2021: 图像复原与超分辨率
+# PR 2021: 图像复原与超分辨率：image classification / fusion
 
 - Topic ID: `36`
 - Papers: **8** (1.36%)

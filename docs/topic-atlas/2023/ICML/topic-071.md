@@ -1,4 +1,4 @@
-# ICML 2023: 强化学习算法与理论
+# ICML 2023: 强化学习算法与理论：representation / exploration
 
 - Topic ID: `71`
 - Papers: **12** (0.66%)

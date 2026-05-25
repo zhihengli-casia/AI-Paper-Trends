@@ -1,4 +1,4 @@
-# CVPR 2021: 目标检测与开放世界检测
+# CVPR 2021: 目标检测与开放世界检测：augmentation / multi-label
 
 - Topic ID: `57`
 - Papers: **14** (0.84%)

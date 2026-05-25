@@ -1,4 +1,4 @@
-# ECCV 2024: 多模态大模型与视觉语言推理
+# ECCV 2024: 多模态大模型与视觉语言推理：tokens / language
 
 - Topic ID: `17`
 - Papers: **33** (1.38%)

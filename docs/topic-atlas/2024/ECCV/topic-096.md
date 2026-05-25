@@ -1,4 +1,4 @@
-# ECCV 2024: 图像复原与超分辨率
+# ECCV 2024: 图像复原与超分辨率：image super-resolution / infrared
 
 - Topic ID: `96`
 - Papers: **11** (0.46%)

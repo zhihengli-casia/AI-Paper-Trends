@@ -1,4 +1,4 @@
-# TIP 2024: 图像分割、语义分割与场景解析
+# TIP 2024: 图像分割、语义分割与场景解析：segmentation / sup
 
 - Topic ID: `24`
 - Papers: **9** (1.88%)

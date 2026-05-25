@@ -1,4 +1,4 @@
-# IROS 2022: 规划搜索与决策推理
+# IROS 2022: 规划搜索与决策推理：planning / manipulation
 
 - Topic ID: `45`
 - Papers: **13** (1.08%)

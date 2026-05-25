@@ -1,4 +1,4 @@
-# NeurIPS 2025: 扩散生成模型
+# NeurIPS 2025: 扩散生成模型：flow / 扩散
 
 - Topic ID: `38`
 - Papers: **48** (0.91%)

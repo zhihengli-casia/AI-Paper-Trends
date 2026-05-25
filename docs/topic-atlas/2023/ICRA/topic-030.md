@@ -1,4 +1,4 @@
-# ICRA 2023: LiDAR 点云与 3D 感知
+# ICRA 2023: LiDAR 点云与 3D 感知：LiDAR 语义分割
 
 - Topic ID: `30`
 - Papers: **17** (1.28%)

@@ -1,4 +1,4 @@
-# ICLR 2025: 视觉语言模型与多模态理解
+# ICLR 2025: 视觉语言模型与多模态理解：hallucinations / lvlms
 
 - Topic ID: `54`
 - Papers: **27** (0.73%)

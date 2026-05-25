@@ -1,4 +1,4 @@
-# IROS 2021: tactile / sensing / sensor / gesture recognition
+# IROS 2021: 机器人触觉传感与力感知
 
 - Topic ID: `41`
 - Papers: **11** (1.08%)

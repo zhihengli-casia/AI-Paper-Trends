@@ -1,4 +1,4 @@
-# ICCV 2025: 图像复原与超分辨率
+# ICCV 2025: 图像复原与超分辨率：super-resolution / vsr
 
 - Topic ID: `49`
 - Papers: **23** (0.85%)

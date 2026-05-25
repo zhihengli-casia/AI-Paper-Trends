@@ -1,4 +1,4 @@
-# ICML 2025: Chain-of-Thought 与大模型推理
+# ICML 2025: Chain-of-Thought 与大模型推理：思维链推理
 
 - Topic ID: `7`
 - Papers: **48** (1.44%)

@@ -1,4 +1,4 @@
-# ICRA 2020: 机器人操作与具身智能
+# ICRA 2020: 机器人操作与具身智能：imitation / demonstration
 
 - Topic ID: `55`
 - Papers: **9** (0.84%)

@@ -1,4 +1,4 @@
-# ICML 2020: 规划搜索与决策推理
+# ICML 2020: 规划搜索与决策推理：molecular / chemical
 
 - Topic ID: `52`
 - Papers: **9** (0.83%)

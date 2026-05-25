@@ -1,4 +1,4 @@
-# ACL 2020: 句法解析与语言结构建模
+# ACL 2020: 句法解析与语言结构建模：discourse / relation
 
 - Topic ID: `29`
 - Papers: **12** (1.54%)

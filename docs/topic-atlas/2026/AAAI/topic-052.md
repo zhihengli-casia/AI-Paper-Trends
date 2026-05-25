@@ -1,4 +1,4 @@
-# AAAI 2026: 图神经网络与图表示学习
+# AAAI 2026: 图神经网络与图表示学习：contrastive learning / graph contrastive
 
 - Topic ID: `52`
 - Papers: **34** (0.82%)

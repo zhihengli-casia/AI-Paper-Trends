@@ -1,4 +1,4 @@
-# CHI 2025: 多模态学习与跨模态理解
+# CHI 2025: 多模态学习与跨模态理解：entry / language
 
 - Topic ID: `54`
 - Papers: **12** (0.97%)

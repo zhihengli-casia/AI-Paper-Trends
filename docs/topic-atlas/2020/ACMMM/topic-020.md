@@ -1,4 +1,4 @@
-# ACMMM 2020: 结构化解析与表示学习
+# ACMMM 2020: 结构化解析与表示学习：generative / gans
 
 - Topic ID: `20`
 - Papers: **12** (2.54%)

@@ -1,4 +1,4 @@
-# NeurIPS 2025: 语音合成与音频生成
+# NeurIPS 2025: 语音合成与音频生成：推理 / test-time scaling
 
 - Topic ID: `63`
 - Papers: **36** (0.68%)

@@ -1,4 +1,4 @@
-# ICML 2023: 时间序列建模与预测
+# ICML 2023: 时间序列建模与预测：dynamical / dynamics
 
 - Topic ID: `38`
 - Papers: **20** (1.09%)

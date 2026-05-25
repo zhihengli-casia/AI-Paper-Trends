@@ -1,4 +1,4 @@
-# EMNLP 2022: 多语言建模与跨语言迁移
+# EMNLP 2022: 多语言建模与跨语言迁移：multilingual / languages
 
 - Topic ID: `8`
 - Papers: **25** (3.02%)

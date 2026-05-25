@@ -1,4 +1,4 @@
-# ICLR 2024: 扩散生成模型
+# ICLR 2024: 扩散生成模型：扩散 / score matching
 
 - Topic ID: `75`
 - Papers: **15** (0.66%)

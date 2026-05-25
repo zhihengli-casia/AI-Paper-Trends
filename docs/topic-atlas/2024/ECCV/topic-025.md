@@ -1,4 +1,4 @@
-# ECCV 2024: 扩散生成模型
+# ECCV 2024: 扩散生成模型：anomaly / anomalies
 
 - Topic ID: `25`
 - Papers: **28** (1.17%)

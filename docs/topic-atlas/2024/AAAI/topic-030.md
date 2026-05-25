@@ -1,4 +1,4 @@
-# AAAI 2024: LiDAR 点云与 3D 感知
+# AAAI 2024: LiDAR 点云与 3D 感知：LiDAR 目标检测
 
 - Topic ID: `30`
 - Papers: **28** (1.20%)

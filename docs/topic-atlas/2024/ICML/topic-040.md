@@ -1,4 +1,4 @@
-# ICML 2024: 强化学习算法与理论
+# ICML 2024: 强化学习算法与理论：marl / multi-agent
 
 - Topic ID: `40`
 - Papers: **25** (0.96%)

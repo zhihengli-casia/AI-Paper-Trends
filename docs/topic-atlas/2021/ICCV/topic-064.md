@@ -1,4 +1,4 @@
-# ICCV 2021: 实例分割与开放词汇分割
+# ICCV 2021: 实例分割与开放词汇分割：semantic segmentation / semi-supervised
 
 - Topic ID: `64`
 - Papers: **12** (0.74%)

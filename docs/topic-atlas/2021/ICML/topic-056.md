@@ -1,4 +1,4 @@
-# ICML 2021: 强化学习算法与理论
+# ICML 2021: 强化学习算法与理论：planning / reinforcement learning
 
 - Topic ID: `56`
 - Papers: **11** (0.93%)

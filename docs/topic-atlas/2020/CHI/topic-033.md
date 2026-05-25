@@ -1,4 +1,4 @@
-# CHI 2020: 无人机/四旋翼规划与控制
+# CHI 2020: 无人机/四旋翼规划与控制：interaction / simply
 
 - Topic ID: `33`
 - Papers: **10** (1.35%)

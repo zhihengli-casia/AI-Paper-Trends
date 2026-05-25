@@ -1,4 +1,4 @@
-# ICRA 2023: 软体机器人与柔性执行器
+# ICRA 2023: 软体机器人与柔性执行器：manipulators / proprioceptive
 
 - Topic ID: `23`
 - Papers: **20** (1.50%)

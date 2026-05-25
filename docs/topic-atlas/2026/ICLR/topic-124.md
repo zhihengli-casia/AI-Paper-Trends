@@ -1,4 +1,4 @@
-# ICLR 2026: 多语言建模与跨语言迁移
+# ICLR 2026: 多语言建模与跨语言迁移：scaling laws / pretraining
 
 - Topic ID: `124`
 - Papers: **18** (0.34%)

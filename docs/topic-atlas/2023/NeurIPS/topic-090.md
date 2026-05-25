@@ -1,4 +1,4 @@
-# NeurIPS 2023: 扩散生成模型
+# NeurIPS 2023: 扩散生成模型：degradation / restoration
 
 - Topic ID: `90`
 - Papers: **17** (0.53%)

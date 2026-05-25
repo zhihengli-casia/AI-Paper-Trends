@@ -1,4 +1,4 @@
-# ICDE 2022: 推荐系统与用户建模
+# ICDE 2022: 推荐系统与用户建模：path / queries
 
 - Topic ID: `7`
 - Papers: **16** (5.18%)

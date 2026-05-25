@@ -1,4 +1,4 @@
-# ICRA 2024: 人机交互与协作机器人
+# ICRA 2024: 人机交互与协作机器人：assembly / collaborative
 
 - Topic ID: `57`
 - Papers: **14** (0.80%)

@@ -1,4 +1,4 @@
-# SIGGRAPH 2025: 扩散生成模型
+# SIGGRAPH 2025: 扩散生成模型：image / generation
 
 - Topic ID: `4`
 - Papers: **15** (9.32%)

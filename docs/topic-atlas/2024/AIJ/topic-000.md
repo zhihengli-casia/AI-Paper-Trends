@@ -1,4 +1,4 @@
-# AIJ 2024: 在线学习与 regret 理论
+# AIJ 2024: 在线学习与 regret 理论：bayesian / minimization
 
 - Topic ID: `0`
 - Papers: **15** (13.04%)

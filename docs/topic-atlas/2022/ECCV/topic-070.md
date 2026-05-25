@@ -1,4 +1,4 @@
-# ECCV 2022: NeRF 与神经渲染
+# ECCV 2022: NeRF 与神经渲染：animatable / human
 
 - Topic ID: `70`
 - Papers: **11** (0.67%)

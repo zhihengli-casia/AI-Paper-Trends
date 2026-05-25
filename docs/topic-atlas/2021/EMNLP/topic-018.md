@@ -1,4 +1,4 @@
-# EMNLP 2021: 机器翻译与跨语言对齐
+# EMNLP 2021: 机器翻译与跨语言对齐：translation / machine
 
 - Topic ID: `18`
 - Papers: **18** (2.13%)

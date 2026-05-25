@@ -1,4 +1,4 @@
-# EMNLP 2022: 机器翻译与跨语言对齐
+# EMNLP 2022: 机器翻译与跨语言对齐：translation / nmt
 
 - Topic ID: `2`
 - Papers: **31** (3.74%)

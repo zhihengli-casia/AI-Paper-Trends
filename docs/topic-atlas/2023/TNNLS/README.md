@@ -11,9 +11,9 @@
 
 | Topic | 中文主题名 | Papers | Share | Macro | Keywords | Representative paper |
 |---|---|---:|---:|---|---|---|
-| [000](topic-000.md) | 推荐系统与用户建模 | 38 | 3.71% | 推荐/检索/排序 | `policy / reinforcement / actions / exploration` | Exploration in Deep Reinforcement Learning: From Single-Agent to Multiagent Domain |
+| [000](topic-000.md) | 推荐系统与用户建模：离线强化学习 | 38 | 3.71% | 推荐/检索/排序 | `policy / reinforcement / actions / exploration` | Exploration in Deep Reinforcement Learning: From Single-Agent to Multiagent Domain |
 | [001](topic-001.md) | consensus / event-triggered / control / multiagent | 30 | 2.93% | 强化学习/决策 | `consensus / event-triggered / control / multiagent` | Adaptive Event-Triggered Bipartite Formation for Multiagent Systems via Reinforcement Learning |
-| [002](topic-002.md) | 随机优化与收敛理论 | 29 | 2.83% | 系统/效率/压缩 | `momentum / online / stochastic / regression` | Painless Stochastic Conjugate Gradient for Large-Scale Machine Learning |
+| [002](topic-002.md) | 随机优化与收敛理论：momentum / online | 29 | 2.83% | 系统/效率/压缩 | `momentum / online / stochastic / regression` | Painless Stochastic Conjugate Gradient for Large-Scale Machine Learning |
 | [005](topic-005.md) | control / optimal / discrete-time / temperature | 25 | 2.44% | 计算机视觉 | `control / optimal / discrete-time / temperature` | Constrained-Cost Adaptive Dynamic Programming for Optimal Control of Discrete-Time Nonlinear Systems |
 | [006](topic-006.md) | hyperspectral / hsi / tensor / denoising | 25 | 2.44% | 计算机视觉 | `hyperspectral / hsi / tensor / denoising` | An End-to-End Framework for Joint Denoising and Classification of Hyperspectral Images |
 | [007](topic-007.md) | continual / forgetting / streaming / stream learning | 25 | 2.44% | 系统/效率/压缩 | `continual / forgetting / streaming / stream learning` | Prototype-Guided Memory Replay for Continual Learning |
@@ -29,7 +29,7 @@
 | [016](topic-016.md) | 信息抽取、实体识别与关系抽取 | 21 | 2.05% | NLP任务 | `entity / relational / entities / graph` | Adaptive Prototype Interaction Network for Few-Shot Knowledge Graph Completion |
 | [015](topic-015.md) | 时间序列建模与预测 | 21 | 2.05% | 系统/效率/压缩 | `time series / time-series / forecasting / rul` | MR-Transformer: Multiresolution Transformer for Multivariate Time Series Prediction |
 | [017](topic-017.md) | spiking / snns / neuromorphic / neuron | 20 | 1.95% | 系统/效率/压缩 | `spiking / snns / neuromorphic / neuron` | Backpropagation-Based Learning Techniques for Deep Spiking Neural Networks: A Survey |
-| [018](topic-018.md) | 图神经网络与节点表示学习 | 20 | 1.95% | 图学习/数据挖掘 | `graph / contrastive / clustering / node` | Dual Contrastive Learning Network for Graph Clustering |
+| [018](topic-018.md) | 图神经网络与节点表示学习：图学习 / contrastive | 20 | 1.95% | 图学习/数据挖掘 | `graph / contrastive / clustering / node` | Dual Contrastive Learning Network for Graph Clustering |
 | [019](topic-019.md) | 脑电信号表征与解码 | 20 | 1.95% | AI4Science/医疗 | `eeg / brain / emotion / bci` | LGGNet: Learning From Local-Global-Graph Representations for Brain–Computer Interface |
 | [020](topic-020.md) | 视频动作识别与时序定位 | 20 | 1.95% | 计算机视觉 | `action / recognition / gait / video` | Learning Heterogeneous Spatial–Temporal Context for Skeleton-Based Action Recognition |
 | [021](topic-021.md) | 深度估计与立体匹配 | 19 | 1.86% | 3D/具身/机器人 | `registration / point cloud / object / geometric` | InOR-Net: Incremental 3-D Object Recognition Network for Point Cloud Representation |
@@ -37,21 +37,21 @@
 | [023](topic-023.md) | 语义分割与场景解析 | 19 | 1.86% | 计算机视觉 | `segmentation / semantic / context / image` | Coupling Global Context and Local Contents for Weakly-Supervised Semantic Segmentation |
 | [024](topic-024.md) | pruning / compression / filter / ratio | 19 | 1.86% | 系统/效率/压缩 | `pruning / compression / filter / ratio` | Three-Stage Global Channel Pruning for Resources-Limited Platform |
 | [025](topic-025.md) | synchronization / impulsive / lyapunov / delayed | 19 | 1.86% | 强化学习/决策 | `synchronization / impulsive / lyapunov / delayed` | Synchronization of Time-Delay Coupled Neural Networks With Stabilizing Delayed Impulsive Control |
-| [027](topic-027.md) | 图像复原与超分辨率 | 18 | 1.76% | 计算机视觉 | `image / rain / fusion / shadow` | A Practical Contrastive Learning Framework for Single-Image Super-Resolution |
+| [027](topic-027.md) | 图像复原与超分辨率：image / rain | 18 | 1.76% | 计算机视觉 | `image / rain / fusion / shadow` | A Practical Contrastive Learning Framework for Single-Image Super-Resolution |
 | [026](topic-026.md) | distillation / student / teacher / logic | 18 | 1.76% | 系统/效率/压缩 | `distillation / student / teacher / logic` | DCCD: Reducing Neural Network Redundancy via Distillation |
-| [029](topic-029.md) | 多模态学习与跨模态理解 | 18 | 1.76% | 多模态/VLM | `object / detection / confusion / multimodal` | Collaborative Camouflaged Object Detection: A Large-Scale Dataset and Benchmark |
+| [029](topic-029.md) | 多模态学习与跨模态理解：object / detection | 18 | 1.76% | 多模态/VLM | `object / detection / confusion / multimodal` | Collaborative Camouflaged Object Detection: A Large-Scale Dataset and Benchmark |
 | [028](topic-028.md) | 多视图聚类与图学习 | 18 | 1.76% | 图学习/数据挖掘 | `multiview / clustering / views / multi-view` | Projective Incomplete Multi-View Clustering |
 | [030](topic-030.md) | 跨域转换与序列转换 | 16 | 1.56% | 计算机视觉 | `style / face / sketch / image` | Exploring the Temporal Consistency of Arbitrary Style Transfer: A Channelwise Perspective |
 | [031](topic-031.md) | 神经网络理论与优化行为 | 16 | 1.56% | 理论/优化 | `symbolic / quadratic / bounds / portfolio` | On Expressivity and Trainability of Quadratic Networks |
 | [032](topic-032.md) | transactions neural / ieee transactions / neural networks learning / information ieee | 15 | 1.46% | 其他/交叉主题 | `transactions neural / ieee transactions / neural networks learning / information ieee` | IEEE Transactions on Neural Networks and Learning Systems Publication Information |
 | [033](topic-033.md) | GAN 与图像生成 | 15 | 1.46% | 生成模型 | `speech / language / generative / gans` | InitialGAN: A Language GAN With Completely Random Initialization |
-| [034](topic-034.md) | 时间序列预测 | 15 | 1.46% | 可信/安全/公平 | `power / forecasting / load / demand` | Robust Representation Learning for Power System Short-Term Voltage Stability Assessment Under Diverse Data Loss Conditions |
-| [035](topic-035.md) | 图像复原与超分辨率 | 15 | 1.46% | 计算机视觉 | `image / hyperspectral / hsi / fusion` | Interpretable Model-Driven Deep Network for Hyperspectral, Multispectral, and Panchromatic Image Fusion |
+| [034](topic-034.md) | 时间序列预测：power / 预测 | 15 | 1.46% | 可信/安全/公平 | `power / forecasting / load / demand` | Robust Representation Learning for Power System Short-Term Voltage Stability Assessment Under Diverse Data Loss Conditions |
+| [035](topic-035.md) | 图像复原与超分辨率：image / hyperspectral | 15 | 1.46% | 计算机视觉 | `image / hyperspectral / hsi / fusion` | Interpretable Model-Driven Deep Network for Hyperspectral, Multispectral, and Panchromatic Image Fusion |
 | [036](topic-036.md) | 少样本细粒度视觉识别 | 15 | 1.46% | 计算机视觉 | `few-shot / classes / object / image` | Few-Shot Object Detection: A Comprehensive Survey |
 | [037](topic-037.md) | out-of-distribution / ensemble / samples / labels | 15 | 1.46% | 可信/安全/公平 | `out-of-distribution / ensemble / samples / labels` | Understanding Deep Learning via Decision Boundary |
-| [038](topic-038.md) | 随机优化与收敛理论 | 14 | 1.37% | 计算机视觉 | `quantum / dynamics / reservoir / neuron` | Rigorous a Posteriori Error Bounds for PDE-Defined PINNs |
-| [039](topic-039.md) | 时间序列预测 | 14 | 1.37% | 图学习/数据挖掘 | `road / traffic / temporal / forecasting` | Correlation-Aware Spatial–Temporal Graph Learning for Multivariate Time-Series Anomaly Detection |
-| [040](topic-040.md) | 多模态学习与跨模态理解 | 14 | 1.37% | 多模态/VLM | `sentiment / multimodal / emotional / reviews` | Weakening the Dominant Role of Text: CMOSI Dataset and Multimodal Semantic Enhancement Network |
+| [038](topic-038.md) | 随机优化与收敛理论：quantum / dynamics | 14 | 1.37% | 计算机视觉 | `quantum / dynamics / reservoir / neuron` | Rigorous a Posteriori Error Bounds for PDE-Defined PINNs |
+| [039](topic-039.md) | 时间序列预测：road / traffic | 14 | 1.37% | 图学习/数据挖掘 | `road / traffic / temporal / forecasting` | Correlation-Aware Spatial–Temporal Graph Learning for Multivariate Time-Series Anomaly Detection |
+| [040](topic-040.md) | 多模态学习与跨模态理解：sentiment / 多模态 | 14 | 1.37% | 多模态/VLM | `sentiment / multimodal / emotional / reviews` | Weakening the Dominant Role of Text: CMOSI Dataset and Multimodal Semantic Enhancement Network |
 | [041](topic-041.md) | label / tail / selection / manifold | 14 | 1.37% | 推荐/检索/排序 | `label / tail / selection / manifold` | Adaptive Weighted Ranking-Oriented Label Distribution Learning |
 | [042](topic-042.md) | 机器人视觉目标检测与域适应 | 14 | 1.37% | 计算机视觉 | `domain / adaptation / target / source` | Constrained Maximum Cross-Domain Likelihood for Domain Generalization |
 | [044](topic-044.md) | control / tracking / robotic / adaptive neural | 13 | 1.27% | 3D/具身/机器人 | `control / tracking / robotic / adaptive neural` | Adaptive Neural Control of Constrained MIMO Nonlinear Systems With Asymmetric Input Saturation and Dead Zone |
@@ -61,10 +61,10 @@
 | [047](topic-047.md) | 神经架构搜索与模型设计 | 11 | 1.07% | 理论/优化 | `search / nas / architecture / evolutionary` | Enhanced Gradient for Differentiable Architecture Search |
 | [048](topic-048.md) | memristive / hardware / neuromorphic / energy | 11 | 1.07% | 系统/效率/压缩 | `memristive / hardware / neuromorphic / energy` | Efficient Hybrid Training Method for Neuromorphic Hardware Using Analog Nonvolatile Memory |
 | [049](topic-049.md) | target / reinforcement / 策略优化 / uavs | 11 | 1.07% | 强化学习/决策 | `target / reinforcement / policy / uavs` | Scalable-MADDPG-Based Cooperative Target Invasion for a Multi-USV System |
-| [050](topic-050.md) | 推荐系统与用户建模 | 11 | 1.07% | 可信/安全/公平 | `diffusion / causal / popularity / counterfactual` | On Low-Rank Directed Acyclic Graphs and Causal Structure Learning |
+| [050](topic-050.md) | 推荐系统与用户建模：扩散 / causal | 11 | 1.07% | 可信/安全/公平 | `diffusion / causal / popularity / counterfactual` | On Low-Rank Directed Acyclic Graphs and Causal Structure Learning |
 | [051](topic-051.md) | networks related / technical / transactions neural networks / readers | 11 | 1.07% | 理论/优化 | `networks related / technical / transactions neural networks / readers` | IEEE Transactions on Neural Networks and Learning Systems Information for Authors |
 | [052](topic-052.md) | hashing / 检索 / similarity / cross-modal | 10 | 0.98% | 多模态/VLM | `hashing / retrieval / similarity / cross-modal` | Three-Stage Semisupervised Cross-Modal Hashing With Pairwise Relations Exploitation |
-| [053](topic-053.md) | 图神经网络与节点表示学习 | 9 | 0.88% | 系统/效率/压缩 | `graph / gcns / convolutional networks / contourlet` | GDCNet: Graph Enrichment Learning via Graph Dropping Convolutional Networks |
+| [053](topic-053.md) | 图神经网络与节点表示学习：图学习 / gcns | 9 | 0.88% | 系统/效率/压缩 | `graph / gcns / convolutional networks / contourlet` | GDCNet: Graph Enrichment Learning via Graph Dropping Convolutional Networks |
 | [054](topic-054.md) | 领域自适应与迁移学习 | 9 | 0.88% | HCI/社会计算 | `person / re-id / images / semantic` | Logical Relation Inference and Multiview Information Interaction for Domain Adaptation Person Re-Identification |
 | [055](topic-055.md) | medication / genes / 图学习 / discovery | 9 | 0.88% | 图学习/数据挖掘 | `medication / genes / graph / discovery` | Meta Learning With Graph Attention Networks for Low-Data Drug Discovery |
 | [056](topic-056.md) | tracking / tracker / object / memory | 8 | 0.78% | 计算机视觉 | `tracking / tracker / object / memory` | Tiny Object Tracking: A Large-Scale Dataset and a Baseline |

@@ -15,9 +15,9 @@
 | [001](topic-001.md) | 人类反馈对齐与偏好优化 | 41 | 7.30% | 可信/安全/公平 | `attacks / adversarial / safety / alignment` | Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting |
 | [002](topic-002.md) | 多语言建模与跨语言迁移 | 31 | 5.52% | AI4Science/医疗 | `cultural / medical / languages / multilingual` | S ea E val for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning |
 | [003](topic-003.md) | 查询理解与检索优化 | 28 | 4.98% | 推荐/检索/排序 | `retrieval / queries / relevance / query` | Retrieval Helps or Hurts? A Deeper Dive into the Efficacy of Retrieval Augmentation to Language Models |
-| [004](topic-004.md) | 摘要生成与信息压缩 | 27 | 4.80% | NLP任务 | `event / moral / argument / summarization` | Generating Uncontextualized and Contextualized Questions for Document-Level Event Argument Extraction |
+| [004](topic-004.md) | 摘要生成与信息压缩：event / moral | 27 | 4.80% | NLP任务 | `event / moral / argument / summarization` | Generating Uncontextualized and Contextualized Questions for Document-Level Event Argument Extraction |
 | [005](topic-005.md) | temporal / facts / 图学习 / relations | 27 | 4.80% | NLP任务 | `temporal / facts / graph / relations` | Dissecting Paraphrases: The Impact of Prompt Syntax and supplementary Information on Knowledge Retrieval from Pretrained Language Models |
-| [006](topic-006.md) | 多模态学习与跨模态理解 | 26 | 4.63% | 多模态/VLM | `image / visual / clip / multimodal` | What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases |
+| [006](topic-006.md) | 多模态学习与跨模态理解：image / 视觉理解 | 26 | 4.63% | 多模态/VLM | `image / visual / clip / multimodal` | What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases |
 | [007](topic-007.md) | 少样本分类与开放集识别 | 20 | 3.56% | 推荐/检索/排序 | `prompt / classification / long / random` | LM -Infinite: Zero-Shot Extreme Length Generalization for Large Language Models |
 | [010](topic-010.md) | lms / compositional / gram / smoothing | 18 | 3.20% | LLM/语言模型 | `lms / compositional / gram / smoothing` | Language Models Implement Simple W ord2 V ec-style Vector Arithmetic |
 | [011](topic-011.md) | 文档摘要与信息压缩 | 18 | 3.20% | NLP任务 | `summarization / summaries / news / abstractive` | On Learning to Summarize with Large Language Models as References |
@@ -40,6 +40,6 @@
 | [026](topic-026.md) | 规划搜索与决策推理 | 10 | 1.78% | 强化学习/决策 | `ensemble / editing / routing / planning` | S 3 E val: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Model |
 | [027](topic-027.md) | entity / ner / entities / recognition | 10 | 1.78% | NLP任务 | `entity / ner / entities / recognition` | SCANNER : Knowledge-Enhanced Approach for Robust Multi-modal Named Entity Recognition of Unseen Entities |
 | [028](topic-028.md) | 自回归 Transformer 与语言建模 | 10 | 1.78% | 语音/音频/音乐 | `diffusion / autoregressive / audio / noise` | L anguage F low: Advancing Diffusion Language Generation with Probabilistic Flows |
-| [029](topic-029.md) | 多模态学习与跨模态理解 | 9 | 1.60% | 多模态/VLM | `hallucinations / objects / multimodal / correct` | On Large Language Models’ Hallucination with Regard to Known Facts |
-| [030](topic-030.md) | 摘要生成与信息压缩 | 9 | 1.60% | NLP任务 | `factual / coherence / summaries / summarization` | T ofu E val: Evaluating Hallucinations of LLM s on Topic-Focused Dialogue Summarization |
+| [029](topic-029.md) | 多模态学习与跨模态理解：hallucinations / objects | 9 | 1.60% | 多模态/VLM | `hallucinations / objects / multimodal / correct` | On Large Language Models’ Hallucination with Regard to Known Facts |
+| [030](topic-030.md) | 摘要生成与信息压缩：factual / coherence | 9 | 1.60% | NLP任务 | `factual / coherence / summaries / summarization` | T ofu E val: Evaluating Hallucinations of LLM s on Topic-Focused Dialogue Summarization |
 | [031](topic-031.md) | tables / sql / 推理 / tabular | 9 | 1.60% | LLM/语言模型 | `tables / sql / reasoning / tabular` | Rethinking Tabular Data Understanding with Large Language Models |

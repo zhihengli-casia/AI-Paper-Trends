@@ -1,4 +1,4 @@
-# NeurIPS 2023: 图神经网络与图表示学习
+# NeurIPS 2023: 图神经网络与图表示学习：homophily / 图学习
 
 - Topic ID: `103`
 - Papers: **14** (0.44%)

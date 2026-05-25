@@ -1,4 +1,4 @@
-# EMNLP 2023: 社交媒体与社会计算
+# EMNLP 2023: 社交媒体与社会计算：commonsense / 推理
 
 - Topic ID: `16`
 - Papers: **21** (2.01%)

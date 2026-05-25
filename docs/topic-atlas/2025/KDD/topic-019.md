@@ -1,4 +1,4 @@
-# KDD 2025: 规划搜索与决策推理
+# KDD 2025: 规划搜索与决策推理：mobility / human
 
 - Topic ID: `19`
 - Papers: **11** (1.99%)

@@ -1,4 +1,4 @@
-# CVPR 2025: 深度估计与立体匹配
+# CVPR 2025: 深度估计与立体匹配：gaussians / Splatting
 
 - Topic ID: `15`
 - Papers: **35** (1.22%)

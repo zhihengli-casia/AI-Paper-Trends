@@ -1,4 +1,4 @@
-# MICCAI 2024: 扩散生成模型
+# MICCAI 2024: 扩散生成模型：cardiac / lge
 
 - Topic ID: `5`
 - Papers: **5** (7.04%)

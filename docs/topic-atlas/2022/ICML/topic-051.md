@@ -1,4 +1,4 @@
-# ICML 2022: 随机优化与收敛理论
+# ICML 2022: 随机优化与收敛理论：compression / coding
 
 - Topic ID: `51`
 - Papers: **11** (0.89%)

@@ -1,4 +1,4 @@
-# ICML 2023: 在线学习与 regret 理论
+# ICML 2023: 在线学习与 regret 理论：bandits / contextual
 
 - Topic ID: `55`
 - Papers: **15** (0.82%)

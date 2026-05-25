@@ -1,4 +1,4 @@
-# NeurIPS 2022: 在线学习与 regret 理论
+# NeurIPS 2022: 在线学习与 regret 理论：bayesian optimization / search
 
 - Topic ID: `55`
 - Papers: **21** (0.79%)

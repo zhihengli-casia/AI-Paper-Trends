@@ -1,4 +1,4 @@
-# CVPR 2020: 领域自适应与迁移学习
+# CVPR 2020: 领域自适应与迁移学习：domain / adaptation
 
 - Topic ID: `31`
 - Papers: **18** (1.23%)

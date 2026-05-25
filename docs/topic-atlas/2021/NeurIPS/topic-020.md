@@ -1,4 +1,4 @@
-# NeurIPS 2021: 凸/非凸优化理论
+# NeurIPS 2021: 凸/非凸优化理论：convex / smooth
 
 - Topic ID: `20`
 - Papers: **32** (1.37%)

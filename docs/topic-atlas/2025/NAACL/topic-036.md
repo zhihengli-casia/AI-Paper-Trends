@@ -1,4 +1,4 @@
-# NAACL 2025: 视觉语言模型与多模态理解
+# NAACL 2025: 视觉语言模型与多模态理解：cultural / images
 
 - Topic ID: `36`
 - Papers: **9** (1.25%)

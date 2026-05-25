@@ -1,4 +1,4 @@
-# ICLR 2024: 在线学习与 regret 理论
+# ICLR 2024: 在线学习与 regret 理论：regret / bandits
 
 - Topic ID: `35`
 - Papers: **24** (1.06%)

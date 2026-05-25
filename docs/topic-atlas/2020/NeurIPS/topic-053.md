@@ -1,4 +1,4 @@
-# NeurIPS 2020: 在线学习与 regret 理论
+# NeurIPS 2020: 在线学习与 regret 理论：submodular / maximization
 
 - Topic ID: `53`
 - Papers: **16** (0.84%)

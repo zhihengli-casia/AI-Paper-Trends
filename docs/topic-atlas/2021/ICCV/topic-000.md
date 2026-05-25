@@ -1,4 +1,4 @@
-# ICCV 2021: 语义分割与场景解析
+# ICCV 2021: 语义分割与场景解析：semantic segmentation / weakly
 
 - Topic ID: `0`
 - Papers: **44** (2.73%)

@@ -18,11 +18,11 @@
 | [004](topic-004.md) | clustering / anchor / tensor / hashing | 17 | 6.80% | 图学习/数据挖掘 | `clustering / anchor / tensor / hashing` | Tensorial Multi-View Clustering via Alternative Rank Minimization and Inter-View Alignment |
 | [005](topic-005.md) | drift / streams / spaces / online | 15 | 6.00% | LLM/语言模型 | `drift / streams / spaces / online` | Online Learning for Fickle Data Streams Without Labels |
 | [006](topic-006.md) | imbalanced / label / inline-formula / tex-math | 14 | 5.60% | NLP任务 | `imbalanced / label / inline-formula / tex-math` | Enhancing Active Learning for Class Imbalance With an Incrementally Weighted Approach |
-| [007](topic-007.md) | 推荐系统与用户建模 | 14 | 5.60% | 推荐/检索/排序 | `recommendation / user / sequential / preferences` | Enhancing Intent Understanding and Preference Learning for Sequential Recommendation |
-| [008](topic-008.md) | 隐私保护与安全学习 | 13 | 5.20% | 可信/安全/公平 | `privacy / tex-math / inline-formula / notation` | C2P-M: Critical Connection Protection in Multiplex Graphs |
-| [009](topic-009.md) | 社交媒体与社会计算 | 13 | 5.20% | 图学习/数据挖掘 | `fake / detection / causal / social` | MgSAN: Multi-Graph Semantic-Aware Adaptive Graph Convolutional Network for Fake News Detection |
-| [010](topic-010.md) | 社交媒体与社会计算 | 12 | 4.80% | 图学习/数据挖掘 | `influence / tex-math / inline-formula / social` | Influence Persistence Maximization in Temporal Social Networks |
+| [007](topic-007.md) | 推荐系统与用户建模：序列推荐 | 14 | 5.60% | 推荐/检索/排序 | `recommendation / user / sequential / preferences` | Enhancing Intent Understanding and Preference Learning for Sequential Recommendation |
+| [008](topic-008.md) | 隐私保护与安全学习：隐私保护 | 13 | 5.20% | 可信/安全/公平 | `privacy / tex-math / inline-formula / notation` | C2P-M: Critical Connection Protection in Multiplex Graphs |
+| [009](topic-009.md) | 社交媒体与社会计算：fake / detection | 13 | 5.20% | 图学习/数据挖掘 | `fake / detection / causal / social` | MgSAN: Multi-Graph Semantic-Aware Adaptive Graph Convolutional Network for Fake News Detection |
+| [010](topic-010.md) | 社交媒体与社会计算：influence / tex-math | 12 | 4.80% | 图学习/数据挖掘 | `influence / tex-math / inline-formula / social` | Influence Persistence Maximization in Temporal Social Networks |
 | [011](topic-011.md) | query / spatio-temporal / storage / queries | 12 | 4.80% | 系统/效率/压缩 | `query / spatio-temporal / storage / queries` | Groundhog: Accelerating Spatio-Temporal Data Analytics With Fine-Grained In-Storage Processing |
-| [012](topic-012.md) | 推荐系统与用户建模 | 9 | 3.60% | 多模态/VLM | `recommendation / items / attack / poisoning` | ProitMTA: A Multi-Target Model Poisoning Attack Framework for Federated Recommendation Systems With Proxy Items |
+| [012](topic-012.md) | 推荐系统与用户建模：公平推荐 | 9 | 3.60% | 多模态/VLM | `recommendation / items / attack / poisoning` | ProitMTA: A Multi-Target Model Poisoning Attack Framework for Federated Recommendation Systems With Proxy Items |
 | [013](topic-013.md) | edge / tex-math / inline-formula / workload | 8 | 3.20% | 系统/效率/压缩 | `edge / tex-math / inline-formula / workload` | ${\sf FinePar}$FinePar: A Fine-Grained Data Partitioning Framework for Cloud-Edge-Device Architectures |
-| [014](topic-014.md) | 隐私保护与安全学习 | 8 | 3.20% | 可信/安全/公平 | `trajectory / trajectories / spatio-temporal / privacy` | STORM: Exploiting Spatiotemporal Continuity for Trajectory Similarity Learning in Road Networks |
+| [014](topic-014.md) | 隐私保护与安全学习：隐私保护（Topic 014） | 8 | 3.20% | 可信/安全/公平 | `trajectory / trajectories / spatio-temporal / privacy` | STORM: Exploiting Spatiotemporal Continuity for Trajectory Similarity Learning in Road Networks |

@@ -1,4 +1,4 @@
-# PR 2025: 视频动作识别与时序定位
+# PR 2025: 视频动作识别与时序定位：recognition / action
 
 - Topic ID: `17`
 - Papers: **25** (1.65%)

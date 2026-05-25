@@ -1,4 +1,4 @@
-# ICLR 2026: Chain-of-Thought 与大模型推理
+# ICLR 2026: Chain-of-Thought 与大模型推理：lrms / thinking
 
 - Topic ID: `58`
 - Papers: **40** (0.75%)

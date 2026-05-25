@@ -1,4 +1,4 @@
-# EMNLP 2022: 信息抽取、实体识别与关系抽取
+# EMNLP 2022: 信息抽取、实体识别与关系抽取：entity / typing
 
 - Topic ID: `13`
 - Papers: **20** (2.42%)

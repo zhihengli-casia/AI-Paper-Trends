@@ -1,4 +1,4 @@
-# IROS 2020: 机器人操作与抓取
+# IROS 2020: 机器人操作与抓取：hand / manipulation
 
 - Topic ID: `33`
 - Papers: **16** (1.43%)

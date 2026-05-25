@@ -1,4 +1,4 @@
-# NeurIPS 2021: 搜索排序与相关性建模
+# NeurIPS 2021: 搜索排序与相关性建模：active learning / label
 
 - Topic ID: `15`
 - Papers: **37** (1.59%)

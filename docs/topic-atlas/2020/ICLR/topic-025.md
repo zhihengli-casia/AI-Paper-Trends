@@ -1,4 +1,4 @@
-# ICLR 2020: 机器翻译与跨语言对齐
+# ICLR 2020: 机器翻译与跨语言对齐：translation / bert
 
 - Topic ID: `25`
 - Papers: **13** (1.89%)

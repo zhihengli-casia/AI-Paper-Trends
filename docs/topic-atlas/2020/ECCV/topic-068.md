@@ -1,4 +1,4 @@
-# ECCV 2020: 深度估计与立体匹配
+# ECCV 2020: 深度估计与立体匹配：view synthesis / depth
 
 - Topic ID: `68`
 - Papers: **9** (0.66%)

@@ -1,4 +1,4 @@
-# AAAI 2023: 图神经网络与图表示学习
+# AAAI 2023: 图神经网络与图表示学习：图学习 / heterogeneous
 
 - Topic ID: `17`
 - Papers: **25** (1.59%)

@@ -1,4 +1,4 @@
-# CVPR 2024: 扩散生成模型
+# CVPR 2024: 扩散生成模型：sketch / abstraction
 
 - Topic ID: `101`
 - Papers: **12** (0.44%)

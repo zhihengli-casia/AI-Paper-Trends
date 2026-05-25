@@ -1,4 +1,4 @@
-# ICDE 2024: 规划搜索与决策推理
+# ICDE 2024: 规划搜索与决策推理：path / query
 
 - Topic ID: `26`
 - Papers: **9** (1.86%)

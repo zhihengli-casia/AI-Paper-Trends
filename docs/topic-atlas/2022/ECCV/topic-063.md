@@ -1,4 +1,4 @@
-# ECCV 2022: 人脸分析、表情与属性建模
+# ECCV 2022: 人脸分析、表情与属性建模：manipulation / detection
 
 - Topic ID: `63`
 - Papers: **12** (0.73%)

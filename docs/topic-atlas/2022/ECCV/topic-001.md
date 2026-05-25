@@ -1,4 +1,4 @@
-# ECCV 2022: 点云表示与 3D 感知
+# ECCV 2022: 点云表示与 3D 感知：point / cloud
 
 - Topic ID: `1`
 - Papers: **43** (2.61%)

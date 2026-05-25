@@ -1,4 +1,4 @@
-# CVPR 2021: 视频动作识别与时序定位
+# CVPR 2021: 视频动作识别与时序定位：action / temporal
 
 - Topic ID: `2`
 - Papers: **43** (2.59%)

@@ -1,4 +1,4 @@
-# CHI 2020: 社交媒体与社会计算
+# CHI 2020: 社交媒体与社会计算：online / social media
 
 - Topic ID: `5`
 - Papers: **30** (4.05%)

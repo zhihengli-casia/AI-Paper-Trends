@@ -1,4 +1,4 @@
-# ECCV 2020: 图像到图像转换与风格迁移
+# ECCV 2020: 图像到图像转换与风格迁移：translation / image-to-image
 
 - Topic ID: `12`
 - Papers: **26** (1.91%)

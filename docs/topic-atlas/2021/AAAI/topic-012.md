@@ -1,4 +1,4 @@
-# AAAI 2021: 在线学习与 regret 理论
+# AAAI 2021: 在线学习与 regret 理论：bandits / regret
 
 - Topic ID: `12`
 - Papers: **27** (1.64%)

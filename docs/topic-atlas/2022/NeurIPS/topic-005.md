@@ -1,4 +1,4 @@
-# NeurIPS 2022: 凸/非凸优化理论
+# NeurIPS 2022: 凸/非凸优化理论：stochastic / convergence
 
 - Topic ID: `5`
 - Papers: **50** (1.87%)

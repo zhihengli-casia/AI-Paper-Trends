@@ -1,4 +1,4 @@
-# SIGIR 2024: RAG 与检索增强生成
+# SIGIR 2024: RAG 与检索增强生成：search / test
 
 - Topic ID: `0`
 - Papers: **24** (11.21%)

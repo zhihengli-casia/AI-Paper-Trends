@@ -1,4 +1,4 @@
-# SIGIR 2025: 推荐系统与用户建模
+# SIGIR 2025: 推荐系统与用户建模：intents / conversational
 
 - Topic ID: `15`
 - Papers: **8** (3.35%)

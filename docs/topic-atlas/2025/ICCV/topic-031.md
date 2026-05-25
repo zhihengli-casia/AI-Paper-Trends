@@ -1,4 +1,4 @@
-# ICCV 2025: 视频动作识别与时序定位
+# ICCV 2025: 视频动作识别与时序定位：action / recognition
 
 - Topic ID: `31`
 - Papers: **28** (1.04%)

@@ -1,4 +1,4 @@
-# NeurIPS 2020: 随机优化与收敛理论
+# NeurIPS 2020: 随机优化与收敛理论：sgd / stochastic
 
 - Topic ID: `13`
 - Papers: **31** (1.63%)

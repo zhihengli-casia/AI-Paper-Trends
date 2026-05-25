@@ -1,4 +1,4 @@
-# ACMMM 2023: Deepfake 检测、多媒体取证与内容安全
+# ACMMM 2023: Deepfake 检测、多媒体取证与内容安全：watermarking / attacks
 
 - Topic ID: `24`
 - Papers: **16** (1.77%)

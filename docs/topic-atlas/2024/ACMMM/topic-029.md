@@ -1,4 +1,4 @@
-# ACMMM 2024: 跨域转换与序列转换
+# ACMMM 2024: 跨域转换与序列转换：infrared / image fusion
 
 - Topic ID: `29`
 - Papers: **17** (1.48%)

@@ -1,4 +1,4 @@
-# IROS 2020: tactile / 分类 / material / texture
+# IROS 2020: 机器人触觉传感与力感知：tactile / 分类
 
 - Topic ID: `23`
 - Papers: **20** (1.79%)

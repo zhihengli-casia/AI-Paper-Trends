@@ -1,4 +1,4 @@
-# PR 2023: 图像复原与超分辨率
+# PR 2023: 图像复原与超分辨率：super-resolution / adversarial
 
 - Topic ID: `33`
 - Papers: **12** (1.49%)

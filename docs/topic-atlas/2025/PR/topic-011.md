@@ -1,4 +1,4 @@
-# PR 2025: 图像复原与超分辨率
+# PR 2025: 图像复原与超分辨率：image / restoration
 
 - Topic ID: `11`
 - Papers: **28** (1.85%)

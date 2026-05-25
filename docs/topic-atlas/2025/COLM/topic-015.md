@@ -1,4 +1,4 @@
-# COLM 2025: 长上下文建模与压缩
+# COLM 2025: 长上下文建模与压缩：long-context / extension
 
 - Topic ID: `15`
 - Papers: **11** (2.63%)

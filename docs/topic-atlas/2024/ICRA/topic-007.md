@@ -1,4 +1,4 @@
-# ICRA 2024: exoskeleton / walking / design / prosthesis
+# ICRA 2024: 外骨骼执行器与力反馈
 
 - Topic ID: `7`
 - Papers: **33** (1.89%)

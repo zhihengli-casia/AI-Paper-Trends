@@ -1,4 +1,4 @@
-# CVPR 2025: 多模态大模型与视觉语言推理
+# CVPR 2025: 多模态大模型与视觉语言推理：tokens / pruning
 
 - Topic ID: `8`
 - Papers: **43** (1.50%)

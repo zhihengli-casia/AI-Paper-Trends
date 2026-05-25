@@ -1,4 +1,4 @@
-# NAACL 2022: 摘要生成与信息压缩
+# NAACL 2022: 摘要生成与信息压缩：summarization / summaries
 
 - Topic ID: `12`
 - Papers: **16** (3.62%)

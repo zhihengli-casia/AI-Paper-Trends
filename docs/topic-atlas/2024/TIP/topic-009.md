@@ -1,4 +1,4 @@
-# TIP 2024: 图像分割、语义分割与场景解析
+# TIP 2024: 图像分割、语义分割与场景解析：tracking / tracker
 
 - Topic ID: `9`
 - Papers: **19** (3.97%)

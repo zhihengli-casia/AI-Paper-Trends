@@ -1,4 +1,4 @@
-# ECCV 2020: 人体姿态估计与运动理解
+# ECCV 2020: 人体姿态估计与运动理解：garment / clothing
 
 - Topic ID: `62`
 - Papers: **11** (0.81%)

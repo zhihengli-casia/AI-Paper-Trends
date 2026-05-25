@@ -1,4 +1,4 @@
-# AAAI 2023: 社交媒体与社会计算
+# AAAI 2023: 社交媒体与社会计算：voting / preferences
 
 - Topic ID: `29`
 - Papers: **20** (1.27%)

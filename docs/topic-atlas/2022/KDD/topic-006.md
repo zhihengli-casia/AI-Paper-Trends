@@ -1,4 +1,4 @@
-# KDD 2022: 推荐系统与用户建模
+# KDD 2022: 推荐系统与用户建模：recommender / user
 
 - Topic ID: `6`
 - Papers: **14** (5.53%)

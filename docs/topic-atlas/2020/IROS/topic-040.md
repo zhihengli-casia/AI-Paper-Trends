@@ -1,4 +1,4 @@
-# IROS 2020: 机器人操作与具身智能
+# IROS 2020: 机器人操作与具身智能：reinforcement / mobile manipulators
 
 - Topic ID: `40`
 - Papers: **14** (1.26%)

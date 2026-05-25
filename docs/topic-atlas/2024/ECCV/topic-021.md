@@ -1,4 +1,4 @@
-# ECCV 2024: 图像分割、语义分割与场景解析
+# ECCV 2024: 图像分割、语义分割与场景解析：segmentation / click
 
 - Topic ID: `21`
 - Papers: **31** (1.30%)

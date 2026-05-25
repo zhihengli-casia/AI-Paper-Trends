@@ -1,4 +1,4 @@
-# ICDE 2023: 联邦学习与分布式训练
+# ICDE 2023: 联邦学习与分布式训练：federated / heterogeneous
 
 - Topic ID: `17`
 - Papers: **10** (2.70%)

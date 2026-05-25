@@ -1,4 +1,4 @@
-# IROS 2020: tactile / sensor / sensing / hand
+# IROS 2020: 机器人触觉传感与力感知：tactile / sensor
 
 - Topic ID: `18`
 - Papers: **21** (1.88%)

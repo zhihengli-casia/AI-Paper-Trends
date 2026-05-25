@@ -1,4 +1,4 @@
-# MICCAI 2020: 医学影像分割
+# MICCAI 2020: 医学影像分割：mri / domain adaptation
 
 - Topic ID: `4`
 - Papers: **9** (11.25%)

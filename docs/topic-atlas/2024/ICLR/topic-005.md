@@ -1,4 +1,4 @@
-# ICLR 2024: 随机优化与收敛理论
+# ICLR 2024: 随机优化与收敛理论：kernel / sgd
 
 - Topic ID: `5`
 - Papers: **50** (2.21%)

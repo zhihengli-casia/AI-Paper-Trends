@@ -1,4 +1,4 @@
-# ACL 2025: 社交媒体与社会计算
+# ACL 2025: 社交媒体与社会计算：detection / news
 
 - Topic ID: `8`
 - Papers: **34** (2.00%)

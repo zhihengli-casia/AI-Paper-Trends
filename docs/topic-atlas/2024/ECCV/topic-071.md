@@ -1,4 +1,4 @@
-# ECCV 2024: LiDAR 点云与 3D 感知
+# ECCV 2024: LiDAR 点云与 3D 感知：开放词汇
 
 - Topic ID: `71`
 - Papers: **14** (0.59%)

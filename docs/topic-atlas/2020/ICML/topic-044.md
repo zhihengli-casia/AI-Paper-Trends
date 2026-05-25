@@ -1,4 +1,4 @@
-# ICML 2020: 在线学习与 regret 理论
+# ICML 2020: 在线学习与 regret 理论：revenue / repeated
 
 - Topic ID: `44`
 - Papers: **12** (1.11%)

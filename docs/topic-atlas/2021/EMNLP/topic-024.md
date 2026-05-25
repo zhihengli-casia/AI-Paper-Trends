@@ -1,4 +1,4 @@
-# EMNLP 2021: 句法知识与语言学分析
+# EMNLP 2021: 句法知识与语言学分析：recipe / linguistic
 
 - Topic ID: `24`
 - Papers: **14** (1.65%)

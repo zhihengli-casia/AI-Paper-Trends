@@ -1,4 +1,4 @@
-# EMNLP 2025: 机器翻译与跨语言对齐
+# EMNLP 2025: 机器翻译与跨语言对齐：languages / multilingual
 
 - Topic ID: `4`
 - Papers: **36** (1.99%)

@@ -1,4 +1,4 @@
-# ACL 2023: 摘要生成与信息压缩
+# ACL 2023: 摘要生成与信息压缩：dialogue / discourse
 
 - Topic ID: `3`
 - Papers: **31** (2.88%)

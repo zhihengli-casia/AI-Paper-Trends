@@ -1,4 +1,4 @@
-# EMNLP 2024: Chain-of-Thought 与大模型推理
+# EMNLP 2024: Chain-of-Thought 与大模型推理：logical / cot
 
 - Topic ID: `1`
 - Papers: **46** (3.63%)

@@ -1,4 +1,4 @@
-# AAAI 2022: 视频动作识别与时序定位
+# AAAI 2022: 视频动作识别与时序定位：planning / heuristics
 
 - Topic ID: `5`
 - Papers: **32** (2.43%)

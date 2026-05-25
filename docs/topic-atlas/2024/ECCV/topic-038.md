@@ -1,4 +1,4 @@
-# ECCV 2024: 领域自适应与迁移学习
+# ECCV 2024: 领域自适应与迁移学习：tta / test-time
 
 - Topic ID: `38`
 - Papers: **22** (0.92%)

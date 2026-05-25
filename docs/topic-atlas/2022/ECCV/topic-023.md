@@ -1,4 +1,4 @@
-# ECCV 2022: NeRF 与神经渲染
+# ECCV 2022: NeRF 与神经渲染：radiance / nerf
 
 - Topic ID: `23`
 - Papers: **23** (1.40%)

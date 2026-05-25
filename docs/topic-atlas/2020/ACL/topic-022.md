@@ -1,4 +1,4 @@
-# ACL 2020: 文档摘要与信息压缩
+# ACL 2020: 文档摘要与信息压缩：event / argument
 
 - Topic ID: `22`
 - Papers: **15** (1.93%)

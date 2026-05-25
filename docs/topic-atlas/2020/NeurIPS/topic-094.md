@@ -1,4 +1,4 @@
-# NeurIPS 2020: 图神经网络与图表示学习
+# NeurIPS 2020: 图神经网络与图表示学习：图学习 / attacks
 
 - Topic ID: `94`
 - Papers: **8** (0.42%)

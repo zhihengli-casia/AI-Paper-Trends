@@ -1,4 +1,4 @@
-# IROS 2024: 自动驾驶感知与世界模型
+# IROS 2024: 自动驾驶感知与世界模型：object detection / driving
 
 - Topic ID: `40`
 - Papers: **17** (1.08%)

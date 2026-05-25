@@ -1,4 +1,4 @@
-# IJCAI 2025: 医疗健康与临床 AI
+# IJCAI 2025: 医疗健康与临床 AI：lung / report
 
 - Topic ID: `74`
 - Papers: **9** (0.70%)

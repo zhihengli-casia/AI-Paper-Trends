@@ -1,4 +1,4 @@
-# ICRA 2020: exoskeleton / gait / impedance / stiffness
+# ICRA 2020: 外骨骼步态与假肢控制：exoskeleton / gait
 
 - Topic ID: `42`
 - Papers: **12** (1.12%)

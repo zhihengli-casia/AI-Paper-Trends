@@ -1,4 +1,4 @@
-# EMNLP 2023: 信息抽取、实体识别与关系抽取
+# EMNLP 2023: 信息抽取、实体识别与关系抽取：entity / knowledge graphs
 
 - Topic ID: `38`
 - Papers: **13** (1.24%)

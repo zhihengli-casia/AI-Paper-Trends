@@ -1,4 +1,4 @@
-# CVPR 2021: 点云表示与 3D 感知
+# CVPR 2021: 点云表示与 3D 感知：point cloud / segmentation
 
 - Topic ID: `45`
 - Papers: **15** (0.90%)

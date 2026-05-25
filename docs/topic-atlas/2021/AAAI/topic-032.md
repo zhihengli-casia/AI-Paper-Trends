@@ -1,4 +1,4 @@
-# AAAI 2021: 在线学习与 regret 理论
+# AAAI 2021: 在线学习与 regret 理论：games / equilibrium
 
 - Topic ID: `32`
 - Papers: **19** (1.16%)

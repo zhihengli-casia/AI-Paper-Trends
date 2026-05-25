@@ -1,4 +1,4 @@
-# SIGGRAPH 2024: 扩散生成模型
+# SIGGRAPH 2024: 扩散生成模型：扩散 / image
 
 - Topic ID: `5`
 - Papers: **11** (9.09%)

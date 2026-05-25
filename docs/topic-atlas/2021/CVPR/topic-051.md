@@ -1,4 +1,4 @@
-# CVPR 2021: 实例分割与开放词汇分割
+# CVPR 2021: 实例分割与开放词汇分割：panoptic / segmentation
 
 - Topic ID: `51`
 - Papers: **15** (0.90%)

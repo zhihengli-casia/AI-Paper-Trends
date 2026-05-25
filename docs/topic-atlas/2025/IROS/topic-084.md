@@ -1,4 +1,4 @@
-# IROS 2025: 机器人操作与具身智能
+# IROS 2025: 机器人操作与具身智能：path / trajectory
 
 - Topic ID: `84`
 - Papers: **11** (0.56%)

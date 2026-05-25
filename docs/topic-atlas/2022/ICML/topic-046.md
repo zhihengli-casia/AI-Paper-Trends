@@ -1,4 +1,4 @@
-# ICML 2022: 联邦学习与分布式训练
+# ICML 2022: 联邦学习与分布式训练：federated / clients
 
 - Topic ID: `46`
 - Papers: **13** (1.05%)

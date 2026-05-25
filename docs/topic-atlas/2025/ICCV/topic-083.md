@@ -1,4 +1,4 @@
-# ICCV 2025: LiDAR 点云与 3D 感知
+# ICCV 2025: LiDAR 点云与 3D 感知：collaborative perception / cooperative
 
 - Topic ID: `83`
 - Papers: **15** (0.56%)

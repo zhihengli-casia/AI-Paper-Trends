@@ -1,4 +1,4 @@
-# IJCAI 2023: 社交媒体与社会计算
+# IJCAI 2023: 社交媒体与社会计算：commonsense / content
 
 - Topic ID: `10`
 - Papers: **25** (2.94%)

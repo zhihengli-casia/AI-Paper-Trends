@@ -1,4 +1,4 @@
-# IROS 2020: 机器人遥操作与触觉交互
+# IROS 2020: 机器人遥操作与触觉交互：predictive / distributed
 
 - Topic ID: `24`
 - Papers: **19** (1.70%)

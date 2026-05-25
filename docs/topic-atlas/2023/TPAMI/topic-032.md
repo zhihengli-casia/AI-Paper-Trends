@@ -1,4 +1,4 @@
-# TPAMI 2023: 多模态学习与跨模态理解
+# TPAMI 2023: 多模态学习与跨模态理解：trajectory / 运动建模
 
 - Topic ID: `32`
 - Papers: **10** (1.47%)

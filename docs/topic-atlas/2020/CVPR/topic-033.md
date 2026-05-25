@@ -1,4 +1,4 @@
-# CVPR 2020: 目标检测与开放世界检测
+# CVPR 2020: 目标检测与开放世界检测：object detection / labelled
 
 - Topic ID: `33`
 - Papers: **17** (1.16%)

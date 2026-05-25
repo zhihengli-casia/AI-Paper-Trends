@@ -1,4 +1,4 @@
-# CVPR 2025: NeRF 与神经渲染
+# CVPR 2025: NeRF 与神经渲染：inverse rendering / material
 
 - Topic ID: `78`
 - Papers: **17** (0.59%)

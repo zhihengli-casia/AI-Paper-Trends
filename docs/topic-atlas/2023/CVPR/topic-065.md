@@ -1,4 +1,4 @@
-# CVPR 2023: 行人重识别与人群计数
+# CVPR 2023: 行人重识别与人群计数：crowd / semi-supervised
 
 - Topic ID: `65`
 - Papers: **16** (0.68%)

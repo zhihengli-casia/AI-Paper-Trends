@@ -1,4 +1,4 @@
-# IROS 2025: 机器人操作与抓取
+# IROS 2025: 机器人操作与抓取：manipulation / assembly
 
 - Topic ID: `66`
 - Papers: **14** (0.71%)

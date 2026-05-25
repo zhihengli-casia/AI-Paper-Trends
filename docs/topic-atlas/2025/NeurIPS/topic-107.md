@@ -1,4 +1,4 @@
-# NeurIPS 2025: 长上下文建模与压缩
+# NeurIPS 2025: 长上下文建模与压缩：long-context / communication
 
 - Topic ID: `107`
 - Papers: **24** (0.45%)

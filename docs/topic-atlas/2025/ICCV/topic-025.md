@@ -1,4 +1,4 @@
-# ICCV 2025: 多模态大模型与视觉语言推理
+# ICCV 2025: 多模态大模型与视觉语言推理：pruning / tokens
 
 - Topic ID: `25`
 - Papers: **31** (1.15%)

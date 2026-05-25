@@ -1,4 +1,4 @@
-# CVPR 2024: 领域自适应与迁移学习
+# CVPR 2024: 领域自适应与迁移学习：segmentation / cross-domain
 
 - Topic ID: `42`
 - Papers: **28** (1.03%)

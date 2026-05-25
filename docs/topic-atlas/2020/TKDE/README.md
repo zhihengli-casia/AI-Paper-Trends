@@ -15,7 +15,7 @@
 | [001](topic-001.md) | index / cache / database / storage | 27 | 6.72% | 系统/效率/压缩 | `index / cache / database / storage` | Exploiting Data Skew for Improved Query Performance |
 | [002](topic-002.md) | imbalanced / minority / ensemble / 分类 | 25 | 6.22% | 图学习/数据挖掘 | `imbalanced / minority / ensemble / classification` | Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels |
 | [003](topic-003.md) | graphs / community detection / subgraph / 节点表示 | 23 | 5.72% | 图学习/数据挖掘 | `graphs / community detection / subgraph / node` | Rapid Detection of Local Communities in Graph Streams |
-| [004](topic-004.md) | 推荐系统与用户建模 | 21 | 5.22% | 推荐/检索/排序 | `item / recommendation / recommender / latent` | A Graph Neural Network Framework for Social Recommendations |
+| [004](topic-004.md) | 推荐系统与用户建模：item / 推荐 | 21 | 5.22% | 推荐/检索/排序 | `item / recommendation / recommender / latent` | A Graph Neural Network Framework for Social Recommendations |
 | [005](topic-005.md) | matrix / completion / tensor / clustering | 21 | 5.22% | 图学习/数据挖掘 | `matrix / completion / tensor / clustering` | Robust Subspace Clustering With Low-Rank Structure Constraint |
 | [006](topic-006.md) | latex tex-math inline-formula / clustering / tex-math inline-formula means / query | 19 | 4.73% | 系统/效率/压缩 | `latex tex-math inline-formula / clustering / tex-math inline-formula means / query` | Fully Dynamic k-Center Clustering with Improved Memory Efficiency |
 | [007](topic-007.md) | urban / traffic / transportation / flow | 18 | 4.48% | 多模态/VLM | `urban / traffic / transportation / flow` | Spatio-Temporal Meta Learning for Urban Traffic Prediction |
@@ -29,8 +29,8 @@
 | [015](topic-015.md) | poi / urban / mobility / activity | 14 | 3.48% | 系统/效率/压缩 | `poi / urban / mobility / activity` | Representation Learning With Multi-Level Attention for Activity Trajectory Similarity Computation |
 | [016](topic-016.md) | workers / crowdsourcing / fraud / price | 13 | 3.23% | 可信/安全/公平 | `workers / crowdsourcing / fraud / price` | Cleaning Uncertain Data With Crowdsourcing - A General Model With Diverse Accuracy Rates |
 | [017](topic-017.md) | 社交媒体与社会计算 | 13 | 3.23% | 图学习/数据挖掘 | `latex tex-math inline-formula / clique / social / periodic` | Efficient Radius-Bounded Community Search in Geo-Social Networks |
-| [018](topic-018.md) | 推荐系统与用户建模 | 13 | 3.23% | 推荐/检索/排序 | `social / recommendation / diffusion / influence` | Social Recommendation with Characterized Regularization |
-| [019](topic-019.md) | 推荐系统与用户建模 | 12 | 2.99% | 推荐/检索/排序 | `event / social / cascades / recommendation` | Toward Predicting Active Participants in Tweet Streams: A case study on Two Civil Rights Events |
+| [018](topic-018.md) | 推荐系统与用户建模：social / 推荐 | 13 | 3.23% | 推荐/检索/排序 | `social / recommendation / diffusion / influence` | Social Recommendation with Characterized Regularization |
+| [019](topic-019.md) | 推荐系统与用户建模：event / social | 12 | 2.99% | 推荐/检索/排序 | `event / social / cascades / recommendation` | Toward Predicting Active Participants in Tweet Streams: A case study on Two Civil Rights Events |
 | [020](topic-020.md) | nodes / threat / heterogeneous / information network | 10 | 2.49% | 推荐/检索/排序 | `nodes / threat / heterogeneous / information network` | Dynamic Heterogeneous Information Network Embedding With Meta-Path Based Proximity |
 | [021](topic-021.md) | 扩散生成模型 | 9 | 2.24% | 可信/安全/公平 | `diffusion / influence / maximization / social` | Target-aware Holistic Influence Maximization in Spatial Social Networks |
 | [022](topic-022.md) | 信息抽取、实体识别与关系抽取 | 9 | 2.24% | NLP任务 | `entity / knowledge / entities / graphs` | Entity Alignment for Knowledge Graphs With Multi-Order Convolutional Networks |

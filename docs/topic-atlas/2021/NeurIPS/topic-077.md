@@ -1,4 +1,4 @@
-# NeurIPS 2021: 公平性、偏见与可信 AI
+# NeurIPS 2021: 公平性、偏见与可信 AI：公平性（Topic 077）
 
 - Topic ID: `77`
 - Papers: **13** (0.56%)

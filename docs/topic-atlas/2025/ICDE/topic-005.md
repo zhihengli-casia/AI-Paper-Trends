@@ -1,4 +1,4 @@
-# ICDE 2025: 时间序列建模与预测
+# ICDE 2025: 时间序列建模与预测：time series / spatio-temporal
 
 - Topic ID: `5`
 - Papers: **18** (4.62%)
