@@ -12,18 +12,12 @@ AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要
 
 [![浏览图谱](https://img.shields.io/badge/Browse-Topic%20Atlas-0969da?style=for-the-badge)](docs/topic-atlas/README.md)
 [![下载主题索引](https://img.shields.io/badge/CSV-Topic%20Index-2da44e?style=for-the-badge)](docs/topic-atlas/data/topic_index.csv)
-[![元数据快照](https://img.shields.io/badge/Metadata-Coverage%20Snapshot-8250df?style=for-the-badge)](docs/metadata-snapshot/README.md)
 
 图谱会随着新的公开论文集和元数据释放继续更新。当前仓库快照见下方统计。
 
 ## 当前快照
 
-仓库里现在分成两层：
-
-- **主题图谱：** 已经完成聚类并生成可浏览主题页的论文。
-- **元数据快照：** 来自本地扩展爬虫缓存的轻量覆盖表，用来说明目前已经爬到哪些 venue、年份和数量。
-
-当前仓库中已提交的静态主题图谱包含：
+当前仓库中已提交的静态图谱包含：
 
 | 指标 | 数值 |
 |---|---:|
@@ -37,19 +31,6 @@ AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要
 
 从这里开始浏览：[AI Paper Topic Atlas](docs/topic-atlas/README.md)
 
-最新提交的元数据覆盖快照包含：
-
-| 指标 | 数值 |
-|---|---:|
-| 元数据记录 | 338,496 |
-| venue | 35 |
-| venue-year 行 | 781 |
-| 2020+ 记录 | 197,830 |
-| 2020 年以前记录 | 140,666 |
-| 年份 | 1974-2026 |
-
-覆盖表入口：[Metadata Coverage Snapshot](docs/metadata-snapshot/README.md)
-
 ## 可以用它做什么
 
 - 按年份、会议/期刊、细粒度主题和单篇论文浏览文献。
@@ -60,7 +41,7 @@ AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要
 
 ## 覆盖范围
 
-下面的数字对应当前主题图谱快照，会作为持续更新视图维护。随着更多会议、年份和论文集完成聚类，这些数字会继续变化。
+下面的数字对应当前仓库快照，会作为持续更新视图维护。随着更多会议、年份和论文集加入，这些数字会继续变化。
 
 <details>
 <summary><strong>按领域划分的覆盖范围</strong></summary>
@@ -125,7 +106,6 @@ AI Paper Trends 是一个开源的 AI 论文与研究主题索引，覆盖主要
 |---|---|
 | [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) | 主题级索引，包含年份、venue、topic ID、主题标签、论文数量、代表论文、主题页路径和 GitHub URL。 |
 | [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) | venue-year 覆盖汇总，包含论文数、主题数和聚类诊断指标。 |
-| [docs/metadata-snapshot/README.md](docs/metadata-snapshot/README.md) | 从本地扩展元数据缓存导出的轻量覆盖快照。 |
 | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) | 2020-2026 会议论文干净版主题快照。 |
 | [docs/auto-update/status.md](docs/auto-update/status.md) | 最近一次轻量自动更新检查报告。 |
 

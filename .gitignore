@@ -27,8 +27,6 @@ results/
 !docs/topic-atlas/data/*.csv
 !docs/clean-2020-plus/data/
 !docs/clean-2020-plus/data/*.csv
-!docs/metadata-snapshot/data/
-!docs/metadata-snapshot/data/*.csv
 
 # Build artifacts and Packaging
 *.egg-info/
@@ -36,7 +34,6 @@ build/
 dist/
 
 # Logs and Temporary Files
-logs/
 *.log
 *~
 *.tmp
