@@ -1,0 +1,36 @@
+area,venue,venue_type,first_year,last_year,years,papers,abstracts,doi,abstract_rate
+AI journals,AIJ,journal,2000,2026,22,2135,272,2135,0.1274
+Computer vision,CVPR,conference,2013,2025,13,18452,18449,3,0.9998
+Computer vision,ECCV,conference,1990,2024,18,7026,6166,860,0.8776
+Computer vision,ICCV,conference,2013,2025,7,9145,9144,0,0.9999
+Computer vision,IJCV,journal,2000,2023,20,2030,197,2016,0.097
+Computer vision,PR,journal,2000,2026,21,10719,753,10555,0.0702
+Computer vision,TIP,journal,2000,2024,8,2604,2184,2604,0.8387
+Computer vision,TPAMI,journal,2001,2023,13,3884,3358,3855,0.8646
+Data / IR / Web / DB,ICDE,conference,2000,2025,26,5036,0,5035,0.0
+Data / IR / Web / DB,KDD,conference,2003,2025,22,4251,1979,4251,0.4655
+Data / IR / Web / DB,SIGIR,conference,2000,2025,26,4245,1065,4244,0.2509
+Data / IR / Web / DB,SIGMOD,conference,2000,2025,26,3298,0,3288,0.0
+Data / IR / Web / DB,TKDE,journal,2000,2026,17,3554,3035,3543,0.854
+Data / IR / Web / DB,VLDB,conference,2000,2025,14,3065,403,2480,0.1315
+Data / IR / Web / DB,WWW,conference,2001,2025,25,4787,1962,4787,0.4099
+General AI,AAAI,conference,2000,2026,24,22887,20231,10961,0.884
+General AI,IJCAI,conference,1979,2025,19,12185,8402,5976,0.6895
+ML / learning,ICLR,conference,2013,2026,13,53212,53211,0,1.0
+ML / learning,ICML,conference,1993,2025,33,16367,14672,1029,0.8964
+ML / learning,JMLR,journal,2002,2020,15,1089,976,775,0.8962
+ML / learning,NeurIPS,conference,1987,2025,39,29121,20441,0,0.7019
+ML / learning,TNNLS,journal,2001,2026,15,3902,3501,3902,0.8972
+Medical AI,MICCAI,conference,1998,2025,28,5781,9,5781,0.0016
+Multimedia / HCI / graphics,ACMMM,conference,1999,2025,27,8495,5260,8431,0.6192
+Multimedia / HCI / graphics,CHI,conference,1982,2025,37,12246,0,12245,0.0
+Multimedia / HCI / graphics,SIGGRAPH,conference,1974,2025,33,2014,0,1988,0.0
+Multimedia / HCI / graphics,SIGGRAPH-Asia,conference,2019,2025,6,562,0,562,0.0
+Multimedia / HCI / graphics,TMM,journal,2000,2026,22,5017,4123,4991,0.8218
+NLP / language,ACL,conference,1979,2025,44,10998,7245,0,0.6588
+NLP / language,COLM,conference,2024,2025,2,717,717,0,1.0
+NLP / language,EMNLP,conference,1996,2025,29,9667,7582,0,0.7843
+NLP / language,NAACL,conference,2000,2025,17,4023,2952,0,0.7338
+Robotics / embodied AI,ICRA,conference,1984,2025,42,28115,4978,28113,0.1771
+Robotics / embodied AI,IROS,conference,1988,2025,38,26561,0,26560,0.0
+Robotics / embodied AI,RSS,conference,2005,2024,20,1306,0,1305,0.0

@@ -12,12 +12,18 @@ The project started from a simple need: see what each AI venue is publishing eve
 
 [![Browse the Atlas](https://img.shields.io/badge/Browse-Topic%20Atlas-0969da?style=for-the-badge)](docs/topic-atlas/README.md)
 [![Download Topic Index](https://img.shields.io/badge/CSV-Topic%20Index-2da44e?style=for-the-badge)](docs/topic-atlas/data/topic_index.csv)
+[![Metadata Snapshot](https://img.shields.io/badge/Metadata-Coverage%20Snapshot-8250df?style=for-the-badge)](docs/metadata-snapshot/README.md)
 
 The atlas is updated as new public proceedings and metadata become available. The current checked-in snapshot is summarized below.
 
 ## Current Snapshot
 
-The checked-in static atlas currently contains:
+The repository separates two layers:
+
+- **Topic atlas:** papers that have already been clustered into browsable topic pages.
+- **Metadata snapshot:** compact coverage tables for the larger crawled metadata cache.
+
+The checked-in static topic atlas currently contains:
 
 | Metric | Value |
 |---|---:|
@@ -31,6 +37,19 @@ This is a living index. New venue-years are added as proceedings and public meta
 
 Start browsing here: [AI Paper Topic Atlas](docs/topic-atlas/README.md)
 
+The latest checked-in metadata coverage snapshot contains:
+
+| Metric | Value |
+|---|---:|
+| Metadata records | 338,496 |
+| Venues | 35 |
+| Venue-year rows | 781 |
+| 2020+ records | 197,830 |
+| Pre-2020 records | 140,666 |
+| Years | 1974-2026 |
+
+Open the coverage tables here: [Metadata Coverage Snapshot](docs/metadata-snapshot/README.md)
+
 ## What You Can Do
 
 - Browse papers by year, venue, fine-grained topic, and individual paper.
@@ -41,7 +60,7 @@ Start browsing here: [AI Paper Topic Atlas](docs/topic-atlas/README.md)
 
 ## Coverage
 
-Counts below describe the current repository snapshot. They are maintained as a continuously updated view and will change as more venues, years, and proceedings are added.
+Counts below describe the current topic-atlas snapshot. They are maintained as a continuously updated view and will change as more venues, years, and proceedings are clustered into the atlas.
 
 <details>
 <summary><strong>Coverage by area</strong></summary>
@@ -106,6 +125,7 @@ Each topic page includes:
 |---|---|
 | [docs/topic-atlas/data/topic_index.csv](docs/topic-atlas/data/topic_index.csv) | Topic-level index with year, venue, topic ID, labels, paper counts, representative papers, topic page paths, and GitHub URLs. |
 | [docs/topic-atlas/data/venue_year_summary.csv](docs/topic-atlas/data/venue_year_summary.csv) | Venue-year coverage summary with paper counts, topic counts, and clustering diagnostics. |
+| [docs/metadata-snapshot/README.md](docs/metadata-snapshot/README.md) | Compact metadata coverage snapshot generated from the expanded local metadata cache. |
 | [docs/clean-2020-plus/README.md](docs/clean-2020-plus/README.md) | Clean 2020-2026 conference-only topic snapshot. |
 | [docs/auto-update/status.md](docs/auto-update/status.md) | Latest lightweight update-check report. |
 

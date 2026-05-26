@@ -1,0 +1,782 @@
+area,venue,venue_type,year,papers,abstracts,abstract_rate,doi
+Multimedia / HCI / graphics,SIGGRAPH,conference,1974,53,0,0.0,53
+Multimedia / HCI / graphics,SIGGRAPH,conference,1975,36,0,0.0,16
+Multimedia / HCI / graphics,SIGGRAPH,conference,1976,56,0,0.0,56
+Multimedia / HCI / graphics,SIGGRAPH,conference,1977,45,0,0.0,45
+Multimedia / HCI / graphics,SIGGRAPH,conference,1978,63,0,0.0,63
+General AI,IJCAI,conference,1979,226,0,0.0,0
+Multimedia / HCI / graphics,SIGGRAPH,conference,1979,43,0,0.0,43
+NLP / language,ACL,conference,1979,29,0,0.0,0
+Multimedia / HCI / graphics,SIGGRAPH,conference,1980,52,0,0.0,52
+NLP / language,ACL,conference,1980,45,0,0.0,0
+Multimedia / HCI / graphics,SIGGRAPH,conference,1981,37,0,0.0,37
+NLP / language,ACL,conference,1981,36,0,0.0,0
+Multimedia / HCI / graphics,CHI,conference,1982,75,0,0.0,75
+Multimedia / HCI / graphics,SIGGRAPH,conference,1982,48,0,0.0,48
+NLP / language,ACL,conference,1982,40,0,0.0,0
+Multimedia / HCI / graphics,CHI,conference,1983,58,0,0.0,58
+Multimedia / HCI / graphics,SIGGRAPH,conference,1983,45,0,0.0,45
+NLP / language,ACL,conference,1983,26,0,0.0,0
+Multimedia / HCI / graphics,SIGGRAPH,conference,1984,41,0,0.0,41
+NLP / language,ACL,conference,1984,117,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1984,74,0,0.0,74
+Multimedia / HCI / graphics,CHI,conference,1985,41,0,0.0,41
+Multimedia / HCI / graphics,SIGGRAPH,conference,1985,46,0,0.0,46
+NLP / language,ACL,conference,1985,41,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1985,158,0,0.0,158
+Multimedia / HCI / graphics,CHI,conference,1986,55,0,0.0,55
+Multimedia / HCI / graphics,SIGGRAPH,conference,1986,35,0,0.0,35
+NLP / language,ACL,conference,1986,42,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1986,339,0,0.0,339
+ML / learning,NeurIPS,conference,1987,90,8,0.0889,0
+Multimedia / HCI / graphics,CHI,conference,1987,58,0,0.0,58
+Multimedia / HCI / graphics,SIGGRAPH,conference,1987,36,0,0.0,36
+NLP / language,ACL,conference,1987,35,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1987,329,0,0.0,329
+ML / learning,NeurIPS,conference,1988,94,10,0.1064,0
+Multimedia / HCI / graphics,CHI,conference,1988,48,0,0.0,48
+Multimedia / HCI / graphics,SIGGRAPH,conference,1988,50,0,0.0,50
+NLP / language,ACL,conference,1988,36,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1988,329,0,0.0,329
+Robotics / embodied AI,IROS,conference,1988,129,0,0.0,129
+ML / learning,NeurIPS,conference,1989,101,3,0.0297,0
+Multimedia / HCI / graphics,CHI,conference,1989,73,0,0.0,73
+Multimedia / HCI / graphics,SIGGRAPH,conference,1989,38,0,0.0,38
+NLP / language,ACL,conference,1989,35,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1989,281,0,0.0,281
+Robotics / embodied AI,IROS,conference,1989,89,0,0.0,89
+Computer vision,ECCV,conference,1990,79,0,0.0,79
+ML / learning,NeurIPS,conference,1990,143,2,0.014,0
+Multimedia / HCI / graphics,CHI,conference,1990,71,0,0.0,71
+Multimedia / HCI / graphics,SIGGRAPH,conference,1990,43,0,0.0,43
+NLP / language,ACL,conference,1990,40,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1990,331,0,0.0,331
+Robotics / embodied AI,IROS,conference,1990,139,0,0.0,139
+ML / learning,NeurIPS,conference,1991,144,1,0.0069,0
+Multimedia / HCI / graphics,CHI,conference,1991,98,0,0.0,98
+Multimedia / HCI / graphics,SIGGRAPH,conference,1991,40,0,0.0,40
+NLP / language,ACL,conference,1991,57,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1991,390,0,0.0,390
+Robotics / embodied AI,IROS,conference,1991,255,0,0.0,255
+Computer vision,ECCV,conference,1992,105,0,0.0,105
+ML / learning,NeurIPS,conference,1992,127,1,0.0079,0
+Multimedia / HCI / graphics,SIGGRAPH,conference,1992,45,0,0.0,44
+NLP / language,ACL,conference,1992,55,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1992,428,0,0.0,428
+Robotics / embodied AI,IROS,conference,1992,289,0,0.0,289
+ML / learning,ICML,conference,1993,44,0,0.0,44
+ML / learning,NeurIPS,conference,1993,158,12,0.0759,0
+Multimedia / HCI / graphics,CHI,conference,1993,111,0,0.0,111
+Multimedia / HCI / graphics,SIGGRAPH,conference,1993,63,0,0.0,62
+NLP / language,ACL,conference,1993,48,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1993,160,0,0.0,160
+Robotics / embodied AI,IROS,conference,1993,312,0,0.0,312
+Computer vision,ECCV,conference,1994,65,0,0.0,65
+ML / learning,ICML,conference,1994,42,0,0.0,42
+ML / learning,NeurIPS,conference,1994,140,2,0.0143,0
+Multimedia / HCI / graphics,CHI,conference,1994,70,0,0.0,69
+Multimedia / HCI / graphics,SIGGRAPH,conference,1994,72,0,0.0,72
+NLP / language,ACL,conference,1994,53,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1994,131,0,0.0,131
+Robotics / embodied AI,IROS,conference,1994,288,0,0.0,288
+ML / learning,ICML,conference,1995,66,0,0.0,66
+ML / learning,NeurIPS,conference,1995,152,5,0.0329,0
+Multimedia / HCI / graphics,SIGGRAPH,conference,1995,73,0,0.0,72
+NLP / language,ACL,conference,1995,57,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1995,231,0,0.0,230
+Robotics / embodied AI,IROS,conference,1995,264,0,0.0,264
+Computer vision,ECCV,conference,1996,62,0,0.0,62
+ML / learning,ICML,conference,1996,63,0,0.0,0
+ML / learning,NeurIPS,conference,1996,152,0,0.0,0
+Multimedia / HCI / graphics,SIGGRAPH,conference,1996,70,0,0.0,69
+NLP / language,ACL,conference,1996,59,0,0.0,0
+NLP / language,EMNLP,conference,1996,15,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1996,588,0,0.0,588
+Robotics / embodied AI,IROS,conference,1996,238,0,0.0,238
+ML / learning,ICML,conference,1997,48,0,0.0,0
+ML / learning,NeurIPS,conference,1997,150,0,0.0,0
+Multimedia / HCI / graphics,SIGGRAPH,conference,1997,67,0,0.0,67
+NLP / language,ACL,conference,1997,74,0,0.0,0
+NLP / language,EMNLP,conference,1997,24,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1997,574,0,0.0,574
+Robotics / embodied AI,IROS,conference,1997,290,0,0.0,290
+Computer vision,ECCV,conference,1998,57,0,0.0,57
+ML / learning,ICML,conference,1998,66,0,0.0,0
+ML / learning,NeurIPS,conference,1998,151,1,0.0066,0
+Medical AI,MICCAI,conference,1998,133,0,0.0,133
+Multimedia / HCI / graphics,SIGGRAPH,conference,1998,45,0,0.0,45
+NLP / language,ACL,conference,1998,249,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1998,146,0,0.0,146
+Robotics / embodied AI,IROS,conference,1998,318,0,0.0,318
+ML / learning,ICML,conference,1999,54,0,0.0,0
+ML / learning,NeurIPS,conference,1999,150,1,0.0067,0
+Medical AI,MICCAI,conference,1999,133,0,0.0,133
+Multimedia / HCI / graphics,ACMMM,conference,1999,62,62,1.0,62
+Multimedia / HCI / graphics,SIGGRAPH,conference,1999,51,0,0.0,50
+NLP / language,ACL,conference,1999,83,0,0.0,0
+NLP / language,EMNLP,conference,1999,36,0,0.0,0
+Robotics / embodied AI,ICRA,conference,1999,132,0,0.0,132
+Robotics / embodied AI,IROS,conference,1999,311,0,0.0,311
+AI journals,AIJ,journal,2000,93,0,0.0,93
+Computer vision,ECCV,conference,2000,61,0,0.0,61
+Computer vision,IJCV,journal,2000,73,0,0.0,71
+Computer vision,PR,journal,2000,168,1,0.006,167
+Computer vision,TIP,journal,2000,216,210,0.9722,216
+Data / IR / Web / DB,ICDE,conference,2000,77,0,0.0,76
+Data / IR / Web / DB,SIGIR,conference,2000,69,0,0.0,68
+Data / IR / Web / DB,SIGMOD,conference,2000,54,0,0.0,53
+Data / IR / Web / DB,TKDE,journal,2000,68,63,0.9265,68
+Data / IR / Web / DB,VLDB,conference,2000,71,0,0.0,0
+General AI,AAAI,conference,2000,161,0,0.0,0
+ML / learning,ICML,conference,2000,151,0,0.0,0
+ML / learning,NeurIPS,conference,2000,152,1,0.0066,0
+Medical AI,MICCAI,conference,2000,133,0,0.0,133
+Multimedia / HCI / graphics,ACMMM,conference,2000,98,57,0.5816,58
+Multimedia / HCI / graphics,CHI,conference,2000,72,0,0.0,72
+Multimedia / HCI / graphics,SIGGRAPH,conference,2000,59,0,0.0,59
+Multimedia / HCI / graphics,TMM,journal,2000,24,23,0.9583,24
+NLP / language,ACL,conference,2000,79,0,0.0,0
+NLP / language,EMNLP,conference,2000,28,0,0.0,0
+NLP / language,NAACL,conference,2000,44,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2000,641,0,0.0,641
+Robotics / embodied AI,IROS,conference,2000,378,0,0.0,378
+AI journals,AIJ,journal,2001,115,0,0.0,115
+Computer vision,PR,journal,2001,241,3,0.0124,241
+Computer vision,TIP,journal,2001,182,177,0.9725,182
+Computer vision,TPAMI,journal,2001,133,129,0.9699,133
+Data / IR / Web / DB,ICDE,conference,2001,74,0,0.0,74
+Data / IR / Web / DB,SIGIR,conference,2001,78,0,0.0,78
+Data / IR / Web / DB,SIGMOD,conference,2001,76,0,0.0,76
+Data / IR / Web / DB,TKDE,journal,2001,82,72,0.878,81
+Data / IR / Web / DB,VLDB,conference,2001,76,0,0.0,0
+Data / IR / Web / DB,WWW,conference,2001,78,0,0.0,78
+General AI,IJCAI,conference,2001,197,0,0.0,0
+ML / learning,ICML,conference,2001,80,0,0.0,0
+ML / learning,NeurIPS,conference,2001,197,2,0.0102,0
+ML / learning,TNNLS,journal,2001,1,1,1.0,1
+Medical AI,MICCAI,conference,2001,258,0,0.0,258
+Multimedia / HCI / graphics,ACMMM,conference,2001,77,77,1.0,77
+Multimedia / HCI / graphics,CHI,conference,2001,69,0,0.0,69
+Multimedia / HCI / graphics,SIGGRAPH,conference,2001,65,0,0.0,64
+Multimedia / HCI / graphics,TMM,journal,2001,39,38,0.9744,39
+NLP / language,ACL,conference,2001,70,0,0.0,0
+NLP / language,EMNLP,conference,2001,21,0,0.0,0
+NLP / language,NAACL,conference,2001,32,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2001,678,0,0.0,677
+Robotics / embodied AI,IROS,conference,2001,379,0,0.0,379
+Computer vision,ECCV,conference,2002,53,0,0.0,53
+Computer vision,IJCV,journal,2002,79,0,0.0,79
+Computer vision,PR,journal,2002,329,1,0.003,327
+Computer vision,TIP,journal,2002,132,131,0.9924,132
+Computer vision,TPAMI,journal,2002,155,152,0.9806,154
+Data / IR / Web / DB,ICDE,conference,2002,78,0,0.0,78
+Data / IR / Web / DB,SIGIR,conference,2002,93,0,0.0,93
+Data / IR / Web / DB,SIGMOD,conference,2002,54,0,0.0,54
+Data / IR / Web / DB,TKDE,journal,2002,100,100,1.0,100
+Data / IR / Web / DB,VLDB,conference,2002,89,0,0.0,89
+Data / IR / Web / DB,WWW,conference,2002,72,0,0.0,72
+General AI,AAAI,conference,2002,138,0,0.0,0
+ML / learning,ICML,conference,2002,87,0,0.0,0
+ML / learning,JMLR,journal,2002,8,8,1.0,8
+ML / learning,NeurIPS,conference,2002,207,3,0.0145,0
+Medical AI,MICCAI,conference,2002,98,0,0.0,98
+Multimedia / HCI / graphics,ACMMM,conference,2002,90,90,1.0,90
+Multimedia / HCI / graphics,CHI,conference,2002,58,0,0.0,58
+Multimedia / HCI / graphics,TMM,journal,2002,50,48,0.96,50
+NLP / language,ACL,conference,2002,65,0,0.0,0
+NLP / language,EMNLP,conference,2002,41,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2002,689,0,0.0,689
+Robotics / embodied AI,IROS,conference,2002,499,0,0.0,499
+AI journals,AIJ,journal,2003,141,0,0.0,141
+Computer vision,IJCV,journal,2003,60,0,0.0,60
+Computer vision,PR,journal,2003,251,2,0.008,250
+Computer vision,TPAMI,journal,2003,164,157,0.9573,163
+Data / IR / Web / DB,ICDE,conference,2003,91,0,0.0,91
+Data / IR / Web / DB,KDD,conference,2003,70,0,0.0,70
+Data / IR / Web / DB,SIGIR,conference,2003,98,0,0.0,98
+Data / IR / Web / DB,SIGMOD,conference,2003,90,0,0.0,81
+Data / IR / Web / DB,TKDE,journal,2003,125,120,0.96,124
+Data / IR / Web / DB,VLDB,conference,2003,112,0,0.0,112
+Data / IR / Web / DB,WWW,conference,2003,77,0,0.0,77
+General AI,IJCAI,conference,2003,276,0,0.0,0
+ML / learning,ICML,conference,2003,117,0,0.0,0
+ML / learning,NeurIPS,conference,2003,198,1,0.0051,0
+Medical AI,MICCAI,conference,2003,98,0,0.0,98
+Multimedia / HCI / graphics,ACMMM,conference,2003,81,80,0.9877,81
+Multimedia / HCI / graphics,CHI,conference,2003,75,0,0.0,75
+Multimedia / HCI / graphics,SIGGRAPH,conference,2003,142,0,0.0,142
+Multimedia / HCI / graphics,TMM,journal,2003,52,50,0.9615,51
+NLP / language,ACL,conference,2003,71,0,0.0,0
+NLP / language,EMNLP,conference,2003,28,0,0.0,0
+NLP / language,NAACL,conference,2003,37,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2003,709,0,0.0,709
+Robotics / embodied AI,IROS,conference,2003,620,0,0.0,620
+AI journals,AIJ,journal,2004,106,0,0.0,106
+Computer vision,ECCV,conference,2004,47,0,0.0,47
+Computer vision,IJCV,journal,2004,85,0,0.0,85
+Computer vision,PR,journal,2004,269,2,0.0074,262
+Computer vision,TIP,journal,2004,233,146,0.6266,233
+Data / IR / Web / DB,ICDE,conference,2004,101,0,0.0,101
+Data / IR / Web / DB,KDD,conference,2004,84,0,0.0,84
+Data / IR / Web / DB,SIGIR,conference,2004,141,0,0.0,141
+Data / IR / Web / DB,SIGMOD,conference,2004,84,0,0.0,84
+Data / IR / Web / DB,TKDE,journal,2004,199,133,0.6683,199
+Data / IR / Web / DB,VLDB,conference,2004,105,0,0.0,105
+Data / IR / Web / DB,WWW,conference,2004,74,0,0.0,74
+General AI,AAAI,conference,2004,144,0,0.0,0
+ML / learning,ICML,conference,2004,117,0,0.0,117
+ML / learning,JMLR,journal,2004,31,31,1.0,30
+ML / learning,NeurIPS,conference,2004,207,0,0.0,0
+ML / learning,TNNLS,journal,2004,1,1,1.0,1
+Medical AI,MICCAI,conference,2004,111,0,0.0,111
+Multimedia / HCI / graphics,ACMMM,conference,2004,165,104,0.6303,165
+Multimedia / HCI / graphics,CHI,conference,2004,93,0,0.0,93
+Multimedia / HCI / graphics,TMM,journal,2004,125,84,0.672,123
+NLP / language,ACL,conference,2004,88,0,0.0,0
+NLP / language,EMNLP,conference,2004,56,0,0.0,0
+NLP / language,NAACL,conference,2004,43,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2004,170,0,0.0,170
+Robotics / embodied AI,IROS,conference,2004,660,0,0.0,660
+Computer vision,IJCV,journal,2005,52,0,0.0,51
+Computer vision,TPAMI,journal,2005,236,172,0.7288,234
+Data / IR / Web / DB,ICDE,conference,2005,127,0,0.0,127
+Data / IR / Web / DB,KDD,conference,2005,76,0,0.0,76
+Data / IR / Web / DB,SIGIR,conference,2005,127,0,0.0,127
+Data / IR / Web / DB,SIGMOD,conference,2005,108,0,0.0,108
+Data / IR / Web / DB,TKDE,journal,2005,198,127,0.6414,195
+Data / IR / Web / DB,VLDB,conference,2005,104,0,0.0,0
+Data / IR / Web / DB,WWW,conference,2005,82,0,0.0,82
+General AI,AAAI,conference,2005,262,0,0.0,0
+General AI,IJCAI,conference,2005,350,0,0.0,0
+ML / learning,ICML,conference,2005,134,0,0.0,134
+ML / learning,JMLR,journal,2005,46,46,1.0,41
+ML / learning,NeurIPS,conference,2005,207,0,0.0,0
+Medical AI,MICCAI,conference,2005,114,0,0.0,114
+Multimedia / HCI / graphics,ACMMM,conference,2005,162,0,0.0,162
+Multimedia / HCI / graphics,CHI,conference,2005,93,0,0.0,93
+Multimedia / HCI / graphics,TMM,journal,2005,152,113,0.7434,152
+NLP / language,ACL,conference,2005,77,0,0.0,0
+NLP / language,EMNLP,conference,2005,127,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2005,768,0,0.0,768
+Robotics / embodied AI,IROS,conference,2005,663,0,0.0,663
+Robotics / embodied AI,RSS,conference,2005,48,0,0.0,48
+AI journals,AIJ,journal,2006,61,0,0.0,61
+Computer vision,ECCV,conference,2006,48,0,0.0,48
+Computer vision,IJCV,journal,2006,149,0,0.0,149
+Computer vision,PR,journal,2006,338,3,0.0089,335
+Computer vision,TIP,journal,2006,438,334,0.7626,438
+Computer vision,TPAMI,journal,2006,283,207,0.7314,282
+Data / IR / Web / DB,ICDE,conference,2006,159,0,0.0,159
+Data / IR / Web / DB,KDD,conference,2006,103,0,0.0,103
+Data / IR / Web / DB,SIGIR,conference,2006,141,0,0.0,141
+Data / IR / Web / DB,SIGMOD,conference,2006,70,0,0.0,70
+Data / IR / Web / DB,TKDE,journal,2006,221,146,0.6606,221
+Data / IR / Web / DB,VLDB,conference,2006,127,0,0.0,0
+Data / IR / Web / DB,WWW,conference,2006,211,0,0.0,211
+General AI,AAAI,conference,2006,321,0,0.0,0
+ML / learning,ICML,conference,2006,140,0,0.0,140
+ML / learning,JMLR,journal,2006,64,64,1.0,59
+ML / learning,NeurIPS,conference,2006,204,3,0.0147,0
+ML / learning,TNNLS,journal,2006,2,2,1.0,2
+Medical AI,MICCAI,conference,2006,114,0,0.0,114
+Multimedia / HCI / graphics,ACMMM,conference,2006,152,0,0.0,152
+Multimedia / HCI / graphics,CHI,conference,2006,151,0,0.0,151
+Multimedia / HCI / graphics,TMM,journal,2006,188,137,0.7287,188
+NLP / language,ACL,conference,2006,147,0,0.0,0
+NLP / language,EMNLP,conference,2006,73,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2006,680,0,0.0,680
+Robotics / embodied AI,IROS,conference,2006,1006,0,0.0,1006
+Robotics / embodied AI,RSS,conference,2006,39,0,0.0,39
+Computer vision,IJCV,journal,2007,109,2,0.0183,108
+Computer vision,PR,journal,2007,358,3,0.0084,353
+Data / IR / Web / DB,ICDE,conference,2007,177,0,0.0,177
+Data / IR / Web / DB,KDD,conference,2007,92,0,0.0,92
+Data / IR / Web / DB,SIGIR,conference,2007,193,0,0.0,193
+Data / IR / Web / DB,SIGMOD,conference,2007,128,0,0.0,128
+Data / IR / Web / DB,TKDE,journal,2007,201,136,0.6766,200
+Data / IR / Web / DB,VLDB,conference,2007,117,0,0.0,0
+Data / IR / Web / DB,WWW,conference,2007,230,0,0.0,230
+General AI,AAAI,conference,2007,292,0,0.0,0
+General AI,IJCAI,conference,2007,478,0,0.0,0
+ML / learning,ICML,conference,2007,150,0,0.0,150
+ML / learning,NeurIPS,conference,2007,217,10,0.0461,0
+Medical AI,MICCAI,conference,2007,120,0,0.0,120
+Multimedia / HCI / graphics,ACMMM,conference,2007,157,0,0.0,157
+Multimedia / HCI / graphics,CHI,conference,2007,182,0,0.0,182
+Multimedia / HCI / graphics,TMM,journal,2007,196,142,0.7245,196
+NLP / language,EMNLP,conference,2007,131,0,0.0,0
+NLP / language,NAACL,conference,2007,89,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2007,807,0,0.0,807
+Robotics / embodied AI,IROS,conference,2007,688,0,0.0,688
+Robotics / embodied AI,RSS,conference,2007,42,0,0.0,41
+AI journals,AIJ,journal,2008,80,0,0.0,80
+Computer vision,ECCV,conference,2008,59,0,0.0,59
+Computer vision,IJCV,journal,2008,79,7,0.0886,79
+Computer vision,PR,journal,2008,375,20,0.0533,362
+Computer vision,TPAMI,journal,2008,314,260,0.828,310
+Data / IR / Web / DB,ICDE,conference,2008,216,0,0.0,216
+Data / IR / Web / DB,KDD,conference,2008,95,0,0.0,95
+Data / IR / Web / DB,SIGIR,conference,2008,185,0,0.0,185
+Data / IR / Web / DB,SIGMOD,conference,2008,94,0,0.0,94
+Data / IR / Web / DB,WWW,conference,2008,219,0,0.0,219
+General AI,AAAI,conference,2008,296,0,0.0,0
+ML / learning,ICML,conference,2008,157,0,0.0,157
+ML / learning,JMLR,journal,2008,47,46,0.9787,41
+ML / learning,NeurIPS,conference,2008,250,25,0.1,0
+ML / learning,TNNLS,journal,2008,2,2,1.0,2
+Medical AI,MICCAI,conference,2008,125,0,0.0,125
+Multimedia / HCI / graphics,ACMMM,conference,2008,173,0,0.0,173
+Multimedia / HCI / graphics,CHI,conference,2008,217,0,0.0,217
+Multimedia / HCI / graphics,TMM,journal,2008,192,149,0.776,191
+NLP / language,EMNLP,conference,2008,114,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2008,661,0,0.0,661
+Robotics / embodied AI,IROS,conference,2008,687,0,0.0,687
+Robotics / embodied AI,RSS,conference,2008,40,0,0.0,40
+AI journals,AIJ,journal,2009,69,1,0.0145,69
+Computer vision,IJCV,journal,2009,119,12,0.1008,116
+Computer vision,PR,journal,2009,373,27,0.0724,360
+Data / IR / Web / DB,ICDE,conference,2009,173,0,0.0,173
+Data / IR / Web / DB,KDD,conference,2009,105,0,0.0,105
+Data / IR / Web / DB,SIGIR,conference,2009,183,0,0.0,183
+Data / IR / Web / DB,SIGMOD,conference,2009,83,0,0.0,83
+Data / IR / Web / DB,WWW,conference,2009,198,0,0.0,198
+General AI,IJCAI,conference,2009,339,0,0.0,0
+ML / learning,ICML,conference,2009,179,0,0.0,179
+ML / learning,NeurIPS,conference,2009,262,30,0.1145,0
+ML / learning,TNNLS,journal,2009,3,3,1.0,3
+Medical AI,MICCAI,conference,2009,125,0,0.0,125
+Multimedia / HCI / graphics,ACMMM,conference,2009,161,0,0.0,161
+Multimedia / HCI / graphics,CHI,conference,2009,274,0,0.0,274
+Multimedia / HCI / graphics,TMM,journal,2009,187,129,0.6898,187
+NLP / language,EMNLP,conference,2009,163,0,0.0,0
+NLP / language,NAACL,conference,2009,75,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2009,707,0,0.0,707
+Robotics / embodied AI,IROS,conference,2009,949,0,0.0,949
+Robotics / embodied AI,RSS,conference,2009,39,0,0.0,39
+AI journals,AIJ,journal,2010,117,1,0.0085,117
+Computer vision,ECCV,conference,2010,57,0,0.0,57
+Computer vision,PR,journal,2010,353,20,0.0567,333
+Computer vision,TPAMI,journal,2010,251,192,0.7649,249
+Data / IR / Web / DB,ICDE,conference,2010,124,0,0.0,124
+Data / IR / Web / DB,KDD,conference,2010,101,0,0.0,101
+Data / IR / Web / DB,SIGIR,conference,2010,186,0,0.0,186
+Data / IR / Web / DB,SIGMOD,conference,2010,133,0,0.0,133
+Data / IR / Web / DB,WWW,conference,2010,202,0,0.0,202
+General AI,AAAI,conference,2010,273,252,0.9231,273
+ML / learning,ICML,conference,2010,126,126,1.0,0
+ML / learning,NeurIPS,conference,2010,292,27,0.0925,0
+ML / learning,TNNLS,journal,2010,2,2,1.0,2
+Medical AI,MICCAI,conference,2010,84,0,0.0,84
+Multimedia / HCI / graphics,ACMMM,conference,2010,256,0,0.0,256
+Multimedia / HCI / graphics,CHI,conference,2010,296,0,0.0,296
+Multimedia / HCI / graphics,TMM,journal,2010,141,92,0.6525,141
+NLP / language,ACL,conference,2010,160,0,0.0,0
+NLP / language,EMNLP,conference,2010,125,0,0.0,0
+NLP / language,NAACL,conference,2010,147,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2010,874,0,0.0,874
+Robotics / embodied AI,IROS,conference,2010,993,0,0.0,993
+Robotics / embodied AI,RSS,conference,2010,40,0,0.0,40
+AI journals,AIJ,journal,2011,61,0,0.0,61
+Computer vision,IJCV,journal,2011,100,6,0.06,99
+Data / IR / Web / DB,ICDE,conference,2011,113,0,0.0,113
+Data / IR / Web / DB,SIGIR,conference,2011,203,0,0.0,203
+Data / IR / Web / DB,SIGMOD,conference,2011,101,0,0.0,101
+Data / IR / Web / DB,TKDE,journal,2011,289,214,0.7405,289
+Data / IR / Web / DB,WWW,conference,2011,81,0,0.0,81
+General AI,AAAI,conference,2011,260,245,0.9423,258
+General AI,IJCAI,conference,2011,443,253,0.5711,435
+ML / learning,ICML,conference,2011,107,107,1.0,0
+ML / learning,JMLR,journal,2011,63,62,0.9841,59
+ML / learning,NeurIPS,conference,2011,306,29,0.0948,0
+ML / learning,TNNLS,journal,2011,29,29,1.0,29
+Medical AI,MICCAI,conference,2011,84,0,0.0,84
+Multimedia / HCI / graphics,ACMMM,conference,2011,253,0,0.0,253
+Multimedia / HCI / graphics,CHI,conference,2011,392,0,0.0,392
+Multimedia / HCI / graphics,TMM,journal,2011,179,138,0.7709,178
+NLP / language,ACL,conference,2011,292,0,0.0,0
+NLP / language,EMNLP,conference,2011,149,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2011,1012,0,0.0,1012
+Robotics / embodied AI,IROS,conference,2011,787,0,0.0,786
+Robotics / embodied AI,RSS,conference,2011,45,0,0.0,45
+AI journals,AIJ,journal,2012,86,1,0.0116,86
+Computer vision,ECCV,conference,2012,62,0,0.0,62
+Computer vision,IJCV,journal,2012,91,5,0.0549,89
+Computer vision,PR,journal,2012,363,23,0.0634,339
+Computer vision,TIP,journal,2012,443,359,0.8104,443
+Computer vision,TPAMI,journal,2012,259,202,0.7799,259
+Data / IR / Web / DB,ICDE,conference,2012,115,0,0.0,115
+Data / IR / Web / DB,KDD,conference,2012,133,0,0.0,133
+Data / IR / Web / DB,SIGIR,conference,2012,179,0,0.0,179
+Data / IR / Web / DB,SIGMOD,conference,2012,66,0,0.0,66
+Data / IR / Web / DB,TKDE,journal,2012,216,154,0.713,216
+Data / IR / Web / DB,WWW,conference,2012,107,0,0.0,107
+General AI,AAAI,conference,2012,311,287,0.9228,311
+ML / learning,ICML,conference,2012,158,158,1.0,0
+ML / learning,JMLR,journal,2012,78,77,0.9872,70
+ML / learning,NeurIPS,conference,2012,370,57,0.1541,0
+ML / learning,TNNLS,journal,2012,250,186,0.744,250
+Medical AI,MICCAI,conference,2012,91,0,0.0,91
+Multimedia / HCI / graphics,ACMMM,conference,2012,202,0,0.0,202
+Multimedia / HCI / graphics,CHI,conference,2012,369,0,0.0,369
+Multimedia / HCI / graphics,TMM,journal,2012,209,152,0.7273,209
+NLP / language,ACL,conference,2012,187,0,0.0,0
+NLP / language,EMNLP,conference,2012,139,0,0.0,0
+NLP / language,NAACL,conference,2012,97,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2012,836,0,0.0,836
+Robotics / embodied AI,IROS,conference,2012,854,0,0.0,854
+Robotics / embodied AI,RSS,conference,2012,60,0,0.0,60
+Computer vision,CVPR,conference,2013,471,471,1.0,0
+Computer vision,ICCV,conference,2013,454,454,1.0,0
+Computer vision,IJCV,journal,2013,91,5,0.0549,91
+Computer vision,TIP,journal,2013,482,351,0.7282,482
+Computer vision,TPAMI,journal,2013,233,190,0.8155,231
+Data / IR / Web / DB,ICDE,conference,2013,142,0,0.0,142
+Data / IR / Web / DB,KDD,conference,2013,59,0,0.0,59
+Data / IR / Web / DB,SIGIR,conference,2013,158,0,0.0,158
+Data / IR / Web / DB,SIGMOD,conference,2013,98,0,0.0,98
+Data / IR / Web / DB,TKDE,journal,2013,186,164,0.8817,186
+Data / IR / Web / DB,WWW,conference,2013,137,0,0.0,137
+General AI,AAAI,conference,2013,204,184,0.902,204
+General AI,IJCAI,conference,2013,462,0,0.0,0
+ML / learning,ICLR,conference,2013,67,67,1.0,0
+ML / learning,ICML,conference,2013,283,283,1.0,0
+ML / learning,JMLR,journal,2013,69,69,1.0,60
+ML / learning,NeurIPS,conference,2013,360,78,0.2167,0
+Medical AI,MICCAI,conference,2013,95,0,0.0,95
+Multimedia / HCI / graphics,ACMMM,conference,2013,139,0,0.0,139
+Multimedia / HCI / graphics,CHI,conference,2013,392,0,0.0,392
+Multimedia / HCI / graphics,TMM,journal,2013,205,165,0.8049,205
+NLP / language,ACL,conference,2013,328,0,0.0,0
+NLP / language,EMNLP,conference,2013,13,0,0.0,0
+NLP / language,NAACL,conference,2013,140,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2013,873,0,0.0,873
+Robotics / embodied AI,IROS,conference,2013,913,0,0.0,913
+Robotics / embodied AI,RSS,conference,2013,55,0,0.0,55
+AI journals,AIJ,journal,2014,85,7,0.0824,85
+Computer vision,CVPR,conference,2014,540,540,1.0,0
+Computer vision,ECCV,conference,2014,54,0,0.0,54
+Computer vision,IJCV,journal,2014,98,1,0.0102,98
+Computer vision,PR,journal,2014,326,10,0.0307,317
+Data / IR / Web / DB,ICDE,conference,2014,98,0,0.0,98
+Data / IR / Web / DB,KDD,conference,2014,151,0,0.0,151
+Data / IR / Web / DB,SIGIR,conference,2014,189,0,0.0,189
+Data / IR / Web / DB,SIGMOD,conference,2014,129,0,0.0,129
+Data / IR / Web / DB,TKDE,journal,2014,211,202,0.9573,211
+Data / IR / Web / DB,WWW,conference,2014,84,0,0.0,84
+General AI,AAAI,conference,2014,474,441,0.9304,474
+ML / learning,ICLR,conference,2014,69,69,1.0,0
+ML / learning,ICML,conference,2014,310,310,1.0,0
+ML / learning,JMLR,journal,2014,93,88,0.9462,75
+ML / learning,NeurIPS,conference,2014,411,65,0.1582,0
+ML / learning,TNNLS,journal,2014,352,291,0.8267,352
+Medical AI,MICCAI,conference,2014,101,0,0.0,101
+Multimedia / HCI / graphics,ACMMM,conference,2014,181,0,0.0,181
+Multimedia / HCI / graphics,CHI,conference,2014,457,0,0.0,457
+Multimedia / HCI / graphics,TMM,journal,2014,245,184,0.751,245
+NLP / language,ACL,conference,2014,286,0,0.0,0
+NLP / language,EMNLP,conference,2014,226,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2014,1027,83,0.0808,1027
+Robotics / embodied AI,IROS,conference,2014,729,0,0.0,729
+Robotics / embodied AI,RSS,conference,2014,57,0,0.0,57
+AI journals,AIJ,journal,2015,113,3,0.0265,113
+Computer vision,CVPR,conference,2015,602,602,1.0,0
+Computer vision,ICCV,conference,2015,526,526,1.0,0
+Computer vision,IJCV,journal,2015,85,2,0.0235,84
+Data / IR / Web / DB,ICDE,conference,2015,122,0,0.0,122
+Data / IR / Web / DB,KDD,conference,2015,160,0,0.0,160
+Data / IR / Web / DB,SIGIR,conference,2015,154,0,0.0,154
+Data / IR / Web / DB,SIGMOD,conference,2015,131,0,0.0,131
+Data / IR / Web / DB,TKDE,journal,2015,208,207,0.9952,208
+Data / IR / Web / DB,WWW,conference,2015,131,0,0.0,131
+General AI,AAAI,conference,2015,584,549,0.9401,584
+General AI,IJCAI,conference,2015,604,0,0.0,0
+ML / learning,ICML,conference,2015,270,270,1.0,0
+ML / learning,JMLR,journal,2015,101,99,0.9802,77
+ML / learning,NeurIPS,conference,2015,403,70,0.1737,0
+Medical AI,MICCAI,conference,2015,88,0,0.0,88
+Multimedia / HCI / graphics,ACMMM,conference,2015,186,0,0.0,186
+Multimedia / HCI / graphics,CHI,conference,2015,484,0,0.0,484
+Multimedia / HCI / graphics,TMM,journal,2015,283,208,0.735,283
+NLP / language,ACL,conference,2015,318,0,0.0,0
+NLP / language,EMNLP,conference,2015,312,0,0.0,0
+NLP / language,NAACL,conference,2015,186,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2015,940,940,1.0,940
+Robotics / embodied AI,IROS,conference,2015,970,0,0.0,970
+Robotics / embodied AI,RSS,conference,2015,49,0,0.0,49
+AI journals,AIJ,journal,2016,90,9,0.1,90
+Computer vision,CVPR,conference,2016,643,643,1.0,0
+Computer vision,ECCV,conference,2016,51,0,0.0,51
+Computer vision,IJCV,journal,2016,103,14,0.1359,102
+Computer vision,TPAMI,journal,2016,273,217,0.7949,268
+Data / IR / Web / DB,ICDE,conference,2016,178,0,0.0,178
+Data / IR / Web / DB,KDD,conference,2016,208,0,0.0,208
+Data / IR / Web / DB,SIGIR,conference,2016,176,0,0.0,176
+Data / IR / Web / DB,SIGMOD,conference,2016,137,0,0.0,137
+Data / IR / Web / DB,TKDE,journal,2016,227,220,0.9692,222
+Data / IR / Web / DB,WWW,conference,2016,123,0,0.0,123
+General AI,AAAI,conference,2016,595,559,0.9395,595
+General AI,IJCAI,conference,2016,654,0,0.0,0
+ML / learning,ICLR,conference,2016,125,125,1.0,0
+ML / learning,ICML,conference,2016,322,322,1.0,0
+ML / learning,JMLR,journal,2016,168,165,0.9821,126
+ML / learning,NeurIPS,conference,2016,569,86,0.1511,0
+ML / learning,TNNLS,journal,2016,356,294,0.8258,356
+Medical AI,MICCAI,conference,2016,77,0,0.0,77
+Multimedia / HCI / graphics,ACMMM,conference,2016,184,0,0.0,184
+Multimedia / HCI / graphics,CHI,conference,2016,541,0,0.0,541
+Multimedia / HCI / graphics,TMM,journal,2016,340,274,0.8059,333
+NLP / language,ACL,conference,2016,328,0,0.0,0
+NLP / language,EMNLP,conference,2016,264,0,0.0,0
+NLP / language,NAACL,conference,2016,181,0,0.0,0
+Robotics / embodied AI,ICRA,conference,2016,693,693,1.0,693
+Robotics / embodied AI,IROS,conference,2016,830,0,0.0,830
+Robotics / embodied AI,RSS,conference,2016,47,0,0.0,47
+AI journals,AIJ,journal,2017,75,5,0.0667,75
+Computer vision,CVPR,conference,2017,783,783,1.0,0
+Computer vision,ICCV,conference,2017,621,620,0.9984,0
+Computer vision,IJCV,journal,2017,80,17,0.2125,79
+Computer vision,PR,journal,2017,455,32,0.0703,434
+Computer vision,TPAMI,journal,2017,311,251,0.8071,300
+Data / IR / Web / DB,ICDE,conference,2017,218,0,0.0,218
+Data / IR / Web / DB,KDD,conference,2017,215,0,0.0,215
+Data / IR / Web / DB,SIGIR,conference,2017,211,0,0.0,211
+Data / IR / Web / DB,SIGMOD,conference,2017,100,0,0.0,100
+Data / IR / Web / DB,WWW,conference,2017,164,0,0.0,164
+General AI,AAAI,conference,2017,691,634,0.9175,691
+General AI,IJCAI,conference,2017,781,781,1.0,0
+ML / learning,ICLR,conference,2017,490,489,0.998,0
+ML / learning,ICML,conference,2017,434,434,1.0,0
+ML / learning,JMLR,journal,2017,107,99,0.9252,72
+ML / learning,NeurIPS,conference,2017,679,111,0.1635,0
+ML / learning,TNNLS,journal,2017,395,341,0.8633,395
+Medical AI,MICCAI,conference,2017,90,0,0.0,90
+Multimedia / HCI / graphics,ACMMM,conference,2017,204,0,0.0,204
+Multimedia / HCI / graphics,CHI,conference,2017,587,0,0.0,587
+Multimedia / HCI / graphics,TMM,journal,2017,363,292,0.8044,349
+NLP / language,ACL,conference,2017,302,302,1.0,0
+NLP / language,EMNLP,conference,2017,323,323,1.0,0
+Robotics / embodied AI,ICRA,conference,2017,795,795,1.0,795
+Robotics / embodied AI,IROS,conference,2017,878,0,0.0,878
+Robotics / embodied AI,RSS,conference,2017,75,0,0.0,75
+AI journals,AIJ,journal,2018,71,3,0.0423,71
+Computer vision,CVPR,conference,2018,979,979,1.0,0
+Computer vision,ECCV,conference,2018,776,776,1.0,0
+Computer vision,IJCV,journal,2018,81,14,0.1728,80
+Data / IR / Web / DB,ICDE,conference,2018,253,0,0.0,253
+Data / IR / Web / DB,KDD,conference,2018,293,0,0.0,293
+Data / IR / Web / DB,SIGIR,conference,2018,198,0,0.0,198
+Data / IR / Web / DB,SIGMOD,conference,2018,108,0,0.0,108
+Data / IR / Web / DB,WWW,conference,2018,190,0,0.0,190
+General AI,AAAI,conference,2018,991,953,0.9617,991
+General AI,IJCAI,conference,2018,870,870,1.0,0
+ML / learning,ICLR,conference,2018,935,935,1.0,0
+ML / learning,ICML,conference,2018,621,621,1.0,0
+ML / learning,JMLR,journal,2018,76,56,0.7368,36
+ML / learning,NeurIPS,conference,2018,1009,142,0.1407,0
+ML / learning,TNNLS,journal,2018,438,392,0.895,438
+Medical AI,MICCAI,conference,2018,99,0,0.0,99
+Multimedia / HCI / graphics,ACMMM,conference,2018,241,0,0.0,217
+Multimedia / HCI / graphics,CHI,conference,2018,665,0,0.0,665
+NLP / language,ACL,conference,2018,381,381,1.0,0
+NLP / language,EMNLP,conference,2018,28,28,1.0,0
+NLP / language,NAACL,conference,2018,330,330,1.0,0
+Robotics / embodied AI,ICRA,conference,2018,817,817,1.0,817
+Robotics / embodied AI,IROS,conference,2018,1086,0,0.0,1086
+Robotics / embodied AI,RSS,conference,2018,71,0,0.0,71
+Computer vision,CVPR,conference,2019,1294,1294,1.0,0
+Computer vision,ICCV,conference,2019,1075,1075,1.0,0
+Computer vision,IJCV,journal,2019,129,30,0.2326,129
+Computer vision,PR,journal,2019,410,28,0.0683,402
+Data / IR / Web / DB,ICDE,conference,2019,268,0,0.0,268
+Data / IR / Web / DB,KDD,conference,2019,321,0,0.0,321
+Data / IR / Web / DB,SIGIR,conference,2019,206,0,0.0,206
+Data / IR / Web / DB,SIGMOD,conference,2019,106,0,0.0,106
+Data / IR / Web / DB,TKDE,journal,2019,370,369,0.9973,370
+Data / IR / Web / DB,WWW,conference,2019,360,0,0.0,360
+General AI,AAAI,conference,2019,1221,1198,0.9812,1221
+General AI,IJCAI,conference,2019,964,957,0.9927,0
+ML / learning,ICLR,conference,2019,1419,1419,1.0,0
+ML / learning,ICML,conference,2019,773,773,1.0,0
+ML / learning,JMLR,journal,2019,69,42,0.6087,21
+ML / learning,NeurIPS,conference,2019,1428,223,0.1562,0
+Medical AI,MICCAI,conference,2019,89,0,0.0,89
+Multimedia / HCI / graphics,ACMMM,conference,2019,264,0,0.0,264
+Multimedia / HCI / graphics,CHI,conference,2019,702,0,0.0,702
+Multimedia / HCI / graphics,SIGGRAPH-Asia,conference,2019,23,0,0.0,23
+Multimedia / HCI / graphics,TMM,journal,2019,360,320,0.8889,360
+NLP / language,ACL,conference,2019,660,660,1.0,0
+NLP / language,EMNLP,conference,2019,681,681,1.0,0
+NLP / language,NAACL,conference,2019,423,423,1.0,0
+Robotics / embodied AI,ICRA,conference,2019,1024,1024,1.0,1024
+Robotics / embodied AI,IROS,conference,2019,934,0,0.0,934
+Robotics / embodied AI,RSS,conference,2019,84,0,0.0,84
+AI journals,AIJ,journal,2020,107,8,0.0748,107
+Computer vision,CVPR,conference,2020,1466,1466,1.0,0
+Computer vision,ECCV,conference,2020,1358,1358,1.0,0
+Computer vision,PR,journal,2020,521,33,0.0633,498
+Data / IR / Web / DB,ICDE,conference,2020,241,0,0.0,241
+Data / IR / Web / DB,KDD,conference,2020,217,217,1.0,217
+Data / IR / Web / DB,SIGIR,conference,2020,147,147,1.0,147
+Data / IR / Web / DB,SIGMOD,conference,2020,167,0,0.0,167
+Data / IR / Web / DB,TKDE,journal,2020,402,401,0.9975,402
+Data / IR / Web / DB,VLDB,conference,2020,302,193,0.6391,229
+Data / IR / Web / DB,WWW,conference,2020,317,317,1.0,317
+General AI,AAAI,conference,2020,1610,1404,0.872,0
+General AI,IJCAI,conference,2020,778,778,1.0,778
+ML / learning,ICLR,conference,2020,2213,2213,1.0,0
+ML / learning,ICML,conference,2020,1084,1084,1.0,0
+ML / learning,JMLR,journal,2020,69,24,0.3478,0
+ML / learning,NeurIPS,conference,2020,1898,1894,0.9979,0
+Medical AI,MICCAI,conference,2020,542,4,0.0074,542
+Multimedia / HCI / graphics,ACMMM,conference,2020,473,473,1.0,473
+Multimedia / HCI / graphics,CHI,conference,2020,758,0,0.0,758
+Multimedia / HCI / graphics,TMM,journal,2020,452,401,0.8872,452
+NLP / language,ACL,conference,2020,778,778,1.0,0
+NLP / language,EMNLP,conference,2020,751,751,1.0,0
+Robotics / embodied AI,ICRA,conference,2020,1073,626,0.5834,1073
+Robotics / embodied AI,IROS,conference,2020,1128,0,0.0,1128
+Robotics / embodied AI,RSS,conference,2020,103,0,0.0,103
+AI journals,AIJ,journal,2021,124,30,0.2419,124
+Computer vision,CVPR,conference,2021,1660,1660,1.0,0
+Computer vision,ICCV,conference,2021,1612,1612,1.0,0
+Computer vision,IJCV,journal,2021,138,24,0.1739,138
+Computer vision,PR,journal,2021,612,36,0.0588,598
+Computer vision,TPAMI,journal,2021,591,551,0.9323,591
+Data / IR / Web / DB,ICDE,conference,2021,286,0,0.0,286
+Data / IR / Web / DB,KDD,conference,2021,239,239,1.0,239
+Data / IR / Web / DB,SIGIR,conference,2021,151,151,1.0,151
+Data / IR / Web / DB,SIGMOD,conference,2021,213,0,0.0,213
+Data / IR / Web / DB,VLDB,conference,2021,323,209,0.6471,323
+Data / IR / Web / DB,WWW,conference,2021,355,355,1.0,355
+General AI,AAAI,conference,2021,1654,1449,0.8761,0
+General AI,IJCAI,conference,2021,722,722,1.0,722
+ML / learning,ICLR,conference,2021,2595,2595,1.0,0
+ML / learning,ICML,conference,2021,1183,1183,1.0,0
+ML / learning,NeurIPS,conference,2021,2334,2332,0.9991,0
+Medical AI,MICCAI,conference,2021,531,5,0.0094,531
+Multimedia / HCI / graphics,ACMMM,conference,2021,542,542,1.0,542
+Multimedia / HCI / graphics,CHI,conference,2021,746,0,0.0,746
+Multimedia / HCI / graphics,SIGGRAPH-Asia,conference,2021,17,0,0.0,17
+Multimedia / HCI / graphics,TMM,journal,2021,440,436,0.9909,440
+NLP / language,ACL,conference,2021,710,710,1.0,0
+NLP / language,EMNLP,conference,2021,847,847,1.0,0
+NLP / language,NAACL,conference,2021,477,477,1.0,0
+Robotics / embodied AI,ICRA,conference,2021,1386,0,0.0,1386
+Robotics / embodied AI,IROS,conference,2021,1032,0,0.0,1032
+Robotics / embodied AI,RSS,conference,2021,92,0,0.0,92
+AI journals,AIJ,journal,2022,115,39,0.3391,115
+Computer vision,CVPR,conference,2022,2074,2071,0.9986,0
+Computer vision,ECCV,conference,2022,1645,1645,1.0,0
+Computer vision,PR,journal,2022,677,61,0.0901,677
+Data / IR / Web / DB,ICDE,conference,2022,320,0,0.0,320
+Data / IR / Web / DB,KDD,conference,2022,253,253,1.0,253
+Data / IR / Web / DB,SIGIR,conference,2022,161,161,1.0,161
+Data / IR / Web / DB,SIGMOD,conference,2022,165,0,0.0,165
+Data / IR / Web / DB,VLDB,conference,2022,357,0,0.0,357
+Data / IR / Web / DB,WWW,conference,2022,364,364,1.0,364
+General AI,AAAI,conference,2022,1319,1177,0.8923,0
+General AI,IJCAI,conference,2022,862,862,1.0,862
+ML / learning,ICLR,conference,2022,2617,2617,1.0,0
+ML / learning,ICML,conference,2022,1233,1233,1.0,0
+ML / learning,NeurIPS,conference,2022,2671,2668,0.9989,0
+Medical AI,MICCAI,conference,2022,573,0,0.0,573
+Multimedia / HCI / graphics,ACMMM,conference,2022,691,691,1.0,691
+Multimedia / HCI / graphics,CHI,conference,2022,637,0,0.0,637
+Multimedia / HCI / graphics,SIGGRAPH,conference,2022,61,0,0.0,61
+Multimedia / HCI / graphics,SIGGRAPH-Asia,conference,2022,53,0,0.0,53
+NLP / language,ACL,conference,2022,700,700,1.0,0
+NLP / language,EMNLP,conference,2022,828,828,1.0,0
+NLP / language,NAACL,conference,2022,442,442,1.0,0
+Robotics / embodied AI,ICRA,conference,2022,929,0,0.0,929
+Robotics / embodied AI,IROS,conference,2022,1214,0,0.0,1214
+Robotics / embodied AI,RSS,conference,2022,74,0,0.0,74
+AI journals,AIJ,journal,2023,139,53,0.3813,139
+Computer vision,CVPR,conference,2023,2353,2353,1.0,0
+Computer vision,ICCV,conference,2023,2156,2156,1.0,0
+Computer vision,IJCV,journal,2023,229,58,0.2533,229
+Computer vision,PR,journal,2023,830,135,0.1627,830
+Computer vision,TPAMI,journal,2023,681,678,0.9956,681
+Data / IR / Web / DB,ICDE,conference,2023,386,0,0.0,386
+Data / IR / Web / DB,KDD,conference,2023,313,311,0.9936,313
+Data / IR / Web / DB,SIGIR,conference,2023,165,164,0.9939,165
+Data / IR / Web / DB,SIGMOD,conference,2023,271,0,0.0,271
+Data / IR / Web / DB,VLDB,conference,2023,379,0,0.0,379
+Data / IR / Web / DB,WWW,conference,2023,371,370,0.9973,371
+General AI,AAAI,conference,2023,1578,1391,0.8815,0
+General AI,IJCAI,conference,2023,851,851,1.0,851
+ML / learning,ICLR,conference,2023,3792,3792,1.0,0
+ML / learning,ICML,conference,2023,1828,1828,1.0,0
+ML / learning,NeurIPS,conference,2023,3218,3218,1.0,0
+ML / learning,TNNLS,journal,2023,1036,997,0.9624,1036
+Medical AI,MICCAI,conference,2023,586,0,0.0,586
+Multimedia / HCI / graphics,ACMMM,conference,2023,902,901,0.9989,902
+Multimedia / HCI / graphics,CHI,conference,2023,872,0,0.0,872
+Multimedia / HCI / graphics,SIGGRAPH,conference,2023,86,0,0.0,86
+Multimedia / HCI / graphics,SIGGRAPH-Asia,conference,2023,122,0,0.0,122
+NLP / language,ACL,conference,2023,1075,1075,1.0,0
+NLP / language,EMNLP,conference,2023,1047,1047,1.0,0
+Robotics / embodied AI,ICRA,conference,2023,1341,0,0.0,1341
+Robotics / embodied AI,IROS,conference,2023,1196,0,0.0,1196
+Robotics / embodied AI,RSS,conference,2023,112,0,0.0,112
+AI journals,AIJ,journal,2024,132,56,0.4242,132
+Computer vision,CVPR,conference,2024,2716,2716,1.0,3
+Computer vision,ECCV,conference,2024,2387,2387,1.0,0
+Computer vision,PR,journal,2024,1003,114,0.1137,1003
+Computer vision,TIP,journal,2024,478,476,0.9958,478
+Data / IR / Web / DB,ICDE,conference,2024,501,0,0.0,501
+Data / IR / Web / DB,KDD,conference,2024,411,411,1.0,411
+Data / IR / Web / DB,SIGIR,conference,2024,214,214,1.0,214
+Data / IR / Web / DB,SIGMOD,conference,2024,196,0,0.0,196
+Data / IR / Web / DB,VLDB,conference,2024,421,0,0.0,421
+Data / IR / Web / DB,WWW,conference,2024,405,403,0.9951,405
+General AI,AAAI,conference,2024,2331,2331,1.0,2331
+General AI,IJCAI,conference,2024,1048,1048,1.0,1048
+ML / learning,ICLR,conference,2024,7404,7404,1.0,0
+ML / learning,ICML,conference,2024,2610,2610,1.0,0
+ML / learning,NeurIPS,conference,2024,4034,4034,1.0,0
+Medical AI,MICCAI,conference,2024,572,0,0.0,572
+Multimedia / HCI / graphics,ACMMM,conference,2024,1150,1055,0.9174,1150
+Multimedia / HCI / graphics,CHI,conference,2024,1057,0,0.0,1057
+Multimedia / HCI / graphics,SIGGRAPH,conference,2024,134,0,0.0,134
+Multimedia / HCI / graphics,SIGGRAPH-Asia,conference,2024,146,0,0.0,146
+NLP / language,ACL,conference,2024,940,940,1.0,0
+NLP / language,COLM,conference,2024,299,299,1.0,0
+NLP / language,EMNLP,conference,2024,1268,1268,1.0,0
+NLP / language,NAACL,conference,2024,562,562,1.0,0
+Robotics / embodied AI,ICRA,conference,2024,1760,0,0.0,1760
+Robotics / embodied AI,IROS,conference,2024,1581,0,0.0,1581
+Robotics / embodied AI,RSS,conference,2024,134,0,0.0,134
+AI journals,AIJ,journal,2025,109,44,0.4037,109
+Computer vision,CVPR,conference,2025,2871,2871,1.0,0
+Computer vision,ICCV,conference,2025,2701,2701,1.0,0
+Computer vision,PR,journal,2025,1532,153,0.0999,1532
+Data / IR / Web / DB,ICDE,conference,2025,398,0,0.0,398
+Data / IR / Web / DB,KDD,conference,2025,552,548,0.9928,552
+Data / IR / Web / DB,SIGIR,conference,2025,239,228,0.954,239
+Data / IR / Web / DB,SIGMOD,conference,2025,336,0,0.0,336
+Data / IR / Web / DB,VLDB,conference,2025,482,1,0.0021,465
+Data / IR / Web / DB,WWW,conference,2025,155,153,0.9871,155
+General AI,AAAI,conference,2025,3028,3028,1.0,3028
+General AI,IJCAI,conference,2025,1280,1280,1.0,1280
+ML / learning,ICLR,conference,2025,11672,11672,1.0,0
+ML / learning,ICML,conference,2025,3330,3330,1.0,0
+ML / learning,NeurIPS,conference,2025,5286,5286,1.0,0
+ML / learning,TNNLS,journal,2025,808,754,0.9332,808
+Medical AI,MICCAI,conference,2025,517,0,0.0,517
+Multimedia / HCI / graphics,ACMMM,conference,2025,1249,1128,0.9031,1249
+Multimedia / HCI / graphics,CHI,conference,2025,1249,0,0.0,1249
+Multimedia / HCI / graphics,SIGGRAPH,conference,2025,174,0,0.0,174
+Multimedia / HCI / graphics,SIGGRAPH-Asia,conference,2025,201,0,0.0,201
+NLP / language,ACL,conference,2025,1699,1699,1.0,0
+NLP / language,COLM,conference,2025,418,418,1.0,0
+NLP / language,EMNLP,conference,2025,1809,1809,1.0,0
+NLP / language,NAACL,conference,2025,718,718,1.0,0
+Robotics / embodied AI,ICRA,conference,2025,1604,0,0.0,1604
+Robotics / embodied AI,IROS,conference,2025,1985,0,0.0,1985
+AI journals,AIJ,journal,2026,46,12,0.2609,46
+Computer vision,PR,journal,2026,935,46,0.0492,935
+Data / IR / Web / DB,TKDE,journal,2026,251,207,0.8247,251
+General AI,AAAI,conference,2026,4149,4149,1.0,0
+ML / learning,ICLR,conference,2026,19814,19814,1.0,0
+ML / learning,TNNLS,journal,2026,227,206,0.9075,227
+Multimedia / HCI / graphics,TMM,journal,2026,595,548,0.921,595
