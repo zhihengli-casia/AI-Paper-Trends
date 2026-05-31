@@ -22,6 +22,27 @@
       "year_count": 6
     },
     {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025, 2026",
+      "papers": 660,
+      "topics": 61,
+      "venue": "AIJ",
+      "year_count": 7
+    },
+    {
+      "covered_years": "2020, 2022, 2023, 2024, 2025",
+      "papers": 4538,
+      "topics": 229,
+      "venue": "CHI",
+      "year_count": 5
+    },
+    {
+      "covered_years": "2024, 2025",
+      "papers": 717,
+      "topics": 38,
+      "venue": "COLM",
+      "year_count": 2
+    },
+    {
       "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
       "papers": 13140,
       "topics": 589,
@@ -50,8 +71,15 @@
       "year_count": 3
     },
     {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 2059,
+      "topics": 126,
+      "venue": "ICDE",
+      "year_count": 6
+    },
+    {
       "covered_years": "2020, 2021, 2022, 2023, 2024, 2025, 2026",
-      "papers": 15529,
+      "papers": 15452,
       "topics": 591,
       "venue": "ICLR",
       "year_count": 7
@@ -65,16 +93,51 @@
     },
     {
       "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 8028,
+      "topics": 412,
+      "venue": "ICRA",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
       "papers": 5541,
       "topics": 317,
       "venue": "IJCAI",
       "year_count": 6
     },
     {
+      "covered_years": "2021, 2023",
+      "papers": 355,
+      "topics": 31,
+      "venue": "IJCV",
+      "year_count": 2
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 8068,
+      "topics": 416,
+      "venue": "IROS",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2020",
+      "papers": 66,
+      "topics": 8,
+      "venue": "JMLR",
+      "year_count": 1
+    },
+    {
       "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
       "papers": 1985,
       "topics": 117,
       "venue": "KDD",
+      "year_count": 6
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
+      "papers": 428,
+      "topics": 41,
+      "venue": "MICCAI",
       "year_count": 6
     },
     {
@@ -92,11 +155,81 @@
       "year_count": 6
     },
     {
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025, 2026",
+      "papers": 5944,
+      "topics": 330,
+      "venue": "PR",
+      "year_count": 7
+    },
+    {
+      "covered_years": "2020, 2021, 2022, 2023, 2024",
+      "papers": 494,
+      "topics": 45,
+      "venue": "RSS",
+      "year_count": 5
+    },
+    {
+      "covered_years": "2022, 2023, 2024, 2025",
+      "papers": 413,
+      "topics": 37,
+      "venue": "SIGGRAPH",
+      "year_count": 4
+    },
+    {
+      "covered_years": "2021, 2022, 2023, 2024, 2025",
+      "papers": 516,
+      "topics": 48,
+      "venue": "SIGGRAPH-Asia",
+      "year_count": 5
+    },
+    {
       "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
       "papers": 1077,
       "topics": 86,
       "venue": "SIGIR",
       "year_count": 6
+    },
+    {
+      "covered_years": "2020, 2021, 2022",
+      "papers": 515,
+      "topics": 40,
+      "venue": "SIGMOD",
+      "year_count": 3
+    },
+    {
+      "covered_years": "2024",
+      "papers": 478,
+      "topics": 26,
+      "venue": "TIP",
+      "year_count": 1
+    },
+    {
+      "covered_years": "2020, 2026",
+      "papers": 652,
+      "topics": 40,
+      "venue": "TKDE",
+      "year_count": 2
+    },
+    {
+      "covered_years": "2020, 2021, 2026",
+      "papers": 1434,
+      "topics": 84,
+      "venue": "TMM",
+      "year_count": 3
+    },
+    {
+      "covered_years": "2023, 2025, 2026",
+      "papers": 2042,
+      "topics": 114,
+      "venue": "TNNLS",
+      "year_count": 3
+    },
+    {
+      "covered_years": "2021, 2023",
+      "papers": 1232,
+      "topics": 69,
+      "venue": "TPAMI",
+      "year_count": 2
     },
     {
       "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
@@ -112,9 +245,9 @@
     "fine_topic_root": "results/fine_grained_venue_year_topics_2020_2026_mcs_fine"
   },
   "summary": {
-    "covered_papers": 117100,
-    "covered_topics": 5183,
-    "covered_venue_years": 84,
+    "covered_papers": 155662,
+    "covered_topics": 7378,
+    "covered_venue_years": 160,
     "pending_due": 1,
     "watching": 11
   },
