@@ -9,6 +9,7 @@ coverage:
   report_markdown: docs/auto-update/status.md
   report_json: docs/auto-update/status.json
   default_start_year: 2020
+  default_rolling_window_years: 2
   lookahead_years: 0
 
 pipeline:
@@ -108,3 +109,79 @@ venues:
     expected_month: 4
     source: ACM Digital Library / The Web Conference proceedings
     scope: Research track main conference papers.
+
+  # Journals are rolling streams. The automation keeps missing journal-year
+  # entries in the queue and repeatedly refreshes the current plus previous
+  # publication year because articles can appear throughout the year.
+  - venue: AIJ
+    venue_type: journal
+    active: true
+    frequency: rolling
+    expected_month: 1
+    rolling_window_years: 2
+    source: OpenAlex journal source metadata
+    scope: Rolling publication-year journal articles.
+  - venue: IJCV
+    venue_type: journal
+    active: true
+    frequency: rolling
+    expected_month: 1
+    rolling_window_years: 2
+    source: OpenAlex journal source metadata
+    scope: Rolling publication-year journal articles.
+  - venue: JMLR
+    venue_type: journal
+    active: true
+    frequency: rolling
+    expected_month: 1
+    rolling_window_years: 2
+    source: OpenAlex journal source metadata
+    scope: Rolling publication-year journal articles.
+  - venue: PR
+    venue_type: journal
+    active: true
+    frequency: rolling
+    expected_month: 1
+    rolling_window_years: 2
+    source: OpenAlex journal source metadata
+    scope: Rolling publication-year journal articles.
+  - venue: TIP
+    venue_type: journal
+    active: true
+    frequency: rolling
+    expected_month: 1
+    rolling_window_years: 2
+    source: OpenAlex journal source metadata
+    scope: Rolling publication-year journal articles.
+  - venue: TKDE
+    venue_type: journal
+    active: true
+    frequency: rolling
+    expected_month: 1
+    rolling_window_years: 2
+    source: OpenAlex journal source metadata
+    scope: Rolling publication-year journal articles.
+  - venue: TMM
+    venue_type: journal
+    active: true
+    frequency: rolling
+    expected_month: 1
+    rolling_window_years: 2
+    source: OpenAlex journal source metadata
+    scope: Rolling publication-year journal articles.
+  - venue: TNNLS
+    venue_type: journal
+    active: true
+    frequency: rolling
+    expected_month: 1
+    rolling_window_years: 2
+    source: OpenAlex journal source metadata
+    scope: Rolling publication-year journal articles.
+  - venue: TPAMI
+    venue_type: journal
+    active: true
+    frequency: rolling
+    expected_month: 1
+    rolling_window_years: 2
+    source: OpenAlex journal source metadata
+    scope: Rolling publication-year journal articles.

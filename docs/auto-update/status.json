@@ -43,11 +43,11 @@
       "year_count": 2
     },
     {
-      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025",
-      "papers": 13140,
-      "topics": 589,
+      "covered_years": "2020, 2021, 2022, 2023, 2024, 2025, 2026",
+      "papers": 17210,
+      "topics": 694,
       "venue": "CVPR",
-      "year_count": 6
+      "year_count": 7
     },
     {
       "covered_years": "2020, 2022, 2024",
@@ -245,107 +245,552 @@
     "fine_topic_root": "results/fine_grained_venue_year_topics_2020_2026_mcs_fine"
   },
   "summary": {
-    "covered_papers": 155662,
-    "covered_topics": 7378,
-    "covered_venue_years": 160,
-    "pending_due": 1,
-    "watching": 11
+    "covered_papers": 159732,
+    "covered_topics": 7483,
+    "covered_venue_years": 161,
+    "pending_due": 37,
+    "rolling_refresh": 8,
+    "watching": 9
   },
   "update_queue": [
     {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "IJCV",
+      "venue_type": "journal",
+      "year": 2020
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TIP",
+      "venue_type": "journal",
+      "year": 2020
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TNNLS",
+      "venue_type": "journal",
+      "year": 2020
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TPAMI",
+      "venue_type": "journal",
+      "year": 2020
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "JMLR",
+      "venue_type": "journal",
+      "year": 2021
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TIP",
+      "venue_type": "journal",
+      "year": 2021
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TKDE",
+      "venue_type": "journal",
+      "year": 2021
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TNNLS",
+      "venue_type": "journal",
+      "year": 2021
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "IJCV",
+      "venue_type": "journal",
+      "year": 2022
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "JMLR",
+      "venue_type": "journal",
+      "year": 2022
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TIP",
+      "venue_type": "journal",
+      "year": 2022
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TKDE",
+      "venue_type": "journal",
+      "year": 2022
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TMM",
+      "venue_type": "journal",
+      "year": 2022
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TNNLS",
+      "venue_type": "journal",
+      "year": 2022
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TPAMI",
+      "venue_type": "journal",
+      "year": 2022
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "JMLR",
+      "venue_type": "journal",
+      "year": 2023
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TIP",
+      "venue_type": "journal",
+      "year": 2023
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TKDE",
+      "venue_type": "journal",
+      "year": 2023
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TMM",
+      "venue_type": "journal",
+      "year": 2023
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "IJCV",
+      "venue_type": "journal",
+      "year": 2024
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "JMLR",
+      "venue_type": "journal",
+      "year": 2024
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TKDE",
+      "venue_type": "journal",
+      "year": 2024
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TMM",
+      "venue_type": "journal",
+      "year": 2024
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TNNLS",
+      "venue_type": "journal",
+      "year": 2024
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TPAMI",
+      "venue_type": "journal",
+      "year": 2024
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "IJCV",
+      "venue_type": "journal",
+      "year": 2025
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "JMLR",
+      "venue_type": "journal",
+      "year": 2025
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TIP",
+      "venue_type": "journal",
+      "year": 2025
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TKDE",
+      "venue_type": "journal",
+      "year": 2025
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TMM",
+      "venue_type": "journal",
+      "year": 2025
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TPAMI",
+      "venue_type": "journal",
+      "year": 2025
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "IJCV",
+      "venue_type": "journal",
+      "year": 2026
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "JMLR",
+      "venue_type": "journal",
+      "year": 2026
+    },
+    {
+      "expected_month": 6,
+      "frequency": "annual",
+      "scope": "Main conference papers only.",
+      "source": "ACL Anthology",
+      "state": "pending_due",
+      "venue": "NAACL",
+      "venue_type": "conference",
+      "year": 2026
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TIP",
+      "venue_type": "journal",
+      "year": 2026
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "pending_due",
+      "venue": "TPAMI",
+      "venue_type": "journal",
+      "year": 2026
+    },
+    {
       "expected_month": 4,
+      "frequency": "annual",
       "scope": "Research track main conference papers.",
       "source": "ACM Digital Library / The Web Conference proceedings",
       "state": "pending_due",
       "venue": "WWW",
+      "venue_type": "conference",
+      "year": 2026
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "rolling_refresh",
+      "venue": "AIJ",
+      "venue_type": "journal",
+      "year": 2025
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "rolling_refresh",
+      "venue": "PR",
+      "venue_type": "journal",
+      "year": 2025
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "rolling_refresh",
+      "venue": "TNNLS",
+      "venue_type": "journal",
+      "year": 2025
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "rolling_refresh",
+      "venue": "AIJ",
+      "venue_type": "journal",
+      "year": 2026
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "rolling_refresh",
+      "venue": "PR",
+      "venue_type": "journal",
+      "year": 2026
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "rolling_refresh",
+      "venue": "TKDE",
+      "venue_type": "journal",
+      "year": 2026
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "rolling_refresh",
+      "venue": "TMM",
+      "venue_type": "journal",
+      "year": 2026
+    },
+    {
+      "expected_month": 1,
+      "frequency": "rolling",
+      "scope": "Rolling publication-year journal articles.",
+      "source": "OpenAlex journal source metadata",
+      "state": "rolling_refresh",
+      "venue": "TNNLS",
+      "venue_type": "journal",
       "year": 2026
     },
     {
       "expected_month": 7,
+      "frequency": "annual",
       "scope": "Main conference papers only; Findings and industry tracks are excluded.",
       "source": "ACL Anthology",
       "state": "watching",
       "venue": "ACL",
+      "venue_type": "conference",
       "year": 2026
     },
     {
       "expected_month": 10,
+      "frequency": "annual",
       "scope": "Main conference accepted papers.",
       "source": "ACM Digital Library / ACM MM proceedings",
       "state": "watching",
       "venue": "ACMMM",
-      "year": 2026
-    },
-    {
-      "expected_month": 6,
-      "scope": "Main conference accepted papers.",
-      "source": "CVF Open Access",
-      "state": "watching",
-      "venue": "CVPR",
+      "venue_type": "conference",
       "year": 2026
     },
     {
       "expected_month": 10,
+      "frequency": "biennial_even",
       "scope": "Main conference accepted papers.",
       "source": "ECCV proceedings / CVF or Springer",
       "state": "watching",
       "venue": "ECCV",
+      "venue_type": "conference",
       "year": 2026
     },
     {
       "expected_month": 11,
+      "frequency": "annual",
       "scope": "Main conference papers only; Findings and industry tracks are excluded.",
       "source": "ACL Anthology",
       "state": "watching",
       "venue": "EMNLP",
+      "venue_type": "conference",
       "year": 2026
     },
     {
       "expected_month": 7,
+      "frequency": "annual",
       "scope": "Main conference accepted papers.",
       "source": "PMLR / OpenReview when available",
       "state": "watching",
       "venue": "ICML",
+      "venue_type": "conference",
       "year": 2026
     },
     {
       "expected_month": 8,
+      "frequency": "annual",
       "scope": "Main conference accepted papers.",
       "source": "IJCAI proceedings",
       "state": "watching",
       "venue": "IJCAI",
+      "venue_type": "conference",
       "year": 2026
     },
     {
       "expected_month": 8,
+      "frequency": "annual",
       "scope": "Research track main conference papers.",
       "source": "ACM Digital Library / KDD proceedings",
       "state": "watching",
       "venue": "KDD",
-      "year": 2026
-    },
-    {
-      "expected_month": 6,
-      "scope": "Main conference papers only.",
-      "source": "ACL Anthology",
-      "state": "watching",
-      "venue": "NAACL",
+      "venue_type": "conference",
       "year": 2026
     },
     {
       "expected_month": 12,
+      "frequency": "annual",
       "scope": "Main conference accepted papers.",
       "source": "NeurIPS proceedings / OpenReview",
       "state": "watching",
       "venue": "NeurIPS",
+      "venue_type": "conference",
       "year": 2026
     },
     {
       "expected_month": 7,
+      "frequency": "annual",
       "scope": "Full research papers.",
       "source": "ACM Digital Library / SIGIR proceedings",
       "state": "watching",
       "venue": "SIGIR",
+      "venue_type": "conference",
       "year": 2026
     }
   ]

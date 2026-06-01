@@ -44,6 +44,8 @@ class QueueItem:
     expected_month: int
     source: str
     scope: str
+    venue_type: str
+    frequency: str
 
 
 def parse_args() -> argparse.Namespace:
@@ -100,13 +102,21 @@ def read_coverage(summary_path: Path) -> list[CoverageRow]:
 
 
 def should_run_in_year(frequency: str, year: int) -> bool:
-    if frequency == "annual":
+    if frequency in {"annual", "rolling"}:
         return True
     if frequency == "biennial_even":
         return year % 2 == 0
     if frequency == "biennial_odd":
         return year % 2 == 1
     raise ValueError(f"Unsupported venue frequency: {frequency}")
+
+
+def queue_state_rank(state: str) -> int:
+    return {
+        "pending_due": 0,
+        "rolling_refresh": 1,
+        "watching": 2,
+    }.get(state, 99)
 
 
 def build_update_queue(
@@ -117,6 +127,7 @@ def build_update_queue(
     coverage = config.get("coverage", {})
     covered = {(row.venue, row.year) for row in coverage_rows}
     default_start_year = int(coverage.get("default_start_year", 2020))
+    default_rolling_window_years = int(coverage.get("default_rolling_window_years", 2))
     lookahead_years = int(coverage.get("lookahead_years", 0))
     max_year = today.year + lookahead_years
 
@@ -129,6 +140,8 @@ def build_update_queue(
         start_year = int(venue_config.get("start_year", default_start_year))
         end_year = int(venue_config.get("end_year", max_year))
         expected_month = int(venue_config.get("expected_month", 12))
+        venue_type = str(venue_config.get("venue_type", "conference"))
+        rolling_window_years = int(venue_config.get("rolling_window_years", default_rolling_window_years))
         only_years = {int(year) for year in venue_config.get("only_years", [])}
         skip_years = {int(year) for year in venue_config.get("skip_years", [])}
 
@@ -139,7 +152,30 @@ def build_update_queue(
                 continue
             if not should_run_in_year(frequency, year):
                 continue
-            if (venue, year) in covered:
+
+            is_covered = (venue, year) in covered
+            if frequency == "rolling":
+                if year > today.year:
+                    continue
+                rolling_start_year = today.year - rolling_window_years + 1
+                if is_covered and year < rolling_start_year:
+                    continue
+                state = "rolling_refresh" if is_covered else "pending_due"
+                queue.append(
+                    QueueItem(
+                        venue=venue,
+                        year=year,
+                        state=state,
+                        expected_month=expected_month,
+                        source=str(venue_config.get("source", "")),
+                        scope=str(venue_config.get("scope", "")),
+                        venue_type=venue_type,
+                        frequency=frequency,
+                    )
+                )
+                continue
+
+            if is_covered:
                 continue
             if year < today.year or (year == today.year and today.month >= expected_month):
                 state = "pending_due"
@@ -153,10 +189,12 @@ def build_update_queue(
                     expected_month=expected_month,
                     source=str(venue_config.get("source", "")),
                     scope=str(venue_config.get("scope", "")),
+                    venue_type=venue_type,
+                    frequency=frequency,
                 )
             )
 
-    return sorted(queue, key=lambda item: (item.state != "pending_due", item.year, item.venue))
+    return sorted(queue, key=lambda item: (queue_state_rank(item.state), item.year, item.venue))
 
 
 def coverage_by_venue(rows: list[CoverageRow]) -> list[dict[str, Any]]:
@@ -185,6 +223,7 @@ def build_report(
     config: dict[str, Any],
 ) -> dict[str, Any]:
     pending_due = [item for item in queue if item.state == "pending_due"]
+    rolling_refresh = [item for item in queue if item.state == "rolling_refresh"]
     watching = [item for item in queue if item.state == "watching"]
     return {
         "summary": {
@@ -192,6 +231,7 @@ def build_report(
             "covered_papers": sum(row.papers for row in coverage_rows),
             "covered_topics": sum(row.topics for row in coverage_rows),
             "pending_due": len(pending_due),
+            "rolling_refresh": len(rolling_refresh),
             "watching": len(watching),
         },
         "coverage_by_venue": coverage_by_venue(coverage_rows),
@@ -219,8 +259,13 @@ def render_markdown(report: dict[str, Any]) -> str:
         "",
         "State meanings:",
         "",
-        "- `pending_due`: the expected proceedings month has passed, but the atlas has no entry yet.",
+        "- `pending_due`: the venue-year is due under its schedule, but the atlas has no entry yet.",
+        "- `rolling_refresh`: the venue-year is already indexed, but the source is a rolling journal stream and should be refreshed periodically.",
         "- `watching`: the venue-year is expected later and should be checked again.",
+        "",
+        "Conference entries follow proceedings-style schedules. Journal entries follow a rolling policy: "
+        "missing journal-years stay in the queue, and the current plus previous publication year are "
+        "checked repeatedly as public metadata changes.",
         "",
         "## Summary",
         "",
@@ -228,6 +273,7 @@ def render_markdown(report: dict[str, Any]) -> str:
         f"- Covered papers: **{summary['covered_papers']:,}**",
         f"- Covered fine topics: **{summary['covered_topics']:,}**",
         f"- Pending due venue-years: **{summary['pending_due']}**",
+        f"- Rolling refresh venue-years: **{summary['rolling_refresh']}**",
         f"- Watching venue-years: **{summary['watching']}**",
         "",
         "## Update Queue",
@@ -238,7 +284,9 @@ def render_markdown(report: dict[str, Any]) -> str:
         [
             item["venue"],
             item["year"],
+            item["venue_type"],
             f"`{item['state']}`",
+            item["frequency"],
             item["expected_month"],
             item["source"],
             item["scope"],
@@ -249,7 +297,7 @@ def render_markdown(report: dict[str, Any]) -> str:
         lines.extend(
             markdown_table(
                 queue_rows,
-                ["Venue", "Year", "State", "Expected month", "Source", "Scope"],
+                ["Venue", "Year", "Type", "State", "Frequency", "Expected month", "Source", "Scope"],
             )
         )
     else:
@@ -278,7 +326,8 @@ def render_markdown(report: dict[str, Any]) -> str:
             "## Full Refresh",
             "",
             "The hosted GitHub runner can update this status page. A full atlas refresh requires a runner "
-            "with access to the ignored `results/` embedding and fine-topic caches.",
+            "with access to the ignored `results/` embedding and fine-topic caches. Rolling journal updates "
+            "also require refreshing the local OpenAlex metadata cache before rebuilding topics.",
             "",
             "```bash",
             "python scripts/auto_update_atlas.py refresh",
@@ -315,6 +364,7 @@ def run_check(args: argparse.Namespace, config: dict[str, Any]) -> dict[str, Any
     print(
         "Auto-update check complete: "
         f"{report['summary']['pending_due']} pending_due, "
+        f"{report['summary']['rolling_refresh']} rolling_refresh, "
         f"{report['summary']['watching']} watching."
     )
     return report

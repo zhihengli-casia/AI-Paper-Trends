@@ -170,6 +170,8 @@ python scripts/build_topic_atlas.py \
 | 每周轻量检查 | 检查哪些 venue-year 可能已经有新的公开元数据。 | 在 GitHub 托管 runner 上运行，并更新 [docs/auto-update/status.md](docs/auto-update/status.md)。 |
 | 完整图谱刷新 | 重建 `docs/topic-atlas`。 | 需要带有 `ai-paper-trends` 标签的 self-hosted runner，以及外部 embedding/result 缓存。 |
 
+会议条目采用 proceedings 时间表；期刊条目采用滚动策略：缺失的 journal-year 会持续留在更新队列里，当前发表年和上一发表年即使已经收录，也会被标记为需要周期性刷新，以便吸收 OpenAlex 后续释放的新元数据。
+
 本地运行轻量检查：
 
 ```bash

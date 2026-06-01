@@ -170,6 +170,8 @@ The repository includes a GitHub Actions update engine:
 | Weekly lightweight check | Check which venue-years may have new public metadata. | Runs on a hosted GitHub runner and updates [docs/auto-update/status.md](docs/auto-update/status.md). |
 | Full atlas refresh | Rebuild `docs/topic-atlas`. | Requires a self-hosted runner labeled `ai-paper-trends` and external embedding/result caches. |
 
+Conference entries use proceedings-style schedules. Journal entries use a rolling policy: missing journal-years remain in the update queue, and the current plus previous publication year are refreshed repeatedly as new OpenAlex metadata appears.
+
 Run the lightweight check locally:
 
 ```bash
