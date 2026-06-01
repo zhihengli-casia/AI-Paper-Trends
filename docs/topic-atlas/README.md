@@ -6,16 +6,16 @@ Navigation pattern: **year -> venue -> topic -> paper**.
 
 The numbers below describe the current checked-in index. They are expected to grow as new venues, years, and proceedings are added.
 
-- Indexed venue-year groups: **160**
-- Indexed papers: **155,662**
-- Fine-grained topic pages: **7,378**
+- Indexed venue-year groups: **161**
+- Indexed papers: **159,732**
+- Fine-grained topic pages: **7,483**
 - Unassigned papers after reassignment: **25**
 
 ## Years
 
 This year-by-year index is continuously updated. The latest year may be partial while conference proceedings and public metadata are still being released.
 
-- [2026](2026/README.md) - 7 venues, 11,531 papers, 358 topics
+- [2026](2026/README.md) - 8 venues, 15,601 papers, 463 topics
 - [2025](2025/README.md) - 25 venues, 37,057 papers, 1,613 topics
 - [2024](2024/README.md) - 26 venues, 29,499 papers, 1,312 topics
 - [2023](2023/README.md) - 26 venues, 24,374 papers, 1,229 topics
@@ -28,7 +28,7 @@ This year-by-year index is continuously updated. The latest year may be partial 
 | Group | Indexed venues | Venue-years | Papers | Fine topics |
 |---|---|---:|---:|---:|
 | ML / learning theory | ICLR, ICML, NeurIPS | 19 | 46,161 | 1,724 |
-| CV top conferences | CVPR, ICCV, ECCV | 12 | 24,999 | 1,130 |
+| CV top conferences | CVPR, ICCV, ECCV | 13 | 29,069 | 1,235 |
 | NLP / language | ACL, EMNLP, NAACL, COLM | 18 | 15,368 | 811 |
 | General AI | AAAI, IJCAI | 13 | 21,179 | 963 |
 | Embodied AI / robotics | ICRA, IROS, RSS | 17 | 16,590 | 873 |
@@ -63,7 +63,7 @@ Candidate sources are tracked for future expansion. Inclusion depends on public 
 | AIJ | 2020-2026 (7) | 660 | 61 | 8.7 |
 | CHI | 2020-2025 (5) | 4,538 | 229 | 45.8 |
 | COLM | 2024-2025 (2) | 717 | 38 | 19.0 |
-| CVPR | 2020-2025 (6) | 13,140 | 589 | 98.2 |
+| CVPR | 2020-2026 (7) | 17,210 | 694 | 99.1 |
 | ECCV | 2020-2024 (3) | 5,390 | 265 | 88.3 |
 | EMNLP | 2020-2025 (6) | 6,550 | 347 | 57.8 |
 | ICCV | 2021-2025 (3) | 6,469 | 276 | 92.0 |

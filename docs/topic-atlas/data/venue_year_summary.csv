@@ -154,6 +154,7 @@ TNNLS,2025,796,8,10,15,38,114,114,0,38,67,17.0,0.0,results/fine_grained_venue_ye
 WWW,2025,154,6,10,15,13,19,19,0,13,16,13.0,0.0,results/fine_grained_venue_year_topics_2020_2026_mcs_fine/venue=WWW/year=2025
 AAAI,2026,4149,15,10,15,104,1023,1023,0,104,112,34.0,0.0,results/fine_grained_venue_year_topics_2020_2026_mcs_fine/venue=AAAI/year=2026
 AIJ,2026,39,4,10,15,5,3,3,0,5,17,6.0,0.0,results/fine_grained_venue_year_topics_2020_2026_mcs_fine/venue=AIJ/year=2026
+CVPR,2026,4070,15,10,15,105,899,899,0,105,152,34.0,18.0,results/fine_grained_venue_year_topics_2020_2026_mcs_fine/venue=CVPR/year=2026
 ICLR,2026,5352,15,10,15,131,1452,1452,0,131,118,37.0,0.0,results/fine_grained_venue_year_topics_2020_2026_mcs_fine/venue=ICLR/year=2026
 PR,2026,925,8,10,15,51,143,142,1,51,38,17.0,0.0,results/fine_grained_venue_year_topics_2020_2026_mcs_fine/venue=PR/year=2026
 TKDE,2026,250,8,10,15,15,47,47,0,15,44,14.0,0.0,results/fine_grained_venue_year_topics_2020_2026_mcs_fine/venue=TKDE/year=2026

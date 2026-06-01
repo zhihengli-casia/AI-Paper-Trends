@@ -345,13 +345,19 @@ def crawl_cvf(job: OfficialJob, *, fetch_detail_abstracts: bool, max_workers: in
     seen_urls: set[str] = set()
     expanded_urls: list[str] = []
     for source_url in candidate_urls:
-        soup = soup_from_url(source_url, timeout=90)
-        if not soup.select("dt.ptitle"):
+        soup = None
+        try:
+            soup = soup_from_url(source_url, timeout=90)
+        except Exception:
+            pass
+        if soup is None or not soup.select("dt.ptitle"):
             base_url = f"https://openaccess.thecvf.com/{conf}{job.year}"
             base_soup = soup_from_url(base_url, timeout=90)
-            for link in base_soup.select(f'a[href*="{conf}{job.year}.py?day="]'):
+            for link in base_soup.select(
+                f'a[href*="{conf}{job.year}?day="], a[href*="{conf}{job.year}.py?day="]'
+            ):
                 expanded_urls.append(urljoin(base_url, link["href"]))
-            if expanded_urls:
+            if expanded_urls or soup is None:
                 continue
         for dt in soup.select("dt.ptitle"):
             title_link = dt.select_one("a[href]")
@@ -1011,7 +1017,7 @@ def build_official_jobs(start_year: int, end_year: int) -> list[OfficialJob]:
     jobs: list[OfficialJob] = []
     jobs.extend(
         OfficialJob("CVPR", year, "cv", "cvf", "CVF Open Access", {"conf": "CVPR"})
-        for year in range(max(start_year, 2013), min(end_year, 2019) + 1)
+        for year in range(max(start_year, 2013), end_year + 1)
     )
     jobs.extend(
         OfficialJob("ICCV", year, "cv", "cvf", "CVF Open Access", {"conf": "ICCV"})

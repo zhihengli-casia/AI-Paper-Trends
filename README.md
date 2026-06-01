@@ -21,9 +21,9 @@ The checked-in static atlas currently contains:
 
 | Metric | Value |
 |---|---:|
-| Papers | 155,662 |
-| Venue-year groups | 160 |
-| Fine-grained topic pages | 7,378 |
+| Papers | 159,732 |
+| Venue-year groups | 161 |
+| Fine-grained topic pages | 7,483 |
 | Years | 2020-2026 |
 | Unassigned papers after reassignment | 25 |
 
@@ -51,7 +51,7 @@ Counts below describe the current repository snapshot. They are maintained as a 
 | Area | Indexed venues | Papers | Fine topics |
 |---|---|---:|---:|
 | ML / learning theory | ICLR, ICML, NeurIPS | 46,161 | 1,724 |
-| CV top conferences | CVPR, ICCV, ECCV | 24,999 | 1,130 |
+| CV top conferences | CVPR, ICCV, ECCV | 29,069 | 1,235 |
 | NLP / language | ACL, EMNLP, NAACL, COLM | 15,368 | 811 |
 | General AI | AAAI, IJCAI | 21,179 | 963 |
 | Embodied AI / robotics | ICRA, IROS, RSS | 16,590 | 873 |
