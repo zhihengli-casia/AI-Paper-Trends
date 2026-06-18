@@ -19,47 +19,47 @@
 ## Papers
 
 <a id="paper-https-proceedings-mlr-press-v267-plaut25a-html"></a>
-1. [Avoiding Catastrophe in Online Learning by Asking for Help](https://openreview.net/forum?id=Lwn9T8Yoti)
+1. [Avoiding Catastrophe in Online Learning by Asking for Help](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=Lwn9T8Yoti)
    - Benjamin Plaut, Hanlin Zhu, Stuart Russell; assignment: `nearest_centroid`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-muller25b-html"></a>
-2. [Best of Both Worlds: Regret Minimization versus Minimax Play](https://openreview.net/forum?id=lHzLxYiJVF)
+2. [Best of Both Worlds: Regret Minimization versus Minimax Play](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=lHzLxYiJVF)
    - Adrian Müller, Jon Schneider, Stratis Skoulakis, Luca Viano, Volkan Cevher; assignment: `nearest_centroid`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-hutchinson25a-html"></a>
-3. [Constrained Online Convex Optimization with Polyak Feasibility Steps](https://openreview.net/forum?id=EAAjvpE7sp)
+3. [Constrained Online Convex Optimization with Polyak Feasibility Steps](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=EAAjvpE7sp)
    - Spencer Hutchinson, Mahnoosh Alizadeh; assignment: `hdbscan`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-zhang25cv-html"></a>
-4. [Don’t Restart, Just Reuse: Reoptimizing MILPs with Dynamic Parameters](https://openreview.net/forum?id=ZRGZ4OcfXV)
+4. [Don’t Restart, Just Reuse: Reoptimizing MILPs with Dynamic Parameters](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=ZRGZ4OcfXV)
    - Sijia Zhang, Shuli Zeng, Shaoang Li, Feng Wu, Shaojie Tang, Xiangyang Li; assignment: `hdbscan`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-saha25a-html"></a>
-5. [Dueling Convex Optimization with General Preferences](https://openreview.net/forum?id=WMHNs2Necq)
+5. [Dueling Convex Optimization with General Preferences](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=WMHNs2Necq)
    - Aadirupa Saha, Tomer Koren, Yishay Mansour; assignment: `hdbscan`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-qiu25a-html"></a>
-6. [Exploiting Curvature in Online Convex Optimization with Delayed Feedback](https://openreview.net/forum?id=dkcraXnIIL)
+6. [Exploiting Curvature in Online Convex Optimization with Delayed Feedback](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=dkcraXnIIL)
    - Hao Qiu, Emmanuel Esposito, Mengxiao Zhang; assignment: `hdbscan`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-mao25c-html"></a>
-7. [Mastering Multiple-Expert Routing: Realizable $H$-Consistency and Strong Guarantees for Learning to Defer](https://openreview.net/forum?id=2KlxjR6lsd)
+7. [Mastering Multiple-Expert Routing: Realizable $H$-Consistency and Strong Guarantees for Learning to Defer](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=2KlxjR6lsd)
    - Anqi Mao, Mehryar Mohri, Yutao Zhong; assignment: `nearest_centroid`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-daneshvaramoli25a-html"></a>
-8. [Near-Optimal Consistency-Robustness Trade-Offs for Learning-Augmented Online Knapsack Problems](https://openreview.net/forum?id=AhumZOmTDf)
+8. [Near-Optimal Consistency-Robustness Trade-Offs for Learning-Augmented Online Knapsack Problems](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=AhumZOmTDf)
    - Mohammadreza Daneshvaramoli, Helia Karisani, Adam Lechowicz, Bo Sun, Cameron N Musco, Mohammad Hajiesmaili; assignment: `nearest_centroid`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-bernasconi25a-html"></a>
-9. [No-Regret is not enough! Bandits with General Constraints through Adaptive Regret Minimization](https://openreview.net/forum?id=vxM49M5B4s)
+9. [No-Regret is not enough! Bandits with General Constraints through Adaptive Regret Minimization](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=vxM49M5B4s)
    - Martino Bernasconi, Matteo Castiglioni, Andrea Celli; assignment: `nearest_centroid`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-zhang25di-html"></a>
-10. [Non-stationary Online Learning for Curved Losses: Improved Dynamic Regret via Mixability](https://openreview.net/forum?id=TeHF8YjJaw)
+10. [Non-stationary Online Learning for Curved Losses: Improved Dynamic Regret via Mixability](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=TeHF8YjJaw)
    - Yu-Jie Zhang, Peng Zhao, Masashi Sugiyama; assignment: `hdbscan`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-mhaisen25a-html"></a>
-11. [On the Dynamic Regret of Following the Regularized Leader: Optimism with History Pruning](https://openreview.net/forum?id=bikq2MsV0C)
+11. [On the Dynamic Regret of Following the Regularized Leader: Optimism with History Pruning](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=bikq2MsV0C)
    - Naram Mhaisen, George Iosifidis; assignment: `hdbscan`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-bernasconi25b-html"></a>
-12. [Online Learning in the Random-Order Model](https://openreview.net/forum?id=WHqSAEmvai)
+12. [Online Learning in the Random-Order Model](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=WHqSAEmvai)
    - Martino Bernasconi, Andrea Celli, Riccardo Colini Baldeschi, Federico Fusco, Stefano Leonardi, Matteo Russo; assignment: `hdbscan`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-sridharan25a-html"></a>
-13. [Online Learning with Unknown Constraints](https://openreview.net/forum?id=nqQcAhXGSy)
+13. [Online Learning with Unknown Constraints](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=nqQcAhXGSy)
    - Karthik Sridharan, Seung Won Wilson Yoo; assignment: `hdbscan`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-zhang25o-html"></a>
-14. [Unconstrained Robust Online Convex Optimization](https://openreview.net/forum?id=xPzwJznH9S)
+14. [Unconstrained Robust Online Convex Optimization](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=xPzwJznH9S)
    - Jiujia Zhang, Ashok Cutkosky; assignment: `hdbscan`; source: `PMLR`
 <a id="paper-https-proceedings-mlr-press-v267-sun25e-html"></a>
-15. [Wait-Less Offline Tuning and Re-solving for Online Decision Making](https://openreview.net/forum?id=BQ4KbrUCC2)
+15. [Wait-Less Offline Tuning and Re-solving for Online Decision Making](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=BQ4KbrUCC2)
    - Jingruo Sun, Wenzhi Gao, Ellen Vitercik, Yinyu Ye; assignment: `hdbscan`; source: `PMLR`

@@ -1,15 +1,19 @@
 import re
+import time
 from pathlib import Path
 from typing import Any, Dict, Iterator, List, Tuple
 
 import openreview.api
 import pandas as pd
+import requests
 from tqdm import tqdm
 
 from src.utils import build_raw_output_path, ensure_directories, extract_content_value
 
 DECISION_PATTERN = re.compile(r"/(Meta_Review|Decision)$")
 REVIEW_PATTERN = re.compile(r"/Official_Review$")
+OPENREVIEW_API_BASE = "https://api2.openreview.net"
+OPENREVIEW_TIMEOUT = 90
 
 
 def _get_note_field(note: Any, field_name: str, default: Any = None) -> Any:
@@ -31,6 +35,8 @@ def _get_note_replies(note: Any) -> Tuple[List[Any], bool]:
     details = _get_note_field(note, "details")
     if isinstance(details, dict) and "replies" in details:
         return details.get("replies") or [], True
+    if isinstance(details, dict) and "directReplies" in details:
+        return details.get("directReplies") or [], True
     return [], False
 
 
@@ -79,6 +85,40 @@ def _extract_review_details(related_notes: List[Any]) -> Dict[str, Any]:
     }
 
 
+def _openreview_get(params: Dict[str, Any], retries: int = 5) -> Dict[str, Any]:
+    """Fetch OpenReview notes without custom headers; custom User-Agent now gets 403."""
+    last_error: Exception | None = None
+    for attempt in range(retries):
+        try:
+            response = requests.get(
+                f"{OPENREVIEW_API_BASE}/notes",
+                params=params,
+                timeout=OPENREVIEW_TIMEOUT,
+            )
+            response.raise_for_status()
+            return response.json()
+        except Exception as exc:
+            last_error = exc
+            time.sleep(min(30, 2 * (attempt + 1)))
+    raise RuntimeError(f"OpenReview raw API request failed: {last_error}")
+
+
+def _get_all_notes_raw(params: Dict[str, Any]) -> List[Dict[str, Any]]:
+    notes: List[Dict[str, Any]] = []
+    offset = 0
+    limit = 1000
+    while True:
+        page_params = {**params, "limit": limit, "offset": offset}
+        batch = _openreview_get(page_params).get("notes", [])
+        if not batch:
+            break
+        notes.extend(batch)
+        if len(batch) < limit:
+            break
+        offset += len(batch)
+    return notes
+
+
 def _extract_paper_data_from_iterator(
     notes_iterator: Iterator[Any], include_replies: bool = False
 ) -> Tuple[List[Dict[str, Any]], bool]:
@@ -114,9 +154,13 @@ def get_rich_paper_details(
         try:
             related_notes = client.get_notes(forum=paper["id"])
         except Exception as exc:
-            print(f"Warning: Could not fetch details for paper {paper['id']}. Error: {exc}")
-            paper.update({"decision": "N/A", "review_ratings": [], "avg_rating": None})
-            continue
+            print(f"Warning: OpenReview client detail fetch failed for {paper['id']}. Falling back to raw API. Error: {exc}")
+            try:
+                related_notes = _openreview_get({"forum": paper["id"], "limit": 1000}).get("notes", [])
+            except Exception as raw_exc:
+                print(f"Warning: Could not fetch details for paper {paper['id']}. Error: {raw_exc}")
+                paper.update({"decision": "N/A", "review_ratings": [], "avg_rating": None})
+                continue
 
         paper.update(_extract_review_details(related_notes))
     return submissions
@@ -143,6 +187,21 @@ def get_all_papers(
     except Exception as exc:
         print(f"    - Invitation ID method failed: {exc}")
 
+    try:
+        print("    - Falling back to raw OpenReview API for Invitation ID")
+        params = {"invitation": invitation_id}
+        if details:
+            params["details"] = details
+        raw_notes = _get_all_notes_raw(params)
+        papers, embedded_replies_found = _extract_paper_data_from_iterator(
+            tqdm(raw_notes, desc="Processing papers (Raw Invitation)"),
+            include_replies=include_replies,
+        )
+        if papers:
+            return papers, embedded_replies_found
+    except Exception as exc:
+        print(f"    - Raw Invitation ID method failed: {exc}")
+
     print(f"\n--> Falling back to Venue ID: '{conference_id}'")
     try:
         notes_iterator = client.get_all_notes(content={"venueid": conference_id}, details=details)
@@ -154,6 +213,21 @@ def get_all_papers(
             return papers, embedded_replies_found
     except Exception as exc:
         print(f"    - Venue ID method failed: {exc}")
+
+    try:
+        print("    - Falling back to raw OpenReview API for Venue ID")
+        params = {"content.venueid": conference_id}
+        if details:
+            params["details"] = details
+        raw_notes = _get_all_notes_raw(params)
+        papers, embedded_replies_found = _extract_paper_data_from_iterator(
+            tqdm(raw_notes, desc="Processing papers (Raw Venue ID)"),
+            include_replies=include_replies,
+        )
+        if papers:
+            return papers, embedded_replies_found
+    except Exception as exc:
+        print(f"    - Raw Venue ID method failed: {exc}")
 
     return [], False
 

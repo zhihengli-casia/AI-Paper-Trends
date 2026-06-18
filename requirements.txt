@@ -2,6 +2,7 @@
 
 # For data fetching from OpenReview
 openreview-py
+requests
 
 # Core data science and ML libraries
 pandas

@@ -19,32 +19,32 @@
 ## Papers
 
 <a id="paper-afzaxrimwe"></a>
-1. [A Holistic View of Label Noise Transition Matrix in Deep Learning and Beyond](https://openreview.net/forum?id=aFzaXRImWE)
+1. [A Holistic View of Label Noise Transition Matrix in Deep Learning and Beyond](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=aFzaXRImWE)
    - LIN Yong, Renjie Pi, WEIZHONG ZHANG, Xiaobo Xia, Jiahui Gao, Xiao Zhou, et al.; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-mnejsw-vj-x"></a>
-2. [Active Learning for Object Detection with Evidential Deep Learning and Hierarchical Uncertainty Aggregation](https://openreview.net/forum?id=MnEjsw-vj-X)
+2. [Active Learning for Object Detection with Evidential Deep Learning and Hierarchical Uncertainty Aggregation](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=MnEjsw-vj-X)
    - Younghyun Park, Wonjeong Choi, Soyeong Kim, Dong-Jun Han, Jaekyun Moon; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-ztmuz68b1g"></a>
-3. [Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle](https://openreview.net/forum?id=ZTMuZ68B1g)
+3. [Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=ZTMuZ68B1g)
    - Jae Oh Woo; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-qvhswywb9"></a>
-4. [Deep Learning From Crowdsourced Labels: Coupled Cross-Entropy Minimization, Identifiability, and Regularization](https://openreview.net/forum?id=_qVhsWyWB9)
+4. [Deep Learning From Crowdsourced Labels: Coupled Cross-Entropy Minimization, Identifiability, and Regularization](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=_qVhsWyWB9)
    - Shahana Ibrahim, Tri Nguyen, Xiao Fu; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-xi1zttvotlz"></a>
-5. [Evidential Uncertainty and Diversity Guided Active Learning for Scene Graph Generation](https://openreview.net/forum?id=xI1ZTtVOtlz)
+5. [Evidential Uncertainty and Diversity Guided Active Learning for Scene Graph Generation](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=xI1ZTtVOtlz)
    - Shuzhou Sun, Shuaifeng Zhi, Janne Heikkilä, Li Liu; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-qc-oopmebnc"></a>
-6. [Learning to Segment from Noisy Annotations: A Spatial Correction Approach](https://openreview.net/forum?id=Qc_OopMEBnC)
+6. [Learning to Segment from Noisy Annotations: A Spatial Correction Approach](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=Qc_OopMEBnC)
    - Jiachen Yao, Yikai Zhang, Songzhu Zheng, Mayank Goswami, Prateek Prasanna, Chao Chen; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-ke-wjd2rk4"></a>
-7. [Modeling Multimodal Aleatoric Uncertainty in Segmentation with Mixture of Stochastic Experts](https://openreview.net/forum?id=KE_wJD2RK4)
+7. [Modeling Multimodal Aleatoric Uncertainty in Segmentation with Mixture of Stochastic Experts](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=KE_wJD2RK4)
    - Zhitong Gao, Yucong Chen, Chuyu Zhang, Xuming He; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-ruzsobdyy0v"></a>
-8. [Quantifying and Mitigating the Impact of Label Errors on Model Disparity Metrics](https://openreview.net/forum?id=RUzSobdYy0V)
+8. [Quantifying and Mitigating the Impact of Label Errors on Model Disparity Metrics](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=RUzSobdYy0V)
    - Julius Adebayo, Melissa Hall, Bowen Yu, Bobbie Chern; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-grztigjljly"></a>
-9. [Scalable Batch-Mode Deep Bayesian Active Learning via Equivalence Class Annealing](https://openreview.net/forum?id=GRZtigJljLY)
+9. [Scalable Batch-Mode Deep Bayesian Active Learning via Equivalence Class Annealing](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=GRZtigJljLY)
    - Renyu Zhang, Aly A Khan, Robert L. Grossman, Yuxin Chen; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-wz2svhotzbx"></a>
-10. [That Label's got Style: Handling Label Style Bias for Uncertain Image Segmentation](https://openreview.net/forum?id=wZ2SVhOTzBX)
+10. [That Label's got Style: Handling Label Style Bias for Uncertain Image Segmentation](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=wZ2SVhOTzBX)
    - Kilian Zepf, Eike Petersen, Jes Frellsen, Aasa Feragen; assignment: `hdbscan`; source: `OpenReview`

@@ -19,7 +19,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable
-from urllib.parse import quote, urljoin
+from urllib.parse import quote, urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -148,11 +148,18 @@ def clean_doi(value: Any) -> str:
     return text.lower()
 
 
+def headers_for_url(url: str) -> dict[str, str] | None:
+    if urlparse(url).netloc.endswith("openreview.net"):
+        # OpenReview currently rejects custom User-Agent headers with 403.
+        return None
+    return HEADERS
+
+
 def http_get(url: str, *, timeout: int = DEFAULT_TIMEOUT, retries: int = 4) -> requests.Response:
     last_error: Exception | None = None
     for attempt in range(retries):
         try:
-            response = requests.get(url, headers=HEADERS, timeout=timeout)
+            response = requests.get(url, headers=headers_for_url(url), timeout=timeout)
             response.raise_for_status()
             return response
         except Exception as exc:
@@ -632,7 +639,7 @@ def old_openreview_get(params: dict[str, Any], *, retries: int = 5) -> dict[str,
     last_error: Exception | None = None
     for attempt in range(retries):
         try:
-            response = requests.get("https://api.openreview.net/notes", params=params, headers=HEADERS, timeout=90)
+            response = requests.get("https://api.openreview.net/notes", params=params, timeout=90)
             response.raise_for_status()
             return response.json()
         except Exception as exc:

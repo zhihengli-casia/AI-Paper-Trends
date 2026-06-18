@@ -19,44 +19,44 @@
 ## Papers
 
 <a id="paper-hfuj4shydeu"></a>
-1. [Achieve the Minimum Width of Neural Networks for Universal Approximation](https://openreview.net/forum?id=hfUJ4ShyDEU)
+1. [Achieve the Minimum Width of Neural Networks for Universal Approximation](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=hfUJ4ShyDEU)
    - Yongqiang Cai; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-conlohets"></a>
-2. [An Exact Poly-Time Membership-Queries Algorithm for Extracting a Three-Layer ReLU Network](https://openreview.net/forum?id=-CoNloheTs)
+2. [An Exact Poly-Time Membership-Queries Algorithm for Extracting a Three-Layer ReLU Network](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=-CoNloheTs)
    - Amit Daniely, Elad Granot; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-r90kycub7js"></a>
-3. [Approximation and non-parametric estimation of functions over high-dimensional spheres via deep ReLU networks](https://openreview.net/forum?id=r90KYcuB7JS)
+3. [Approximation and non-parametric estimation of functions over high-dimensional spheres via deep ReLU networks](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=r90KYcuB7JS)
    - Namjoon Suh, Tian-Yi Zhou, Xiaoming Huo; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-tvms8xrzhyr"></a>
-4. [Characterizing the spectrum of the NTK via a power series expansion](https://openreview.net/forum?id=Tvms8xrZHyR)
+4. [Characterizing the spectrum of the NTK via a power series expansion](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=Tvms8xrZHyR)
    - Michael Murray, Hui Jin, Benjamin Bowman, Guido Montufar; assignment: `nearest_centroid`; source: `OpenReview`
 <a id="paper-0q9h-pgx132"></a>
-5. [Deep Learning meets Nonparametric Regression: Are Weight-Decayed DNNs Locally Adaptive?](https://openreview.net/forum?id=0Q9H_Pgx132)
+5. [Deep Learning meets Nonparametric Regression: Are Weight-Decayed DNNs Locally Adaptive?](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=0Q9H_Pgx132)
    - Kaiqi Zhang, Yu-Xiang Wang; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-6doxhqwmayf"></a>
-6. [Excess Risk of Two-Layer ReLU Neural Networks in Teacher-Student Settings and its Superiority to Kernel Methods](https://openreview.net/forum?id=6doXHqwMayf)
+6. [Excess Risk of Two-Layer ReLU Neural Networks in Teacher-Student Settings and its Superiority to Kernel Methods](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=6doXHqwMayf)
    - Shunta Akiyama, Taiji Suzuki; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-9k5ktgyht"></a>
-7. [Globally Optimal Training of Neural Networks with Threshold Activation Functions](https://openreview.net/forum?id=_9k5kTgyHT)
+7. [Globally Optimal Training of Neural Networks with Threshold Activation Functions](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=_9k5kTgyHT)
    - Tolga Ergen, Halil Ibrahim Gulluk, Jonathan Lacotte, Mert Pilanci; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-nchvkfvnex0"></a>
-8. [Learning ReLU networks to high uniform accuracy is intractable](https://openreview.net/forum?id=nchvKfvNeX0)
+8. [Learning ReLU networks to high uniform accuracy is intractable](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=nchvKfvNeX0)
    - Julius Berner, Philipp Grohs, Felix Voigtlaender; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-2mvaloawaxy"></a>
-9. [Lower Bounds on the Depth of Integral ReLU Neural Networks via Lattice Polytopes](https://openreview.net/forum?id=2mvALOAWaxY)
+9. [Lower Bounds on the Depth of Integral ReLU Neural Networks via Lattice Polytopes](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=2mvALOAWaxY)
    - Christian Alexander Haase, Christoph Hertrich, Georg Loho; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-zen1bhanysc"></a>
-10. [Minimax Optimal Kernel Operator Learning via Multilevel Training](https://openreview.net/forum?id=zEn1BhaNYsC)
+10. [Minimax Optimal Kernel Operator Learning via Multilevel Training](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=zEn1BhaNYsC)
    - Jikai Jin, Yiping Lu, Jose Blanchet, Lexing Ying; assignment: `nearest_centroid`; source: `OpenReview`
 <a id="paper-ltwade-cpk"></a>
-11. [Optimal Activation Functions for the Random Features Regression Model](https://openreview.net/forum?id=ltWade-cpK)
+11. [Optimal Activation Functions for the Random Features Regression Model](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=ltWade-cpK)
    - Jianxin Wang, José Bento; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-nz2ntpolc5"></a>
-12. [The Influence of Learning Rule on Representation Dynamics in Wide Neural Networks](https://openreview.net/forum?id=nZ2NtpolC5-)
+12. [The Influence of Learning Rule on Representation Dynamics in Wide Neural Networks](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=nZ2NtpolC5-)
    - Blake Bordelon, Cengiz Pehlevan; assignment: `nearest_centroid`; source: `OpenReview`
 <a id="paper-jlinxpovth7"></a>
-13. [The Onset of Variance-Limited Behavior for Networks in the Lazy and Rich Regimes](https://openreview.net/forum?id=JLINxPOVTh7)
+13. [The Onset of Variance-Limited Behavior for Networks in the Lazy and Rich Regimes](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=JLINxPOVTh7)
    - Alexander Atanasov, Blake Bordelon, Sabarish Sainathan, Cengiz Pehlevan; assignment: `hdbscan`; source: `OpenReview`
 <a id="paper-ubkboix9nxa"></a>
-14. [Understanding weight-magnitude hyperparameters in training binary networks](https://openreview.net/forum?id=uBKBoix9NXa)
+14. [Understanding weight-magnitude hyperparameters in training binary networks](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/forum?id=uBKBoix9NXa)
    - Joris Quist, Yunqiang Li, Jan van Gemert; assignment: `nearest_centroid`; source: `OpenReview`

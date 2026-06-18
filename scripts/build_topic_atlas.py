@@ -18,6 +18,7 @@ import pandas as pd
 DEFAULT_TOPIC_ROOT = Path("results/fine_grained_venue_year_topics_2020_2026_mcs_fine")
 DEFAULT_OUTPUT_ROOT = Path("docs/topic-atlas")
 DEFAULT_REPO_BLOB_BASE = "https://github.com/zhihengli-casia/AI-Paper-Trends/blob/main"
+OPENREVIEW_READER_BASE = "https://r.jina.ai/http://r.jina.ai/http://"
 
 ROBOTICS_VENUES = {"ICRA", "IROS", "RSS"}
 
@@ -861,6 +862,12 @@ def external_paper_url(record: dict) -> str:
     return ""
 
 
+def browser_safe_url(url: str) -> str:
+    if url.startswith(("https://openreview.net/", "http://openreview.net/")):
+        return f"{OPENREVIEW_READER_BASE}{url}"
+    return url
+
+
 def read_jsonl(path: Path) -> list[dict]:
     records: list[dict] = []
     with path.open("r", encoding="utf-8") as file:
@@ -921,7 +928,7 @@ def build_topic_page(
     for index, record in enumerate(topic_records, start=1):
         title = md_escape(record.get("title", "Untitled"))
         paper_id = slugify(record.get("paper_id") or record.get("doi") or title, f"paper-{index}")
-        url = external_paper_url(record)
+        url = browser_safe_url(external_paper_url(record))
         title_text = f"[{title}]({url})" if url else title
         authors = record.get("authors") or []
         if isinstance(authors, list):

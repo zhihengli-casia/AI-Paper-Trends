@@ -22,7 +22,7 @@
 1. [AI Explainability 360: An Extensible Toolkit for Understanding Data and Machine Learning Models](https://jmlr.org/papers/volume21/19-1035/19-1035.pdf)
    - Vijay Arya, Rachel Bellamy, Pin‐Yu Chen, Amit Dhurandhar, Michael Hind, Samuel C. Hoffman, et al.; assignment: `hdbscan`; source: `OpenAlex`
 <a id="paper-https-openreview-net-pdf-id-hjuohgwrb"></a>
-2. [Contextual Explanation Networks](https://openreview.net/pdf?id=HJUOHGWRb)
+2. [Contextual Explanation Networks](https://r.jina.ai/http://r.jina.ai/http://https://openreview.net/pdf?id=HJUOHGWRb)
    - Maruan Al-Shedivat, Avinava Dubey, Eric P. Xing; assignment: `hdbscan`; source: `OpenAlex`
 <a id="paper-https-jmlr-org-papers-volume21-18-112-18-112-pdf"></a>
 3. [Generalized Nonbacktracking Bounds on the Influence](https://jmlr.org/papers/volume21/18-112/18-112.pdf)
