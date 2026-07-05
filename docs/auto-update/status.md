@@ -15,9 +15,9 @@ Conference entries follow proceedings-style schedules. Journal entries follow a 
 - Covered venue-year groups: **161**
 - Covered papers: **159,732**
 - Covered fine topics: **7,483**
-- Pending due venue-years: **37**
+- Pending due venue-years: **40**
 - Rolling refresh venue-years: **8**
-- Watching venue-years: **9**
+- Watching venue-years: **6**
 
 ## Update Queue
 
@@ -54,9 +54,12 @@ Conference entries follow proceedings-style schedules. Journal entries follow a 
 | TKDE | 2025 | journal | `pending_due` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
 | TMM | 2025 | journal | `pending_due` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
 | TPAMI | 2025 | journal | `pending_due` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
+| ACL | 2026 | conference | `pending_due` | annual | 7 | ACL Anthology | Main conference papers only; Findings and industry tracks are excluded. |
+| ICML | 2026 | conference | `pending_due` | annual | 7 | PMLR / OpenReview when available | Main conference accepted papers. |
 | IJCV | 2026 | journal | `pending_due` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
 | JMLR | 2026 | journal | `pending_due` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
 | NAACL | 2026 | conference | `pending_due` | annual | 6 | ACL Anthology | Main conference papers only. |
+| SIGIR | 2026 | conference | `pending_due` | annual | 7 | ACM Digital Library / SIGIR proceedings | Full research papers. |
 | TIP | 2026 | journal | `pending_due` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
 | TPAMI | 2026 | journal | `pending_due` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
 | WWW | 2026 | conference | `pending_due` | annual | 4 | ACM Digital Library / The Web Conference proceedings | Research track main conference papers. |
@@ -68,15 +71,12 @@ Conference entries follow proceedings-style schedules. Journal entries follow a 
 | TKDE | 2026 | journal | `rolling_refresh` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
 | TMM | 2026 | journal | `rolling_refresh` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
 | TNNLS | 2026 | journal | `rolling_refresh` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
-| ACL | 2026 | conference | `watching` | annual | 7 | ACL Anthology | Main conference papers only; Findings and industry tracks are excluded. |
 | ACMMM | 2026 | conference | `watching` | annual | 10 | ACM Digital Library / ACM MM proceedings | Main conference accepted papers. |
 | ECCV | 2026 | conference | `watching` | biennial_even | 10 | ECCV proceedings / CVF or Springer | Main conference accepted papers. |
 | EMNLP | 2026 | conference | `watching` | annual | 11 | ACL Anthology | Main conference papers only; Findings and industry tracks are excluded. |
-| ICML | 2026 | conference | `watching` | annual | 7 | PMLR / OpenReview when available | Main conference accepted papers. |
 | IJCAI | 2026 | conference | `watching` | annual | 8 | IJCAI proceedings | Main conference accepted papers. |
 | KDD | 2026 | conference | `watching` | annual | 8 | ACM Digital Library / KDD proceedings | Research track main conference papers. |
 | NeurIPS | 2026 | conference | `watching` | annual | 12 | NeurIPS proceedings / OpenReview | Main conference accepted papers. |
-| SIGIR | 2026 | conference | `watching` | annual | 7 | ACM Digital Library / SIGIR proceedings | Full research papers. |
 
 ## Current Coverage
 
