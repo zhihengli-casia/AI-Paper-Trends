@@ -248,9 +248,9 @@
     "covered_papers": 159732,
     "covered_topics": 7483,
     "covered_venue_years": 161,
-    "pending_due": 40,
+    "pending_due": 42,
     "rolling_refresh": 8,
-    "watching": 6
+    "watching": 4
   },
   "update_queue": [
     {
@@ -584,6 +584,16 @@
       "year": 2026
     },
     {
+      "expected_month": 8,
+      "frequency": "annual",
+      "scope": "Main conference accepted papers.",
+      "source": "IJCAI proceedings",
+      "state": "pending_due",
+      "venue": "IJCAI",
+      "venue_type": "conference",
+      "year": 2026
+    },
+    {
       "expected_month": 1,
       "frequency": "rolling",
       "scope": "Rolling publication-year journal articles.",
@@ -601,6 +611,16 @@
       "state": "pending_due",
       "venue": "JMLR",
       "venue_type": "journal",
+      "year": 2026
+    },
+    {
+      "expected_month": 8,
+      "frequency": "annual",
+      "scope": "Research track main conference papers.",
+      "source": "ACM Digital Library / KDD proceedings",
+      "state": "pending_due",
+      "venue": "KDD",
+      "venue_type": "conference",
       "year": 2026
     },
     {
@@ -760,26 +780,6 @@
       "source": "ACL Anthology",
       "state": "watching",
       "venue": "EMNLP",
-      "venue_type": "conference",
-      "year": 2026
-    },
-    {
-      "expected_month": 8,
-      "frequency": "annual",
-      "scope": "Main conference accepted papers.",
-      "source": "IJCAI proceedings",
-      "state": "watching",
-      "venue": "IJCAI",
-      "venue_type": "conference",
-      "year": 2026
-    },
-    {
-      "expected_month": 8,
-      "frequency": "annual",
-      "scope": "Research track main conference papers.",
-      "source": "ACM Digital Library / KDD proceedings",
-      "state": "watching",
-      "venue": "KDD",
       "venue_type": "conference",
       "year": 2026
     },
