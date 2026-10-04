@@ -248,9 +248,9 @@
     "covered_papers": 159732,
     "covered_topics": 7483,
     "covered_venue_years": 161,
-    "pending_due": 42,
+    "pending_due": 44,
     "rolling_refresh": 8,
-    "watching": 4
+    "watching": 2
   },
   "update_queue": [
     {
@@ -574,6 +574,26 @@
       "year": 2026
     },
     {
+      "expected_month": 10,
+      "frequency": "annual",
+      "scope": "Main conference accepted papers.",
+      "source": "ACM Digital Library / ACM MM proceedings",
+      "state": "pending_due",
+      "venue": "ACMMM",
+      "venue_type": "conference",
+      "year": 2026
+    },
+    {
+      "expected_month": 10,
+      "frequency": "biennial_even",
+      "scope": "Main conference accepted papers.",
+      "source": "ECCV proceedings / CVF or Springer",
+      "state": "pending_due",
+      "venue": "ECCV",
+      "venue_type": "conference",
+      "year": 2026
+    },
+    {
       "expected_month": 7,
       "frequency": "annual",
       "scope": "Main conference accepted papers.",
@@ -751,26 +771,6 @@
       "state": "rolling_refresh",
       "venue": "TNNLS",
       "venue_type": "journal",
-      "year": 2026
-    },
-    {
-      "expected_month": 10,
-      "frequency": "annual",
-      "scope": "Main conference accepted papers.",
-      "source": "ACM Digital Library / ACM MM proceedings",
-      "state": "watching",
-      "venue": "ACMMM",
-      "venue_type": "conference",
-      "year": 2026
-    },
-    {
-      "expected_month": 10,
-      "frequency": "biennial_even",
-      "scope": "Main conference accepted papers.",
-      "source": "ECCV proceedings / CVF or Springer",
-      "state": "watching",
-      "venue": "ECCV",
-      "venue_type": "conference",
       "year": 2026
     },
     {
