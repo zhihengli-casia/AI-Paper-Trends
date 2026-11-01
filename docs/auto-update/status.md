@@ -15,9 +15,9 @@ Conference entries follow proceedings-style schedules. Journal entries follow a 
 - Covered venue-year groups: **161**
 - Covered papers: **159,732**
 - Covered fine topics: **7,483**
-- Pending due venue-years: **44**
+- Pending due venue-years: **45**
 - Rolling refresh venue-years: **8**
-- Watching venue-years: **2**
+- Watching venue-years: **1**
 
 ## Update Queue
 
@@ -57,6 +57,7 @@ Conference entries follow proceedings-style schedules. Journal entries follow a 
 | ACL | 2026 | conference | `pending_due` | annual | 7 | ACL Anthology | Main conference papers only; Findings and industry tracks are excluded. |
 | ACMMM | 2026 | conference | `pending_due` | annual | 10 | ACM Digital Library / ACM MM proceedings | Main conference accepted papers. |
 | ECCV | 2026 | conference | `pending_due` | biennial_even | 10 | ECCV proceedings / CVF or Springer | Main conference accepted papers. |
+| EMNLP | 2026 | conference | `pending_due` | annual | 11 | ACL Anthology | Main conference papers only; Findings and industry tracks are excluded. |
 | ICML | 2026 | conference | `pending_due` | annual | 7 | PMLR / OpenReview when available | Main conference accepted papers. |
 | IJCAI | 2026 | conference | `pending_due` | annual | 8 | IJCAI proceedings | Main conference accepted papers. |
 | IJCV | 2026 | journal | `pending_due` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
@@ -75,7 +76,6 @@ Conference entries follow proceedings-style schedules. Journal entries follow a 
 | TKDE | 2026 | journal | `rolling_refresh` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
 | TMM | 2026 | journal | `rolling_refresh` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
 | TNNLS | 2026 | journal | `rolling_refresh` | rolling | 1 | OpenAlex journal source metadata | Rolling publication-year journal articles. |
-| EMNLP | 2026 | conference | `watching` | annual | 11 | ACL Anthology | Main conference papers only; Findings and industry tracks are excluded. |
 | NeurIPS | 2026 | conference | `watching` | annual | 12 | NeurIPS proceedings / OpenReview | Main conference accepted papers. |
 
 ## Current Coverage

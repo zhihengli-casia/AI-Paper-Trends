@@ -248,9 +248,9 @@
     "covered_papers": 159732,
     "covered_topics": 7483,
     "covered_venue_years": 161,
-    "pending_due": 44,
+    "pending_due": 45,
     "rolling_refresh": 8,
-    "watching": 2
+    "watching": 1
   },
   "update_queue": [
     {
@@ -594,6 +594,16 @@
       "year": 2026
     },
     {
+      "expected_month": 11,
+      "frequency": "annual",
+      "scope": "Main conference papers only; Findings and industry tracks are excluded.",
+      "source": "ACL Anthology",
+      "state": "pending_due",
+      "venue": "EMNLP",
+      "venue_type": "conference",
+      "year": 2026
+    },
+    {
       "expected_month": 7,
       "frequency": "annual",
       "scope": "Main conference accepted papers.",
@@ -771,16 +781,6 @@
       "state": "rolling_refresh",
       "venue": "TNNLS",
       "venue_type": "journal",
-      "year": 2026
-    },
-    {
-      "expected_month": 11,
-      "frequency": "annual",
-      "scope": "Main conference papers only; Findings and industry tracks are excluded.",
-      "source": "ACL Anthology",
-      "state": "watching",
-      "venue": "EMNLP",
-      "venue_type": "conference",
       "year": 2026
     },
     {
